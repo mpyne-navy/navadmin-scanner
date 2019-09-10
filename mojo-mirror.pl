@@ -28,10 +28,7 @@ sub pull_navadmin_year_links
     my $BASE_URL = 'https://www.public.navy.mil/bupers-npc/reference/messages/NAVADMINS/Pages/default.aspx';
     my $base = Mojo::URL->new($BASE_URL);
 
-    my $tx = $ua->build_tx(GET => $BASE_URL);
-    $tx->req->headers->remove('User-Agent');
-
-    my $promise = $ua->start_p($tx)
+    my $promise = $ua->get_p($BASE_URL)
         ->then(sub {
             my $tx = shift;
             die ("Something broke: " . $tx->message)
