@@ -54,12 +54,20 @@ my $ua = Mojo::UserAgent->new;
 my @year_links;
 
 pull_navadmin_year_links($ua)->then(sub {
-    @year_links = @_;
+    my @promises = map { $ua->get_p($_)->then(sub {
+        my $tx = shift;
+        my $req_url = $tx->req->url->to_abs;
+        die "Failed to load $req_url: $tx->result->message"
+            if $tx->result->is_error;
+        say "Loaded NAVADMINs for $req_url";
+        my @links = read_navadmin_listing($tx->result->body);
+        push @year_links, @links;
+        return 1;
+    })} (@_);
+
+    return Mojo::Promise->all(@promises);
 })->catch(sub {
     say "An error occurred! $_[0]";
 })->wait;
 
-say "Would GET $_" foreach @year_links;
-
-#my @links = read_navadmin_listing($file->slurp);
-#say $_ foreach @links;
+say "Ended up knowing about ", scalar @year_links, " separate NAVADMINs";
