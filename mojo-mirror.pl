@@ -13,7 +13,7 @@ sub read_navadmin_listing
 {
     my $dom = Mojo::DOM->new(shift);
     my $links_ref = $dom->find('a')
-        ->grep(sub { ($_->attr("href") // "") =~ qr/\.txt$/})
+        ->grep(sub { ($_->attr("href") // "") =~ qr(NAV[^/]*\.txt$)})
         ->map(attr => 'href')
         ->to_array;
 
