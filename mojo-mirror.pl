@@ -6,6 +6,9 @@ use Mojo::DOM;
 use Mojo::Collection;
 use Mojo::File;
 use Mojo::UserAgent;
+use Mojo::URL;
+
+use Time::HiRes qw(usleep);
 
 # Reads a binary blob of HTML and pulls out list of .txt hyperlinks
 sub read_navadmin_listing
@@ -48,7 +51,7 @@ sub pull_navadmin_year_links
 }
 
 my $ua = Mojo::UserAgent->new;
-my @year_links;
+my @navadmin_urls;
 
 pull_navadmin_year_links($ua)->then(sub {
     my @promises = map { $ua->get_p($_)->then(sub {
@@ -56,9 +59,11 @@ pull_navadmin_year_links($ua)->then(sub {
         my $req_url = $tx->req->url->to_abs;
         die "Failed to load $req_url: $tx->result->message"
             if $tx->result->is_error;
+
         say "Loaded NAVADMINs for $req_url";
         my @links = read_navadmin_listing($tx->result->body);
-        push @year_links, @links;
+
+        push @navadmin_urls, map { $req_url->clone->path($_) } (@links);
         return 1;
     })} (@_);
 
@@ -67,4 +72,31 @@ pull_navadmin_year_links($ua)->then(sub {
     say "An error occurred! $_[0]";
 })->wait;
 
-say "Ended up knowing about ", scalar @year_links, " separate NAVADMINs";
+say "Ended up knowing about ", scalar @navadmin_urls, " separate NAVADMINs";
+
+my %errors;
+while (my $url = shift @navadmin_urls) {
+    my $name = $url->to_string;
+    $name =~ s(^.*/)(); # Remove everything up to last /
+    next if -e $name;   # Don't clobber files we've already downloaded
+                        # TODO: Check if modified?
+    say "Downloading NAVADMIN $name";
+
+    my $result = $ua->get($url)->result;
+    if ($result->is_error) {
+        $errors{$url->to_string} = {
+            code => $result->code,
+            msg  => $result->message,
+        };
+        say STDERR "Failed to download $url: ", $result->code;
+    }
+
+    # Save file to disk
+    $result->save_to($name);
+
+    usleep (30000); # Some slowdown out of respect to the giant Sharepoint in the sky
+}
+
+while (my ($url, $err) = each %errors) {
+    say "$url failed: ", $err->{code}, " ", $err->{msg};
+}
