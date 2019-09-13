@@ -75,9 +75,12 @@ pull_navadmin_year_links($ua)->then(sub {
 say "Ended up knowing about ", scalar @navadmin_urls, " separate NAVADMINs";
 
 my %errors;
+mkdir ("NAVADMIN") unless -e "NAVADMIN";
+
 while (my $url = shift @navadmin_urls) {
     my $name = $url->to_string;
     $name =~ s(^.*/)(); # Remove everything up to last /
+    $name = "NAVADMIN/$name";
     next if -e $name;   # Don't clobber files we've already downloaded
                         # TODO: Check if modified?
     say "Downloading NAVADMIN $name";
