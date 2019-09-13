@@ -61,7 +61,20 @@ pull_navadmin_year_links($ua)->then(sub {
             if $tx->result->is_error;
 
         say "Loaded NAVADMINs for $req_url";
+
+        # Assume that if NAVADMIN folder doesn't exist, that we've never run
+        # Otherwise, that we just want updates for this year.
         my @links = read_navadmin_listing($tx->result->body);
+
+        my $year = (localtime(time))[5] + 1900;
+        if (-e '.has-run' && $req_url !~ /$year.aspx$/) {
+            say "\tWill skip";
+            return 1;
+        } else {
+            open my $fh, '>', '.has-run';
+            say $fh "NAVADMIN scanner has run";
+            close $fh;
+        }
 
         push @navadmin_urls, map { $req_url->clone->path($_) } (@links);
         return 1;
