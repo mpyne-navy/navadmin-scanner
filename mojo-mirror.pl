@@ -2,6 +2,7 @@
 
 use v5.18;
 
+use Mojo::Date;
 use Mojo::DOM;
 use Mojo::Collection;
 use Mojo::File;
@@ -60,17 +61,16 @@ pull_navadmin_year_links($ua)->then(sub {
         die "Failed to load $req_url: $tx->result->message"
             if $tx->result->is_error;
 
-        say "Loaded NAVADMINs for $req_url";
-
         # Assume that if NAVADMIN folder doesn't exist, that we've never run
         # Otherwise, that we just want updates for this year.
         my @links = read_navadmin_listing($tx->result->body);
 
         my $year = (localtime(time))[5] + 1900;
         if (-e '.has-run' && $req_url !~ /$year.aspx$/) {
-            say "\tWill skip";
             return 1;
         } else {
+            say "Loaded NAVADMINs for $req_url";
+
             open my $fh, '>', '.has-run';
             say $fh "NAVADMIN scanner has run";
             close $fh;
@@ -85,30 +85,37 @@ pull_navadmin_year_links($ua)->then(sub {
     say "An error occurred! $_[0]";
 })->wait;
 
-say "Ended up knowing about ", scalar @navadmin_urls, " separate NAVADMINs";
-
 my %errors;
 mkdir ("NAVADMIN") unless -e "NAVADMIN";
+
+say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
 
 while (my $url = shift @navadmin_urls) {
     my $name = $url->to_string;
     $name =~ s(^.*/)(); # Remove everything up to last /
     $name = "NAVADMIN/$name";
-    next if -e $name;   # Don't clobber files we've already downloaded
-                        # TODO: Check if modified?
-    say "Downloading NAVADMIN $name";
 
-    my $result = $ua->get($url)->result;
+    my $req;
+    if (-e $name) {
+        my $ctime = (stat(_))[10];
+        my $date = Mojo::Date->new($ctime)->to_string;
+        $req = $ua->get($url, { 'If-Modified-Since' => "$date" });
+    } else {
+        $req = $ua->get($url);
+    }
+
+    my $result = $req->result;
     if ($result->is_error) {
         $errors{$url->to_string} = {
             code => $result->code,
             msg  => $result->message,
         };
         say STDERR "Failed to download $url: ", $result->code;
+    } elsif (!$result->is_empty) {
+        # Save file to disk
+        say "Downloaded $name";
+        $result->save_to($name);
     }
-
-    # Save file to disk
-    $result->save_to($name);
 
     usleep (30000); # Some slowdown out of respect to the giant Sharepoint in the sky
 }
@@ -116,3 +123,5 @@ while (my $url = shift @navadmin_urls) {
 while (my ($url, $err) = each %errors) {
     say "$url failed: ", $err->{code}, " ", $err->{msg};
 }
+
+say "Done";
