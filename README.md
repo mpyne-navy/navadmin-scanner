@@ -33,11 +33,17 @@ NAVADMIN files to re-download from the server if the NAVADMIN is changed.
 
 ## Serving up NAVADMINs
 
-After downloading the NAVADMINs, you can run `./navadmin-viewer.pl` to run a
-simple Web server (also powered by Mojolicious) to list NAVADMINs and serve up
-individual NAVADMINs. It is pretty bare at this point but wouldn't be too hard
-to pretty up.
+After downloading the NAVADMINs, you can run `./navadmin-viewer.pl daemon` to
+run a simple Web server (also powered by Mojolicious) to list NAVADMINs and
+serve up individual NAVADMINs. It is pretty bare at this point but wouldn't be
+too hard to pretty up.
 
 Please don't actually run this on a production website if you aren't familiar
 enough with Mojolicious to set it up, I haven't configure CSRF token support or
 client secret configs or running with hypnotoad or any of that fun stuff.
+
+The resulting web server will by default run at localhost port 3000, i.e.
+[this link](http://localhost:3000/). You can also simply run the script
+directly to show off which routes are configured (`./navadmin-viewer.pl
+routes`) or test the response of a given GET request without a browser
+(`./navadmin-viewer.pl get /by-year/2019`).
