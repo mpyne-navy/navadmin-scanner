@@ -5,34 +5,39 @@ use Mojolicious::Validator;
 
 use File::Glob;
 
+my %navadmin_by_year;
+
+# Find known NAVADMINs and build up data mapping for later
+foreach my $file (glob("NAVADMIN/NAV*.txt")) {
+    my ($twoyr, $id) = ($file =~ m/^NAVADMIN\/NAV([0-9]{2})([0-9]{3})\.txt$/);
+
+    if (!($twoyr && $id)) {
+        say "Skipping $file!";
+        next;
+    }
+
+    my $year = $twoyr + (($twoyr > 80) ? 1900 : 2000);
+    $navadmin_by_year{$year}->{$id} = $file;
+}
+
 get '/' => sub {
     my $c = shift;
-    $c->render(template => 'index');
+    $c->render(template => 'index', years => [sort keys %navadmin_by_year]);
 };
 
 get '/by-year/:year' => sub {
     my $c = shift;
     my $year = int($c->stash('year'));
 
-    if ($year < 2005 || $year > 2019) {
+    if (!exists $navadmin_by_year{$year}) {
         $c->reply->not_found;
         return;
     }
 
+    my $navadmins_for_year_ref = $navadmin_by_year{$year};
     my $two_digit_year = sprintf("%02d", $year % 100);
-    my @list = glob("NAVADMIN/NAV$two_digit_year*.txt");
-    if (!@list) {
-        $c->reply->exception("Couldn't find NAVADMIN!");
-        return;
-    }
+    my @list = map { "$_/$two_digit_year" } (sort keys %{$navadmins_for_year_ref});
 
-    foreach (@list) {
-        s/^NAVADMIN.//;
-        s/\.txt$//;
-        s/^NAV..//; # we already know the year
-    }
-
-    @list = map { "$_/$two_digit_year" } (@list);
     $c->render(template => 'list-by-year', navadmin_list => \@list);
 } => 'list-by-year';
 
@@ -60,10 +65,16 @@ __DATA__
 
 @@ index.html.ep
 % layout 'default';
-% title 'Welcome';
+% title 'NAVADMIN Viewer';
 <h1>NAVADMIN Viewer</h1>
 
-<p>See <a href="<%= url_for('list-by-year', {year => 2019}) %>">Listing for 2019</a>.</p>
+This server has NAVADMINs on file for the following years:
+
+<ul>
+% for my $year (@{$years}) {
+<li><a href="<%= url_for('list-by-year', {year => $year}) %>">Listing for <%= $year %></a>.</li>
+% }
+</ul>
 
 @@ list-by-year.html.ep
 % layout 'default';
