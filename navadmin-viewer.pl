@@ -71,6 +71,36 @@ get '/NAVADMIN/:id/:twoyr'
     }
 } => 'serve-navadmin';
 
+get '/NAVADMIN' => sub {
+    my $c = shift;
+    my $qsrch = $c->req->query_params->param('q');
+
+    if (!$qsrch) {
+        $c->redirect_to('list-all');
+        return;
+    }
+
+    $qsrch = lc $qsrch;
+    my @results;
+    for my $year (sort keys %navadmin_by_year) {
+        my $navadmins_for_year_ref = $navadmin_by_year{$year};
+        my $two_digit_year = sprintf("%02d", $year % 100);
+
+        my @ids = map { "$_/$two_digit_year" } (sort keys %{$navadmins_for_year_ref});
+        push @results,
+            grep { index(lc $navadmin_subj{$_}, $qsrch) != -1 }
+            grep { exists $navadmin_subj{$_} }
+                (@ids);
+    }
+
+    $c->render(
+        template => 'list-navadmins',
+        list_title => 'Search Results',
+        navadmin_list => \@results,
+        subjects => \%navadmin_subj
+    );
+} => 'search-navadmin';
+
 get '/NAVADMIN/all' => sub {
     my $c = shift;
 
