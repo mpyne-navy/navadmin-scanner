@@ -66,6 +66,19 @@ get '/NAVADMIN/:id/:twoyr'
     }
 } => 'serve-navadmin';
 
+get '/NAVADMIN/all' => sub {
+    my $c = shift;
+
+    my @list;
+    for my $year (sort keys %navadmin_by_year) {
+        my $navadmins_for_year_ref = $navadmin_by_year{$year};
+        my $two_digit_year = sprintf("%02d", $year % 100);
+        push @list, map { "$_/$two_digit_year" } (sort keys %{$navadmins_for_year_ref});
+    }
+
+    $c->render(template => 'list-all', navadmin_list => \@list, subjects => \%navadmin_subj);
+} => 'list-all';
+
 app->start;
 
 __DATA__
@@ -81,13 +94,32 @@ This server has NAVADMINs on file for the following years:
 % for my $year (@{$years}) {
 <li><a href="<%= url_for('list-by-year', {year => $year}) %>">Listing for <%= $year %></a>.</li>
 % }
+<li><a href="<%= url_for('list-all') %>">All NAVADMINs</a></li>
 </ul>
 
 @@ list-by-year.html.ep
 % layout 'default';
 % title "List for $year";
 
-<h3>Here are some NAVADMINs:</h3>
+<h3>NAVADMINs sent in <%= $year %>:</h3>
+<ul>
+<!-- URL here based on format supported by 'serve-navadmin' route -->
+% for my $i (@{$navadmin_list}) {
+%   if (my $subj = $subjects->{$i}) {
+<li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %> - <%= $subj %></a></li>
+%   } else {
+<li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %></a></li>
+%   }
+% }
+</ul>
+
+@@ list-all.html.ep
+% layout 'default';
+% title 'All NAVADMIN listing';
+
+<h3>All recorded NAVADMINs:</h3>
+<div class="total_count"><%= scalar @{$navadmin_list} %> total</div>
+
 <ul>
 <!-- URL here based on format supported by 'serve-navadmin' route -->
 % for my $i (@{$navadmin_list}) {
