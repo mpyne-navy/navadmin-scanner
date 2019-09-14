@@ -36,6 +36,24 @@ get '/by-year/:year' => sub {
     $c->render(template => 'list-by-year', navadmin_list => \@list);
 } => 'list-by-year';
 
+# The extra => [] adds built-in placeholder restrictions
+get '/NAVADMIN/:id/:twoyr'
+=> [id => qr/\d{3}/, twoyr => qr/\d{2}/]
+=> sub {
+    my $c = shift;
+    my $id = $c->stash('id');
+    my $twoyr = $c->stash('twoyr');
+
+    my $name = "NAVADMIN/NAV$twoyr$id.txt";
+    return $c->reply->not_found
+        unless -e "$name";
+
+    $c->res->headers->content_type('text/plain');
+    if (!$c->reply->file($c->app->home->child($name))) {
+        $c->reply->exception("Couldn't serve the NAVADMIN!");
+    }
+} => 'serve-navadmin';
+
 app->start;
 
 __DATA__
@@ -53,6 +71,7 @@ __DATA__
 
 <h3>Here are some NAVADMINs:</h3>
 <ul>
+<!-- URL here based on format supported by 'serve-navadmin' route -->
 % for my $i (@{$navadmin_list}) {
 <li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %></a></li>
 % }
