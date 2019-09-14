@@ -38,7 +38,7 @@ get '/by-year/:year' => sub {
 
 # The extra => [] adds built-in placeholder restrictions
 get '/NAVADMIN/:id/:twoyr'
-=> [id => qr/\d{3}/, twoyr => qr/\d{2}/]
+=> [id => qr/[0-9]{3}/, twoyr => qr/[0-9]{2}/]
 => sub {
     my $c = shift;
     my $id = $c->stash('id');
