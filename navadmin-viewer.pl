@@ -6,6 +6,7 @@ use Mojolicious::Validator;
 use File::Glob;
 
 my %navadmin_by_year;
+my %navadmin_subj;
 
 # Find known NAVADMINs and build up data mapping for later
 foreach my $file (glob("NAVADMIN/NAV*.txt")) {
@@ -18,6 +19,12 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
 
     my $year = $twoyr + (($twoyr > 80) ? 1900 : 2000);
     $navadmin_by_year{$year}->{$id} = $file;
+
+    # Try to find subject
+    my $content = Mojo::File->new($file)->slurp;
+    my ($subj) = ($content =~ m(SUBJ/[/\s]*(.*)//));
+    $navadmin_subj{"$id/$twoyr"} = $subj
+        if $subj;
 }
 
 get '/' => sub {
@@ -38,7 +45,7 @@ get '/by-year/:year' => sub {
     my $two_digit_year = sprintf("%02d", $year % 100);
     my @list = map { "$_/$two_digit_year" } (sort keys %{$navadmins_for_year_ref});
 
-    $c->render(template => 'list-by-year', navadmin_list => \@list);
+    $c->render(template => 'list-by-year', navadmin_list => \@list, subjects => \%navadmin_subj);
 } => 'list-by-year';
 
 # The extra => [] adds built-in placeholder restrictions
@@ -84,7 +91,11 @@ This server has NAVADMINs on file for the following years:
 <ul>
 <!-- URL here based on format supported by 'serve-navadmin' route -->
 % for my $i (@{$navadmin_list}) {
+%   if (my $subj = $subjects->{$i}) {
+<li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %> - <%= $subj %></a></li>
+%   } else {
 <li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %></a></li>
+%   }
 % }
 </ul>
 
