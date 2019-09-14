@@ -19,7 +19,7 @@ get '/by-year/:year' => sub {
         return;
     }
 
-    my $two_digit_year = $year % 100;
+    my $two_digit_year = sprintf("%02d", $year % 100);
     my @list = glob("NAVADMIN/NAV$two_digit_year*.txt");
     if (!@list) {
         $c->reply->exception("Couldn't find NAVADMIN!");
