@@ -156,16 +156,28 @@ This server has NAVADMINs on file for the following years:
 <h3><%= $list_title %>:</h3>
 <div class="total_count"><%= scalar @{$navadmin_list} %> total</div>
 
-<ul>
-<!-- URL here based on format supported by 'serve-navadmin' route -->
+<table border="1">
+  <thead>
+    <tr>
+      <th>NAVADMIN</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+
+  <!-- URLs here based on format supported by 'serve-navadmin' route -->
+  <tbody>
 % for my $i (@{$navadmin_list}) {
+    <tr>
+      <td><%= $i %></td>
 %   if (my $subj = $subjects->{$i}) {
-<li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %> - <%= $subj %></a></li>
+      <td><a href="/NAVADMIN/<%= $i %>"><%= $subj %></a></td>
 %   } else {
-<li><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %></a></li>
+      <td><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %> - Unknown title</a></td>
 %   }
+    </tr>
 % }
-</ul>
+  </tbody>
+</table>
 
 @@ layouts/default.html.ep
 <!DOCTYPE html>
