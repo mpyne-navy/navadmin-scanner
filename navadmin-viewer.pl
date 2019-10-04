@@ -29,7 +29,7 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
 
 get '/' => sub {
     my $c = shift;
-    $c->render(template => 'index', years => [sort keys %navadmin_by_year]);
+    $c->render(template => 'index', years => [reverse sort keys %navadmin_by_year]);
 };
 
 get '/by-year/:year' => sub {
@@ -43,7 +43,7 @@ get '/by-year/:year' => sub {
 
     my $navadmins_for_year_ref = $navadmin_by_year{$year};
     my $two_digit_year = sprintf("%02d", $year % 100);
-    my @list = map { "$_/$two_digit_year" } (sort keys %{$navadmins_for_year_ref});
+    my @list = map { "$_/$two_digit_year" } (reverse sort keys %{$navadmins_for_year_ref});
 
     $c->render(
         template => 'list-navadmins',
@@ -82,11 +82,11 @@ get '/NAVADMIN' => sub {
 
     $qsrch = lc $qsrch;
     my @results;
-    for my $year (sort keys %navadmin_by_year) {
+    for my $year (reverse sort keys %navadmin_by_year) {
         my $navadmins_for_year_ref = $navadmin_by_year{$year};
         my $two_digit_year = sprintf("%02d", $year % 100);
 
-        my @ids = map { "$_/$two_digit_year" } (sort keys %{$navadmins_for_year_ref});
+        my @ids = map { "$_/$two_digit_year" } (reverse sort keys %{$navadmins_for_year_ref});
         push @results,
             grep { index(lc $navadmin_subj{$_}, $qsrch) != -1 }
             grep { exists $navadmin_subj{$_} }
