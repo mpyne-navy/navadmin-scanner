@@ -32,10 +32,11 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
     next unless @subj_lines;
 
     my $subj = join(' ', @subj_lines);
-    $subj =~ s(^SUBJ/+\s*)();
+    $subj =~ s(^SUBJ[/:]+\s*)();
     $subj =~ s(/+\s*$)();
 
-    next if length $subj > 180;
+    substr ($subj, 217) = '...'
+        if length $subj > 220;
     $navadmin_subj{"$id/$twoyr"} = $subj
 }
 
