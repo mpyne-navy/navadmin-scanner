@@ -21,14 +21,10 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
     $navadmin_by_year{$year}->{$id} = $file;
 
     # Try to find subject
-    my @content = split(/\r?\n/, Mojo::File->new($file)->slurp);
-    my @subj_lines;
+    my @subj_lines = grep {
+        m(^\s*SUBJ[/:]) .. m(//\s*$) # perl range operator
+    } split(/\r?\n/, Mojo::File->new($file)->slurp . " //");
 
-    foreach (@content) {
-        if (m(SUBJ/) .. m(//\s*$)) { # perl range operator
-            push @subj_lines, $_;
-        }
-    }
     next unless @subj_lines;
 
     my $subj = join(' ', @subj_lines);
