@@ -8,6 +8,9 @@ use File::Glob;
 my %navadmin_by_year;
 my %navadmin_subj;
 
+# Set static content directory (must be done early, before routes are defined)
+app->static->paths->[0] = app->home->child('assets');
+
 # Find known NAVADMINs and build up data mapping for later
 foreach my $file (glob("NAVADMIN/NAV*.txt")) {
     my ($twoyr, $id) = ($file =~ m/^NAVADMIN\/NAV([0-9]{2})([0-9]{3})\.txt$/);
@@ -135,7 +138,13 @@ __DATA__
 @@ index.html.ep
 % layout 'default';
 % title 'NAVADMIN Viewer';
-<h1>NAVADMIN Viewer</h1>
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li class="is-active"><a href="/">Home</a></li>
+  </ul>
+</nav>
+
+<h1 class="title">NAVADMIN Viewer</h1>
 
 This server has NAVADMINs on file for the following years:
 
@@ -150,10 +159,19 @@ This server has NAVADMINs on file for the following years:
 % layout 'default';
 % title $list_title;
 
-<h3><%= $list_title %>:</h3>
-<div class="total_count"><%= scalar @{$navadmin_list} %> total</div>
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="#">NAVADMINs</a></li>
+    <li class="is-active"><a href="#" aria-content="page"><%= $list_title %></a></li>
+  </ul>
+</nav>
 
-<table border="1">
+<h3 class="title"><%= $list_title %>:</h3>
+
+<p><span class="tag is-primary"><%= scalar @{$navadmin_list} %></span> listed NAVADMINs in this list:</p>
+
+<table class="table is-striped is-bordered is-hoverable">
   <thead>
     <tr>
       <th>NAVADMIN</th>
@@ -179,6 +197,17 @@ This server has NAVADMINs on file for the following years:
 @@ layouts/default.html.ep
 <!DOCTYPE html>
 <html>
-  <head><title><%= title %></title></head>
-  <body><%= content %></body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/css/bulma.css">
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <%= content %>
+    </div>
+  </section>
+  </body>
 </html>
