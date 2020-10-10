@@ -148,12 +148,14 @@ __DATA__
 
 This server has NAVADMINs on file for the following years:
 
-<ul>
+<div class="content">
+  <ul>
 % for my $year (@{$years}) {
-<li><a href="<%= url_for('list-by-year', {year => $year}) %>">Listing for <%= $year %></a>.</li>
+    <li><a href="<%= url_for('list-by-year', {year => $year}) %>">Listing for <%= $year %></a>.</li>
 % }
-<li><a href="<%= url_for('list-all') %>">All NAVADMINs</a></li>
-</ul>
+    <li><a href="<%= url_for('list-all') %>">All NAVADMINs</a></li>
+  </ul>
+</div>
 
 @@ list-navadmins.html.ep
 % layout 'default';
@@ -162,37 +164,39 @@ This server has NAVADMINs on file for the following years:
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="#">NAVADMINs</a></li>
+    <li><a href="/">NAVADMINs</a></li>
     <li class="is-active"><a href="#" aria-content="page"><%= $list_title %></a></li>
   </ul>
 </nav>
 
 <h3 class="title"><%= $list_title %>:</h3>
 
-<p><span class="tag is-primary"><%= scalar @{$navadmin_list} %></span> listed NAVADMINs in this list:</p>
+<div class="content">
+  <p><span class="tag is-primary"><%= scalar @{$navadmin_list} %></span> listed NAVADMINs in this list:</p>
 
-<table class="table is-striped is-bordered is-hoverable">
-  <thead>
-    <tr>
-      <th>NAVADMIN</th>
-      <th>Title</th>
-    </tr>
-  </thead>
+  <table class="table is-striped is-bordered is-hoverable">
+    <thead>
+      <tr>
+        <th>NAVADMIN</th>
+        <th>Title</th>
+      </tr>
+    </thead>
 
-  <!-- URLs here based on format supported by 'serve-navadmin' route -->
-  <tbody>
+    <!-- URLs here based on format supported by 'serve-navadmin' route -->
+    <tbody>
 % for my $i (@{$navadmin_list}) {
-    <tr>
-      <td><%= $i %></td>
+      <tr>
+        <td><%= $i %></td>
 %   if (my $subj = $subjects->{$i}) {
-      <td><a href="/NAVADMIN/<%= $i %>"><%= $subj %></a></td>
+        <td><a href="/NAVADMIN/<%= $i %>"><%= $subj %></a></td>
 %   } else {
-      <td><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %> - Unknown title</a></td>
+        <td><a href="/NAVADMIN/<%= $i %>">NAVADMIN <%= $i %> - Unknown title</a></td>
 %   }
-    </tr>
+      </tr>
 % }
-  </tbody>
-</table>
+    </tbody>
+  </table>
+</div>
 
 @@ layouts/default.html.ep
 <!DOCTYPE html>
