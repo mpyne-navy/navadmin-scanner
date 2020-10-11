@@ -274,6 +274,18 @@ This server has NAVADMINs on file for the following years:
       </div>
 
       <div class="navbar-end">
+        <div class="navbar-item">
+          <form action="<%= url_for('search-navadmin') %>" method="GET">
+            <div class="field has-addons">
+              <div class="control">
+                <input name="q" class="input" type="text" placeholder="Search NAVADMIN subjects...">
+              </div>
+              <div class="control">
+                <button class="button is-link">Search</button>
+              </div>
+            </div>
+          </form>
+        </div>
       </div>
     </div>
   </nav>
