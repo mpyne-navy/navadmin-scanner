@@ -60,6 +60,7 @@ get '/by-year/:year' => sub {
     $c->render(
         template => 'list-navadmins',
         list_title => "NAVADMINs sent in $year",
+        breadcrumb => $year,
         navadmin_list => \@list,
         subjects => \%navadmin_subj
     );
@@ -112,6 +113,7 @@ get '/NAVADMIN' => sub {
     $c->render(
         template => 'list-navadmins',
         list_title => 'Search Results',
+        breadcrumb => "NAVADMIN Subject search for $qsrch",
         navadmin_list => \@results,
         subjects => \%navadmin_subj
     );
@@ -129,7 +131,8 @@ get '/NAVADMIN/all' => sub {
 
     $c->render(
         template => 'list-navadmins',
-        list_title => 'All NAVADMIN listing',
+        list_title => 'List of all NAVADMINs',
+        breadcrumb => 'All',
         navadmin_list => \@list,
         subjects => \%navadmin_subj
     );
@@ -192,7 +195,7 @@ This server has NAVADMINs on file for the following years:
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/">NAVADMINs</a></li>
-    <li class="is-active"><a href="#" aria-content="page"><%= $list_title %></a></li>
+    <li class="is-active"><a href="#" aria-content="page"><%= $breadcrumb %></a></li>
   </ul>
 </nav>
 
