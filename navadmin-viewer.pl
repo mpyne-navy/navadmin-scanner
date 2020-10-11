@@ -73,14 +73,18 @@ get '/NAVADMIN/:id/:twoyr'
     my $id = $c->stash('id');
     my $twoyr = $c->stash('twoyr');
 
+    my $title = $navadmin_subj{"$id/$twoyr"};
+    return $c->reply->exception("Couldn't find the NAVADMIN!")
+        unless $title;
+
     my $name = "NAVADMIN/NAV$twoyr$id.txt";
     return $c->reply->not_found
         unless -e "$name";
 
-    $c->res->headers->content_type('text/plain');
-    if (!$c->reply->file($c->app->home->child($name))) {
-        $c->reply->exception("Couldn't serve the NAVADMIN!");
-    }
+    $c->render(template => 'show-navadmin',
+        navadmin_title => $title,
+        filepath => $name,
+    );
 } => 'serve-navadmin';
 
 get '/NAVADMIN' => sub {
@@ -155,6 +159,29 @@ This server has NAVADMINs on file for the following years:
 % }
     <li><a href="<%= url_for('list-all') %>">All NAVADMINs</a></li>
   </ul>
+</div>
+
+@@ show-navadmin.html.ep
+% layout 'default';
+% title $navadmin_title;
+% my $year = $twoyr > 80 ? "19$twoyr" : "20$twoyr";
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/">NAVADMINs</a></li>
+    <li><a href="<%= url_for('list-by-year', year => $year) %>"><%= $year %></a></li>
+    <li class="is-active"><a href="#" aria-content="page"><%= "NAVADMIN $id/$twoyr" %></a></li>
+  </ul>
+</nav>
+
+<h3 class="title"><%= $navadmin_title %>:</h3>
+
+<div class="content">
+<pre>
+% my $content = Mojo::File->new($filepath)->slurp;
+<%= b($content) %>
+</pre>
 </div>
 
 @@ list-navadmins.html.ep
