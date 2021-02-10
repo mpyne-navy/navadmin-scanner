@@ -40,7 +40,7 @@ sub pull_navadmin_year_links
             say "Result success, looking for hyperlinks";
             my $dom = $tx->result->dom;
             my $links_ref = $dom->find('a')
-                ->grep(sub { ($_->attr("href") // "") =~ qr(NAVADMIN[0-9]*\.aspx$)})
+                ->grep(sub { ($_->attr("href") // "") =~ qr(NAVADMIN-?[0-9]*\.aspx$)})
                 ->map(attr => 'href')
                 ->to_array;
 
