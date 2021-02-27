@@ -279,6 +279,7 @@ This server has NAVADMINs on file for the following years:
       </a>
     </div>
 
+    <!-- By default, does not show on mobile. Javascript to toggle visibility contained below. -->
     <div id="navbarMenu" class="navbar-menu">
       <div class="navbar-start">
         <a href="/" class="navbar-item">Home</a>
@@ -327,5 +328,22 @@ This server has NAVADMINs on file for the following years:
       <%= content %>
     </div>
   </section>
+
+  <!-- Toggle visibility of mobile menu -->
+  <!-- See https://bulma.io/documentation/components/navbar/ -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
+          const $target = document.getElementById(el.dataset.target);
+          el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+        });
+      });
+    });
+  </script>
+
   </body>
 </html>
