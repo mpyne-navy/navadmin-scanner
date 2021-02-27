@@ -42,6 +42,9 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
 
 @SORTED_YEARS = reverse sort keys %navadmin_by_year;
 
+# Now that we've loaded all NAVADMINs we are aware of, define the Web site
+# routes that we will support using Mojolicious::Lite's DSL.
+
 get '/' => sub {
     my $c = shift;
     $c->render(template => 'index', years => \@SORTED_YEARS);
@@ -148,6 +151,13 @@ get '/NAVADMIN/all' => sub {
 
 app->start;
 
+# This Perl tag closes out the Perl code and Perl will make everything *after*
+# this tag available to the code above under a filehandle known as "DATA".
+# Mojolicious::Lite uses this internally and splits this data up into
+# virtual files (each separate file tagged by @@).
+#
+# Files ending in .ep are "Embedded Perl", similar to other Web templating
+# frameworks.
 __DATA__
 
 @@ index.html.ep
