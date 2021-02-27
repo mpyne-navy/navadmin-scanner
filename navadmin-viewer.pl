@@ -44,6 +44,11 @@ get '/' => sub {
     $c->render(template => 'index', years => [reverse sort keys %navadmin_by_year]);
 };
 
+get '/about' => sub {
+    my $c = shift;
+    $c->render();
+};
+
 get '/by-year/:year' => sub {
     my $c = shift;
     my $year = int($c->stash('year'));
@@ -187,6 +192,28 @@ This server has NAVADMINs on file for the following years:
 </pre>
 </div>
 
+@@ about.html.ep
+% layout 'default';
+% title "About NAVADMIN Viewer";
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="<%= url_for('about') %>">About</a></li>
+  </ul>
+</nav>
+
+<h3 class="title"><%= stash 'title' %></h3>
+
+<div class="content">
+
+<p>This is a viewer for archived U.S. Navy administrative messages
+(NAVADMINs) dating back to 2005.</p>
+
+<p>Written by CDR Mike Pyne, USN</p>
+
+</div>
+
 @@ list-navadmins.html.ep
 % layout 'default';
 % title $list_title;
@@ -259,15 +286,17 @@ This server has NAVADMINs on file for the following years:
           </a>
 
           <div class="navbar-dropdown">
-            <a class="navbar-item">
-              About
+            <a class="navbar-item" href="https://github.com/mpyne-navy/navadmin-scanner">
+                Github
             </a>
+            <!--
             <a class="navbar-item">
               Contact
             </a>
+            -->
             <hr class="navbar-divider">
-            <a class="navbar-item">
-              Report an issue
+            <a class="navbar-item" href="<%= url_for('about') %>">
+              About
             </a>
           </div>
         </div>
