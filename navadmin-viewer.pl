@@ -187,6 +187,18 @@ This server has NAVADMINs on file for the following years:
 % title $navadmin_title;
 % my $year = $twoyr > 80 ? "19$twoyr" : "20$twoyr";
 
+%# Provide social media open graph metadata to make Twitter, Slack, etc.
+%# happy
+% content_for header_meta => begin
+    <meta property="og:title" content="<%= qq(NAVADMIN $id/$twoyr) %>" />
+    <meta property="og:type" content="website" />
+    <!-- og:image is required but I don't have an image or logo -->
+    <meta property="og:url" content="<%= url_for()->to_abs %>" />
+    <meta property="og:description" content="<%= $navadmin_title %>" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="NAVADMIN Scanner/Viewer (Unofficial)" />
+% end
+
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="/">Home</a></li>
@@ -276,6 +288,7 @@ This server has NAVADMINs on file for the following years:
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><%= title %></title>
     <link rel="stylesheet" href="/css/bulma.css">
+    <%= content 'header_meta' %>
   </head>
   <body>
   <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
