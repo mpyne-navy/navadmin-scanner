@@ -1,0 +1,124 @@
+UNCLASSIFIED//
+
+ATTENTION INVITED TO  
+
+ROUTINE
+
+R 172244Z MAY 11 PSN 364476K30
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+ZEN//OU=DOD/OU=NAVY/OU=ADDRESS LISTS(UC)/CN=AL NAVADMIN(UC)
+
+BT
+UNCLAS
+SECTION 2 OF 4
+QQQQ
+90,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+CTN         9308         *      5.0     5.0     A, B
+EOD         5337        0.0    -6.0    -6.0
+NUC         3353/63    +10.5    7.5     0.0     C
+NUC         3354/64      *      5.5     0.0     C
+NUC         3355/65      *     +9.0     0.0     C
+NUC         3356/66      *      6.5     0.0     C
+NUC         3383/93      *      8.0     0.0     C
+NUC         3384/94      *      5.5     0.0     C
+NUC         3385/95      *      6.5     0.0     C
+NUC         3386/96    +10.0    8.0     0.0     C
+SO          5326         *     -5.5    -6.0
+TIER TWO:
+45,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+AWV         8284       -0.0    -0.0     0.0
+CB          5931       -0.0     0.0     0.0
+CB          5932        2.5     1.0     0.0
+CB          5933        0.0     0.0     0.0
+CTT         0000        0.0     0.0     0.0
+CTT         9135       -0.0     0.0     0.0
+CTT         1702/3X    -1.0     1.0     0.0     B, D
+HM          8493       -2.0     0.0     0.0
+60,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+AC          0000       -0.0     0.0     0.0
+ETSS COMM   14XXA/EM/CM  *      1.0     0.0     D, E, F
+ETSS NAV    14XXB/NM/XM  *     -0.0     0.0
+FCA         0000       -1.0      *      0.0
+FT          11XX/13XX    *      0.5     0.0     D
+MN          0000       -0.0     0.0     0.0
+STS         0000         *     -0.0     0.0
+75,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+CTM         9225        2.0     1.0     0.0     B
+CTM         9229       -2.0     2.0     1.0     B
+FCA         0000         *     -1.0     0.0
+TIER THREE:
+45,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+AWF         8251       -0.0     0.0     0.0
+AWO         7841       -1.0    -0.5    -0.0
+AWO         7861       -0.0     0.0     0.0
+AWS         7815S      -1.5    -0.0    -0.0
+CB          5633       -0.0     1.0    -0.0
+CTR         0000       -0.0    -0.0    -0.0
+HM          8401       -0.0     0.0     0.0
+HM          8410        0.0    -0.0     0.0
+HM          8752       -0.0     0.0     0.0
+IC          4747        0.0     0.0    -0.0
+IT          0000       -0.0     0.0     0.0
+MMSS AUX    4230/31    -0.5     0.0     0.0     E
+MMSS WEP    4232/33    -1.0     0.0     0.0
+MT          33XX       -1.0    -0.5     0.0     D
+LCAC        0304        1.5     0.5     0.0     H
+OS          0318       -1.0     1.0     0.0
+OS          0319        0.0     2.0     1.0
+OS          0324       -0.0     1.5     0.0
+STG         0000       -0.0     0.0     0.0
+60,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+FC          0000       -0.0     0.0     0.0
+IS          3910        0.0    -1.0     0.0     A, B
+IS          3912       -0.0    -1.0     0.0     A, B, G
+IS          3923        0.0    -1.0     0.0     A, B
+IS          3924        0.0    -1.0     0.0     A, B
+75,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+ETSW        0000       -0.0     0.0     0.0
+FULL TIME SUPPORT SELECTIVE REENLISTMENT BONUS AWARD LEVELS:
+TIER THREE:
+45,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+AWF         8220        1.0     0.5     0.0   I, J
+AWF         8245        0.0     1.0     1.0   I, J
+AWF         8250        0.0     1.0     1.0   I, J
+AWF         8251        1.5     1.0     1.0   I, J
+AWF         8252        0.0     1.0     1.0   I, J
+AWF         82XX        0.5     0.0     0.0   I, J, K
+AE          0000        1.0     0.0     0.0   I, J
+AT          0000        1.0     1.0     0.0   I, J
+ET          0000       -0.0    -0.0     0.0   I, J
+
+4.  ESTABLISHMENT OF ITS RATING: ALL SAILORS WHO REENLIST PRIOR TO 1  OCT 2011 
+THAT WERE SELECTED FOR CONVERSION TO THE NEW ITS RATING MAY REQUEST SRB UNDER 
+ORIGINAL  SOURCE RATING PROVIDED ALL ELIGIBILITY CRITERIA REMAINS VALID OTHER 
+THAN NEW ITS DESIGNATION.
+
+5.  NOTES
+    A.  THE SRB FOR THIS RATING NAVY ENLISTED CLASSIFICATION
+(NEC) IS TIED TO AN INCUMBENT BILLET OR TO ORDERS NEGOTIATED FOR THE  NEXT 
+BILLET.  COMMANDS MUST VERIFY THE MEMBER IS CURRENTLY IN, OR HAS ORDERS TO, A 
+BILLET REQUIRING THIS  NEC AND ANNOTATE THIS VERIFICATION IN THE COMMENTS 
+SECTION OF THE PRECERT REQUEST, IF REENLISTMENT FOR  AN SRB IS INTENDED TO 
+FILL NAVY REQUIREMENTS FOR SPECIFIC SKILL SETS TIED TO THESE BILLETS.
+    B.  AN SRB APPROVAL FOR ALL CT, IS, AND IT RATINGS WILL BE CONTINGENT UPON 
+MEMBER HAVING A CURRENT SINGLE SCOPE BACKGROUND  INVESTIGATION (SSBI), AN 
+ACTIVE SSBI OR RECENT SUBMISSION OF AN SSBI PACKAGE.  COMMANDS MUST VERIFY THE  
+MEMBER HAS A CURRENT SSBI, ACTIVE SSBI, OR HAS SUBMITTED A SSBI PACKAGE AND 
+MAKE NOTE OF THIS IN THE COMMENTS SECTION OF THE PRECERT REQUEST.
+
+BT
+#0472
+NNNN
+UNCLASSIFIED//
+

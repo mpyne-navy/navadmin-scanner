@@ -1,0 +1,172 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 232003Z MAY 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 131/18
+
+SUBJ/INTERIM PROCEDURES FOR COMPLIANCE WITH DODI 5505.11 FINGERPRINT CARD AND 
+FINAL DISPOSITION REPORT SUBMISSION REQUIREMENTS//
+
+REF/A/DOC/NAVADMIN 076/18//
+
+REF/B/DOC/SECNAV MEMO/22 JAN 18//
+
+REF/C/DOC/DODI 5505.11/21 JUL 14//
+
+REF/D/DOC/DODI 5525.11/03 MAR 05//
+
+REF/E/DOC/DODI 6400.06/26 MAY 17//
+
+REF/F/DOC/DODD 5400.11/29 OCT 14//
+
+REF/G/DOC/18 U.S.C. SECTION 921 et seq//
+
+REF/H/DOC/34 U.S.C. SECTION 40901//
+
+NARR/REF A IS NAVADMIN 076/18, THE GUN CONTROL ACT OF 1968 CRIMINAL JUSTICE 
+INFORMATION REPORTING REQUIREMENTS, 29 MARCH 2018.  REF B IS SECRETARY OF THE 
+NAVY (SECNAV) MEMO TO THE CHIEF OF NAVAL OPERATIONS (CNO), COMMANDANT OF THE 
+MARINE CORPS (CMC) AND DIRECTOR, NAVAL CRIMINAL INVESTIGATIVE SERVICE (NCIS), 
+22 JANUARY 2018.  REF C IS DEPARTMENT OF DEFENSE (DOD) INSTRUCTION 5505.11, 
+FINGERPRINT CARD AND FINAL DISPOSITION REPORT SUBMISSION REQUIREMENTS, 21 
+JULY 2014 WITH CHANGE 2.  REF D IS DOD INSTRUCTION 5525.11, CRIMINAL 
+JURISDICTION OVER CIVILIANS EMPLOYED BY OR ACCOMPANYING THE ARMED FORCES 
+OUTSIDE THE UNITED STATES, CERTAIN SERVICE MEMBERS, AND FORMER SERVICE 
+MEMBERS, 03 MARCH 2005.  REF E IS DOD INSTRUCTION 6400.06, DOMESTIC ABUSE 
+INVOLVING DOD MILITARY AND CERTAIN AFFILIATED PERSONNEL, 26 MAY 2017.  REF F 
+IS DOD DIRECTIVE 5400.11, THE DOD PRIVACY PROGRAM, 29 OCTOBER 2014.  REF G IS 
+TITLE 18, U.S.C., SECTION 921 ET SEQ, CRIMES AND CRIMINAL PROCEDURE.  REF H 
+IS TITLE 34, U.S.C., SECTION 40901, ESTABLISHMENT OF THE NATIONAL INSTANT 
+CRIMINAL BACKGROUND CHECK SYSTEM.// POC/OPNAV N462/MR. MARK SINDER/TEL: 703-
+695-5534/
+EMAIL: MARK.SINDER@NAVY.MIL//
+
+RMKS/1.  Per references (a) through (h), the Navy is required to report 
+offender criminal history data to the Naval Criminal Investigative Service 
+(NCIS) for forwarding to the Federal Bureau of Investigation (FBI) for 
+inclusion in the National Crime Information Center (NCIC) criminal history 
+database.  Reference (a) ensures Navy compliance with the Gun Control Act of 
+1968.  This NAVADMIN ensures Navy compliance with SECNAV and DOD requirements 
+as directed in references (b) and (c), which require accurate and timely 
+reporting of Arrest and Institution Fingerprint Cards (FD-249) and Final 
+Disposition Reports (R-84).  Reporting requirements under this NAVADMIN are 
+supplemental to the reporting requirements associated with the Gun Control 
+Act of 1986.  Reference (a) is not superseded by this NAVADMIN.
+
+2.  Policy.
+a.  Military Personnel.  An FD-249 will be used to electronically submit 
+fingerprints for all service members investigated by NCIS or Commander, Navy 
+Installations Command (CNIC) law enforcement personnel when, based on a 
+probable cause standard determined in conjunction with the Servicing Staff 
+Judge Advocate (SJA) or other legal advisor, probable cause exists to believe 
+that a service member has committed an offense listed in enclosure 2 of 
+reference (c).  Fingerprints will be taken at the time of apprehension, 
+arrest, or the subject interview.  An R-84 will be submitted upon final 
+disposition of the case, in accordance with paragraph 3 of this NAVADMIN.
+(1) Submission of an FD-249 and an R-84 is not required when an investigation 
+is conducted solely by afloat command personnel, tenant command personnel, or 
+installation command non-law enforcement personnel, and the final disposition 
+of the case results in administrative action or non-judicial punishment.
+(2) Submission of an FD-249 is required for all service members upon 
+preferral of charges with a view toward court-martial, if not previously 
+submitted.  This applies whether NCIS, CNIC law enforcement personnel, or 
+afloat, tenant or installation command personnel conduct the investigation.  
+Preferred court-martial charges are reflected on DD Form 458 of May 2000.
+b.  Civilians.  An FD-249 will be used to electronically submit fingerprints 
+for all civilians investigated by NCIS or CNIC law enforcement personnel 
+when, based on a probable cause standard determined in conjunction with the 
+Servicing SJA or other legal advisor, probable cause exists to believe that a 
+civilian has committed an offense equivalent to those listed in enclosure 2 
+of reference (c).  Fingerprints will be taken at the time of apprehension, 
+arrest, or subject interview.  An R-84 will be submitted upon final 
+disposition of the case, in accordance with paragraph 3 of this NAVADMIN.  
+The requirements of this paragraph apply to civilians employed by the Armed 
+Forces and civilians accompanying the Armed Forces subject to the Military 
+Extraterritorial Jurisdiction Act while outside of the United States, as 
+detailed in reference (d).
+c.  Foreign Law Enforcement Organizations.  An FD-249 will be used to 
+electronically submit fingerprints for all military personnel, DOD employees, 
+DOD contractors, and their respective dependents being investigated by 
+foreign law enforcement organizations when, based on a probable cause 
+standard determined in conjunction with the Servicing SJA or other legal 
+advisor, probable cause exists to believe that the subject has committed an 
+offense equivalent to those listed in enclosure 2 of reference (c), and the 
+foreign investigation has been made available to NCIS or the subjects 
+command.  An R-84 will be submitted upon final disposition of the case, in 
+accordance with paragraph 3 of this NAVADMIN.
+
+3.  Responsibilities.
+a.  Director, Shore Readiness (OPNAV N46).  OPNAV N46 will update OPNAVINST 
+5530.14E to include criminal justice information reporting requirements as 
+outlined in this NAVADMIN and in reference (a).
+b.  CNIC.
+(1) When required by paragraph 2 of this NAVADMIN, an FD-249 must be 
+submitted to NCIS electronically using a Live Scan device.
+(2) When an FD-249 has been submitted by CNIC law enforcement personnel, an 
+R-84 must be submitted as soon as practicable, but no later than 5 days after 
+notification of the final disposition of a case.  The R-84 should be 
+completed per the directions outlined in enclosure 4 of reference (c).  If 
+NCIS submitted the FD-249, NCIS will submit the R-84.
+(3) CNIC will ensure all CNIC law enforcement personnel are aware of the 
+reportable offenses listed in enclosure 2 of reference (c), have access to 
+Live Scan electronic fingerprint technology, and understand the submission 
+directions outlined in enclosure 4 of reference (c).
+c.  Afloat and Ashore Navy Commanding Officers.
+(1) Whenever an FD-249 is submitted for a case, provide final disposition 
+information to the applicable submitting entity, either NCIS or CNIC law 
+enforcement personnel, within 5 calendar days of adjudication to ensure an R-
+84 is submitted within the required timeline.
+(2) If an FD-249 has not been previously submitted and a service member has 
+charges preferred with a view toward court-martial, escort the service member 
+to NCIS or CNIC law enforcement personnel for submission of an FD-249.
+(3) If a foreign law enforcement organization makes an investigation 
+available to the command and when, based on a probable cause standard 
+determined in conjunction with the Servicing SJA or other legal advisor, 
+probable cause exists to believe the subject has committed an offense 
+equivalent to those listed in enclosure 2 of reference (c), escort the 
+subject to NCIS or CNIC law enforcement personnel for submission of an FD-
+249.
+(4) If an R-84 has been submitted for a case, ensure that any subsequent 
+administrative or non-judicial appellate action that affects the original 
+case disposition is forwarded to the applicable submitting entity, either 
+NCIS or CNIC law enforcement personnel, for a corrected submission.
+(5) In accordance with reference (e), refer any reported or discovered 
+incident of domestic abuse or domestic violence to NCIS or CNIC law 
+enforcement personnel for investigation.
+(a) Domestic abuse is defined as domestic violence or a pattern of behavior 
+resulting in emotional/psychological abuse, economic control, and/or 
+interference with personal liberty that is directed toward a person who is a 
+current or former spouse, a person whom the abuser shares a child in common, 
+or a current or former intimate partner with whom the abuser shares or has 
+shared a common domicile.
+(b) Domestic violence encompasses offenses that involve the use, attempted 
+use, or threatened use of force or violence committed by a current or former 
+spouse, parent, or guardian of the victim; by a person with whom the victim 
+shares a child in common; by a person who is cohabitating with or has 
+cohabitated with the victim as a spouse, parent, or guardian; or by a person 
+similarly situated to a spouse, parent or guardian to the victim.
+d.  Office of the Judge Advocate General.  Ensure that any court -martial 
+appellate action affecting the original court-martial disposition reported 
+via R-84 is forwarded to the applicable submitting entity, either NCIS or 
+CNIC law enforcement personnel, for a corrected submission.
+
+4.  Criminal justice information will be handled in accordance with 
+references (a) and (f).
+
+5.  Released by VADM D. R. Smith, N4//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

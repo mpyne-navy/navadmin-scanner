@@ -1,0 +1,106 @@
+RTTUZYUW RHOIAAA0001 1711153-UUUU--RHSSSUU
+ZNR UUUUU
+R 201138Z JUN 14 PSN 880855K34
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+NAVADMIN 139/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUN//
+
+SUBJ/NAVY COMPLIANCE WITH ENTERPRISE DIRECTORY SERVICES (EDS)//
+
+REF/A/MSG/USCYBERCOM FT GEORGE G MEADE MD/DTG: 22151Z AUG 13/NOTAL//
+REF/B/ MEMO/DOD CIO WASHINGTON DC/23JAN2013/NOTAL//
+NARR/REF A IS THE USCYBERCOM WARNORD TO IMPLEMENT THE DOD EDS.  REF B
+IS THE DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER MANDATE FOR
+THE DEPARTMENT TO UTILIZE ENTERPRISE DIRECTORY SERVICES (EDS)//
+POC/JANICE HAITH/SES/ OPNAV N2N6BC/LOC: WASHINTON DC/TEL: (571) 256-
+8505/EMAIL: JANICE.HAITH(AT)NAVY.MIL.//
+
+RMKS/1. Purpose. This NAVADMIN directs Commanding Officers to take
+positive action to ensure all assigned personnel have updated
+personal identification and contact information via milConnect. This
+action is the critical first step required to support the
+implementation of Enterprise Directory Services (EDS), required by
+references (a) and (b). Further, Commanding Officers are directed to
+ensure that their command check-in processes include verification that
+individuals have updated data in milConnect to reflect their new
+contact information.
+
+2. Background. EDS is a foundational element of the DoD wide Identity
+and Access Management (IdAM) infrastructure. A common Global Address
+List (GAL) is the end user service which leverages authoritative
+information and attributes to facilitate secure information sharing,
+collaboration, and people discovery across a single and/or multiple
+information technology enterprises. The Navy GAL is
+updated and maintained utilizing data contained within milConnect.
+When contact information is outdated or incorrect within the
+milConnect database, that outdated or incorrect contact information
+populates the Navy GAL, corrupting it and impeding
+Navy personnel from utilizing the GAL to efficiently contact and
+communicate with one another.
+
+3. Navy-wide, despite previous guidance, there is a lack of
+understanding of the detrimental effects of failure to update personal
+data in milConnect and the role milConnect plays in updating other
+services beyond the GAL, such as DEERS.
+
+4. As a result, widespread incorrect contact information is
+interfering with the ability to efficiently contact personnel to
+conduct urgent business. This issue has caught the attention of
+senior leadership * Commanders must ensure it has theirs.
+
+5. Reporting. Commanding Officers shall report completion of
+command-wide milConnect updates to their Immediate Superior In Command
+(ISIC) no later than 25 June 2014. Echelon II Command Information
+Officers (CIOs) are directed to collect and report their own and
+subordinate commands* compliance to the Department of Navy Deputy Chief
+Information Officer (DDCIO(N)) by 26 June 2014. Compliance reporting
+may be forwarded via e-mail to governance(at)navy.mil.
+
+6. Instructions. Personnel can update their organizational and contact
+data in milConnect by following the instructions outlined below.
+   A. Launch Microsoft Internet Explorer, version 8 or higher.
+   B. In the address bar, type:
+https:(slash slash)www.dmdc.osd.mil(slash)milconnect and select
+enter.
+   C. Select the red (sign in) link on the right hand side of the
+screen.
+   D. After reading the self-service consent to monitor page, select
+(ok).
+   E. Ensure Common Access Card (CAC) is in the card reader.
+   F. Once CAC is inserted, select the (login) located under the CAC
+picture on the computer screen.
+   G. Select digital email certificate and click (ok) and enter pin
+if prompted.
+   H. Upon successful login, the milConnect homepage will be
+displayed. On the right side menu under the quick links list, select
+(Update Global Address List (GAL)).
+   I. Select the appropriate profile tab (MIL, CIV, or CTR) for the
+information you'd like to update. You may have more than one tab,
+depending on your relationship to the DoD.
+   J. Enter any information that is missing or outdated in the fields
+available for modification. At a minimum, the following attributes
+must be filled out accurately:
+      (1) Duty Organization
+      (2) Duty sub-organization
+      (3) Office Symbol
+      (4) Job Title
+      (5) Duty Installation / Location
+      (6) Duty Address
+      (7) Phone Number(s)
+   K. Once pertinent information is updated, click (submit) at the
+bottom of the page to save the changes.
+   L. If there are additional profiles that need to be updated,
+please follow steps I-K.
+
+7. Released by Vice Admiral S. H. Swift, Director Navy Staff.//
+
+BT
+#4691
+NNNN
+UNCLASSIFIED//
+
+

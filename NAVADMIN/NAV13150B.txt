@@ -1,0 +1,377 @@
+RTTUZYUW RUEWMCS0000 1502225-UUUU--RUCRNAD
+ZNR UUUUU
+R 302225Z MAY 13 PSN 835721K26
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+NAVADMIN
+BT
+UNCLAS//N01040//
+NAVADMIN 150/13
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
+
+SUBJ/CAREER NAVIGATOR PROGRAM ANNOUNCEMENT-PART II// 
+
+REF/A/MSG/CNO WASHINGTON DC/302127ZMAY13 
+REF/B/MSG/CNO WASHINGTON DC/010019ZFEB13// 
+REF/C/DOC/NAVPERSCOM/24APR13// 
+REF/D/MSG/COMNAVRESFOR NORFOLK VA/221501ZJUN12//NOTAL// 
+REF/E/MSG/CNO WASHINGTON DC/091715ZSEP12// 
+REF/F/DOC/OPNAV/30JAN07// 
+REF/G/DOC/DODI/12MAR13// 
+REF/H/DOC/N13/28FEB13//NOTAL// 
+REF/I/MSG/CNO WASHINGTON DC/110033ZJUL09// 
+REF/J/DOC/NAVPERSCOM/16JUL12// 
+REF/K/DOC/OPNAV/02JAN13// 
+REF/L/DOC/OPNAV/1JUL12// 
+REF/M/DOC/NAVPERSCOM/13SEP06// 
+NARR/REF A IS NAVADMIN 149/13, CAREER NAVIGATOR PROGRAM ANNOUNCEMENT PART I.  
+REF B IS NAVADMIN 021/13, FLEET RATING IDENTIFICATION ENGINE - PERFORM TO 
+SERVE CHANGES.  REF C IS MILPERSMAN ARTICLE 1160-030, CERTAIN ENLISTMENTS AND 
+REENLISTMENTS UNDER CONTINUOUS SERVICE CONDITIONS.  REF D IS COMNAVRESFOR 
+021/12 FLEET RATING IDENTIFICATION ENGINE (FLEET RIDE) FOR SELECTED RESERVE 
+(SELRES) ROLLOUT.  REF E IS NAVADMIN 274/12, ANNOUNCEMENT OF THE NAVY ENLISTED 
+RESERVE COMPONENT TO ACTIVE COMPONENT AUGMENTATION PROGRAM.  REF F IS 
+OPNAVINST 1160.8A, SELECTIVE REENLISTMENT BONUS (SRB) PROGRAM.  REF G IS 
+DEPARTMENT OF DEFENSE INSTRUCTION 1304.31, ENLISTED BONUS PROGRAM. 
+REF H IS ESRP POLICY MEMORANDUM.  REF I IS NAVADMIN 203/09, POST 9-11 GI BILL, 
+RESERVE EDUCATION ASSISTANCE PROGRAM (REAP) AND MGIB-SR TRANSFERABILITY 
+POLICY.  REF J IS MILPERSMAN ARTICLE 1326-021 NAVY ENLISTED RESERVE COMPONENT 
+(RC) TO ACTIVE COMPONENT (AC) AUGMENTATION PROGRAM (RC2AC).  REF K IS 
+SEPARATION PAY FOR INVOLUNTARY SEPARATION FROM ACTIVE DUTY.  REF L IS 
+MILPERSMAN ARTICLE 1160-120 HIGH YEAR TENURE (HYT).  REF M IS MILPERSMAN 
+ARTICLE 1440-010 CHANGE IN RATING AUTHORIZATION//.
+
+RMKS/1.  This NAVADMIN announces Part II of a two part message announcing the 
+Career Navigator Program.  Ref (a) announced the Career Navigator Program as 
+part of a fundamental shift and an important change to how we do business in 
+enlisted career management-putting Sailors at the helm to navigate their 
+careers.  
+This NAVADMIN provides greater detail on the major changes, upgrades, 
+initiatives and execution of the Career Navigator Program.  Both NAVADMINs 
+should be read in their entirety, considered a one source document and kept 
+readily available for use by All Hands.  The goal of Career Navigator is to 
+help Sailors make informed decisions about their personal and professional 
+career opportunities by placing the power of Navy career management systems at 
+their fingertips.  Changes to enlisted career management under the Career 
+Navigator Program will be incremental.  
+
+2.  Major changes, upgrades and execution in support of the Career Navigator 
+Program include the following areas:
+    a.  AC/FTS reenlistment process updates, 
+    b.  AC PACT Sailor Rating Designation updates,   
+    c.  SELRES Rating Conversion process updates, and
+    d. SELRES RC2AC/FTS augmentation process updates.  
+
+3.  AC/FTS reenlistment process updates.  Navy has made significant progress 
+in achieving balance across all enlisted ratings.  In 2011, there were 35 
+overmanned ratings representing over 6,000 Sailors; today Navy has only 9 
+ratings overmanned with less than 800 Sailors.  
+Improvements in advancement rates and reenlistment approvals are a result of 
+this improved balance.  Navy continually adjusts the number of Sailors needed 
+in each rating to meet current and future mission requirements.  The Career 
+Waypoint-Reenlistment process (formerly Fleet RIDE-Perform to Serve (PTS)) 
+helps ensure the Navy has the right number of Sailors in each rating based on 
+mission requirements.  
+In response to fleet feedback, we dismantled PTS and created a reenlistment 
+process that is more advantageous for Sailors.  This revised process is 
+effective 3 June 2013. 
+    a.  The reenlistment screening process is now simplified to be based on 
+rank, performance evaluations and critical NECs.  In FY-14, we plan to 
+completely redesign the reenlistment screening process using weighted 
+performance factors.  Future Sailor Portal enhancements will provide expanded 
+ability for Sailors to obtain and review their competitiveness for 
+reenlistment under the new screening process when researching career 
+opportunities.  Nuclear-trained personnel will continue to have the ability to 
+request a reenlistment quota once eligible in a reenlistment zone.
+    b.  Reenlistment for E6 Sailors.  While there is still a need to inform 
+the Navy of Sailor's intentions to reenlist or separate via the Career 
+Counselor, E6 Sailors who desire to reenlist and have command approval to do 
+so will be given reenlistment approval on their first application.  In the 
+near future, as our IT system is updated, E6 Sailors and their commands will 
+receive confirmation immediately upon application submission, resulting in a 
+no wait period.  Under the updated system, Nuclear-trained personnel will 
+receive confirmation within 15 days of their request.
+    c.  E5 and below reenlistment request processing.  Categories of skill 
+sets have been created to expedite reenlistment request processing for Sailors 
+E5 and below.  All eligible and command approved reenlistment E5 and below 
+Sailors will receive answers about reenlistment requests earlier using these 
+categories:
+       (1) Open Reenlistment:  Sailors in undermanned skill sets.  All 
+eligible and command approved non-Nuclear E-5 and below Sailors in open skill 
+sets will receive approval to reenlist on their first application (within 
+approximately 30 days).  In a near-term Career Waypoints system update 
+expected by the end of FY13, these Sailors will receive confirmation 
+immediately upon submittal, resulting in a no wait period.
+       (2) Balanced Reenlistment:  Sailors in skill sets that are fully-
+manned.  Reenlistment request processing for all eligible and command-approved 
+reenlistment Sailors who are in skill sets that are fully-manned will be based 
+on the manning in their year group.  
+Sailors in undermanned year groups will receive approval on their first 
+application and all Sailors will know at least 10 months from the end of their 
+contract if they will be able to reenlist in their current rate.
+       (3) Competitive Reenlistment:  Sailors in skill sets that are 
+overmanned or have special requirements.  Reenlistment request processing for 
+all eligible and command-approved reenlistment Sailors who are in skill sets 
+that are overmanned or that have special requirements such as the Nuclear 
+community will follow the timeline described in Para 5.d. below for final 
+reenlistment approval prior to Soft Expiration of Active Obligated Service 
+(SEAOS).  All Sailors in this category will know at least 10 months from the 
+end of their contract whether they will be able to reenlist in their current 
+rate.
+    d.  Reenlistment requests.  Projected rotation date (PRD)-based 
+reenlistment requests changes announced in ref (b) remain in effect.  
+For SEAOS-based reenlistment requests, all Sailors will continue to indicate 
+their intentions to reenlist or separate with their Career Counselor using 
+Career Waypoints.  This career "check-in" will happen
+13 months in advance of the Sailor's end of enlistment contract, one month 
+earlier than previously authorized.  Sailors can still change their minds, and 
+if they do, are encouraged to let their Career Counselors know as soon as 
+possible.  Understanding Sailors intentions to reenlist or separate is 
+critical for Navy to accurately predict how many Sailors are in each skill 
+set, rating and paygrade and ensures Sailors have the maximum opportunity to 
+reenlist in rate, offers opportunities for Sailors to convert to a new rating, 
+or transition between the Active and Reserve Components, and improves 
+advancement opportunity.  Although Sailor reenlistment approval will still be 
+based on manning levels and Sailor performance, the application timeline has 
+been significantly changed to make two critical improvements:  
+        (1) in-rate reenlistment approval in time to review Career Management 
+System Interactive Detailing (CMS-ID) opportunities, and 
+        (2) increased opportunity to apply for conversion to another Rating so 
+that more Sailors are retained in the Navy.
+    e.  Reenlistment request timeline change.  Reenlistment requests for 
+SEAOS-based applications will begin at 13 months prior to SEAOS vice 12 
+months.  Sailors will now receive up to 8 looks to remain on active duty (13 
+to 6 months from their SEAOS).
+        (1)  Months 13/12/11/10:  During this period, Sailors submit 
+reenlistment applications for active duty In-Rate, active duty conversion, or 
+transition to selected reserves (SELRES), or indicate their intention to 
+separate.  Limiting in-rate applications to the first four looks ensures 
+Sailors receiving in-rate approvals are able to utilize the full CMS-ID order 
+negotiating window during months 9 to 6.  Nuclear-trained personnel are only 
+authorized to submit applications to reenlist in-rate 13 to 10 months from 
+SEAOS per ref (m).
+        (2)  Months 9/8/7/6:  During this period Sailors submit applications 
+for rating conversion or transition to SELRES.  At this stage, active duty in-
+rate applications are not authorized.  
+Nuclear-trained personnel are only authorized to submit applications for 
+SELRES quotas 9 to 6 months from SEAOS. 
+        (3)  Months 5/4/3:  During this period Sailors may submit applications 
+for transition to Selected Reserves (SELRES).  At this point, active duty in-
+rate or conversion applications are not authorized.
+    f.  New timeline implementation.  Career Waypoint-Reenlistment 
+applications for both In-Rate and Conversion are based on the Sailor's SEAOS 
+month.  Note:  In June 2013, applications are due for Sailors with both June 
+and July 2014 SEAOS dates.  New application timelines are as follows:
+        (1) SEAOS of November 2013 or earlier:  No impact-member has 
+already received final reenlistment determination.      
+        (2) SEAOS of December 2013 through June 2014:  No change-member is 
+already in the application window and will continue the legacy process.
+        (3) July 2014 SEAOS:  Submit initial application no later than 30 June 
+2013 due to application window starting 13 months prior to SEAOS.
+        (4) August 2014 or later:  Submit initial application no later than 
+the last day of the month 13 months prior to SEAOS.
+    g.  Reenlistment quota expiration update.  When previously executed 
+extensions become operative, approved reenlistment quotas will not be 
+rescinded and will continue to be valid until the 13 month expiration date.  
+Working with their Command Career Counselor, Sailors in this situation are 
+encouraged to contact their enlisted community manager to reset their quota 
+manually until 1 August 2013 when this IT system update will go into effect.
+    h.  Early reenlistment.  For AC/FT and SELRES, PERS-811 approval is no 
+longer required for reenlistment greater than one year from SEAOS.  This 
+change applies to all Sailors regardless of whether or not the member is 
+subject to Career Waypoint-Reenlistment approval.  
+Sailors are encouraged to reenlist as soon as possible provided they meet all 
+other conditions for reenlistment eligibility contained in ref (c).  The term 
+of the new enlistment contract must equal or exceed the period of service for 
+which the Sailor is already obligated.  Sailors reenlisting under Selective 
+Reenlistment Bonus
+(SRB) or Enlisted Supervisor Retention Pay (ESRP) contracts or for Transfer of 
+Education Benefits (TEB) under the Post 9/11 GI Bill must adhere to additional 
+obligated service requirements per refs
+(f) through (i).  In addition, for TEB, Sailors are reminded early 
+reenlistment could interfere with transfer of those benefits.  
+Review ref (i) and consult with your Career Counselor to discuss eligibility 
+requirements.
+    i.  Involuntary separation pay (ISP) eligibility.  A Sailor must have 
+applied and been subsequently disapproved for all available Active Duty 
+application cycles in order to be eligible for ISP consideration.  Denial of 
+reenlistment alone does not guarantee ISP eligibility; therefore commands must 
+utilize ref (k) to determine ISP eligibility.
+    j.  Armed Forces Classification Test (AFCT).  Sailors desiring to expand 
+their conversion choices are encouraged to take the in-service AFCT.  The most 
+recent AFCT or Armed Services Vocational Aptitude Battery (ASVAB) scores 
+determine conversion eligibility.  
+Retesting does not impact in-rate applications.
+
+4.  AC PACT Sailor Rating Designation updates.  Effective 3 June
+2013 Career Waypoint-PACT Designation (formerly Fleet RIDE-REGA) will auto-
+generate partially populated applications for PACT Sailors who are Time In-
+Rate (TIR) eligible for the Navy-Wide Advancement Examination (NWAE) and/or 
+have at least 12 months on board their first permanent duty station.
+    a.  PACT Sailors who meet TIR requirements for the NWAE will be able to 
+apply for rating entry designation (RED) or NWAE quotas.  
+RED quotas are preferred because Sailors are designated in the same month as 
+the quota is approved.  Additionally, direct designation is advantageous for 
+Sailors because it provides a career path and eligibility to participate in 
+the NWAE as a rated E-3.  Sailors on this path may perform better on the NWAE, 
+increasing their chances for advancement since they will have more opportunity 
+to gain experience and study in their new rating prior to the exam.
+    b.  Sailors who have at least 12 months on board their first permanent 
+duty station following completion of their initial skills training will be 
+able to apply for RED or A-school quotas. 
+    c.  PACT Sailors are encouraged to research and review gapped billets on 
+board their command and apply for ratings with gaps, which benefits both the 
+command and the Sailor.  Most Sailors will find the opportunity to gain 
+experience and study in their new rating may lead to faster promotion, which 
+in turn increases competitiveness for reenlistment if desired and for 
+converting to a different rating in the future.
+
+5.  SELRES Rating Conversion process updates.  Ref (d) announced the use of 
+Fleet RIDE (FR) for SELRES and the requirement to submit a qualified jobs 
+listing with conversion packages.  Building on that capability, effective 3 
+June 2013 applications for RC Sailors requesting a change in rating will be 
+entered though Career Waypoint-Conversion (formerly RC2RC).  The rating 
+conversion process for RC Sailors will be in accordance with ref (m) with the 
+following
+exceptions:  
+    a.  Applications will be processed monthly by BUPERS-32 (SELRES
+ECM) in Career Waypoints in lieu of submission through PERS-8.  
+    b.  Conversion opportunities will be updated monthly and identified as 
+open or closed.  In order to apply, a Sailor's current rating must be open to 
+convert out and their requested rating must be open to convert in.
+    c.  Application results and official letters will be available in Career 
+Waypoints.  If approved for direct conversion, the letter will direct the 
+Sailor's command to initiate a change of rate in NSIPS.  If conversion has 
+been approved and requires an A-school, contact information and instructions 
+on how to request and schedule the training will be provided.
+    d.  All Sailors are encouraged to take the in-service AFCT to update their 
+line scores and improve their conversion opportunities.
+
+6.  SELRES RC2AC/FTS augmentation process updates.  RC2AC augmentation 
+announced in refs (e) and (j) have been incorporated into Career Waypoints-
+Transition.  Additionally, SELRES and voluntary training unit (VTU) Sailors 
+can now apply for both in-rate and conversion into ratings with available AC 
+and FTS quotas provided they meet program requirements.
+    a.  Selective reenlistment bonus (SRB) eligibility.  SRB restrictions 
+outlined in ref (j) are lifted for augmented members.  
+Reserve Sailors who augment to active duty may be eligible to receive SRB 
+based on current active duty SRB authorizations and their amount of continuous 
+active duty service.  IAW ref (f), to be eligible for SRB Sailors must have 
+completed at least 17 continuous months of active Navy service (other than 
+active duty for training) but not more than 20 years of active military 
+service.  
+To ensure all requirements and timelines are met, visit the SRB page of the 
+NPC website:  http://www.public.navy.mil/bupers-npc/
+career/payandbenefits/N130/PAGES/N130D.aspx.
+    b.  SELRES Bonus recoupment.  Reserve Sailors who received a SELRES 
+Enlistment Bonus (EB) or SRB, and who augment into the AC prior to the 
+completion of their SELRES bonus contract, will incur a debt for the unearned 
+portion of the bonus.  Sailors in this situation are highly encouraged to 
+request a remission of indebtedness from the Director, Military Personnel 
+Plans and Policy (OPNAV N13) via CNRFC N1 in conjunction with submitting their 
+RC2AC application.  Reserve Sailors can obtain guidance on the remission 
+request process and download formatted templates from the Commander Navy 
+Reserve Forces Command Reserve Enlisted incentives (N112) website at: 
+https://private.navyreserve.navy.mil/cnrfc/n-codes/n1/
+cnrfc_n112/sitepages/home.aspx.  In a near-term Career Waypoint system update 
+expected by the end of FY-13, if applicable, bonus recoupment waiver requests 
+will be automatically generated when a RC2AC/FTS application is submitted.  If 
+recoupment is not waived, Sailors will not be obligated to augment.  Navy 
+Reserve activity
+(NRA) commanding officers (CO) must ensure members currently serving under a 
+bonus agreement are aware of bonus recoupment or have an approved waiver prior 
+to reenlisting on active duty.
+    c.  NRA CO for members applying to RC2AC/FTS opportunities must ensure the 
+following requirements are verified prior to submitting an RC2AC/FTS 
+application:
+        (1)  Member meets all requirements to augment to AC/FTS
+including: physical, medical and dental readiness, basic enlistment 
+eligibility and specific rating requirements, and HYT limits.
+        (2)  Member meets requirements listed under the additional job 
+requirements section of the application; required documentation must be 
+scanned and sent via NMCI encrypted email to rc_to_ac(at)navy.mil.
+        (3)  Member has more than 3 years until reaching HYT limits per ref 
+(l), based on the member's adjusted Active Duty Service Date (ADSD).  No HYT 
+waivers for AC augmentation will be authorized.  
+HYT waivers will be considered for FTS augmentation and must be approved prior 
+to submitting an RC2AC/FTS application.
+        (4)  Member demonstrates adequate financial stability to reenlist on 
+active duty and relocate.
+        (5)  Members currently serving under a SELRES bonus agreement (EB or 
+SRB) are aware of recoupment or have an approved remission of indebtedness 
+(recoupment waiver) per Para 6.b above. 
+        (6)  Application and supporting documents are complete and accurate.
+    d. RC2AC/FTS application procedures:
+        (1)  Determine the applicant's total active service (TAS) and the 
+desired augmentation start date.  TAS includes all active service time, 
+including AC or FTS service, mobilization, ADSW, ADT, AT, CANREC, and 
+voluntary recall.  Do not include drills (Inactive duty for training (IDT), 
+inactive duty training for travel (IDTT), or funeral honors) in TAS.  Once TAS 
+and desired start month are entered, the Career Waypoints system will 
+calculate ADSD, adding the inclusive day, and determine the member's year 
+group. Commands are highly encouraged to contact PERS-9 for assistance with 
+TAS computations.  
+Miscalculations may result in an incorrect listing of Sailor AC/FTS 
+opportunities.  TAS will be verified as part of the application review 
+process; applications with incorrect TAS computations will be returned as 
+disapproved.
+        (2)  Using Career Waypoints, determine if RC2AC/FTS opportunity exists 
+for the applicant. 
+        (3)  Include information in the application notes section for members 
+with the following conditions:  Under stop-loss; identified for mobilization 
+or presidential selected reserve call-up (PSRC); serving in a rating listed as 
+a Navy Reserves enlisted career management objectives (ECMO) category 1; 
+serving in an advanced paygrade (APG), Navy Reserve accession course personnel 
+who have not completed their IDT requirements; serving in a temporary rating, 
+or pending adverse information.
+        (4)  Applicants are strongly encouraged to submit an updated resume 
+documenting civilian work experience as part of their application. 
+        (5)  RC2AC/FTS applications are due NLT 2359 central time, the last 
+calendar day of each month.  Application processing will begin on the first 
+work day of each month.  Incomplete applications will be denied.  
+        (6)  Once an application is submitted enter mobilization availability 
+status (MAS) Code ACR (pending/approved conditional
+release) in NSIPS.
+        (7)  Applications given an approved-pending status require additional 
+documentation (described in the notes section).  Requested documentation must 
+be scanned and emailed to the ECM via NMCI encrypted email.  If documents are 
+not received within 60 days of approved-pending notification, the application 
+may be changed to denied.
+        (8)  If approved, the member has permission to reenlist and will be 
+expected to negotiate orders expeditiously by contacting their respective 
+rating detailer.  Members approved for augmentation must reenlist for a 
+minimum of 48 months, unless otherwise specified by the enlisted community 
+Managers.  The Sailor's NRA CO must ensure reenlistment is documented in the 
+correct component (e.g., branch
+class:  11 for AC; branch class:  32, SPI code:  "V" for FTS).
+    e.  In addition to advertisement through the Career Waypoints system, 
+augmentation opportunities will continue to be advertised through the 
+government delivery (GOV-delivery) system.  
+    f.  Additional RC2AC/FTS program information, including step by step 
+application instructions, can be found at the NPC RC2AC/FTS web page at: 
+http://www.public.navy.mil/bupers-npc/career/
+reservepersonnelmgmt/enlisted/pages/enlistedreservistopportunities.aspx. 
+    g.  SELRES members currently on mobilization orders are unable to submit 
+an application in Career Waypoints; contact the BUPERS-32 RC2AC/ FTS 
+coordinator at rc_to_ac(at)navy.mil within 90 days of 
+demobilization to determine if an augmentation opportunity exists.   
+
+7.  Unless specifically changed by this NAVADMIN and ref (a), all other 
+enlisted career management policies remain in effect.  
+
+8.  Points of contact:  For questions concerning these policy updates and the 
+new Career Navigator Program implementation procedures contact the Navy 
+Personnel Command call center at 1(866)U-ASK-NPC,
+1(866)827-5672 or via e-mail at cscmailbox(at)navy.mil Career Waypoints help 
+desk at (901) 874-2102 or via e-mail at 
+career_waypoints_help_desk(at)navy.mil.  Additional information can be found 
+on the NPC website in the Career Navigator toolbox.
+
+9.  Released by Vice Admiral S. R. Van Buskirk, N1.//
+
+BT
+#2425
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,171 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 061749Z AUG 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 184 /19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/GOVERNMENT TRAVEL CHARGE CARD USE DURING PERMANENT CHANGE OF STATION 
+TRAVEL//
+
+REF/A/MSG/CNO WASHINGTON DC/171240ZJUL19//
+
+REF/B/DOC/JTR/1JUL19//
+
+REF/C/DOC/DODI/JUN19//
+
+REF/D/DOC/DOD/MAR18//
+
+NARR/REF A IS  NAVADMIN 161/19  PERMANENT CHANGE OF STATION MOVE 
+IMPROVEMENTS.  REF B IS THE JOINT TRAVEL REGULATIONS.  REF C IS VOLUME 4 TO 
+THE DEPARTMENT OF DEFENSE INSTRUCTION 5154.31 GOVERNMENT TRAVEL CHARGE CARD 
+REGULATIONS.  REF D IS THE DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT 
+REGULATION (FMR) 7000.14R.//
+
+RMKS/1.  This NAVADMIN announces the Government Travel Charge Card
+(GTCC) pilot program and provides policy and guidance for optional use of the 
+GTCC during Permanent Change of Station (PCS) travel.
+This pilot is part of Phase Two of the PCS move improvements initiative 
+outlined in reference (a).  Use of the GTCC is another step forward in 
+improving the PCS experience for Sailors and their families.  Further details 
+regarding PCS move improvements are contained in reference (a).  Commanders 
+will ensure widest dissemination of this new policy.  All Sailors who elect 
+to participate in this pilot program must read this message in its entirety 
+to ensure they understand this new process.
+
+2.  This pilot program is effective upon release of this NAVADMIN.
+Those choosing to participate must meet the following requirements:
+    a.  Existing GTCC cardholders
+    b.  CONUS-to-CONUS PCS orders only
+    c.  Single or traveling with accompanied dependents
+    d.  PCS travel must be less than 30 days total of authorized travel 
+including enroute temporary duty under instruction
+    e.  Active Duty Navy only
+        (1) This does not apply to:
+            (a) Accession, separation or retirement orders
+            (b) Civilian personnel
+            (c) Selected Navy Reserve
+            (d) Individual Mobilization Augmentee
+            (e) Individual Ready Reserve Navy
+
+3.  The intent of the GTCC pilot is to provide another means in addition to 
+an electronic funds transfer/direct deposit (EFT/DD) travel entitlement 
+advance to reduce or eliminate Sailors out-of- pocket expenses during a PCS 
+move.  While advances remain an option, GTCC provides the benefit of 
+immediate access to travel entitlements without having to request an advance 
+or to manage the funds in execution.
+
+4.  Policy details.
+    a.  Use of the GTCC is authorized for the following travel expenses (see 
+reference (b) for additional information):
+        (1) Temporary Lodging Expense at the old or new permanent duty 
+station (PDS)
+        (2) Fuel for a Privately Owned Vehicle (POV), when POV is the 
+authorized mode of transportation
+        (3) Lodging and meals enroute
+        (4) Dislocation Allowance (DLA) related expenses normally used to 
+establish a household
+        (5) Automatic Teller Machine (ATM) withdrawals.  Note:  ATM fees are 
+not a separately reimbursable expense
+    b.  GTCC use is not authorized in the following cases:
+        (1) GTCC use cannot be combined with an EFT/DD travel advance
+        (2) Personally procured moves (PPM), formerly known as do- it-
+yourself (DITY) moves
+        (3) Commercial airfare for PCS travel.  Commercial airfare will 
+continue to be booked by the Navy Passenger Transportation Office (NAVPTO) 
+and paid for by a centrally billed account
+        (4) Personal travel arrangements incurred during leave in conjunction 
+with orders.  See section 040504 of reference (c) for further details.
+    c.  Regardless of the option elected, all travelers must submit a travel 
+claim within 5 working days of reporting to their new PDS.
+
+5.  Process details.
+    a.  The PCS process begins when the Sailor receives PCS orders.
+Whether the Sailor chooses to use the GTCC or not, individuals must contact 
+their Command Pay and Personnel Administrator (CPPA) to initiate the PCS 
+Application for Transfer and Advances (NPPSC Form 1300/1).  The Sailor will 
+receive an estimate of the travel entitlement from the CPPA, helping the 
+Sailor to decide whether they should consider participating in the GTCC pilot 
+program.
+    b.  Following the interview with the CPPA, Sailors choosing to 
+participate in the GTCC pilot program should inform their command GTCC Agency 
+Program Coordinator (APC).  Participating Sailors are required to check-out 
+with the GTCC APC prior to departing on PCS orders.  The GTCC APC will:
+        (1) Confirm Citibank has activated the account 10 days prior to the 
+approved detaching date, allowing GTCC use for temporary lodging
+        (2) Confirm Citibank placed the account into a PCS Mission Critical 
+status for the duration of the PCS period
+        (3) If the Sailor is receiving the DLA entitlement, confirm the 
+approved Merchant Category Code (MCC) Group has been activated to allow use 
+of the GTCC for DLA related charges (i.e., expenses normally related to 
+establishing a new household)
+        (4) If applicable based on the PCS cost estimate provided by the 
+CPPA, increase the GTCC credit limit if the estimated cost of travel exceeds 
+the current GTCC credit limit
+
+6.  Cardholder Instructions.
+    a.  Use of the GTCC in excess of the estimated PCS travel entitlement 
+could result in a personal indebtedness to the US Government
+    b.  There are several advantages and protections provided by the GTCC 
+compared to private credit cards.  Some of these protections
+are:
+        (1) No interest charges on the account
+        (2) Available temporary increases to meet mission requirements
+        (3) APC and Citi Customer Service Support
+        (4) Use of PCS Mission Critical status to ensure payment is not due 
+until after check-in
+        (5) No delays due to processing of a traditional travel advance
+        (6) Automatic travel accident insurance
+        (7) Automatic common carrier baggage insurance
+    c.  Any cardholder who requires assistance during the PCS travel period 
+should contact their detaching command GTCC APC.  If the Sailor has already 
+reported to the new PDS, contact the new PDS GTCC APC.  Citi Customer Service 
+should be contacted by calling the number on the back of the GTCC if the 
+cardholder is unable to reach their GTCC APC.
+    d.  Misuse.  Commanders/Supervisors will ensure travel cards are used 
+only for official travel related expenses.  Examples of misuse include, but 
+are not limited to:
+        (1) Expenses unrelated to PCS travel
+        (2) ATM cash withdrawals made more than 3 days prior to official 
+government travel
+        (3) Intentional failure to pay undisputed charges in a timely manner
+    e.  Cardholders must submit travel vouchers within 5 working days of 
+arrival at the new PDS as outlined in reference (d).  When the travel voucher 
+is complete, ensure the split-disbursement option is selected if GTCC was 
+used during your PCS move.
+
+7.  You can anticipate future expansion of the program after assessment of 
+this pilot with the goal of expanding use of the GTCC for PCS to the widest 
+possible population of Sailors and their families.
+
+8.  CPPA/GTCC APC/Travel Office instructions will be issued separately by 
+program offices.
+
+9.  All Sailors and families are encouraged to download the MyNavy Family 
+application to find authoritive information to assist in navigating military 
+life.  The application can be found in the Navy application locker at 
+https://www.applocker.navy.mil.
+
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

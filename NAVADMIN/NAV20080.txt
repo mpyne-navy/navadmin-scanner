@@ -1,0 +1,758 @@
+UNCLASSIFIED// 
+ 
+ROUTINE 
+ 
+R 212007Z MAR 20 MID110000505261U 
+ 
+FM CNO WASHINGTON DC 
+ 
+TO NAVADMIN 
+ 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+ 
+BT 
+UNCLAS
+NAVADMIN 080/20
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO SECNAV WASHINGTON DC//CNO// 
+CNO WASHINGTON DC//N1// 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/MAR// 
+ 
+SUBJ/NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 3// 
+ 
+REF/A/NAVADMIN/OPNAV/122210ZMAR20// 
+ 
+REF/B/NAVADMIN/OPNAV/142000ZMAR20// 
+ 
+REF/C/NAVADMIN/OPNAV/192309ZMAR20// 
+ 
+REF/D/MEMO/OSD/20MAR2020// 
+ 
+REF/E/OPLAN/NORTHCOM/DOD GCP-PI&ID-3551-13/15OCT13// 
+ 
+REF/F/INST/DODI 6200.03/28MAR19// 
+ 
+REF/G/MEMO/OSD/30JAN2020// 
+ 
+REF/H/EXORD/JOINT STAFF J3/012240ZFEB20// 
+ 
+REF/I/MEMO/OSD/07FEB2020// 
+ 
+REF/J/MEMO/OSD/25FEB2020// 
+ 
+REF/K/NAVADMIN/OPNAV/071613ZFEB20// 
+ 
+REF/L/NAVADMIN/OPNAV/112054ZFEB20// 
+ 
+REF/M/NAVADMIN/OPNAV/051456ZMAR20// 
+ 
+REF/N/GENADMIN/JOINT STAFF/051908ZMAR20// 
+ 
+REF/O/MEMO/JOINT STAFF/06MAR2020// 
+ 
+REF/P/MEMO/OSD/10MAR2020// 
+ 
+REF/Q/MEMO/OSD/11MAR2020// 
+ 
+REF/R/ALNAV/SECNAV/025-20// 
+ 
+REF/S/MEMO/OSD/11MAR2020// 
+ 
+REF/T/ALNAV/SECNAV/026-20// 
+ 
+REF/U/MEMO/OSD/13MAR2020// 
+ 
+REF/V/MEMO/SECNAV/21MAR2020// 
+ 
+NARR/REF A IS NAVADMIN 064/20, NAVY MITIGATION MEASURES 
+IN RESPONSE TO CORONAVIRUS OUTBREAK (OVERSEAS).  REF B 
+IS NAVADMIN 065/20, NAVY MITIGATION MEASURES IN RESPONSE 
+TO CORONAVIRUS OUTBREAK UPDATE 1 (DOMESTIC).  REF C IS 
+NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 2.  REF D IS MEMO FROM UNDERSECRETARY OF 
+DEFENSE FOR PERSONNEL AND READINESS, AUTHORIZED 
+DEPARTURE  INDIVIDUALS AT HIGHER RISK FROM COVID-19. 
+REF E IS DEPARTMENT OF DEFENSE (DOD) GLOBAL CAMPAIGN 
+PLAN FOR PANDEMIC INFLUENZA AND INFECTIOUS DISEASE.  REF 
+F IS DODI 6200.03, PUBLIC HEALTH EMERGENCY MANAGEMENT 
+WITHIN THE DOD.  REF G IS MEMO FROM UNDER SECRETARY OF 
+DEFENSE FOR PERSONNEL AND READINESS PROVIDING FORCE 
+HEALTH PROTECTION GUIDANCE FOR PERSONNEL RETURNING FROM 
+CHINA DURING THE NOVEL CORONAVIRUS (COVID-19) OUTBREAK. 
+REF H IS SECDEF-APPROVED EXORD THAT DIRECTS USNORTHCOM 
+TO EXECUTE ITS PANDEMIC PLAN 3551-13 AND SUPPORTING 
+GEOGRAPHIC COMBATANT COMMANDERS TO EXECUTE THEIR 
+PANDEMIC PLANS IN RESPONSE TO THE NCOV (COVID-19) 
+OUTBREAK.  REF I IS SUPPLEMENT 1 TO REF G.  REF J IS 
+SUPPLEMENT 2 TO REF G.  REF K IS NAVADMIN 033/20, OPNAV 
+REPORTING GUIDANCE SUPPORTING DOD RESPONSE TO THE COVID- 
+19 OUTBREAK.  REF L IS NAVADMIN 039/20, UPDATED DOD 
+GUIDANCE FOR MONITORING PERSONNEL RETURNING FROM CHINA 
+DURING THE NOVEL CORONAVIRUS OUTBREAK.  REF M IS 
+NAVADMIN 058/20, UPDATED NAVY GUIDANCE DURING THE NOVEL 
+CORONAVIRUS OUTBREAK.  REF N IS JOINT STAFF MESSAGE FOR 
+DOD COVID-19 PASSENGER SCREENING GUIDELINES FOR OVERSEAS 
+MILITARY TRANSPORTATION TERMINALS.  REF O IS JOINT STAFF 
+FORCE HEALTH PROTECTION GUIDANCE TO MITIGATE THE RISK OF 
+COVID-19 TRANSMISSION.  REF P IS MEMO FROM UNDER 
+SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS 
+PROVIDING FORCE HEALTH PROTECTION GUIDANCE FOR THE USE 
+OF PERSONAL PROTECTIVE EQUIPMENT AND NON-PHARMACEUTICAL 
+INTERVENTIONS DURING THE CORONAVIRUS DISEASE 2019 
+OUTBREAK.  REF Q IS MEMO FROM UNDER SECRETARY OF DEFENSE 
+FOR PERSONNEL AND READINESS PROVIDING FORCE HEALTH 
+PROTECTION GUIDANCE FOR PERSONNEL TRAVELING DURING THE 
+NOVEL CORONAVIRUS OUTBREAK.  REF R IS ALNAV 025/20, 
+FORCE HEALTH PROTECTION GUIDANCE FOR THE DEPARTMENT OF 
+NAVY.  REF S IS MEMO FROM SECRETARY OF DEFENSE FOR 
+TRAVEL RESTRICTIONS FOR DOD COMPONENTS IN RESPONSE TO 
+CORONAVIRUS DISEASE. REF T IS ALNAV 026/20, OFFICIAL AND 
+PERSONAL DOMESTIC TRAVEL FORCE HEALTH PROTECTION 
+GUIDANCE FOR DEPARTMENT OF THE NAVY (CONUS TRAVEL 
+GUIDANCE).  REF U IS MEMO FROM DEPUTY SECRETARY OF 
+DEFENSE FOR STOP MOVEMENT FOR DOMESTIC TRAVEL FOR DOD 
+COMPONENTS IN RESPONSE TO CORONAVIRUS DISEASE 2019.  REF 
+V IS ASN (M&RA) MEMO ON AUTHORIZED DEPARTURE 
+INDIVIDUALS AT HIGHER RISK FROM COVID-19.// 
+ 
+POC/RADM KARL THOMAS/OPNAV N3N5B/703-692- 
+9291/KARL.O.THOMAS1(AT)NAVY.MIL/ 
+RADM JEFFREY JABLON/OPNAV N13/703-604- 
+5040/JEFFREY.JABLON(AT)NAVY.MIL/ 
+RADM GAYLE SHAFFER/OPNAV N093B/703-697-7399/ 
+GAYLE.SHAFFER(AT)MED.NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN supersedes references (a) through (c) and 
+consolidates those NAVADMINs into one NAVADMIN for ease of 
+reference.  It also adds implementing guidance in paragraph 3.H. for 
+an Authorized Departure (AD) of DoD eligible family members (EFMs) 
+and civilian employees in line with references (d) and (v).  This 
+NAVADMIN contains measures to mitigate the spread of COVID-19 
+throughout the Navy enterprise and amplifies DoD and DoN direction 
+for Service Members and Navy civilians.  It summarizes and repeats 
+applicable guidance where appropriate so that this will serve as a 
+one-stop information source.  Authorized travelers will adhere to 
+the Force Health Protection Guidelines (FHPG) as detailed throughout 
+references (a) through (v) as summarized in this NAVADMIN, and later 
+guidance. 
+    1.A.  Background.  The DoD has transitioned to Phase Three 
+(Respond) of reference (e), the global campaign in response to the 
+COVID-19 outbreak.  Our workforce is our first line of defense.  All 
+hands must proactively take action to ensure the health of our 
+force, and to ensure we mitigate the spread of COVID-19 in order to 
+maintain our readiness.  During the COVID-19 outbreak, the DoD and 
+DoN will continue to protect and preserve the operational 
+effectiveness of forces worldwide in accordance with (IAW) 
+references (e) and (f).  Utilizing FHPG from the Under Secretary of 
+Defense for Personnel and Readiness (USD (P&R)) provided in 
+references (g) and (q), USNORTHCOM is executing its pandemic plan 
+and geographic combatant commanders are executing their supporting 
+pandemic plans IAW reference (h).  In compliance with updated USD 
+(P&R) FHPG issued in references (i) and (j), Office of Chief Naval 
+Operations (OPNAV) published initial reporting guidance supporting 
+DoD response to the COVID-19 outbreak in reference (k) and updated 
+that guidance in references (c), (l), and (m). 
+    1.B.  Role of the CDC.  As the leading U.S. government Public 
+Health Agency, the CDC continues to assess the risk of COVID-19 and 
+to provide guidance for those residing in the U.S. and traveling 
+abroad.  Because CDC guidance is principally tailored for persons 
+residing in the U.S., some CDC COVID-19 guidance may have limited 
+applicability for commanders, particularly those outside the United 
+States, and is not recognized by other sovereign nations.  While DoD 
+continues to follow the lead of the CDC, when needed, additional 
+military specific measures are authorized to mitigate risk to U.S. 
+forces stationed or deployed around the world, and to protect 
+Service Members, Navy civilian employees, and their family members. 
+USD (P&R) FHPG issued in reference (q) provides guidance for DoD 
+personnel traveling during the novel coronavirus outbreak. 
+    1.C.  CDC Travel Health Advisories.  The CDC provides travel 
+health advisories at https://www.cdc.gov/coronavirus/2019- 
+ncov/travelers/index.html.  The Advisory Levels are noted below and 
+will be referenced in this NAVADMIN (note that CDC warning levels DO 
+NOT apply to the U.S.): 
+Level 1  Watch, practice usual precautions (risk of 
+limited community transmission) 
+Level 2  Alert, practice enhanced precautions 
+(sustained (ongoing) community transmission) 
+Level 3  Warning, avoid nonessential travel (widespread 
+sustained (ongoing) transmission) 
+    1.D.  DoN Civilian Guidance.  The DoN civilian workforce  more 
+than 220,000 strong  plays an integral role in supporting our 
+Sailors and building, manning and maintaining our ships, aircraft, 
+and submarines.  Working shoulder to shoulder with our Service 
+Members, it is imperative to have alignment between Navy civilian 
+and military COVID-19 policy and guidance.  DoN civilian guidance is 
+contained in references (r) and (t) as well as this NAVADMIN. 
+    1.E.  Military Health Protection Guidance.  The Secretary of 
+Defense (SECDEF) provided explicit FHPG in references (g) and (q) 
+which is more restrictive than CDC guidance.  Commanders must read 
+both documents in their entirety and ensure they are following the 
+actions spelled out in this guidance.  Local Commanders can be more 
+restrictive based on Command location, local community transmission, 
+risk to mission and risk to force.  Each and every Sailor must 
+ensure they proactively manage and minimize their personal risk to 
+exposure, and that of their families.  Commands are charged with 
+ensuring they track and monitor each Sailor and aggressively follow 
+SECDEF guidance in these references. 
+ 
+2.  Mission.  All commands will take specific actions to mitigate 
+the spread of COVID-19 worldwide and adhere to the policies and 
+reporting requirements contained in this NAVADMIN. 
+ 
+3.  Policy.  This NAVADMIN applies to all Navy Service 
+Members, Navy civilians, and their families assigned to DoD 
+installations world-wide.  In order to maintain force health 
+protection, readiness of the force and mitigate the risk of 
+transmission among personnel, SECDEF directed an OCONUS 
+travel stop movement to affected countries and areas 
+effective 13 Mar 2020 in reference (s).  This includes all 
+forms of travel (Permanent Change of Station (PCS), 
+Temporary Duty (TAD/TDY), and government-funded leave).  For 
+Service Members this also includes personal leave and other 
+non-official travel.  On 13 March 2020 Deputy SECDEF 
+directed a domestic travel stop movement in reference (u). 
+In line with references (t) and (u), which provides domestic 
+travel guidance, all Service Members will stop movement and 
+Navy civilian personnel and family members whose 
+transportation is government funded will also stop movement. 
+The domestic travel stop movement applies to PCS and 
+TAD/TDY, and Service Members are only authorized local 
+leave.  Until the domestic travel restrictions prescribed 
+above are lifted, Navy commands may only gain/onboard 
+civilian employees within the local commuting area.  The 
+following domestic travel is authorized:  (1) Travel by 
+patients and medical providers for the purpose of medical 
+treatment for Navy personnel and their family members (2) 
+Individuals who have already initiated PCS or TDY travel 
+(including intermediate stops) are authorized to continue to 
+their final destination (see paragraphs 3.B. through 3.E. 
+for further amplification) (3)  Individuals whose TDY and/or 
+leave ends while this NAVADMIN is in effect are authorized 
+to return to their home station at the end of their TDY 
+and/or leave (see paragraph 3.C. through 3.F. for further 
+amplification) (4)Individuals pending retirement or 
+separation during this period are exempt.  This stop 
+movement (both overseas and domestic) will remain in effect 
+until 11 May 2020. 
+    3.A.  Permanent Change of Station (PCS) Overseas.  Service 
+Members, Navy civilians and dependents under OCONUS PCS orders to 
+locations designated CDC COVID-19 Warning Level 3 or CDC COVID-19 
+Alert Level 2 will follow the guidance in section 3.A. of this 
+NAVADMIN.  Note that CDC warning levels DO NOT apply to CONUS. 
+          3.A.1.  PCS orders to or from CDC COVID-19 Warning Level 3 
+locations for Service Members.  Service Members and their dependents 
+under PCS orders to or from a CDC COVID-19 Warning Level 3 location 
+will stop movement.  This policy applies to currently designated CDC 
+COVID-19 Warning Level 3 locations, or those designated Level 3 at a 
+later date. 
+                  3.A.1.a.  Service Members who have detached from 
+their parent command prior to the date of this NAVADMIN and are in 
+transit are directed to contact Navy Personnel Command (NPC) for 
+follow-on guidance per paragraph 5.A.  NPC is standing by to address 
+each specific case and will authorize entitlements based on current 
+location and situation. 
+                  3.A.1.b.  Detaching and gaining commands shall 
+make every effort to contact affected Service Members enroute 
+to/from their command to advise them of the contents of this 
+message. 
+          3.A.2.  PCS orders to CDC COVID-19 Alert Level 2 locations 
+for Service Members.  Service Members under PCS orders to a CDC 
+COVID-19 Alert Level 2 location will execute orders.  Dependents of 
+Service Members executing accompanied PCS orders to a CDC COVID-19 
+Alert Level 2 location will delay travel to the CDC COVID-19 Alert 
+Level 2 location until 11 May 2020.  This policy applies to 
+currently designated CDC Alert Level 2 locations and those 
+designated at a later date. 
+                  3.A.2.a.  Service Members who have detached from 
+their parent command prior to the date of this NAVADMIN and are in 
+transit are directed to contact NPC for follow-on guidance per 
+paragraph 5.A.  NPC is standing by to address each specific case and 
+will authorize entitlements based on current location and situation. 
+                  3.A.2.b.  Detaching and gaining commands shall 
+make every effort to contact affected Service Members enroute 
+to/from their command to advise them of the contents of this 
+message. 
+          3.A.3.  PCS orders to or from CDC COVID-19 Warning Level 3 
+locations for Navy civilians.  Navy civilians and their dependents 
+under PCS orders to or from a CDC COVID-19 Warning Level 3 location 
+will stop movement.  This policy applies to currently designated CDC 
+COVID-19 Warning Level 3 locations, or those designated Level 3 at a 
+later date.  Contact your supervisory chain of command for further 
+guidance. 
+          3.A.4.  PCS orders to CDC COVID-19 Alert Level 2 locations 
+for Navy civilians.  Navy civilians under PCS orders to a CDC COVID- 
+19 Alert Level 2 location will execute orders.  Dependents of Navy 
+civilians executing accompanied PCS orders to a CDC COVID-19 Alert 
+Level 2 location will delay travel to the CDC COVID-19 Alert Level 2 
+location until 11 May 2020.  This policy applies to currently 
+designated CDC Alert Level 2 locations and those designated at a 
+later date.  Additionally, until the travel restrictions are lifted 
+Navy civilian hiring actions for positions in Level 2 and Level 3 
+countries are postponed for non-essential civilian personnel who 
+have not yet begun travel.  Contact your supervisory chain of 
+command for further guidance. 
+    3.B.  PCS in the United States and its territories.  Service 
+Members, Navy civilians and dependents under domestic PCS orders 
+will follow the guidance in section 3.B. of this NAVADMIN. 
+          3.B.1. Navy Civilians.  All Department of the Navy 
+civilian employees whose transportation is government funded will 
+stop movement.  Navy commands may continue civilian hiring actions, 
+but may only onboard civilian employees in the local commuting area. 
+Contact your supervisory chain of command for further guidance. 
+          3.B.2.  Service Members. 
+                  3.B.2.a.  Service Members who have not yet 
+initiated PCS travel as of the effective date of this 
+NAVADMIN are directed to contact NPC for follow-on guidance 
+per paragraph 5.A.  NPC is standing by to address each 
+specific case and will authorize entitlements based on 
+current location and situation. 
+                  3.B.2.b. For Service Members who have 
+already initiated PCS travel, detaching and gaining commands 
+shall make every effort to contact those Service Members to 
+advise them of the contents of this message. 
+                  3.B.2.c. A local PCS move may be executed without 
+an exception since it does not involve travel outside of the local 
+area.  To be clear, same geographic location PCS moves will only be 
+executed with due regard to the operational readiness of the 
+commands involved.  Losing and gaining commands are encouraged to 
+coordinate with placement coordinators and detailers in PERS-4 as 
+required.  PERS-4 shall adjudicate same geographic location PCS move 
+decisions in situations where losing and gaining commands do not 
+agree on an execution timeline.  This adjudication may be delegated, 
+but no lower than the O-6 Division Director level at PERS-4. 
+    3.C.  Other Official Overseas Travel (Meetings, Conferences, 
+Site Visits, etc).  All other official travel by Service Members and 
+Navy civilians to or from a country designated as CDC COVID-19 
+Warning Level 3, is prohibited and will require an exception IAW 
+paragraph 3.G.  Navy Reserve personnel will follow guidance 
+promulgated by the Chief of Navy Reserves. 
+    3.D.  Other Official Domestic Travel (Meetings, 
+Conferences, Site Visits, etc.).  All other official travel 
+by Service Members and Navy civilians in the United States 
+is prohibited and will require an exception IAW paragraph 
+ 
+3.G.  Navy Reserve personnel will follow guidance 
+promulgated by the Chief of Navy Reserves. 
+    3.E.  Travel for Official Training (Overseas and Domestic). 
+          3.E.1.  Service Member and Navy civilian travel to attend 
+formal training will require an exception IAW paragraph 3.G prior to 
+travel, will require advance coordination with the training command 
+and will comply with Navy Component Commander guidance concerning 
+pre- and post- travel medical screening and reception procedures to 
+include restriction of movement (ROM) if applicable. 
+          3.E.2.  Service Members and Navy civilians currently under 
+PCS or TAD/TDY orders and attending training and/or schools will 
+complete their current training and/or school.  For those on TAD/TDY 
+orders, Service Members and Navy civilians are directed to contact 
+the command that issued the orders for returning 
+instructions/guidance.  Navy civilians executing PCS orders are 
+directed to contact the command that issued the orders for further 
+guidance.  Service Members executing PCS orders are directed to 
+contact Navy Personnel Command for guidance and potential orders 
+modification.  Once the current school/training is complete, Service 
+Members should expect to take one of the following actions:  (1) 
+Return to their previous Permanent Duty Station (PDS), (2) Remain at 
+the school/training site if prudent for health protection, (3) If 
+the next school/training is in the same location and the course is 
+still being offered, continue training.  Reevaluate after 
+school/training completion, (4) Proceed to the ultimate PDS. 
+Decisions will be based on force health protection considerations. 
+Throughout the process, Service Members should consult with their 
+affected command (current, losing or future) as well as their 
+detailer where applicable. 
+   3.F.  Personal Leave and Liberty (overseas and domestic). 
+Commanding Officers (CO) and officers in charge may authorize local 
+leave IAW command policy for Service Members.  Leave or personal 
+travel outside of the local area, as defined by Commanding Officers 
+and officers in charge, requires an exception as outlined in 
+paragraph 3.G.  For those Service Members currently on leave, COs or 
+officers in charge are delegated authority to terminate leave early 
+or allow completion of leave as authorized based on location, 
+duration and risk to Service Member.  For Navy civilians, approval 
+or denial of civilian annual leave requests will be based on mission 
+requirements.  While intended travel outside the local commuting 
+area may be considered in determining impact to mission 
+requirements, leave requests for Navy civilians cannot be denied 
+solely because an employee is travelling outside of the local 
+commuting area.  In line with reference (t) paragraph 3(b), Navy 
+civilian employees are strongly encouraged to avoid personal leave 
+outside of the local area. 
+  3.G.  Exceptions. 
+          3.G.1.  Individuals pending retirement or separation 
+within the next 60 days are exempt from this stop movement. 
+          3.G.2.  Commanding officers and officers in charge may 
+request an exception to paragraphs 3.A. through 3.F. in the 
+following cases:  (1) determined to be mission essential, (2) 
+necessary for humanitarian reasons, or (3) warranted due to extreme 
+hardship.  Mission-essential travel refers to work that must be 
+performed to ensure the continued operations of mission essential 
+functions, as determined by the local Commander. 
+                  3.G.2.a.  Navy Personnel Command (PERS-4) is 
+authorized to approve or deny stop movement exceptions for Service 
+Member PCS travel in paragraphs 3.A., 3.B., and 3.E.2.  Approvals of 
+exception requests shall be made via message traffic to all 
+concerned and will specify whether dependents are authorized to 
+accompany the Service Member.  Detaching Commander endorsement is 
+required.  Upon receipt of an approved exception, Transaction 
+Service Center or Personnel Support Detachment/personnel offices 
+will process the Service Member for transfer to the gaining command. 
+Send all exception requests to pers451(at)navy.mil with the subject 
+line PCS EXCEPTION REQUEST.  Exception request formats will be 
+provided by PERS-4 and posted on MyNavy Portal.  Service Members who 
+are granted an exception and are traveling from a CDC COVID-19 
+Warning Level 3 or Alert Level 2 location will receive guidance from 
+NPC concerning Navy Component Commander pre- and post- travel 
+medical screening and reception procedures to include ROM. 
+                  3.G.2.b.  Authority to approve or deny stop 
+movement exceptions for Service Members in the case of:  (1) 
+Official travel in paragraph 3.C. and 3.D., and (2) Official 
+training, not associated with a PCS, in paragraph 3.E., and (3) 
+Leave requests that include travel outside of the local area in 
+paragraph 3.F, is delegated to the echelon 2 commander.  The echelon 
+2 commander may further delegate exception authority, but no lower 
+than the first flag officer or Senior Executive Service (SES) in the 
+chain of command of the Service Member.  Those who are granted an 
+exception will comply with the echelon 2 guidance concerning pre- 
+and post- travel screening and reception procedures. 
+                3.G.2.c.  Exceptions for PCS of Navy civilians. 
+Authority to approve or deny exceptions of the PCS of Navy civilians 
+from outside the local commuting area in paragraphs 3.A. and 3.B is 
+delegated to the echelon 2 commander.  The echelon 2 commander may 
+further delegate exception authority, but no lower than the first 
+flag officer or SES in the chain of command of the command or 
+activity performing the hiring action.  Those who are granted an 
+exception will comply with the echelon 2 guidance concerning pre- 
+and post- travel screening and reception procedures. 
+                3.G.2.d.  Authority to approve or deny stop movement 
+exceptions for Navy civilians in the case of: (1) Official travel in 
+paragraph 3.C. and 3.D. and (2) Official training, not associated 
+with a PCS, in paragraph 3.E. is delegated to the echelon 2 
+commander.  The echelon 2 commander may further delegate exception 
+authority, but no lower than the first flag officer or SES in the 
+Service Member or Navy civilian employee chain of command.  Those 
+who are granted an exception will comply with the echelon 2 guidance 
+concerning pre- and post- travel screening and reception procedures. 
+    3.H.  Authorized Departure. 
+          3.H.1.  The Office of the Under Secretary of Defense 
+(Personnel and Readiness) has announced an Authorized Departure (AD) 
+as outlined in reference (d).  In line with reference (v), Navy 
+Service Member eligible family members (EFMs) and Department of the 
+Navy civilian employees who have determined they are at higher risk 
+of a poor health outcome if exposed to COVID-19 or who have 
+requested departure based on a commensurate justification in foreign 
+areas as well as a civilian employee and/or other eligible family 
+members who may need to accompany them - are authorized to depart 
+their current duty station.  DoN civilian employees who wish to 
+depart their duty station must consult with their chain of command. 
+          3.H.2.  The designated safe-haven for departing Service 
+Member eligible family members is the contiguous United States (US). 
+The designated safe-haven for departing DoN civilian employees is 
+Arlington, Virginia.  Members should work with their commands and 
+local travel office to arrange for transportation to their safe- 
+haven.  Authorized departures are only permitted when appropriate 
+transportation and reception procedures are in place consistent with 
+reference (s).  Travelers should be aware that preventative health 
+measures to include restricted movement and business closures have 
+been implemented in the United States to various degrees by federal, 
+state and local governments.  Travelers shall be advised to check 
+the restrictions applicable to their situation, based on their 
+departure location, any enroute locations (foreign and in the United 
+States) and their ultimate safe-haven, as well as availability of 
+lodging, prior to commencing travel.  IAW the Joint Travel 
+Regulations (JTR), chapter 6, dependents must designate their 
+specific safe haven location in the United States upon, or prior to, 
+entry to the United States.  Once designated, the specific safe- 
+haven cannot be changed.  Dependents of uniformed personnel will be 
+processed for safe-haven allowances IAW with the JTR, Chapter 6, 
+paragraph 0602.  DoN civilian employees and their eligible family 
+members will be processed for allowances IAW with the JTR, Chapter 
+6, paragraph 0604. 
+          3.H.3.  It is strongly recommended that eligible family 
+members and civilian employees after traveling to, through and from 
+a location with a Center for Disease Control Travel Health Notice 
+for COVID-19 take the following measure for the next 14 days:  (a) 
+Implement self-observations for symptoms of fever, cough or 
+difficulty breathing (b) Implement social distancing, e.g., remain 
+out of congregate settings, avoid mass gatherings, and maintain 6 
+feet distance from others when possible (c) If individuals feel 
+feverish or develop measured fever, cough, or difficulty breathing, 
+immediately self-isolate, limit contact with others, and seek advice 
+by telephone from the appropriate healthcare provider to determine 
+whether medical evaluation is required,. 
+          3.H.4.  The following provides general information for 
+Service Member eligible family members regarding allowances. Members 
+are advised that the impact of this authorized departure on their 
+specific allowances is highly dependent on member individual 
+circumstances.  For questions regarding specific allowances, members 
+should contact their nearest Personnel Support Detachment or My Navy 
+Career Center (MNCC) or consult the JTR, chapter 6. 
+                  3.H.4.a. Per diem:  Transportation expenses and 
+travel per diem are authorized from the time the family departs the 
+evacuation site, through the time they reach their selected safe 
+haven location in the continental United States including processing 
+time at both the evacuation and receiving site.  A non-command 
+sponsored dependent is only authorized transportation and per diem. 
+Other allowances will not be paid. 
+                  3.H.4.b.  Escort allowances:  Travel and 
+transportation allowances are also payable to a member, a U.S. 
+government civilian employee, or a person who travels under an 
+official travel authorization/order as an escort for an evacuated 
+dependent who is incapable of traveling alone to the safe haven due 
+to age, physical or mental incapacity, or other extraordinary 
+circumstances. 
+                  3.H.4.c.  Household goods (HHG)/shipping 
+allowance: upon a dependent departing for a safe haven, 
+unaccompanied baggage (for the dependent), and HHG items as needed 
+for dependent comfort and well-being, may be transported at 
+government expense. 
+                  3.H.4.d.  POV:  Transportation of a POV at 
+government expense to a safe haven is not authorized. 
+                  3.H.4.e.  Pets:  A member is authorized 
+transportation to the safe haven location incident to an evacuation 
+from a foreign PDS for up to two household pets (defined by JTR 
+060204 as a cat or dog), which the member owned at the evacuated 
+foreign PDS (to include quarantine fees). 
+                  3.H.4.f.  Housing allowance:  A member, whose 
+command sponsored dependents are evacuated and who was authorized a 
+with dependent housing allowance on the evacuation date, continues 
+to be paid such allowance while the members PDS remains unchanged 
+and the member continues to maintain private sector housing, as long 
+as the command-sponsored dependents are receiving evacuation 
+allowances. 
+                  3.H.4.g.  Family separation allowance (FSA):  A 
+member is entitled to FSA if a member has a dependent depart an 
+overseas duty station at government expense because of an evacuation 
+and begins on the 31st day of dependent departure from the PDS. 
+          3.H.5.  The above listed allowances are not all inclusive 
+and may not be applicable in all cases.  Members are encouraged to 
+contact the MNCC to obtain information specific to their 
+circumstances.  Receipts/records pertaining to evacuation should be 
+retained. 
+    3.I.  Actions upon return from a CDC COVID-19 Alert Level 2 or 
+higher location or if in close contact with a confirmed COVID-19 
+infection. 
+          3.I.1.  Service Members who travel or have traveled in the 
+prior 14 days to or through a CDC COVID-19 Warning Level 3 or Alert 
+Level 2 location will immediately notify their chain of command and 
+be placed in a 14 day ROM status.  Immediate supervisors will not 
+require Service Members to report to their duty location or 
+otherwise disregard the ROM.  Service Members will comply with 
+reference (q) and Navy Component Commander guidance concerning pre- 
+and post- travel medical screening and reception procedures to 
+include ROM.  Commanders may, pursuant to DoD and Navy regulations 
+and policies, authorize telework opportunities, permissive TAD/TDY 
+or work from home as necessary. 
+          3.I.2.  Service Members who have had close contact with 
+someone with a confirmed COVID-19 infection and feel sick with a 
+fever, cough or difficulty breathing shall: 
+                  3.I.2.a.  Inform their Senior Medical Department 
+Representative immediately. 
+                  3.I.2.b.  Seek medical care immediately.  Before 
+going to the office of a doctor or emergency room, call ahead to 
+provide recent travel locations and symptoms. 
+                  3.I.2.c.  Avoid contact with others. 
+                  3.I.2.d.  Stay home except to get medical care. 
+                  3.I.2.e.  Cover mouth and nose with tissue or 
+sleeve (not hands) when coughing or sneezing. 
+    3.J.  Holding Conferences.  All Navy personnel shall maximize 
+the conduct of virtual conferences, meetings and classes to the 
+fullest extent.  Holding conferences are strongly discouraged and 
+must be approved by a Navy Component Commander, Deputy Fleet 
+Commander, Task Force Commander or Navy Region Commander charged 
+with hosting the conference. 
+   3.K.  General Health Guidance.  Compliance with CDC guidance is 
+critical to minimize the spread of COVID-19.  All personnel shall: 
+          3.K.1.  Wash hands often with soap and water for at least 
+20 seconds, especially after going to the bathroom, before eating, 
+and after blowing your nose, coughing or sneezing.  If soap and 
+water are not readily available, use an alcohol-based hand sanitizer 
+with at least 60 percent alcohol.  Always wash hands with soap and 
+water if hands are visibly dirty. 
+          3.K.2.  Avoid close contact with people who are sick. 
+          3.K.3.  Avoid touching your eyes, nose and mouth. 
+          3.K.4.  Stay home when you are sick. 
+          3.K.5.  Cover your cough or sneeze with a tissue, then 
+throw the tissue in the trash. 
+          3.K.6.  Clean and disinfect frequently touched objects and 
+surfaces using a regular household cleaning spray or wipe. 
+          3.K.7.  Maximize open doors within area with equivalent 
+classification levels. 
+          3.K.8.  Minimize meetings of more than five persons. 
+ 
+3.K.9.  Practice social distancing. 
+          3.K.10.  Minimize attendance at large group gatherings 
+outside of the workplace (for example shopping malls and restaurants 
+with large attendance). 
+    3.L.  Supplemental Guidance for Commanders. 
+          3.L.1.  IAW reference (q), Commanders should identify and 
+track all Service Members who travel or have a history of travel in 
+the prior 14 days.  This includes travel by military or commercial 
+means as well as private conveyance and includes all forms of travel 
+to include PCS, temporary duty and leave.  Commanders shall ensure 
+Service Members implement the following actions for the next 14 
+days: 
+                  3.L.1.a.  Implement self-observation, i.e., take 
+temperature twice a day and remain alert for fever (>100.4 degrees F 
+or 38 degrees C) and remain alert for fever, cough or difficulty 
+breathing. 
+                  3.L.1.b.  To the extent possible implement social 
+distancing, i.e., remain out of congregate settings, avoid mass 
+gatherings and maintain 6 feet or 2 meter distance from others when 
+possible. 
+                  3.L.1.c.  If individuals feel feverish or develop 
+measured fever, cough or difficulty breathing, immediately self- 
+isolate, limit contact with others and seek advice by telephone from 
+the appropriate healthcare provider to determine whether medical 
+evaluation is required. 
+          3.L.2.  Commanders will adhere to DoD guidance for 
+personnel traveling during the novel coronavirus outbreak per 
+reference (q) to include COVID-19 screening at overseas military 
+transportation terminals per reference (n).  Commanders will review 
+the supplemental risk-based measures and observe the operational 
+risk level mitigation actions for COVID-19 outlined in reference 
+(f). 
+          3.L.3.  For individuals traveling OCONUS to OCONUS, 
+Commanders will ensure travel is mission essential and follow the 
+guidance listing in reference (s) if compelling exceptions are 
+necessary.  Military air crew are exempt from the requirements in 
+this NAVADMIN, but will ensure they actively practice social 
+distancing and prudent measures to mitigate potential contact and 
+COVID-19 transmission. 
+          3.L.4.  Commanders will comply with status of forces 
+agreements when applicable. 
+          3.L.5.  Consider measures to place mission essential shore 
+staffs on alternating day or split shift rotations. 
+          3.L.6.  Use maximum latitude to authorize telework, 
+liberal leave, permissive TDY as necessary to minimize spread within 
+your teams. 
+          3.L.7.  Implement social distancing techniques for any 
+meetings you conduct. 
+          3.L.8.  Ensure the health of your force by conducting 
+regular screenings and restrict movement of those potentially 
+infected with COVID-19. 
+    3.M. Entitlements.  Changes to entitlements associated with a 
+ROM have been approved and put in place by DoD.  The entitlements 
+include, but are not limited to per diem for Service Members and 
+dependents directed to ROM after arrival at a duty station after a 
+PCS move and the implementation of Hardship Duty Pay (HDP)  ROM for 
+members who incur unreimbursed lodging expenses when directed to ROM 
+at their PDS.  Additionally, the Pay and Personnel Management Branch 
+(PERS-2) has released Pay and Personnel Information Bulletin (PPIB) 
+20-5 and 20-6 which provided Navy Pay Offices with information 
+regarding recent JTR changes regarding self-isolation and 
+establishment of HDP-ROM.  Eligibility for entitlements varies based 
+on individual circumstances.  If you have questions about 
+entitlements, please contact the MyNavy career center (1-833-330- 
+6622) or via e-mail at askmncc(at)navy.mil. 
+ 
+4.  Regular Reporting.  For CONUS commands, ensure your points of 
+contact (POC) submit accurate and timely COVID-19 daily reports and 
+CCIRs to USFFC, with an information copy to the local installation 
+commander, for consolidation and subsequent reporting to OPNAV.  For 
+OCONUS commands, ensure your POCs submit accurate and timely COVID- 
+19 daily reports and CCIRs to the Navy Component Command/echelon 2 
+command, with an information copy to the local installation 
+commander, for consolidation and subsequent reporting to OPNAV. 
+Given potential rapid escalation of case numbers and impact on 
+readiness, additional reporting is required.  Navy commands will 
+report the following through their chain of command and via OPREP 
+where appropriate: 
+    4.A.  COVID-19 daily reports.  COVID-19 Case Information broken 
+out by Active-Duty, DON Civilian, Military Family Members and Navy 
+Contractors as follows: 
+        4.A.1.  Active-Duty:  Total Persons Under Investigation 
+(PUI)/Positive Cases/Positive Cases in Home Isolation/Positive Cases 
+in Hospital/Positive Cases Recovering Post-Hospitalization/Positive 
+Cases Returned to Work/Deaths, 
+        4.A.2.  DoN Civilian:  Total PUI/Total Positive 
+Cases/Positive Cases in Home Isolation/Positive Cases in 
+Hospital/Positive Cases Recovering Post-Hospitalization/Positive 
+Cases Returned to Work/Deaths, 
+        4.A.3.  Family Members:  Total PUI/Total Positive 
+Cases/Positive Cases in Home Isolation/Positive Cases in 
+Hospital/Positive Cases Recovering Post-Hospitalization/Deaths, 
+        4.A.4.  DoN Contractors:  Total PUI/Total Positive 
+Cases/Positive Cases in Home Isolation/Positive Cases in 
+Hospital/Positive Cases Recovering Post-Hospitalization/Deaths. 
+    4.B.  CCIRs.  For COVID-19 Active-Duty Service Members and Navy 
+civilians only (in accordance with HIPAA and the Privacy Act): 
+        4.B.1.  Date individual identified as infected 
+        4.B.2.  Date individual admitted to hospital (if applicable) 
+        4.B.3.  Is individual in ICU? 
+        4.B.4.  Is individual on a ventilator? 
+        4.B.5.  Date individual is discharged 
+        4.B.6.  Date individual recovers 
+    4.C.  The death of a Navy Service Member, Navy civilian, Navy 
+contractor, or family member due to COVID-19. 
+    4.D.  Any shortage of medical personal protective equipment 
+(PPE) or test kits. 
+    4.E.  Significant or newsworthy installation or facility 
+closures. 
+    4.F.  Unit or installation is unable to meet isolation 
+requirements. 
+    4.G.  Unit or installation is unable to meet operational 
+requirements. 
+    4.H.  Any local or regional change in health protection 
+condition (HPCON). 
+ 
+5.  Points of Contact. 
+    5.A.  Sailor Support.  Service Members with questions regarding 
+this stop movement or entitlements for PCS travel should contact the 
+MyNavy Career Center (1-833-330-6622) or email ASKMNCC(AT)NAVY.MIL. 
+Detailers are ready to support all order modifications and commands 
+should work with their placement officers. 
+    5.B.  Medical Questions.  BUMED Watch:  703-681-1087/1125 or 
+NIPR EMAIL:  usn.ncr.bumedfchva.list.bumed---2019-ncov-response- 
+cell(AT)mail.mil. 
+    5.C.  Reporting Requirements.  OPNAV Battle Watch Captain at 
+703-692-9284 or BWC.PTGN(AT)NAVY.MIL. 
+    5.D.  Navy civilians.  Navy civilians with questions regarding 
+this guidance should contact their supervisory chain of command. 
+ 
+6.  The Navy will ensure the best possible Navy-wide Force Health 
+Protection for its Sailors, civilian employees and family members. 
+However, all members of the Navy family must do their part by 
+adhering to CDC guidelines as they relate to basic hygiene and human 
+interaction.  The Navy will remain focused on meeting our global 
+commitments while also ensuring the health and well-being of our 
+Service Members, Navy civilians and our families. 
+ 
+7.  Our understanding of COVID-19 is rapidly evolving and 
+this guidance will continue to be evaluated as conditions 
+change.  We recognize many of the policies in this NAVADMIN 
+will place a strain on our force, but they are absolutely 
+necessary to preserve our ability to conduct the mission. 
+Local Commanders will exercise prudent judgement when 
+determining mission essential travel and granting waivers 
+and err on the side of conservatism.  This is not business 
+as usual.  The expectation is that these exceptions are 
+done on a case by case basis and that they are very limited 
+in number.  The entire team must understand their role in 
+minimizing the spread of COVID-19 among our ranks.  All 
+efforts should be taken to combat the spread of COVID-19 
+and to minimize impact on our force.  The Navy will remain 
+focused on meeting our global commitments while also 
+ensuring the health and well-being of our Service Members, 
+Navy civilians and our families. 
+ 
+8.  As the COVID-19 situation continues to evolve, Commander 
+feedback is an important part of issuing revised or additional 
+guidance.  It is virtually impossible to address all specific cases 
+or situations.  However, Commanders have the latitude to adjust 
+direction based upon their unique situation.  For example, a unit 
+that has been at sea for 14 days with no COVID-19 cases may make the 
+decision to relax social distancing requirements until they pull 
+into port.  Thank you for your leadership at the tip of the spear, 
+wherever that may be.  We know that it is not easy and simply ask 
+that you make the best call possible  we will back you up. 
+ 
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

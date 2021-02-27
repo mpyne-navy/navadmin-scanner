@@ -1,0 +1,63 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 212043Z OCT 20 MID200000249035U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 283/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO SECNAV WASHINGTON DC//CNO//
+CNO WASHINGTON DC//N1//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/OCT//
+
+SUBJ/NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS OUTBREAK UPDATE 6 
+MODIFICATION 1//
+
+REF/A/MEMO/OSD/5OCT2020//
+REF/B/MEMO/SECNAV/21OCT20//
+REF/C/NAVADMIN/OPNAV/021507ZJUL20//
+
+NARR/REF A IS SECRETARY OF DEFENSE (SECDEF) MEMO, DELEGATION OF WAIVER 
+APPROVAL AUTHORITY FOR CORONAVIRUS DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL 
+RESTRICTIONS.
+REF B IS SECRETARY OF THE NAVY (SECNAV) MEMO ON DELEGATION OF WAIVER APPROVAL 
+AUTHORITY FOR THE DEPARTMENT OF THE NAVY TRAVEL RESTRICTIONS IN RESPONSE TO 
+CORONAVIRUS DISEASE 2019.  
+REF C IS NAVADMIN 189/20, NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 6.// 
+POC/RADM JEFFREY JABLON/OPNAV N13/703-604- 5040/JEFFREY.JABLON(AT)NAVY.MIL//
+
+RMKS/1.  In line with references (a) and (b), which grant additional 
+delegation authority, replace paragraph 3.D.2.b. of reference (c) with the 
+following:
+
+3.D.2.b.  Authority to approve or deny stop movement waivers for Navy Service 
+Members in the case of:  (1) official travel in paragraph 3.B., and (2) 
+official training, not associated with a PCS, in paragraph 3.C. is delegated 
+to the echelon 2 commander.  The echelon 2 commander may further delegate 
+waiver authority, but no lower than the first O-6 or a civilian equivalent in 
+the chain of command of the Service Member.  Those who are granted a waiver 
+will comply with the Navy Component Commander (NCC) guidance concerning
+pre- and post-travel screening and reception procedures.
+
+2.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

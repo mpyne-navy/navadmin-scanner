@@ -1,0 +1,76 @@
+UNCLASSIFIED
+ROUTINE
+R 282025Z JUN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 152/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/FY-17 GRADUATE EDUCATION VOUCHER PROGRAM//
+
+REF/A/DOC/OPNAV/26FEB13//
+
+AMPN/REF A IS OPNAVINST 1520.37B, GRADUATE EDUCATION VOUCHER PROGRAM.//
+
+RMKS/1.  This NAVADMIN provides details on the Graduate Education Voucher 
+(GEV) Program and guidance for FY-17 program application. Eligibility, 
+obligated service requirements, subspecialty utilization tour, and authorized 
+program benefits are prescribed in reference (a).  Where information differs 
+between this NAVADMIN and reference (a), this NAVADMIN takes precedence.
+
+2.  GEV funding is authorized for off-duty study in masters degree programs 
+which meet the requirements of at least one approved Navy subspecialty code 
+as verified by Naval Postgraduate School.  For FY-17, 80 GEV quotas for 
+select unrestricted line officers are planned, subject to funding 
+availability, and all quotas must be allocated by 11 August 2017.
+    a.  Quotas are apportioned as follows:
+        Aviation officers - 30
+        Submarine officers - 21
+        Surface Warfare officers  26
+        SPECWAR/EOD officers  3
+    b.  FY-17 Quotas by area of study, subspecialty for area of study, and 
+warfare area are:
+    Chemistry (4201P/G)   AV  1   SUB  0   SURFACE  0  SPECWAR/EOD 0
+    Computer Network Operations and Technology (6209P/G)
+                          AV  1   SUB  1   SURFACE  1  SPECWAR/EOD 0
+    Computer Science (6203P/G)
+                          AV  1   SUB  1   SURFACE  1  SPECWAR/EOD 0
+    Cyber Systems and Operations (6208 P/G)
+                          AV  1   SUB  1   SURFACE  1  SPECWAR/EOD 0
+    Engineering (5XXXP/G) AV  6   SUB  6   SURFACE  6  SPECWAR/EOD 0
+    English (4301P/G)     AV  0   SUB  0   SURFACE  1  SPECWAR/EOD 0
+    Financial Management (3105P/G)
+                          AV 15   SUB  6   SURFACE  10 SPECWAR/EOD 2
+    History (4302P/G)     AV  0   SUB  0   SURFACE  1  SPECWAR/EOD 0
+    Mathematics (4100P/G) AV  0   SUB  1   SURFACE  0  SPECWAR/EOD 0
+    OPS Research Analysis (3211G)
+                          AV  2   SUB  2   SURFACE  2  SPECWAR/EOD 0
+    Regional/National Security Studies (2XXXP/G)
+                          AV  3   SUB  3   SURFACE  3  SPECWAR/EOD 1
+
+3.  Travel funding considerations will only be made for distance learning 
+programs that have 20 percent or less mandated university main campus 
+residency requirements.  International travel will not be funded.  
+Application and program specifics may be found in reference (a) and at
+http://www.navycollege.navy.mil/gev/gev_home.html.
+
+4.  Points of Conact:
+    a.  For program specific questions contact the GEV Program Coordinator 
+via email at gevadvisor(at)navy.mil.
+    b.  For policy questions contact Dr. Cheral Cook at (850) 452-3671/
+DSN 459, or via email at cheral.cook(at)navy.mil.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

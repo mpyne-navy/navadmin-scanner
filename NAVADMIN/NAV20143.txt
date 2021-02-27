@@ -1,0 +1,45 @@
+UNCLASSIFIED//
+ROUTINE
+R 091408Z APR 20 MID110000691607U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 143/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/MAY//
+
+SUBJ/2019 FLEET AWARD WINNERS//
+
+REF/A/DOC/CNO/14MAR2016//
+
+AMPN/REF A IS OPNAVINST 3590.11G//
+
+RMKS/1.  It is a pleasure to announce the winners of the 2019 Fleet Awards!
+
+2.  The Arleigh Burke Fleet Trophy recognizes superior performance and 
+improvement in battle efficiency.  The 2019 winners are:
+
+    a.  U.S. Fleet Forces:  USS TENNESSEE (GOLD) (SSBN 734)
+    b.  Pacific Fleet:  USS NEBRASKA (GOLD) (SSBN 739)
+
+3.  The Marjorie Sterrett Battleship Fund Award recognizes superior 
+performance in the battle efficiency competition.  The 2019 winners are:
+
+    a.  U.S. Fleet Forces:  USS JOHN C STENNIS (CVN 74)
+    b.  Pacific Fleet:  USS ABRAHAM LINCOLN (CVN 72)
+
+4.  I commend the winning crews for their exemplary dedication to battle 
+efficiency and warfighting.  BRAVO ZULU!
+
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

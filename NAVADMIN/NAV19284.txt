@@ -1,0 +1,199 @@
+UNCLASSIFIED//
+ROUTINE
+R 101418Z DEC 19 MID110000223670U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 284/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/MARCH 2020 (CYCLE 247) NAVY-WIDE ADVANCEMENT EXAMINATIONS FOR ACTIVE-
+DUTY, FULL-TIME SUPPORT AND CANVASSER RECRUITER PETTY OFFICERS (E-4 - E-6)//
+
+REF/A/DOC/BUPERS/19SEP18//
+REF/B/MSG/SECNAV WASHINGTON DC/052044ZMAR13//
+REF/C/MSG/CNO WASHINGTON DC/N1/201449ZDEC18//
+REF/D/MSG/CNO WASHINGTON DC/N1/201604ZDEC18//
+REF/E/MSG/CNO WASHINGTON DC/N1/272057ZDEC18//
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS ALNAV 015/13, PERSONNEL SECURITY INVESTIGATION SUBMISSION 
+REQUIREMENTS.
+REF C IS NAVADMIN 312/18, ADVANCEMENT POLICY UPDATE.  
+REF D IS NAVADMIN 313/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+BUSINESS RULES.  
+REF E IS NAVADMIN 316/18, ENLISTED ADVANCEMENT WORKSHEET.//
+
+RMKS/1.  This NAVADMIN announces the March 2020 (cycle 247) Navy- wide 
+Advancement Examinations for advancement in rate of Active, Full-Time Support 
+and Canvasser Recruiter Sailors.
+    a.  Exam dates are:
+        E-6 - 5 March 2020
+        E-5 - 12 March 2020
+        E-4 - 19 March 2020
+    b.  In addition to the requirements of reference (a), chapter 6 and this 
+NAVADMIN, Educational Services Officers (ESO) must follow the pre-exam 
+preparation requirements in the exam verbatim, which can be found on the Navy 
+Enlisted Advancement System (NEAS) via MyNavy Portal (MNP) at 
+https://www.mnp.navy.mil/group/navy-advancement-center/my-eso.
+
+2.  Eligibility requirements are found in reference (a), chapter 2, with the 
+following information specific only to cycle 247:
+    a.  The terminal eligibility date used to compute time-in-rate
+(TIR) is 1 July 2020.
+    b.  The minimum TIR date must be on or before
+        E-6 - 1 July 2017
+        E-5 - 1 July 2019
+        E-4 - 1 January 2020
+    c.  E-6 candidate TIR requirements for Early Promote Sailors can be 
+waived by 1 year with the commanding officer (CO)/officer-in- charge (OIC) 
+approval, in line with reference (a), paragraph 214.
+    d.  High-year tenure (HYT) date must be effective 1 July 2020 or later.  
+Any HYT waiver must be approved prior to 1 March 2020.
+    e.  Candidates in a rating requiring a security clearance must have a 
+favorable investigation adjudication by the Department of Defense Central 
+Adjudication Facility reflected properly in the Joint Personnel Adjudication 
+System (JPAS) prior to 1 March 2020.
+If the CO of the candidate grants an interim clearance, JPAS must be updated 
+prior to 1 March 2020.  Candidates must maintain security clearance 
+eligibility throughout the advancement cycle to be eligible for advancement.  
+If for any reason a clearance is denied or revoked, an exam is not authorized 
+until a new clearance is granted.  Ratings requiring a security clearance are 
+AC, AE, AG, AO, ATI, ATO, AWF, AWO, AWR, AWS, AWV, AZ, CTI, CTM, CTN, CTR, 
+CTT, EOD, ET, FC, FCA, GM, HT, IC, IS, IT, LN, MA, MC, MN, ND, OS, QM, SB, 
+SO, STG, YN, as well as nuclear and submarine ratings.  Refer to references 
+(a) and (b) for additional guidance.
+    f.  For candidates taking E-4 and E-5 exams, compute Performance Mark 
+Average (PMA) using evaluations in the current pay grade of the candidate 
+with an ending date that falls within the following time periods:
+        E-4 exam - 1 June 2019 to 29 February 2020
+        E-5 exam - 1 December 2018 to 29 February 2020
+    g.  For candidates taking E-6 exams, compute the Reporting Seniors 
+Cumulative Average (RSCA) PMA, as outlined in reference (c), using 
+evaluations in the current pay grade of the candidate with the ending date 
+that falls within the time period
+        E-6 exam - 1 March 2017 to 29 February 2020.
+    h.  For guidance in establishing PMA for new accessions, refer to 
+reference (a), paragraph 308.b.
+    i.  For guidance on Professional Military Knowledge Eligibility Exam 
+(PMK-EE), refer to reference (d).  PMK-EE is mandatory for cycle 247.
+    j.  For guidance on establishing Enlisted Advancement Worksheet
+(EAW) user roles and completing worksheets, refer to reference (e).
+EAW is mandatory for cycle 247.  EAW will be the authority for PMA/RSCA PMA 
+and awards.
+
+3.  Exam ordering.  Order exams in line with chapter 4 of reference (a).
+    a.  Deploying commands and candidates departing to Congressionally-
+Designated Combat Zones and Approved Contingency Operations Areas (CDCZ/ACOA) 
+can order exams up to 6 months prior to the scheduled exam date.  Refer to 
+chapter 4 and paragraph 614 of reference (a) for additional guidance.
+    b.  Regular Exams:
+        (1) Sensitive Compartmented Information (SCI) Exams.
+Cryptologic-Technician Interpretive (CTI)/Cryptologic-Technician Network 
+(CTN)/Cryptologic Technician-Collection (CTR) SCI exam ordering dates can be 
+found on the NEAS website.  ESOs must verify initial Active TIR eligibility 
+lists on the NEAS website for exam ordering.  The deadline for ordering 
+supplemental TIR SCI exams is 2 January 2020.
+        (2) Non-SCI Exams.  Exam ordering for non-SCI exams begins 1 December 
+2019.  ESOs must verify TIR eligibility lists on the NEAS website during the 
+following time periods:
+            (a) Initial TIR lists will be available:
+                E-6  11 December 2019 to 18 December 2019
+                E-5  11 December 2019 to 7 January 2020
+                E-4  11 December 2019 to 13 January 2020
+            (b) Supplemental TIR lists will be available:
+                E-6  19 December 2019 to 29 January 2020
+                E-5  8 January 2020 to 2 February 2020
+                E-4  14 January 2020 to 2 February 2020
+        (3) Exams ordered after the TIR lists have closed shall be ordered 
+using preferred formatted e-mail to sfly_N321_exam_order(at)navy.mil or naval 
+message following guidelines in line with chapter 4 of reference (a).  Ensure 
+a point of contact is included in the submitted e-mail or message.
+Orders submitted after Supplemental TIR list closure will result in a 
+substitute exam being sent.
+    c.  Substitute Exams:
+        (1) The deadline for ordering SCI substitute exams is 3 April 2020.  
+The deadline for ordering non-SCI substitute exams is
+31 March 2020.
+        (2) Naval Education and Training Professional Development Center 
+(NETPDC N321) is the approval authority for all substitute exams.
+        (3) Recent graduates of the Naval Nuclear Propulsion Program training 
+pipeline on transfer leave in route to their first at-sea assignment during 
+the E-4 and E-5 examination dates will have substitute examinations ordered 
+for them by their ultimate duty station if dates permit exam ordering before 
+the published deadline.
+        (4) Substitute examinations may be administered with regular exam 
+administration or in line with reference (a), paragraph 606.
+    d.  ESOs must verify examination orders at the View Previous Exam Orders 
+link via the NEAS website within 7 to 10 days of placing the order.  If exam 
+order discrepancies are noted, contact the Fleet Services Branch (NETPDC 
+N321) as listed in the NEAS website NETPDC N321 Point of Contact Table.
+    e.  Exceptions to Policy for exam orders will continue to be submitted in 
+line with reference (a).
+    f.  Candidates in the following ratings are separated into the following 
+competitive groups:
+        (1) CTI
+            Group 1  Middle East/North Africa
+            Group 2  East/Far East
+            Group 3  Latin/South America
+            Group 4  Eastern Europe
+        (2) EMN, ETN and MMN
+            Group 1  Submarine
+            Group 2  Surface
+            Group 3  Training
+
+4.  Exam Administration and Answer Sheet Returns
+    a.  For exam administration and answer sheet return instructions refer to 
+chapter 6 of reference (a).
+    b.  ESOs must check the exam tote board on the NEAS website via MyNavy 
+Portal often to ensure answer sheets have been received and processed.  
+Answer sheets that are in error will not be counted until they are processed 
+successfully.
+    c.  A detailed discrepancy list can be found at the NEAS website via MNP.  
+For guidance on discrepancy correction requirements, refer to reference (a), 
+chapters 3 and 7.
+    d.  Post-exam administration discrepancy correction correspondence with 
+NETPDC N321 is to be submitted using the EAW post-exam administration 
+comments function, refer to reference (e).
+All corrections must have CO/OIC letter and supporting documentation included 
+as attachments.  Education point corrections require a submission of the 
+Joint Service Transcript indicating the degree type and date of completion.
+    e.  For guidance on E-4 through E-6 candidates with missed exams due to 
+assignment in CDCZ/ACOA, refer to reference (a), chapter 6.
+
+5.  Examination Results.  Refer to reference (a), chapter 7.
+
+6.  Any additional information regarding this cycle will be posted on the 
+NEAS website.
+
+7.  Points of contact.
+    a.  MyNavy Career Center (MNCC) is available 24/7 by phone at 1- 833-330-
+MNCC (1-833-330-6622) or via e-mail at askmncc(at)navy.mil.
+    b.  SCI exam questions and orders can be reached at (850) 473- 5867/DSN 
+753 or via e-mail at sfly_cryptologic.products(at)navy.mil.
+    c.  Non-SCI exam questions and orders can be reached at (850) 473-
+6148/DSN 753 or via e-mail at sfly_N321_exam_order(at)navy.mil.
+    d.  Records and discrepancies can be reached at (850) 473- 6148/DSN 753 
+or via EAW.
+
+8.  For further NEAS information, to include exam verbatim and other related 
+documents, visit MNP at https://www.mnp.navy.mil/group/navy-
+advancement-center/my-eso.
+
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

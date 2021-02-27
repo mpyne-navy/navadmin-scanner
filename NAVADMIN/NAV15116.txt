@@ -1,0 +1,160 @@
+UNCLASSIFIED/
+ROUTINE
+R 111331Z MAY 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 116/15
+
+SUBJ/AUGUST 2015 CYCLE 097 NAVY-WIDE EXAMINATIONS FOR ADVANCEMENT OF SELECTED 
+RESERVE PERSONNEL TO E4 THROUGH E6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+REF/A/DOC/BUPERS/2NOV07//
+REF/B/MSG/SECNAV WASHINGTON DC/052044ZMAR13//
+REF/C/MSG/CNO WASHINGTON DC/N1/252221ZJUN10//
+REF/D/MSG/CNO WASHINGTON DC/N1/131544ZDEC07//
+REF/E/DOC/DOD/1AUG12//
+NARR/REF A IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  REF B IS ALNAV 015/13, PERSONNEL 
+SECURITY INVESTIGATION SUBMISSION REQUIREMENTS. REF C IS NAVADMIN 215/10, 
+PERFORMANCE EVALUATION AND ADVANCEMENT GUIDANCE FOR INDIVIDUAL AUGMENTEE 
+SAILORS.  REF D IS NAVADMIN 336/07, ADMINISTRATION OF THE NAVY-WIDE 
+ADVANCEMENT EXAM FOR SAILORS IN IRAQ, AFGHANISTAN, AND THE HORN OF AFRICA.  
+REF E IS DOD INSTRUCTION 1000.30, REDUCTION OF SOCIAL SECURITY NUMBER (SSN) 
+USE WITHIN DOD.//
+
+RMKS/1.  This NAVADMIN announces Cycle 097 Navy-wide advancement examinations 
+(NWAE) for advancement in rate of Selected Reserve (SELRES) personnel.
+    a.  SELRES exams will be administered in August 2015.
+    b.  All candidates serving on voluntary recall or mobilization will 
+compete for advancement as a SELRES.
+    c.  This NAVADMIN supplements reference (a).
+    d.  In addition to the requirements of reference (a), chapter 6, 
+Educational Services Officers (ESOs) must follow the pre-exam preparation 
+requirements in the exam verbatim, located at 
+https://www.nko.navy.mil/group/navy-advancement-center.
+
+2.  Eligibility Requirements.  Advancement candidate eligibility requirements 
+are found in reference (a), chapter 2 with the following information specific 
+only to Cycle 097:
+    a.  SELRES candidates must meet all basic eligibility requirements no 
+later than 31 July 2015.
+    b.  The terminal eligibility date used to compute time-in-rate (TIR) is 1 
+January 2016.
+    c.  The minimum TIR date must be on or before:
+        E6 - 1 January 2013
+        E5 - 1 January 2015
+        E4 - 1 July 2015
+    d.  E6 candidates with an approved TIR waiver must have a TIR of 1 
+January 2014 or earlier.
+    e.  High year tenure (HYT) date or approved HYT waiver date must be on or 
+after 1 January 2016.
+    f.  Candidates in a rating requiring a security clearance must have a 
+favorable investigation adjudication issued by Department of Defense (DoD) 
+Central Adjudication Facility or the commanding officer's interim clearance 
+must have been granted before 1 August 2015.  Sailors in the following 
+ratings must, at a minimum, maintain continuous security clearance 
+eligibility for this cycle: AC, AE, AG, AO, ATI, ATO, AWF, AWO, AWR, AWS, AZ, 
+CTI, CTN, CTR, CTT, EOD, ET, FC, GM, HT, IC, IS, IT, LN, MA, MC, MN, ND, OS,
+QM, SB, SO, STG, STS, and YN.  Refer to reference (b) for additional 
+guidance.
+    g.  Change of rate and retention approvals must be approved and completed 
+no later than 31 July 2015.
+    h.  Compute performance mark average (PMA) using all evaluations in the 
+candidate's current rank with an ending date that falls within the following 
+time periods:
+        E4 exam - 1 January 2015 to 31 July 2015
+        E5 exam - 1 June 2014 to 31 July 2015
+        E6 exam - 1 August 2012 to 31 July 2015
+    i.  For additional guidance on computing PMA, refer to reference (a), 
+chapter 3.  For PMA guidance for individual augmentee (IA) Sailors, refer to 
+reference (c).
+
+3.  Exam Ordering:
+    a.  Deploying commands can order exams up to six months prior to the 
+scheduled examination date.  Refer to reference (d) for IA Sailors.
+    b.  CTI/CTN/CTR sensitive compartmented information (SCI) exam web 
+ordering dates can be found on the Navy Enlisted Advancement System (NEAS) 
+website at https://neasos.cnet.navy.mil.
+        (1) ESOs must verify TIR eligibility lists on the NEAS website for 
+initial exam ordering.
+        (2) Additional exams are ordered via message or in message format via 
+e-mail to sfly_cryptologic.products(at)navy.mil following the guidelines of 
+reference (a), chapter 4.  Commands must include their DoD activity address 
+code account number, point of contact (POC), and the number of exams 
+required.  Commands requesting the forwarding of exams should include the 
+forwarding command as an info addressee on the message.  The deadline for 
+additional orders is 1 July 2015.
+    c.  Exam web ordering for non-SCI exams begins 26 May 2015. ESOs must 
+verify TIR eligibility lists on the NEAS website during the following time 
+periods:
+        (1) Initial TIR lists will be available 26 May to 23 June 2015.
+        (2) Additional TIR lists will be available 1 July to 4 August 2015.
+        (3) Exams required after the TIR list has closed as well as exams for 
+prior service reenlistment eligibility - reserve Sailors are ordered via 
+message or in message format via e-mail to sfly_N321_exam_order(at)navy.mil 
+following the guidelines of reference (a), chapter 4.  Ensure a POC is 
+included in the message.
+    d.  Exams for IA Sailors or recalled reservists will be ordered by the 
+command holding the service record of the member.  Authority is granted for 
+these candidates to be administered exams with the command's active-duty 
+candidates.  However, these candidates are still required to take the Cycle 
+097 exam and not the Cycle 228 exam.
+    e.  When an exam is not used during the normally scheduled event, do not 
+destroy the exam prior to 1 October 2015.  Submit a request with 
+justification via e-mail to sfly_n321_exam_order(at)navy.mil for permission 
+to retain exams for administration on the next drill weekend in September. 
+Ensure reason for requested delay is included.
+    f.  ESOs must verify the exam order status at the "View Previous Exam 
+Orders" link via the NEAS website within 14 days of placing examination 
+orders.  If discrepancies are noted, contact Naval Education and Training 
+Professional Development and Technology Center.
+
+4.  Exam Administration and Answer Sheet Returns.
+    a.  Refer to the exam verbatim for exam administration and answer sheet 
+return instructions.
+    b.  ESOs must check the exam tote board on the NEAS website,
+https://neasos.cnet.navy.mil/neas/public/toteboard.aspx, often to ensure 
+answer sheets have been received and processed.
+    c.  The deadline for regular cycle administration is 31 August 2015.  
+Approved late exams must be administered no later than 30 September 2015.
+    d.  A detailed discrepancy list will be maintained on the NEAS website.  
+For guidance on correcting discrepancies via encrypted e-mail, refer to 
+reference (a), chapter 7.
+    e.  Per reference (e), NWAE correspondence for advancement Cycle 097 and 
+all future exam cycles must be processed using the DoD identification number.  
+Correspondence sent to the advancement center with the candidate*s social 
+security number cannot be processed.
+
+5.  Exam Results.
+    a.  E4-E6 results will be provided via BUPERS On-Line to authorized 
+command representatives prior to release of profile sheets.
+    b.  Commands are directed to verify the examination status verification 
+report for accuracy before frocking and/or advancement of E4-E6 candidates.
+    c.  Individual Sailors may view/download their profile sheet at the 
+"Profile Sheets" link on the Navy Knowledge On-line Navy Advancement Center 
+website under the *Career Management* link.
+
+6.  Points of Contact:
+    a.  NPC Customer Service Center at 866-U-ASK-NPC/866-827-5672 or via 
+e-mail at uasknpc(at)navy.mil.
+    b.  For SCI exam questions and orders, 850-473-5874/DSN 753.
+    c.  For exam orders, records, and discrepancies, 850-473-6148/DSN 753.
+
+7.  For further information (exam verbatim, advancement manual, and other 
+related documents) visit the NKO website at 
+https://www.nko.navy.mil/group/navy-advancement-center.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+9.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

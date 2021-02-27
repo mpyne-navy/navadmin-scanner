@@ -1,0 +1,137 @@
+UNCLASSIFIED/
+ROUTINE
+R 291321Z JAN 15 PSN 568586H38
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 025/15
+
+SUBJ/UPDATED GUIDANCE FOR THE INCLUSION AND COMMAND REVIEW OF INFORMATION ON 
+SEX-RELATED OFFENSES IN PERSONNEL SERVICE RECORDS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+REF/A/MSG/CNO WASHINGTON DC/N1202029ZAUG14//
+REF/B/DOC/PUBLIC LAW 113-66/26DEC13/NOTAL//
+REF/C/DOC/USD(P&R)/20MAY14//
+REF/D/DOC/DOD/28MAR13//
+REF/E/DOC/OPNAV/29DEC06//
+REF/F/DOC/OPNAV/22DEC09//
+NARR/REF A IS NAVADMIN 189/14, INCLUSION AND COMMAND REVIEW OF INFORMATION ON 
+SEX-RELATED OFFENSES IN PERSONNEL SERVICE RECORDS. REF B IS PUBLIC LAW 113-
+66, NATIONAL DEFENSE AUTHORIZATION ACT (NDAA) FOR FISCAL YEAR 2014.  REF C IS 
+A MEMORANDUM FOR SECRETARIES OF THE MILITARY DEPARTMENTS, REGULATIONS ON 
+INCLUSION AND COMMAND REVIEW OF INFORMATION ON SEX-RELATED OFFENSES IN 
+PERSONNEL SERVICE RECORDS.  REF D IS DOD INSTRUCTION 6495.02, SEXUAL ASSAULT 
+PREVENTION AND RESPONSE (SAPR) PROGRAM PROCEDURES.  REF E IS OPNAVINST 
+1752.1B, SEXUAL ASSAULT VICTIM INTERVENTION (SAVI) PROGRAM.  REF F IS 
+OPNAVINST F3100.6J, SPECIAL INCIDENT REPORTING (OPREP-3 PINNACLE, OPREP-3 
+NAVY BLUE, AND OPREP-3 NAVY UNIT SITREP) PROCEDURES.//
+
+RMKS/1.  This NAVADMIN supersedes and cancels reference (a).  It does not 
+impose a new requirement.  It provides updated guidance and changes the 
+*effective from* reporting date for certain sex-related offenses per 
+references (b) and (c).  Changes to reference (a) are:
+     a.  Submission timeline of Sexual Offense Accountability Record, 
+(NAVPERS 1070/887) to a member’s Official Military Personnel File (OMPF) is 
+increased from two business days to five business days from adjudication of 
+non-judicial punishment (NJP) or at the completion of the appeal process and 
+from two business days to five business days from adjudication of a court-
+martial.
+     b.  Commanders, commanding officers (CO), and officers in charge (OIC) 
+are directed to conduct a review and submit NAVPERS 1070/887 for all 
+personnel within their command who were convicted at court-martial or awarded 
+NJP for any sex-related offenses listed in paragraph 6 since 26 December 
+2013.
+     c.  Further amplification of these updates are found in paragraphs 5 and 
+8 respectively.
+
+2.  Reference (b) requires:
+     a.  The inclusion of disposition information on certain sex-related 
+offenses in the personnel service records of service members.
+     b.  The mandatory review of each service member*s personnel record 
+notation of those sex-related offenses by commanders, COs, and OICs of the 
+service members.
+
+3.  The purpose of including disposition information on certain sex-related 
+offenses in personnel service records is to alert commanders, COs, and OICs 
+of members in their commands who received a court-martial conviction or NJP 
+for these offenses to reduce the likelihood that repeat offenses will escape 
+the notice of commanders, COs, and OICs.
+
+4.  Per references (b) and (c), commanders, COs, and OICs shall submit and 
+file NAVPERS 1070/887 in a member*s OMPF where it will remain for the 
+duration of his or her career.
+
+5.  NAVPERS 1070/887 will be used to annotate the OMPF of any service member 
+who is convicted at court-martial or awarded NJP for sex-related offense(s), 
+listed in paragraph 6 below, regardless of recommendation for retention or 
+separation from the naval service. The NAVPERS 1070/887 will be submitted 
+within five business days of action being determined/adjudication of NJP or 
+when the appeal process has been completed and five business days of 
+adjudication at court-martial using the e-Submission (e-SUB) application on 
+BUPERS Online (BOL) for those with e-Sub access.  Commands without e-SUB 
+access will mail NAVPERS 1070/887 to:
+
+Commander
+Navy Personnel Command
+PERS-313
+5720 Integrity Drive
+Millington, TN 38055-3130
+
+NAVPERS 1070/887 will be filed in the service member*s OMPF under field code 
+91 (FC 91).  Once the OMPF is updated, NAVPERS 1070/887 will be available for 
+commanders, COs, and OICs to review using the OMPF command view application 
+on BOL.
+
+6.  Commands will document sex-related offenses on NAVPERS 1070/887 to 
+include:  violation of Articles 120, 120a, 120b, 120c, or 125 of the Uniform 
+Code of Military Justice (UCMJ); or an attempt to commit any of these 
+offenses punishable under Article 80 of the UCMJ.
+
+7.  In the Navy, the term punitive administrative action, as delineated in 
+references (b) and (c), is limited to punishments imposed by court-martial or 
+NJP (e.g., punitive letters of reprimand).  Therefore, the punitive 
+administrative action option in NAVPERS 1070/887 is not applicable and should 
+not be used.
+
+8.  No later than 2 March 2015, commanders, COs, and OICs shall submit 
+NAVPERS 1070/887 for any service member who was convicted at court-martial or 
+awarded NJP for any sex-related offense listed in paragraph 6 above since 26 
+December 2013.  If a service member has since transferred, it is the 
+responsibility of the losing command to complete the NAVPERS 1070/887 for the 
+service member, regardless of recommendation for retention or separation from 
+the naval service.
+
+9.  Commands will review the OMPF of all permanently assigned and newly 
+transferred personnel no later than 3 April 2015 to determine if any service 
+member has any documented FC 91 entries.  Commanders, COs, and OICs are 
+required to review all documents in FC 91 for all newly reporting personnel 
+within 30 days of checking onboard.  In order to identify these documents in 
+a member*s record, the OMPF can be sorted by form number NAVPERS 1070/887 or 
+by FC 91.
+
+10.  NAVPERS 1070/887 is a fillable form and is available online at the 
+following website:  http://www.public.navy.mil/bupers-npc/ 
+reference/forms/Pages/default.aspx.
+
+11.  These requirements do not supersede any requirements for reporting or 
+processing NJP or court-martial actions as required by the MILPERSMAN, 
+requirements for reporting incidents of sexual assault stipulated in 
+references (d) through (f), or requirements to submit the Sexual Assault 
+Disposition Report (NAVPERS 1752/1).
+
+12.  Point of contact is LCDR Christopher Labissiere, OPNAV N17, at (703)604-
+6989/DSN 664 or via e-mail at christopher.labissie(at)navy.mil.
+
+13.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+14.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#4227
+NNNN
+UNCLASSIFIED//

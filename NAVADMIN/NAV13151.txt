@@ -1,0 +1,99 @@
+UNCLASSIFIED//
+ATTENTION INVITED TO  
+ROUTINE
+R 312035Z MAY 13 PSN 851258K29
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO ZEN/CNO WASHINGTON DC
+BT
+UNCLAS
+QQQQ
+
+SUBJ: MORATORIUM ON MICROSOFT WINDOWS XP AND ALL PRIOR VERSIONS OFMIC 
+ROSOFT OPERATING SYSTEMS UNCLASSIFIED/ 
+
+PASS TO ALL OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N2N6//
+UNCLAS//
+
+NAVADMIN 151/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/MORATORIUM ON MICROSOFT WINDOWS XP AND ALL PRIOR VERSIONS OF 
+MICROSOFT OPERATING SYSTEMS//
+
+REF/A/DOC/SECNAV/10APR09// 
+REF/B/LTR/DON CIO WASHINGTON DC/08JUN12// 
+REF/C/LTR/DON CIO WASHINGTON DC/22FEB12// 
+REF/D/LTR/DON CIO WASHINGTON DC/15JUN11//
+REF/E/LTR/DDCIO(N) WASHINGTON DC/27NOV12//
+NARR/Ref A IS SECNAVINST 5230.15.  Ref B is Department of the Navy   
+XXXX
+(DoN) Chief Information Officer (CIO) memorandum, Microsoft Software 
+Assurance for Microsoft Products. Ref C is DoN CIO/Assistant Secretary 
+Of The Navy (Research, Development and Acquisition/Assistant) 
+Secretary Of The Navy (Financial Management and Comptroller) joint 
+memorandum, Mandatory Use of Department of the Navy Enterprise 
+Licensing Agreements.  Ref D is DoN CIO memorandum, secure hash 
+algorithm migration guidance.  Ref E is DDCIO(N) memorandum Windows 
+7/8 Release and Non-Compatible Applications.// POC/Michael 
+Cricchio/GS-15/OPNAV N2N6BC2/TEL: COMM 571-256-8510/EMAIL: 
+michael.cricchio1(at)navy.mil//
+POC/Joseph Walker/GG-14/OPNAV N2N6BC4/TEL: COMM 571-256-8523/EMAIL: 
+joe.t.walker(at)navy.mil//
+
+RMKS/1.  This NAVADMIN provides guidance on the use of Microsoft 
+Windows XP and all prior versions of Microsoft operating systems.  
+Effective 30 April 2014, Microsoft will no longer provide vendor 
+lifecycle support (automatic fixes, updates, or online technical
+assistance) for Windows XP.  
+
+2.  Per Ref A, all commercial off the shelf (COTS) software in use 
+across the Department of the Navy (DoN) shall be vendor supported.  
+Per Refs B and C, all products licensed from Microsoft shall be 
+supported by, and include, software assurance on an ongoing basis and 
+shall be procured per DoN enterprise licensing policy.  Ref D mandates 
+use of Secure Hash Algorithm 256 (SHA-256) cryptography to support 
+Department of Defense transition by 1 April 2014.  
+Transition to Microsoft Windows 7 is a vital component to meet
+SHA-256 mandate requirements.
+
+3.  Ashore program managers shall migrate all Navy and Marine Corps 
+Intranet, OCONUS Navy Enterprise Network, and Next Generation 
+applications to Microsoft Windows 7 or later versions of Microsoft 
+operating systems no later than 31 December 2013.  
+
+4.  Ashore program and system managers are prohibited from negotiating 
+support contracts with vendors for Microsoft Windows XP and older 
+operating systems.
+
+5.  Afloat programs and systems are exempt from the requirements of 
+this NAVADMIN until specific afloat guidance is issued SEPCOR.  
+
+6.  Non-vendor supported software:  Ref A provides policy and guidance 
+for fielding and support requirements for COTS software.  
+All software applications must have vendor support throughout their 
+lifecycle.  Commands that have operational requirements for 
+applications without vendor, government, or third party support must 
+submit a waiver to and receive approval from the DDCIO(N).  Approvals 
+will be granted on a case by case basis.  All software waiver requests 
+which are not approved will be formally disapproved and recorded in 
+DoN Navy Applications and Database Management System within 30 days 
+of notification.   Waivers for non-vendor supported applications 
+(including Windows 7 compatibility) must include: 
+
+    a.  A detailed overview of the associated system. 
+    b.  Description of operational requirement for the unsupported 
+        capability. 
+    c.  Funding and management plan for maintenance until eventual 
+        migration to a supported capability.  
+
+7.  Released by VADM Kendall L. Card, Deputy Chief of Naval 
+Operations, Information Dominance, OPNAV N2N6.//
+BT
+#0000
+NNNN
+

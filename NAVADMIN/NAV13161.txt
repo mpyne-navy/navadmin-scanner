@@ -1,0 +1,270 @@
+RTTUZYUW RUEWMCS0000 1682318-UUUU-RUCRNAD.
+ZNR UUUUU
+
+R 172318Z JUN 13
+
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01160//
+
+NAVADMIN 161/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+
+SUBJ/RECRUITING ENLISTMENT AND AFFILIATION BONUSES FOR SELECTED 
+RESERVE ENLISTED PERSONNEL// 
+
+REF/A/MSG/CNO WASHINGTON DC/031921ZJAN12// 
+REF/B/DOC/COMNAVRESFOR/5JUN12// 
+REF/C/DOC/COMNAVRESFOR/3MAR11// 
+REF/D/DOC/NAVPERSCOM/22AUG02// 
+REF/E/DOC/DOD/7SEP10// 
+NARR/REF (A) IS NAVADMIN 001/12, RECRUITING ENLISTMENT AND AFFILIATION 
+BONUSES FOR SELECTED RESERVE ENLISTED PERSONNEL.  REF (B) IS RESPERS 
+M-1001.5 NAVY RESERVE PERSONNEL MANUAL.  REF (C) IS COMNAVRESFORINST 
+1780.1C, MONTGOMERY GI BILL - SELECTED RESERVE CHAPTER 1606 BASIC AND 
+KICKER PROGRAM POLICY GUIDANCE.  REF (D) IS MILPERSMAN 1160-030, 
+CERTAIN ENLISTMENTS AND REENLISTMENT UNDER CONTINUOUS SERVICE 
+CONDITIONS.  REF (E) IS DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT 
+REGULATION 7000.14-R.// 
+
+RMKS/1.  Effective two weeks (14 calendar days) from release, this 
+NAVADMIN supersedes ref (a) and provides the current bonus listing of 
+eligible specialties for Selected Reserve (SELRES) Prior Service 
+Affiliation Bonuses and SELRES New Accession Training (NAT) Enlistment 
+Bonuses (EB).  Full eligibility criteria listed in ref (b) remain in 
+effect, unless modified in this message.  Bonus authority in this 
+NAVADMIN is effective through the end of fiscal year 2013 unless 
+earlier superseded.
+
+2.  To maintain operational effectiveness, our Navy must attract the 
+highest quality recruits and prior service veterans.  A vigorous 
+recruiting plan requires flexible tools to ensure we recruit the 
+correct number of Sailors with the right skills to optimize our 
+warfighting capability.
+
+3.  The following paragraphs provide details for each program.
+    a.  General:  All bonuses governed by this message will be paid in 
+installments.  The initial payment will equal fifty percent of the 
+total bonus amount except as noted in para 3.a.(4).  Eligibility for 
+anniversary payments is contingent upon member maintaining 
+satisfactory participation, per ref (b), in the designated rate/rating 
+or specialty for each year of their bonus contract.  
+        (1)  NAT bonus anniversary payments will be made in five equal 
+annual installments.
+        (2)  In-rate Affiliation/Prior Service EB anniversary payments 
+will be made annually for two or five years based upon a three or six 
+year obligation, respectively.
+        (3)  Prior Service Reenlistment Eligibility-Reserve (PRISE-R) 
+Bonus recipients will receive the second installment equal to the 
+remaining fifty percent after completing requirements to make their 
+rate permanent.
+        (4) Direct Procurement Enlistment Program and Direct 
+Conversion Other Service Veterans will not receive any payments until 
+completing all requirements to make their rate permanent.  
+    b.  Service obligation for Affiliation/Prior Service EB.
+        (1) Extensions are not authorized to gain eligibility for 
+bonuses.
+        (2) PRISE-R program requires a six year enlistment to qualify 
+for a bonus.
+        (3) In-rate affiliations may qualify for a three year bonus or 
+a six year bonus based on length of enlistment and written agreement.  
+Four or five year enlistments may only receive a three-year bonus.        
+        (4) Ref (d) authorizes Sailors who enlist or reenlist within 
+three months (six months for career reenlistment objectives 1 and 2
+ratings) of their discharge or release from active duty to reenlist 
+under continuous service conditions.
+        (5) Prior service members with remaining Ready Reserve 
+obligation of 12-months or greater who do not meet continuous service 
+conditions described above are authorized to enlist at the time of 
+affiliation provided the new contract end date exceeds their remaining 
+Ready Reserve obligation and current expiration of service.
+        (6) Prior Service members qualified for SELRES affiliation who 
+incurred a three year Ready Reserve obligation to receive involuntary 
+separation pay are authorized to reenlist at the time of affiliation 
+under the provisions of para 3.b.(5).
+    c.  Prior service affiliation bonus.
+        (1) Eligibility criteria:
+            (a) Must not have completed more than 16 years of total 
+military service from their pay entry base date prior to their current 
+affiliation/enlistment date.
+            (b) Must not have been a member of the Navy Selected 
+Reserve within the 12-months preceding their current 
+affiliation/enlistment date.
+
+4.  Prior Service Affiliation Bonus Tier amounts:
+Tier     Term      Total      Initial    Anniversary    
+1        6-year    $20,000    $10,000    5 of $2,000  
+         3-year    $10,000    $5,000     2 of $2,500    
+2        6-year    $15,000    $7,500     5 of $1,500    
+         3-year    $7,500     $3,750     2 of $1,875    
+3        6-year    $10,000    $5,000     5 of $1,000    
+         3-year    $5,000     $2,500     2 of $1,250 
+   
+
+5.  Affiliation/Prior Service Enlistment Bonus eligible specialties 
+and bonus Tier levels.  Where "Any" is listed in the "NEC" column, 
+anyone in that rating is eligible regardless of Navy Enlisted 
+Classification (NEC).  PRISE-R candidates are only eligible to receive 
+bonuses for ratings listed without specific NEC requirements.
+    a.  Tier 1
+Skill       NEC
+AWF         Any
+AWO         Any
+AWR         7835
+CTI         9ARB
+CTI         9PES
+CTN         9306
+CTR         Any
+ND          Any
+SB          Any
+SO          Any
+    b.  Tier 2
+Skill       NEC
+AG          7412
+AWR         Any
+AWS         Any
+CTN         Any
+CTT         9141
+HM          8410
+HM          8427
+HM          8485
+IS          3912
+IS          3923
+IS          3924
+IT          2779
+IT          2780
+IT          2791
+MC          Any
+MN          Any
+    c.  Tier 3
+Skill       NEC
+BU          5907
+CE          5635
+CM          5805
+CTT         Any
+EN          4303
+EN/MM       4313
+EO          5710
+ET          9605
+ET          14NO
+ET          14RO
+ET          1420
+ET          1678
+IS          Any
+IT          Any
+LN          Any
+OS          0336
+SW          6010
+UT          6105
+
+6.  NAT program EB:
+    a.  Bonus eligibility date is determined by the date a Sailor 
+enlists (enters Delayed Entry Program), vice the active duty service 
+date.
+    b.  Per ref (b), NAT enlistees who reclassify on or after the date 
+of this message are subject to this message.
+
+7.  NAT bonus Tier amounts:
+Tier     Term      Total      Initial    Anniversary
+1        6-Year    $20,000    $10,000    5 of $2,000
+2        6-Year    $15,000    $7,500     5 of $1,500
+3        6-Year    $10,000    $5,000     5 of $1,000
+4        6-Year    $5,000     $2,500     5 of $500 
+
+8.  NAT bonus eligible specialties and bonus Tier levels.
+    a.  Tier 1
+Rating      NEC
+None
+    b.  Tier 2
+Rating      NEC
+None
+    c.  Tier 3
+Rating      NEC
+AIRC        Any
+CTR         Any
+CTN         Any
+    d.  Tier 4
+Rating      NEC
+IT          Any
+
+9.  Bonus eligible Sailors who enlist for six years may apply for the 
+Montgomery GI Bill Selected Reserve Kicker program provided they meet 
+all program eligibility criteria contained in ref (c).
+
+10.  Eligibility determination and bonus application procedures.
+    a.  Recruiters shall:
+        (1) Determine Sailor's eligibility for Affiliation or EB per 
+this message and ref (b).  For assistance in determining eligibility, 
+contact COMNAVRESFORCOM (N11) Incentive Program Specialists at
+(757) 322-2653/2649/6735/2656/DSN 262 or via e-mail at 
+cnrfc_bonus_shop(at)navy.mil.
+        (2) Complete bonus written agreement in the Reserve Bonus 
+Application Module (RBAM).  Effective with this NAVADMIN, this is the 
+only authorized method to complete enlisted bonus written agreements.  
+RBAM can be accessed via the Navy Reserve Homeport at 
+https://private.navyreserve.navy.mil/cnrfc/n-codes/n1/cnrfc_n112/RBAM.
+        (3) Recruiters unable to access RBAM should contact an 
+Incentive Program Specialist per para 10.a.(1) for guidance.
+        (4) Forward the completed incentive written agreement with all 
+enlistment documentation (i.e., DD Form 4, Enlistment Program 
+Guarantee Annex, DD Form 1966, PRISE-R Page 13, etc.) to the Sailor's 
+gaining Navy Reserve activity.
+    b.  Career Transition Office Transition Assistants shall:
+        (1) Determine Sailor's eligibility for Affiliation Bonus per 
+this message and ref (b).  Contact COMNAVRESFORCOM (N11) for 
+assistance in determining bonus eligibility.
+        (2) Complete bonus written agreement in RBAM.  Effective with 
+this NAVADMIN, this is the only authorized method to complete enlisted 
+bonus written agreements.  RBAM can be accessed via the Navy Reserve 
+Homeport at https://private.navyreserve.navy.mil/cnrfc/n-codes/n1/
+cnrfc_n112/RBAM.
+        (3) Forward the completed incentive written agreement and all 
+supporting documentation to the Sailor's Navy Reserve activity.
+    c.  Navy Reserve activities shall:
+        (1) Verify accuracy of the Affiliation/EB written agreement 
+per this message.
+        (2) Ensure bonus eligible NEC is listed as member's primary 
+NEC or secondary NEC in Navy Standard Integrated Personnel System 
+prior to submission to COMNAVRESFORCOM for payment. 
+        (3) Scan and submit all required documents listed on the CNRFC 
+N112 Enlisted Incentives Homeport as a single (multiple pages) PDF 
+file to COMNAVRESFORCOM (N11) via RBAM.  Missing documents will delay 
+bonus payment.  If unable to scan documents, contact an Incentive 
+Program Specialist for guidance.
+
+11.  Termination and recoupment.  Per ref (b), failure to complete the 
+terms of the incentive obligation will result in termination of bonus 
+entitlement.
+    a.  Certain conditions affecting participation will result in 
+recoupment of the unearned portion of the bonus entitlement per ref 
+(b) para 7.b.
+    b.  Recoupment is at discretion of Secretarial Process when a 
+member fails to complete the terms of the incentive obligation in the 
+following circumstances in accordance with (IAW) with the complete 
+policy cited for each circumstance.  Note that recoupment action will 
+be initiated for these circumstances, until and unless the Secretarial 
+Process waives or remits recoupment:
+        (1) Separation for medical reasons not covered by ref (b) para 
+7.a.(3), IAW ref (e) Table 2-1, Rule 3;
+        (2) Medical reasons preclude completion of incentive 
+obligation, but member is not separated and continues in another 
+capacity IAW ref (e) Table 2-1, Rule 4;
+        (3) The Secretarial Process determines that recoupment is 
+contrary to a personnel policy or management objective, against equity 
+or good conscience, or contrary to the best interest of the United 
+States IAW ref (e).
+
+12.  Interested personnel are highly encouraged to contact a local 
+recruiter to determine their eligibility.
+
+13.  Point of contact is Mr. Jim Johnson, CNRFC (N1C21), at
+(757) 322-2244/DSN 262 or via e-mail at james.p.johnson(at)Navy.mil.
+
+14.  Released by Vice Admiral S. R. Van Buskirk, N1.//
+BT
+#0000
+NNNN
+

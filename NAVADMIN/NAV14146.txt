@@ -1,0 +1,90 @@
+RTTUZYUW RHOIAAA0001 1761620-UUUU--RHSSSUU.
+ZNR UUUUU
+R 251609Z JUN 14
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 146/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUN// 
+
+SUBJ/NAVY COMPLIANCE WITH ENTERPRISE DIRECTORY SERVICES (EDS)// 
+
+REF/A/MSG/CNO WASHINGTON DC/DTG: 201138Z JUN14/
+
+REF/B/MSG/ USCYBERCOM FT GEORGE G MEADE MD/DTG: 22151Z AUG 13/NOTAL// 
+
+REF/C/ MEMO/DOD CIO WASHINGTON DC/23JAN2013/NOTAL// 
+
+NARR/REF A IS NAVADMIN 139/14 DIRECTING UPDATE OF INDIVIDUAL CONTACT 
+INFORMATION VIA THE MILCONNECT WEBSITE/REF B IS THE USCYBERCOM WARNORD TO 
+IMPLEMENT THE DOD EDS.  REF C IS THE DEPARTMENT OF DEFENSE CHIEF INFORMATION 
+OFFICER MANDATE FOR THE DEPARTMENT TO UTILIZE ENTERPRISE DIRECTORY SERVICES 
+(EDS)// 
+
+POC/JANICE HAITH/SES/OPNAV N2N6BC/LOC: WASHINGTON DC/TEL:
+(571) 256-8505/EMAIL: JANICE.HAITH(AT)NAVY.MIL.// 
+
+RMKS/1. Reference (a), NAVADMIN 139/14, directed commanding officers to take 
+positive action to ensure all assigned personnel update personal 
+identification and contact information via milConnect no later than 25 June 
+2014, in support of implementation of Enterprise Directory Services (EDS), 
+required by references (b) and (c).
+
+2. Sailors* positive actions to comply with this direction, combined with 
+similar simultaneous actions to update milConnect data throughout the U.S. 
+Army, have resulted in a volume of traffic that has slowed milConnect 
+response speed.
+
+3. In order to reduce instantaneous demand on milConnect and re-establish 
+milConnect response speed, the deadline for reporting completion of 
+milConnect updates is extended to 11 July 2014.
+
+4. Reporting procedures. Commanding Officers shall report completion of 
+command-wide milConnect updates to their ISIC. Echelon II Command Information 
+Officers (CIOs) are directed to collect and report their own and subordinate 
+commands* compliance to the Department of Navy Deputy Chief Information 
+Officer (DDCIO(N)) by 11 July 2014.
+Compliance reporting may be forwarded via e-mail to governance(at)navy.mil.
+
+5. Instructions. Personnel can update their organizational and contact data 
+in milConnect by following the instructions outlined below.
+    a. Launch Microsoft Internet Explorer, version 8 or higher.
+    b. In the address bar, type:
+https:(slash slash)www.dmdc.osd.mil(slash)milconnect and select enter.
+    c. Select the red (sign in) link on the right hand side of the screen.
+    d. After reading the self-service consent to monitor page, select (ok).
+    e. Ensure Common Access Card (CAC) is in the card reader.
+    f. Once CAC is inserted, select the (login) located under the CAC picture 
+on the computer screen.
+    g. Select digital email certificate and click (ok) and enter pin if 
+prompted.
+    h. Upon successful login, the milConnect homepage will be displayed. On 
+the right side menu under the quick links list, select (Update Global Address 
+List (GAL)).
+    i. Select the appropriate profile tab (MIL, CIV, or CTR) for the 
+information you'd like to update.  You may have more than one tab, depending 
+on your relationship to the DoD.
+    j. Enter any information that is missing or outdated in the fields 
+available for modification. At a minimum, the following attributes must be 
+filled out accurately:
+        (1) Duty Organization
+        (2) Duty sub-organization
+        (3) Office Symbol
+        (4) Job Title
+        (5) Duty Installation / Location
+        (6) Duty Address
+        (7) Phone Number(s)
+    k. Once pertinent information is updated, click (submit) at the bottom of 
+the page to save the changes.
+    l. If there are additional profiles that need to be updated, please 
+follow steps I-K.
+
+6. Released by Vice Admiral S. H. Swift, Director Navy Staff.// 
+
+BT
+#0001
+NNNN
+

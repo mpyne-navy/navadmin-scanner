@@ -1,0 +1,71 @@
+UNCLASSIFIED
+ROUTINE
+R 301844Z SEP 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 221/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/SEP//
+
+SUBJ/ERRONEOUS CHARGES TO MILITARY/CIVILIAN MEMBERS' CREDIT CARD ACCOUNTS//
+
+RMKS/1.  Military and civilian personnel who used the Navy's Morale, Welfare 
+and Recreation (MWR) and Child and Youth Programs (CYP) services in Monterey, 
+Calif., and Navy Region locations in Guam, Japan, Korea, and Singapore, 
+during the period January through June 2016 may have recently experienced 
+duplicate charges on their credit or debit cards.
+
+2. The duplicate charges were a result of synchronization issues associated 
+with a recent hardware upgrade that occurred on 24 SEP 2016.  The issue is 
+not related to any kind of hacking or intrusion, and there was no release of 
+personally identifiable information.
+
+3. Commander, Navy Installations Command (CNIC) has established a page on the 
+Navy's MWR website at 
+http://www.navymwr.org/resources/Credit_Card_Duplicate_Postings/ to assist 
+MWR customers affected by this incident.  Customers can also email 
+mwr_creditcard_FAQ.fct@navy.mil or call a 24/7 hotline at 844-697-4357 to 
+speak directly to a representative regarding this incident and its impact on 
+their affected financial account.
+
+4.  MWR's credit and debit card processor, Bank of America, reversed all the 
+duplicate charges on 28 SEPT 2016.  However, it may take up to 7 business 
+days for all duplicate charges to be reversed depending on the financial 
+institution.  MWR customers are encouraged to check their bank statements 
+regularly for updates and to notify Navy MWR if the duplicate charges have 
+not been reversed 31 October 2016.
+
+5.  The Navy is in the process of contacting financial institutions with a 
+presence on Navy installations and requesting a waiver of any overdraft, late 
+charges or other fees charged to the MWR customer as a result of this 
+incident.  Currently Navy Federal Credit Union (NFCU) is working to identify 
+their impacted members in order to take proactive steps to reverse the 
+duplicate transactions and refund any associated fees.  Fees caused by the 
+duplicate transaction will be refunded or waived. Any impacted Navy Federal 
+member may visit a local branch or call 1-888-842-6328.
+
+6.  The Navy MWR Program will reimburse overdraft, late charges or other fees 
+related to this incident that are not waived and charged to an individual's 
+bank account or credit card statement.  Customers can visit their local MWR 
+office for immediate reimbursement of fees or contact the Navy via the e-mail 
+at mwr_creditcard_FAQ.fct@navy.mil or 24/7 hotline at 844-697-4357.
+
+7.  The Navy and Marine Corps Relief Society is available to assist Sailors 
+who may encounter a temporary hardship due to this incident. Civilians 
+affected can utilize civilian employee assistance programs to seek help 
+connecting with agencies that may be able to offer assistance.
+
+8.  The Point of contact for this issue is Mr. Jerry Hieb, CNIC Fleet and 
+Family Readiness Programs Director, who can be reached at jerry.hieb@navy.mil 
+or 202-433-4544.
+
+9.  Released by Vice Admiral R. L. Thomas, Director, Navy Staff//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

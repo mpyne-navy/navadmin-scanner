@@ -1,0 +1,86 @@
+UNCLASSIFIED
+ROUTINE
+R 131614Z JAN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+ROUTINE
+R XXXXXXZ JAN 16
+FM CNO WASHINGTON DC//N9//
+TO NAVADMIN
+UNCLAS //N04770//
+
+NAVADMIN 010/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/JAN/
+
+SUBJ/REVISION TO FY16 PROJECTED SHIP INACTIVATION SCHEDULE //
+
+REF/A/RMG/CNO WASHINGTON DC/N9/271646ZJUL15//
+REF/B/DOC/OPNAVINST 4770.5H/24APR14//
+REF/C/DOC/OPNAVINST 5400.44A/13OCT11//
+REF/D/DOC/OPNAVINST 5441.1/14SEP11//
+NARR/Ref (a) is CNO NAVADMIN 168/15 announcing the FY16 Projected Ship 
+Inactivation Schedule.  Ref (b) is OPNAV policy and guidance for the 
+inactivation, retirement, and disposition of U.S. naval vessels.   Ref (c) is 
+OPNAV policy for submitting organizational change requests.   Ref (d) is 
+OPNAV policy for reporting changes in status for U.S. naval vessels to the 
+Naval Vessel Register. //
+POC/C. GAVINO/CDR/N9ISC1/LOC: Washington DC/TEL: 703-693-9363/ DSN 224-225-
+9363/EMAIL: christopher.gavino@navy.mil//
+
+RMKS/1.  Ref (a) is amended to include the following change in inactivation 
+dates for FY16:
+
+Ship Name		Projected Inactivation Date 	Post Inactivation Status
+USS ALBUQUERQUE  (SSN 706)	 03 Feb 2016		      Dismantlement
+USS CITY OF CORPUS CHRISTI (SSN 705) 29 Jun 2016	      Dismantlement
+USS HOUSTON (SSN 713)		   29 Jun 2016			Dismantlement
+
+2.  The projected inactivation date and post inactivation status for USNS 
+RAINER remain unchanged, ref (a) is germane.
+
+3.  The revised projected FY16 ship inactivation schedule for inactivating 
+U.S. battle force and non-battle force naval vessels is promulgated as 
+follows to facilitate fleet planning efforts to conduct decommissioning 
+continuous maintenance availability (CMAV) or inactivation availability 
+(INAC).
+
+4.   For the purposes of this revised NAVADMIN, inactivation dates projected 
+in para 1 refer to the start of an INAC for nuclear vessels, when the vessels 
+are no longer counted as part of the Navy’s battle force.    Decommissioning 
+will occur at a later date and be reported to CNO IAW ref (b).
+
+5.  Per refs (b) and (c), Fleet Commanders shall submit an Organizational 
+Change Request (OCR) to formally notify the Director, Navy Staff of para 1 
+ships inactivation effective date.   A revised OCR shall be submitted to 
+adjust the effective date (by 60 days or more) due to operational schedule 
+changes.   It is the responsibility of Commander, U.S. Fleet Forces Command 
+(USFFC) and Commander, U.S. Pacific Fleet (CPF) in coordination with their 
+respective TYCOM to ensure the appropriate lower echelon commands are 
+notified of any changes in the ship inactivation schedules, as well as OPNAV 
+N9I and OPNAV resource sponsor.
+
+6.  Adjustments to para 1 ship inactivations that cross the current fiscal 
+year must be coordinated with OPNAV N9I due to reporting requirements that 
+Navy must inform Congress on execution year force structure changes that 
+differ from what Congress authorized/appropriated and signed into law by the 
+President.  OPNAV shall promulgate changes to the inactivation fiscal year as 
+required.
+
+7.  Ship commanding officers, masters, and officers in charge for all ships, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning ) announcing  the ships official retirement date and 
+include a brief history of the significant events in the life of the ship per 
+ref (b).  The Naval History and Heritage Command (NAVHISTHERITAGE WASHINGTON 
+DC) and Naval Vessel Register Custodian (NVR NORFOLK VA) shall be included as 
+INFO addees.
+
+8.  Released by Mr. Brian J. Persons, Deputy Chief of Naval Operations, 
+Warfare Systems (N9).//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

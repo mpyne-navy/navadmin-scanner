@@ -1,0 +1,138 @@
+UNCLASSIFIED
+ROUTINE
+R 012049Z MAY 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 105/17
+
+SUBJ/IMPLEMENTATION OF THE DEPARTMENT OF NAVY TASKS, RECORDS, AND 
+CONSOLIDATED KNOWLEDGE ENTERPRISE REPOSITORY FOR TASK MANAGEMENT//
+
+MSGID/GENADMIN//
+POC/Navy DON TRACKER points of contact:
+Implementation/Phase-In - CDR Mark Walstead,
+mark.walstead(at)navy.mil.
+Data Migration - LCDR Jerardo Reyna, jerardo.reyna(at)navy.mil and 
+LCDR Christopher Mullen, christopher.mullen(at)navy.mil.
+Congressional Implementation - Mrs. Suzanne Gonzales,
+suzanne.gonzales1(at)navy.mil//
+
+REF/A/DOC/DON CIO WASHINGTON DC/20140410
+NARR/REF A IS DON CIO MEMO, DEPARTMENT OF THE NAVY TASK AND RECORDS
+MANAGEMENT SYSTEMS.//
+
+RMKS/1.  Purpose.  This NAVADMIN announces the revised implementation plan 
+for the task management (TM) function of Department of the Navy (DON) 
+Tasking, Records and Consolidated Knowledge Enterprise Repository (TRACKER) 
+for the OPNAV Staff and Echelon II Commands, per REF A. DON TRACKER can be 
+accessed at https://dontracker.navy.mil.
+
+2.  General.  DON TRACKER is a single enterprise solution to replace multiple 
+legacy Department-wide TM and records management (RM) applications in order 
+to streamline digital tasking and recordkeeping at a lower cost across the 
+Secretariat, U.S. Navy, and U.S. Marine Corps.  This plan initially affects 
+OPNAV and commands currently using the NIPR TV5 task management system, and 
+will eventually impact those using Congressional Information Management 
+System (CIMS) once it is transitioned to DON TRACKER.
+
+3.  Training.  The training CONOPS is based on the train-the-trainer 
+methodology.  An initial round of contractor provided DON TRACKER training 
+concluded 30 September 2016, 466 members received training. An updated 
+schedule for contractor provided training will be promulgated through the DON 
+TRACKER Transition Portal at 
+https://portal.secnav.navy.mil/orgs/OPNAV/COP/TRACK.  If not already 
+complete, Commands should identify their primary "power users", capable of 
+providing training to other personnel within their organizations, to attend 
+the upcoming training sessions being held in the NCR, Norfolk, San Diego, 
+Hawaii, and Naples, IT.  A variety of webinars will also be added to the 
+training regimen.  Organizations shall develop internal protocols for the 
+training of members within their organizations; fully utilizing the personnel 
+who will or have received contractor and Program Office (PMW-240) provided 
+face-to-face training.  Training material, such as an updated User Manual and 
+Instructional Videos are in development and will be available soon on the DON 
+TRACKER website and the DON Tracker Transition Portal.
+
+4.  Scope.  DON TRACKER will provide the Navy an effective TM system and lays 
+the foundation for follow-on RM compliance.  Per REF A, DON TRACKER will 
+become the enterprise solution for all DON TM and RM and no new investment 
+should be made in TM and RM systems.  The Marine Corps began using NIPR DON 
+Tracker in April 2016 and the Office of the Secretary of the Navy (SECNAV) 
+and the Chief of Naval Operations (OPNAV) will transition on 8 May 2017.  
+Secret Internet Protocol (SIPR) DON TRACKER implementation is planned for 
+FY18 and transition plans will be promulgated SEPCOR.
+
+5.  Deployment.  OPNAV will utilize a phased approach for the deployment of 
+DON TRACKER.  It is recommended that all Commands ensure they have a minimum 
+of one user with "Task Coordinator" privileges assigned to their front 
+offices and subordinate organizations.  DON TRACKER will not allow tasking to 
+organizations without at least one Task Coordinator assigned to accept and 
+respond to the task.  Beginning 8 May 2017, all new tasks originating in the 
+SECNAV Office will be promulgated in DON TRACKER. Director, Navy Staff (DNS) 
+will begin to issue taskers via DON TRACKER on a limited basis to allow OPNAV 
+and Echelon II commands to execute a controlled transition to DON TRACKER.  
+This transition period will end on or about 12 June 2017 and "Full 
+Implementation" will be complete. At this point all new tasks will be 
+submitted through DON TRACKER.
+
+6.  Sundown of TV5.  After Full Implementation all new tasks must be 
+initiated and processed in DON TRACKER.  This date is subject to change and 
+any changes will be promulgated through info only tasks in TV5 and/or DON 
+TRACKER.  If a task is assigned or delegated via DON TRACKER, the response 
+must be submitted via DON TRACKER.  The period between Full Implementation 
+and 31 December 2017 will be referred to as the "Sundown Phase".  During the 
+Sundown Phase, users may continue to work and complete existing TV5 tasks 
+with suspense dates that fall within the Sundown Phase.  Tasks with suspense 
+dates outside of the Sundown Phase will need to be manually entered into DON 
+TRACKER and marked complete in TV5 with a comment added that the tasker has 
+been migrated to a DON TRACKER tasker number.  On 1 January 2018, TV5 will be 
+set to read only to support access to archive data while data is migrated to 
+DON TRACKER.
+
+7.  Data Migration for TV5.  All TV5 files (tasks, document reviews, 
+responses) closed and archived on or before 8 May 2017 will be migrated to 
+DON TRACKER for Initial Operating Capability (IOC).  TV5 tasks closed between 
+8 May 2017 and 31 December 2017 will be migrated to DON TRACKER in early 
+2018.  TV5 will remain operational in read only for archive access until data 
+is satisfactorily migrated to DON TRACKER.
+
+8.  Transition Coordinators.  A list of OPNAV and Echelon II Transition 
+Coordinators are located on the DON TRACKER Transition Portal. If unable to 
+identify your coordinator, please contact CDR Mark Walstead.
+
+9.  CIMS Transition and Data Migration.  Details for the transition and data 
+migration from CIMS to DON TRACKER will be promulgated through the DON 
+TRACKER Transition Portal and SEPCOR.
+
+10.  DON TRACKER Customer Support.  Customers will initiate service requests 
+for technical assistance via the Navy 311 Help Desk at 1-855-NAVY-311.  TV5 
+customer support can be reached at 703-695-9093 and will remain in place 
+until after transition to SIPR DON TRACKER estimated for late FY18.
+
+11.  Updated NIPR DON TRACKER Transition Schedule (supplement to NAVADMIN 
+195/16).  24 Apr - 23 Jun (notional) - Contractor Provided Training (NCR, 
+Norfolk, San Diego, Hawaii, and Naples, IT) 7 Apr - 8 May - TV5 Users Self 
+Register into Live Environment 8 May - 12 Jun - DNS-1 Coordinated Phase-In of 
+NIPR DON TRACKER Tasks 12 Jun - 31 Dec - Sundown of NIPR TV5.  Open tasks 
+with due dates before 31 December 2017 are allowed to remain in TV5 until 
+completion.  Tasks with due dates past 31 December 2017 must be marked 
+complete and manually entered into DON TRACKER.
+
+12.  Licenses.  Initially, each organization was allotted the same number of 
+licenses as they have current TV5 users.  As license demand increases, 
+license requests will be evaluated and approved in accordance with a license 
+management plan currently under development.  Total license availability to 
+DNS for each Fiscal Year is capped and based on a negotiated contract with 
+PMW-240 and the license provider.
+
+13.  Applicability.  This NAVADMIN is applicable to commands currently using 
+TV5 as their primary Task Management Solution.
+
+14.  Release authorized by VADM J. G. FOGGO, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

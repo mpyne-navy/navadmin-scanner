@@ -1,0 +1,143 @@
+UNCLASSIFIED
+ROUTINE
+R 091359Z NOV 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 250/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/NAVAL POSTGRADUATE SCHOOL DISTANCE LEARNING GRADUATE EDUCATION PROGRAMS 
+AVAILABLE FOR ACADEMIC YEAR 2017//
+
+RMKS/1.  This NAVADMIN announces Naval Postgraduate School (NPS) defense-
+focused masters degrees and graduate certificates to develop quantitative 
+skills and competencies, producing graduates with the disciplined analytical 
+approach to problem solving that is essential to an effective and dynamic 
+defense enterprise.  NPS is dedicated to providing relevant, high-quality 
+education to empower the next generation of leadership in the Department of 
+Defense (DoD).  A variety of delivery methods are utilized to expand learning 
+beyond the traditional classroom.
+
+2.  NPS distance learning (DL) programs are part-time programs (usually 12 to 
+24 months) for mid-grade military officers and DoD civilian leaders who are 
+unable to attend NPS residential graduate programs.  Graduate certificates 
+are also available to qualified enlisted personnel.  U.S. Navy Reserve 
+officers should contact Commander, Naval Reserve Forces Command (N7) in 
+regards to program eligibility.  DoD contractor personnel applications will 
+be considered for admission on a space-available basis. Student application 
+forms are available at: 
+http://www.nps.edu/Academics/Admissions/ApplyOnline/ApplyNow.html
+
+3.  Enrollment requirements. In addition to the application process, students 
+that do not fall under the mission-funded category must be sponsored by their 
+command or employer.  All NPS students must have a signed Participation 
+Agreement for NPS DL Programs.
+a.  All Active Duty Navy and Marine Corps officers who are academically 
+eligible are mission-funded, therefore, there is no cost to the officer.  
+U.S. Marine Corps (USMC) officers will apply through the USMC DL program as 
+advertised in the corresponding annual MARADMIN message.
+b.  All other prospective DL students must have a Memorandum of Agreement 
+(MOA) and a funding document in place in order to be enrolled in any NPS DL 
+program.
+(1) For Navy and Marine Corps reserve officers, enlisted personnel, and 
+Department of the Navy (DON) civilians, the MOA is a fillable interagency 
+agreement, DON 7600A form, and the funding document is order for work and 
+services, NAVCOMPT 2275, or order for work and services direct citation, 
+NAVCOMPT 2276A.
+(2) For non-Navy DoD agencies, the MOA is Financial Management 
+Standardization (FMS) form 7600A and the funding document is DD Form 448, 
+military interdepartmental purchase request.
+(3) For non-DoD Federal agencies, the FMS 7600A form and the funding document 
+is FMS 7600B.  The FMS 7600A/B serves as the standard form to be used 
+Government-wide for all reimbursable agreements at the trading partner level, 
+including, but not limited to: agreements between agencies, agreements within 
+agencies, grant-related agreements, and assisted acquisitions.
+
+4.  The following DL programs are available for academic year 2017:
+    a.  DL masters degree programs consist of two classes per quarter for 
+eight quarters.  Check each programs webpage for any prerequisites or 
+eligibility requirements for enrollment as they may vary.  Copies of 
+transcripts and participation agreements are required to support the 
+application process for all degree programs.  Curriculum number:
+       311 - Systems Engineering:
+http://my.nps.edu/web/dl/degProgs_SE_nonRes
+       359 - Human Systems Integration:
+http://my.nps.edu/web/dl/degProgs_MHSI
+363 - Systems Analysis:
+http://my.nps.edu/web/dl/degProgs_MSA
+379 - Cost Estimating and Analysis:
+http://my.nps.edu/web/dl/degProgs_MCEA
+       535 - Underwater Acoustic Systems:
+http://my.nps.edu/web/dl/degProgs_MEA
+       721 - Systems Engineering Management - PD21
+http://my.nps.edu/web/dl/degProgs_PD21
+       805 - Executive Master of Business Administration:
+http://www.nps.edu/Academics/Schools/GSBPP/Academics/EMBA.html
+       807 - Executive Master of Business Administration (for DoD
+Civilians):
+http://www.nps.edu/Academics/Schools/GSBPP/Academics/EMBA.html
+       835 - Contract Management (for DoD Civilians):
+http://www.nps.edu/Academics/Schools/GSBPP/Academics/MSCM.html
+       836 - Program Management (for DoD Civilians):
+http://www.nps.edu/Academics/Schools/GSBPP/Academics/MSPM.html
+    b.  NPS offers the following programs that build on Navy Advanced 
+Technical Education schools and leverage the academic work in these schools 
+and require reduced course work, typically one course per quarter for five to 
+eight quarters. 
+
+Curriculum number:
+       312 - Naval Test Pilot/Systems Engineering (Aviation Systems):
+http://www.nps.edu/Academics/DL/DLPrograms/Programs/degProgs_312A
+SE_TPS.html
+       571 - Reactors - Mechanical/Electrical Engineering:
+http://my.nps.edu/web/ece/Index.html
+       572 - Mechanical Engineering for Nuclear Trained Officers:  
+http://my.nps.edu/web/mae/nnps
+       613 - Naval Test Pilot/Mechanical and Aerospace Engineering:  
+http://my.nps.edu/web/mae/tps
+c.  DL graduate certificates consist of a series of four graduate level 
+courses delivered over four quarters designed to provide enhanced knowledge 
+and skills in specific subject areas. Check each programs webpage for any 
+prerequisites or eligibility requirements for enrollment as they may vary. 
+Curriculum number:
+       232 - Lead Systems Integrator (LSI):
+http://my.nps.edu/web/dl/cert_lsi
+       262 - Human Systems Integration:
+http://my.nps.edu/web/dl/cert_hsi
+       273 - Space Systems:
+http://my.nps.edu/web/dl/cert_SS
+       274 - Anti-Submarine Warfare:
+http://my.nps.edu/web/dl/cert_ASW
+       281 - Systems Analysis:
+http://my.nps.edu/web/dl/cert_SA
+       282 - Systems Engineering:
+http://my.nps.edu/web/dl/cert_SE
+       289 - Cost Estimating and Analysis:
+http://my.nps.edu/web/dl/cert_cea
+
+5.  All officers who enroll in a NPS DL masters degree will incur a two to 
+three year service obligation upon completion/withdrawal, and all who enroll 
+in a NPS certificate program will incur a one year service obligation upon 
+completion/withdrawal as outlined in OPNAVINST 1520.23C, Graduate Education, 
+enclosure 7.  Textbooks, education materials, and all similar expenses will 
+be borne by the student.  Any officer who has previously received a Navy-
+funded graduate degree will have to complete a second funded degree waiver 
+request.  Program commencement is subject to the availability of funds.
+
+6.  For more information regarding NPS DL programs, visit the NPS homepage at 
+http://www.nps.edu/DL/.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,43 @@
+UNCLASSIFIED//
+ROUTINE
+R 211304Z MAR 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 071/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/FY-20 NAVY OLMSTED SCHOLAR PROGRAM SELECTION RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/011623ZMAR18//
+AMPN/REF A IS NAVADMIN 053/18, FY-20 OLMSTED SCHOLAR PROGRAM.//
+
+RMKS/1.  Congratulations to the following Navy Olmsted Scholar nominees for 
+being selected by the Olmsted Foundation for the FY-20 Olmsted Scholar 
+Program.  Navy Olmsted Scholar selectees are listed in alphabetical order.
+
+Governale, Carlos      LCDR    1130
+Howell, Matthew        LCDR    1320
+Matthews, Zachary      LCDR    1310
+ONeal, Brady           LCDR    1310
+Feldmann, Jeffery      LT      1120
+
+2.  FY-20 Olmsted Scholar Program selectees should provide current 
+information to Ms. Elise McGuire, NETPDC, at (850) 473-6064/DSN 753, or via 
+e-mail at elise.mcguire(at)navy.mil.
+
+3.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

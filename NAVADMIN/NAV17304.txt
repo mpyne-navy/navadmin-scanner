@@ -1,0 +1,189 @@
+UNCLASSIFIED
+ROUTINE
+R 211859Z DEC 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 304/17
+
+MSGID/GENADMIN CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/PHYSICAL READINESS PROGRAM POLICY CHANGE//
+
+REF/A/DOC/OPNAV/11JUL11//
+REF/B/DOC/NAVPERS/22AUG02//
+REF/C/DOC/BUPERS/01MAY15//
+REF/D/DOC/BUPERS/6MAY14//
+REF/E/DOC/SECNAV/26AUG15//
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.  
+REF B IS NAVPERS 15560D, NAVAL MILITARY PERSONNEL MANUAL.  
+REF C IS BUPERSINST 1610.10D, NAVY PERFORMANCE EVALUATION SYSTEMS.  
+REF D IS BUPERSINST 1430.16F CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+IN THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF E IS SECNAVINST 1920.6C CH-5, ADMINISTRATIVE SEPARATION OF OFFICERS.//
+
+RMKS/1.  This NAVADMIN announces revised Physical Readiness Program 
+separation policies.  Adjustments to Physical Readiness Program policies 
+reflect a continued emphasis to invest in and retain our most important 
+resource, our Sailors.  Retention of every capable Sailor is critical to the 
+operational readiness of the Navy.  The goal of the Navys physical readiness 
+program is to maintain a minimum prescribed level of fitness necessary for 
+world-wide deployment and to maintain a Sailors long-term health and 
+wellness. Revisions to references (a), (b), and (c) are forthcoming and will 
+be published at a later date.
+
+2.  Effective immediately:
+    a.  All commands will discontinue processing members for separation as a 
+result of Physical Fitness Assessment (PFA) failures.  Separation orders 
+resulting from PFA failures prior to Soft End of Active Obligated Service 
+(SEAOS) with approved dates after 31 March 2018 are cancelled.  Officers with 
+approved separation orders for PFA failure with a directed separation date 
+prior to 1 March 2018 can request their separation orders be cancelled in 
+order to remain in the Navy by contacting PERS-834, subject to Secretary of 
+Navy (SECNAV) approval.
+    b.  MILPERSMAN 1910-170, Separation by Reason of PFA Failure, is 
+cancelled.
+
+3.  The following applies to all enlisted members:
+    a.  Enlisted members who:
+        (1) Fail one PFA will:
+            (a) Be issued a NAVPERS 1070/613 via Navy Standard Integrated 
+Personnel System (NSIPS) to inform them of the PFA failure.
+            (b) Be enrolled in the Fitness Enhancement Program (FEP) until 
+passing the next official PFA.
+            (c) Not be frocked or advanced.  Members may regain eligibility 
+for promotion by passing a command-directed monthly FEP mock PFA.  However, 
+they must still remain enrolled in FEP until passing the next official PFA.
+        (2) Fail two or more consecutive PFAs will continue service until 
+SEAOS.  Additionally these members:
+            (a) Will be ineligible for advancement under reference (a).
+            (b) Will be ineligible to reenlist or extend under reference (b).
+            (c) Will receive an adverse report that states Significant 
+Problems on evaluation under reference (c).
+            (d) Will be detailed as required.  Changes to any program that 
+has specific PFA requirements will be announced via revision to its governing 
+instruction.
+            (e) May regain eligibility for advancement and reenlistment by 
+passing one subsequent official PFA.  In line with references (c) and (d), 
+members must obtain the recommendation of their CO for advancement and 
+retention on their most recent evaluation.  This may require a special 
+evaluation to restore retention or advancement recommendations after a member 
+passes an official PFA.
+    b.  For those members who currently have approved separation or Fleet 
+Reserve dates as a result of the previous PFA separation policy, the 
+following information and guidelines are provided:
+        (1) Members who currently have approved separation dates not aligned 
+to their SEAOS on or before 31 March 2018 must contact their chain of command 
+and decide no later than 1 February 2018 whether to cancel their 
+separation/reserve orders and remain on active duty or execute their orders 
+as originally planned.  Every effort will be made to retain Sailors who 
+desire to stay Navy.
+        (2) Enlisted members with SEAOS between 1 January 2018 and 30 June 
+2018 who are ineligible for retention or cannot submit a Career Waypoints (C-
+WAY) application due to adverse evaluations as a result of past PFA failure 
+history and desire to stay Navy are authorized an extension to regain 
+eligibility with command endorsement as follows:
+            (a) Requested extension length should be of sufficient duration 
+to allow for processing of a future special evaluation and application in C-
+WAY (if applicable), but must not exceed 30 September 2018.
+            (b) Because this is an exception to policy, this action will not 
+require a C-WAY quota (if applicable).
+            (c) Once the member successfully passes the official Cycle 1, 
+2018 PFA, and has retention eligibility restored from the CO, the member can 
+submit their reenlistment/extension request directly to their CO, or Bureau 
+of Naval Personnel (BUPERS) Enlisted Community Manager (BUPERS-32) for 
+enlisted members who must use C-WAY.  For Nuclear-trained members, all 
+requests must be submitted via their CO to Deputy Chief of Naval Operations 
+Nuclear Program Manager (OPNAV (N133)).  In all cases, the Physical Readiness
+Information Management Systems (PRIMS) results must show the Cycle 1, 2018 
+results.
+    c.  Members with approved Fleet Reserve dates on or after 31 July 2018 
+who pass Cycle 1, 2018 and desire to remain on active duty must first submit 
+a cancellation request no later than 1 May 2018 to Commander, Navy Personnel 
+Command (COMNAVPERSCOM) Enlisted Retirements Office (PERS-836) at the 
+following e-mail address: enlisted_active_duty_retirements(at)navy.mil.  Once 
+received, approval of the Fleet Reserve cancellation request serves as 
+authority to cancel previously issued retirement orders, which are issued by 
+the local supporting personnel office.  PERS-836 will forward all approved 
+cancellation requests to COMNAVPERSCOM, Enlisted Assignment Division (PERS-
+40), and to OPNAV (N133) for all nuclear-trained members.
+    d.  Enlisted personnel affected by this change to PFA separation policy, 
+who desire to stay Navy, must maintain advancement eligibility as outlined in 
+reference (d) to participate in the Navy-Wide Advancement Exam (NWAE).  This 
+may require a special evaluation to restore advancement recommendation once 
+the member passes an official PFA.
+    e.  Members who desire to stay Navy:
+        (1) Who are not in receipt of separation/retirement orders but are 
+within seven months of their Projected Rotation Date (PRD) must contact their 
+detailer who can make a Career Management System Interactive (CMS-ID) 
+application for them in the next CMS-ID cycle.
+        (2) Who are in their normal 7-12 month negotiation window should 
+submit an application via CMS-ID.  Those affected members beyond 12 months 
+from their PRD will follow the normal detailing processes.
+
+4.  The following applies to all officers who:
+    a.  Fail one PFA will:
+       (1) Not be eligible for promotion.  Commands are required to delay 
+promotion and inform PERS-833.  Members will regain eligibility for promotion 
+by passing the next command-directed monthly FEP mock PFA.
+       (2) Be issued a Letter of Notification to inform them of the PFA 
+failure.
+       (3) Be enrolled in the FEP until passing the next official PFA.
+    b.  Fail two or more consecutive PFAs will be submitted to PERS-834 for 
+administrative separation processing under reference (e).
+        (1) If SECNAV determines the officer is to be separated (or retired), 
+this action will occur at the PRD of the officer or upon the determination of 
+SECNAV, whichever is later.
+        (2) If an officer passes an official PFA prior to the decision of 
+SECNAV on retention or separation, processing will cease and the member will 
+be retained upon notification to PERS-834.  A special fitness Report may be 
+submitted to document the officers satisfactory physical readiness status 
+under reference (c).
+        (3) Additionally, officers who fail two or more consecutive
+PFAs will receive an adverse report that states Significant Problems
+on their fitness report under reference (c).
+
+5.  Additional information that applies to all members:
+    a.  Effective 1 January 2018 all PFA failures will reset to zero only for 
+enlisted reenlistment policy and officer administrative separation policy as 
+outlined in paragraphs 3.a and 4.  No other records will be changed such as 
+PRIMS, Fitness Reports or Evaluations.
+    b.  All members must have a Body Composition Assessment (BCA) completed 
+within five work days of reporting to a new command.  This BCA spot-check 
+will not count as the official BCA for newly reported members during the 
+command PFA cycle, regardless of the status of the official command PFA 
+cycle.  Members exceeding Age Adjusted Body Fat Standards (AAS) during spot-
+checks must be enrolled into Command FEP.
+    c.  FEP enrollment and disenrollment determination:  Upon either a BCA 
+spot-check failure or PFA failure, members must participate in FEP until they 
+pass an official PFA and are within AAS.
+    d.  All members who have regained promotion/advancement eligibility are 
+reminded of their ability to communicate in writing to promotion and 
+selection boards as outlined in MILPERSMAN 1420-010 of reference (b) and 
+reference (d).
+
+6.  The Nuclear Propulsion Program Manager, OPNAV (N133), will remain the 
+single point of contact on all PFA failure policy matters relating to Naval 
+Nuclear Propulsion Program (NNPP) personnel.
+    a.  Nuclear-trained members may be granted an exception to the criteria 
+of paragraphs 3 and 4 with approval of OPNAV (N133).
+    b.  All recommendations for administrative separation processing for 
+nuclear-trained officers will be submitted to OPNAV (N133) for review and 
+approval.
+
+7.  Points of contact.  Physical Readiness Program, Mr. Bill Moore at 
+(901)874-2210 or PRIMS(at)navy.mil.  For all other personnel related 
+policies:  NAVPERSCOM at 1-866-827-5672 (U-ASK-NPC).
+
+8.  Released by Vice Admiral Robert P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,270 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 111857Z JUL 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 154/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/NAVY ECHELON I HIGH RISK ESCALATION PROCESS//
+
+REF/A/DOC/DODI 8510.01/DOD/28JUL17//
+
+REF/B/DOC/OPNAVINST 5239.1D/CNO/18JUL18//
+
+REF/C/LTR/DON CIO MEMORANDUM/DON/15NOV2015//
+
+REF/D/DOC/SECNAV/DON/MARCH 2019//
+
+REF/E/LTR/NAVY SECURITY CONTROL ASSESSOR (SCA) RISK MANAGEMENT FRAMEWORK 
+(RMF) ASSESSMENT AND AUTHORIZATION TESTING GUIDANCE//
+
+REF/F/RMG/CNO/261805Z DEC 18//
+
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION 8510.01, RISK MANAGEMENT 
+FRAMEWORK (RMF) FOR DOD INFORMATION TECHNOLOGY (IT).  REF B IS CHIEF OF NAVAL 
+OPERATIONS INSTRUCTION 5239.1D, U.S. NAVY CYBERSECURITY PROGRAM.  REF C IS 
+DEPARTMENT OF THE NAVY CHIEF INFORMATION OFFICER MEMORANDUM ADDITIONAL 
+REQUIREMENTS FOR NAVY HIGH RISK ESCALATION PACKAGES.  REF D IS THE SECRETARY 
+OF THE NAVYS CYBERSECURITY READINESS REVIEW.  REF E IS THE NAVY SECURITY 
+CONTROL ASSESSOR (SCA) RISK MANAGEMENT FRAMEWORK (RMF) ASSESSMENT AND 
+AUTHORIZATION TESTING GUIDANCE.  REF F IS NAVADMIN 315/18, COMPILE TO COMBAT 
+IN 24 HOURS REQUIREMENT (C2C24) IMPLEMENTATION FRAMEWORK.// 
+POC/GURLEY/CIV/OPNAV N2N6G5/TEL: 571-256-8522/
+EMAIL:  STEPHEN.R.GURLEY1(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides direction on the Navy Echelon I High Risk 
+Escalation (HRE) process.  It applies to all U.S. Navy (USN) Information 
+Technology (IT) as defined in references (a) and (b) that have been 
+determined in accordance to the criteria described in this message.  The HRE 
+process provides operational risk, impact, and mission criticality 
+assessments to the HRE Advisory Group
+(HREAG) which will determine whether to recommend the continued operation of 
+a network, system, or circuit with aggregated high or very high risk.
+
+2.  Background.  Per references (a) through (c), the Department of the Navy 
+(DON) Deputy Chief Information Officer (Navy) (DDONCIO (N)) must review and 
+document concurrence on all USN IT with aggregated high or very high risk, as 
+determined by the cognizant Security Controls Assessor (SCA) at the system 
+level and authorized by the Authorizing Official (AO) at the operational 
+level, to the DON Office of the Chief Information Officer (OCIO).  The SCA 
+determines systems as either high or very high risk in the system level 
+Security Assessment Report (SAR) per reference (b).  The SCA will determine 
+risk levels based on a risk assessment in accordance with federal and 
+Department of Defense (DoD) guidance with focus on operational risk, mission 
+criticality, aggregate lower-level risk and any potential negative impacts to 
+DoD networks.  The AO considers the current security state of the system (as 
+reflected by the risk assessment and recommendations provided in the SAR) and 
+weighs this against the system criticality.  OCIO must review high risk 
+systems every six (6) months in accordance with DoD guidance as outlined in 
+reference (a).
+
+3.  The HREAG is comprised of representatives from OCIO, Deputy Assistant 
+Secretary of the Navy for Command, Control, Communications, Computers, and 
+Intelligence (DASN C4I), Deputy Chief of Naval Operations for Information 
+Warfare (OPNAV N2N6), Senior Information Security Officers (SISO), Program 
+Offices, Resource Sponsors, Systems Commands Functional Authorizing 
+Officials(FAO), Functional SCAs (FSCA), Naval Information Warfare Systems 
+Command
+(NAVWAR) acting as the Navy SCA, and Fleet Cyber Command acting as the Navy 
+Authorizing Official (NAO).
+
+4.  Legacy application owners with applications in HRE who modernize their 
+applications in accordance with the Compile to Combat in 24 Hours (C2C24) 
+framework can take advantage of the streamlined Risk Management Framework 
+(RMF) accreditation process by inheriting security controls of using shared 
+infrastructure.  This streamlined RMF process, called Rapid Assess and 
+Incorporate for Software Engineering in a Day (RAISED), significantly reduces 
+the time and effort applications need to complete RMF.  This enables a more 
+responsive cybersecurity environment where new vulnerabilities can be quickly 
+remediated.  Resources are better spent modernizing applications to be more 
+secure and agile vice continuing to try to keep legacy applications compliant 
+with current and emerging cybersecurity challenges.  Reference (f) is 
+germane.
+
+5.  HRE Timeline.  Below is the HRE expected timeline for dates of actions to 
+be taken to achieve an authorization from the appropriate AO for systems with 
+an existing authorization.  OCIO, OPNAV N2N6, or NAO reserves the right to 
+adjust this timeline as required and to work individually with stakeholders 
+to help expedite completion.  A visual timeline is available at 
+https://portal.secnav.navy.mil/orgs
+/OPNAV/N2N6/DDCION/N2N6BC4/HRE/SitePages/Home.aspx.
+    a.  Fleet Cyber Command (FCC) issues two monthly Warning Orders 
+WARNORDs), one identifying systems and one identifying circuits within 180 
+days of expiration in 30 day increments.  These WARNORDs capture what is 
+nearing expiration, or not on glideslope to attain a follow-on authorization, 
+and therefore indicates if a system or circuit is at risk for moving into a 
+high risk/very high risk status.  The systems WARNORD capture systems under 
+NAO responsibility only.  The circuits WARNORD captures circuits under NAO 
+and Defense Security Service (DSS) responsibility.
+    b.  At 70 days prior to the HREAG conference, the appropriate AO will 
+send the conference agenda to OPNAV N2N6 and applicable Echelon II CIOs and 
+program Package Submitting Officer (PSO) for systems or circuits that have 
+moved into HRE status.  The appropriate AO will provide a listing of systems 
+and circuits under his/her responsibility only.
+    c.  At 55 days prior to the HREAG conference, Echelon II CIOs and /or 
+program PSOs will provide a signed Certification Determination
+(CD) or a SAR no older than 90 days in accordance with current policy.  If 
+there is not a current signed CD/SAR, the affected system or circuit will not 
+proceed further in the HRE process and will not be considered for 
+authorization.  For HRE purposes, the following are minimum requirements for 
+the SCA to conduct a risk assessment and issue a CD/SAR.
+        (1) Completed automated scans (both Assured Compliance Assessment 
+Solution (ACAS) and automated Security Technical Implementation Guide (STIG) 
+checks per reference (e).
+        (2) Documented vulnerabilities in Enterprise Mission Assurance 
+Support System (eMASS).
+        (3) Completed internal risk assessment on those vulnerabilities as 
+documented on the risk assessment tab (if requesting a SAR).
+        (4) Plan of Action and Memorandum entries for items that have not 
+been completed (e.g. missing ACAS scans, or automated STIG
+checks) and a plan to get those items completed as codified in reference (a).
+    d.  At 35 days prior to the HREAG conference, the Echelon II CIO and/or 
+program PSO will submit the HRE package for the affected system or circuit to 
+the appropriate AO.  The contents of the package will include:
+        (1) Quad chart with C2C24 Submission ID.
+        (2) Signed CD/SAR uploaded into eMASS.
+        (3) The re-accreditation/re-authorization request.
+        (4) The Risk Evaluation Threat Assessment (RETA) form.  This includes 
+intelligence from the Office of Naval Intelligence Top 20 list.
+        (5) The signed flag officer/senior executive service endorsement.
+        (6) Packages missing these components will be delayed to the 
+following briefing month.  Any exceptions will require Echelon II flag 
+officer request to Echelon I flag officer leadership for urgent high risk 
+escalation.  If this delay will impact a Navy critical installation or 
+capability, OPNAV and NAO will work with the PSO and Program Executive Office 
+to determine an appropriate way ahead to support Fleet capability.
+    e.  At 25 days prior to the HREAG conference, the appropriate AO will 
+provide OPNAV N2N6 a compiled HRE brief.  OPNAV N2N6 will send a message 
+requesting cognizant resource sponsor(s) presence at the upcoming HREAG 
+conference and may advise Echelon II flag officers.
+    f.  At five (5) days prior to the HREAG conference, the appropriate AO 
+will provide a read-ahead package to the HREAG membership and applicable 
+Echelon II CIOs and/or program PSOs.
+    g.  HREAG conference occurs, caveats and determinations are issued.
+        (1) The HREAG conference shall normally be scheduled to occur the 
+first Wednesday of each month.
+    h.  At plus seven (7) days, the appropriate AO will submit a consolidated 
+brief to OPNAV N2N6 and FCC leadership.
+    i.  At plus 10 days, the OPNAV N2N6 lead will brief the Deputy Chief of 
+Naval Operations (DCNO (N2N6)) and DASN C4I.
+    j.  At plus 14 days, OPNAV N2N6 will formalize the conclusion of the 
+HREAG conference by communicating the outcome to the office of OCIO, copying 
+the DASN C4I for further sharing with the Assistant Secretary of the Navy for 
+Research, Development and Acquisition (ASN RDA).
+    k.  At plus 21 days, OCIO will make the final determination in accordance 
+with reference (a) and send to the appropriate AO.
+        (1) For Nuclear Command Control Communications (NC3) and Mobile User 
+Objective System (MUOS), OCIO will also send a recommendation to U.S.  
+Strategic Command for final concurrence.
+        (2) For circuits in the HRE approval process, a request to the 
+Defense Information Systems Agency (DISA) for Authority To Connect (ATC) is 
+required once NAO issues the Interim Authorization to Operate or 
+Authorization to Operate with Conditions.  DISA requires 15 business days for 
+circuit processing.
+    l.  At plus 30 days, with a recommendation, the appropriate AO will issue 
+an authorization in accordance with OCIO determination.
+
+6.  C2C24  Application owners requesting an authorization through the HRE 
+process for systems that fall under C2C24 Category I in accordance with 
+reference (f), must have submitted their C2C24 system surveys.  Application 
+owners shall provide the C2C24 Submission ID as part of their packages.  
+Category I systems that have not submitted C2C24 system surveys will not be 
+considered by the HREAG.  This requirement does not apply to circuits, cloud-
+based Software-as-a-Service, systems decommissioning or sun-setting within
+24 months, non-government of the shelf applications or systems that are not 
+within the scope of reference (a).  Further guidance can be found at 
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/C2C24/.
+
+7.  OPNAV N2N6 reserves the right to reconsider funding for IT Procurement 
+Requests (ITPR) and Defense Business System (DBS) certification in the 
+following cases:
+    a.  Systems or circuits active within the HRE process for which program 
+managers have not performed due diligence in the mitigation of cybersecurity 
+weaknesses.
+    b.  Applicable systems for which program managers have not submitted a 
+C2C24 system survey.
+    c.  Systems or circuits with incomplete testing annotated on their 
+CD/SAR, the validity of justification for incomplete testing will be vetted 
+by the SCA.
+    d.  Systems or circuits without a SCA signed CD/SAR.
+    e.  Systems or circuits with multiple iterations through the HRE process 
+that are not considered Fact of Life (FOL).
+
+8.  FOL Continuous Monitoring
+    a.  A system that does not have an exit strategy out of a high risk 
+status within two years of HREAG approval is eligible to be designated as a 
+FOL system.  The Navy will implement a continuous monitoring process for FOL 
+systems to verify that the system or circuit is maintaining its cyber hygiene 
+as agreed to by the Program Manager, the appropriate SCA and AO.  To be 
+considered for FOL status, a system or circuit must meet the following 
+criteria:
+        (1) Operational commander acknowledgement of high or very high risk.
+        (2) SCA determination and documentation in the SAR of an assessment 
+of overall systems level of risk, to be passed to the AO.
+        (3) AO consideration of the current security state of the system 
+based on the following information.  Weighing the below factors, the AO 
+renders a final determination of risk to DoD operations and assets, 
+individuals and other organizations from the operation and use of the system 
+or circuit.
+            (a) SCA provided risk assessment and recommendations identified 
+in the CD/SAR.
+            (b) Operational need for the system identified by the operational 
+commander.
+            (c) Any applicable risk-related guidance from the DoD, SISO, 
+Principle Authorizing Official (PAO), DoD Information Security Risk 
+Management Committee (DOD ISRMC), Defense Security /Cybersecurity 
+Authorization Working Group (DSAWG), DoD Component SISO, or mission owner(s).
+    b.  All FOL determinations shall be made by Echelon I Navy senior 
+leadership to include the Chief Information Security Officer and OCIO with 
+support from the appropriate SCA and AO and reviewed by the Navy 
+Cybersecurity Executive Committee (EXCOM).  The EXCOM review process is 
+designed to ensure Echelon I senior leaders are aware of the extent of 
+aggregated risk and possible mission impacts.
+        (1) Systems and circuits designated as FOL will be moved out of an 
+active HRE status and into a continuous monitoring status with subsequent 
+monitoring oversight by the SCA, appropriate AO and OPNAV N2N6.
+        (2) Program managers must continue to conduct scans on FOL systems 
+and circuits, meet OCIO and/or AO stipulations as part of the authorization, 
+and provide six month Interim Progress Reports
+(IPRs) to the HREAG.  This is a significant reduction in paperwork as 
+compared to a full HRE package.  IPR format is available at 
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/HRE
+/SitePages/Home.aspx.  FOL circuits will require updated and signed CD/SARs 
+as part of the DISA ATC renewal process.
+        (3) The SCA, in coordination with the appropriate AO, shall recommend 
+that systems or circuits with an increased risk level to be transitioned back 
+to an active HRE status.
+
+9.  Exiting the HRE process:  Program managers who effectively demonstrate 
+compliance with DoD policies, regulations, and procedures and have 
+appropriately applied mitigations to failed security controls and documented 
+vulnerabilities may have their respective systems or circuits removed from 
+the HRE process as codified by the SCA and issued a moderate or lower 
+authorization by the appropriate AO.
+
+10.  This NAVADMIN will remain in effect until canceled or superseded.
+
+11.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

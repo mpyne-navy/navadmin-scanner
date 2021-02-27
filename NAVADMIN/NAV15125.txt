@@ -1,0 +1,56 @@
+UNCLASSIFIED//
+ROUTINE
+R 201902Z APR 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 125/15
+
+SUBJ/OMBUDSMAN REGISTRY TO BECOME CAC ENABLED//
+
+REF/A/DOC/DOD INSTRUCTION 8520.03/13MAY2011
+REF/B/DOC/OPNAVINST 1750.1G/2SEP2014
+NARR/Reference (a) is Identity Authentication for Information Systems and 
+reference (b) is The Navy Family Ombudsman Program.//
+
+RMKS/1.  This NAVADMIN announces that the Ombudsman Registry
+https://ombudsmanregistry.org will become Common Access Card (CAC) enabled on 
+1 October 2015.
+
+2.  As per reference (a), all Navy connected systems and networks are 
+required to execute Public Key Infrastructure Enforcement (PKIE) and 
+Cryptographic Logon (CLO).  A CAC will be required to access the Ombudsman 
+Registry website, however, the "Contact Your Ombudsman" feature will remain 
+accessible to all family members attempting to contact their Command 
+Ombudsman.
+
+3.  In accordance with reference (b), Commanding Officers are required to 
+submit an Ombudsman Monthly/Quarterly Worksheet via the automated ombudsman 
+data collection system at www.ombudsmanregistry.org.  Commanding Officers of 
+reserve units are required to submit quarterly worksheets.
+    a.  The electronic worksheet is currently completed by ombudsmen, on 
+behalf of the command.  As of 1 October 2015, ombudsmen will no longer be 
+able to perform this function via the Ombudsman Registry, as they will not be 
+issued Volunteer Logistical Access Credentials Cards (VOLACs) to access the 
+Ombudsman Registry.
+b.  In lieu of the ombudsmen completing the worksheet electronically, they 
+will email the Ombudsman Monthly/Quarterly Worksheet to the Commander, Navy 
+Installations Command (CNIC) Ombudsman Registry Administrator at 
+Ombudsman.Registry.fct(AT)navy.mil, for upload into the registry.
+
+4.  CNIC has advised ombudsmen of the impending registry changes and the 
+process for submitting Monthly/Quarterly Worksheets. Contact information for 
+local FFSC Ombudsman Coordinators and the CNIC Ombudsman Registry 
+Administrator has been disseminated.
+
+5.  CNIC point of contact is Ms. Katherine Rock, CNIC Ombudsman Program 
+Analyst, (202) 433-4701 (DSN 288), email at Katherine.rock(AT)navy.mil.
+
+6.  Released by Catpain J. R. Wyatt, Director, Navy Staff (Acting).//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

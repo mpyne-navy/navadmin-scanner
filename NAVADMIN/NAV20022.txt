@@ -1,0 +1,144 @@
+UNCLASSIFIED//
+ROUTINE
+R 271702Z JAN 20 MID110000342148U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 022/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/ACTIVE COMPONENT FY-20 AVIATION BONUSES//
+
+REF/A/DOC/SECNAV/6FEB18//
+REF/B/DOC/OPNAV/15AUG05//
+NARR/REF A IS SECNAVINST 7220.88, AVIATION INCENTIVE PAYS AND BONUS PROGRAM.  
+REF B IS OPNAVINST 7220.9, NAVY AVIATION CAREER CONTINUATION PAY.//
+
+RMKS/1.  As part of the ongoing transformation efforts of the Navy for a 
+modernized pay and personnel system under Sailor 2025, this NAVADMIN 
+announces the Fiscal Year (FY) 2020 Aviation Department Head Retention Bonus 
+(ADHRB), and Aviation Command Retention Bonus (ACRB) updates for the Active 
+Component (AC).
+
+2.  AC ADHRB
+    a.  The AC ADHRB eligibility criterion includes selection for Lieutenant 
+Commander (LCDR).  The FY-20 ADHRB is intended for officers selected for 
+promotion to LCDR in the FY-20 LCDR statutory board.  These officers will be 
+considered for department head in the
+FY-21 Aviation Department Head Screen Board (ADHSB) scheduled to convene in 
+April 2020.  Additionally, eligible officers must have an active-duty service 
+obligation (ADSO) associated with undergraduate flight training ending in FY-
+19 or later.  The application opportunity commences with the release of this 
+NAVADMIN and closes on 31 August 2020.
+    b.  Contracts are offered with either a 3 or 5 year obligation that 
+begins upon the expiration of the officers winging ADSO or contract approval, 
+whichever is later.  The intent is to provide flexibility when making career 
+decisions and to encourage officers to fulfill a department head tour and 
+continue naval service.
+    c.  The Navy values an early commitment and a 5 year obligation.
+An officer who submits a 5 year contract prior to the ADHSB results being 
+published will receive the maximum annual rate specific to their 
+type/model/series and designator (T/M/S+D).  If an officer prefers a 3 year 
+contract or wishes to wait until the ADHSB selection/slate results are 
+public, the ADHRB annual amount reduces by $5,000 per year.
+    d.  While all aviators who complete milestone assignments are equally 
+valued, specific T/M/S+D rates vary according to respective community 
+inventory health.  Those communities experiencing the greatest retention 
+challenges are incentivized with the highest rates.  AC ADHRB retention bonus 
+pay rates for FY-20 include:
+5 year obligation, early rate:
+HM Pilot                        $35,000/year ($175,000 total)
+HSC Pilot                       $25,000/year ($125,000 total)
+HSM Pilot                       $25,000/year ($125,000 total)
+VAQ Pilot                       $35,000/year ($175,000 total)
+VAQ NFO                         $15,000/year ($75,000 total)
+VAW Pilot                       $25,000/year ($125,000 total)
+VAW NFO                         $15,000/year ($75,000 total)
+VRC/VRM Pilot                   $35,000/year ($175,000 total)
+VFA Pilot                       $35,000/year ($175,000 total)
+VFA NFO                         $15,000/year ($75,000 total)
+VP/VQ(P) Pilot                  $25,000/year ($125,000 total)
+VP/VQ(P) NFO                    $10,000/year ($50,000 total)
+VQ(T) Pilot                     $25,000/year ($125,000 total)
+VQ(T) NFO                       $15,000/year ($75,000 total)
+5 year obligation, standard rate:
+HM Pilot                        $30,000/year ($150,000 total)
+HSC Pilot                       $20,000/year ($100,000 total)
+HSM Pilot                       $20,000/year ($100,000 total)
+VAQ Pilot                       $30,000/year ($150,000 total)
+VAQ NFO                         $10,000/year ($50,000 total)
+VAW Pilot                       $20,000/year ($100,000 total)
+VAW NFO                         $10,000/year  ($50,000 total)
+VRC/VRM Pilot                   $30,000/year ($150,000 total)
+VFA Pilot                       $30,000/year ($150,000 total)
+VFA NFO                         $10,000/year ($50,000 total)
+VP/VQ(P) Pilot                  $20,000/year ($100,000 total)
+VP/VQ(P) NFO                    $5,000/year ($25,000 total)
+VQ(T) Pilot                     $20,000/year ($100,000 total)
+VQ(T) NFO                       $10,000/year ($50,000 total)
+3 year obligation:
+HM Pilot                        $30,000/year ($90,000 total)
+HSC Pilot                       $20,000/year ($60,000 total)
+HSM Pilot                       $20,000/year ($60,000 total)
+VAQ Pilot                       $30,000/year ($90,000 total)
+VAQ NFO                         $10,000/year ($30,000 total)
+VAW Pilot                       $20,000/year ($60,000 total)
+VAW NFO                         $10,000/year ($30,000 total)
+VRC/VRM Pilot                   $30,000/year ($90,000 total)
+VFA Pilot                       $30,000/year ($90,000 total)
+VFA NFO                         $10,000/year ($30,000 total)
+VP/VQ(P) Pilot                  $20,000/year ($60,000 total)
+VP/VQ(P) NFO                    $5,000/year ($15,000 total)
+VQ(T) Pilot                     $20,000/year ($60,000 total)
+VQ(T) NFO                       $10,000/year ($30,000 total)
+
+3.  AC ACRB
+    a.  ACRB applicants must have screened on the FY-20 Aviation Command 
+Screen Board (ACSB) as commanding officer (CO) of an eligible operational, 
+operational training or special mission commander command in order to apply.  
+Eligible commands are those for which the annual ACSB selects officers to 
+serve as CO, excluding second-in-grade, sequential, bonus or fleet 
+replacement squadron commands.  Consult the FY-20 ACRB program information 
+for specific eligibility criteria and limitations.  The application 
+opportunity commences with the release of this NAVADMIN and closes on 31 
+August 2020.
+    b.  All FY-20 ACRB contracts will be worth $100,000.  All eligible 
+officers will receive an initial payment of $34,000 and two-anniversary 
+payments of $33,000.  Participation in the FY-20 ACRB obligates contractees 
+to 3 years of obligated service to include full completion of a post command 
+commander (PCC) tour, which may be between 24 and 36 months depending on 
+assignment.  ACRB obligation ends after 22 years of commissioned service, the 
+projected rotation date of the assigned PCC tour or 3 years from contract 
+acceptance date, whichever is later.  ACRB applications for those currently 
+under ADHRB obligations will be accepted, held in abeyance and activated upon 
+ADHRB contract expiration.
+
+4.  Additional Aviation Bonus (AvB) Information
+    a.  Officers accepting AvB contracts are not precluded from participating 
+in the Career Intermission Program (CIP).  Officers interested in both AvB 
+and CIP should contact the AvB program manager and their detailer for more 
+information.
+    b.  For further AvB details, eligibility and application procedures, 
+visit MyNavy Portal at https://www.mnp.navy.mil/group/pay-and-benefits.
+
+5.  AvB points of contact.  For application questions, please contact Ms. 
+Melinda Weeden at (901) 874-3964/DSN 882-3964, or via e- mail at 
+melinda.weeden(at)navy.mil or Mr. Paul Boundy at (901) 874- 947/DSN 882-3947, 
+or via e-mail at paul.boundy(at)navy.mil.  For policy questions, please 
+contact the AvB Program Manager at (901) 874-3484, DSN 882-3484, or via 
+e-mail at avipandavb(at)navy.mil.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

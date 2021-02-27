@@ -1,0 +1,66 @@
+RTTUZYUW RUEWMCS0000 1131451-UUUU--RUCRNAD
+ZNR UUUUU
+R 231451Z APR 07
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS //N01500//
+
+NAVADMIN 100/07
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/FY07 ADVANCED EDUCATION VOUCHER (AEV) SELECTION BOARD RESULTS// 
+
+REF/A/GENADMIN/CNO WASHINGTON DC/221643ZNOV2006// AMPN/REF A IS NAVADMIN 
+329/06, FY07 AEV PROGRAM.// 
+
+RMKS/1.  CONGRATULATIONS TO THE FOLLOWING CHIEF, SENIOR CHIEF, AND MASTER 
+CHIEF PETTY OFFICERS ON THEIR SELECTION TO PARTICIPATE IN THE FY07 AEV 
+PROGRAM.  SELECTEES ARE AUTHORIZED TO BEGIN WORK IMMEDIATELY ON THE DEGREE 
+PROGRAMS SPECIFIED BELOW (READ NAME, RATE, AND DEGREE PROGRAM SELECTED):
+  
+BS/BA AEV:                                  PROGRAM       
+NAME (LAST, FIRST MI)   RATE                SELECTED  
+DOSSETT, ROBERT M       SBCS(SWCC/SW)       LEADERSHIP AND                                                                                                                
+MANAGEMENT  
+DWYER, DANICA R         CTIC(SW/AW/NAC)     HUMAN RESOURCES                                 
+FELLOWS, SHAWN W        BUC(SCW)            LEADERSHIP AND                                                                                                                
+MANAGEMENT  
+FLEMING, SCOTT A        CMDCM(SW/AW)        LEADERSHIP AND                                                                                                                
+MANAGEMENT  
+FOWLER, JOSEPH M        GMC(SW)             INFORMATION                                                                                                                   
+TECHNOLOGY  
+HOLMAN, LARRY C         STGC(SW)            HUMAN RESOURCES                                               
+JOSAFAT, MAEMARIE L     BMC(SW)             HUMAN RESOURCES 
+RUSSAW, JOHN F          GMC(SW/AW)          LEADERSHIP AND                                                                                                                
+MANAGEMENT 
+RUTH, RODNEY S          HMCS(SW/FMF)        HUMAN RESOURCES  
+SIMS, KANEN             HMC(SW/AW/FMF)      LEADERSHIP AND                                                                                                                
+MANAGEMENT 
+TAYLOR, FREDERICK C     NDC(DSW/SW)         INDUSTRIAL                                                                                                                    
+TECHNOLOGY 
+ZEIGLER, JENNIFER S     SKC(AW/SW)          ACCOUNTING AND                                                                                                                
+FINANCE
+MS/MA AEV:  
+BERISTAIN, VICENTE G    BUC(SW)             LEADERSHIP AND                                                                                                                
+MANAGEMENT  
+CINTRON, PABLO          ASCS(AW/SW)         LEADERSHIP AND                                                                                                                
+MANAGEMENT  
+HUBBARD, MATTHEW        CTICS(AW/NAC)       HOMELAND DEFENSE AND                                                                                                          
+SECURITY 
+HYDE, PATRICK           HMCS(SW/AW)         BUSINESS ADMINISTRATION  
+TELLEZ, DAVID           HMCS(SW/FMF)        LEADERSHIP AND                                                                                                                
+MANAGEMENT  
+
+2.  AMPLIFYING INFORMATION WILL BE PROVIDED TO SELECTEES BY SEPCOR.  
+
+3.  POINT OF CONTACT:  ETCM THOMAS SMITH (NETC N525) AT (850) 452-
+7271/DSN 922 OR EMAIL AT THOMAS.A.SMITH4(AT)NAVY.MIL. 
+
+4.  RELEASED BY VADM J. C. HARVEY, JR., N1.// BT
+
+#0000	
+NNNN
+UNCLASSIFIED//

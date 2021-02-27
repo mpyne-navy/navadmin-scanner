@@ -1,0 +1,151 @@
+UNCLASSIFIED
+ROUTINE
+R 131808Z JUL 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 162/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SEXUAL ASSAULT INCIDENT RESPONSE OVERSIGHT (8-DAY) REPORT//
+
+REF/A/MSG/CNO WASHINGTON DC/201953ZJAN15//
+REF/B/DOC/DOD/30SEP14//
+REF/C/DOC/DOD/25JAN13//
+REF/D/DOC/DOD/28MAR13//
+REF/E/DOC/OPNAV/29DEC06//
+REF/F/DOC/DOD/13FEB15//
+REF/G/DOC/OPNAV/25APR08//
+REF/H/DOC/DOD/21AUG07//
+REF/I/MSG/CNO WASHINGTON DC/072310ZSEP12//
+REF/J/DOC/OPNAV/22DEC09/NOTAL//
+NARR/REF A IS NAVADMIN 014/15, SEXUAL ASSAULT INCIDENT RESPONSE OVERSIGHT (8-
+DAY) REPORT.  REF B IS DIRECTIVE-TYPE MEMORANDUM 14-007(SEXUAL ASSAULT 
+INCIDENT RESPONSE OVERSIGHT (SAIRO) REPORT).  REF C IS DODINST 5505.18, 
+INVESTIGATION OF ADULT SEXUAL ASSAULT IN THE DEPARTMENT OF DEFENSE.  REF D IS 
+DODINST 6495.02, SEXUAL ASSAULT
+PREVENTION AND RESPONSE (SAPR) PROGRAM PROCEDURES.  REF E IS
+OPNAVINST 1752.1B, SEXUAL ASSAULT VICTIM INTERVENTION (SAVI)
+PROGRAM.  REF F IS DODINST 6400.01, FAMILY ADVOCACY PROGRAM (FAP).
+REF G IS OPNAVINST 1752.2B, FAMILY ADVOCACY PROGRAM (FAP).  REF H IS
+DODINST 6400.06, DOMESTIC ABUSE INVOLVING DOD MILITARY AND CERTAIN
+AFFILIATED PERSONNEL.  REF I IS NAVADMIN 272/12, OPNAVINST 3100.6J
+URGENT CHANGE 3.  REF J IS OPNAVINST F3100.6J CH-2, SPECIAL INCIDENT
+REPORTING (OPREP-3 PINNACLE, OPREP-3 NAVY BLUE AND OPREP-3 NAVY UNIT
+SITREP) PROCEDURES//
+
+RMKS/1.  This NAVADMIN supersedes reference (a) in its entirety.
+Effective immediately, commanding officers (COs) will submit a
+Sexual Assault Incident Response Oversight (SAIRO) (8-day) Report,
+(OPNAV Form 1752/2).  A fillable form can be located online at
+https://navalforms.documentservices.dla.mil/formsDir/
+_OPNAV_1752_2_13941.pdf.
+
+2.  Submarines at-sea are the only exception to this rule.  The
+previous situation report (SITREP) format of the SAIRO (8-day)
+Report may be submitted if limited bandwidth and classification
+issues prevent use of the fillable form.  This is considered an
+emergency work-around due to limited bandwidth and will ensure
+compliance with the eight day requirement for submission.  In this
+case, the OPNAV Form 1752/2 fillable form is also required to be
+submitted when bandwidth permits.
+
+3.  Per reference (b), the SAIRO (8-day) Report is a one-time report
+required to be submitted within eight calendar days following a
+command becoming aware of a sexual assault.  Command awareness is
+typically comprised of (but not limited to) any of the following:
+    a.  An unrestricted report made to a sexual assault response
+coordinator (SARC), deployed resiliency counselor, sexual assault
+prevention and response victim advocate (SAPR VA), or unit SAPR VA
+via a Victim Reporting Preference Statement (DD Form 2910).  The
+SARC will contact the victims CO within 24 hours or 48 hours if
+there are extenuating circumstances in deployed environments with
+limited connectivity.
+    b.  The victim elects to convert a previously filed restricted
+report to an unrestricted report via DD Form 2910.
+    c.  The Military Criminal Investigative Organization (MCIO)
+notifies the CO that an independent investigation has been initiated
+by the MCIO per reference (c).
+
+4.  The SAIRO (8-day) Report is required when a command becomes
+aware of an adult sexual assault as defined by references (d) and
+(e), involving a service member victim or a service member alleged
+offender (including reserve component members who were performing
+active service or inactive duty training during the time of the
+assault) per reference (b).  An OPNAV Form 1752/2 is not prepared
+for sexual assaults involving family advocacy program cases,
+consistent with references (f) through (h).
+
+5.  An individual OPNAV Form 1752/2 is required for each victim
+involved, regardless of affiliation, status, or location of the
+victim or alleged offender.  The OPNAV Form 1752/2 is required for
+all unrestricted reports of sexual assault, including incidents
+(being reported at the present time) that occurred before the
+enlistment or commissioning of the service member victim, with the
+understanding that some alleged offender information may not be
+accessible or available.
+
+6.  Without disclosing protected communications and victim
+confidentiality, the SAIRO (8-day) Report will be prepared and
+submitted by the CO with input from the SARC and the MCIO (e.g.,
+Naval Criminal Investigative Service) in accordance with (IAW)
+reference (b).  For a SAIRO (8-day) Report triggered by an
+unrestricted report of sexual assault, the SARC will be responsible
+for providing all victim information and the MCIO will provide the
+incident data and investigation information.  For a SAIRO (8-day)
+Report triggered by an independent MCIO investigation, the MCIO will
+be responsible for providing the available information.  Incident
+data shall not be acquired through command-directed investigations
+which are prohibited for sexual assaults IAW references (b) through
+(e), or victim or alleged offender queries.  At a minimum, the CO
+preparing the OPNAV Form 1752/2 will provide preliminary information
+of the incident with the understanding that some victim or alleged
+offender information may not be accessible or available.
+
+7.  Reporting Responsibility.  As listed below, the following will
+be responsible for submitting the OPNAV Form 1752/2:
+    a.  The CO of the victim and alleged offender if the victim and
+alleged offender are assigned to the same command.
+    b.   The CO of the victim if the victim and the alleged offender
+are assigned to different commands.
+    c.  The first O-6 or above immediate superior in command (ISIC)
+in the chain of command if the CO is the alleged offender.
+    d.  The CO of the victim involving a service member victim and a
+non-service member alleged offender.
+    e.  The CO of the alleged service member offender involving a
+civilian victim will prepare and submit a OPNAV Form 1752/2
+containing available information.
+
+8.  Notification requirements.  The OPNAV Form 1752/2 Report will
+have limited distribution to ensure control of sensitive
+information.  The OPNAV Form 1752/2 will be transmitted to the below
+listed individuals:
+    a.  The installation CO, if such incidents occurred on or in the
+vicinity of a military installation.
+    b.  The chain of command of the victim and/or alleged offender,
+up to and including the first Flag Officer.
+    c.  The ISIC of the service member alleged offender if the
+alleged offender is a CO or Flag Officer.
+
+9.  This NAVADMIN does not supersede the requirement for first Flag
+Officer reports per reference (i) or OPREP-3 Navy Blue or OPREP-3
+Navy Unit SITREPs required by references (e) and (j).  The OPNAV
+Form 1752/2 Report will not delay immediate reporting to the
+appropriate SARC and MCIO.
+
+10.  Point of contact is LCDR Steven Smiraldo, OPNAV N172, telephone
+(703)604-1204/DSN 664 or via e-mail at steven.smiraldo(at)navy.mil
+
+11.  This NAVADMIN will remain in effect until superseded or
+canceled, whichever occurs first.
+
+12.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

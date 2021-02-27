@@ -1,0 +1,71 @@
+RAAUZYUW RUEWMCS0939 2671810-UUUU--RUCRNAD
+ZNR UUUUU 
+R 241810Z SEP 13
+FM CNO WASHINGTON DC
+TO ZEN/NAVADMIN
+INFO RUENAAA/CNO WASHINGTON DC
+BT
+UNCLAS
+SUBJ: PUBLIC KEY ENFORCEMENT ON NAVY SECRET INTERNET PROTOCOL ROUTER NETWORK 
+UNCLASSIFIED/ 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+UNCLAS// 
+NAVADMIN 245/13 
+
+MSGID/GENADMIN/CNO WASHINGTON DC//N2N6BC/SEP// 
+
+SUBJ/PUBLIC KEY ENFORCEMENT ON NAVY SECRET INTERNET PROTOCOL ROUTER NETWORK// 
+
+REF/A/DOC/DOD CIO/14OCT11// 
+REF/B/MSG/USCYBERCOM/J3-12-0863/231402ZJUL2012//
+REF/C/MSG/USCYBERCOM/J3-12-0863 FRAGO 2/011709JUL2013// 
+REF/D/MSG/FLTCYBERCOM/CTO 13-12/161945ZJUL2013//
+NARR/REF A IS DOD CIO MEMO, DOD SIPRNET PKI CLO AND PUBLIC KEY-ENABLEMENT OF 
+SIPRNET APPLICATIONS AND WEB SERVERS.  REF B IS USCYBERCOM TASKORD J3-12-
+0863, NAVY SIPRNET PKI TASKING.  REF C IS FRAGO 2 TO REF B.  REF D IS CTF 
+1010 COMMUNICATIONS TASKING ORDER 13-12, NAVY SECRET INTERNET PROTOCOL/ROUTER 
+NETWORK CRYPTOGRAPHIC LOG-ON TASKING AND GUIDANCE.// 
+POC/MR. JOSEPH WALKER/CIV/OPNAV N2N6BC4/LOC:  WASHINGTON DC/TEL:
+(571)256-8523/TEL:  DSN:  260-8523/E-MAIL:  JOE.T.WALKER(AT)NAVY.MIL// 
+
+RMKS/1.  This NAVADMIN provides Navy-specific direction to execute the 
+requirement for secure internet protocol router network public key enablement 
+(PKE) as originally detailed in Refs A and B and subsequently revised in Refs 
+C and D.  It also supersedes and amplifies the waiver guidance provided in 
+Ref D.  Refs A through D apply to all Navy owned, operated, or controlled 
+SIPRNET connected networks, web servers, and applications.  System owners 
+shall implement PKE per Refs A through D. 
+
+2.  Background.  USCYBERCOM has directed DoD components to issue National 
+Security Service (NSS) PKI hardware tokens to all DoD users and implement 
+cryptographic network logon for the SIPRNET, while maintaining the ability 
+for temporary exception users (e.g., those who experience loss or failure of 
+token in operational environments creating a stop work situation) to access 
+SIPRNET resources using username and password.  Ref D provides applicable 
+Navy systems deadlines to implement PKE per Refs A through C.
+
+3.  Action.  System owners who did not meet the following deadlines outlined 
+in Ref D, are directed to submit a detailed mitigation plan, implementation 
+plan of action and milestones and justification to Deputy Director Chief 
+Information Officer, Navy (DDCIO(N)) no later than 9 October 2013 for review:  
+    a.  NMCI and ONE-NET early adopters:  31 July 2013
+    b.  NMCI NADSUSWE Domain:  7 August 2013
+    c.  NMCI NADSUSEA Domain:  13 August 2013
+    d.  ONE-NET and Non-Enterprise networks:  1 August 2013
+    e.  IT21 Afloat:  31 December 2015
+This does not apply to system owners who already submitted mitigation  plans 
+per Ref D section 6.  
+
+4.  This NAVADMIN will remain in effect until cancelled or  superseded.
+5.  Point of contact is Mr. Joseph Waler, N2N6BC4, at (571) 256-8523 or via 
+email joe.t.walker(at)navy.mil. 
+
+6.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations, 
+Information Dominance, OPNAV N2N6.// 
+
+BT
+#0721
+NNNN
+UNCLASSIFIED
+

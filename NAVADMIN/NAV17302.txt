@@ -1,0 +1,172 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 201541Z DEC 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 302/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/NOTIFICATION OF THE START OF THE BLENDED RETIREMENT SYSTEM ENROLLMENT 
+PERIOD AND ENROLLMENT INSTRUCTIONS FOR OPT-IN ELIGIBLE SERVICE MEMBERS//
+
+REF/A/DOC/NDAA/13APR15//
+
+REF/B/MSG/CNO WASHINGTON DC/271444ZSEP16//
+
+REF/C/MSG/CNO WASHINGTON DC/281546ZNOV16//
+
+REF/D/MSG/CNO WASHINGTON DC/311929ZJAN17//
+
+REF/E/MSG/CNO WASHINGTON DC/062134ZJUN17//
+
+NARR/REF A IS SECTIONS 631 THROUGH 635 OF NATIONAL DEFENSE AUTHORIZATION ACT, 
+SUBTITLE D - DISABILITY PAY, RETIRED PAY, AND SURVIVOR BENEFITS.  REF B IS 
+NAVADMIN 217/16, ANNOUNCEMENT OF THE BLENDED RETIREMENT SYSTEM FOR THE 
+UNIFORMED SERVICES.  REF C IS NAVADMIN 259/16, NOTIFICATION OF ELIGIBILITY TO 
+OPT-IN TO THE BLENDED RETIREMENT SYSTEM.  REF D IS NAVADMIN 020/17, 
+NOTIFICATION OF AVAILABILITY OF THE BLENDED RETIREMENT SYSTEM OPT-IN 
+TRAINING.
+REF E IS NAVADMIN 133/17, NOTIFICATION OF AVAILABILITY OF THE BLENDED 
+RETIREMENT SYSTEM OPT-IN COMPARISON CALCULATOR.//
+
+RMKS/1.  This NAVADMIN announces the Blended Retirement System (BRS) 
+enrollment period for opt-in eligible service members will be open from 1 
+January 2018 until 31 December 2018, in line with references
+(a) through (e).  During this window, opt-in eligible service members may 
+enroll in the BRS via the myPay website.  Opt-in eligible service members who 
+do not choose to enroll in BRS will remain in the current legacy retirement 
+system.  However, if a service member elects to enroll in the BRS, that 
+election is irrevocable.
+
+2.  In line with references (a) and (c), opt-in eligibility is as
+follows:
+    a.  Active Component (AC) service members are opt-in eligible if their 
+Date Initially Entered Military Service (DIEMS) is on or before 31 December 
+2017, and they have less than 12 years of service
+(YOS) as of 31 December 2017, based on their Pay Entry Base Date (PEBD).
+    b.  Reserve Component (RC) service members, to include Full Time Support 
+(FTS) members, are opt-in eligible if their DIEMS is on or before 31 December 
+2017 and they have accumulated fewer than
+4,320 retirement points as of 31 December 2017.
+    c.  United States Naval Academy (USNA), Reserve Officer Training Corps 
+(ROTC) Midshipmen, and Delayed Entry Program (DEP) members are opt-in 
+eligible if their DIEMS is on or before 31 December 2017, and they have less 
+than 12 years of service (YOS) as of 31 December 2017, based on their PEBD.
+
+3.  As outlined in references (b) through (e), whether an opt-in eligible 
+service member chooses to enroll in the BRS or not, training is mandatory for 
+all opt-in eligible service members and must be completed by 31 December 
+2017.  All Navy commands shall ensure that opt-in eligible service members 
+complete the Blended Retirement System Opt-In Course and log completion in 
+the Fleet Training Management and Planning System (FLTMPS).  If the BRS Opt- 
+In Course is completed in a classroom setting, commands must ensure that 
+training is manually documented in FLTMPS.
+
+4.  To enroll in the BRS during the 1 January 2018 to 31 December
+2018 enrollment period, opt-in eligible service members must be in a paid 
+status.  If a service member meets eligibility criteria in paragraph 2, but 
+is not in a paid status during the election window, that service member will 
+be given an opportunity to enroll during their first period of paid status.  
+Additionally, hardship extensions to the enrollment window for opt-in 
+eligible service members who are unable to enroll in BRS during the 2018 
+enrollment period will be considered on a case-by-case basis per reference 
+(a).  Midshipmen who are opt-in eligible and commissioned after 1 December 
+2018 will be given 30 days to opt-in following reporting to their first duty 
+station.  Delayed Entry Program (DEP) personnel who are opt-in eligible and 
+report to Recruit Training Command (RTC) after 1 December 2018 will be given 
+30 days to opt-in.
+
+5.  Enrollment in the BRS can only be completed on the myPay website
+(https://mypay.dfas.mil/mypay.aspx) and will be conducted in accordance with 
+procedures promulgated separately by the Defense Finance and Accounting 
+Service (DFAS).  Prior to making the election to enroll in the BRS, members 
+of the Navy who are eligible to opt-in and who choose to enroll in the BRS 
+will be required to affirm on the myPay website that they have completed the 
+mandatory opt-in training and that they acknowledge and understand that the 
+decision to enroll in the BRS is irrevocable.
+
+6.  Those opt-in eligible service members who have an up-to-date email 
+address in Navy Standard Integrated Personal System (NSIPS) will receive an 
+email notification concerning their opt-in eligibility.  Additionally, 
+commands should notify all opt-in eligible Service members within their 
+command that they are eligible to enroll in the BRS and that the opt-in 
+window will open on 1 January 2018.  To facilitate this notification, command 
+administration departments must contact their supporting personnel office on 
+a regular basis to access a list of all opt-in eligible service members 
+within their command.
+
+7.  To ensure all AC opt-in eligible service members are able to enroll in 
+the BRS when the opt-in window opens, each service member should ensure that 
+their DIEMS, the earliest date of enlistment, induction, or appointment in a 
+uniformed service is accurately reflected on their Leave and Earning 
+Statement (LES) and in their NSIPS Electronic Service Record (ESR).  The 
+DIEMS is critical in determining an AC and RC service member's BRS opt-in 
+eligibility status.  Additionally, AC service members should ensure the PEBD, 
+status in a uniformed service is correct.  RC service members should ensure 
+their retirement point total is correctly reflected in their NSIPS ESR.
+    a.  If the PEBD or DIEMS date is not correct on the service members LES 
+or NSIPS ESR, or a service member believes their BRS opt-in eligibility 
+status is incorrect, the member should contact their Command Career Counselor 
+(CCC) or Command Pay and Personnel Administrator (CPPA).
+    b.  CCCs or CCPAs should report the BRS eligibility discrepancy via an 
+encrypted email to mill_BRS@navy.mil.  The subject line should read "FOUO BRS 
+Eligibility Discrepancy - DIEMS," "FOUO  BRS Eligibility Discrepancy - PEBD," 
+or "FOUO  BRS Eligibility Discrepancy  Unknown."
+    c.  Each BRS eligibility discrepancy submission should include 
+substantiating documents to include one of the following documents:
+The members DD Form 214 "Certificate of Release or Discharge from Active 
+Duty", DD Form 215 "Correction to DD 214 Certificate of Release or Discharge 
+from Active Duty", NGB 22 "Report of Separation and Record of Service", DD 
+Form 4 "Enlistment/ Reenlistment Document Armed Forces of the United States, 
+DD Form 1966 "Record of Military Processing - Armed Forces of the United 
+States, and Cadet/Midshipman contracts or contracts with the Army, Air Force, 
+Marine Corps, Coast Guard, National Oceanic and Atmosphere Administration or 
+Public Health Service.
+
+8.  For certain opt-in eligible service members, there are additional opt-in 
+concerns to consider prior to the enrollment period.  First, opt-in eligible 
+service members who are eligible for BRS continuation pay (CP) in CY18 and 
+desire to elect CP, must enroll in the BRS first and elect to take CP prior 
+to reaching 12 YOS.  Second, opt-in eligible service members who choose to 
+enroll in the BRS, and who will reach 12 YOS within the first 90 days of 
+CY18, may be required to manually elect CP through their CCC due to systems 
+processing time.
+Third, opt-in eligible service members who will be eligible to retire with 
+pay in CY18, and who choose to enroll in the BRS, must opt-in to the BRS and 
+elect the lump sum payment option, if desired, at least 90 days prior to 
+reaching their eligible retirement age.  If the lump sum option is not 
+elected prior to the 90 day requirement, the member will be limited to the 
+full pension option under the BRS.
+
+9.  BRS information can be found on the Navy BRS page at
+http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/readiness/Pages/Personal-Financial-
+Management.aspx.
+
+10.  As stated in references (b) through (e), the opt-in decision is likely 
+the most important financial decision of an eligible service members Navy 
+career.  A concerted effort by the Navy Total Force must be made to ensure 
+that BRS opt-in training is complete and that service members are prepared to 
+make an informed financial decision when the opt-in window opens on 1 January 
+2018.
+
+11.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,152 @@
+UNCLASSIFIED/
+ROUTINE
+R 131857Z FEB 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 037/15
+
+SUBJ/DOMESTIC VIOLENCE INCIDENT COUNT-CONSEQUENT COMMAND ACTIONS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+REF/A/DOC/OSD/10APR14/NOTAL//
+REF/B/DOC/OPNAV/25APR08//
+NARR/REF A IS USD (P&R) MEMO, DOMESTIC VIOLENCE INCIDENT COUNT AND CONSEQUENT 
+COMMAND ACTIONS.  REF B IS OPNAVINST 1752.2B, FAMILY ADVOCACY PROGRAM 
+(FAP).//
+
+RMKS/1.  This NAVADMIN provides implementation guidance regarding the new 
+Department of Defense (DoD) requirement for commands to report Navy domestic 
+violence incident count and consequent command action (DVIC-CCA).  Navy 
+commands shall report command actions for reportable domestic violence 
+incidents as outlined in this message.  Reference (a) directed each service 
+to develop a plan to annually collect and submit the number of DVIC-CCAs for 
+incidents that meet specifically defined criteria commencing with data 
+collection in FY-15.  The first report will be collated and submitted to the 
+Office of the Secretary of Defense Family Advocacy Program office (OSD FAP) 
+no later than 31 March 2016.
+
+2.  DVIC-CCA reporting criteria shall include:
+    a.  DVIC reporting criteria:  A reportable incident is defined as a 
+domestic violence incident in which the offender is an active-duty service 
+member (including reserve personnel in an active-duty status) which meets one 
+or more of the following criteria for:
+        (1) Grievous bodily harm (as defined in Article 128 of the Uniform 
+Code of Military Justice (UCMJ)):  Grievous bodily harm means serious bodily 
+injury.  It does not include minor injuries, such as a black eye or a bloody 
+nose, but does include fractured or dislocated bones, deep cuts, torn members 
+of the body, serious damage to internal organs, and other serious bodily 
+harm.
+        (2) Severity Level 3 (Severe Physical):  Major physical injury 
+requiring inpatient medical treatment or causing temporary or permanent 
+disability or disfigurement.  Severity Level 3 includes moderate or
+severe emotional effects requiring long-term mental health treatment. This 
+may require placement in an alternative environment to protect the physical 
+safety or other welfare of the victim.
+        (3) Severity Level 2 (Moderate Physical):  Minor or moderate physical 
+injury requiring one or more outpatient visits for treatment. Minor or 
+moderate emotional effects requiring short-term mental health treatment may 
+be indicated.
+        (4) Sexual abuse of a spouse or intimate partner:  Acts of domestic 
+abuse or domestic violence to coerce the spouse or intimate partner to engage 
+in any sexual activity.  It includes rape/intercourse, sodomy, and coercing 
+the spouse to participate in sexual activity with another person, as in 
+pornography or prostitution.  (Note:  Though not specifically listed, this 
+definition includes any sexual assault of and any aggravated or abusive 
+sexual contact with a spouse or intimate partner, as defined in reference 
+(b)).
+    b.  CCA reporting criteria:
+        (1) Administrative action:  The following are examples of 
+administrative actions; the list is not all inclusive:  formal counseling, 
+special evaluation or fitness report, page 13 entry, administrative 
+separation processing, administrative board, etc.  The specific 
+administrative action taken shall be documented.  A CCA is only 
+*administrative action* when no other CCA applies.  For example, if non-
+judicial punishment (NJP) proceedings occur or court-martial charges are 
+preferred, then NJP or court-martial is the appropriate CCA.  If 
+administrative actions are taken in addition to NJP proceedings or court-
+martial preferral, the administrative actions shall be reported with the 
+results of the NJP or court-martial.
+        (2) NJP:  Includes only those disciplinary proceedings where UCMJ 
+articles regarding the DVI are held, whether punishment is imposed or not.  
+The results of the proceedings, including punishment awarded if applicable, 
+shall be reported along with any additional administrative action.
+        (3) Courts-Martial:  Includes only those cases where UCMJ articles 
+regarding the DVI are preferred.  The results of the court-martial, including 
+punishment awarded if applicable, shall be reported along with any additional 
+administrative action.
+        (4) Other:  Includes subjects/incidents that could not be prosecuted 
+or disposed of at NJP for the following reasons:  Lack of jurisdiction 
+(includes civilian trial/conviction); the allegation was unfounded by the 
+command, meaning it was false or did not meet the elements/criteria of a 
+domestic violence offense/incident; statute of limitations expired; the 
+subject was separated for reasons other than direct result of the DVI 
+(includes discharge, transfer to Fleet Reserve, and retirement), died or 
+deserted; evidence was insufficient either to prefer or refer charges at any 
+forum to include NJP; or the victim declined or refused to cooperate with the 
+investigation or prosecution. The specific action under other category shall 
+be documented.
+
+3.  Commander Navy Installations Command (CNIC) responsibilities.  CNIC 
+shall:
+    a.  Direct the installation Family Advocacy Clinical Case Staff meeting 
+to review all FY-15 DVIs and assign a severity level using Department of 
+Defense Maltreatment Severity Codes.  Incidents that meet DVIC-CCA reporting 
+criteria above shall be reported to the parent command of the service member 
+and recorded in the Navy Central Registry.
+    b.  Forward FY-15 Navy Central Registry reportable incident data to OPNAV 
+N170 quarterly (15 January, 15 April, 15 July, 15 October) and final report 
+no later than 10 November 2015.  At minimum, data shall include:
+         (1) Command Name
+         (2) Command Primary UIC
+         (3) Incident Report Date
+         (4) Category of Abuse/Severity
+         (5) Name of Service Member Offender
+
+4.  Echelon II responsibilities.  Echelon II commanders are authorized to 
+issue additional reporting guidance to their subordinate commands. When 
+Echelon II commanders issue additional CCA reporting guidance, commanders 
+shall comply with Echelon II guidance.  Echelon II commanders shall be 
+responsible for ensuring all CCA reports received are forwarded to OPNAV N170 
+using the procedures below.
+
+5.  Commander responsibilities.  In the absence of additional reporting 
+guidance from Echelon II, commanders shall:
+    a.  Report completed command actions for incidents occurring on or after 
+1 October 2014 via encrypted e-mail to DVIC_CCA(at)navy.mil no later than 5 
+days after the command action is complete or within 30 days of receipt of 
+this message for already completed actions.  Command actions are complete per 
+paragraphs 2.b.(1) through 2.b.(4).  The report shall include:
+         (1) Command Name
+         (2) Command Primary UIC
+         (3) Incident Report Date
+         (4) Category of Abuse/Severity
+         (5) Name of Service Member Offender
+         (6) Consequent Command Action
+         (7) Command Point of Contact Information
+    b.  After 30 September 2015, commanders shall provide a status report on 
+all pending FY-15 incidents no later than 10 November 2015.
+
+6.  OPNAV N17 responsibilities.
+    a.  OPNAV N17 will coordinate with Echelon II point of contacts to 
+recover any delinquent reports.
+    b.  OPNAV N17 shall prepare and submit the FY-15 DVIC-CCA report to 
+Assistant Secretary of the Navy (Manpower and Reserve Affairs) no later than 
+10 February 2016.  Subsequent fiscal year DVIC-CCA inputs and reports will be 
+made on a timeline similar to that identified for FY-15.
+
+7.  Point of contact is Mrs. Sonia Smith, OPNAV FAP Manager, at (901) 874-
+4355 or via e-mail at sonia.smith(at)navy.mil. 
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+9.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

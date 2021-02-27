@@ -1,0 +1,84 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 021400Z AUG 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 178/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/POST 9-11 GI BILL EXCEPTION TO POLICY//
+
+REF/A/DOC/DOD/31MAY13//
+
+REF/B/DOC/USD/3JUL19//
+
+REF/C/MSG/CNO WASHINGTON DC/241457ZJAN19//
+
+REF/D/DOC/COMNAVPERS/8MAY18//
+
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION 1341.13 CHANGE 1, POST 9-11 
+GI BILL.  REF B IS OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND 
+READINESS MEMORANDUM.  REF C IS NAVADMIN 020/19, POST 9-11 GI BILL UPDATES.  
+REF D IS MILPERSMAN 1160-120, HIGH YEAR TENURE.//
+
+RMKS/1.  This NAVADMIN announces a temporary exception to policy
+(ETP) by the Department of Defense (DoD) to Post 9-11 GI Bill transfer of 
+education benefits (TEB) eligibility announced in reference (a).  This change 
+does not affect Service Members with an approved TEB request.
+
+2.  Reference (b) extends the implementation date of paragraph 3a of 
+reference (a) from 12 July 2019 to 12 January 2020.  The former ETP announced 
+in reference (c) has expired.
+
+3.  Specifically, Service Members who have served 16 or more years may 
+transfer Post 9-11 GI Bill benefits to their eligible dependents until 12 
+January 2020 with an additional 4-year service obligation on Active Duty or 
+in the Selected Reserve (SELRES).  Failure to complete the service obligation 
+will result in dependent ineligibility, or if benefits have been used, all 
+monies will be subject to recoupment.  Separations that do not result in loss 
+of TEB eligibility are described in reference (a), enclosure 3, paragraphs 
+3g(2)(a) through 3g(2)(h).
+
+4.  All officers and enlisted Service Members must complete the pre- 
+requisite online self-service Statement of Understanding by selecting the 
+MyNavy Education link on the MyNavy portal at https://my.navy.mil/quick-
+links.html before submitting a TEB request on Defense Manpower Data Center 
+(DMDC) milConnect.
+
+5.  For additional information, visit the DMDC milConnect website at 
+https://milconnect.dmdc.osd.mil/milconnect/public/goto/teb or contact 
+following:
+    a.  Mr. Jim Johnson, Education Policy Branch, at (703)604-5256/DSN 664 or 
+via e-mail at james.p.johnson(at)navy.mil.
+    b.  Active-duty and full-time support Service Members may submit 
+inquiries to MyNavy Career Center at 1-833-330-6622 or via e-mail at 
+askmncc(at)navy.mil.
+    c.  SELRES Service Members may submit inquiries to Commander, Navy 
+Reserve Forces Command, Post-9/11 GI Bill Manager, at
+1-800-621-8853 or via e-mail at cnrfc_post911gibill(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or
+12 January 2020, whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

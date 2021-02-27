@@ -1,0 +1,95 @@
+RTTUZYUW RUEWMCS0000 2071816-UUUU--RUCRNAD.
+ZNR UUUUU
+R 261816Z JUL 13
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01741//
+
+NAVADMIN 188/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/REPEAL OF FAMILY SERVICEMEMBERS' GROUP LIFE INSURANCE AUTOMATIC
+ENROLLMENT FOR MILITARY MEMBERS MARRIED TO MILITARY MEMBERS//
+
+REF/A/DOC/CONGRESS/2JAN13//
+REF/B/DOC/38 U.S.C. 1967//
+NARR/ REF A IS PUBLIC LAW 112-239, 2013 NATIONAL DEFENSE 
+AUTHORIZATION ACT (NDAA).  REF B IS 38 U.S.C. SECTION 1967, PERSONS
+INSURED; AMOUNT.//
+
+GENTEXT/RMKS/1.  This NAVADMIN announces the cancellation of 
+automatic Family Service Members' Group Life Insurance (FSGLI) 
+enrollment of spouses (active and reserve) who are military members 
+and the intent to reimburse members who had premiums incorrectly 
+deducted from their pay accounts.
+
+2.  Per section 642 of ref (a), military members married to military 
+members on or after 2 January 2013 will no longer be automatically 
+enrolled for FSGLI coverage; this was codified into law in ref (b).  
+In cases where Sailors married another military member on or after 
+2 January 2013, neither member is currently covered under the FSGLI 
+program, but premiums were automatically deducted from each member 
+through April 2013, due to system configuration.  These erroneously 
+collected premiums will be refunded. 
+
+3.  Sailors married to non-military spouses are not affected by this 
+change.  The non-military spouse of a Sailor with Servicemembers' 
+Group Life Insurance (SGLI) coverage will automatically be enrolled 
+in the FSGLI program.
+
+4.  Sailors married to military members desiring to enroll their 
+spouse in the FSGLI program should submit completed Family Coverage 
+Election form (SGLV 8286A) to the personnel office or servicing 
+Personnel Support Detachment (PSD).  The personnel office or PSD 
+will retain the document until incorrectly collected premiums are 
+refunded.  The SGLV 8286A will then be submitted electronically for 
+adjudication.  Enrolled qualified spouses are covered from the date 
+of submission to the personnel office or PSD.  Enrollment forms 
+requiring Office of Servicemember's Group Life Insurance (OSGLI) 
+approval of pre-existing health conditions should be forwarded to 
+OSGLI by the PSD or personnel office upon receipt.  Upon completion 
+of system updates and premium refunds, electronic enrollment will be 
+processed, and premiums will be retroactively collected from the date
+of enrollment.  
+
+5.  The following scenarios illustrate a Service member's options:
+    a.  Sailor married military member prior to 2 January 2013:    
+        (1) Both members were automatically enrolled in FSGLI.
+        (2) Coverage was effective as of the date of the marriage.
+        (3) Premiums were collected as of the date of marriage.
+        (4) Either member may decline FSGLI coverage per ref (b).
+    b.  Sailor marries a military member on or after 2 January 2013:
+        (1) Sailor is not enrolled in FSGLI.
+        (2) Erroneous automatic premium deductions made between 
+2 January 2013 and April 2013 have been stopped and are being 
+refunded.  
+        (3) Automatic enrollment did not constitute spouse FSGLI 
+            coverage.
+        (4) Sailors desiring to enroll their military spouse in the 
+FSGLI program must complete and submit a SGLV 8286A.  Members are 
+reminded to carefully follow instructions on the form including 
+completion of the health questionnaire portion of the form.
+    c.  Sailor married to a non-military spouse, who then enlists or 
+is commissioned in a uniformed service after 2 January 2013:
+        (1) Existing FSGLI coverage for the spouse remains in place.
+        (2) Newly commissioned or enlisted spouse must complete and 
+submit the SGLV 8286A if desired to enroll the Sailor in FSGLI.
+    d.  Military members married to each other, and one separates 
+from service:
+         (1) If the separating spouse has FSGLI coverage, no action 
+is required.
+         (2) If the separating spouse has no FSGLI coverage the 
+Sailor must complete an SGLV 8286A should they desire FSGLI 
+coverage for the spouse that separated from service. 
+
+6.  Point of contact is Mr. Al Gorski at (901) 874-4559/DSN 882, or 
+via email at alan.gorski(at)navy.mil.
+
+7.  Released by Vice Admiral S. R. Van Buskirk, N1.//
+BT
+#0000
+NNNN
+

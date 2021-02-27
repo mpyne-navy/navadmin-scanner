@@ -1,0 +1,182 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 011824Z NOV 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 268/18
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//DNS//
+
+SUBJ/REMOVAL OF AUTOMATIC CANCELLATION PROVISION AND REVISION OF AGE 
+REQUIREMENT OF INSTRUCTIONS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/OCT//
+
+REF/A/OPNAVINST 5215.17A
+
+REF/B/OPNAV MANUAL 5215.1
+
+REF/C/SECNAVINST 5215.1E
+
+REF/D/DOD INSTRUCTION 5025.01
+
+NARR/REF A IS THE NAVY DIRECTIVES MANAGEMENT PROGRAM INSTRUCTION OF
+26 MAY 2016.  REF B IS THE NAVY
+DIRECTIVES MANAGEMENT PROGRAM MANUAL OF 26 MAY 2016.  REF C IS THE SECRETARY 
+OF THE NAVY DIRECTIVES POLICY INSTRUCTION OF 28 OCTOBER 2014 WITH CHANGE 
+TRANSMITTAL 1 OF 15 SEP 2017.  REF D IS THE DEPARTMENT OF DEFENSE ISSUANCES 
+POLICY OF 1 AUGUST 2016 WITH CHANGE 2 OF 22 DECEMER 2017.//
+
+RMKS/1.  This NAVADMIN announces the revision of reference (a) and reference 
+(b) regarding the automatic cancellation provision of instructions and the 
+age requirement of instructions.
+
+2.  As of this date, per reference (c) and reference (d), the automatic 
+cancellation provision of OPNAV instructions over the allowable age 
+requirement is removed from reference (a) and reference (b).
+OPNAV instructions signed and effective prior to 26 May 2016, and those first 
+under consideration after this date will not be considered as automatically 
+cancelled.  These instructions remain in full effect unless separately 
+superseded or cancelled via a revision and reissuance or a cancellation 
+action memorandum or cancellation notice.
+
+3.  As of this date, in line with reference (d), the age requirement of all 
+types of instructions (to include letter-type, manual-type, and joints in 
+which the Navy command is the lead Service or component) is 10 years.
+As a reminder, lower echelon commands and activities may be more restrictive 
+than their higher authority echelon command in regards to the age of their 
+respective instructions.
+
+4.  Paragraph 17 of reference (a) is revised to:  "Per this instruction, DNS-
+15 Directives will review this instruction annually around the anniversary of 
+its issuance date to ensure applicability, currency, and consistency with 
+Federal, DoD, SECNAV, and Navy policy and statutory authority using OPNAV 
+5215/40 Review of Instruction.  This instruction will be in effect for 10 
+years, unless revised or cancelled in the interim, and will be reissued by 
+the 10-year anniversary date if it is still required, unless it meets one of 
+the exceptions in OPNAVINST 5215.17A, paragraph 9.  Otherwise, if the 
+instruction is no longer required, it will be processed for cancellation as 
+soon as the need for cancellation is known following the guidance in OPNAV 
+Manual 5215.1 of May 2016."
+
+5.  The verbiage of the required "Review and Effective Date"
+paragraph, per references (a) and (b), is revised
+to:  "Per OPNAVINST 5215.17A, (responsible organization) will review this 
+instruction annually around the anniversary of its issuance date to ensure 
+applicability, currency, and consistency with Federal, Department of Defense, 
+Secretary of the Navy, and Navy policy and statutory authority using OPNAV 
+5215/40 Review of Instruction.  This instruction will be in effect for 10 
+years, unless revised or cancelled in the interim, and will be reissued by 
+the 10-year anniversary date if it is still required, unless it meets one of 
+the exceptions in OPNAVINST 5215.17A, paragraph 9.  Otherwise, if the 
+instruction is no longer required, it will be processed for cancellation as 
+soon as the need for cancellation is known following the guidance in OPNAV 
+Manual 5215.1 of May 2016."
+
+6.  Per reference (a), the current paragraph 8, "Instruction Age Requirement, 
+Cancellations, and Revisions,"
+is revised as follows:
+    a.  Ten years from the date of issuance, an instruction that has
+    not been revised (as contrasted with changed, such as a change 
+transmittal as per subparagraph 8h) requires revision and reissuance, if it 
+is still required, or cancellation, unless it meets one of the exceptions in 
+paragraph
+
+9.
+    b.  If, by the age requirement anniversary date, an instruction
+    is considered to be valid and current and a revision is not required, at 
+a minimum, the instruction must be reissued under the next alphabetical 
+suffix with a new date and signature.
+    c.  At any time an instruction is determined to require a
+    revision or cancellation, the instruction must be processed for revision 
+or cancellation as soon as the need for revision or cancellation is known.
+    d.  If an instruction is not revised, reissued, or cancelled by
+    its age requirement anniversary date, and it does not meet one of the 
+exceptions in paragraph 9, it will be processed for cancellation by the 
+command or activity DCP (directives manager).
+    e.  The cancellation process must include review and concurrence
+    by all major stakeholder commands/activities, and must include an 
+appropriate legal review.  Refer to reference (b), chapter 1, paragraph 4, 
+exhibits 1-1 and 1-2, and appendix C for further guidance on cancelling an 
+instruction.
+    f.  If an instruction is cancelled and its continued use is
+    required, it must be processed as a "new" instruction with the next 
+available point number.
+    g.  The final "ready-for-signature" draft of the reissuance must
+    be submitted to the command or activity directives control point (DCP) 
+(directives manager) for directives compliance review and signature clearance 
+no later than the age requirement anniversary date of the current issuance.
+    h.  Change transmittals do not suffice as a revision and
+    reissuance of a Navy instruction.  Hence, the date of a change 
+transmittal is not considered the issuance date or revision date of an 
+instruction; the date of the initial basic version of an instruction is the 
+actual issuance date.
+    i.  All Navy notices are self-cancelling and cannot be in effect
+    for more than 1 year.  If a contingency has not been met within the 
+contingency period (no more than 1 year), a new notice with a new date and 
+signature must be reissued, or serious consideration should be given in 
+issuing the notice as an instruction instead."
+
+7.  With an allowable 10-year age requirement for instructions, extensions 
+will no longer be allowed.  The title of paragraph 9 of reference (a) will 
+change from "Exceptions to the Instruction 5-Year Age Requirement" to 
+"Exceptions to the Instruction 10-Year Age Requirement."  The subparagraphs 
+of paragraph 9 are revised to the following:
+    a.  Joint Inter-Service and Multi-Service Instructions.  If Navy
+    is not the lead Service of a joint and multi-Service instruction, the 
+joint instruction will follow the lead Service?s age requirement (in addition 
+to the lead Service?s format).
+    b.  Joint Intra-Navy Instructions.  The age of a joint intra-Navy
+    instruction will follow the age requirement of the lead Navy component 
+command.
+    c.  Other Manuals and Publications.  The age requirement does not
+    apply to "stand-alone" manuals and publications outside of the Navy 
+directives system.  Stand-alone manuals and publications are those that are 
+not identified as a Navy "instruction" ("INST") or a "notice" ("NOTE").
+    d.  Legal and Special Exceptions.  Exceptions may be made to the
+    cancellation process where legal requirements or other special situations 
+dictate continuance.  The justification for these legal requirements and 
+special situations must be documented by the command?s or activity's DCP 
+(directives
+manager) and undergo an appropriate legal review.
+    e.  Navy Echelon 2 and Below Commands and Activities with a More
+    Restrictive Age Requirement of Their Local Command or Activity 
+Instructions.  Extension requests are allowed for lower Navy echelon commands 
+and activities with a more restrictive age requirement.  However, no more 
+than two extensions should be allowed, and each extension should not be for 
+more than 12 months.  In addition, each extension request should be approved 
+by the appropriate authority, such as the signature authority of the 
+instruction (i.e., the position title that signed the current instruction) 
+for the first extension and the commander or commanding officer for the 
+second extension.
+    f.  Current OPNAV Instruction Taskers Based on the Previous 5
+    -Year Age Requirement.  DNS taskers submitted to OPNAV sponsors prior to 
+the date of this NAVADMIN for the revision and reissuance, consolidation, or 
+cancellation of OPNAV instructions over the previous 5-year age requirement 
+must be completed by the tasker due dates, to include any approved extension 
+requests."
+
+8.  References (a) and (b) will be revised to reflect the changes in this 
+NAVADMIN.
+
+9.  References (a) and (b) may be accessed via Department of the Navy 
+Issuances Web site (http://doni.documentservices.dla.mil/).
+
+10.  Released by RDML W. G. Mager for Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

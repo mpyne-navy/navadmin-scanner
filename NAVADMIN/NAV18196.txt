@@ -1,0 +1,198 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 131510Z AUG 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 196/18
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/RATING MODERNIZATION PROGRESS UPDATE//
+
+REF/A/DOC/CNO/1JAN16//
+
+REF/B/MSG/CNO WASHINGTON DC/211200ZDEC16//
+
+REF/C/MSG/CNO WASHINGTON DC/131828ZJUL17//
+
+REF/D/MSG/CNO WASHINGTON DC/161827ZAUG17//
+
+REF/E/MSG/CNO WASHINGTON DC/041505ZAPR18//
+
+REF/F/MSG/CNO WASHINGTON DC/141446ZJUN18//
+
+NARR/REF A IS CHIEF OF NAVAL OPERATIONS DESIGN FOR MAINTAINING MARITIME 
+SUPERIORITY.  REF B IS NAVADMIN 283/16, NAVY RATING MODERNIZATION NEXT STEPS.  
+REF C IS NAVADMIN 174/17, REVISED NAVY ENLISTED CLASSIFICATION CODE 
+CONSTRUCT.  REF D IS NAVADMIN 200/17, COMMANDING OFFICER AUTHORITY TO 
+REINSTATE UP TO E4 RANK AND ELIMINATION OF E4 ADVANCEMENT EXAMS FOR 20 
+RATINGS WITH ACCELERATED ADVANCEMENT.  REF E IS NAVADMIN 085/18, 
+PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM (PMK-EE).  REF F IS NAVADMIN 
+144/18, ANNOUNCEMENT OF PILOT PROGRAM FOR THE FY-19 ENLISTED ADVANCEMENT-
+TO- VACANCY SELECTION BOARD.//
+
+RMKS/1.  This NAVADMIN provides an update and way ahead on the four rating 
+modernization (RM) lines of effort (LOE): career fields, marketplace force management, 
+advancement process, and credentialing.
+
+2.  RM supports Sailor 2025 initiatives addressed in references (a) and (b) with the goals of 
+redefining career fields, improving talent management and the detailing process, offering 
+more career choices, and expanding professional development opportunities.  These 
+initiatives are intended to increase Fleet readiness, sustainability, and fit.  The details 
+provided below highlight the ongoing progress in each of the four RM LOEs:
+    a.  Career fields.
+        (1) Progress made:  As announced in reference (c), the alignment of ratings into 23 
+career fields and 12 broad communities has provided a foundation for future development of 
+more flexible career paths and the detailing marketplace.  RM enabled by Ready Relevant 
+Learning is a key component of Sailor 2025.  As we transfer to Block Learning, the Navy has 
+revised the Navy Enlisted Classification (NEC) construct that organizes NEC codes according 
+to their career fields.  In October 2017, March 2018, and June 2018 three groups of over 
+850 NEC codes were successfully converted, thereby completing the transition to the new 
+Navy NEC construct.
+        (2) Way ahead:  By the end of 2018, the RM working group will complete the 
+commonality matrix, a tool that will provide a robust capability to analyze similarities across 
+ratings, skill sets, training curricula, credentials, and other relevant factors.
+This capability will help both Sailors and Navy leadership identify opportunities for improving 
+the transparency, flexibility, and sustainability of enlisted career paths.  More information 
+about the revised NEC construct and communities and career fields can be viewed at 
+http://www.public.navy.mil/bupers-
+npc/reference/nec/Pages/default.aspx.
+    b.  Marketplace force management.
+        (1) Progress made:  Based upon the urgent requirement to update and modernize our 
+current personnel systems, methodologies to facilitate expanded career fields were 
+developed, which will help transform enlisted force community and career management in 
+the future.  The new marketplace will better balance needs of the Navy with the desires of 
+the Sailor.  Several pilot efforts focused on comparing rating skill sets, training 
+requirements and billet availability were conducted in 2017.  These pilots compared 
+Yeoman/Personnel Specialist and Damage Controlman/Hull Maintenance Technician to 
+determine viability and the appropriate inputs and possible components for building a future 
+marketplace.
+        (2) Way ahead:  A new *Navy Detailing Marketplace* is under development, 
+establishing the foundational elements of an automated personnel management system that 
+will tie Sailor enlistment directly to negotiating for a billet, allowing Sailors to reenlist or 
+extend for that billet assignment.  The marketplace will be a single system that will leverage 
+our new NEC construct to better represent qualifications, skills, experience, performance, 
+and proficiency in the form of a resume of the Sailor.  Sailor resume will be available in the 
+future under *My Record* on MyNavyPortal(MNP). Starting in Fiscal Year 2019, Sailors will 
+be able to view all advertised billets they qualify for and then submit a resume that 
+includes:
+ASVAB scores, security clearance status, worldwide deployability, qualifications, evaluations, 
+NECs earned, education degrees, and training certifications.  This resume will provide the 
+ability to better match Sailors to billets, better information for both detailers and 
+commands, who can then make sound, agile and transparent decisions.  U.S. Fleet Forces 
+(USFF) Command is leading a sub-working group that will incorporate a fifth and sixth alpha 
+numeric digit to the new NEC construct outlined in reference (c), to capture Sailor 
+proficiency, performance, and experience in their rating and associated NECs.  This work will 
+improve billet descriptions and improve Sailor matching to billets.  Some key concepts being 
+explored in the marketplace include the ability to compare billets side-by-side, which will 
+provide timely information to Sailors while they are considering their options for billets.
+Representatives from Navy Personnel Command, USFF, and the Bureau of Naval Personnel 
+are working collaboratively to conduct a Marketplace Detailing war game for the rating of 
+Aerographers Mate (AG) in the Fall of 2018.  This war game will engage more than 70 
+Sailors in a real world setting.  The simulated exercise will use actual billets and Sailors to 
+study the Marketplace concepts and make improvements as necessary.  The intended 
+outcome is a detailing process which is easier to understand, transparent and gives Sailors 
+more control in the assignment decision process by displaying more billet options and 
+providing incentives for selecting high-priority billets which meet the operational priority of 
+the Fleet.  Examples of incentives under consideration include multiple tour details, 
+incentive pay, advance-to-vacancy billets and educational opportunities.  One example of 
+multiple tours bundled into a single detailing transaction could be a guaranteed sea duty 
+assignment in the same geographic area following a shore duty assignment, specifically in 
+fleet concentration areas such as Lemoore and other similar type locations.  Integrating 
+these detailing incentives through the Marketplace platform will provide opportunities for 
+geo-stability to Sailors and their family while meeting the priorities of the Fleet.
+Additionally, the functional marketplace will be used by Sailors to transition between the 
+Active and Reserve Components and to apply for rating conversions.  Sailors with training 
+and special skills will have a more agile conversion process that leverages the Sailor resume 
+and Marketplace Detailing data to inform them of where their skills best fit in the Navy.  The 
+same tools will enable detailers to better harness those unique skill sets possessed by 
+certain Sailors to fill critical jobs.  A conceptual Marketplace Detailing wireframe demo can 
+be seen at http://detailing- marketplace.s3.amazonaws.com/search.htm.
+    c.  Advancement process.
+        (1) Progress made:  As outlined in reference (d), we have revised policy to eliminate 
+rating exams for 20 E4 auto-advanced ratings.  Commands will have the ability to reinstate 
+an E3 Sailor to E4 who had been awarded NJP, after a minimum 6 month waiting period.  
+Late in 2017, we completed the first phase of the Advancement Exam Readiness Review 
+(AERR) testing bank improvement plan that leverages the highly talented senior enlisted 
+leaders selected by their Type Commands to create advancement exam questions that 
+match current and relevant rating specific technical requirements with the hands-on, real-
+world knowledge and experience needed in the Fleet.
+        (2) Way ahead:  As a part of Sailor 2025 we are continuing to modernize enlisted 
+advancements through several new initiatives to include the Professional Military Knowledge 
+Eligibility Exam
+(PMK-EE) outlined in reference (e), the online Enlisted Advancement Worksheet (EAW), and 
+the Senior Enlisted Advancement to Vacancy
+(A2V) Selection Board outlined in reference (f).  The establishment of the PMK-EE focuses 
+the Navy Wide Advancement Exam (NWAE) on occupational knowledge and will serve as an 
+eligibility requirement for advancement to paygrades E4/5/6/7.  PMK-EE will be delivered 
+electronically, and will be available via the MyNavyPortal (MNP) website beginning in 
+October 2018.  The online EAW will automate the manual advancement processes and 
+enable Sailors to review their worksheets before the exam and take charge of their 
+advancement records.  An EAW pilot, available through the Navy Standard Integrated 
+Personnel System (NSIPS), will be implemented with the Active Duty and Reserve spring 
+2019 advancement cycles.  These two steps will help us learn as we continue to work 
+toward tailored advancement exams, delivered electronically to all.  The A2V pilot will fill 
+senior chief petty officer and master chief petty officer priority billets using a spot 
+advancement incentive and will lead Enlisted advancement modernization for exceptional 
+Sailors in all paygrades with critical NECs in the future.  Tools like A2V will make important 
+incentives available in the Marketplace Detailing.
+The ultimate goal of the Navy, is to promote the right Sailor with the right skill in the right 
+place at the right time.
+    d.  Credentialing.
+        (1) Progress made:  Navy Credentialing Opportunities On-Line
+(COOL) currently funds over 2,700 certificates/licenses with opportunities for Sailors in 
+every rating.  Navy COOL recently reduced the minimum service remaining on a Sailors 
+enlistment contract requirement to earn credentials from 12 to 6 months, and expanded the 
+opportunity for Sailors to earn credentials mapped to an academic degree or technical 
+education certificate.  In addition, we have significantly improved opportunities for Sailors to 
+maximize their Navy training and qualifications toward attainment of U.S.
+Coast Guard (USCG) licenses, to include funding the Transportation Worker Identification 
+Card.  These opportunities are highlighted in a dedicated *USCG National Maritime Center 
+(NMC) Credentialing* tab for ratings with applicable USCG license alignment on the Navy 
+COOL website.
+        (2) Way ahead:  Sailors will be able to convert their military training records, billet 
+assignment history, and other credentialing data to a compatible civilian resume by the end 
+of fiscal year 2019.  Using those standardized data, Sailors can easily research information 
+on civilian and federal occupations mapped to their ratings at 
+https://www.cool.navy.mil/usn or via the Navy COOL app available on the Google Play store 
+or iTunes.
+
+3.  Representatives from across the Navy, at all levels, are contributing to the efforts in 
+each of the four RM LOE working groups.  We are committed to ensuring that Fleet and 
+Sailor input is incorporated into all RM efforts.  As a reminder, Fleet representatives are 
+welcome to participate in the working groups.
+Feedback or ideas can also be forwarded to USNPeople.fct(at)navy.mil.
+
+4.  Other opportunities to learn more about RM include:  Fleet Engagement Team site visits, 
+Career Development Symposiums, Navy COOL Fleet briefs, and direct contact with the 
+Enlisted Plans and Policy Branch (OPNAV N132) RM team.
+
+5.  Points of contact:
+    a.  For general RM questions contact CAPT Angela Katson, Branch Head OPNAV N132, 
+(703) 604-5024/DSN 664, or via email at angela.katson(at)navy.mil
+    b.  For information on RM development, updates, and participation, or to join the 
+discussions on RM subjects that are of interest to you, visit the N1 RM Working Group 
+SharePoint page at https://mpte.navy.deps.mil/sites/opnav-
+n1/rmwg/SitePages/Home.aspx.
+    c.  For access questions or comments contact LCDR Barry Lu, RM Project Manager OPNAV 
+N132, (703) 604-5440, or via email at barry.lu(at)navy.mil.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

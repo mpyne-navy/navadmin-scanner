@@ -1,0 +1,150 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 152051Z FEB 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 033/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-19 COMMAND SENIOR CHIEF SENIOR ENLISTED LEADERSHIP BOARD RESULTS//
+
+REF/A/DOC/CNO/4 APR 2012//
+
+AMPN/OPNAVINST 1306.2H, COMMAND SENIOR ENLISTED LEADERSHIP PROGRAM//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for assignment as Command Senior Chief from the Command 
+Senior Enlisted Leadership board, which convened 29 January 2018:
+NAME (LAST FIRST MI)          RATE        PARENT COMMAND
+ALVARADO, DONALD R            QMCS        AFLTRAGRUMP P H
+ANGLIN, CORY D                HMCS        NAVMAC MILLINGTN
+ANTONIO, ALLAN V              HMCS        LPD 22 SAN DIEGO
+BANKS, HERBERT D JR           MCCS        EXPCOMBATCAMBATC
+BARAOIDAN, DONNA K            QMCS        COMNAVSUFFOR PACIFIC
+BURPEE, MATTHEW R             ATCS        NAWCAD PAX 6.0
+BUSH, ANTHONY D               ISCS        CVN 69 EISENHOWE
+CABRAL, RAYMOND M             CUCS        CSP NDC DET OKI
+CALLAWAY, SCOTT G             STGCS       CNSS 14
+CARMONA, ALAN K               ATCS        CENNAVAVNTECHTRA
+CASTILLO, RACHEL E            YNCS        VFA 11
+CLARKE, JAMES P               AMCS        VFA 143
+COMDECO, LAWRENCE W JR        HMCS        COMSTRATCMWNG 1
+CRITIDES, KARL A              CTRCS       NAVCYBRDEFOPSCOM
+DAVIS, JAZMIN L               HMCS        CVN 72 LINCOLN
+DAVIS, KYLE E                 NCCS        CNAVPERSCOM MILL
+DAWSON, MATTHEW P             HMCS        COM CVW 17
+DEBURGER, JOSHUA R            AMCS        VX 9
+DIAZ, JOSE A                  ACCS        CVN 69 EISENHOWE
+DICKENS, JENEAN N             YNCS        30TH NCR
+DORNER, CHRISTOPHER W         QMCS        NETC GST LS CS
+DUNLAP, JEREMY R              HMCS        OTC NEWPORT RI
+EASON, VAUGHN C               HMCS        NHCL QUANTICO
+EDWARDS, SHANE R              ACCS        TACRON 22
+EICKHOFF, WILLIAM P           HMCS        NSCOLEOD EGLIN
+ELLIS, PAUL C                 CTTCS       NIOC COLORADO
+ESCOTO, RAFAEL A              BMCS        CORIVRON 3
+EUGENE, LEONARD C             AOCS        HSC 14
+FLEMING, SHAWN D              AZCS        CNAL TRNG TEAM
+GEISER, JEFFREY R             HMCS        LSD 44 GUN HALL
+GONZALEZ, ADOLFO              HMCS        NHCL QUANTICO
+GORDON, LARRY L               EMCS        CPFLT MPL/BTHS
+HARLOW, MARK D JR             AOCS        TSC HAMPTON RDS
+HAUPTMANN, TREY J             HMCS        CVN 68 NIMITZ
+HON, NATHAN G                 ITCS        CTF 69
+HORTON, VIRGINIA L            MACS        CRG 1 DET GUAM
+HUNT, CONRAD S                BMCS        DDG 80 ROOSEVELT
+HYATT, DAVID C                CTTCS       CG 57 LAKE CHAMP
+JAMES, PAUL                   MMCS        AS 39 E LAN M/SC
+JOINER, JOSHUA B              ENCS        CORIVRON 1
+KERR, JESSICA C               CTTCS       DDG 112 MURPHY
+LAMPLEY, PATRICK I            LSCS        CVN 76 REAGAN
+LANDIN, JUAN D                SHCS        ATG SAN DIEGO
+LAVALLAIS, ERIKA J            AZCS        COM CVW 1
+LEE, JACQUELINE A             NCCS        AS 39 E S LAND
+LEE, KELVIN B                 MACS        CORIVRON 2
+LEWIS, ROBERT A               ATCS        VAQ 141
+LIAM, CHRISTOPHER O JR        ASCS        CFAF AIMD ATSUGI
+LIGHTY, JAMES E JR            MACS        NAF MISAW SEC DT
+LILLEY, BRANDON E             LSCS        LCS CREW 106
+LOEFFELHOLZ, TERRY L          LSCS        CVN 68 NIMITZ
+MACLIN, MICHAEL W             OSCS        UWDC DET SDIEGO
+MCDERMOTT, ERIC M             AMCS        HSM 48
+MCLEOD, ORLANDO               MACS        NAS FALLON SECDT
+MERRIMAN, APRIL D             HMCS        CG III MEF
+MILO, SIMONE C                LSCS        LHD 1 WASP
+MOISE, MACKENSON              LSCS        COMACCLOGWING
+MONTENERO, JOSEPH J           DCCS        LPD 22 SAN DIEGO
+NORTON, BOBBY D               AMCS        VRC 30
+NURSE, JEROME L               NCCS        SR ENL ACAD
+OWENS, CHRISTOPHER T          HMCS        NAVDOSCEN
+PASHKEVICH, KRISTI I          OSCS        CSF DET NISLAND
+PENA, JOSE L                  GMCS        CRG ONE TEU
+PHILLIPS, FELIX T             MMCS        SWOS ENG NORFOLK
+POWELL, DAMON D               AMCS        VRC 40
+QUIHUIS, RANDY R              AOCS        TSC SAN DIEGO
+RAJABALLEY, JOSHUA A          MNCS        NMCPAC EAD GUAM
+REDDEN, STEVE C               HMCS        NHC OAK HARBOR
+RESURRECCION, RYAN O          ADCS        HSC 21
+RINKAVAGE, STEVEN M JR        HMCS        US NAVAL ACADEMY
+SIGURDSSON, KARYN             LNCS        RLSO NDW WAS DC
+SIMPSON, TIFFANIE C           AZCS        SSC LANT TIDEWTR
+SINGLETON, ADAM C             MACS        JBPHH
+SKOGEN, JEFFREY M             ETVCS       SSN 764 BOISE
+SMART, KENNETH A              AMCS        VFA 125
+SMITH, RANDY W                ISCS        CIWT PENSACOLA
+STODDARD, ARTHUR A            MACS        VQ 3 DET OFFUT AF
+STRUPCZEWSKI, ROBERT B        FCCS        DDG 107 GRAVELY
+TAPIA, JORGE                  STGCS       CG 53 MOBILE BAY
+TORRES, MARK                  ABHCS       CVN 69 EISENHOWE
+TROUTH, DALTON O              MACS        CNR EURAFSWA
+VALDESPOU, JANS               EMCS        ATG NORFOLK
+WEAVER, STEPHANIE A           MACS        NAVHOSP JACKSONVILLE FL
+WHEELER, CASEY A              HMCS        MEPS DES MOINES
+WIEDEMANN, WARREN J           AOCS        CNATT DET EGLIN AFB
+WILSON, MATTHEW L             FCCS        EWTGPAC COR CA
+
+2.  Congratulations to the following Full Time Support (FTS)/Selected Reserve 
+(SELRES) members selected for assignment as Command Senior Chief:
+NAME (LAST FIRST MI)          RATE        PARENT COMMAND
+ALONSO, ALFREDO N             HMCS        CORIVRON 11
+BOHANAN, SEAN W               ATCS        FRCMA DET WASH
+BRYANT, DUSTIN J              ADCS        CTSW
+BUTLER, JUSTIN S              LSCS        CNAVPERSCOM MILLINGTON
+BUTLER, RACHEL M              YNCS        NOSC MEMPHIS TN
+GRAVES, JAMES T               YNCS        CNAFR PAC REP
+LYON, TRACY M                 ATCS        VR 62
+MARZELLA, MARK G JR           EMCS        CORIVGRU 1
+REID, CHRISTOPHER T           YNCS        COMNAVRESFORCOM NORFOLK
+WILLIAMS, DARRYL E            HMCS        CG MARFORRES
+ZIEGLER, ROBERT M             AWFCS       VR 61
+
+3.  AC POC is CMDCM(SW/AW) James W. Osborne, NAVPERSCOM PERS-40FF at 901-874-
+4560; DSN 882-4560; email james.w.osborne1(at)navy.mil.
+SELRES POC is YNC Derrick Farrell, COMNAVRESFOR at 757-322-2432; email 
+derrick.farrell(at)navy.mil.  FTS POC is YNCM Jeffrey Sliker, NAVPERSCOM 
+PERS-4012C at 901-874-3257; DSN 882-3257, email Jeffrey.Sliker(at)navy.mil.
+
+4.  Selectees should contact their respective POC soonest to discuss 
+detailing opportunities.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

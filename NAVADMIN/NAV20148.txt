@@ -1,0 +1,252 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 271858Z MAY 20 MID510001200378U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 148/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/UPDATED POLICY FOR THE USE OF EMBEDDED COMPUTER CAPABILITIES AND 
+PERIPHERALS TO SUPPORT TWO-WAY COLLABORATION (CORRECTED COPY)//
+
+REF/A/MEMO/DOD SISO/1MAY20//
+REF/B/MEMO/DEPSECDEF/22MAY18//
+REF/C/MEMO/DOD CIO/21APR16//
+REF/D/MEMO/N2NGI/26OCT15//
+REF/E/INST/ICD 705/27SEP17//
+REF/F/MEMO/DOD CIO/13APR20//
+
+NARR/REF A IS DEPARTMENT OF DEFENSE (DOD) SENIOR INFORMATION SECURITY OFFICER
+(SISO) MEMORANDUM ON GUIDANCE FOR THE USE OF EMBEDDED COMPUTER CAPABILITIES 
+AND EXTERNAL COMPUTER PERIPHERALS IN TELEWORK ENVIRONMENTS.  
+REF B IS DEPUTY SECRETARY OF DEFENSE MEMORANDUM ON MOBILE DEVICE RESTRICTIONS 
+IN THE PENTAGON.  
+REF C IS DOD CHIEF INFORMATION OFFICER (CIO) MEMORANDUM ON INTRODUCTION AND 
+USE OF WEARABLE FITNESS DEVICES AND HEADPHONES WITHIN DOD ACCREDITED SPACES 
+AND FACILITIES.  
+REF D IS DEPUTY DIRECTOR OF NAVAL INTELLIGENCE MEMORANDUM ON DEPARTMENT OF 
+THE NAVY SENSITIVE COMPARTMENTED INFORMATION FACILITY PERSONAL PORTABLE 
+ELECTRONIC DEVICES CLARIFICATION MEMORANDUM.  
+REF E IS INTELLIGENCE COMMUNITY DIRECTIVE (ICD) 705 TECHNICAL SPECIFICATIONS 
+FOR CONSTRUCTION AND MANAGEMENT OF SENSITIVE COMPARTMENTED INFORMATION 
+FACILITIES V 1.4.  
+REF F IS DOD CIO MEMORANDUM ON AUTHORIZED TELEWORK CAPABILITIES AND 
+GUIDANCE.// 
+POC1/SUSAN BRYERJOYNER/CAPT/OPNAV N2N6G5/EMAIL: 
+SUSAN.BRYERJOYNER1(AT)NAVY.MIL/TEL:  571-256-8422//
+POC2/RANDY AKERS/DON INFOSEC/EMAIL:  RANDY.AKERS(AT)NAVY.MIL/TEL:  703-601 -
+0477// 
+POC3/MARK LAWTON/NAVY SSO/EMAIL:  MARK.LAWTON1(AT)NAVY.MIL/TEL:  703-604-
+5736// 
+POC4/DEIDRA BASS/NAVINTEL ISSM/EMAIL:  DEIDRA.BASS(AT)NAVY.MIL/TEL:  (301) 
+669 -3213// 
+POC5/ROBERT NITZENBERGER/DON SAP SENIOR AUTHORIZING OFFICIAL
+/EMAIL:  ROBERT.NITZENBERGER(AT)NAVY.MIL/TEL:  (202) 284-1301//
+
+RMKS/1.  This corrected NAVADMIN adds paragraph 2 (electronic devices) and 
+updates paragraph 4 (Navy-issued peripherals).  This guidance consolidates 
+references (a) through (f) to provide one authoritative policy for the use of 
+embedded computer capabilities and peripherals (without internal storage) to 
+support collaboration in telework environments and government workspaces 
+(unclassified, classified, collateral classified, Sensitive Compartmented 
+Information Facility (SCIF), and Special Access Program (SAP)).  For the 
+purpose of this NAVADMIN, the following definitions are provided:
+    a.  Computers are electronic devices that store and process data (e.g.
+desktop/laptop, tablets, smartphones).
+    b.  Embedded computer capabilities are a combination of built-in hardware 
+and software designed to provide a specific function (e.g. built-in web 
+cameras, microphones, Wi-Fi).
+    c.  Computer peripherals are external devices (e.g. common access card 
+(CAC) readers, web cameras, microphones, keyboards, mice, monitors, printers) 
+that are physically or wirelessly (e.g. Wi-Fi, Bluetooth) connected to 
+computers.
+Restrictions regarding the use of external storage devices (e.g. Universal 
+Serial Bus (USB) memory sticks, hard drives, digital cameras, etc.) remain in 
+place.
+
+2.  Previous restrictions regarding the use of electronic devices (e.g. 
+cellular phones, etc.) in unclassified, collateral classified, SCIF, and SAP 
+workspaces remain in effect.
+    a.  Personally-owned electronic devices (unmanaged government devices) 
+are prohibited in open storage rooms (secure rooms), SCIFs, SAP Facilities 
+(SAPF), classified meetings, conferences, or other forums where classified 
+information is to be discussed or processed.  Per SECNAVINST 5510.36B (12 
+July 2019), Department of Navy (DON) Information Security Program (enclosure 
+2, paragraphs 19 and 20), supervisors are responsible for enforcing and all 
+DON employees are responsible for complying with this prohibition.  Heads of 
+activities should consider whether to restrict personally-owned electronic 
+devices in meetings, conferences, or other forums where Controlled 
+Unclassified Information is to be discussed or processed.
+    b.  Government-issued cellular phones are prohibited in open storage 
+rooms (secure rooms), SCIFs, SAPFs, classified meetings, conferences, or 
+other forums where classified information is to be discussed or processed.
+
+3.  Embedded computer capabilities  Use on Navy-issued computers.
+    a.  Authorized in telework environments and unclassified government 
+workspaces only.
+    b.  Prohibited in any classified government workspaces, per reference 
+(a).
+    c.  The following authorities are responsible for establishing processes 
+for enabling prior to telework and disabling prior to re-introducing these 
+computers back into higher classified workspaces (collateral classified, 
+SCIF, and SAP):
+        (1) For collateral classified spaces, up to the Top Secret level, the 
+Navy Senior Information Security Officer (SISO) is the approval authority and 
+will coordinate with the Deputy Undersecretary of the Navy, as required.
+        (2) For Navy-accredited SCIFs, the Special Security Officer (SSO), 
+with concurrence from the Naval Intelligence (NAVINTEL) Command Information 
+Officer (CIO), is the approval authority.  Navy commands that use SCIFs 
+accredited by other agencies (e.g. NSA, DIA) shall comply with guidance from 
+those agencies.
+        (3) For Navy-accredited SAPFs, the Director, DON SAP Central Office
+(SAPCO) is the approval authority.  Navy commands that use SAPFs accredited 
+by other agencies (e.g. NSA, DIA) shall comply with guidance from those 
+agencies.
+
+4.  Navy-issued peripherals.
+    a.  Telework environments.
+        (1) Authorized on personally-owned computers.
+        (2) Authorized on Navy-issued computers.
+    b.  Unclassified workspaces.
+        (1) The use of headsets with microphones and web cameras in 
+unclassified government workspaces is restricted to training and mission 
+essential tasks that require two-way communication.  They are NOT authorized 
+for unofficial use.
+    c.  Collateral classified workspaces.
+        (1) Authorized up to the Top Secret level, to include common, 
+restricted and collateral open storage areas, with the following limitations:
+            (a) Reference (b) remains in force for mobile devices in any 
+Pentagon workspace that is designated or accredited for the processing, 
+handling, or discussion of classified information.
+            (b) Must be government procured using one of the below two (2)
+methods:
+                1.  Network provider Approved Products List (APL)
+                    a.  NMCI APL can be accessed at 
+https://homeport.navy.mil/services/downloads/nmcicertifieddevicelist.xlsx
+                    b.  ONEnet APL can be accessed at 
+https://navy.deps.mil/sites/nen-one-
+net/Eng/APL/Public%20Use%20APL%20Repository/Forms/AllItems.aspx
+                2.  General Services Administration (GSA) contract with Trade 
+Agreements Act (TAA) compliant products.
+                3.  Previously procured peripherals that do not comply with 
+this NAVADMIN will be replaced as soon as fiscally feasible, but not later 
+than 31 December 2020.
+            (c) Headsets without microphones, per reference (c):
+                1.  Must be unplugged when not in use.
+                2.  Must be wired.
+                3.  May use either a 3.5mm audio jack or USB port.
+                4.  Cannot contain noise-cancelling functionality.
+                5.  May be used on a system with any classification level, 
+and once disconnected, are not considered classified.
+            (d) Headsets with microphones, per reference (c):
+                1.  Must be unplugged when not in use.
+                2.  Must be wired.
+                3.  Microphones with mute capability (e.g. ambient noise 
+cancelling or push-to-talk) are preferred if available.
+                4.  May use either a 3.5mm audio jack or USB port.
+                5.  Cannot contain noise-cancelling functionality.
+            (e) Web Cameras:
+                1.  Use must be approved by the appropriate authority 
+identified in paragraph 2 above.
+                2.  May only be used on systems at the classification level 
+of the space.  For example, in a collateral SECRET open storage area an 
+external web camera may be connected to the SECRET workstation only.
+                3.  Waivers regarding use of external web cameras on 
+workstations at a lower classification level than the workspace may be 
+approved on a case-by-case basis by the Navy SISO for select situations (e.g. 
+offices with doors).
+    d.  Navy-accredited SCIFs.
+        (1) May be authorized by the Navy SSO or Navy Regional SSO (RSSO) on 
+a case-by-case basis, with the following limitations:
+            (a) Reference (b) remains in force for mobile devices in any 
+space in the Pentagon that is designated or accredited for the processing, 
+handling, or discussion of classified information.
+            (b) All peripherals used in SCIF workspaces must be government 
+procured using the network provider APL.
+                1.  Effective immediately, commands will procure only 
+computer peripherals contained on approved products lists established by 
+their network providers.
+                2.  Previously procured peripherals (e.g. headsets, web 
+cameras, microphones, etc.) used in classified spaces will be replaced as 
+soon as fiscally feasible, but not later than 31 December 2020.
+            (c) Headsets without microphones:
+                1.  Must be unplugged when not in use.
+                2.  Must be wired.
+                3.  May use either a 3.5mm audio jack or USB port.  If the 
+headsets connect via a USB port, the Navy SSO will coordinate with the Naval 
+Intelligence Activity (NIA) CIO prior to issuing a determination.
+                4.  Headsets cannot contain noise-cancelling functionality.
+                5.  Per reference (d), headsets must be government procured.
+                6.  May be used on a system with any classification level, 
+and once disconnected, are not considered classified.
+            (d) Headsets with microphones:
+                1.  Must be unplugged when not in use.
+                2.  Must be wired.
+                3.  Microphones must have a mute capability.  Ambient Noise 
+Cancelling and Push-to-Talk features are preferred enhancements.
+                4.  May use either a 3.5mm audio jack or USB port.  If the 
+headsets connect via a USB port, the Navy SSO will coordinate with the NIA 
+CIO prior to issuing a determination.
+                5.  Headsets cannot contain noise-cancelling functionality.
+                6.  Per reference (d), headsets must be government procured.
+            (e) Web Cameras:
+                1.  Per reference (e), recording capabilities and restricted 
+technologies (e.g. audio and video recorders, cameras, microphones, and 
+devices with USB connectivity) introduce vulnerabilities to information and 
+therefore impact SCIF security.
+                2.  Cameras are considered medium risk portable electronic 
+devices and may be allowed in a SCIF with approval of the CSA or Navy SSO, 
+with concurrence of the NAVINTEL CIO with appropriate mitigations in place.
+                3.  Reference (e) does not distinguish between digital and 
+web cameras.  Direct all waiver requests to the Navy SSO.
+    e.  Navy-accredited SAPFs.
+        (1) May be authorized by the Director, DON SAPCO on a case-by-case 
+basis.
+
+5.  Personally-owned peripherals, wired or Bluetooth-enabled  Use on Navy-
+issued computers.
+    a.  Not authorized in any classified workspaces.
+    b.  Authorized in telework environments and unclassified government 
+workspaces, with the following exceptions:
+        (1) Per reference (a), peripherals manufactured by any source that is 
+designated by Navy or the Defense Information Systems Agency (DISA) as being 
+prohibited are not allowed.  This includes any company prohibited by law, to 
+include Huawei, Zhong Xing Telecommunication Equipment (ZTE), Hikvision, 
+Hytera, and Dahua.  (NOTE:  Users are encouraged to use the DISA APL at 
+https://disa.deps.mil/org/SE6/Lists/APL/AllItems.aspx to inform their 
+personal peripheral procurements).
+        (2) Per reference (a), storage devices (e.g. USB memory sticks, hard 
+drives, digital cameras, etc.) are prohibited.
+        (3) Per reference (a), external monitors are prohibited, when using 
+USB connections.
+            (a) Per reference (a), external monitors using VGA, DVI, HDMI, or 
+Display Port connections, provided they do not have any memory storage 
+capabilities, are authorized.
+        (4) Per reference (f), any personally-owned device that provides 
+print functions, including multi-function devices, are prohibited.
+
+6.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

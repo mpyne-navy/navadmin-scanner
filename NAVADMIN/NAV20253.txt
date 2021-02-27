@@ -1,0 +1,160 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 112115Z SEP 20 MID200000098554U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 253/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/POLICY GUIDANCE UPDATE FOR COMMON ACCESS CARD AND USID IDENTIFICATION 
+CARD ISSUANCE//
+
+REF/A/MEMO/USD/7APR20//
+REF/B/DOC/OUSD P&R/14DEC17//
+REF/C/MSG/CNO WASHINGTON DC/022207ZAPR20//
+REF/D/MSG/CNO WASHINGTON DC/202317ZAPR20//
+REF/E/MEMO/USD P&R/16APR20//
+REF/F/MEMO/OUSD I&S/16APR20//
+REF/G/MEMO/OUSD I&S/18AUG20//
+REF/H/MEMO/USD P&R/8SEP20//
+
+NARR/REF A IS THE UNDER SECRETARY OF DEFENSE POLICY GUIDANCE FOR 
+IDENTIFICATION CARD OPERATIONS FOR COVID-19.  
+REF B IS OFFICE OF THE UNDER SECRETARY OF DEFENSE POLICY FOR THE ELIGIBILITY 
+AND ISSUANCE OF A COMMON ACCESS CARD (CAC) TO DEPARTMENT OF DEFENSE (DOD) 
+PERSONNEL.  
+REF C IS NAVADMIN 097/20, COMMON ACCESS CARD ISSUANCE POLICY FOR COVID-19.  
+REF D IS NAVADMIN 114/20, POLICY GUIDANCE UPDATE FOR IDENTIFICATION CARD 
+SERVICES FOR COVID-19.  
+REF E IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS MEMORANDUM, 
+ADDITIONAL PROCEDURES FOR DEPARTMENT OF DEFENSE INDENTIFICATION CARDS FOR 
+COVID-19.  
+REF F IS OFFICE OF THE SECRETARY OF DEFENSE INTELLIGENCE AND SECURITY POLICY 
+FOR PHYSICAL ACCESS TO DOD FACILITIES WITH AN EXPIRED CAC/USID CARD.  
+REF G IS OFFICE OF THE SECRETARY OF DEFENSE INTELLIGENCE AND SECURITY 
+EXTENSION OF EXCEPTION TO POLICY ALLOWING THE TEMPORARY ACCEPTANCE OF EXPIRED 
+DEPARTMENT OF DEFENSE CREDENTIALS DURING THE COVID-19 NATIONAL EMERGENCY.  
+REF H IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS POLICY 
+GUIDANCE EXTENSION FOR IDENTIFICATION CARD OPERATIONS FOR COVID-19.
+
+RMKS/1.  This NAVADMIN provides an update to temporary guidance for Navy 
+personnel who require Common Access Card (CAC) and Uniformed Services 
+Identification (USID) Card services during the COVID-19 emergency in 
+accordance with references (a) through (d).  This NAVADMIN cancels references 
+(e) and (f) and implements references (g) and (h).
+
+2.  In accordance with reference (f), the option of using expired CACs for 
+physical access to military installations ends effective 30 September 2020.  
+In addition, CAC-Identification (ID) certificates will not be extended past 
+30 September 2020.  All CAC holders who have an expired CAC will need to 
+report to the nearest identification card issuing facility as soon as 
+possible to obtain a new CAC and certificates.  Acceptance of an expired USID 
+card (held by retirees and dependents) for access to DoD installations 
+remains in effect until 30 March 2021 or until reference (f) is cancelled.
+
+3.  DoD personnel should contact the nearest identification card issuing 
+facility to schedule an available time to have their CAC reissued.  The ID 
+card facility will accommodate both telephone and online appointment 
+requests.
+    a.  Starting 14 September 2020, Navy ID card facilities will be offering 
+extended hours of operation and more walk-in time availability.  In addition, 
+the following sites will be open for appointments on Saturday through 30 
+September 2020:  NAVBASE San Diego, CA, NAVSTA Mayport, FL, NAS Jacksonville, 
+FL, NTC Great Lakes, Norfolk Main Navy Exchange, Norfolk, VA and NAS Whidbey 
+Island Seaplane Base, WA.
+    b.  ID card site personnel will contact all those who have appointments 
+for the month of September to verify the appointment is for CAC issuance.  If 
+the appointment is for a USID card, the appointment will be rescheduled after 
+1 October 2020.
+    c.  Customers will be screened upon reporting to the ID card facility to 
+ensure that service is needed for the CAC holder.  All USID cardholders with 
+the exception of emergent issues (lost/stolen/initial issuance) will be 
+rescheduled for an appointment at a later date.
+    d.  Personnel are encouraged to contact the ID card site directly prior 
+to arriving at the site as a walk-in.  This will enable the site to book 
+appropriate time slots for CAC reissuance.
+Personnel can obtain the contact phone number for the site at 
+https://idco.dmdc.osd.mil/idco/.
+    e.  Commands are requested to assist in emphasizing that only those with 
+an expired CAC request an appointment until the end of September to 
+prioritize the necessary work at the ID card sites.
+
+4. The following additional policy changes are authorized until
+30 June 2021:
+    a.  If the affiliation of a cardholder with their service has not changed 
+(i.e. they are still entitled to benefits), USID cards which expired on or 
+after 1 January 2020 are authorized for continued benefits use (e.g. 
+commissary, exchange) through 30 June 2021.
+    b.  The minimum age of USID card initial issuance is increased from 10 
+years to 14 years.
+    c.  Continued use of the Reserve USID card to obtain active-duty benefits 
+is authorized for mobilized Reserve Component members and their eligible 
+dependents.
+    d.  Remote Defense Enrollment Eligibility Reporting System
+(DEERS) enrollment for newly acquired dependents (i.e. spouse, child, 
+stepchild, adopted child) is authorized to provide healthcare coverage.  
+Documentation may be scanned and e-mailed to approved Navy RAPIDS sites for 
+completion of the remote enrollment process.
+Examples of required documentation are marriage certificate, divorce decree, 
+birth certificate, adoption decree, acknowledgment of paternity and social 
+security card.  Remote enrollment processing will be centralized at:  Joint 
+Base Pearl Harbor-Hickam, HI, NAVSUBASE New London, CT, NAS Whidbey Island 
+Seaplane Base, WA, NAF El Centro, CA, NSA Annapolis, MD, NAS Fallon, NV, NAS 
+Oceana, VA, NSA Mid-South, TN and NAVSUBASE Kings Bay, GA.  Contact MyNavy 
+Career Center at 1-833-330-6622 or via e-mail at askmncc(at)navy.mil for 
+specific documentation requirements and POC information for the above remote 
+enrollment processing sites.
+    e.  USID card reissuance via USPS is authorized for Service Members who 
+are unable to secure an appointment at a RAPIDS site.
+Service Members using this capability must contact the nearest ID card 
+issuing facility prior to submitting documentation to ensure all required 
+documents are provided for their specific circumstances.  Location and 
+contact information for the nearest ID card issuance facility can be obtained 
+through https://www.dmdc.osd.mil/.  USID cards issued during remote 
+enrollment will not exceed 1 year to allow time for the Service Members to 
+provide original or state certified copies of enrollment documents to the ID 
+card issuing facility.
+
+5.  If you or a family member have a dependent or retiree ID card please be 
+aware that your benefits (e.g. medical, dental) will remain in effect as long 
+as your military sponsor is entitled to benefits.  For example, the family of 
+a married E-6 with an end of active obligated service date of January 2022 is 
+authorized DOD benefits until that date, regardless of the status of their ID 
+card(s).
+
+6.  Primary points of contact are:
+    a.  General ID card services inquiries:  MyNavy Career Center, 1-833-330-
+6622 or via e-mail at askmncc(at)navy.mil.
+    b.  Installation access issues:  Mr. Zachary Parks, CNIC N34, (202) 433-
+4792, e-mail at zachary.v.parks(at)navy.mil
+    c.  DEERS/RAPIDS issues:
+        (1) Tracy Wilder, Navy Personnel Command, Pay and Personnel Support 
+Branch (PERS-2), 901-874-3425 or via e- mail at tracy.wilder(at)navy.mil.
+        (2) Lawanda Bing, Navy Personnel Command (PERS-2),
+901-874-3467 or via e-mail at lawanda.bing(at)navy.mil
+
+7.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

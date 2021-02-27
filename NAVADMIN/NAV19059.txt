@@ -1,0 +1,74 @@
+UNCLASSIFIED//
+ROUTINE
+R 081400Z MAR 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 059/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/MYNAVY PORTAL ADVANCEMENT DASHBOARD LAUNCH//
+
+RMKS/1.  This NAVADMIN announces the release of the E4-E6 Enlisted 
+Advancement Dashboard in MyNavy Portal (MNP).  The E4-E6 Advancement 
+Dashboard is a web-based dashboard on MNP located on the Advancement and 
+Promotion Career and Life Event (CLE) page.  It provides E4-E6 candidates a 
+detailed view of their eligibility status for advancement with instructions 
+and documentation to prepare for the advancement process.  Enlisted Sailors 
+now have a more transparent view into the advancement process and increased 
+ability to self- service resources to study for the Navy-wide Advancement 
+Exam.  The E4-E6 Advancement Dashboard provides access to the following self- 
+service capabilities:
+    a.  A view into eligibility status based on MyRecord and their Enlisted 
+Advancement Worksheet (EAW)
+    b.  Ability to calculate their final multiple score
+    c.  Ability to auto-populate Advancement Exam checklists and a timeline 
+of action items for advancement
+    d.  Guidance for obtaining study materials, frequently asked questions 
+and knowledge management articles related to advancement information
+    e.  Ability to review and understand advancement eligibility
+    f.  Ability to submit inquiries through the service request feature on 
+MNP
+
+2.  An expansion to the Advancement Dashboard to cover E7-E9 candidates will 
+follow.  More features will be rolling out as the EAW becomes available in 
+fall of 2019 and the Professional Military Knowledge Exam is automated.
+
+3.  Additional recent upgrades in MNP include:
+    a.  MyRecord Web Through the MyRecord tab, Sailors can now access their 
+Official Military Personnel File and their security clearance data.  
+Additionally, enlisted Sailors can view Career Waypoints through MNP.  These 
+features allow Sailors to better manage their careers.
+    b.  Proxy Scheduling Staff, supervisors and administrators now have the 
+ability to schedule requests for language testing or educational counseling 
+on behalf of Sailors by using the Voluntary Education Proxy Scheduling.  The 
+feature provides greater efficiency in managing and assisting Sailors to 
+fulfill their educational requirements.
+
+4.  We want to hear from you!  Please use the Feedback button on MNP or 
+contact MyNavy Career Center (MNCC).  MNCC agents can walk you through the 
+process of viewing, updating and verifying your EAW.
+Please e-mail MNCC at askmncc(at)navy.mil or call 1-833-330-MNCC
+(833-330-6622) for assistance.
+
+5.  Points of contact:  CAPT David Whitehead, BUPERS-3, at (901) 874-3108/DSN 
+882 or via e-mail at David.g.whitehead(at)navy.mil (Assignment Dashboard), 
+CAPT Ian Branum, OPNAV N16, at (703) 604- 5747/DSN 664 or via e-mail at 
+ian.branum(at)navy.mil (MyRecord) and CDR Robert Stockton, NETC, at (850) 
+452-4805/DSN 752 or via e-mail at robert.stockton(at)navy.mil (Proxy 
+Scheduling).
+
+6.  Released by Vice Admiral, R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

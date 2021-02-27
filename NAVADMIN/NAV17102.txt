@@ -1,0 +1,66 @@
+UNCLASSIFIED
+ROUTINE
+R 271552Z APR 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 102/17
+
+MSGID/GENADMIN/CNO/WASHINGTON DC/N1/APR//
+
+SUBJ/NAVY DRUG TESTING PROGRAM SOFTWARE CHANGE TO REQUIRE USE OF DOD ID 
+NUMBER//
+
+REF/A/MSG/DONCIO WASHINGTON DC/151450ZMAR17//
+REF/B/DOC/OPNAV/4JUN09//
+NARR/REF A IS GENADMIN, THE NEW DEPARTMENT OF THE NAVY SOCIAL SECURITY NUMBER 
+(SSN) REDUCTION PLAN.  REF B IS OPNAVINST 5350.4D, NAVY ALCOHOL AND DRUG 
+ABUSE PREVENTION AND CONTROL.//
+
+RMKS/1.  The Navy Drug Screening Program (NDSP) collection software version 
+5.4 (NDSP v5.4) has been released and replaces an individual social security 
+number (SSN) with the Department of Defense (DoD) Electronic Data Interchange 
+Personal Identifier (EDIPI) (commonly referred to as the DoD Identification 
+(ID) number found on the common access card).  This NAVADMIN provides 
+amplifying guidance on the SSN reduction plan for identification purposes 
+within the drug testing program in line with references (a) and (b).  
+Reference (a) identifies acceptable uses of the SSN within the DoD and 
+mandates uses of alternative identifiers to replace current uses of the DOD 
+SSN.  This NAVADMIN outlines specific actions to further strengthen 
+protection against potential compromise of personally identifiable 
+information.
+
+2.  In line with reference (a), the DOD ID number will be used for 
+identification purposes during urinalysis collection with the exception of 
+areas where personnel being tested do not have an EDIPI assigned or network 
+capability.
+
+3.  Echelon 2 and 3 commanders are to monitor implementation of NDSP v5.4 
+through their alcohol and drug control officers (ADCO).  ADCOs will provide 
+routine status updates to Navy Alcohol and Drug Abuse Prevention Office until 
+all activities under their area of responsibility report receipt and use of 
+NDSP v5.4.
+
+4.  NDSP v5.4 is available for download by ADCOs and users of the internet 
+Forensic Toxicology Drug Testing Laboratory
+https://iftdtl.amedd.army.mil/.  For questions contact NDSP support desk at 
+(901) 874-4204/DSN 312 or via e-mail at mill_ndsp(at)navy.mil.
+
+5.  This NAVADMIN is applicable to all active and reserve component 
+activities including Naval Reserve Officers Training Corps units.
+
+6.  Point of contact is Mrs. Lanorfeia Parker, OPNAV N170, who can be reached 
+at (901) 874-4249/DSN 882 or via e-mail at lanorfeia.parker(at)navy.mil.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

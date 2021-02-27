@@ -1,0 +1,164 @@
+UNCLASSIFIED/
+ROUTINE
+R 211334Z JAN 15 PSN 505960H25
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 018/15
+
+SUBJ/ACCEPTABLE USE POLICY FOR NAVY INFORMATION TECHNOLOGY RESOURCES
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/DEC//
+REF/A/MSG/DON CIO/031648ZOCT11//
+REF/B/DOC/CJCS/9FEB2011//
+REF/C/DOC/DOD/17NOV2011//
+REF/D/DOC/DOD/24FEB2012//
+REF/E/MSG/SECNAV/192027ZAUG10//
+REF/F/MSG/SECNAV/192031ZAUG10//
+REF/G/MSG/DON CIO/032009ZOCT08//
+AMPN/Reference (a) is Department of the Navy (DON) Chief Information Officer 
+(CIO) message on Acceptable use of DON Information Technology Resources.  
+Reference (b) is Chairman of the Joint Chiefs of Staff Instruction 6510.01F, 
+Information Assurance and Support to Computer Network Defense.  Reference (c) 
+is Department of Defense (DoD) 5500.7-R CH7, Joint Ethics Regulation, 
+Sections 2-301 and 10-100.  Reference (d) is DoDM 5200.01, DoD Information 
+Security Program Manual.  Reference (e) is ALNAV 056/10 that provides 
+Secretary of the Navy (SECNAV) guidance for official posts on internet-based 
+capabilities.  Reference (f) is ALNAV 057/10 that provides SECNAV guidance 
+for unofficial posts on internet-based capabilities.  Reference (g) provides 
+SECNAV policy on the use of digital signatures and encryption with email.//
+POC/MS. BROOKE ZIMMERMAN/CIV/OPNAV N2N6BC4/TEL:  (571) 256-8521
+/TEL:  DSN: 260-8521/E-MAIL:  BROOKE.ZIMMERMAN(AT)NAVY.MIL//
+
+RMKS/1.  In support of references (a) and (b), this message outlines 
+acceptable use standards when using Navy information technology (IT) 
+resources for official and authorized unofficial purposes.
+
+2.  Scope and Applicability.  This message applies to all Navy IT resource 
+users including military, civilian, and contract support personnel.
+
+3.  Background.  When used appropriately, Navy IT resources greatly enhance 
+our warfighting and business processing capabilities.  However, when used 
+inappropriately and without regard to good cybersecurity practices, these 
+same resources increase the Navy’s exposure to malicious intrusions, expose 
+our information to threats, and increase costs through spillage and higher 
+bandwidth (B/W) requirements.
+
+4.  Discussion
+    a.  This is the first in a series of forthcoming Cyber Hygiene
+    messages.
+    b.  Appropriately controlling access to, and personal use of,
+    Navy IT resources is a leadership issue.  Commanders, Commanding
+    Officers, Civilian Leaders, and Officers in Charge (hereafter
+    referred to as Commanding Officers) must engage with their users
+    to ensure IT resources are being utilized in an acceptable manner
+    and in accordance with the below policy.  Following this policy and
+    instilling a climate of accountability combined with an effective
+    command training program will enhance productivity, maintain
+    network stability, and support a solid defense-in-depth approach.
+    c.  Penalties for violation of the rules republished in, and
+    prescribed by, this message include applicable criminal, civil,
+    and administrative sanctions for current DoD employees, including
+    punishment under the Uniform Code of Military Justice
+    (UCMJ).  References (c) and (d) are germane.
+
+5.  Action
+    a.  Users are directed to read, understand, and comply with
+    reference (a) in its entirety.  Paragrah 6 of this message
+    provides additional focus and direction to the Department of the Navy
+    (DON) policy.
+
+6. Policy
+a.  Commercial Email
+(1) Navy personnel are authorized to access commercial web-based email 
+using Navy IT resources for personal use within the limitations of 
+reference (a), paragrah 5.D and reference (c).
+(2) Use of commercial email for official business is only permitted 
+when necessary to meet operational requirements in cases where Navy 
+provided email is unavailable.  This use must be endorsed by the 
+command Information Assurance Manager (IAM) and approved in advance by 
+the Designated Accrediting Authority (DAA) or the DAA*s written 
+designee.
+(3) Users must follow specific guidelines defined in references (e) and 
+(f) and to ensure controlled unclassified information (CUI), including 
+personal identifiable information (PII), and for official use only 
+(FOUO) is safeguarded. Commercial email cannot be authorized to 
+transmit CUI (including PII).
+
+b.  To ensure the confidentiality, integrity, availability, and 
+security of Navy IT resources and information, users shall not:
+(1) Auto-forward any email from a Navy account to a commercial email 
+account (e.g., .com, .edu, etc.);
+(2) Bypass, stress, or test cybersecurity or computer network defense 
+(CND) mechanisms (e.g., firewalls, content filters, proxy servers, 
+anti-virus programs, etc.);
+(3) Introduce or use unauthorized software, firmware, or hardware on 
+any Navy IT resource;
+(4) Relocate or change equipment or the network connectivity of 
+equipment without authorization from the local information assurance 
+(IA) authority;
+(5) Use personally owned hardware, software, shareware, or public 
+domain software without written authorization from the localIA 
+authority;
+(6) Upload or download executable files (e.g., .exe, .com, .vbs, or 
+.bat) onto Navy IT resources without the written approval of the local 
+cybersecurity authority;
+(7) Participate in or contribute to any activity resulting in a 
+disruption or denial of service;
+(8) Write, code, compile, store, transmit, transfer, or introduce 
+malicious software, programs, or code;
+(9) Use Navy IT resources in a way that would reflect adversely on the 
+Navy per reference (c).  Such uses include pornography, chain letter, 
+unofficial advertising, soliciting, or selling except on authorized 
+bulletin boards established for such use, violation of statute or 
+regulation, inappropriately handled classified information and PII, and 
+other uses that are incompatible with public service; or 
+(10) Place data onto Navy IT resources processing insufficient security 
+controls to protect that data at the required classification (e.g., 
+secret data on unclassified IT asset).
+
+c.  To ensure the confidentiality, integrity, availability, and 
+security of Navy resources and information, users shall:
+(1) Safeguard information and information systems from unauthorized or 
+inadvertent modification, disclosure, destruction, or misuse;
+(2) Protect CUI, to include PII, and classified information to prevent 
+unauthorized access, compromise, tampering, or exploitation of the 
+information;
+(3) Protect authenticators (e.g., passwords and personal identification 
+numbers) required for logon authentication at the same classification 
+as the highest classification of the information accessed;
+(4) Protect authentication tokens (e.g., CAC, alternate logon token, 
+personal identity verification, National Security System tokens) at all 
+times.  Authentication tokens shall not be left unattended at any time 
+unless properly secured;
+(5) Virus-check all information, programs, and other files prior to 
+uploading onto any Navy IT resource;
+(6) Report all security incidents, including PII breaches, immediately 
+per applicable procedures;
+(7) Access only that data, controlled information, software, hardware, 
+and firmware for which they are authorized access by their Commanding 
+Officer, have a need-to-know, and have the appropriate security 
+clearance.  Assume only those roles and privileges for which the user 
+is authorized;
+(8) Observe all policies and procedures governing the secure operation 
+and authorized use of a Navy information system;
+(9) Digitally sign and encrypt email when appropriate per reference 
+(g); and
+(10) Employ sound operations security measures per DoD, DON, Navy, and 
+command directives.
+
+7.  Action.  Command leadership shall familiarize themselves with references 
+(a) through (g) and incorporate applicable requirements and guidelines into 
+command policy, guidance, training, and accountability actions.
+
+8.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+9.  Released by Vice Admiral Ted N. Branch, OPNAV N2N6.
+
+BT
+#2856
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,210 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 101615Z DEC 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 284/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES FOR NUCLEAR TRAINED 
+ENLISTED PERSONNEL//
+
+REF/A/DOC/OPNAV/3JUN09//
+
+REF/B/MSG/CNO WASHINGTON DC/031833ZDEC12//
+
+NARR/ REF A IS OPNAVINST 1220.1D, CHANGING OR REMOVING PRIMARY NAVY ENLISTED 
+CLASSIFICATION CODES FOR NUCLEAR PROPULSION PLANT OPERATIONS.  REF B IS 
+NAVADMIN 361/12, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES (CORRECTED 
+COPY).//
+
+RMKS/1. The Nuclear Propulsion Programs (OPNAV (N133)) and the type 
+commanders (TYCOM) gathered feedback from the fleet and performed a 
+comprehensive review of the nuclear enlisted sea shore flow (SSF) policy and 
+the instruction that governs Navy enlisted classification
+(NEC) codes for nuclear propulsion plant personnel, per reference (a).  The 
+review identified that some modifications to the current SSF outlined in 
+reference (a) and the policies in reference (b) are required to ensure 
+continued success of the Sailors that comprise the Naval Nuclear Propulsion 
+Program enterprise.  These changes increase the opportunity to obtain and 
+utilize supervisory qualifications, ensure a Sailor continues on a career 
+path that will set them up for success, and enhance quality of service while 
+ensuring fleet and ashore manning supports the Navys mission.
+
+2.  The major modifications to the SSF and reference (a) are as
+follows:
+    a.  Shortens the first sea tour from 54 months to 48 months
+(40 months for Sailors who complete a junior staff instructor (JSI) tour at a 
+nuclear power training unit);
+    b.  Reduces the second sea tour to 40 months, 1 year after the date of 
+this NAVADMIN for all pay grades.  For the first year, the second sea tour 
+will be reduced to 48 months.  All remaining sea tours will be 40 months in 
+length for all pay grades;
+    c.  Changes the nominal shore duty tour length from 36 months to
+40 months to account for the shore duties that require additional training 
+and qualification time (e.g., nuclear instructor duty and radiological 
+control technician).  This will match the time required to execute the 
+majority of the shore duty billets our nuclear trained Sailors serve in 
+during their career.  Shore duty tours that do not require additional nuclear 
+qualification and training time will remain 36 months in length;
+    d.  Implements two career milestone gates which serve as a distribution 
+mechanism to facilitate Sailors rotating back to the second and third sea 
+duty periods at the correct time in their career, to help ensure the 
+requisite knowledge and experience is gained over a 20 plus year career.  The 
+first gate will be at 10 years of active-duty service (a Sailor should start 
+their second sea tour prior to this gate) and the second gate will be at 17 
+years of active-duty service (a Sailor should start their third sea tour 
+prior to this gate).  Sailors commencing their tours after the corresponding 
+gates will be managed on a case-by-case basis;
+    e.  Provides guidance to Enlisted Nuclear/Submarine Assignment
+(PERS-403) on how to distribute Sailors who advance to E-7 on their second 
+sea tour.
+    f.  Factors in one month of nominal transfer time and leave between duty 
+stations.  The previous SSF did not factor in this transfer time.  NOTE:  
+This one month of transfer time is not included in the tour lengths listed in 
+paragraphs 4 and 5; and;
+    g.  The requirement to earn a supervisory NEC is reduced from six years 
+of active-duty service to four years of active-duty service.  This allows our 
+Sailors opportunity to earn a supervisory NEC during their first sea tour 
+under the new SSF.  It will also provide commanding officers and reactor 
+officers more flexibility for awarding this NEC, which will result in 
+increased pay ($2,700 per year raise) for Sailors with the requisite 
+supervisory skill sets.
+
+3.  The modified SSF is displayed in paragraphs 4 and 5.  The initial 
+training pipeline for all Sailors is set to a nominal length of 24 months.  
+Following initial training, all Sailors will either complete a JSI tour, 
+which is 24 months, or begin their first sea tour.  Sea tours are annotated 
+below as SEA and shore duty is annotated as SHR.  All numbers in paragraphs 4 
+and 5 are in months.
+This NAVADMIN modifies the SSF outlined in reference (a) for nuclear-trained 
+enlisted Sailors only.  The other ratings SSF discussed in reference (a) 
+remain the same until superseded.
+
+4.  The SSF is modified as follows for a Sailor who does NOT serve as a JSI:
+SEA1 SHR1 SEA2 SHR2 SEA3 SHR3 SEA4 SHR4
+ 48   36   40   36   40   36   40   36
+NOTE 1:  (1) PERS-403 will issue shore tour orders up to 40 months for 
+billets where additional training or qualification is required.
+(2) New orders to SEA2 will be 48 months for 1 year from the date of this 
+NAVADMIN.  New orders to SEA2 released after 1 year past the date of this 
+NAVADMIN will be 40 months.
+
+5.  The SSF is modified as follows for a Sailor who serves as a JSI after 
+completing a 24 month JSI tour:
+SEA1 SHR1 SEA2 SHR2 SEA3 SHR3 SEA4 SHR4
+ 40   30   40   36   40   36   40   36
+NOTE 2:  (1) PERS-403 will issue shore tour orders up to 40 months for 
+billets where additional training or qualification is required.
+(2) New orders to SEA2 will be 48 months for 1 year from the date of this 
+NAVADMIN.  New orders to SEA2 released after 1 year past the date of this 
+NAVADMIN will be 40 months.
+
+6.  The career milestone gates will be utilized as follows:
+    a.  PERS-403 will not delay a Sailors return to sea to align him with 
+these gates;
+    b.  If a Sailor is behind the nominal SSF career path and approaching a 
+gate, PERS-403 will adjust the Sailors tour length when issuing orders to 
+shore duty to align their planned rotation date (PRD) with the gate or obtain 
+a waiver from OPNAV (N133) to exceed the gate.  A Sailors shore tour length 
+would not normally need to be reduced if the nominal SSF was being executed;
+    c.  PERS-403 will maintain shore tour lengths of at least 24 months (plus 
+any required training/qualification period) unless a waiver is received; and
+    d.  Sailors who are unable to meet a gate will be handled on a case-by-
+case basis and will require a waiver submitted by PERS-403 and approved by 
+OPNAV (N133).
+
+7.  For a nuclear trained Sailor who does not advance to E-7 during their 
+first shore duty, their second sea tour will normally be adjusted to allow 
+the Sailor the ability to complete the leading chief petty officer tour.  In 
+most cases, this will enable the Sailor to complete their engineering 
+department master chief or divisional leading chief petty officer tour during 
+their third sea tour prior to 20-years of service.
+
+8.  These policy changes will require close coordination between the command, 
+each nuclear-trained enlisted Sailor, and PERS-403 to facilitate a smooth 
+transition to the new SSF.  Therefore, implementation of these changes will 
+be phased as follows:
+    a.  Effective immediately, all new orders issued by PERS-403 will comply 
+with the tour lengths shown in paragraphs 4 and 5 with the exception of the 
+second sea tour.  These orders will be 48 months in duration for a period of 
+1 year from the date of the NAVADMIN.  After this date, all orders will be in 
+accordance with paragraphs 4 and 5;
+    b.  The 10-year gate will be in effect immediately upon the date of this 
+NAVADMIN.  The 17-year gate will not be in effect until
+1 January 2018.  Waivers will be routed if required to exceed these gates; 
+and;
+    c.  To allow Sailors and their families time to plan for potential future 
+duty station changes, PRD changes should be made using the following 
+guidance:
+        (1) For Sailors on their first sea tour:
+            (a) Sailors within 12 months of their previously established PRD 
+will not have their PRD shifted to an earlier date, unless the Sailor routes 
+an Enlisted Personnel Action Request (NAVPERS 1306/7) that is endorsed by the 
+command specifically requesting the PRD change;
+            (b) Sailors within 12-18 months of their PRD will have their PRD 
+shifted to 12 months from the date of this message, unless otherwise 
+requested by the command; and;
+            (c) Sailors who are greater than 18 months from their PRD will 
+have their PRDs shifted to align with the new SSF.
+        (2) For Sailors on their second sea tour:
+            (a) Sailors within 12 months of their previously established PRD 
+will not have their PRD shifted to an earlier date, unless the Sailor routes 
+a NAVPERS 1306/7 that is endorsed by the command specifically requesting the 
+PRD change;
+            (b) Sailors within 12-18 months of their PRD will have their PRD 
+shifted to 12 months from the date of this message, unless otherwise 
+requested by the command; and;
+            (c) Sailors that are greater than 18 months from their PRD will 
+have their tour shortened to 48 months.
+        (3) For all other Sailors (either on sea or shore duty), commands 
+should develop their personnel rotation plans to maintain adequate experience 
+and manning levels, while maximizing support of the new SSF.
+    d.  Within three months of the date of this message, all commands shall 
+submit a PRD planning letter or message to PERS-403 using the guidance of 
+paragraph 8c.  PERS-403 will then adjudicate waivers to the career milestone 
+gates based on the information received.
+    e.  Effective immediately, commands may submit requests to award a 
+supervisory NEC to Sailors who have at least four years of active- duty 
+service, have completed the TYCOM approved supervisory NEC qualification 
+card, and have completed all other requirements in reference (b).
+
+9.  A downloadable graphic that displays the modified SSF is available on the 
+OPNAV (N133) website at the following address:
+http://www.public.navy.mil/bupers-
+npc/enlisted/community/nuclear/Pages/NuclearCCCToolbox.aspx.
+Commands are encouraged to download this product and post it for Sailors to 
+review.
+
+10.  Points of contact:  For all questions and concerns, leaders and Sailors 
+should contact the following individuals:
+    a.  Nuclear Enlisted Community Management Team (OPNAV (N133D)) at the 
+following:
+        (1) CDR Will Wiley, OPNAV (N133D), at (703) 604-5493/ DSN 664, or via 
+e-mail at bullnuke(at)navy.mil.
+        (2) ETNCM(SW/AW) John Brinkos, OPNAV (N133D), at
+(703) 604-5491/DSN 664, or via e-mail at bullnuke(at)navy.mil.
+        (3) ETNCM(SW/AW) Victor Harris, OPNAV (N133D), at
+(703) 604-5492/ DSN 664, or via e-mail at bullnuke(at)navy.mil.
+    b.  PERS-403 at the following:
+        (1) CAPT Christopher Buziak, PERS-403, at (901) 874-3636/ DSN 882, or 
+via e-mail at christopher.buziak(at)navy.mil.
+        (2) MMCM(SS) Christopher Tolliver, PERS-403, at
+(901) 874-4696/DSN 882, or via e-mail at nuclearkhaki(at)navy.mil.
+
+11.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

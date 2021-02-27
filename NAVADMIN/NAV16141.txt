@@ -1,0 +1,57 @@
+UNCLASSIFIED
+ROUTINE
+R 161452Z JUN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 141/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1//JUN//
+
+SUBJ/ACADEMIC YEAR 2016-2017 SELECTEES FOR THE NAVAL POSTGRADUATE SCHOOL 
+ENLISTED CYBER MASTERS DEGREE PROGRAM//
+
+REF/A/MSG/CNO WASHINGTON DC/191749ZJAN16//
+AMPN/REF A IS NAVADMIN 013/16, ENLISTED CYBER MASTERS DEGREE OPPORTUNITY AT 
+NAVAL POSTGRADUATE SCHOOL//
+
+RMKS/1. This NAVADMIN announces selectees for the 2016-2017 Naval 
+Postgraduate School (NPS) Master of Science in Applied Cyber Operations 
+Program, as announced in reference (a).
+
+Name (Last, First MI)      Rate			Parent Command
+Bogovich, George C     ITC(SW/AW/EXW)	USS ANZIO (CG 68)
+Flores, Frank R II     ITC(IDW/SW/AW)	US Naval Forces Europe/Africa
+Oyamo, Samwel	     CTN1(IDW/SW/AW)   Navy Cyber Warfare Development Group
+Percival, Aaron W      ITC(SW)		US Defense Attach Office Madrid
+Stewart, Perry N	     CTN1(IDW)		Navy Information Operations Command   
+Maryland
+
+2.  Program dates:  There will be two start dates for this academic year.
+ITCS Flores and CTN1 Oyamo will report to NPS on 19 September 2016 and begin 
+classes on 26 September 2016.  ITC Bogovich, ITC Percival, and CTN1 Stewart 
+will report to NPS on 21 March 2017 and begin classes on 3 April 2017.
+
+3.  General information about NPS can be found on-line at 
+https://www.nps.edu.
+
+4.  The point of contact is Mr. Michael Saunders at (703) 604-6292/DSN 664 or 
+via e-mail at michael.saunders(at)navy.mil.
+
+5.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Congratulations to this years selectees!
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,125 @@
+UNCLASSIFIED//
+ROUTINE
+R 071628Z JUL 20 MID110000814653U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 193/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/PHYSICAL READINESS PROGRAM POLICY UPDATE FOR PHYSICAL FITNESS ASSESSMENT 
+CYCLE TWO 2020 DUE TO COVID 19 MITIGATION//
+
+REF/A/MSG/CNO WASHINGTON DC/181759ZMAR20//
+REF/B/RMG/CNO WASHINGTON DC/191853ZMAY20//
+REF/C/DOC/OPNAV/11JUL11//
+
+NARR/REF A IS NAVADMIN 071/20, PHYSICAL READINESS POLICY UPDATE.
+REF B IS NAVADMIN 145/20, ADVANCEMENT ELIGIBILITY RELATED TO CHANGES TO THE 
+NAVY-WIDE ADVANCEMENT EXAM AND PHYSICAL FITNESS ASSESSMENT SCHEDULES DUE TO 
+COVID-19 MITIGATION. 
+REF C IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.
+
+RMKS/1.  This NAVADMIN announces the suspension of the Navy Physical 
+Readiness Program Physical Fitness Assessment (PFA) for Cycle 2, 2020 and 
+updates policy guidance pertaining to future Physical Readiness Test (PRT) 
+modalities provided in reference (a).  The COVID-19 situation requires that 
+we continue to minimize risk to personnel, therefore all personnel will be 
+EXCUSED from participation in Navy PFA Cycle 2, 2020.
+
+2.  Suspension includes both the official Body Composition Assessment (BCA) 
+and PRT components of the PFA.
+    a.  The Physical Readiness Program office will update Physical Readiness 
+Information Management System (PRIMS) to reflect EXCUSED for Navy PFA Cycle 
+2, 2020 (only) for both BCA and PRT.  Command Fitness Leaders (CFL) and 
+Assistant CFLs (ACFL) are directed not to make any official PFA entries in 
+PRIMS for the official Navy PFA Cycle 2, 2020.
+    b.  All Navy commands are to continue the suspension of all organized or 
+group physical training (PT) (i.e. Command, Department or Division PT and the 
+Fitness Enhancement Program (FEP)), until further notice.
+    c.  Exceptions to paragraph 2.a and 2.b:
+        (1) Accessions missions (e.g., recruit training) and the appropriate 
+Echelon II commander with authority to delegate to the first flag officer in 
+the chain of command may grant unit mission training requirements.
+        (2) Regaining advancement/retention eligibility.  As outlined in 
+reference (b), Sailors can regain eligibility by passing an unofficial (mock) 
+PFA within Navy PFA Cycle 2, 2020.
+
+3.  Guidelines for administering a mock PFA for Navy PFA Cycle 2, 2020.  Mock 
+PFA will be conducted when COVID-19 conditions permit following local area 
+and installation guidance (e.g. Stage 2).  The mock PFA must be conducted as 
+outlined in reference (c) with the following exceptions:
+    a.  Consist of no more than 10 people, to include CFL and ACFL.
+    b.  Ensure proper medical screening.
+    c.  Conduct BCA with the following modifications to follow social 
+distancing practices:
+        (1) CFL/ACFLs:
+            (a) Perform COVID-19 symptom screening and temperature check 
+immediately prior to the BCA.
+            (b) Limit close contact to less than 15 minutes per person.
+            (c) Must wear a mask at all times during the BCA.
+            (d) Must wear disposable gloves during all circumference 
+measurements.  Disposable gloves must be replaced after each circumference 
+measurement for each member.
+            (e) Disinfect scales, height measurement apparatus, pens and tape 
+measures between each use.
+            (f) Designate only one person as recorder for each BCA session.
+        (2) Service Member:
+            (a) Must wear a mask at all times during the BCA.
+            (b) Self-reporting.  If feeling ill during BCA, Service Member 
+must report to medical department or local Medical Treatment Facility for 
+further medical evaluation.
+    d.  Conduct mock PRT with the following modifications to follow social 
+distancing practices:
+        (1) To mitigate COVID-19 concerns, curl-ups are prohibited for the 
+mock PFA.
+        (2) Personnel will only be tested on push-ups and the 1.5 mile run or 
+approved alternate cardio (i.e. stationary bike, swim,
+treadmill) where available.  Protective face masks are prohibited for members 
+while performing the mock PRT.
+        (3) Self-reporting.  If Service Member response to pre- physical 
+activity questions requires medical assistance, member must report to medical 
+and be medically cleared before participating in mock PRT.
+        (4) Disinfect floor-mats and all alternate cardio equipment between 
+each use.
+        (5) Designate only one person as recorder for each PRT session.
+    e.  All mock PFAs must be entered in PRIMS under the FEP tab of the 
+Service Member to document their BCA and PRT results within 30 days and prior 
+to regaining advancement/retention.
+
+4.  Although the Navy PFA Cycle 2, 2020 has been excused, Sailors are 
+reminded to make good choices for a healthy diet and are to continue a level 
+of fitness to maintain Navy physical fitness standards.  Commander Navy 
+Installations Command Morale, Welfare and Recreation Fitness Program has put 
+together a Navy Operational Fitness and Fueling System (NOFFS) 5-week 
+conditioning plan, located at https://www.navyfitness.org/fitness/5-week-
+training-plan to assist Sailors in maintaining Navy physical fitness 
+standards.
+Individuals and commands are highly encouraged to use the NOFFS 5- week 
+conditioning plan to improve operational readiness and reduce the severity of 
+injury.
+
+5.  Future changes to PRT Modalities.  The previously announced changes to 
+the PRT modalities (replacement of curl-ups with plank and addition of rower 
+alternative cardio option) will be implemented for cycle 1, 2021.  Sailors 
+will be provided additional guidance at a later time.  Sailors will be given 
+ample time to practice the plank before it is officially counted for a PRT 
+score (i.e., no plank failures will be counted on initial implementation)
+
+6.  Questions and concerns regarding these policy changes may be referred to 
+the Physical Readiness Program at PRIMS(at)navy.mil or (901) 874-2210.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

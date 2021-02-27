@@ -1,0 +1,118 @@
+UNCLASSIFIED/
+ROUTINE
+R 221606Z DEC 14
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS 
+
+NAVADMIN 281/14
+
+SUBJ/U.S. NAVY FAMILY CARE POLICY//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+REF/A/DOC/OPNAV/27OCT09//
+REF/B/DOC/DOD/07MAY10//
+NARR/REF A IS OPNAVINST 1740.4D, U.S. NAVY FAMILY CARE POLICY.  REF B IS 
+DEPARTMENT OF DEFENSE INSTRUCTION 1342.19, FAMILY CARE PLANS.//
+
+RMKS/1.  Based on feedback from the Fleet to streamline and make the process 
+more efficient, policy and procedure changes were made to the U.S. Navy 
+Family Care Policy and use of Navy Standard Integrated Personnel System 
+(NSIPS) and Electronic Service Record (ESR) to document completion of a 
+Family Care Plan (FCP) to provide guidance and establish minimum standards 
+for family care planning as outlined in references (a) and (b).
+
+2.  The following changes will be implemented immediately and incorporated in 
+the next revision to reference (a).
+    a.  The definition of caregiver in reference (b) replaces the current 
+definition in reference (a).  Following the definition in reference (b), a 
+caregiver must be an individual who is:
+        (1) Not an active-duty member in any branch of service
+        (2) At least 21 years of age
+        (3) Capable of self-care and care of dependent family members
+        (4) Agreeable, preferably in writing, to care for one or more family 
+members during the absence of the service member for indefinite periods to 
+ensure the service member is available for worldwide duties.
+    b.  The FCP requires that the service member appoint a person to care for 
+a minor child during periods of absence.  Service members who have custody of 
+a child and/or dependent adult from a prior relationship need to complete a 
+FCP, even if they have remarried and plan to have the new spouse care for the 
+minor child during periods of absence. If the person appointed is not the 
+other biological parent, the FCP may violate the custody/visitation rights of 
+the other biological parent. The appointed person in the FCP may be in 
+violation of the law by taking the child.  In many instances the completion 
+of the FCP is just the beginning of the process necessary to ensure the 
+custody arrangement of a dependent.  The FCP is not recognized by civilian 
+courts as a lawfully enforceable custody determination.  The only document 
+that is recognized as lawfully enforceable by the civilian courts is a 
+properly issued court order incorporating the terms and conditions of the 
+FCP.  Sailors are strongly encouraged to have all Family Care Plan 
+Certificates (NAVPERS 1740/6) and Family Care Plan Arrangement Forms (NAVPERS 
+1740/7) reviewed by a legal assistance attorney.  The information and 
+signature requirements in PART II, Caregiver Acknowledgement, and PART IV, 
+Consenting Natural or Adoptive Parent, on the NAVPERS 1740/6 are no longer 
+required to be completed.
+    c.  Command Certification, Part V of the NAVPERS 1740/6, may be delegated 
+to an O-4 or above by the commanding officer.  This command certification 
+signature shall not be delegated to the FCP Coordinator.
+    d.  Annual certification will be entered with date completed in block 20, 
+additional comments, of the NAVPERS 1740/6.  The annual certification shall 
+be signed by the member and commanding officer or delegated O-4 or above.
+
+3.  The following changes to the FCP process, leveraging NSIPS tracking and 
+reporting capability, will provide commanders a more efficient management 
+tool to track personnel in this category.  NSIPS can identify current onboard 
+and prospective gains requiring a FCP.
+    a.  Members who are required to have a current FCP on file shall make 
+data entries in the self service account in NSIPS.  The use of NSIPS allows 
+reporting and viewing of an individual*s current date on the NAVPERS 1740/6 
+and the expiration date.  This process change will facilitate more effective 
+oversight of the FCP.
+    b.  The functionality currently available in the member self service 
+account in NSIPS enables users to identify if a FCP document is on file and 
+allows entering of the FCP election and expiration dates.  Instructions for 
+afloat units with NSIPS servers are available at
+http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/readiness/Pages/FamilyCarePlan.aspx.
+    c.  NSIPS also identifies service members who require a FCP.  The service 
+member is responsible for updating the Record of Emergency Data/Dependency 
+Application (Page 2), and if this information indicates the service member is 
+a single parent, military married to military with one or more dependent 
+children, or service member has dependent parent(s), then NSIPS identifies 
+them as a member requiring a FCP.  If a FCP election date has expired or is 
+left blank, the member will receive an e-mail notification with instructions 
+on what actions should be taken.  The e-mail to the service member is sent to 
+the official email address which can be updated by the member using their 
+self service ESR account on shore NSIPS.
+    d.  The initial date in block 22c will not be reset in NSIPS unless a new 
+NAVPERS 1740/6 is submitted.  The annual certification shall be entered in 
+block 20 and dated.  The date will be used to establish an anniversary date 
+12 months out for re-certification in the member self service account in 
+NSIPS.
+    e.  The command has access to reports through the NSIPS Career 
+Information Management System (CIMS).  CIMS is currently able to provide FCP 
+status on all enlisted personnel onboard.  A system change request has been 
+submitted for NSIPS to provide both officer and enlisted status.  Commanding 
+officers should use this capability to assist them in ensuring all FCP 
+requirements are met.
+
+4.  Instructions on FCP email, updating NSIPS, and NSIPS ESR as well as 
+copies of references (a) and (b), NAVPERS Form 1740/6, and NAVPERS Form 
+1740/7 are available at
+http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/readiness/Pages/FamilyCarePlan.aspx.
+
+5.  Point of contact is Mr. William K. Harris, OPNAV N170C, at (901) 874-
+4413/DSN 882 or via e-mail at navy.familycareplan(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,65 @@
+UNCLASSIFIED//
+ROUTINE
+R 111355Z MAR 20 MID110000454218U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 061/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/MODIFICATION TO NOTICE OF CONVENING FY-21 ACTIVE-DUTY OFFICER 
+CONTINUATION SELECTION BOARDS AND ANNOUNCEMENT OF CONTINUATION POLICY//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/101855ZDEC19//
+
+AMPN/REF A IS NAVADMIN 287/19, NOTICE OF CONVENING FY-21 ACTIVE-DUTY OFFICER 
+CONTINUATION SELECTION BOARDS AND ANNOUNCEMENT OF CONTINUATION POLICY.//
+
+RMKS/1.  This NAVADMIN announces a modification to paragraph 3 of reference 
+(a) and the Fiscal Year 2021 Active-Duty Officer Continuation Plan.  The 
+modification expands the continuation plan for the nurse corps (NC) to allow 
+all 2X failure of selection (FOS) lieutenants (LT) regardless of their 
+subspecialty to be continued on Active Duty until retirement eligibility or 
+for a period of 3 years.
+
+2.  Paragraph 3 is corrected to read:  LT Unrestricted Line (URL)
+(1310 and 1320 with primary additional qualification designators
+(AQD) of DA5/DA7/DB2/DB5/DB6 (VFA), DD1/DD2 (VAQ), DL3 (VAW) and DS2 (VRC)), 
+chaplain corps (CHC), public affairs officers (PAO), cyber warfare engineers 
+(CWE), cryptologic warfare (CW), information professionals (IP), intelligence 
+(INTEL), engineering duty officer (EDO), medical service corps (MSC) and NC:
+    a.  2XFOS URL (1310 and 1320 with primary AQDs of
+DA5/DA7/DB2/DB5/DB6 (VFA), DD1/DD2 (VAQ), DL3 (VAW) and DS2 (VRC)), CHC, PAO, 
+CWE, CW, IP, INTEL, EDO, MSC and NC LTs with less than 18 years of Active 
+service (YOAS).  Officers selected for continuation will be continued for a 
+period of 3 years, but not beyond retirement eligibility at 20 YOAS.
+    b.  2XFOS URL (1310 and 1320 with primary AQDs of
+DA5/DA7/DB2/DB5/DB6 (VFA), DD1/DD2 (VAQ), DL3 (VAW), and DS2 (VRC)), CHC, 
+PAO, CWE, CW, IP, INTEL, EDO, MSC and NC LTs with 18 or more YOAS, as 
+provided by law, will not be considered for continuation but will be retained 
+on Active Duty until retirement eligibility at 20 YOAS.
+    c.  In no case will any URL (1310 and 1320 with primary AQDs of
+DA5/DA7/DB2/DB5/DB6 (VFA), DD1/DD2 (VAQ), DL3 (VAW), and DS2 (VRC)), CHC, 
+PAO, CWE, CW, IP, INTEL, EDO, MSC or NC LTs be continued or retained beyond 
+the last day of the month in which the officer becomes eligible for 
+retirement under section 8323 of title 10, U.S. Code, or the last day of the 
+month in which the officer becomes 62 years of age, whichever is earlier.
+
+3.  All other provisions of reference (a) remain in effect.
+
+4.  This NAVADMIN will be canceled for record purposes on 30 September 2020.
+
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

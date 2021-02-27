@@ -1,0 +1,60 @@
+UNCLASSIFIED
+ROUTINE
+R 121941Z APR 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 093/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/SPECIAL DUTY ASSIGNMENT PAY APRIL//
+
+REF/A/DOC/OPNAV/05OCT17//
+REF/B/DOC/DOD/25SEP17//
+NARR/REF A IS OPNAVINST 1160.6C, SPECIAL DUTY ASSIGNMENT PAY PROGRAM.  
+REF B IS DOD INSTRUCTION 1340.26, ASSIGNMENT AND SPECIAL DUTY PAYS.//
+
+RMKS/1.  This NAVADMIN announces the Special Duty Assignment Pay (SDAP) 
+eligibility for Navy Interactive ON-NET (ION) Operators.
+
+2.  Effective immediately, qualified members with Navy enlisted 
+classification (NEC) 9308 that are filling authorized Navy ION Operator 
+billets are entitled to SD level-2, and qualified members with NECs 9326, 
+9327 and 9328 that are filling authorized Navy ION Operator billets are 
+entitled to SD level-4.
+
+3.  Additional information on SDAP is located at
+http://www.public.navy.mil/bupers-npc/career/enlistedcareeradmin/
+Pages/SRB.aspx.  However, skill specific questions should be directed to the 
+appropriate enlisted community manager, which can be found on the Navy 
+Personnel Command (NPC) website.  Commands and units unable to access the 
+listed website should contact any of the listed points of contact to obtain 
+the revised SDAP rates.  In addition, as NEC codes change under the new NEC 
+construct, updates to the SDAP matrix will be reflected on the NPC website.
+
+4.  Points of contact:
+    a.  Program manager:  MMNCM James Lucky, BUPERS-328, at
+(901) 874-3215/DSN 882, or via e-mail at james.lucky1(at)navy.mil
+    b.  Non-nuclear:  PSC Stannie Gregoire, PERS-81, at
+(901) 874-3260/DSN 882, or via e-mail at stannie.gregoire(at)navy.mil
+    c.  Nuclear:  ETNCM Jeremiah Ledda, OPNAV N133D2A, at
+(703) 604-5492/DSN 664, or via e-mail at jeremiah.ledda(at)navy.mil or 
+bullnuke(at)navy.mil
+
+5.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

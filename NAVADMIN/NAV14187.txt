@@ -1,0 +1,234 @@
+UNCLASSIFIED//
+ROUTINE
+R 192157Z AUG 14 PSN 490095K27
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 187/14
+
+SUBJ/CORRECTED PROPER TRANSFER OF HEALTH SERVICE TREATMENT RECORDS (STRS) OF 
+TRANSITIONING SERVICE MEMBERS TO THE VETERANS ADMINISTRATION// 
+
+MSGID/GENADMIN/CNO WASHINGTON DC//DNS/AUG// TRANSITIONING SERVICE MEMBERS TO 
+THE VETERANS ADMINISTRATION//
+REF/A/DOC/DOD/28OCT2010//
+REF/B/DOC/BUMED/7APR2014//
+REF/C/DOC/DOD/10JUN2004//
+REF/D/DOC/SECVA/8JUL2014//
+NARR/REF A IS DODI 6040.45, SERVICE TREATMENT RECORD AND NON-SERVICE 
+TREATMENT RECORD LIFE CYCLE MANAGEMENT.  REF B IS MANUAL OF THE MEDICAL 
+DEPARTMENT, CHAPTER 16.  REF C IS DODI 6040.43, CUSTODY AND CONTROL OF 
+OUTPATIENT MEDICAL RECORDS.  REF D IS SECRETARY OF VETERAN AFFAIRS LTR OF 8 
+JULY 2014.//
+
+RMKS/1. The purpose of this NAVADMIN is to outline proper transfer of health 
+service treatment records (STR?s) of transitioning members to the Department 
+of Veterans Affairs (VA).
+
+2. Background. STRs are an integral part of a member's transition from 
+service following completion of duty or retirement.  DoD standards require 
+STRs be transferred to the VA within 45 days of separation to ensure VA 
+benefits may be administered in a timely manner.
+
+3. STR Submission. It is of utmost importance that the Department of the Navy 
+significantly reduce processing time in making separating active/reserve 
+Service members' STRs available to the VA.
+A complete STR includes: Service provided medical and dental documentation, 
+civilian provided medical and dental documentation, Armed Forces Health 
+Longitudinal Technology Application (AHLTA) Web Print (AWP), and Service 
+Treatment Record Certification (DD2963).
+
+4.  This NAVADMIN applies equally to all active and reserve Navy commands and 
+establishes requirements for disposition and transfer of STRs to the VA. All 
+Commanders, Commanding Officers, and Officers-In-Charge shall ensure 
+compliance with the requirements contained in this NAVADMIN.
+All commands shall comply with STR processing timelines in order to enable 
+transfer of STRs to the VA no later than 45 business days from either the 
+date a Service member is separated from the Navy or from the Navy or from the 
+date a Reserve Component member who is not separating files a claim with the 
+VA.
+
+5. STR Handling.  Per references (a) through (c), medical and dental records 
+are the property of Department of Defense (DoD).  Their availability to 
+cognizant medical and dental departments is critical to provision of 
+appropriate medical care and administrative processing, including successful 
+VA claims processing.  Service members shall not hand carry original copies 
+of their medical and dental records unless authorized by their unit 
+Commander.  When authorized to hand carry their original medical/dental 
+records, Service members shall protect the integrity of these records and 
+promptly provide them to the appropriate DoD authority as directed.
+
+6.  Responsibilities.  All unit Commanders shall immediately notify their 
+personnel that, unless otherwise authorized, medical and dental records shall 
+be returned to the appropriate medical/dental departments.
+
+7.  100 Percent STR Review.  All medical and dental departments shall 
+complete a 100 percent record review within the next 90 days to inventory 
+medical and dental records currently in their possession.
+The departments shall take the following actions:
+   a.  Retain the records if Service members remain assigned onboard.
+b.  Transfer the records of Service members no longer assigned onboard to the 
+supporting medical/dental department of the Service member?s current duty 
+station.  Units shall work with Navy Personnel Command (NPC) Customer Service 
+Center (1-866-827-5672/DSN: 882-5672, email: UASKNPC (at)navy.mil), for 
+validation of location.
+   c.  Forward the record to the Navy Medicine Records Activity (NMRA) STR 
+central cell if Service members have separated. All Commanders, Commanding 
+Officers and Officers-In-Charge, shall report completion of this review to 
+their echelon II level command within 14 business days.  Echelon II commands 
+shall submit a consolidated report to Bureau of Medicine and Surgery (BUMED) 
+within 14 business days.  BUMED shall consolidate and report this information 
+to ASN M&RA.
+
+8.  Separation Processing.  Prior to release from the Navy, individual 
+Service members, and their Commanding Officers, and Officers-In -Charge are 
+responsible for ensuring that the Service member's STR submission process is 
+complete.  Medical and dental record personnel must work together to assemble 
+a complete STR.
+Definition of Completion includes: transfer of a Service member's STR to the 
+central cell; or medical/dental indicating they have located the STR and will 
+forward it to the central cell; or (as required) creation of replacement 
+medical or dental record and forwarding the recreated STR to the central 
+cell.
+   a.  Command Check-Out Sheets.  Command separation check-out sheets shall 
+be modified to reflect that Service members shall return any medical and 
+dental records in their possession to the appropriate medical and dental 
+departments.  The check-out sheet will also identify the Service members?
+duty stations for the past 5 years.  The medical and dental department will 
+annotate the Command check-out sheet to indicate the STR submission process 
+is complete by checking a preprinted box indicating that either: 1) the 
+medical record is in the possession of the appropriate medical or dental 
+department or 2) the medical record is not in the possession of the 
+appropriate medical or dental department, but information has been obtained 
+to initiate the search of the past 5 years? duty stations and the Service 
+member has signed an SF600 indicating that their STR is not in their 
+possession, 3) an additional block indicating the Service member?s actual 
+separation date will be completed by the Service member's command.  A copy of 
+the Command Check-out sheet with this information will be provided to the 
+separating personnel office.
+Commanding Officers and Officers-In-Charge must ensure this process is 
+initiated in sufficient time to ensure its completion prior to the Service 
+member's release from active duty. Unit commanders may hold temporary duty 
+and terminal leave in abeyance as deemed necessary to facilitate completion 
+of the STR submission process prior to separation of a Service member.  
+Service members may not be retained on active duty beyond the expiration of 
+their active duty service obligation unless specifically provided for by 
+applicable law and policy.
+
+9.  STR Disposition Process.  BUMED has established the NMRA STR central cell 
+to perform all DON scanning into Health Artifact and Imaging Management 
+Solution (HAIMS) and quality assurance review of STRs.
+Effective immediately, all medical and dental departments are required to 
+send the STR as soon as possible (and NLT two weeks after a Service member's 
+release date for separating active/reserve Service members) to the NMRA STR 
+central cell at the following address:
+
+Navy Medicine Records Activity (NMRA)
+BUMED Detachment St. Louis
+4300 Goodfellow Blvd, Bldg. 103
+St. Louis, MO 63120
+
+Commanders of remote units are responsible for mailing STRs to the BUMED STR 
+central cell when the Active Duty Service member is enrolled with a civilian 
+Primary Care Manager and must maintain the STR themselves or at their unit.
+Commanding Officers of medical and dental departments will utilize the BUMED 
+STR automated tracking system where the command has IT capability.
+
+10.  Reserve Personnel.  Reserve component personnel leaving active duty and 
+returning to drill status are not considered separating for purposes of the 
+STR disposition process.
+If a reserve member is not separating, but is filing a claim with the VA, the 
+Reserve component will send a clear and accurate copy of the STR to the NMRA 
+address. Navy 311 will supply COMNAVRESFOR with a weekly list of all VA 
+requests.
+STRs shall not be mailed to the VA. The medical and dental paper records 
+should be mailed together as a bundle to the NMRA STR central cell whenever 
+possible. STR bundles of more than one Service member?s records may be 
+combined into a single shipment. STR?s shall be forwarded within one week.
+
+11.  Reporting Requirements.
+a. Commanders, Commanding Officers and Officers-In-Charge.  On a quarterly 
+basis, Commanders, Commanding Officers and Officer-In-Charge shall report to 
+their echelon II command, the number of personnel who have separated or 
+retired the previous quarter and the number of records for which the STR 
+submission process has been completed. This report will include a detailed 
+explanation for complete STRs not provided to the appropriate medical/dental 
+department or other appropriate authority by the Service member's 
+separation/retirement date.
+Echelon II Commanders.  Echelon II commands shall submit a consolidated 
+report of this information to BUMED.
+BUMED.  BUMED will provide the consolidated information to ASN M&RA.
+The initial report to ASN(M&RA) will begin in October 2014.  BUMED will 
+report HAIMS upload data to ASN (M&RA) on a weekly basis to include STR 
+timeline compliance.
+
+12. Missing/Lost STRs.  If a medical or dental record cannot be located, a 
+replacement record shall be created per the guidance of the Manual of the 
+Medical Department (MANMED) Chapter 16 and documentation of the attempt to 
+retrieve the medical/dental record from the member?s previous duty stations 
+(last five years) shall be submitted with the replacement record.  Medical 
+and dental departments shall annotate validation of contact with previous 
+duty stations in the comment section of the DD2963 and also retain a copy of 
+the annotated check-out sheet.
+   a.  If a dental record cannot be located, a replacement dental
+   record
+shall be created using the separating T2 Exam. Per reference (d), at this 
+time the submission of the medical record to the NMRA STR central cell shall 
+not be delayed due to the unavailability of the dental record.  However, when 
+the dental record becomes available, or a replacement dental record is 
+created, it shall be forwarded to the NMRA STR central cell to ensure a 
+complete STR is available to the VA.
+Medical departments are not required to print AHLTA notes. AHLTA has the 
+HAIMS feature to electronically transmit the record. The responsible medical 
+department will use the AWP feature to transfer AHLTA notes to HAIMS prior to 
+mailing paper STRs. If a medical department does not have AHLTA, contact the 
+closest medical facility with AHLTA access to perform the AWP. All AHLTA 
+notes must be removed prior to sending to the NMRA STR central cell, such 
+notes will be uploaded as part of the AWP push.
+For reserve components, contact the NMRA STR central cell to request AWP push 
+into HAIMS.
+   b.  Projected Separations.  On a monthly basis, Commanders, Commanding
+Officers or Senior Civilian Leaders, and Officers-In-Charge will provide a 
+report of projected separations (projected loss list) for the next 45 days 
+(e.g. information available in NSIPS, EDVR, ODCR, CIMS) to the appropriate 
+medical and dental departments. Data to be included in the report should be 
+encrypted to follow Personal Identifying Information (PII)
+guidelines: full name, SSN, command name, UIC, Service, component (with 
+category, if Reserve), and separation/retirement date. Bureau of Naval 
+Personnel (BUPERS) shall provide BUMED Medical Operations (M3) the loss list 
+data set for the period 1 January 2014 to present. The loss list will be 
+provided to BUMED weekly thereafter.
+   c.  Previous Separations.  All medical and dental record departments must 
+initiate the STR submission process for Service members who have previously 
+separated from 01 January 2014 through 30 June 2014 and whose STR is not in 
+HAIMS. This list will be provided by BUMED to echelon II Commands for 
+appropriate distribution to all Commanding Officers and Officers-In -Charge.
+Additionally, the STR process must be initiated for any Service member, 
+regardless of separation date, who is on the VA list as having filed a claim 
+and whose STR is not in HAIMS.  This list will be provided weekly by ASN 
+(M&RA).  A reasonable search to locate and retrieve the STR must be 
+conducted.  If prior duty stations are unknown, the responsible Navy medical 
+and dental records department shall contact NPC Customer Service Center (1-
+866-827-5672/DSN: 882-5672, email: UASKNPC(at)navy.mil).
+If the record cannot be located, see previous guidance for creating a 
+replacement record.
+
+13.  Unit Commanders and Officers-In-Charge are directed to take all 
+appropriate actions to identify records processing issues well in advance of 
+the separation of Service members and coordinate as necessary with their 
+respective chains of command, NPC, and BUMED to ensure the requirements of 
+this NAVADMIN are met.
+
+14.  Ensuring that Service members experience an orderly transition to 
+civilian life is of paramount importance to the Department of the Navy.  An 
+important enabler of this transition is the timely transfer of the separating 
+or retiring Service member?s STR to the VA.
+
+15. Released by Vice Admiral S. H. Swift, Director, Navy Staff.//
+
+BT
+#2832
+NNNN
+UNCLASSIFIED//

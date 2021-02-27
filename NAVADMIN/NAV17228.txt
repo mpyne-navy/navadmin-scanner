@@ -1,0 +1,92 @@
+UNCLASSIFIED
+ROUTINE
+R 141318Z SEP 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 228/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N00/SEP//
+
+SUBJ/ESTABLISHMENT OF NAVY REQUIREMENTS MANAGEMENT COMMUNITY AND 
+SUBSPECIALTY//
+
+RMKS/1.  This NAVADMIN establishes the Navy Requirements Management (RM) 
+community and 65xx subspecialty codes.  The Chief of Naval Operations, 
+Integrated Warfare Division (OPNAV N9I) is the program sponsor and community 
+manager.
+
+2.  Establishing an RM community builds the foundation for developing the 
+needed cadre of requirements experts to work in concert with the Acquisition 
+Corps (AC) and Financial Management (FM) communities.  All three communities 
+are needed to affordably procure the right capabilities at the right time in 
+an increasingly complex warfighting environment.  Similar to the AC and FM 
+communities, this NAVADMIN establishes formal RM community training and 
+experience requirements to ensure consistent, efficient response to fleet 
+warfighting inputs.
+
+3.  Specifically, this NAVADMIN initiates the following actions.
+    a.  Establishes the following RM codes for OPNAV billets that
+    require individuals assigned to complete accountable RM
+    certification.
+        (1) 6511P entry level RM code for 208 billets
+        (2) 6511Q supervisory level RM code to 62 billets
+    b.  Establishes the following Navy RM Certification Training
+    (RMCT) standards, with content lead in parenthesis:
+        (1) OPNAV Action Officer Course (Director of Navy Staff)
+        (2) OPNAV Requirements Officer Course (OPNAV N9I)
+        (3) OPNAV Continuing Training Course (OPNAV N9I)
+        (4) Planning, Programming, Budgeting and Execution (PPBE)
+        Course (OPNAV N80)
+        (5) CLR 101 Introduction to the Joint Capabilities
+        Integration and Development Systems (DAU)
+        (6) RQM 110 Core Concepts for Requirements Management (DAU)
+        (7) RQM 310 Advanced Concepts for Requirements Management
+        (DAU)
+    c.  Establishes the following Naval Postgraduate School (NPS)
+    Family of Education Programs and subspecialty codes:
+        (1) Systems Engineering Analysis:  6500P
+        (2) Systems Engineering Analysis (51A track):  6501P
+        (3) Systems Acquisition Management (816/836):  6502P
+        (4) Operations Research (Systems Analysis):  3210P
+        (5) Operations Research (Operations Analysis):  3211P
+        (6) Master of Business Administration (Executive):  3100P
+        (7) Master of Business Administration (Financial Management;
+        civilian focus):  3105P
+        (8) Master of Business Administration (Financial
+        Management):  3110P
+    d.  Establishes the following 65xx subspecialty codes based on
+    education and proficiency standards:
+        (1) 6500/1/2/Q:  6500/1/2P + 18 months in 6511 billet + RMCT
+        (2) 6511Q:  31xxP/32xxP + 18 months in 6511 billet + RMCT
+        (3) 6511S:  Non-RM Subspecialty Code + 18 months in 6511
+        billet + RMCT
+        (4) 6511R:  6511S designation + additional 18 months in 6511P/Q 
+billet
+    e.  Establishes detailing priority for first-utilization of RM
+    degrees in 6511P billets.
+    f.  Establishes detailing priority for 6511Q billets with those
+    having obtained a previous RM subspecialty code.
+    g.  Implements approved selection board language regarding the
+    value of the RM community.
+
+4.  In 2018, a similar and complementary program will be established for 
+developing an equivalent government civilian RM community.
+
+5.  The 65xx subspecialty code may be awarded to OPNAV officers who are 
+filling or have previously filled an RM billet.  Officers who believe they 
+qualify may apply to the point of contact (POC) listed below.
+
+6.  The POC for general information, eligibility and assignments is LCDR Brad 
+Horning, Warfare Integration Office (OPNAV N9I), who can be reached at (703) 
+693-8781 or via e-mail at brad.horning(at)navy.mil.
+
+7.  Released by ADM J. M. Richardson, Chief of Naval Operations.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

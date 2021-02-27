@@ -1,0 +1,177 @@
+UNCLASSIFIED
+ROUTINE
+R 031423Z AUG 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 172/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/
+
+SUBJ/FISCAL YEAR 2017 (FY17) CHIEF OF NAVAL OPERATIONS MISSION ASSURANCE 
+ASSESSMENT (CNO-MAA) SCHEDULE FOR SELECT NAVY COMMANDS//
+
+REF/A/DOC/MISSION ASSURANCE STRATEGY/7MAY12/DEPSECDEF//
+REF/B/DOC/MISSION ASSURANCE ASSESSMENT PROGRAM INTERIM IMPLEMENTATON
+/27APR15/DEPSECDEF//
+REF/C/DOC/2015 DOD MISSION ASSURANCE VULNERABILITY ASSESSMENT 
+BENCHMARKS/AUG2015//
+REF/D/DOC/CRITICAL ASSET IDENTIFICATION PROCESS/24OCT08//
+NARR/REF A IS THE APRIL 2012 DEPUTY SECRETARY OF DEFENSE MISSION ASSURANCE 
+STRATEGY.  REF B IS THE DEPUTY SECRETARY OF DEFENSE MEMORANDUM PROVIDING 
+INTERIM GUIDANCE ON CONDUCTING MISSION ASSURANCE ASSESSMENTS.  REF C IS THE 
+CRITICAL ASSET IDENTIFICATION PROCESS.  REF D DESCRIBES THE BENCHMARKS USED 
+IN CONDUCTING AN MAA.
+POC/MR. ERIC E. HAMMETT/OPNAV N462/LOC: ARLINGTON, VA/TEL:  (703) 695
+-5521, ERIC.HAMMETT (AT)NAVY.MIL AND ERICA M. BERRIGAN/OPNAV N462/LOC: 
+ARLINGTON, VA/TEL (703) 695-5022, ERICA.BERRIGAN1(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN promulgates the CNO-MAA schedule for FY17 that has 
+been coordinated with Navy Component commands, CNIC, and respective Regions.  
+Changes to the schedule must be coordinated through CNIC, the respective Navy 
+Component Commander and OPNAV N462.
+
+2.  Reference (a) provides the mission assurance-centric framework focused on 
+ensuring resilience for the capabilities and assets supporting Navy core 
+functions, using a risk management process across all protection and 
+resilience programs.  Reference (b) directs the integration of all higher 
+headquarters vulnerability assessments under the Mission Assurance Assessment 
+Program.  This integration consists of a criticality assessment, threat and 
+hazard assessment, and vulnerability assessment covering the following 
+programs:  Antiterrorism (AT), Continuity of Operations (COOP), Cybersecurity 
+(CS), Defense Critical Infrastructure (DCI), Emergency Management (EM), 
+Energy Security (ES), Law Enforcement (LE), Physical Security (PS), and 
+Chemical, Biological, Radiological, Nuclear and High-Yield Explosive (CBRNE) 
+preparedness.
+
+3.  MAAs, conducted by the Joint Staff or CNO Staff, consists of three 
+phases.  Phase I is the Mission Analysis (threat-hazard assessment, mission 
+identification and analysis, and assessment planning).  This phase includes 
+an on-site visit, known as the CNO-MAA Mission Decomposition, and serves to 
+focus the efforts of the assessment team.  The overall objective of mission 
+analysis is to gain an understanding of the missions executed by a command, 
+as well as how they are being executed.  The output of this analysis will 
+identify an inventory of assets and supporting infrastructure and systems 
+associated with the execution of each mission or task assigned to a command.  
+This asset inventory represents a starting point for the execution of the 
+Critical Asset Identification Process as required per Reference (c).  Mission 
+analysis must involve close coordination between tenant commands and host 
+installations.  Utility Security Assessments (USAs) also occur during Phase 
+I.  These assessments generate analyses on utility profiles of those 
+missions, functions, and assets supported by internal and external utility 
+sources.  The profile analysis includes determination of gaps or deficiencies 
+in delivery of reliable, secure, and resilient utilities to support those 
+missions and assets.  There are two main objectives of the USA program:
+
+     a.  Identify and assess utility infrastructure (power, water,
+     communications, etc.) and Control Systems (Industrial Control,
+     Building Control and utility control) that support installation
+     and
+     tenant command mission execution.
+     b.  Identify gaps in utility technology infrastructure that
+     supports the execution of missions, functions and core
+     capabilities.
+
+4.  Phase II is the risk assessment, conducted on-site, using reference (d).  
+A risk assessment involves the collection and evaluation of the following 
+data to determine the overall risk posture to missions assets and supporting 
+infrastructure:  (1) asset criticality based on mission impacts; (2) probable 
+threats and hazards specific to the installation; and, (3) degree of 
+vulnerability.  A risk assessment involves a systematic, rational, and 
+defensible process for identifying, quantifying, and prioritizing risks.
+
+5.  Phase III is the risk management process, a standardized process to 
+manage risk and enable decision making that balances risk and cost with 
+assuring the mission.  Risk management allows the commander to decide how 
+best to employ allocated resources to reduce risk, or, where circumstances 
+warrant, request additional resources, waivers to policy or acceptance of the 
+identified risk.  This process starts by directing the assessed installation 
+and associated tenant commands to coordinate on the completion of the 
+Corrective Action Plan, on identified vulnerabilities within 90 days of 
+receipt of the final report.  The Corrective Action Plan will be socialized 
+and endorsed by each office within the assessed installation and tenant 
+commands chain-of-command and ultimately coordinated with CNIC, Navy 
+Component commands and OPNAV resource sponsors to prioritize projects with 
+unacceptable risk to missions and capabilities.
+
+6.  CNO-MAAs and USAs will be conducted on the following installations:
+
+NSA Naples
+NSF Deveselu
+Norfolk Naval Shipyard
+NS Norfolk
+NS Newport
+NB Guantanamo Bay
+NSA Souda Bay
+NSA South Potomac
+NAS Patuxent River
+NSA Washington
+NSF Diego Garcia
+SUBASE New London
+NB Point Loma
+NB San Diego
+NB Coronado
+NAWS China Lake
+NS Everett
+CFA Chinhae
+NAF Misawa
+NAS Whidbey Island
+
+7.  CNO-MAAs (no USA) will be conducted on the following installations:
+
+NSA Crane
+NCTAMS LANT Det Cutler
+NRTF Grindavik
+NRTF Lamoure
+NCS H.E. Holt
+PMRF Barking Sands
+
+8.  Joint MAAs led by the Defense Threat Reduction Agency (DTRA) will be 
+conducted on the following installations:
+
+US Naval Observatory
+NB Guam (Andersen AFB only)
+
+9.  A Mobile Training Team (MTT) will provide MA training on the current MA 
+Assessment tools:  Navy Critical Asset Management System (NAV-CAMS); 
+Enterprise Mission Assurance Assessment Tool (eMAAT) and the Mission 
+Assurance Assessment Standalone Tool (MAAST).
+     a.  NAV-CAMS supports the analysis and documentation of
+     criticality assessments, missions and mission impacts, basic
+     elements of information, all-hazards threat assessments linked
+     to assets and the vulnerability assessment of assets linked to
+     threats and hazards to produce a standardized risk rating.  
+     This will be the Navy’s authoritative database.
+     b.  The Enterprise Mission Assurance Assessment Tool (EMAAT) is
+     a classified (SIPR), web-based database that is an interactive
+     tool for both assessors and the installation POC to input assessment
+     data.  The tool allows the assessment team to input benchmark
+     input, track assessor comments, input asset data and track the
+     assessment schedule and merge the submissions into the report format.
+     This tool provides the installation POC the ability to conduct an
+     annual self-assessment and coordinate the assessment schedule with the
+     CNO-MAA Coordinator.
+     c.  MAAST is the primary tool which uses a structured risk
+     analysis algorithm in order for the assessors to input data on
+     an installations critical assets and quantify the risk to the
+     critical assets based on criticality, threats/ hazards, and
+     vulnerabilities.
+
+10.  Mission Assurance training will be hosted at the following locations for 
+calendar year 2016.  There are 30 seats available per session.
+NSA Naples 	22-26 Aug 2016
+NB Norfolk	14-18 Nov 2016
+Training POC is Ms. Erin Breen:  Erin.Breen.ctr@usmc.mil
+
+11.  Official notification letters, Key Leader Engagement meetings, and 
+specific assessment requirements (e.g., list of required documents and on-
+site logistics requirements) will be sent via separate correspondence.
+
+12.  Released by VADM P. H. Cullom, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

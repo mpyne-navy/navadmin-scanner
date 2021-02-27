@@ -1,0 +1,125 @@
+UNCLASSIFIED//
+ROUTINE
+R 031846Z NOV 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 261/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/ESTABLISHMENT OF SUBMARINE AND NUCLEAR SERVICE RATINGS//
+
+REF/A/DOC/NAVPERS/JUL15//
+AMPN/REF A IS NAVPERS 18068F, MANUAL OF NAVY ENLISTED MANPOWER AND PERSONNEL 
+CLASSIFICATIONS AND OCCUPATIONAL STANDARDS (NEOCS)//
+
+RMKS/1.  This NAVADMIN announces the establishment of the service ratings 
+listed in paragraphs 2 and 3.  These changes are primarily administrative in 
+nature and are expected to minimally impact the fleet.  Per reference (a), 
+establishing these service ratings is warranted because the specific 
+qualifications and specialized skills unique to each service rating 
+necessitate the creation of these service ratings within their general 
+rating.  For each new service rating, a rating control number (RCN) is 
+assigned.  Establishment of a RCN provides the added benefit of improving the 
+accuracy of Manpower, Personnel, Training, and Educations data to reflect 
+fleet manning.
+
+2.  The following new service ratings will apply to active-duty nuclear-
+trained Sailors and billets:
+    a.  Electricians Mate, Nuclear Power (EMN), RCN 4101
+    b.  Electronics Technician, Nuclear Power (ETN), RCN 1003
+    c.  Machinists Mate, Nuclear Power (MMN), RCN 3703
+
+3.  The following new service ratings will apply to active-duty, full time 
+support, and selected reserve non-nuclear trained Sailors and billets:
+    a.  Electronics Technician, Submarine, Navigation (ETV), RCN 1001
+    b.  Electronics Technician, Submarine, Communications (ETR), RCN 1002
+    c.  Machinists Mate, Non-Nuclear, Submarine Weapons (MMW), RCN 3702
+    d.  Machinists Mate, Non-Nuclear, Submarine Auxiliary (MMA), RCN 3701
+
+4.  The establishment of the service ratings and RCNs will take effect 45 
+days after the release of this NAVADMIN.
+
+5.  The service ratings will be applied to personnel serving in the following 
+ratings.  These personnel will be referred to with full titles and 
+abbreviations, as written below:
+    a.  Electricians Mate, Nuclear Power (EMN)
+        (1) New RCN: 4101
+        (2) Applied to Electricians Mates with enlisted manning codes (EMCs) 
+D100, D101, and D102.
+        (3) EMN will be added as a source rating to the following Navy 
+enlisted classification (NEC) codes:  3301, 3302, 3354, 3359, 3364, 3371, 
+3372, 3376, 3377, 3384, 3389, 3394, and 9901.
+    b.  Electronics Technician, Nuclear Power (ETN)
+        (1) New RCN:  1003
+        (2) Applied to Electronics Technicians with EMCs D110, D111, and 
+D112.
+        (3) ETN will be added as a source rating to the following NEC codes: 
+3301, 3302, 3353, 3359, 3363, 3371, 3372, 3373, 3376, 3377, 3383, 3389, 3393, 
+and 9901.
+    c.  Machinists Mate, Nuclear Power (MMN)
+        (1) New RCN:  3703
+        (2) Applied to Machinists Mates with EMCs D130, D131, D132, D133, and 
+D134.
+        (3) MMN will be added as a source rating to the following NEC codes: 
+3301, 3302, 3351, 3355, 3356, 3359, 3365, 3366, 3371, 3372, 3376, 3377, 3385, 
+3386, 3389, 3395, 3396, and 9901.
+    d.  Electronics Technician, Submarine, Navigation (ETV)
+        (1) New RCN: 1001
+        (2) Applied to Electronics Technicians with a C121 EMC, a designator 
+code of 1, 2, or 8, and a NEC of 14GM, 14NM, 14NO, 14NP, 14NV, 14TK, 14XM, 
+14XO, or 3329.
+    e.  Electronics Technician, Submarine, Communications (ETR)
+        (1) New RCN:  1002
+        (2) Applied to Electronics Technicians with a C126 EMC, a designator 
+code of 1, 2, or 8, and a NEC of 14AA, 14AB, 14BH, 14CM, 14EM, 14HH, 14TM, 
+14RO, 14TO, 14ZA, 14ZQ, or 14ZR.
+    f.  Machinists Mate, Non-Nuclear, Submarine Weapons (MMW)
+        (1) New RCN: 3702
+        (2) Applied to Machinists Mates with a C151 EMC, a designator code of 
+1, 2, or 8, and a NEC of 4233, 4235, or 4247.
+    g.  Machinists Mate, Non-Nuclear, Submarine Auxiliary (MMA)
+        (1) New RCN:  3701
+        (2) Applied to Machinists Mates with a C150 EMC, a designator code of 
+1, 2, or 8, and a NEC of 4231, 4234, 4246, 4252, or 4253.
+
+6.  There will be no change to the Navy-wide advancement examination policies 
+or administration schedule for any of these service ratings.
+
+7.  There will be no changes to the E-7 through E-9 selection board 
+processes.
+
+8.  There will be no changes to sea/shore flow.
+
+9.  This NAVADMIN does not implement any changes for Commander, Navy 
+Recruiting Command.  Current business rules will continue unchanged.
+
+10.  The establishment of these service ratings and RCNs will neither create 
+nor modify existing uniform regulations and policy.
+
+11.  This NAVADMIN does not modify any previous guidance concerning early 
+separation, fleet reserve, conversion packages, or career waypoints policy.
+
+12.  The primary points of contact regarding these Service Rating and RCN 
+establishments are as follows:
+    a.  Nuclear, submarine and surface, enlisted community manager: CDR Will 
+Wiley at (703) 604-5494/DSN 664, or via e-mail at william.wiley1(at)navy.mil 
+or the Nuclear Community and Quality Control Manager at (703) 604-5492 or via 
+e-mail at bullnuke(at)navy.mil.
+    b.  Submarine, non-nuclear, enlisted community manager: LT Gregory Mosley 
+at (901) 874-2081/DSN 882, or via e-mail at gregory.w.mosley(at)navy.mil
+    c.  Submarine ratings technical advisor:  STSCS(SS) Joseph Hanley at 
+(901) 874-4367/DSN 882, or via e-mail at joseph.m.hanley(at)navy.mil; YNC 
+Aaron Norton at (901) 874-2819/DSN 882, or via e-mail at 
+aaron.norton(at)navy.mil.
+
+13.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

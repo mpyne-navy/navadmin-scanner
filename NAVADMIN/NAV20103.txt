@@ -1,0 +1,126 @@
+UNCLASSIFIED//
+ROUTINE
+R 081208Z APR 20 MID110000562556U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 103/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/NAVY POLICY FOR WAIVERS OF PUBLIC KEY INFRASTRUCTURE (PKI) AND HOST 
+BASED SECURITY SYSTEM (HBSS)//
+
+REF/A/MSG/CNO WASHINGTON DC/N2N6/051443ZFEB16//
+REF/B/MSG/CNO WASHINGTON DC/N2N6/291317ZJUL16//
+REF/C/MSG/CNO WASHINGTON DC/N2N6/151526ZMAY18//
+REF/D/OPORD/ENDPOINT SECURITY DEPLOYMENT AND OPERATIONS/27MAY16/16-0080//
+REF/E/OPORD/FRAGO 02 TO OPORD 16-0080/08DEC16/FRAGORD 1//
+
+NARR/REF A IS NAVADMIN 028/16, PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY 
+NONSECURE INTERNET PROTOCOL ROUTER NETWORK AND SECRET INTERNET PROTOCOL 
+ROUTER NETWORK.  
+REF B IS NAVADMIN 168/16, PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY 
+SECRET INTERNET PROTOCOL ROUTER NETWORKS, WEB SERVERS, WEB SITES, AND PORTALS 
+UPDATE.  
+REF C IS NAVADMIN 125/18, ENFORCEMENT OF PUBLIC KEY INFRASTRUCTURE 
+CRYPTOGRAPHIC LOGON ON ALL NAVY AND MARINE CORPS INTRANET (NMCI) AND OCONUS 
+NAVY ENTERPRISE NETWORK (ONE-NET) FUNCTIONAL NON-CLASSIFIED INTERNET PROTOCOL 
+ROUTER AND SECRET INTERNET PROTOCOL ROUTER ACCOUNTS.  
+REF D IS THE USCYBERCOM OPORD ON ENDPOINT SECURITY DEPLOYMENT AND OPERATIONS 
+DIRECTING THE IMPLEMENTATION OF HOST BASED SECURITY SYSTEM (HBSS).  
+REF E IS THE FRAGO WHICH SPECIFIES THAT THE HBSS EXEMPTION DECISION RESIDES 
+WITH THE COMPONENT CHIEF INFORMATION OFFICERS.// 
+
+POC1/PLANKENHORN/CIV/OPNAV N2N6G5/WASHINGTON DC/TEL:  703-692-1896
+/E-MAIL:  BENJAMIN.PLANKENHORN(AT)NAVY.MIL//
+POC2/BASS/CIV/NIA/DAO/SUITLAND MD/TEL:  301-669-3213
+/EMAIL:  DEIDRA.L.BASS(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN supersedes the waiver processes outlined in references
+(a) through (c) and eliminates duplicative Public Key Infrastructure (PKI) 
+and Host Based Security System (HBSS) waiver efforts by incorporating all 
+into the Risk Management Framework (RMF) authorization process.
+
+2.  This NAVADMIN is applicable to all Navy acquisition and non-acquisition 
+programs, regardless of designation as Information Technology (IT), Weapon 
+System, Platform IT (PIT), or Control System.  It applies to systems 
+authorized by the Navy Authorizing Official (NAO), the Functional Authorizing 
+Officials (FAO), and the Naval Intelligence Activity (NIA) Authorizing 
+Official (AO).
+
+3.  Effective immediately, systems not compliant with PKI and HBSS policy 
+requirements established in references (a) through (e) are automatically 
+waived upon successful completion of the RMF process.  This is a policy 
+waiver only, acknowledging mitigating circumstances.  It does not waive the 
+requirement for applicable security controls; they remain non-compliant if 
+not implemented as required.  Systems granted an RMF Authorization to Operate 
+(ATO) are considered to have sufficient mitigations in place to reduce 
+residual risk to the Navy portion of Department of Defense (DoD) Information 
+Networks (DoDIN-N) and Joint Worldwide Intelligence Communications System 
+(JWICS) and are waived from the PKI and HBSS policy requirements for the 
+duration of the system authorization.
+
+4.  For systems that do not have PKI (or an approved alternate form of two 
+factor authentication) and/or HBSS implemented, non-compliance must be mapped 
+to the applicable security controls.  At a minimum, this will include SI-
+4(23) for HBSS and IA-2(1) for PKI.  Mitigation activities will be tracked in 
+the system Plan of Action and Milestones (POAM) and System Level Continuous 
+Monitoring (SLCM) plan.  Additionally, the cognizant AO must include the 
+appropriate RMF stipulation, chosen from below (a, b, or c), in the ATO 
+letter /Authorization Decision Document (ADD) for each policy waiver (PKI 
+and/or HBSS) to be in compliance with this NAVADMIN.
+    a.  The requirement to implement (PKI/HBSS) has been assessed and 
+determined to be Not Applicable (NA).  The appropriate security control has 
+been marked as NA in (eMASS/Xacta), along with a justification statement 
+(e.g., the capability and control is not technically feasible or procedurally 
+relevant to the system).
+    b.  The requirement to implement (PKI/HBSS) has been assessed and 
+determined to be Applicable but Not Compliant.  There is no plan to achieve 
+compliance with the policy.  Mitigations, compensating controls, or 
+alternative solutions have been implemented to sufficiently reduce residual 
+risk to the (DoDIN-N/JWICS) and justify a waiver of the requirement for this 
+system.
+    c.  The requirement to implement (PKI/HBSS) has been assessed and 
+determined to be Applicable but Not Compliant.  There is a POAM to achieve 
+compliance with policy requirements and it is documented in the [eMASS/Xacta] 
+record.  Further, the Program Manager/Information System Owner (PM/ISO) 
+attests that the POAM is properly resourced.  In the interim, residual risk 
+to the (DoDIN-N/JWICS) is acceptable.
+
+5.  Echelon II commands will maintain oversight of all authorized systems 
+that are not compliant with PKI and HBSS policy requirements and, on an 
+annual basis, provide a listing of systems with corresponding waived policies 
+(e.g., those where the requirement is still Applicable) to the Department of 
+the Navy Deputy Senior Information Security Officer (Navy) (DDSISO(N)), 
+copying the cognizant AO and Fleet Cyber Command/Commander, TENTH Fleet 
+Battle Watch Captain.  This listing must be provided by 30 September and 
+include:
+    a.  System name;
+    b.  Authorization status (e.g., ATO, ATO with conditions, IATT) and 
+authorization termination date (ATD);
+    c.  Enterprise Mission Assurance Support Service (eMASS) (for GENSER) or 
+Xacta (for TS/SCI) identification number;
+    d.  Specific exemption in place (PKI, HBSS, or PKI and HBSS);
+    e.  Justification for non-compliance;
+    f.  Date by which the current POAM will achieve compliance (if 
+applicable).
+
+6.  For questions, contact POC1 (GENSER exceptions) and POC2 (TS/SCI or 
+Compartmented Access Programs).  This NAVADMIN will remain in effect until 
+canceled or superseded.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

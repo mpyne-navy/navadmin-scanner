@@ -1,0 +1,153 @@
+ROUTINE
+
+R 142314Z JAN 21 MID200000557398U
+
+FM CNO WASHINGTON DC//N1//
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC//N1//
+
+BT
+UNCLAS
+NAVADMIN 09/21
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/FAMILY READINESS UPDATE//
+
+REF/A/INST/OPNAVINST 1752.2C//
+REF/B/DOC/US CODE/Title 10 U.S. Code Section 1089//
+REF/C/INST/ MPM 1754.040//
+
+NARR/REF A IS OPNAVINST 1752.2C, FAMILY ADVOCACY PROGRAM.  
+REF B IS PUBLIC LAW 115-232, SECTION 1089.  
+REF C IS MILPERSMAN 1754-040, MILITARY SPOUSE LICENSURE REIMBURSEMENT.
+
+RMKS/1.  This NAVADMIN provides recent policy, program and resource
+updates for Personal and Family Readiness Programs.
+
+2.  Family Advocacy Program (FAP)
+    a.  Reference (a) was recently updated with significant changes
+for commanders including the identification and tracking of high
+risk FAP cases to ensure continued treatment of Sailors and family
+members, the outline of Family Advocacy Committee roles,
+incorporation of child abuse reporting requirements, and
+clarification of commanders roles and responsibilities in domestic
+violence intervention and prevention, intimate partner violence,
+child abuse, and neglect.  The instruction can be found at
+https://www.secnav.navy.mil/doni/opnav.aspx.
+    b.  Parenting Resources for Healthy Sexual Development in
+Children and Youth.  In line with reference (b), the military
+services are mandated to increase awareness of healthy sexual
+development in children and youth family members by assisting
+parents with healthy discussions with their children.  Commander,
+Navy Installations Command (CNIC) developed *Parenting Resources for
+Healthy Sexual Development in Children and Youth* videos that are
+instructional in nature and intended for parents and caregivers.
+These micro-learning videos will help with how to engage in
+meaningful conversations with children about sexual development.
+The parenting resources can be found via MyNavy Portal
+https://www.mnp.navy.mil/group/sailor-and-family-support under the
+Fleet and Family Support tab, Counseling Advocacy and Prevention,
+Parenting Resources for Healthy Sexual Development in Children and
+Youth.
+
+3.  Financial Literacy Training
+    a.  Navy e-Learning (NeL) financial readiness touchpoint
+training courses have recently been rolled out to address all of the
+mandatory financial literacy touchpoints, minus the *Initial Entry
+Training* and *Transition* touchpoints.  The touchpoint training is
+now delivered using micro-learning videos.  Sailors are provided
+financial literacy training at personal and professional touchpoints
+across the military lifecycle, beginning with recruit and officer
+accessions training and continuing throughout a Service member's
+career.  Sailors and family members can access additional training
+or financial counseling through their Command Financial Specialist
+or Fleet and Family Support Center Personal Financial Manager.
+These courses are now available for enrollment on NeL.
+    b.  The MyNavy Financial Literacy mobile application will soon
+be updated to host the NeL touchpoint training courses which will
+allow Sailors to complete the training on their smartphones and
+submit course completion certificates to their Electronic Training
+Jacket.
+    c.  Information on financial literacy education is available via
+MyNavy Portal https://www.mnp.navy.mil/group/sailor-and-family-
+support under the 21st Century Sailor tab, Total Sailor Fitness,
+Personal Financial Management.
+
+4.  Transition Assistance Program (TAP).  As part of COVID-19
+mitigation, the following alternatives are available for completion
+of TAP classes:
+    a.  CNIC has leveraged its Learning Management System (LMS) to
+provide instructor led virtual TAP (VTAP) coursework, including the
+career tracks.
+        (1) As of 27 July 2020, all TAP modules, with the exception
+of Veterans Affairs (VA) benefits briefing, are now part of VTAP
+available through virtual LMS at http://mynavyfamily.com/ or for
+NMCI users at
+https://learning.zeiders.refineddata.com/login/index.php.
+        (2) The VA benefits course must still be completed online
+via Department of Defense (DoD) LMS TAP courses in line with
+paragraph 4.b.
+    b.  DoD has moved all non-instructor VTAP courses to the DoD LMS
+vice Joint Knowledge Online.  TAP core course, additional tracks,
+and Military Life Cycle course are available online at
+https://www.tapevents.org/courses.
+    c.  Self-assessment counseling, pre-separation counseling, and
+capstone sessions are still required and may be conducted in-person
+using proper social-distancing protocol or telephonically with
+Command Career Counselors or TAP Managers.
+
+5.  Spouse Licensure Reimbursement.  In line with reference (c),
+Service members may be reimbursed for spouse licensure costs
+associated with a permanent change of station move from one state to
+another.
+    a.  For orders issued 12 December 2017 to 19 December 2019, up
+to $500 reimbursement of qualifying expenses is authorized.
+    b.  For orders after 20 Dec 2019, the amount increases up to
+$1000.
+    c.  Go to MyNavy Portal https://www.mnp.navy.mil/group/sailor-
+and-family-support under the 21st Century Sailor tab, Total Sailor
+Fitness, Spouse Licensure or search *spouse licensure reimbursement*
+on the MyNavy Family app for application information.
+
+6.  MyNavy Family Smartphone Application.  This is the first tool
+developed by the Navy with the support of over 1,100 spouses and
+combines authoritative information from over two dozen websites into
+a single application to support Navy families.  The application is
+updated regularly and includes recently added resources to cope with
+stresses of COVID-19 and can be found at the Navy App Locker.
+
+7. Exceptional Family Member Program (EFMP)
+    a.  EFMP Legal Assistance.  The Navy Judge Advocate General
+community has launched a three-year pilot program in the Navy Region
+Mid-Atlantic and Navy Region Southwest regions to provide expanded
+legal assistance to families enrolled in the EFMP.  Two new civilian
+lawyers will assist EFMP families seeking special education and
+state and local disabilities benefits support, providing them with
+direct counsel, advocacy, and training.  These new legal services
+augment the support EFMP Case Liaisons already provide enrollees.
+EFMP families in need of legal assistance should visit their nearest
+Region Legal Service Office, which can be located at
+https://www.jag.navy.mil/legal_services/legal_services_locator_rlso.
+htm.
+    b.  Navy EFMP Smartphone application.  The Navy released its
+newly developed interactive EFMP application on 31 August 2020 to
+provide guidance and support to Sailors whose family members have
+chronic medical, mental health, and/or special education needs.  The
+application includes essential EFMP information, frequently asked
+questions, and handy resources.  The EFMP application can be
+downloaded from the Apple and Google Store and via the Navy App
+Locker located at https://www.applocker.navy.mil/#!/apps/17B6E14B-
+2502-438C-880B-4D98B4512038.
+
+8. This NAVADMIN will remain in effect until superseded or canceled,
+whichever occurs first.
+
+9. Released by Vice Admiral John B Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

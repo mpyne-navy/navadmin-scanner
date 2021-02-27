@@ -1,0 +1,63 @@
+RAAUZYUW RUEWMCS0000 2681414-UUUU--RUCRNAD
+ZNR UUUUU 
+R 251414Z SEP 13
+FM CNO WASHINGTON DC//N9//
+TO NAVADMIN
+UNCLAS //N04770//
+NAVADMIN 246/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N9//
+
+SUBJ/REVISION TO FY14 PROJECTED SHIP INACTIVATION SCHEDULE AND UPDATE 
+REMAINING FY13 SHIP INACTIVATIONS//
+
+REF/A/RMG/CNO WASHINGTON DC//N9/101726ZJUL13// 
+REF/B/RMG/CNO WASHINGTON DC//N9/131909ZAPR12// 
+REF/C/DOC/OPNAVINST 4770.5G/06FEB09// 
+REF/D/DOC/OPNAVINST 5441.1/14SEP11// 
+NARR/REF A IS NAVADMIN 175/13, FY14 PROJECTED SHIP INACTIVATION SCHEDULE.  
+REF B IS NAVADMIN 123/12, FY13 PROJECTED SHIP INACTIVATION SCHEDULE.  REF C 
+IS OPNAV POLICY AND GUIDANCE FOR THE INACTIVATION, RETIREMENT, AND 
+DISPOSITION OF U.S. NAVAL VESSELS.  REF D IS OPNAV POLICY FOR REPORTING 
+CHANGES IN STATUS FOR U.S. NAVAL VESSELS TO THE NAVAL VESSEL REGISTER.// 
+POC/B. LEWIS/CIV/N9ISC3/LOC:  WASHINGTON DC/TEL:  703-614-2253/ DSN 224-
+2253/EMAIL: BARBARA.LEWIS1(AT)NAVY.MIL//
+
+RMKS/1.  Ref (a) FY14 Ship Inactivation Schedule is amended to include the 
+following inactivation: 
+
+Ship Name            Inactivation    Post Decommissioning Status
+USNS Flint (T-AE 32)    08 Nov 2013        See paragraph 1.a below 
+
+    a. Vessel will be disposed of by dismantlement (scrapping).  Naval Sea 
+Systems Command shall coordinate custody transfer and lay-up requirements 
+directly with Military Sealift Command and Maritime Administration.  
+Reporting requirements shall be in accordance with refs (c), (d), and 
+paragraph 3 below.  
+
+2.  Ref (b) FY13 Ship Inactivation Schedule is amended to include the 
+following inactivation:
+Ship Name            Inactivation     Post Decommissioning Status
+USS Miami (SSN 755)    27 Sep 2013        Recycle/See paragraph 2.a below
+
+    a. Date inactivation availability commences and the vessel is no longer 
+counted in the Navy's battle force.  Official status of the vessel will be 
+in-commission/in-reserve pending decommissioning at a later date.  Final 
+decommissioning date shall be reported in accordance with refs (c), (d), and 
+paragraph 3 below.
+
+3.  Per ref (c), all ship Commanding Officers/Masters or Ship Immediate 
+Superior in Command shall send a separate naval message announcing that the 
+actual decommissioning/service completion date.  It shall be addressed to CNO 
+WASHINGTON DC//, copy respective OPNAV ship resource/platform sponsor, CNO 
+WASHINGTON//N00/N09/N1/N9/N9I/N4/N43/ support activities, COMNAVSEASYSCOM 
+WASHINGTON DC//SEA 05C/SEA 21//NAVHISTHERITAGECOM N8/N9/N91//, and the Naval 
+Vessel Register Custodian per ref (d).
+
+4.  Released by Vice Admiral J. P. Aucoin, Deputy Chief of Naval Operations, 
+Warfare Systems (N9).//
+
+BT
+#0656
+NNNN
+

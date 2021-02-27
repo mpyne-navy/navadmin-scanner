@@ -1,0 +1,416 @@
+RAAUZYUW RUENAAA0002 1241837-UUUU--RUCRNAD.
+ZNR UUUUU ZUI RUEWMCF9387 1242231
+R 041837Z MAY 06 PSN 874530K27
+FM CNO WASHINGTON DC//N1NT//
+TO NAVADMIN
+INFO RHMFIUU/CNO WASHINGTON DC//N1NT//
+RUENAAA/CNO WASHINGTON DC//N1NT//
+BT
+UNCLAS //N01306//
+SECTION 02/02
+NAVADMIN 130/06
+MSGID/GENADMIN/CNO WASHINGTON DC/N1NT/APR//
+SUBJ/SEA SHORE ROTATION (SSR) LENGTH REVISIONS//
+HM1(8541)      36        42            36        72
+HM2(8541)      36        42            36        72
+HM3(8541)      36        42            36        72
+HN(8541)       36        42            36        72
+HMCS(8432)     36        36            36        48
+HMC(8432)      36        36            36        48
+HM1(8432)      36        36            36        36
+HM2(8432)      36        36            36        36
+HM3(8432)      36        36            36        36
+HN(8432)       36        36            36        36
+HMC(8434)      36        42             0        72
+HM1(8434)      36        42             0        72
+HM2(8434)      36        42             0        72
+HM3(8434)      36        42             0        72
+HMC(8445)      36        36            36        72
+HM1(8445)      36        36            36        48
+HM2(8445)      36        36            36        48
+HM3(8445)      36        36            36        36
+HM1(8446)      36        42            36        72
+HM2(8446)      36        42            36        72
+HM3(8446)      36        42            36        72
+HN(8446)       36        42            36        72
+HMC(8407)      36        42            36        72
+HM1(8407)      36        42            36        72
+HM2(8407)      36        42            36        72
+HM3(8407)      36        42            36        72
+HN(8407)       36        42            36        72
+HMC(8454)      36        42            36        60
+HM1(8454)      36        42            36        60
+HM2(8454)      36        42            36        60
+HMCS(8463)     36        48             0        72
+HMC(8463)      36        48            36        72
+HM1(8463)      36        48            36        72
+HM2(8463)      36        48            36        72
+HM3(8463)      36        48            36        72
+HN(8463)       36        48            36        72
+HMC(8467)      36        48            36        60
+HM1(8467)      36        48            36        60
+HM2(8467)      36        48            36        60
+HMCS(8707)     36        48            36        48
+HMC(8707)      36        48            36        48
+HM1(8707)      36        48            36        48
+HM2(8707)      36        48            36        48
+HMC(8732)      36        48            36        60
+HM1(8732)      36        48            36        60
+HM2(8732)      36        48            36        60
+HM3(8732)      36        48            36        60
+HM1(8752)      36        48            36        72
+HM2(8752)      36        48            36        72
+HM3(8752)      36        48            36        72
+HN(8752)       36        48            36        72
+HMC(8753)      36        48            36        72
+HM1(8753)      36        48            36        72
+HM2(8753)      36        48            36        72
+HM1(8765)      36        48             0        72
+HM2(8765)      36        48             0        72
+HM3(8701)      36        48            36        36
+HN(8701)       36        48            36        36
+HTCM           42        36            36        36
+HTCS           36        48            48        36
+HTC            36        48            36        36
+HT1            48        48            48        36
+HT2            42        48            42        36
+HT3            60        24            60        24
+HTFN           60        24            60        24
+ICCS           48        36            48        36
+ICC            36        42            36        45
+IC1            51        36            60        36
+IC2            54        36            60        36
+IC3            60        24            60        24
+ICFN           60        24            60        24
+ISCM           36        36            36        36
+ISCS           36        36            36        36
+ISC            36        36            36        36
+IS1            42        36            42        36
+IS2            42        36            42        36
+IS3            42        24            42        24
+ISSN           42        24            42        24
+ITCM           39        36            36        36
+ITCS           42        36            36        36
+ITC            39        36            36        36
+IT1            45        36            48        36
+IT2            54        36            54        36
+IT3            60        36            60        24
+ITSN           60        24            60        24
+LNCM           36        72            36        48 (NOTE 5)
+LNCS           36        72            36        48 (NOTE 5)
+LNC            36        72            36        48 (NOTE 5)
+LN1            36        36            36        48 (NOTE 5)
+LN2            36        36            48        36 (NOTE 5)
+LN3            36        36            48        24 (NOTE 5)
+MACM           36        36            36        36 (NOTE 5)
+MACS           36        36            36        36 (NOTE 5)
+MAC            36        36            36        36 (NOTE 5)
+MA1            36        36            36        36 (NOTE 5)
+MA2            48        36            36        36 (NOTE 5)
+MA3            54        36            42        36 (NOTE 5)
+MASN           54        36            42        36 (NOTE 5)
+MCCM                                   36        36 (NOTE 6)
+MCCS                                   36        36 (NOTE 6)
+MCC                                    36        36 (NOTE 6)
+MC1                                    36        36 (NOTE 6)
+MC2                                    36        36 (NOTE 6)
+MC3                                    54        24 (NOTE 6)
+MCSN                                   54        24 (NOTE 6)
+MMCM           45        36            48        36
+MMCS           42        36            36        36
+MMC            36        36            36        36
+MM1            39        36            42        36
+MM2            48        36            51        36
+MM3            60        24            60        24
+MMFN           60        34            60        24
+MMCM(SS)(NUC)  36        36            36        36
+MMCS(SS)(NUC)  36        36            36        36
+MMC(SS)(NUC)   48        36            48        36
+MM1(SS)(NUC)   60        36            60        36
+MM2(SS)(NUC)   54        36            54        36
+MM3(SS)(NUC)   54        36            54        36
+MMCM(SW)(NUC)  36        36            36        36
+MMCS(SW)(NUC)  36        36            36        36
+MMC(SW)(NUC)   48        36            48        36
+MM1(SW)(NUC)   60        36            60        36
+MM2(SW)(NUC)   54        36            54        36
+MM3(SW)(NUC)   54        36            54        36
+MMCM(SS)(AUX)  36        36            36        36
+MMCS(SS)(AUX)  36        36            36        36
+MMC(SS)(AUX)   45        36            36        36
+MM1(SS)(AUX)   45        36            48        36
+MM2(SS)(AUX)   54        36            48        36
+MM3(SS)(AUX)   54        36            60        24
+MMFN(SS)(AUX)  54        24            60        24
+MMCM(SS)(WEPS) 36        36            36        48
+MMCS(SS)(WEPS) 36        36            36        48
+MMC(SS)(WEPS)  48        36            48        36
+MM1(SS)(WEPS)  48        36            48        36
+MM2(SS)(WEPS)  54        36            54        36
+MM3(SS)(WEPS)  54        36            60        24
+MMFN(SS)(WEPS) 54        24            60        24
+MNCM           36        36            36        36
+MNCS           36        36            36        36
+MNC            36        36            36        36
+MN1            48        36            42        36
+MN2            48        36            42        36
+MN3            60        36            60        24
+MNSN           60        24            60        24
+MRCM           39        36            36        36
+MRCS           36        45            36        36
+MRC            36        51            36        36
+MR1            42        42            45        36
+MR2            42        42            54        36
+MR3            48        24            60        24
+MRFN           60        24            60        24
+MTCM           36        36            36        36
+MTCS           36        36            36        36
+MTC            36        36            36        36
+MT1            36        36            36        36
+MT2            36        36            36        36
+MT3            48        36            54        24
+MUCM           36        48            36        48
+MUCS           36        48            36        48
+MUC            36        48            36        48
+MU1            36        48            36        48
+MU2            36        48            36        48
+MU3            36        48            36        48
+MUSN           36        48            36        24
+NCCM           42        42            39        36
+NCCS           36        42            48        36
+NCC            36        42            48        36
+NC1            42        42            60        36
+NCCM(CRF)       0        36             0        36
+NCCS(CRF)       0        36             0        36
+NCC(CRF)        0        36             0        36
+NC1(CRF)        0        36             0        36
+NC2(CRF)        0        36             0        36
+NDCM                                   36        36 (NOTE 7)
+NDCS                                   36        36 (NOTE 7)
+NDC                                    36        36 (NOTE 7)
+ND1                                    36        36 (NOTE 7)
+ND2                                    36        36 (NOTE 7)
+ND3                                    36        36 (NOTE 7)
+OSCM           42        36            36        36
+OSCS           48        36            36        36
+OSC            48        36            48        36
+OS1            48        36            48        36
+OS2            54        36            54        36
+OS3            60        36            60        24
+OSSN           60        24            60        24
+PCCM           36        48            36        36 (NOTE 5)
+PCCS           36        48            36        36 (NOTE 5)
+PCC            36        36            36        36 (NOTE 5)
+PC1            48        36            36        36 (NOTE 5)
+PC2            48        36            36        36 (NOTE 5)
+PC3            51        36            36        36 (NOTE 5)
+PCSN           60        24            53        24
+PRCM           36        36            36        36
+PRCS           36        39            36        36
+PRC            36        39            36        36
+PR1            36        42            36        36
+PR2            45        36            36        36
+PR3            45        36            36        24
+PRAN           48        24            36        24
+PR1(NAC)       36        36            36        42
+PR2(NAC)       36        36            48        36
+PR3(NAC)       60        24            54        24
+PRAN(NAC)      60        24            54        24
+PSCM           36        42            36        36 (NOTE 5)
+PSCS           36        42            36        36 (NOTE 5)
+PSC            36        36            36        36 (NOTE 5)
+PS1            36        48            36        36 (NOTE 5)
+PS2            36        45            36        36 (NOTE 5)
+PS3            48        24            36        24 (NOTE 5)
+PSSN           48        24            36        24 (NOTE 5)
+QMCM           36        36            36        36
+QMCS           36        36            36        36
+QMC            42        36            48        36
+QM1            54        36            54        36
+QM2            54        36            54        36
+QM3            60        36            60        24
+QMSN           60        24            60        24
+RPCM           36        48            36        36 (NOTE 5)
+RPCS           36        48            36        36 (NOTE 5)
+RPC            36        48            36        36 (NOTE 5)
+RP1            36        48            36        36 (NOTE 5)
+RP2            36        42            36        36 (NOTE 5)
+RP3            42        36            36        24 (NOTE 5)
+RPSN           36        36            36        24 (NOTE 5)
+SEALCM         60        24            60        24
+SEALCS         60        24            60        24
+SEALC          60        24            60        24
+SEAL1          60        24            60        24
+SEAL2          60        24            60        24
+SEAL3          60        24            60        24
+SEALHN         60        24            60        24
+SHCM           45        36            36        36
+SHCS           45        36            36        36
+SHC            45        36            36        36
+SH1            48        36            48        36
+SH2            48        36            48        36
+SH3            51        36            60        24
+SHSN           60        24            60        24
+SKCM           39        36            36        36
+SKCS           39        36            39        36
+SKC            39        36            36        36
+SK1            45        36            36        36
+SK2            48        36            42        36
+SK3            51        36            56        24
+SKSN           54        24            56        24
+SKCM(SS)       36        36            36        48
+SKCS(SS)       36        36            36        48
+SKC(SS)        36        36            42        36
+SK1(SS)        36        36            42        36
+SK2(SS)        36        36            42        36
+SK3(SS)        48        36            48        36
+SKSN(SS)       48        24            60        24
+STGCM          42        36            36        36
+STGCS          48        36            36        36
+STGC           36        36            36        36
+STG1           42        36            36        36
+STG2           48        36            42        36
+STG3           60        36            60        24
+STGSN          60        24            60        24
+STSCM          36        36            36        36
+STSCS          36        36            42        36
+STSC           48        36            42        36
+STS1           48        36            42        36
+STS2           54        36            54        36
+STS3           54        36            60        24
+STSSN          54        24            60        24
+SWCS           36        36            40        36
+SWC            36        36            40        36
+SW1            36        36            48        36
+SW2            48        36            48        36
+SW3            54        36            60        24
+SWCN           54        24            60        24
+SWCCCM         60        24            60        24
+SWCCCS         60        24            60        24
+SWCCC          60        24            60        24
+SWCC1          60        24            60        24
+SWCC2          60        24            60        24
+TMCM           36        36            36        36
+TMCS           36        36            36        36
+TMC            36        36            36        36
+TM1            36        36            42        36
+TM2            42        36            42        36
+TM3            54        36            60        24
+TMSN           54        36            60        24
+UCCM           36        36            36        30
+UTCS           36        36            36        36
+UTC            36        36            36        36
+UT1            36        36            36        36
+UT2            48        36            36        36
+UT3            54        36            60        24
+UTCN           54        24            60        24
+YNCM           36        36            36        36
+YNCS           36        48            36        36
+YNC            36        54            36        36
+YN1            36        48            36        36
+YN2            42        48            36        36
+YN3            45        36            36        24
+YNSN           36        36            48        24
+YNCM(SS)       36        36            36        48
+YNCS(SS)       36        36            36        48
+YNC(SS)        36        36            36        36
+YN1(SS)        36        36            36        36
+YN2(SS)        36        36            42        36
+YN3(SS)        48        36            54        24
+YNSN(SS)       48        36            54        24
+6.  NOTES:
+(1) AIR TRAFFIC CONTROLLERS (AC):  DUE TO THE UNIQUE BILLET
+DISTRIBUTION WITHIN THE AC COMMUNITY, AC ROTATION IS ESTABLISHED
+AS OUTCONUS (SHOWN UNDER  SEA  COLUMN) AND INCONUS (SHOWN UNDER
+ SHORE  COLUMN) TOURS VICE SEA AND SHORE TOURS.  OUTCONUS
+TOURS INCLUDE TYPES 2, 3, 4 AND 6 DUTY, INCONUS TOURS INCLUDE ALL
+TYPE 1.  TYPE 1 DUTY IN HAWAII WILL BE CONSIDERED AS OUTCONUS FOR
+ROTATIONAL PURPOSES.  OUTCONUS TOURS ARE IN ACCORDANCE WITH DOD
+DIRECTIVES.  BACK-TO-BACK INCONUS DUTY IS AUTHORIZED BY EXCEPTION
+WHEN SEA/OUTCONUS DUTY IS NOT AVAILABLE.  MEMBERS ON DEPENDENT,
+RESTRICTED, OR OVERSEAS TOURS WITH A TOUR LENGTH SHORTER THAN 36
+MONTHS MAY BE REASSIGNED TO OUTCONUS DUTY TO FULFILL PST.  AC "A"
+SCHOOL GRADUATES ARE ASSIGNED TO SEA/OUTCONUS FOR THEIR INITIAL
+TOUR.  AC "A" SCHOOL GRADUATES FOR WHICH NO SEA/OUTCONUS DUTY IS
+AVAILABLE, WILL BE ASSIGNED TO TYPE 1 (SHORE/INCONUS) FOR AN INITIAL
+24-MONTH TOUR OR ADVANCED "C" SCHOOL TRAINING FOR BEST QUALIFIED
+CANDIDATES.  BILLET VACANCIES/NEC REQUIREMENTS MAY REQUIRE DEVIATION
+FROM THIS ROTATION PATTERN.
+(2) AEROGRAPHERS MATES (AG):  DUE TO THE UNIQUE BILLET DISTRIBUTION
+WITHIN THE NAVAL METEOROLOGY AND OCEANOGRAPHY COMMAND, AG ROTATION
+IS ESTABLISHED AS OUTCONUS AND INCONUS TOURS VICE SEA AND SHORE
+TOURS.  OUTCONUS TOURS INCLUDE TYPES 2, 3, 4, AND 6 DUTY; INCONUS
+TOURS INCLUDE ALL TYPE 1 DUTY.  TYPICAL AG TOUR ROTATION CONSISTS OF
+ONE TYPE 2/4 SEA TOUR, ONE INCONUS SHORE TOUR, AND ONE OVERSEAS
+TOUR.  BACK-TO-BACK INCONUS DUTY IS AUTHORIZED BY EXCEPTION WHEN
+SEA/OUTCONUS DUTY IS NOT AVAILABLE.  MEMBERS ON DEPENDENT,
+RESTRICTED, OR OUTCONUS TOURS WITH A TOUR LENGTH SHORTER THAN PST
+MAY BE REASSIGNED TO SEA DUTY TO FULFILL THEIR PST.  AG "A" SCHOOL
+GRADUATES WILL BE ASSIGNED TO SEA/OUTCONUS FOR THEIR INITIAL TOUR.
+IF NO SEA/OUTCONUS DUTY IS AVAILABLE, "A" SCHOOL GRADUATES MAY BE
+ASSIGNED TO TYPE 1 (SHORE INCONUS) FOR AN INITIAL 24 MONTH TOUR, OR
+ADVANCED "C" SCHOOL TRAINING FOR BEST QUALIFIED CANDIDATES.  BILLET
+VACANCIES/NEC REQUIREMENTS MAY REQUIRE DEVIATION FROM THIS ROTATION
+PATTERN.  OUTCONUS/SEA TOUR EXTENSIONS BEYOND 42 MONTHS ARE
+AUTHORIZED FOR OTIEP.
+(3) CRYPTOLOGIC TECHNICIANS (CT):  DUE TO UNIQUE BILLET DISTRIBUTION
+WITHIN CLAIMANCIES, CT ROTATION IS ESTABLISHED AS OUTCONUS AND
+INCONUS TOURS VICE SEA AND SHORE TOURS.  HAWAII, TYPE 1 DUTY, WILL
+BE CONSIDERED AS OUTCONUS FOR ROTATIONAL PURPOSES WITH THE EXCEPTION
+OF CTI 9211 AND CTI 9212.  ANNOTATED FIGURES REFLECT THE NUMBER OF
+OUTCONUS TOURS AN INDIVIDUAL IS REQUIRED TO SERVE.  NORMAL INCONUS
+TOUR FOR CT WILL BE 36 MONTHS.  WITH IMPLEMENTATION OF THE CTT/EW
+MERGER (FY04), CRYPTOLOGIC TECHNICIANS (TECHNICAL) HAVE ADOPTED A
+CONVENTIONAL SEA/SHORE ROTATION.  CURRENT BILLET STRUCTURE SUPPORTS
+A SEA/SHORE ROTATION OF 48/36 FOR E5 AND BELOW, AND 36/36 FOR E6
+THROUGH E9.  TYPICAL ROTATION FOR CTM/CTR E5 AND BELOW PERSONNEL IS
+TWO OUTCONUS TOURS TO ONE INCONUS TOUR, WITH ONE OF THE OUTCONUS
+TOURS TO BE UNDER TYPE 2 OR 4 DUTY.  BILLET VACANCIES/NEC
+REQUIREMENTS/ADVANCEMENTS MAY REQUIRE DEVIATION FROM THIS ROTATION
+PATTERN.
+(4) HOSPITAL CORPSMAN (HM):  THE NORMAL SHORE TOUR (NST) AND
+PRESCRIBED SEA TOUR (PST) FOR THE HM RATING IS BASED ON NEC.  NEC
+8408, 8416, 8486, 8489, 8496, 8503, AND 8505 HAVE AN
+INCONUS/OUTCONUS, VICE SEA/SHORE, ROTATION.
+(5) LEGALMAN (LN), MASTER AT ARMS (MA), RELIGIOUS PROGRAM SPECIALIST
+(RP), PERSONNEL SPECIALIST (PS), AND POSTAL CLERK (PC):  DUE TO THE
+UNIQUE BILLET DISTRIBUTION WITHIN THE LEGAL, MASTER AT ARMS, POSTAL
+CLERK, RELIGIOUS PROGRAM SPECIALIST COMMUNITIES AND THE MERGER OF
+PERSONNEL SPECIALIST, LN/MA/RP/PS/PC ROTATION IS ESTABLISHED AS
+OUTCONUS/SEA (TYPE 2, 3, 4, 6) AND INCONUS (TYPE 1) TOURS VICE SEA
+AND SHORE TOURS.  BILLET VACANCIES MAY REQUIRE DEVIATION FROM THIS
+ROTATION PATTERN.
+(6) THE MASS COMMUNICATIONS (MC) RATING WAS ANNOUNCED IN NAVADMIN
+339/05 AND IS A MERGER OF THE ILLUSTRATOR DRAFTSMAN (DM), JOURNALIST
+(JO), LITHOGRAPHER (LI), AND PHOTOGRAPHER S MATE (PH) RATINGS.  THE
+EFFECTIVE DATE OF THE MERGER IS 1 JUL 06.
+(7) THE NAVY DIVER (ND) RATING WAS ANNOUNCED IN NAVADMIN 003/06 AND
+WILL CONSIST OF SAILORS WITH THE FOLLOWING NECS: 5311, 5341, 5342,
+5343, AND 5346.  THE EFFECTIVE DATE OF THE RATING ESTABLISHMENT IS 1
+JUN 06 FOR E6-E9 SAILORS AND 1 OCT 06 FOR E1-E5 SAILORS.
+7.  NON-DESIGNATED AN, FN, AND SN PERSONNEL WILL NORMALLY SERVE
+60-MONTH SEA TOURS WITH PRDS SET ACCORDING TO GEOGRAPHIC LOCATION,
+TYPE DUTY, AND FIRST TERM ASSIGNMENT RESTRICTIONS.  NON-DESIGNATED
+PERSONNEL WHO ARE INITIALLY ASSIGNED TO SHORE DUTY WILL COMPLETE A
+24-MONTH TOUR AND THEN ROTATE TO SEA DUTY WITH THEIR PRD SET
+APPROPRIATELY.  SUBSEQUENT DESIGNATION WILL DICTATE READJUSTMENT OF
+PRD TO COINCIDE WITH DOD TOUR LENGTH AND/OR PRESCRIBED SEA TOUR
+(PST), AS SET BY COMNAVPERSCOM (PERS-4).  SEA TIME PRIOR TO
+DESIGNATION WILL COUNT TOWARD PST IN NEW RATING.
+8.  DESIGNATED E1 THROUGH E3 PERSONNEL WHO ARE INITIALLY ASSIGNED
+TO INCONUS SHORE DUTY (TYPE 1) WHO ARE PHYSICALLY FIT FOR SEA DUTY,
+WILL COMPLETE A 24-MONTH SHORE TOUR AND THEN ROTATE TO SEA DUTY
+(TYPE 2, 3, AND 4) WITH THEIR PRDS SET TO THE PST FOR THEIR
+RESPECTIVE RATING.
+9.  SAILORS SHOULD CONTACT THEIR RESPECTIVE DETAILERS FOR SPECIFIC
+RATE/RATING/NEC QUESTIONS AND CONCERNS.  POC FOR POLICY QUESTIONS:
+- LCDR JIM HUDSON, PERS-4011D3, (901) 874-2979/DSN 882.
+- CDR JOHN SEGERSON, PERS-4011D1, (901) 874-2075/DSN 882.
+- PSCM(AW) DOUG DEVAULT, N132C3A, (703) 614-6864/DSN 224.
+10.  RELEASED BY VADM J. C. HARVEY, JR., N1/NT.//
+BT
+#0002
+
+
+NNNN
+

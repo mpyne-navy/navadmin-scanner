@@ -1,0 +1,184 @@
+UNCLASSIFIED
+ROUTINE
+R 292237Z SEP 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 243/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/VOLUNTARY EDUCATION PROGRAM UPDATES//
+
+REF/A/MSG/ CNO WASHINGTON DC/301201ZSEP16//
+REF/B/DOC/NETC/20JAN11//
+REF/C/DOC/DOD/7JUL14//
+REF/D/DOC/OPNAV/4MAR08//
+REF/E/DOC/DOD/3DEC15/NOTAL//
+NARR/REF A IS NAVADMIN 219/16, VOLUNTARY EDUCATION/NAVY COLLEGE PROGRAM 
+TRANSFORMATION.  
+REF B IS NETCINST 1560.3, NAVY VOLUNTARY EDUCATION PROGRAMS.  
+REF C IS DODINST 1322.25, VOLUNTARY EDUCATION PROGRAMS.  REF D IS OPNAVINST 
+1560.9A, VOLUNTARY EDUCATION (VOLED) FOR NAVY SAILORS.  
+REF E IS DOD MEMORANDUM, PARTICIPATION BY EDUCATIONAL INSTITUTIONS IN MORALE, 
+WELFARE, AND RECREATION COMMERCIAL SPONSORSHIP AND ADVERTISING PROGRAMS.//
+
+RMKS/1.  This NAVADMIN announces more improvements to the Navy Voluntary 
+Education (VOLED)/Navy College Program (NCP) through our transformation 
+efforts announced in reference (a).  Effective 1 October 2017, Navy College 
+Program for Afloat College Education (NCPACE) Distance Learning (DL) will 
+expand to provide Sailors greater opportunity with more academic 
+institutions.  To offer this amazing opportunity to our Sailors, this message 
+outlines changes to policy and procedures for Sailors listed in reference (b) 
+including the requirements to be approved to participate.  This message also 
+outlines changes to VOLED support to commands and installations. The most 
+current information is available on NCP Mobile App or website, which Sailors 
+may access at My Navy Portal at http://my.navy.mil/career-resources.html.
+
+2.  NCPACE Updates.
+    a.  With this update, NCPACE will more closely resemble Tuition 
+Assistance (TA) by allowing for individual enrollment without the need for a 
+command established program, providing greater flexibility to eligible 
+Sailors assigned to type two and type four unit identification codes.  NCPACE 
+DL self-contained courses will be available at anytime, anywhere, vice 
+previously only being available during a command sponsored program.  Sailors 
+will now have more control in their pursuit of higher education goals.  
+Sailors may enroll using the new NCPACE DL application process available in 
+the My Education Application module.  The following policy changes apply:
+        (1) All NCPACE DL courses will be funded at the same rate authorized 
+for TA courses in line with reference (c).  The current Department of Defense 
+(DoD) funding limit for undergraduate and graduate courses is 250 dollars per 
+semester hour (SH) or equivalent.  Sailors choosing courses exceeding this 
+cap are responsible for the cost difference.
+        (2) Sailors can receive funding for up to 16 SH or equivalent, per 
+fiscal year (FY), through TA, NCPACE, or any combination thereof.
+        (3) NCPACE DL courses will require the same grade attainment as TA, C 
+or better for undergraduate courses, and a B or better for graduate courses.  
+As directed in reference (c), reimbursement will be required from service 
+members not attaining these grades. NCPACE and TA grade point averages will 
+be combined.  Sailors must maintain a combined 2.0 or higher grade point 
+average or be required to receive additional counseling by a NCP counselor to 
+resume NCPACE or TA funding.
+        (4) Deploying Sailors are highly encouraged to obtain their course 
+materials prior to deploying.  Contractors will no longer deliver NCPACE DL 
+course materials.
+        (5) Sailors who enroll in NCPACE DL courses which require a proctored 
+exam will utilize their command educational services officer or command 
+designated representative as the proctor.
+    b.  NCPACE Instructor Lead (IL) Program will continue to operate with 
+contractor support.  The following changes, effective 1 October 2017, will 
+provide commanding officers (CO) more control over ordering and providing 
+courses to their Sailors.
+        (1) Commands will no longer be restricted to face-to-face support by 
+NCP and contract personnel to initiate an NCPACE IL program.  NCPACE command 
+coordinators, identified by the command, will utilize resources at the NCPACE 
+section of the NCP website to select courses, pre-register Sailors and order 
+courses.
+        (2) Services such as crew briefs and NCPACE command coordinator 
+training will be provided in automated tools available on the NCP website 
+under the NCPACE tab.
+
+3.  Course Funding Requirements.
+    a.  First-time TA or NCPACE users must complete prerequisite training 
+listed on the NCP website prior to funding approval.  These requirements 
+supersede requirements published in reference (a).
+    b.  For each level of educational or academic pursuit (certificate, 
+associate, bachelor, or master) funded by TA or NCPACE that begins on or 
+after 1 October 2017 Sailors must:
+        (1) Receive academic counseling from a Navy College Virtual Education 
+Center (NCVEC) or overseas Navy College Office (NCO) counselor at least once 
+per level of pursuit.  Counseling must occur before submitting official 
+education plan in line with subparagraph (3) below.  Sailors can schedule 
+appointments via the online appointment scheduling tool on the NCP website.
+        (2) Submit, at a minimum, an unofficial education plan to the My 
+Education record of the Sailor before enrolling in any classes. Example:  
+Degree template from academic institution (AI) website that lists course(s) 
+Sailor desires to take.
+        (3) Following counseling by an NCVEC or overseas NCO counselor, 
+submit an official education plan or service member Opportunity College 
+Agreement to the My Education record of the Sailor within the first nine SH, 
+or equivalent, of instruction. This is the degree plan agreed to between the 
+Sailor and the AI.
+        (4) NCPACE IL command coordinators will ensure IL participants on the 
+command roster meet these requirements.
+    c.  Improved technology now allows Sailors the opportunity to receive 
+automated approval of TA and NCPACE DL requests for AIs who have uploaded 
+their catalog of applicable courses into the AI module of the Navy College 
+Management Information System provided Sailor:
+        (1) Meets the funding eligibility requirements in line with reference 
+(d).
+        (2) Completes funding prerequisites in subparagraphs 3a, 3b(1) and 
+3b(3).
+        (3) Selects courses from the AI catalog that are on the Sailors 
+official education plan, when submitting TA application.
+        (4) Has not reached the 16 SH or equivalent FY cap.
+        (5) Receives command approval of WebTA or NCPACE DL application 
+between 120 and 14 days preceding the course start date.
+    d.  Efficiencies gained through NCPACE and TA automation have rendered 
+the Navy College Program Distance Learning Partnership obsolete and it is 
+hereby canceled.
+
+4.  Installation support, AI installation access and monitoring, and testing.
+    a.  On base education programs.  In Continental United States (CONUS) NCP 
+region advisors and installation COs will work together to select AIs to 
+provide on-base education programs in line with established policy and 
+guidelines.
+    b.  AI installation access and monitoring.
+        (1) References (c) and (e) detail DoD requirements for AI access to 
+DoD installations.
+        (2) Installation policy and procedures are posted in the AI section 
+of the NCP website, which can be accessed at My Navy Portal at 
+http://my.navy.mil/career-resources.html.
+    c.  Testing.
+        (1) College Level Exam Program and Defense Activity for Non- 
+Traditional Education Services (DANTES) Subject Standardized Tests will 
+continue to be administered at National Test Centers currently operated on 
+Navy installations.  Sailors desiring these or additional exams must follow 
+the funding and reimbursement instructions provided on the DANTES website at
+www.dantes.doded.mil/examinations.
+        (2) Outside the Continental United States, Defense Language Aptitude 
+Battery (DLAB) and Defense Language Proficiency Testing (DLPT) will be 
+offered by NCOs and other supporting naval commands. CONUS DLAB and DLPT 
+administration have transitioned to the Center for Information Warfare 
+Training (CIWT).  CIWT offers tests at six primary Navy Language Testing 
+Offices located in San Diego, Norfolk, Everett, Jacksonville, Groton, and 
+Pensacola.  For additional information, please log onto My Navy Portal and 
+then navigate to: https://www.mnp.navy.mil/group/information-warfare-
+training/nflto For assistance with scheduling a CONUS language test at one of 
+the six Navy Language Testing Offices, please contact the testing
+office.
+
+5.  Points of contact:
+    a.  Mr. Jim Johnson, OPNAV N127, who can be reached at (703) 604-5256/DSN 
+664 or via e-mail at james.p.johnson(at)navy.mil.
+    b.  Mr. Tom Smith, NETC N52, who can be reached at (850) 452-7271/DSN 459 
+or via e-mail at thomas.a.smith4(at)navy.mil.
+    c.  LCDR Nick Turner, NETPDC N2, who can be reached at (850) 452-6045/DSN 
+473 or via e-mail at nick.turner(at)navy.mil.
+    d.  NCVEC:  Monday-Friday, 0700-1900 Eastern Time, DSN 492-4684 or 
+(877)838-1659 or www.navycollege.navy.mil.
+    e.  Mr. Darrin L. Williams, CIWT Navy Foreign Language Testing Office, 
+who can be reached at (850) 452-4579/DSN 473 or via e-mail at 
+darrin.williams(at)navy.mil.
+    f.  CIWT_CRRY_Lang_Testing_Pensacola(at)navy.mil
+    g.  CIWT_CRRY_Lang_Testing_Jacksonville(at)navy.mil
+    h.  CIWT_CRRY_Lang_Testing_Norfolk(at)navy.mil
+    i.  CIWT_CRRY_Lang_Testing_Groton(at)navy.mil
+    j.  CIWT_CRRY_Lang_Testing_Everett(at)navy.mil
+    k.  CIWT_CRRY_Lang_Testing_San_Diego(at)navy.mil
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

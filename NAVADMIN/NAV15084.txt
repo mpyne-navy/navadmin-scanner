@@ -1,0 +1,99 @@
+UNCLASSIFIED/
+
+ROUTINE
+
+R 101501Z APR 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+SUBJ/NAVY CYBERSECURITY WORKFORCE CREDENTIALS 
+
+NAVADMIN 084/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+REF/A/MSG/CNO/WASHINGTON DC/281336ZOCT14//
+
+REF/B/LTR/DONCIO/28FEB11//
+
+REF/C/LTR/DONCIO/8FEB12//
+
+REF/D/DOC/SECNAVI 1543.2/30NOV12//
+
+REF/E/DOC/SECNAV M-5239.2/MAY2009//
+
+REF/F/DOC/DODD 8570.01/15AUG04//
+
+REF/G/DOC/DODI 8500.01/14MAR14//
+
+NARR/Reference (a) is NAVADMIN 250/14, Navy Cybersecurity Workforce 
+Credentials.  Reference (b) is Department of the Navy Chief Information 
+Officer (DON CIO) memo, Guidance for Civilian Cybersecurity/Information 
+Assurance (IA) Workforce Commercial Certification Compliance Process.  
+Reference (c) is DON CIO memo, Guidance for Cybersecurity Workforce Operating 
+System (OS)/Computing Environment Certification Compliance Process.  Refence 
+(d) is SECNAVINST 1543.2, Cyberspace/Information Technology (IT) Workforce 
+Continuous Learning.  Reference (e) is SECNAV-M 5239.2, IA Workforce 
+Management Manual.  Reference (f) is Department of Defense (DoD) Directive 
+8570.01, IA Training, Certification, and Workforce Management.  Reference (g) 
+is DOD Instruction 8500.01, Cybersecurity.
+
+RMKS/1.  This NAVADMIN supersedes reference (a).  Deadlines from reference 
+(a) are henceforth based on fiscal year vice calendar year to better align 
+mission and resource requirements throughout the Navy.  As a result, the 31 
+March 2015 deadline from reference (a) is extended.  Commanders and Command 
+Information Officers are directed to comply with references (d) and (e) for 
+remediation of the stated workforce deficiencies no later than 30 September 
+2015.
+
+2.  In accordance with references (b) through (d), all Navy Cybersecurity 
+Workforce (CSWF) personnel (active duty, reserve, civilian, and contractor) 
+are required to hold valid cybersecurity baseline credentials and complete 40 
+hours of continuing education units (CEUs) each year.  Failure to complete 
+this annual requirement and maintain the appropriate credential for a 
+cybersecurity position places the employee at risk for removal from the CSWF 
+position requiring credentials.  Expired commercial certifications are a 
+demonstration of non-compliance with prescribed DoD and Secretary of the Navy 
+policies in references (b) through (g).
+
+3.  Scope and Applicability.  This NAVADMIN applies to all designated Navy 
+CSWF personnel assigned to CSWF positions for six months or more.  In 
+accordance with references (d) and (e), personnel may complete a combination 
+of position relevant training, education, experiential learning, and 
+commercial certification activities to fulfill the 40-hour annual CEU 
+requirement.  Department of the Navy Chief Information Officer conferences, 
+and courses via Federal Virtual Training Environment, Skillport, and Navy 
+Knowledge Online are examples of activities that may qualify for continuing 
+education units.  To assist personnel with maintaining valid commercial 
+certifications, CSWF personnel may continue to request vouchers from Navy 
+Credentialing Opportunities On-line (COOL) to fund the annual continuing 
+education and/or maintenance fees.  Navy COOL will not pay for any 
+recertifying activities for an expired certification.  Further information is 
+available at the Navy COOL website https://www.cool.navy.mil//.
+
+4.  CSWF personnel who fail to complete the aforementioned requirements are 
+not qualified to serve in CSWF positions, negatively impact Command 
+readiness, and weaken the Navy*s overall cybersecurity posture.
+
+5.  Points of contact are as follows:  Policy - Ms. Brooke Zimmerman at (571) 
+256-8521 or brooke.zimmerman(at)navy.mil; Navy Cybersecurity Workforce 
+Program Management (CSWF-PM) Office - Mr. Mike Knight at (757) 203-3135 or 
+henry.knight(at)navy.mil; Navy Cool - Mr. Keith Boring at (850) 452-6683 or 
+keith.boring(at)navy.mil.//
+
+6.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+7.  Released by VADM Ted N. Branch, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

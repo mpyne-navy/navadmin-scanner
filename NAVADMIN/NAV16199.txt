@@ -1,0 +1,138 @@
+UNCLASSIFIED
+ROUTINE
+R 091932Z SEP 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO USCYBERCOM FT GEORGE G MEADE MD
+COMFLTCYBERCOM FT GEORGE G MEADE MD
+DIRNSA FT GEORGE G MEADE MD
+BT
+UNCLAS
+
+NAVADMIN 199/16
+
+SUBJ/CALL FOR APPLICANTS FOR THE COMPUTER NETWORK OPERATIONS DEVELOPMENT 
+PROGRAM (CNODP) CLASS OF 2020//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/SEP//
+REF/A/DOC/NSA/AUG/NOTAL//
+AMPN/REF A IS NATIONAL SECURITY AGENCY (NSA) CALL FOR CNODP
+APPLICANTS
+FOR THE CLASS OF 2020.//
+POC/LT NATHANIEL NEWSOM/FCC-C10F/TEL:  (443) 634-4567,
+EMAIL:  USFF_FCC_C10F_NSAH_CNODP(AT)NAVY.MIL//
+
+RMKS/1.  This is an annual call for the Computer Network Operations 
+Development Program (CNODP), class of 2020. The CNODP is comprised of the 
+System and Network Interdisciplinary Program (SNIP), the Global Network 
+Exploitation and Vulnerability Analyst (GNEVA) Development Program (GDP), and 
+the Joint Cyber Development Program (JCDP).  This is an opportunity for a 
+select group of highly, technically inclined individuals to further develop 
+their skills in the areas of secure system design, vulnerability analysis, 
+Computer Network Defense (CND), and Computer Network Exploitation (CNE).  The 
+goal of the program is to develop a cadre of technical leaders who will 
+improve Department of Defense (DoD) and service Computer Network Operations 
+(CNO) capabilities.  The program is a technically demanding, three-year 
+internship, tailored to each applicant to best capitalize on individual 
+expertise.  The SNIP, GDP, and JCDP executives expect the next class to start 
+on 10 July 2017, with a report not later than (NLT) date of 24 April 2017 to 
+allow sufficient time for in-processing, orientation, and security clearance 
+processing.
+
+2.  Ideal CNODP candidates will have many of the following qualifications:
+   a.  Bachelor's degree plus advanced courses or equivalent experience in 
+the areas of computer engineering, computer science, electronic and 
+electrical engineering, or applied mathematics.
+   b.  Exceptional academic performance and professional accomplishments, as 
+well as a demonstrated interest in and ability to perform technically 
+oriented, hands-on oriented work.
+   c.  Well-developed oral and written communications skills.
+   d.  Working knowledge in one or more telecommunications or computer 
+network disciplines (computer hardware, software, or networks).
+   e.  Well-qualified officers (O1-O3), enlisted (E4-E6), and Service 
+Cryptologic Element (SCE) civilians (GG-7-GG-12). Previous assignments should 
+include experience in CNO, SIGINT collection operations, information security 
+(INFOSEC)/information assurance (IA), and/or research and development (R&D).
+   f.  Demonstrated programming skills in C or C++.
+   g.  Selected applicants must possess a TS/SCI security clearance and 
+current, counter-intelligence (CI) polygraph before the class start date of 
+10 July 2017.
+
+3.  Caveats:
+   a.  A three (3) years commitment will be required upon graduation to 
+fulfill the CNO follow-on tour requirement.
+   b.  All applicants shall interface with their respective detailer, prior 
+to applying for this program.  Reservists and civilians must discuss 
+feasibility of a six (6) year commitment with their respective commands.
+   c.  Civilian applicants must have concurrence from their respective 
+command and all PCS and associated costs are the responsibility of each 
+command.
+   d.  All applicants must have the ability to continue service for six (6) 
+years from programs start date (e.g., high year tenure (HYT) or failure of 
+selection (FOS) will cause the Sailor to not be considered).
+
+4.  Please ensure widest dissemination to include, cryptologic, intelligence, 
+communications and computer science, scientific, engineering, acquisition, 
+and operations fields.
+
+5.  Each service is limited to a maximum of 20 applicants to allow for 
+participants from other DoD agencies.
+
+6.  Selection will be based on a thorough review of each application package 
+and an interview of the top applicants by the NSA selection board.  The 
+application package shall include the following:
+   a.  Documentation that demonstrates service performance and technical 
+competency.
+     (1) Officers: Transcripts, ODC, OSR, complete PSR, and an optional 
+subset of your fitness reports.
+     (2) Enlisted: Transcripts, complete PSR, and evaluations detailing 
+technical competency.
+     (3) Civilians: Transcripts and any performance assessments detailing 
+technical competency.
+   b.  Letter of recommendation from the applicant's Commanding Officer.
+   c.  Letter of recommendation from the applicant's supervisor attesting to 
+his/her technical skills and abilities.
+   d.  An optional letter of recommendation at the applicant's discretion.
+   e.  A letter from the applicant (two pages or less) answering the 
+following:
+     (1) Why do you think that CNODP is the right choice for you? What goals 
+do you wish to accomplish in CNODP?
+     (2) Detail your experience with programming/software engineering, to 
+include programming language(s) (degree of familiarity, breadth of 
+knowledge/duration of use, and when last it was used).  Remember to include 
+experience with assembly, scripting (as well high-level languages).
+      (3) Other than programming language expertise listed above, how does 
+your experience and training relate to the core fields (hardware, software, 
+and networks)?
+     (4) Teaming:  Describe teaming experiences where you were a member and 
+another where you were a leader.  Describe your role on the team and how you 
+contributed. You may include experiences from work or from school.  In your 
+answer, describe what aspects you liked and disliked.  If you have had any 
+teaming experiences that did not go perfectly, please describe what problems 
+were encountered and what measures were taken (e.g., a team member not 
+understanding their part or not pulling their weight, conflict within the 
+team, etc.). Describe what role you had in any measures that may have been 
+taken.
+     (5) Give one example of a project where you worked by yourself; briefly 
+describe what you accomplished and how you approached the problem (use an 
+example that you feel shows your ability to adapt and problem solve).
+
+7.  Send applications to the U.S. Fleet Cyber Command/U.S. Tenth Fleet, Point 
+of Contact (POC):  LT Nathaniel Newsom at 
+usff_fcc_c10f_nsah_cnodp(at)navy.mil NLT 30 September 2016 for review
+and prioritization.  Nominating organizations are expected to pay travel/per 
+diem costs for necessary travel associated with interviews, which will occur 
+in the December 2016/January 2017 time frame (video conferencing will be used 
+wherever necessary).
+
+8.  Commands are strongly urged to consider nominating their best qualified 
+personnel for these worthwhile programs. This is an outstanding opportunity 
+to give future technical, Computer Network Operations leaders the skills to 
+help lead the Navy in this vital area.
+
+9.  Release authorized by Mr. Brian J. Persons, Vice Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

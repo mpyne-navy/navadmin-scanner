@@ -1,0 +1,63 @@
+RTTUZYUW RUEWMCS0000 2071730-UUUU--RUCRNAD.
+ZNR UUUUU
+R 261730Z JUL 13
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01524//
+
+NAVADMIN 184/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FY-13 ADVANCED EDUCATION VOUCHER SELECTION BOARD RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/091538ZAPR13//
+AMPN/REF A IS NAVADMIN 093/13 WHICH ANNOUNCED THE FY-13 ADVANCED 
+EDUCATION VOUCHER (AEV) PROGRAM.//
+RMKS/1.  This NAVADMIN announces the FY-13 Advanced Education Voucher 
+(AEV) Selection Board results.  Congratulations to the following
+chief, senior chief, and master chief petty officers on their 
+selection to participate in the FY-13 AEV Program.  Selectees are 
+authorized to begin work immediately on the degree programs specified 
+below:
+BS/BA AEV:
+Name (Last, First MI)    Rate     Degree Program
+Burkhalter, Jon Paul W   PSC      Sociology
+Hoppa, James P           GMC      Business Administration
+Lugavere, Brian K        ATC      Professional Aeronautics
+Mask, William S          NCC      Marketing
+Miller, Russell T        GMC      Pre-Law Studies
+Montealegre, Jonathan A  ITC      Homeland Security
+Smothers, Steven R       OSC      Business Administration
+Stiles, Leah E           MCC      Cultural Studies:  Media 
+                                  Communications
+Sulzer, James L          ADC      Criminal Justice Homeland Security
+Washington, Benjamin L   OSCS     Interdisciplinary Studies
+
+MS/MA AEV:
+Butorac, Richard B       HMCS     Health Care Administration
+Campbell, Jeffrey B      SOCM     International Public Policy
+Compton, Robert M        CSC      Management:  Supply Chain 
+                                  Management
+Crossland, Donald S      YNCS     Organizational Management
+Hentzen, Robert          EODCM    Leadership & Management
+Miller, Celina A         YNCS     Security Management
+Partridge, Brian E       CTTC     Homeland Security, Geospatial
+                                  Intelligence Option
+Ramos, John A            STGCS    Public Administration
+Sprabary, Clinton D      HMC      Public Health
+Steele, Jeffrey D        YNCS     Organizational Leadership
+
+2.  Amplifying information will be provided to selectees by separate 
+correspondence.
+
+3.  Point of contact is ETCS(SW/AW) Jason Szot, NETC N521, at 
+(850) 452-7268/DSN 459, or via e-mail at jason.szot@navy.mil.
+
+4.  Released by VADM S. R. Van Buskirk, N1.//
+BT
+#0000
+NNNN
+

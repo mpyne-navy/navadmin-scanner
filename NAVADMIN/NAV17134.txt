@@ -1,0 +1,221 @@
+UNCLASSIFIED
+ROUTINE
+R 121452Z JUN 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO SECNAV WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 134/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUN//
+
+SUBJ/VALOR AWARDS AND TIMELY RECOGNITION OF ACTS OF VALOR//
+
+REF/A/DOC/SECDEF/21DEC2016//
+REF/B/DOC/SECNAV/20APR2017/NOTAL//
+REF/C/DOC/SECNAV/22AUG2006//
+NARR/REF A IS DODI 1348.33-V3, MANUAL OF MILITARY DECORATIONS AND AWARDS: 
+DOD-WIDE PERSONAL PERFORMANCE AND VALOR DECORATIONS.
+REF B IS SECNAV MEMO DIRECTING IMPLEMENTATION OF THE DON PLAN TO EXPEDITE 
+PROCESSING OF VALOR AWARD SUBMISSIONS.  
+REF C IS SECNAVINST 1650.1H NAVY AND MARINE CORPS AWARDS MANUAL.//
+
+RMKS/1.  This message announces new administrative requirements for 
+originating, documenting, and processing unclassified valor award submissions 
+of the Navy Cross and below to facilitate timely recognition of deserving 
+U.S. Navy and U.S. Marine Corps personnel assigned to Navy units.
+
+2.  Commands submitting classified award nominations should contact the Navy 
+Department Board of Decorations and Medals at SECNAV_awards(AT)navy.mil or 
+202-685-6378 for detailed procedures.
+
+3.  Effective immediately, per references (a) and (b), valor award 
+recommendations must be initiated as soon as practicable and originated and 
+entered into official channels within 45 days of the valorous act that 
+justifies the award.  Endorsement review processing must be completed within 
+ten (10) days of receipt by each echelon. It is incumbent upon the Originator 
+to adhere to the guidance for valor award nominations in references (a) 
+through (c).
+
+4.  Valor Awards and the "V" Device.
+    a.  Effective January 7, 2017 the "V" Device is only authorized for 
+decorations awarded in recognition of singular acts of valor.  The "V" Device 
+is no longer authorized for awards recognizing periods of meritorious 
+performance under combat conditions or meritorious performance while directly 
+participating in combat operations.
+    b.  The "V" Device is only authorized on the following Department of the 
+Navy multi-purpose decorations when used to recognize valor:
+        (1) Distinguished Flying Cross (DV)
+        (2) Bronze Star Medal (BV)
+        (3) Air Medal (Individual Action) (AH)
+        (4) Navy and Marine Corps Commendation Medal (CV)
+    c.  The "V" Device is no longer authorized on the Legion of Merit or the 
+Navy and Marine Corps Achievement Medal, as these two medals are not awarded 
+for valor.
+    d.  The "V" Device is not authorized on the Medal of Honor (MH), Navy 
+Cross (NX), or Silver Star Medal (SS).  These medals are only awarded in 
+recognition of singular acts of valor; therefore use of the "V" Device would 
+be redundant.
+    e.  The "V" Device is no longer authorized as a Combat Distinguishing 
+Device to recognize a member?s tour of duty or deployment.  The term Combat 
+Distinguishing Device will no longer be used in association with the "V" 
+Device.
+    f.  See paragraph 10.b. for Awarding Authorities.
+
+5.  Valor Awards during Periods of Meritorious Service.  Originating a 
+separate award for a singular act of valor within a longer period of 
+meritorious service is appropriate and should never be considered 
+duplication, provided the Summary of Action and citation for the meritorious 
+service award do not cite any of the actions recognized by the valor award.  
+The valor award submission shall follow the timeline discussed in this 
+NAVADMIN regardless of the expected duration of the meritorious service 
+period.
+
+6.  Premature Disclosure and Secure Handling.  Premature public disclosure of 
+information concerning award recommendations during their processing, 
+including intermediate approval and/or disapproval recommendations, is a 
+potential source of embarrassment and disappointment to both those 
+recommended and the Department of the Navy.  Additionally, elements of the 
+OPNAV Form 1650 contain Personally Identifiable Information (PII).  
+Therefore, personnel involved in the submission and processing of awards 
+shall not comment on any case under consideration, and all unclassified award 
+recommendations shall be handled on a "FOR OFFICIAL USE ONLY (FOUO)" basis 
+including the use of encrypted email transfer until the awards are officially 
+announced or actually presented.  Originated high-level valor awards, such as 
+a proposed Navy Cross package, may receive Medal of Honor endorsements during 
+the endorsement process.  In view of the additional sensitivity regarding 
+Medal of Honor cases, exceptional care shall be exercised to avoid disclosure 
+of any information, including but not limited to, the fact that an individual 
+has been recommended for the award.
+
+7.  Valor Award Endorsements and Approvals.  Valor awards will be endorsed 
+and approved following the U.S. Navy operational chain of command.  U.S. Navy 
+echelon II operational commanders will submit valor award packages to Chief 
+of Naval Operations (CNO Awards Branch (DNS-35)) for further adjudication as 
+required.
+    a.  Valor Award Packages, regardless of the number of included awards, 
+must be treated as a single package and processed at the highest award level, 
+originated or endorsed, regardless of downgrade endorsements, within the 
+package.  The entire package must be finally adjudicated by the Award 
+Approval Authority for the highest proposed award in the package. Lower 
+echelon commanders, including the originating commander, are not authorized 
+to approve lesser awards, even if non-valor, within a valor award package.
+    b.  It is the responsibility of each originating and endorsing echelon to 
+positively confirm that each other echelon and the originator has received 
+and is aware of the submitted valor package and endorsements as the package 
+moves through the endorsement and approval process.
+
+8.  Requirements for the Originator initiating a valor award recommendation:
+    a.  Upon notification of a valorous act, valor award recommendations must 
+be initiated as soon as practicable and originated by the first O5 or higher 
+commander in the chain of command and entered into official channels within 
+45 days of notification of the valorous act.  During this 45 day period the 
+originating command shall:
+        (1) Identify all individuals that are being nominated for any award 
+(valor or non-valor) for the same incident or action.  All nominations for 
+the same incident or action must be forwarded together as a single valor 
+award package for adjudication by the awarding authority as determined by the 
+highest award in the package.  Refer to paragraph 7.a.
+        (2) Ensure that the required details outlined in the 22 point 
+Standard Valor Award Key Information (reference (b)) are identified in the 
+Summary of Action of each submitted valor award.  Each award, valor or non-
+valor, within a valor award package must also contain the applicable 22 point 
+Standard Valor Award Key Information.
+    b.  When the package(s) have been created and the OPNAV Form 1650 is 
+signed and ready for submission, the originator shall:
+        (1) Upload the pending OPNAV Form 1650 to the Navy Department Awards 
+Web Service (NDAWS) database as a Microsoft Word 97-2003 Document (*.doc) 
+before submitting nomination through official channels.
+        (2) Immediately and simultaneously submit the recommendation(s) via 
+FOUO / encrypted email to the official with authority to approve the highest 
+originated award (Approval Authority) and to the commanders in each echelon 
+of the U.S. Navy operational chain of command who must endorse each 
+recommendation.  This will enable all echelon commanders within the approval 
+process the awareness of, and the ability to monitor the progress of the 
+valor award package(s).
+            (a) The submitted recommended award(s) must include the signed 
+and dated OPNAV Form 1650(s), the Summary of Action(s) prepared using the 
+Standard Valor Award Key Information, proposed citation(s) and all supporting 
+documentation as a single document in PDF format and the proposed citation(s) 
+in word format.
+            (b) Recommendations being submitted to SECNAV or CNO for 
+endorsement/approval will be submitted to the CNO Awards Branch (DNS-35) via 
+FOUO/encrypted email account cno_awards.fct(AT)navy.mil. CNO Awards Branch 
+will ensure SECNAV Awards receives copies of unclassified valor award 
+submissions.
+    c.  After package(s) have been submitted, originating commands shall:
+        (1) Monitor progress of the packages throughout the 
+endorsement/approval process.
+        (2) Respond to any questions from endorsing commands or the Awarding 
+Authority relating to the submitted package(s).
+
+9.  The endorsement process remains sequential.  Endorsing Echelon Commanders 
+shall:
+    a.  In order by echelon, provide an endorsement on the originally signed 
+OPNAV Form 1650(s) within ten (10) days of receipt from the subordinate 
+echelon.
+        (1) The advance notification process directed in paragraph
+
+8.b.(2) should give most echelons additional time to prepare for their 
+endorsement.
+        (2) Once signed and dated, each commander will forward only the front 
+of the OPNAV Form 1650(s) from the Valor Package to next endorsing echelon 
+via FOUO / encrypted email signifying the nomination is ready for their 
+action.  All other valor award package elements should have arrived via the 
+notification process directed in paragraph 8.b.(2).
+        (3) If the endorser recommends a higher award (upgrade) than the 
+award previously recommended in the package, verify that the documented 
+Approval Authority is authorized to approve the recommended upgrade.  If not, 
+immediately notify the new and former Approval Authorities, provide the new 
+(higher) Approval Authority the original valor award package received in 
+paragraph 8.b.(2), and provide the current endorsement.  Positively confirm 
+that the new Approval Authority has received and is aware of the submitted 
+valor package. The new Approval Authority now has authority over the valor 
+award package.
+        (4) If the Endorser recommends a lower award (downgrade) than the 
+award previously recommended in the package, do not change / lower the 
+Approval Authority.
+        (5) A courtesy copy of the signed OPNAV Form 1650 will be forwarded 
+to all other endorsing echelons and the originating command.
+        (6) Each endorsing echelon will update the endorsement field in NDAWS 
+with the required information.
+     b.  The primary goal of this procedure is to provide the nomination to 
+the next endorsing echelon for timely action while keeping all levels of the 
+chain of command informed of the progress.
+     c.  Any echelon that has a question regarding the original submission 
+will communicate directly with the Originator.
+
+10.  Awarding Authorities.
+     a.  IAW reference (c), Awarding Authorities may take one of the 
+following actions:
+         (1) Approve the award.
+         (2) Approve a lower award (downgrade).
+         (3) Disapprove the award.
+         (4) Approve a higher award (upgrade), if so empowered, or recommend 
+a higher award to the appropriate awarding authority.
+         (5) Return the recommendation for further clarification or 
+justification.
+     b.  The "V" Device awarding authority must be specifically delegated by 
+SECNAV or CNO.  Commanding Officers with Air Medal (Individual Action) and/or 
+Navy and Marine Corps Commendation Medal authority may not award these medals 
+with the "V" Device unless this authority has been specifically delegated to 
+them.
+
+11.  Commands that do not have access to NDAWS should submit a Standard 
+Authorization Access Request (SAAR) Form to CNO (DNS-35) at 
+cno_awards.fct(AT)navy.mil.
+
+12.  Except as modified by reference (b) and above guidance, all other 
+provisions of reference (c) remain in effect.
+
+13.  Reference (c) will be updated with the next release.  Visit the Navy 
+Awards Website https://awards.navy.mil for copies of reference (b).
+
+14.  Released by Vice Admiral J. G. Foggo, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

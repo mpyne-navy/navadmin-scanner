@@ -1,0 +1,131 @@
+UNCLASSIFIED
+ROUTINE
+R 271646Z JUL 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 168/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/JUL/
+
+SUBJ/ FY16 PROJECTED SHIP INACTIVATION SCHEDULE AND UPDATE REMAINING FY15 
+SHIP INACTIVATION SCHEDULE//
+
+REF/A/RMG/CNO WASHINGTON DC/N9/011719ZJUL14//
+REF/B/DOC/OPNAVINST 4770.5H/24APR14//
+REF/C/DOC/SECNAVINST 4900.50A/4OCT11//
+REF/D/DOC/OPNAVINST 5400.44A/13OCT11//
+REF/E/DOC/OPNAVINST 5441.1/14SEP11//
+REF/F/RMG/COMNAVSURFLANT NORFOLK VA/142153ZAPR15/NOTAL//
+REF/G/RMG/COMPACFLT PEARL HARBOR HI/210130ZAPR15/NOTAL//
+NARR/ Ref (a) is CNO NAVADMIN 152/14 announcing the FY15 Projected Ship 
+Inactivation Schedule.  Ref (b) is OPNAV policy and guidance for the 
+inactivation, retirement, and disposition of U.S. naval vessels.  Ref (c) is 
+SECNAV policy for the transfer of U.S. naval vessels to foreign governments 
+and international organizations.  Ref (d) is OPNAV policy for submitting 
+organizational change requests.   Ref (e) is OPNAV policy for reporting 
+changes in status for U.S. naval vessels to the Naval Vessel Register.  Ref 
+(f) is COMNAVSURFLANT guidance modifying key disposition dates ICO USS 
+SIMPSON pursuant to recent operational commitments.  Ref (g) is COMPACFLT 
+guidance on USNS RAINIER (T-AOE 7).//
+POC/C. GAVINO/CDR/N9ISC1/LOC: Washington DC/TEL: 703-693-9363/ DSN 224-225-
+9363/EMAIL: christopher.gavino@navy.mil//
+
+RMKS/1.  This message shall be read in its entirety to ensure stakeholders in 
+the ship inactivation process are aware of the projected retirement schedule 
+for the upcoming fiscal year, respective responsibilities and necessary 
+follow-up actions.  Ship retirement decisions reflected in paragraph 2 below 
+align with the Presidents Budget for 2016 or subsequent execution year 
+decisions made by leadership.  Equipment removals from ships designated for 
+foreign military transfer are addressed in paragraph 5 below.
+
+2.  The projected FY16 ship inactivation schedule for inactivating U.S. 
+battle force and non-battle force naval vessels is promulgated as follows to 
+facilitate fleet planning efforts to conduct decommissioning continuous 
+maintenance availability (CMAV) or inactivation availability (INAC):
+
+Ship Name			  Projected Inactivation Date 	Post Inactivation 
+Status
+USS ALBUQUERQUE		   	03 Nov 2015		Dismantlement
+USS CITY OF CORPUS CHRISTI	   	29 Mar 2016		Dismantlement
+USS HOUSTON			   	29 Mar 2016		Dismantlement
+USNS RAINIER				30 Sep 2016		Out of Service, In 
+Reserve
+
+3.  Ref (a) is amended to include the following change in inactivation dates 
+for FY15:
+Ship Name			 Projected Inactivation Date 	Post Inactivation 
+Status
+	USS SIMPSON			   	30 Sep 2015		Foreign Military Sale 
+(FMS)
+
+4.   For the purposes of this NAVADMIN, inactivation dates projected in 
+paragraphs 2 and 3 above refer to the start of a INAC for nuclear vessels, 
+the date of decommissioning for non-nuclear commissioned vessels, and the out 
+of service date for non-commissioned vessels.  Decommissioning of nuclear 
+vessels will occur at a later date and be reported to CNO IAW ref (b).
+
+5.  Inactivating ships designated for FMS transfer are not to be stripped of 
+installed equipment unless specifically authorized by OPNAV N9I.  Stripping 
+of ships provides diminished operational capability to the Navys maritime 
+partners and erodes Navys efforts to build maritime partner capacity.   Ref 
+(b), Chapter 6 provides specific guidance related to the removal of installed 
+equipment from ships designated for FMS.  All requests for equipment removal 
+from a ship designated for FMS transfer will be submitted IAW ref (b) 
+guidance.  Prior to the ships retirement,  it is the responsibility of 
+COMNAVSEASYSCOM (PMS 326) to coordinate with the ships TYCOM and/or Type 
+Desks on identifying non-transferable technology (to include combat systems) 
+required to be removed from FMS designated ships.  COMNAVSEASYSCOM in 
+coordination with COMSPAWARSYSCOM or COMNAVAIRSYSCOM , as appropriate, will 
+also address the viability of sanitizing on-board classified systems to an 
+acceptable level if the equipment is designated to be retained aboard and 
+transferred with the vessel.    IAW ref (b), the TYCOM will address questions 
+related to standard equipment removals while the ship is in stand down.   Ref 
+(c) provides additional guidance for the removal and retention of equipment 
+and supplies from ships designated for FMS.
+
+6.  Per refs (b) and (d), Fleet Commanders shall submit an Organizational 
+Change Request (OCR) to formally notify the Director, Navy Staff of a ships 
+decommissioning effective date.     A revised OCR shall be submitted to 
+adjust the effective date (by 60 days or more) due to operational schedule 
+changes.   It is the responsibility of Commander, U.S. Fleet Forces Command 
+(USFFC) and Commander, U.S. Pacific Fleet (CPF) in coordination with their 
+respective TYCOM to ensure the appropriate lower echelon commands are 
+notified of any changes in the ship inactivation schedules.
+
+7.  OCRs shall not be used when reporting the retirement of MSC ships.  MSC 
+in coordination with Fleet Commanders and OPNAV resource sponsors, shall 
+submit a naval message to CNO announcing the ships projected inactivation 
+date, justification for the action and a planned disposition.  MSC will 
+coordinate directly with COMNAVSEASYSCOM (SEA 21I) on the ships inactivation 
+plan.  SEA 21I will provide additional guidance to MSC on preparing the ship 
+for inactivation and subsequent lay-up.
+
+8.  Adjustments to a battle force ships inactivation, decommissioning or 
+service completion date that crosses the current fiscal year must be 
+coordinated with OPNAV N9I due to reporting requirements that Navy must 
+inform Congress on execution year force structure changes that differ from 
+what Congress authorized/appropriated and signed into law by the President.  
+OPNAV shall promulgate changes to the inactivation fiscal year as required.
+
+9.  Ship commanding officers, masters, and officers in charge for all ships, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning or out-of-service ceremony) announcing  the ships 
+official retirement date and include a brief history of the significant 
+events in the life of the ship per ref (b).  The Naval History and Heritage 
+Command (NAVHISTHERITAGE WASHINGTON DC) and Naval Vessel Register Custodian 
+(NVR NORFOLK VA) shall be included as INFO addees.
+
+10.  Released by VADM J. P. Aucoin, Deputy Chief of Naval Operations, Warfare 
+Systems (N9).//
+
+#168/15
+NNN
+UNCLASSIFIED//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

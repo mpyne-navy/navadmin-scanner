@@ -1,0 +1,1350 @@
+RTTUZYUW RUEWMCS0000 2141859-UUUU--RUCRNAD
+ZNR UUUUU
+R 011859Z AUG 08
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+UNCLAS //N01421//
+BT
+
+NAVADMIN 213/08
+
+PART II OF II
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/FY-09 ACTIVE-DUTY E7 SELECTION BOARD RESULTS// 
+    
+            EOC   - CHIEF EQUIPMENT OPERATOR
+     ALLEN THOMAS      014           BRADFORD ROBE     002 
+     CAMERON CORY      012           CHAFFEE RONAL     006 
+     CHANDLER JACK     021           CRAIG WILLIAM     017 
+     DAVIS TOBY AN     016           DOBBS WILLIAM     007 
+     DOOLEY MATTHE     019           FARBER SHANNO     008 
+     FRAZIER STEPH     015           GREER JERRY D     003 
+     JEFFERSON JES     010           MARTIN DAVID      004 
+     NICHOLSON TRE     018           REMM KATHRYN      005 
+     TRUJILLO JERE     011           TRUJILLO JOHN     009 
+     VALDEZ VICTOR     001           WILLIAMS CHER     013 
+     WORLEY DALE B     020
+            EODC  - CHIEF EXPLOSIVE ORDNANCE DISPOSAL TECHNICIAN
+     ANDERSON RYAN     018           BELL AARON DA     059 
+     BERLIEN JUSTI     039           BIGGS BRETT E     041 
+     BIGGS JOHN FR     036           BRAVO ANTHONY     052 
+     BRITTAIN MARK     060           BRIXEY JONAH      035 
+     BRODERICK PAT     034           BROWN JAMES D     046 
+     BROWN SHANNON     049           CARPENTER JEF     023 
+     CASSIDY RACHE     047           CELINSKI TROY     009 
+     DAVIS MATTHEW     022           DIAL MICHAEL      025 
+     ENGLERT MICHA     011           FELLMAN STEVE     038 
+     FISH ROYAL MA     063           FORBES SHAWN      040 
+     FOX MICHAEL A     050           FRANKE BRIAN      019 
+     GOY MATTHEW J     031           GRECO JON RIC     056 
+     GREENE MICHAE     058           GRUPE JOSEPH      048 
+     HIGHT DOUGLAS     064           HUBER SEAN MI     010 
+     JONES JAMES D     057           KASSOW RAYMON     012 
+     KUSH NICHOLAS     007           LAQUE FRANK W     055 
+     LAZAROV MARK      014           LETTIERE VINC     042 
+     MARLEY BERT A     032           MARTIN DANIEL     030 
+     MATNEY THOMAS     043           MCCALICHER RO     027 
+     MCCORMACK JAS     028           MCELMOYL WAYN     045 
+     MEJIA MARK EM     033           MITCHELL MICH     051 
+     NEAL ERIC WIL     062           NEAL TOD VALE     006 
+     PFEIFFER JOHN     008           PRESSON JOEL      016 
+     RIVERACORTES      017           SCHELLPEPER T     001 
+     SHEPHERD CHRI     053           SIMPSON KENNE     020 
+     SMITH BENJAMI     003           THEIS ERIC JO     004 
+     THOMPSON JAYS     015           TROST DONOVAN     044 
+     TURKENKOPF MI     026           UMAYAM BENJAM     029 
+     VIRGILIO KENN     005           WAGNER ROBERT     013 
+     WALLS WADE EV     037           WEISSMAN AARO     002 
+     WHITTEKER WES     054           WIKTOROWSKI J     024 
+     WOLD TROY ALE     021           YOHNKE CHARLE     061 
+           ETC   - CHIEF ELECTRONICS TECHNICIAN
+     ABEYTA ROBERT     010           ALLBRITTEN JA     058 
+     ANDERSON CLYD     055           ARMSTRONG RIC     048 
+     ARMSTRONG SCO     047           BIEDER DEREK      054 
+     BROWN ANTHONY     053           BRUSO JEREMY      039 
+     BUSH JERAMY S     029           CATON NATHANI     020 
+     CORPUS JEFFRE     028           COX STEVEN ED     006 
+     CRUZ JORGE AL     056           CZEISZPERGER      046 
+     DAVIS STEPHEN     004           DAWSON CLINT      033 
+     DAY JASON MAT     009           DENNING WARRE     003 
+     DUDEK JOHN ST     061           DUNCAN THOM       017 
+     DYAS DAMON MI     037           EHRHARDT MITC     038 
+     ELIZONDO VALE     019           FLORES CARLOS     023 
+     FORWARD DOUGL     060           GARCIA ANTONI     022 
+     GARCIA CARLOS     007           GARDNER VINCE     059 
+     HATHCOCK THOM     008           HOGAN JEFFREY     040 
+     HOYT DARIN JO     026           HUFFMAN GREGO     001 
+     LEAVEAU GLEN      025           LEWIS SEAN CO     015 
+     MANDEZ PEDRO      051           MARTIN BRENT      050 
+     MAST JAN MICH     032           MCCARTHY JOSE     013 
+     MOORE DERRICK     035           MULLINS HOLLY     043 
+     ORTIZ WILLIAM     027           PAYNE JAMES A     021 
+     PIMENTELDUBOC     012           QUARESMA ERNI     057 
+     RABE ERIK FRE     049           RAMSHUR NICHO     041 
+     REYNOLDS MICH     031           ROCHA NATHANI     030 
+     RYDER JAMES G     036           SHANNON MARTI     042 
+     STANFORD SHAN     014           STONEBURNER D     045 
+     TRAINOR DANIE     024           TYLER FREDERI     018 
+     VANHATTEM DAV     044           VIGLIONE PAUL     011 
+     VIGO ABRAHAM      005           WILSON LOUIS      034 
+     WORTHING BRIA     016           WYATT SHANNON     002 
+     YENCO BRADFOR     052
+            ETNC  - CHIEF ELECTRONICS TECHNICIAN NUCLEAR           
+                    (SUBMARINE)                                    
+     AUDRAIN KEVIN     022           BEAN JOSHUA J     027 
+     BROOKS JOHN F     010           BRUCE STEVEN      011 
+     BRUGEMAN JOSE     030           CABANA MATTHE     034 
+     CEFARATTI ANT     025           CLARK CARL JO     040 
+     DAVIS EVAN RI     019           DELL DAVID BU     016 
+     DYER STEPHEN      031           EDWARDS EMMET     005 
+     ENGLISH JOHN      013           FOSTER ADAM M     037 
+     GALLEGOS ZACH     032           GILDEHAUS GRA     021 
+     HEBRARD CHARL     002           HEUGEL JON JA     015 
+     JACKSON BARRE     026           JAVES DARREN      029 
+     KUCHES CHRIST     009           LEE JONATHAN      042 
+     MAYO ETHAN PA     035           MCGRADY BRIAN     028 
+     MCPHERSONWARD     014           MERKEL ADAM M     017 
+     NEVITT ROBERT     020           OLSON ERIC RO     038 
+     OMARY JERIMY      012           POLIFKA BRIAN     003 
+     RODEN CHAD AD     001           RYMAN JUSTIN      036 
+     SAWYERS MATTH     008           SCHRADER BRAD     033 
+     SHAW TIMOTHY      006           SMITH RAYMOND     041 
+     STIMMEL RONAL     024           THOMAS WILLIA     039 
+     TYSON TERRANC     018           VARNER TROY A     004 
+     WELANDER THOR     023           WREDE LEO ALB     007 
+            ETNC  - CHIEF ELECTRONICS TECHNICIAN NUCLEAR (SURFACE)
+     BENNETT JASON     003           BURTON ANTHON     007 
+     CULLUM STEVEN     005           FIEDLER STEVE     008 
+     GORMAN BRIAN      006           LEDDA JEREMIA     002 
+     LEWIS KENNETH     001           PARSONS CHRIS     004 
+            ETRC  - CHIEF ELECTRONICS TECHNICIAN SUBMARINE         
+                    (COMMUNICATIONS)                               
+     ALEXANDER CHR     029           BIRKHOLZ ADAM     030 
+     BRUNER DUSTIN     025           BRYAN FREDERI     027 
+     CROUGHWELL DA     006           EDWARDS STEPH     015 
+     EMMONS AARON      002           FORT NICHOLAS     009 
+     GATCH JUDSON      018           GIBBONS DANIE     010 
+     GODWIN CHRIST     034           HEAD DOUGLAS      038 
+     JOHNSON BENJA     035           KAUFMAN DAXX      008 
+     KEEDY STEVEN      017           KNIGHTS NICHO     019 
+     LALUMANDIER M     024           LUNDY JOSHUA      039 
+     MAUPIN TRAVIS     033           MONAGAN JERRA     014 
+     MORALES VINCE     037           MULLEN NICHOL     032 
+     ORTIZ AMILKAR     021           PEDERSON GREG     023 
+     PLASENCIA ART     028           PRICE JASON M     036 
+     RAPER TERRY E     004           REYNOLDS SCOT     020 
+     RODRIGUEZ ARM     026           SCOTT ANDREW      011 
+     SMITH RICK        001           SULLIVAN BARR     012 
+     SWIGERT RONAL     003           TAYLOR PATRIC     013 
+     THOMAS JOSH R     022           WATSON MICHAE     007 
+     WOODS TERRY W     031           WRITESEL RONA     005 
+     ZAKRZEWSKI RA     016
+            ETVC  - CHIEF ELECTRONICS TECHNICIAN SUBMARINE         
+                    (NAVIGATION)                                   
+     AUSTIN JOSHUA     026           BALDWIN TIMOT     031 
+     BARRETT BRIAN     052           BESSEE SEAN M     015 
+     BRUA GILBERT      049           BUGG DEREK WI     036 
+     BURCH SHERMAN     010           BYARS JOSHUA      039 
+     CADDELL JAMES     038           CAIN TIMOTHY      007 
+     COLLOM PAUL T     005           CORZO PATRICK     033 
+     DAWSON KEVIN      004           DUET DULESS A     002 
+     ECLAR CHRISTO     054           ERIKSON THOMA     035 
+     FELPS ROBERT      056           FISH JOHN ELG     018 
+     FISHER TIMOTH     003           GERMAN RUBEN      023 
+     GOMEZ RAFAEL      027           GREEN NICHOLA     045 
+     HALL MATTHEW      024           HALL RONNIE E     055 
+     HARDY CHARLES     017           HARVEY ADAM J     021 
+     HELMAN TODD A     008           JULIUS TODD E     012 
+     KENNEDY JAMES     022           KOTZ KURT JAM     048 
+     KOWAL MICHAEL     030           LITTLE MATTHE     042 
+     LIZARAZO CARL     014           LUCAS CHRISTO     043 
+     LUGO TIMOTHY      025           MANFREDI CHRI     044 
+     MILES CALVIN      050           PANTOYA CHRIS     001 
+     PARKER SETH M     046           PEFLEY DUSTIN     047 
+     RAY CHRISTOPH     016           ROACH JASON G     041 
+     ROSE JAMES NO     037           SANFORD JAMES     019 
+     SANTIAGO JASO     029           SANTOS HARLEY     009 
+     SHELLEY STEVE     032           SHINN CHRISTO     011 
+     SUMMERS RICHA     013           TRANTHAM ROY      006 
+     UPTEGRAFF MIC     040           VANDENBRINK P     034 
+     VELGARA MANUE     020           WALDROUP GREG     053 
+     WILTSHIRE COL     028           WITHROW JOHN      051 
+     ZIEGLER BRAND     057
+            FCC   - CHIEF FIRE CONTROLMAN NON-AEGIS
+     ALBERT ANDREW     031           ALCANTAR ISAA     083 
+     AUFFENBERG JE     032           BABCOCK MARK      087 
+     BARNETT KEVIN     046           BEASLEY STEVE     075 
+     BONUZ DOMINGO     003           BRIDGES ERIC      073 
+     BURK JAMES GL     011           BURNS DEANDRE     059 
+     CAMPBELL BRAD     050           CARAWAY WILLI     078 
+     CARELLA JOSEP     015           CAST STEVEN T     062 
+     CORNETTE JERE     045           DAVIS CHRISTO     044 
+     DICKERT RUSSE     036           DUFFY ROBERT      025 
+     DUNCAN BRYAN      049           ELLIOTT GARY      061 
+     FINCH KEVIN W     027           FOSTER CURTIS     001 
+     GATEHOUSE ANT     039           GOETTLICH NAT     071 
+     HANSON RODGER     088           HAREMAKER ROD     017 
+     HARTWELL JOSE     040           HOOKS RONRICO     051 
+     HOUGH JAMIE J     057           HUMPHREY YOHA     010 
+     HUNT STEVEN B     029           HURON DARIO S     023 
+     JANTZEN BRIAN     007           JEFFERSON ERI     033 
+     JOHNSON EDWAR     080           JONES DAVID A     022 
+     KAZEE MATTHEW     038           KEENER RICHAR     020 
+     KONZ JEFFREY      006           KRAMER ERIC P     012 
+     LANDRY ADAM A     068           LILLEY KENNET     037 
+     LOMBARD CHRIS     070           MALONE GRADY      009 
+     MARTELL CARLO     054           MASCIOVECCHIO     048 
+     MATHEWS JOHN      047           MAULDIN JEFFR     021 
+     MCABEE KEVIN      064           MCCLINTIC CHR     002 
+     MCGAHAN WADE      055           MCGUIRE BRYAN     005 
+     MELI MICHEL A     052           MOHN DANIEL S     084 
+     MONTIS THOMAS     072           MOORLEGHEM DA     060 
+     MURPHY THOMAS     041           NOWLING WILEY     063 
+     PADUA ENRIQUE     028           PARKER JAMES      085 
+     PAVLINEK NICH     067           PENFOLD DAVID     018 
+     PEREZ GEORGE      042           PETROSKY GEOR     024 
+     PETTENGILL BR     065           RANDALL CHARL     013 
+     RITCHIE MICHA     014           ROBB MICHAEL      082 
+     SCARDETTA VIT     069           SCHEUERELL JO     058 
+     SCHROEDER RON     016           SCHULTE AMBRO     074 
+     SEELEY ROBERT     035           SHAW CHARLES      034 
+     SILVEIRA JOSE     086           SINGLETARY BR     076 
+     SPARKS TORY R     077           SPERBER DOUGL     056 
+     TEALL RONALD      043           THALHEIMER DE     066 
+     THOMAS JASON      030           UNDERWOOD RIC     026 
+     UPFOLD PAUL D     004           VALENCIA BRAU     081 
+     WESTERVELT NI     053           WHEALDON JASO     019 
+     WILSON MATTHE     079           YORK RYAN TOB     008 
+            FCC   - CHIEF FIRE CONTROLMAN AEGIS
+     BEALE TIMOTHY     027           BUSHMAN CLIFF     001 
+     CAMPISI SHAYN     016           COFFEY RAYMON     010 
+     DICKSON MICHA     004           ELDRIDGE CHAR     011 
+     GRANDEY MIKEL     005           HOWARD MARTIN     021 
+     ISENMAN JAMES     008           KEITH RUSSELL     029 
+     LAURITSEN NIC     019           LAVOLD RONALD     030 
+     LAWRENCE JERE     026           LITE GEORGE A     018 
+     MARTELL NATHA     020           MAYHUGH LANCE     003 
+     MCCOY JOEL LE     009           MELTON JOHN T     022 
+     MIDDEKER ALAN     023           PERRY DANIEL      002 
+     RINGUETTE DAV     007           ROBITAILLE RO     025 
+     SALAZAR MANUE     013           SPENCER TIMOT     012 
+     SYKES JAMES S     006           TULEY JOHN MI     014 
+     WEBB BOBBY DA     028           WELLS JOHN CL     024 
+     WERNER SPENCE     015           WOODS JAMES A     017 
+            FTC   - CHIEF FIRE CONTROL TECHNICIAN
+     BEACH BRIAN L     012           BROWN DANIEL      005 
+     BROWN SCOTT M     026           BUTTERFIELD I     007 
+     COLE ALLEN JO     014           DANIELS BENJA     016 
+     DAVIS DONALD      006           DINGMAN KEVIN     011 
+     FOLEY JAMES R     001           GIL LIBRADO D     020 
+     GREEN RICHARD     025           GREEN WILLIAM     008 
+     GREENE TRENTO     030           HEGGEN JASON      027 
+     HERSCHBERGER      004           HINGLE SEAN G     031 
+     KWIECINSKI MA     024           LALL JASON        019 
+     MCCLUSKEY MIC     021           MILES DANIEL      023 
+     MITCHELL PATR     010           PAUL ERIC MIC     017 
+     POWERS PATRIC     022           ROGERS ROBERT     013 
+     SAVAGE LEE JO     028           SHENEFIELD TH     009 
+     STEPHEN CRAIG     003           TAYLOR JOHNAT     029 
+     WARE JOHN ROB     002           WASBERG MICHA     015 
+     WOMER LUKE AA     018
+            GMC   - CHIEF GUNNERS MATE
+     ALEX THOMAS G     026           BAYS RONALD C     029 
+     BUNN KIRT IRV     030           CAMPBELL DANI     005 
+     CAVINESS WILL     035           CORDERO DAVIN     007 
+     DAUE RICHARD      003           EBERLING JEFF     027 
+     EDGIL MARTIN      009           ELDRED STEPHE     008 
+     FAHRENBACH PA     038           FARLEY MICHAE     033 
+     FRANKLIN DANN     024           FREY THOMAS A     018 
+     FURLONG TERRE     004           GUENTER ERIC      025 
+     JANCOSEK ANDR     031           KELLEY BRANDI     015 
+     KWAPNOSKI LOR     032           LINDAUER MARK     017 
+     LOCKHART CLAR     037           MANNING JOSEP     034 
+     MARTIN JAMES      014           MARTINEZ CELE     011 
+     MCNULTY DANIL     016           MORGAN ANTHON     039 
+     ORTIZ CHEECHE     020           QUINONESSANTI     012 
+     REED JAMISON      022           RIVERABENOIT      028 
+     RUSSELL ANTHO     023           SIMMONS DANIE     021 
+     THOMAS SEAN P     013           WARE ROGER LE     002 
+     WATERS LEONAR     001           WOLFE YONG LE     019 
+     WRIGHT TERRAN     036           WYANT KEVIN D     006 
+     YEPEZ LEONARD     010
+            GSEC  - CHIEF GAS TURBINE SYSTEM TECHNICIAN            
+                    (ELECTRICAL)                                   
+     ALOMAR ADALBE     039           APILADO MARTI     024 
+     ARREDONDO JAI     033           BANSON ANTHON     029 
+     BARNES ANDREW     002           BELLNOSKI DON     043 
+     BOCASH MICHAE     042           BREWER CHARLE     032 
+     BURTON OMAR A     003           CABUGAO OLIVE     041 
+     CADAVONA VIDE     038           CARACTER STEV     040 
+     CELINO ADONAI     005           DELOSREYES ED     031 
+     GILL JOHN JOS     013           GREEN JOHN ED     037 
+     JAMES RAYMOND     015           JOSEPH HUBERT     008 
+     LOPEZ MARIA C     018           MARTIN REGINA     016 
+     MAUHAY EUSTAQ     010           MEKSAVANH TAN     009 
+     MILLER GREGGO     017           MITCHELL DARV     004 
+     MORTIMER GUY      012           NAVARRO LINO      023 
+     PALILEO VICTO     025           PEDRON ERWIN      019 
+     PEREZ MARCO A     011           PONCE VICTOR      026 
+     QUEZADA RAYMO     022           ROEHE STEVEN      030 
+     RUBIO FRANCIS     036           SERRANA MANUE     035 
+     SIERRA CESAR      028           TURNER SEAN M     021 
+     USHER EMILE T     006           WARNER SYVRET     034 
+     WILLIAMS BRYA     020           WILLIAMS MARK     001 
+     WOODS BRIAN A     014           WRIGHT DAVID      007 
+     ZOSA WARREN S     027
+            GSMC  - CHIEF GAS TURBINE SYSTEM TECHNICIAN            
+                    (MECHANICAL)                                   
+     ADMIRE GEORGE     016           AYCOCK ROBERT     035 
+     BARRAZA JOSE      001           BETHEL DAMIAN     039 
+     CABUTE JULIUS     026           CARRIEDO FRAN     034 
+     CHAMBERS CHAR     004           COOKE MICHAEL     013 
+     DELACRUZ FRED     019           EADS MICHAEL      042 
+     ESCUDEROSALAS     040           FUCHS DOUGLAS     008 
+     GAMEZ HECTOR      018           HARRIS MICHAE     025 
+     HOLLAND ADAM      031           HOOEE DERRICK     009 
+     HUFF DEREK HO     006           JOHNSON GEORG     011 
+     JOHNSON HENRY     014           JOHNSTON JONA     036 
+     KRALL WILLIAM     017           LOPEZ MARCUS      029 
+     LUPPENS STEPH     007           MACIAS RAFAEL     030 
+     MANN GREGORY      043           MARSTEIN THOM     002 
+     MATTHEWS JAME     003           MCCARTNEY ERI     012 
+     MCCOMIC JOHN      024           MCNEAL MICHAE     027 
+     OCAMPO JEFFRE     033           REED JAMIE JR     015 
+     ROUNTREE TIMO     032           SCHMELLING WI     028 
+     STEWART GENTR     020           SUMAMPONG EME     041 
+     TALOB JOEY AM     022           TOWNSEND WALT     005 
+     VALDEZ HERALD     023           VILLAFLOR JOE     038 
+     WASHINGTON CH     037           WATTS UMEKUS      021 
+     WOODSON JAMES     010
+            HMC   - CHIEF HOSPITAL CORPSMAN
+     ABREGO MARY L     032           AFABLE JOSEER     017 
+     AGRE KALIN DE     091           AGUIGUI FRANC     161 
+     AGUSTIN JESUS     006           AICHELMAN JEF     211 
+     ALLAN JAMES M     106           ALLEN COLLETT     079 
+     ALVARADO MARC     204           ANDAYA FRANCI     120 
+     ANDERSON BRIA     203           ANGEVINE LOUR     047 
+     ARCILLA FRANC     030           ARGALL CLAYTO     166 
+     ARMENDARIZ LE     139           ARNOLD JOSHUA     189 
+     ARP JULIE LOR     129           ARREDONDO ADR     036 
+     ARREDONDO CHR     229           AUTHIER JON C     005 
+     AWA THEODORE      149           AYENI TEMITOP     181 
+     BAEZ RAFAEL Z     021           BAIRD STUART      059 
+     BARKER MICHAE     192           BARTOLOME GER     049 
+     BASIL ANTHONY     221           BAVAS CHELSEE     235 
+     BEAMS LEANDER     108           BELL DUANE LA     218 
+     BENNETT RONAL     046           BERGUM ANGELA     200 
+     BERNAL ARLAN      022           BERNARDO JUNN     196 
+     BERNARDO NEST     027           BETHEA CHARLO     128 
+     BIRCHALL MATT     206           BOJORQUIZ TRO     162 
+     BOUCHER RANDY     109           BOWEN TRACY S     052 
+     BOWMAN BOBBIA     103           BOYD ROBERT L     097 
+     BOYLE MARK RO     220           BREBONERIA JU     010 
+     BREW BRADLEY      199           BRUCE BRANDON     144 
+     BURGESS JANNI     140           BURKE KENNETH     072 
+     BYNUM AMANDA      169           CADAVOS SIMEO     116 
+     CALIMQUIM AAR     065           CAMPBELL BRIA     104 
+     CAMPBELL KEVI     231           CAMPBELL NICO     150 
+     CARBONEL LEON     219           CARLOS RODEL      033 
+     CARPENTER GWY     077           CARY ADAM BRE     209 
+     CASIMIER CLIF     094           CASTILLO VICT     063 
+     CEDENO RUBIN      081           CHADKEWICZ DA     076 
+     CHANCE KEVIN      078           CHAND RAJNESH     201 
+     CHESNEY MARK      121           CHICK MICHAEL     170 
+     CHUBB ANDREW      114           CLAY MARGARET     018 
+     CLEMENTS RICH     028           CODIZAL EVA M     002 
+     COLE HAROLD A     191           COLLINS BRAND     182 
+     CONCEPCION RU     009           COOK JEFFREY      176 
+     CORNUE JAMES      095           COSLETT JEFFR     185 
+     COTTON MICHAE     127           COULOMBE MARK     085 
+     COVITZ DANIEL     107           CRAWFORD TERE     188 
+     CUENCA EDGAR      224           CURRAN STEVEN     044 
+     DACOSTA RUBEN     174           DANIELS BELIN     088 
+     DATU REYNALDO     019           DAVENPORT ROB     202 
+     DAVIS HERMAN      197           DAVIS ROSETTA     084 
+     DEAN SHAWN        141           DELACRUZ RYAN     136 
+     DELMOLINO PET     142           DEMPSEY JOHN      102 
+     DENNIS JOSEPH     069           DENOMME STEVE     013 
+     DIPIETRO MICH     099           DOMINGUEZ FRA     184 
+     DONALDSON CYN     026           DORSEY LESLEY     213 
+     DUMAS DONALD      226           EARLY MATTHEW     232 
+     EHRHARD PATRI     135           ELLISON BRAND     210 
+     ENDERLE JAMES     011           ESTRADA ANTON     020 
+     ETEN KEITH FR     156           FARIA MARIO M     187 
+     FELICANO ALLA     039           FIDDLER GLENN     073 
+     FIKES SONIA R     163           FLORENCE MONI     045 
+     FLORES STEPHE     165           FLOWERS TIFFA     053 
+     FLOYD AMBER N     155           FORSYTH DOUGL     100 
+     FRANKLIN ELIO     048           FRENCH JOSHUA     050 
+     FREYTAG PHILI     180           FULINARA REYN     145 
+     GALEGOR WILLI     172           GALLAGHER ERI     101 
+     GALLAHER PATR     215           GANDY MICHAEL     230 
+     GARDNER CORRI     068           GENTRY THOMAS     154 
+     GIBBS RAYMA N     132           GILLESPIE SIM     160 
+     GIVENS CHARLE     190           GOLDSBOROUGH      113 
+     GONSORCIK WAY     194           GONZALEZ DAVI     168 
+     GONZALEZ JAME     178           GORMAN TIMOTH     153 
+     GREEN DENNIS      173           GRIFFITH LARR     025 
+     GRIMM CHRISTO     071           GUIMARY RAQUE     138 
+     GUINTO MARY J     024           HADLEY TREVOR     167 
+     HALL TONYA MA     115           HAMBRICK MICH     040 
+     HARRISON KEND     007           HASSAN MUHAMM     082 
+     HEBERT BENJAM     061           HEINRICH ALBE     031 
+     HELMS JOE BIL     066           HENDRICK JOHN     159 
+     HERRERA FIDEL     096           HERRON MARK J     004 
+     HIGHFILL GREG     123           HILL CRYSTAL      137 
+     HOLM ERIK MAR     223           HOLT DAVID MI     090 
+     HOLZHAUER CAR     207           HORGAN PATRIC     177 
+     HUGHES AMANDA     122           HUSBAND KEVIN     060 
+     HUTTO PHILLIP     205           HYATT CHRISTO     054 
+     ITO STEPHEN M     105           JACKSON ERIC      089 
+     JACKSON JAMES     125           JACKSON ROONA     064 
+     JAMERSON DEWE     212           JANSSEN LEE M     098 
+     JIMENEZ MICHA     087           JOHNSON FLORE     124 
+     JOHNSON HERBE     055           JOHNSON JAMES     147 
+     JORDAN JASON      023           JUAN JERRY MO     015 
+     KANESHIRO STA     217           KAPTUR THOMAS     001 
+     KAUFMAN STEVE     057           KERRIGAN JEFF     234 
+     KIDD JOHN WIL     092           KING ROHAN AN     214 
+     KIRKLAND MARK     198           KREMER ANDREW     146 
+     LACEY NEAL DO     157           LAMB JEFFREY      134 
+     LANSTRA KRIST     193           LEE DESTINY       175 
+     LESSNER REUBE     083           LIGHTCAP RAND     034 
+     LINARESCORIAT     133           LISTA ANDY M      043 
+     LOVELLO DAMIA     014           LOVING CHRIST     186 
+     LOWE RAYMOND      152           MACCARELLI FR     070 
+     MADSEN SEAN C     035           MAIER STEVEN      195 
+     MANDAKUNIS GE     111           MANGLICMOT NO     143 
+     MANNARINO MAR     051           MANNING CHRIS     131 
+     MARSH NATHAN      042           MARTINEZ CARL     038 
+     MATHENA CHRIS     216           MAY BRIAN WIL     056 
+     MCCUNE MICHAE     041           MCFALL CHAD E     233 
+     MCGINNIS JAME     208           MCKENZIE CHRI     067 
+     MILLER KELLY      086           MILLINGTON PE     158 
+     MOLITOR WILLI     003           MONTFORT CATH     037 
+     MORALES WILME     119           MORRIS MELISS     228 
+     MOTZ ERIC JAM     130           MUNIZRIVERA E     117 
+     NADING RONALD     075           NAPIER JAMES      222 
+     NAVARRO ALLAN     008           NESS CRAIG CA     029 
+     NOBLE JASON K     112           NORRIS MICHAE     118 
+     NUTT MICHAEL      110           OGLESBY JAMES     151 
+     OLSON JAY ALA     164           OREILLY SHAWN     080 
+     ORTIZ JULIO C     148           OVERLIE SEAN      171 
+     PEACE TERRY E     126           PEASE CHRISTO     074 
+     PEREZ JUNIOR      012           PETERSON CHRI     016 
+     PHILLIPS CHRI     227           PINEDO ROY A      062 
+     POOLE JERALD      179           POWELL CHRIST     183 
+     PRESTON PAUL      093           QUIBUYEN RODE     058 
+     QUIROS AMADOR     225           RABOR EMILIAN     038 
+     RAGER TYSON D     025           RALSTON ERIC      012 
+     RAMIREZ ROBER     009           RAYMOND SHARO     056 
+     REDDEN STEVE      063           REYES EDMOND      060 
+     REYES LUIS JO     042           RIVENBURGH RO     019 
+     ROBERSON DARR     032           ROBINSON DAWN     011 
+     RODRIGUEZ ERI     008           ROEDER JASON      070 
+     ROGERS JEFFER     034           ROUSE DERRICK     035 
+     RUBIC ELIZA S     051           RUSSICK BENJA     048 
+     SADALGE SANKE     057           SANDERS NONA      026 
+     SAQUETON VALE     022           SCHERMER MICH     045 
+     SCHMOCK BRIAN     072           SEALS TECKOLA     030 
+     SEIBERT AARON     067           SHAEFFER TIMO     004 
+     SIBILIAMARTIN     074           SILVA CRISTOP     049 
+     SINON GEMMA F     023           SMART HEATHER     062 
+     SMITH KELLY M     052           SMITH KOBIE R     039 
+     SOMERSALL JOH     002           STALEY ERIC W     041 
+     STARKEY TERRY     033           STEEL JAMES R     037 
+     STEVENS JEFFR     015           STEVENSGREEN      073 
+     STEWART CORTE     006           STRAHL BRIAN      050 
+     STROHL ERNEST     016           SULLIVAN STAC     005 
+     TABURA MICHAE     058           TANJUAQUIO OS     071 
+     TASHIRO SABRI     054           TAYSON DEREK      064 
+     TELLES EDWARD     068           TESTA MICHAEL     044 
+     THACKER DAVID     053           THOMASON ASHL     076 
+     TRUHN ALLEN L     047           TUFARES ANTHO     017 
+     TURNER DAWNNA     036           TURNER FRED C     055 
+     VAGNONI FRANK     007           VERNIER VAUGH     059 
+     WALMER HEATHE     069           WARGO EDWARD      027 
+     WATTS ROB JAM     014           WEATHERFORD D     024 
+     WEINMANN RICH     065           WELKY ROBERT      061 
+     WHALEY MICHAE     046           WHATLEY CARMO     066 
+     WHISLER JOHN      010           WHITAKER TIMO     043 
+     WHITE JENNIFE     040           WILLIAMS PURV     021 
+     WILSON DAVID      029           WOOD BRIAN AL     013 
+     WOOD STEVEN W     001           WOODS JOHN LA     020 
+     WRIGHT ERIC C     031           WYATT JIMMY L     018 
+     YOUNG MICHAEL     028           YOUNG VERONYK     075 
+     ZIEHR DAVID L     003
+            HTC   - CHIEF HULL MAINTENANCE TECHNICIAN
+     ARDREY JUSTIN     013           CARPENTER DAM     002 
+     COOPER GAYNOR     007           CURRY MARK AL     001 
+     GREENEMEIER M     014           HANLEY MARK R     009 
+     JOHNSON ONTUR     006           LAND CHIP EVE     003 
+     LYKINS JOHN P     008           MENKEN CHARLE     004 
+     NEIDERMAN WIL     015           OSHIELDS HAMP     011 
+     PACILEO THOMA     012           ROMANETTO MIC     005 
+     SMITH CHRISTO     010
+            ICC   - CHIEF INTERIOR COMMUNICATIONS ELECTRICIAN
+     BAKER PHILLIP     010           DOLINSKY PATR     001 
+     FIKE VIRGINIA     008           GREGORY JEREM     006 
+     GREY JASON JO     009           LEWIS RICHARD     005 
+     SAENZ STEVE       002           SALAZAR JULIO     003 
+     VALADEZ ROBER     007           WASHINGTON DW     004 
+     WATKINS CYNTH     011
+            ISC   - CHIEF INTELLIGENCE SPECIALIST
+     ANDREWS CHRIS     050           ARNOLD DEREK      036 
+     ARNOLD JEFFRE     037           AXELSEN PATRI     032 
+     BONGIOVANNI R     025           BONIELLA JOSH     030 
+     BOYD QUENTIN      043           BRAIMER VANES     026 
+     BRIDGE JOSEPH     061           BROWN CHARLES     067 
+     BUCHANAN IAN      054           COLLINS JOHN      072 
+     COUNCIL LAVEL     023           DANCY DANNY O     058 
+     DANTES MARY A     008           DARBY JAMESON     066 
+     DELEONARDO KI     024           EMBREE JEREMY     006 
+     ERWIN CHRISTO     059           EYGNOR KEN WI     019 
+     FARRIOR JAZMI     083           FLEMING MICHA     045 
+     FORD JON RYDE     022           FULLER JAYSON     057 
+     GILYARD TYRON     034           GORDON BILLY      078 
+     GREEN ADRIENN     056           GRIER RAYMOND     029 
+     GUTIERREZ BRA     017           HALL TORIVIO      052 
+     HAMRICK WAYNE     041           HARRIS DARNEL     070 
+     HARRISON SEAN     073           HARTZELL ROBE     082 
+     HOLLAND ROSHA     044           HOLLIDAY CATH     039 
+     HOOK CHARLES      063           JOHNSON COREY     042 
+     JOHNSON RANDY     062           KEY WALTER RA     080 
+     KLEIN CARL AL     016           KUBRICH MICHA     003 
+     LEDERGERBER J     040           MANUPELLA DOM     071 
+     MCCLELLAND RY     074           MULLINS SIERR     031 
+     MURPHY ALMA D     012           NIKOLAUS DARI     005 
+     NOER WILLIAM      038           NORMAN SCOTT      065 
+     ORNER WILLIAM     028           ORTWINE RICHA     009 
+     OVERSTREET JA     015           PAYNE JENNIE      048 
+     POND ERVIN JA     027           PRICE LETRICA     033 
+     REEDER JOHN R     076           RICHARDSON TI     001 
+     RICHEY WESLEY     051           SAGER JOSHUA      053 
+     SCALES ROBERT     011           SCHELLER PHIL     068 
+     SCHIELE KEVIN     046           SHEASBY ROSS      064 
+     SHERMAN DANIE     079           SHIELDS KEITH     055 
+     SINCLAIR DAVI     021           SMITH KEVIN J     004 
+     SMITH RANDY W     077           SNELLINGS JAS     010 
+     SPENCER MARIO     081           SQUIREWELL WA     049 
+     THOMPSON BRAN     047           TIPTON ROBERT     018 
+     TORRES KAREN      014           TRIMBLE MELIN     020 
+     UNDERWOOD JAM     069           VIVIANO TRICI     007 
+     WALLACE CLICK     060           WATSON BRIAN      075 
+     WILLIAMS DEMA     035           WILLIAMS MORG     013 
+     YOUNG CHRISTO     002
+            ITC   - CHIEF INFORMATION SYSTEMS TECHNICIAN
+     AYO KERRI K       137           BABCOCK JOSEP     089 
+     BAKER STEPHEN     049           BALLESTEROS D     157 
+     BANUELOS ALBA     156           BARNEY ERIC D     148 
+     BARRON GINA S     039           BASS SHAMAR R     143 
+     BEADERMAN AND     065           BELVIS ANTUAN     117 
+     BIRD SCOTT MI     141           BLACK JENNIE      087 
+     BLANCHETTE CH     126           BLAND BENJAME     097 
+     BRIGHT MARK G     133           BRITT CHRISTO     116 
+     BROWN JEFFREY     146           BRYANT JEFFRE     056 
+     BURGOYNE DAVI     003           BURKS EVITA M     128 
+     BUSHONG PHYLI     053           BUYSSE LISA A     014 
+     CARLSON ELIOT     016           CAZA RODNEY E     033 
+     CHAMPLIN PAUL     069           CHAVARRIA MIC     111 
+     CLARK JOHN CA     055           CLARK SHARON      083 
+     CLEMENTS JOHN     084           COLBERT HARRY     093 
+     COLLINS HANEE     163           CONGER MATHEW     058 
+     CRABTREE RAND     120           CRAWFORD BEVE     160 
+     CRAWFORD REMA     077           CURRY BRIAN S     091 
+     DANIELS KENNE     073           DAVIS CHRISTO     057 
+     DAVIS MICHAEL     061           DAVIS PATRICK     008 
+     DAVISON ALONZ     005           DENDY SHAMEKA     050 
+     DITCHKOFSKY S     052           DIXONLEACH AN     161 
+     DOMALIK ROBER     064           DORROUGH JAME     007 
+     DRAYTON LATRI     124           DUBAN JESSICA     162 
+     DUGGAR DAVID      095           DUNN MICHALE      112 
+     ENCARNACION V     023           EPPS CAROL RO     147 
+     FARRELL GREGO     102           FLOREZ ALAN T     045 
+     FOREMAN NEWTR     021           FRANKLIN KATR     108 
+     FRAZIER DEBOR     155           FRISBY CHRIST     031 
+     GARCIA JUAN G     118           GREEN WESLEY      001 
+     GULLABA WILLI     066           GUYETTE JEREM     145 
+     HALL CHRISTOP     051           HALLMAN DANIE     152 
+     HAND JOHNNY R     119           HARRIS MICHAE     140 
+     HAWKINS WILLI     037           HERBERT GEORG     027 
+     HODGES MICHEL     122           HOLDEN PATRIC     153 
+     HOLLISTER JAS     048           HOLLOMAN WAYN     029 
+     HOLMES DENISE     121           HOWELL WADE S     125 
+     INGRAM TERREN     015           ISTVAN DAVID      024 
+     IWANIEC JOHN      059           JACOB JAMES R     094 
+     JENKINS ANGEL     018           JONES FRED II     009 
+     JONES JERMAIN     130           JOSEPH JOHNNY     002 
+     KNAUFF DUSTIN     088           KOCIK FRANCIS     011 
+     KORNBLUTH JOE     026           KUEHL JACOB E     135 
+     LAPRAIRIE ROG     101           LAROCCO JUSTI     123 
+     LEWIS RONALD      004           LEWIS SEAN DA     086 
+     LLOYD ADRIANN     158           LYMAN WILLIAM     082 
+     MATLOCK TOBY      038           MATTERA MATTH     115 
+     MCCLELLAN LIN     114           MCDONALD CHES     036 
+     MCKNIGHT RODN     070           MCLAIN KELLEY     132 
+     MONSIVAIS EDG     129           MONTGOMERY KR     159 
+     MOORE HUGH MC     012           NARAGON MATTH     105 
+     OBRIEN FREDDI     067           OHEARN JORDAN     044 
+     OHRUM SCOTT M     144           PEABODY DEANN     104 
+     PEARCE GREGOR     090           PELLEK ROBERT     103 
+     PEREIRA MONIC     063           PERSONS WESLE     113 
+     PEYTON DASHAW     074           POE DERRICK J     076 
+     RAMIREZ RENNE     109           RAY ANTONIO J     006 
+     RAYMOND EMMAN     081           RAYMOND TIMOT     034 
+     REED LONNELL      022           RENTERIA JOHN     154 
+     ROACH JAMES P     035           ROBBINS MICHA     060 
+     ROBERTS ANDRE     030           ROGERS TIFFAN     041 
+     RUSU PAUL DAV     062           SABATER JASON     138 
+     SALAS EDWIN E     046           SANCHEZ SUSAN     150 
+     SANTOS JOHN J     098           SAVAGE FLOREC     085 
+     SHANNON SANDR     047           SHINN RODNEY      075 
+     SIDEBOTTOM AL     040           SMITH CHARLES     017 
+     SNELLER JONAT     100           SOLAR NICHOLA     110 
+     STANLEY CHRIS     139           STEINER MATHE     151 
+     STEVENS MATTH     131           STEVENSON KIM     072 
+     STOLL MICHAEL     127           STORM BRIAN J     107 
+     STRAUSBAUGH L     025           SUMMERS KEVIN     142 
+     THOMAS TROY W     020           THOMPSON MART     019 
+     THORNTON DARR     054           TYSON LAMICHE     032 
+     TYSON LUGENE      010           UMPA ALLISTAI     106 
+     USANGA KUFERE     092           VARGAS RALPH      080 
+     VIRTS JOSHUA      013           VUE WILLIAM       134 
+     WALTERS RAYMO     149           WARD DOUGLAS      136 
+     WELLS LATHANI     099           WESLEY HORACE     042 
+     WESLEY KEITHL     043           WHITFIELD DEW     096 
+     WHITNER TANYA     079           WHITT ROBIN       078 
+     WILLIAMS MAUR     028           WINSLOW GERAL     071 
+     ZAYAZ MELISSA     068
+            LNC   - CHIEF LEGALMAN
+     BAGMON TANICA     015           BALL CRAIG        013 
+     BIKSZER SHAHA     005           BRASH CHRISTO     010 
+     BROWN NATHANI     001           ELDER TRICIA      004 
+     HALL KATRINA      016           HOLT CHRISTOP     002 
+     KAMMAN HEIDI      007           KREINER ANNE      009 
+     MITCHELL TRAC     006           NICOLA DAWN L     012 
+     PRIER DEMETRI     008           RATLIFF RONAL     011 
+     STALLINGS MIC     014           TERRY KARETTA     003 
+            MAC   - CHIEF MASTER AT ARMS
+     AARNIO JAMES M    092           ADKINS CHRIST     030 
+     AMARAL JOSHUA     065           APP MARCELLA      006 
+     BABCOCK JEREM     058           BAKER TERRELL     026 
+     BATLEY JAMES      019           BEARDEN CHAD      118 
+     BEEMAN LORI A     018           BELL RANDY JO     132 
+     BLAKELY ANWAR     112           BOATMAN JASON     106 
+     BOOTH CHAD WI     110           BOWERS THOMAS     124 
+     BRADY TERRY L     117           BROWN ROBERT      122 
+     BRUNO JAMES D     048           BUKEY MICHAEL     089 
+     BURCH JOHN HO     027           CAMPBELL KARE     093 
+     CARONAN DIONI     107           CARPENTER DWA     033 
+     CARTER RICKY      059           CARVER VIRGIL     017 
+     CEREZO FERNAN     080           CHAMBERS REGI     071 
+     CHAPMAN KURTI     116           CHAVARRIA CAT     099 
+     COLLINS RORY      119           COPPING DONAL     133 
+     CORTEZANO ROM     095           CRESPO MICHAE     011 
+     CRUMP BRIAN C     086           DENNING JAMES     121 
+     DENNYS CHARLE     010           DICKEY BRADLE     096 
+     DICKINSON KEN     034           DINO JOSEPH A     015 
+     DOOLEYANDERSO     103           EAGLES JOHN S     094 
+     ELLIS TERRI H     001           EVANS RONALD      003 
+     FIELD ROBERT      053           FLORES BEN VI     076 
+     FUENTES EDGAR     129           FULLER JAMES      008 
+     GACUYA FRANCI     068           GAINEY JAMIE      032 
+     GAITHER MATTH     013           GOLDEN GLEN R     077 
+     GONZALES ANTH     120           GRANT RANDALL     097 
+     GRIGSBY BRAND     109           GUMINA ADRIAN     042 
+     HALTERMAN FRA     062           HAMMES MICHAE     050 
+     HAMMOND KEVIN     009           HANCOCK MICHA     101 
+     HAWKINS JOSHU     127           HENDERSON VAN     056 
+     HETTINGER JOS     123           HURTADO GILBE     041 
+     INGRAM PHILLI     073           IVELICH JASON     072 
+     JEFFERIES COR     002           JONES ALNAHL      078 
+     JONES JAMES E     081           JONES KENNETH     069 
+     KASHINO TIMOT     052           KLEIN LAWRENC     024 
+     LAINES MIGUEL     085           LANGLOIS DANI     102 
+     LEAGUE KENNET     039           LILLIS THOMAS     067 
+     LLOYD JAMES L     020           LOUCK ROBERT      108 
+     MACK TRAVIS J     016           MCLIN BRIAN K     014 
+     MINOTTO MICHA     134           MIRELES PATRI     135 
+     MOONEY DALLAS     084           MORENO LARRY      083 
+     MURRAY DANIEL     125           NAVARRO RAFAE     066 
+     NOLAN RYAN RA     126           NORWOOD PAUL      038 
+     OBERLANDER BR     028           OLSON ROBIN L     035 
+     OTTO KARL WIL     031           PARKS BRANDON     091 
+     PARRY JOSEPH      070           PIERSON KEEVI     054 
+     PRICE DARREN      075           RAMIREZ JONAT     100 
+     RAMOS DANIEL      128           REASLAND DANI     043 
+     REICHARD JOSH     079           ROELIKE BRYAN     055 
+     ROSE SCOTTIE      061           SANCHEZ TONY      023 
+     SCHENKEL TRIS     040           SCHWARTZ JASO     105 
+     SCOTT LORENZO     064           SEAY TRAVIS D     074 
+     SHANNON ANDRE     025           SHAW DANIEL W     046 
+     SIMMONS CHRIS     007           SINGLETON ADA     114 
+     SMITH ANDRE D     036           SMITH SHANNON     104 
+     STEPHENS KEVI     115           STEPHENS VINC     111 
+     STEVENSON LAR     012           STEWART DARRI     004 
+     STITH DONALD      049           STOGIN JASON      005 
+     STRANGE VERMI     082           SULKEY JEFFRE     063 
+     SZERLAG ROBER     022           TATE SEAN         098 
+     TAYLOR EDISON     087           THOMAS MICHAE     047 
+     TRONBOLL MATT     131           WALLACE KRIST     130  
+     WATSON KENNET     090           WESBY CARRIE      088 
+     WESTFALL DANI     029           WIEDERSTEIN M     021 
+     WIGGINS AHMED     037           WILLIAMS QUIN     057 
+     WILLOUGHBY JA     044           WILSON ERICA      113 
+     WOODWORTH JON     051           WRIGHT CLAREN     060
+            MCC   - CHIEF MASS COMMUNICATIONS SPECIALIST
+     BRATT JACKEY      034           BUGGS REGINAL     030 
+     BYRD JONATHAN     011           CARROTHERS CH     006 
+     COLLINS DAVID     025           COZZA KAREN E     023 
+     CURRIE GREGOR     020           DAVIS DELBERT     019 
+     DIX MARLOWE P     031           ELLIS LATONYA     033 
+     GUERRY ANTUAN     005           HARBOUR STEVE     015 
+     HAYWOOD EVELY     014           HOLZEISENMULL     010 
+     KENNEDY MICHA     018           KUSNER GEORGE     024 
+     LIPPMANN ERIC     029           LOEDING KRIST     007 
+     LY VU THANH       012           MACEYAK LESLE     022 
+     MESTA LEWIS W     017           MILLER ANDREW     001 
+     MULLIGAN SEAN     026           OSBORNE JOHN      028 
+     PINCKNEY PALM     002           POWELL ERIC S     035 
+     SHAVERS SAMUE     027           SHIMANA CHRIS     003 
+     SIEGRIST JERE     009           THIERRY JAMES     021 
+     THOMPSON JOSH     016           TRAVIOLI STAN     004 
+     WALKER JENNIF     032           WHITE STEPHEN     008 
+     WOLSEY DANIEL     013
+            MMC   - CHIEF MACHINISTS MATE
+     ABRUZZESE DAN     014           ALCANTARA REY     013 
+     BETHLEY PURCE     008           BEVELS JOSEPH     019 
+     CARTER JEFFRE     021           CONSTANTINO R     018 
+     CORNSTUBLE AN     022           ESMALLA GARNE     010 
+     ESTEBAN ROMEO     004           FACTORA RICKY     005 
+     GATES CHRISTO     024           GOODWYN DION      006 
+     HALLYBURTON T     020           HIDALGO MONAR     015 
+     HOLLIE RODERI     017           JACKSON DARIA     023 
+     NELSON SEAN L     003           PERALTA NOEL      001 
+     ROACH WYDELL      012           RUSSELL BRIAN     016 
+     THOMPSON PATR     009           THORP THOMAS      011 
+     WHALEY PAMELA     007           WOLFORD SHAWN     002 
+            MMEC  - CHIEF MACHINISTS MATE SUBMARINE (AUXILIARY)
+     ASHWORTH IVAN     024           BALDWIN ANTHO     013 
+     COOK JASON WI     003           FLAHERTY RYAN     018 
+     FRANK CHRISTO     008           GREER WARREN      001 
+     GRIFFEN WILLI     026           GRUBER JUSTIN     025 
+     GUILD JAMES R     002           KERSTETTER JO     031 
+     KIDD MICHEAL      011           KLOEPFER DANI     014 
+     LEE AARON         028           LEWIS DAVID J     030 
+     MARVIN DEAN R     020           MCMILLAN AMAN     019 
+     MULHAIR ERIC      012           MULLINS JAMES     015 
+     MURRAY CORY A     027           NAPIER ALEX L     021 
+     RHODES DANIEL     016           ROBINSON SHAW     006 
+     RUSK JASON CH     009           RUTH CHRISTOP     010 
+     SMELIK ANDREW     004           STEPHENS TONE     022 
+     STURGILL MARK     007           SUTER JERRY S     029 
+     WEBER CHARLES     023           WENUM ROBERT      005 
+     WHITEHEAD MAY     017
+            MMNC  - CHIEF MACHINISTS MATE NUCLEAR (SUBMARINE)
+     AARNESS OLE K     032           ALSTAD DENNIS     008 
+     BAILEY AARON      051           BECK AARON DA     029 
+     BELL DANIEL J     023           BERKSHIRE JOS     035 
+     BLACK ROBERT      009           BROWN SEAN HO     003 
+     BUEHRING JOSE     011           BURKS BRYAN E     053 
+     CAMPBELLMARTI     034           CAYCE IAN MON     027 
+     CERVONE RONAL     031           CLOUGH JASON      048 
+     CROSS JESSE W     047           CURTIS BLAINE     005 
+     FOSS ERIC KAR     050           FRICK CHRISTO     028 
+     FRONEK JOHN P     039           GONZALEZ MIGU     054 
+     GREENE JAMES      018           HAMPTON MORRI     041 
+     HAUSSLER WILL     026           HIGHTOWER JOS     037 
+     LAMBERT JONAT     017           LEWIS CHAD WA     012 
+     MACDONNELL MI     004           MCBRIDE CHRIS     002 
+     MCLELLAN PATR     010           MCMURTRAY MIC     007 
+     MOREY ROBERT      049           NOURY MATTHEW     030 
+     PARSONS RYAN      043           PERRY CASEY M     006 
+     PETERSON DANI     001           PICERNO JEFFR     020 
+     RAMIREZ JAVIE     033           REUER JOSHUA      045 
+     ROBBINS ANTHO     036           ROSSOW MICHAE     021 
+     RUSSO JOHN PH     046           SANDERS JASON     042 
+     SEARS MICHAEL     022           SEGALLE JOHN      014 
+     SORENSEN JAME     016           STAFFORD KIRK     015 
+     STEIN AARON M     024           STEWART JOSHU     013 
+     THURMAN MATTH     052           TOKARSKI ADAM     019 
+     VANDYK GARY D     038           WALTON JOSHUA     040 
+     ZINK ROBERT M     025
+            MMNC  - CHIEF MACHINISTS MATE NUCLEAR (SURFACE)
+     ABRENILLA EFR     007           BICKISH CHRIS     019 
+     CASH ANTHONY      016           CAVAZZA ELIZA     013 
+     CROUCH CHRIST     014           EGGLESTON DAV     003 
+     ELDER JODY LE     010           GROUDLE BENJA     020 
+     IVY DENNIS DE     015           KENNEDY MICHA     022 
+     KNAPP BRIAN G     011           KRAUSE THEODO     009 
+     LEARY PATRICK     001           PALACIOS SERG     006 
+     PATE WILLIAM      004           PRICE DAVID C     018 
+     ROYAEL CHRIST     025           SCHMUGGE ROBE     024 
+     SCOTT BRYAN D     026           SIMPSON BRAND     012 
+     SPANGLER GENNETT  023           TAYLOR EDWIN      002 
+     TROENDLE DOUG     005           WESTLAKE DAVI     017 
+     WHEELER ERIK      008           WILSON JOSEPH     021 
+            MMWC  - CHIEF MACHINISTS MATE SUBMARINE (WEAPONS)
+     COLON JUAN R      002           DAY PATRICK D     023 
+     GOMEZ LUIS CA     016           HOOTS CHRISTO     010 
+     HUANTE DANIEL     004           INES JAY JAY      001 
+     JOYCE CHRISTO     015           KENNEDY ANDRE     014 
+     LEWIS DAVID L     009           MARTIN ARCHIE     007 
+     MILES BRANDON     013           MOORE GREGG A     024 
+     PATSCHECK JAM     022           PRICE CHRISTO     017 
+     REHBACH JOHN      006           RILEY JOSEPH      005 
+     RIVERACORIANO     008           RODRIGUEZ RYA     012 
+     ROGERS DARREL     019           SCHAEFFER CHR     018 
+     TAPIA ANTHONY     020           THOMAS BRIAN      011 
+     WILLEMOT BRIA     003           WOLFRAM SAMUA     021 
+            MNC   - CHIEF MINEMAN
+     BAKER DAVID W     024           BIVENS JAMES      021 
+     BOWMAN GARY L     010           BRADY PATRICK     016 
+     BROWN GREGORY     013           BROWN WILLIAM     029 
+     BUFANO PAUL M     020           BUSBY JERMAIN     011 
+     CALTON JAYSON     007           CAMPION WILLI     022 
+     CANTU MANUEL      012           DORBANDT SAMU     019 
+     FAUCETT AMMIE     006           FREEMAN KELLY     031 
+     GARCIA FAVIAN     014           GARZA JACK DA     027 
+     HALSEY JOHN M     008           HAWES BRYAN L     030 
+     JIMENEZ BRAND     026           JORDAN WILTON     002 
+     JUAREZ BENITO     033           KERSEY RALPH      025 
+     KORMYLO JAMES     015           PELSKI MICHAE     004 
+     POWERS ROBERT     003           RAMSEY TRAVIS     023 
+     REECE JONATHO     032           SNYDER PAUL D     009 
+     THEADEMAN RON     018           VANMATRE JOSH     017 
+     WALKER BRYAN      028           WILLIAMS STEV     005 
+     WIRTH JEFFREY     001
+            MRC   - CHIEF MACHINERY REPAIRMAN
+     CRAWFORD CALA     006           DAWSON WILLIA     002 
+     GARDNER DARRE     007           HERNANDEZ DAN     003 
+     SAMONTE SOLIM     001           WILLIAMS TROY     005 
+     WORKING ROBER     004
+            MTC   - CHIEF MISSILE TECHNICIAN
+     ANTONE LOUIS      034           ARNOLD TROY S     004 
+     BERSIE DENNIS     027           BRIGGS CHRIST     011 
+     BRINKMAN SHAN     038           BYRD SCOTT JO     006 
+     CONLEY MARK A     002           CRABTREE JEFF     039 
+     DECARDENAS LE     033           DELONEY JUANZ     017 
+     FORD DANIEL B     010           GRANT BRADFOR     020 
+     HANCOCK KENNE     021           HARRINGTON CH     022 
+     HEDGES JOSHUA     018           HOOVER ERIC S     028 
+     JOHNSON JIMMY     012           JONES DAVID A     008 
+     LOONAM SHAWN      003           MANIETTA CARL     014 
+     MARVIN LEE PR     007           MICHAELSON JU     026 
+     MILLER BRYAN      013           PECK JUSTIN L     036 
+     PEPPERS HANS      035           REARDON JEREM     029 
+     RHODES JAMES      023           RIDDLE CHRIST     031 
+     SCHOENE ANTON     037           SEAY KEVIN DA     001 
+     SEE CHRISTOPH     024           SIMONS JAMES      015 
+     STRAKOS RODNE     005           TEBEAU TRENT      009 
+     VANNOY JONATH     025           WILLIAMS JERO     016 
+     WILLIAMS KEIT     019           WOOSTER ANDRE     030 
+     ZELLER BRYAN      032
+            MUC   - CHIEF MUSICIAN SPECIAL BAND
+     HENRY DAWN MI     005           HERNANDEZ LUI     001 
+     MCCARTHY JOSE     003           PARSONS JOHN      002 
+     SCHILLER DEVO     004
+            MUC   - CHIEF MUSICIAN FLEET BAND
+     CHAPLOW BRIAN     004           FOOTE SCOTT F     001 
+     GREGG GUY LIV     002           HILL PATRICK      005 
+     VLANGAS CHRIS     003
+            NCCC  - CHIEF NAVY COUNSELOR (COUNSELOR)
+     BURNETT JOHNE     009           COVINGTON KIM     003 
+     EARL BRUCE ED     019           EMBREY WAN KE     018 
+     FREDERICK CHR     001           FRIDY NADINE      024 
+     GEERS CHAD RA     012           GRINDSTAFF DE     004 
+     HAWKES DAVID      007           KEEN ANGELA       011 
+     LEONARD CHRIS     026           MILLER DEAN A     015 
+     PAGTAKHAN ROB     025           PALMORESEAY N     027 
+     PARENT JOSEPH     008           RAMIREZCRUZ Y     022 
+     RANDLE DERRIC     014           ROBERTSON CLI     005 
+     ROBINSON VENT     006           ROMES RYAN RO     023 
+     SANDERS LAMON     013           SMITH BEVERLY     020 
+     THOMAS LORI L     017           TOLES GARY GO     010 
+     VENTURA FRANK     002           WILEY STACEY      016 
+     WOOD STEPHANI     021
+            NCRC  - CHIEF NAVY COUNSELOR (RECRUITER)
+     ALLCHIN GERAL     037           ARADANAS RONA     019 
+     ATKINS CEDRIC     074           BANKS ROBERT      067 
+     BANREYCHELTON     079           BAZILE EDWARD     061 
+     BOATWRIGHT JO     050           BONNE MARCO A     047 
+     BREININGER DO     033           BROCK DERRICK     024 
+     BUCKMASTER JA     036           BURNS BOBBY G     066 
+     CABRAL SHAUN      076           CARPIOLOPEZ O     006 
+     CHATMAN JASON     029           CHAVIS JEROD      005 
+     COLOPY AARON      055           COX TOBY EUGE     044 
+     DAVIS STEVEN      004           DESERIO JOSEP     064 
+     DORSEY LEONAR     012           DOWELL JASON      078 
+     DRABICK PATRI     025           EBORA JERIEL      030 
+     ENOS MATTHEW      021           FOSTER LATRIN     048 
+     FRANKLIN RAND     001           GARCIA JOHN P     045 
+     GIBSON JAMAL      010           GILBERT TARAN     053 
+     GRAY KEVIN JO     017           GRAY MILES AN     032 
+     GRAY ROBERT M     077           GREGORIO ANTO     011 
+     HADLEY KENSHU     071           HALEY ELIZABE     043 
+     JIMENEZ EMIR      063           KALEOPA FESOU     049 
+     KELLY HOLLIS      068           KILLIAN JAYCE     038 
+     KIRVES MARK A     008           LAWLER THOMAS     042 
+     LEE WILLIAM C     026           LI DEBIN          054 
+     MADUEMESI MAT     082           MALONE RAYMON     007 
+     MARSH ROSANNA     018           MARTIN STEVEN     003 
+     MASK WILLIAM      081           MASRELIAN ROZ     058 
+     MATHEWS KEVIN     016           MENENDEZ JULI     060 
+     MILLER LLOYD      035           MOEN MICHAEL      034 
+     MONAHAN RYAN      057           NAJERA FRITZ      013 
+     OLSON ELISSA      070           ORTIZ MANUEL      065 
+     PERRY KAREN M     023           POLIQUIN KRIS     009 
+     RAMOS LEONALD     014           REED JAMES JA     069 
+     RHYNER JOSEPH     051           RILEY WILLIAM     059 
+     ROBINSON ROBE     002           RODNEY MICHAE     028 
+     ROUSE JEREMY      052           RUSSELL JEFFE     073 
+     SAMUEL JERREL     062           SANDERS ROBBY     046 
+     SCOTT DEWAYNE     072           SCOVILLE NOLE     020 
+     SHRIVER DONAL     039           SMITH LAVELLE     015 
+     STEFANIDES TH     022           URRACA ROMULO     027 
+     WALKER GARY V     041           WARD JACOB AL     056 
+     WEBER ANTOINA     031           WOOD DUSTIN M     075 
+     ZETTEL PAUL G     040           ZIMOLKA HEATH     080 
+            NDC   - CHIEF NAVY DIVER
+     ANDREWS JOHNE     027           ASKEW STEVEN      034 
+     BAKER GREGORY     025           BARKER KEITH      011 
+     BOLEN RICHARD     038           CASH DANIEL T     046 
+     CLOUSE JOSEPH     044           COATS MICHAEL     024 
+     CRANE FRANK T     006           CSERVAK LASZL     021 
+     DILLER DAVID      040           EBERLE ERIC A     047 
+     ECHEVERRY CHR     010           FESER WILLIAM     019 
+     FORTNER BRYAN     028           GALENTINE ROB     022 
+     GHAN BRANDON      004           GOSSETT ASHLE     030 
+     HALFORD CHRIS     001           HARLANDER GAB     050 
+     HILL SETH MIC     026           JONES DAVID R     036 
+     JONES REBECCA     018           KENEFIC MICHA     037 
+     KNIGHT AARON      033           LAMB JOSHUA C     039 
+     LAUBE DANIEL      043           LILLYMAN JESS     013 
+     LINZY MICHAEL     031           MARIN JOSE ME     012 
+     MCCORMICK KEN     002           MEDEIROS MATT     048 
+     MOEBIUS JOSEP     014           OAKLEY RYAN R     049 
+     POTTS JASON W     032           RENO TY WALTE     015 
+     SAWYER MARK W     029           SCHAPPERT DON     007 
+     SHULTIS THOMA     017           STABELL FREDE     020 
+     STEARNS CHRIS     041           STRADLING RIC     045 
+     SUMMEY BRIAN      016           TANGALIN JASO     051 
+     TENBROECK CHA     005           TOUCHET CARL      003 
+     WILLIS STEPHE     009           WILSON ERIC M     042 
+     WITTMAN WILL      035           WOTZKA KRISTO     008 
+     ZABOR JUSTIN      023
+            OSC   - CHIEF OPERATIONS SPECIALIST
+     AIELLO THOMAS     048           ALLISON TINA      074 
+     BALDWIN SHANN     054           BARBA LOUIS       012 
+     BARNES MARVIN     109           BARNETT JONAT     103 
+     BARRETT DAVID     046           BENNETT LASHA     078 
+     BOWLES GARRIC     060           BRIGGS GREGOR     091 
+     BRINK MATTHEW     062           BURTON MATTHE     068 
+     BYRD AARON CH     030           CACESE MICHAE     088 
+     CASTRO LUMARI     081           CHRISTIAN SEA     034 
+     CLINE CARLOS      011           COLEMAN ERIC      044 
+     CONDON TIMOTH     004           COOPER KINYAT     099 
+     COVERT ROBERT     016           CRAIG JOSHUA      094 
+     CRUZ HECTOR E     104           CURRIE DANIEL     005 
+     CURRY DANIEL      106           DAIGLE STUART     008 
+     DAILY ALAN RA     009           DAVIS BRAD MA     029 
+     DAVIS JEFFERY     025           DEMAREE JESSE     101 
+     DOUGHERTY SEA     080           EARP WILLIAM      084 
+     ELLIS BRIAN L     098           ELLISON MICHA     047 
+     EMERY RICHARD     107           FERRY ALLAN M     022 
+     FIGUEREDO MAR     003           FISHER ARTHUR     020 
+     FLETCHER KEEV     015           FORREN HOWARD     055 
+     FOYE RINALDO      042           FREE NOAH ALL     100 
+     GARCIA CHRIST     017           GLAESER GREGO     057 
+     GORDON SCOTTI     065           GUENTHER ERIC     082 
+     GUILFOY MATTH     079           HAMILTON BRIA     069 
+     HARVEY ROBERT     071           HASKETT LUQMA     108 
+     HATCHER MAURY     050           HAYDEN JESSE      024 
+     HAYDEN KEITH      026           HAYES MARCUS      097 
+     HERRING RUSSE     056           HUNTER ROBERT     038 
+     JACOBI KEVIN      086           JOHNSON QUINC     028 
+     JONES SHAMIR      032           JONES WILLIAM     073 
+     KANE NICHOLAS     096           KILANSKI RICH     002 
+     KING TYRONE       040           LANE JONATHAN     072 
+     LAPP RICHARD      051           LINDSEY BILLY     064 
+     LUDWIG ERIC J     087           MACDUFF RAECH     102 
+     MCCORKLE THOM     075           MCDOWELL MICH     013 
+     MCELROY DAVID     070           METZ JAMES MA     066 
+     MITCHELL JAME     006           MITCHELL TREM     045 
+     MONTGOMERY ED     090           MYERS MICHAEL     031 
+     PABLO BERNARD     039           PITTMAN JAMES     023 
+     POLLARD DAUTU     036           PRYER GARY WA     037 
+     REID RAFAEL D     001           ROBINSON JAME     076 
+     ROWAN CHRISTO     018           RUFFIN MELVIN     059 
+     SCHMIDT ERIC      063           SCOTT JAMES L     010 
+     SCOTT SHONTAE     058           SHANNON MICHA     105 
+     SIMMONS DERRI     021           SINES SCOTT A     083 
+     SMITH DIANNE      027           SMITH NORMAN      049 
+     STEAVE CHILAN     093           STERCHI LANCE     053 
+     STEWART DACQR     014           SUDERS EDWARD     089 
+     TERRY EMERY A     007           TETI JAMIE RY     043 
+     THREATT CHRIS     085           TOLBERT JAMES     035 
+     TURNER MAKARI     092           VANCURA TIMOT     019 
+     VILLALOBOSDOM     095           WALTON LAUREN     052 
+     WILLIAMS DAMI     067           WILLIAMS GERA     061 
+     WIREBAUGH PET     041           WIRSING JOHN      033 
+     WIRTH RAYMOND     077
+            PCC   - CHIEF POSTAL CLERK
+     DARLING JOHN      002           GREENE STEPHA     001 
+     HEALY STANLEY     004           POWELL LLOYD      003 
+            PRC   - CHIEF AIRCREW SURVIVAL EQUIPMENTMAN
+     ALVAREZ CARLO     027           BEHRENDS TIFF     016 
+     BINDER GARRET     002           BITANGCOL MEL     010 
+     BOYD RUSSELL      020           CAMACHO AUGUS     013 
+     DAVIS DAVID B     025           FAULS ROBERT      021 
+     FITZGERALD RY     022           GOTTO CHARLES     014 
+     GWALTNEY GLYN     006           HILL GRETCHEN     004 
+     LAWLEY ADAM W     007           LEMASTERS JOH     003 
+     MAJORS GREGOR     023           MANN SUSAN        009 
+     MAXWELL PREST     001           PARADISE SUSA     017 
+     PETROSKI PETE     012           POHLMAN JARED     011 
+     RAGHOO PAULBR     026           ROLL MICHAEL      015 
+     STEELE SEAN P     008           TRAYER HEATHE     018 
+     TUFTS SHAWN A     005           WALTER CARLOS     019 
+     WUST HEATHER      024
+            PSC   - CHIEF PERSONNEL SPECIALIST
+     ALLEN RONDRIC     025           ANDREWS COREY     056 
+     BAUTISTA ALEX     020           BELLEW JEFFRE     010 
+     BENNETT BRIAN     001           BERRYHILL DAV     004 
+     BONNER LAFAYE     029           BOWMAN CHARLE     015 
+     BOWMAN DAVID      042           CARINO RAMON      002 
+     CASSIELEACH J     028           CHERRY KURT R     046 
+     CLARK CASSIE      016           COOPER STEVEN     005 
+     DAVIS LARRY G     003           DUVALL CHRIST     041 
+     DYER ALEXANDR     060           ESTRIDGE DALE     034 
+     EVANS ANTHONY     044           FIKE KRISTEN      018 
+     FOSUENNINFUL      055           GRIMES MICHAE     051 
+     GUENTHER ANDR     058           HABERSHAM RIC     032 
+     HALL RENALDO      009           HANNA BRENDON     007 
+     HARRIS ANSEL      037           HOCKENBERRY R     052 
+     HOLLINGTON DE     045           HOWELL THOMAS     059 
+     JOHNSON JEREM     026           KLINE CURTIS      023 
+     LAFFERTY SHAW     053           LAMY JEAN HER     027 
+     LAZIO DAVID A     022           LLOYD STEVIE      040 
+     MANNING JOSEP     008           MATTHEWS CHRI     050 
+     MAXIMO BAYANI     012           MILLARE TROY      017 
+     MINA ELENITA      030           MOJICA GENESI     014 
+     MOLINAGONZALE     036           NAAB JARED RY     054 
+     NEWMAN MELANI     011           NGIRAINGAS EL     024 
+     OMALLEY JOSEP     033           PEREZ PAUL        006 
+     PERRY MELVIN      031           POSTIGLIONE D     057 
+     RIZVANOVIC AS     038           RODRIGUEZ MAR     019 
+     SINGLETON CAR     013           STOCKTON ROBE     035 
+     SWINT SANDRA      047           TAYLOR ZAILA      043 
+     TERRELL KENYA     048           WAELTY AUSTIN     021 
+     WENDT LAUREN      039           YOUNG MARK DO     049 
+            QMC   - CHIEF QUARTERMASTER
+     BRADLEY SUSAN     002           DAVIS STEVEN      004 
+     DEADWILER MAR     001           ERVIN IRRON D     007 
+     HOAGLAND JACO     012           LASHLEY MATTH     006 
+     PAGE SARA BEA     010           SEARER MATTHE     003 
+     SMITH DOUGLAS     008           SPAULDING JER     011 
+     TERGESON CLIN     009           THOMAS KAREN      005 
+            RPC   - CHIEF RELIGIOUS PROGRAM SPECIALIST
+     BARNEY RAFAEL     015           BREWSTER TIMO     002 
+     BURRELL TERRY     009           CASTILE ELLA      001 
+     DELAPENA ARLE     005           GEORGE ENYA L     004 
+     HARRIS TSHOMB     011           JOPLIN LARRY      008 
+     MACKENZIE MAR     013           MONDRAGON PAT     014 
+     PIEPER LAWREN     006           RATERING KORE     012 
+     ROLAND DONNIE     007           WALKER PARRIS     003 
+     WINTER DAVID      010
+            SBC   - CHIEF SPECIAL WARFARE BOAT OPERATOR
+     BAKER KEVIN J     013           BLACKBURN JER     019 
+     BOULARD SCOTT     009           BURGESS DANIE     023 
+     CALDWELL JARR     002           CIRBO ADDAM M     028 
+     DELANEY MICHA     003           DUFFY MICHAEL     027 
+     FAVATA CHRIST     016           GOMEZ JEREMY      010 
+     GRAY RYAN MEE     008           GRIFFIN JEFFE     001 
+     HANNOCK LANCE     020           HUMMEL JOSHUA     011 
+     JAMES JOHN CU     012           JENSEN MICHAE     014 
+     JOHNSON JASON     018           MEIER JASON R     004 
+     POAGE LEWYN L     007           POWELL NICHOL     025 
+     ROBBINS LINDS     024           ROBY CHRISTOP     021 
+     ROYS CHARLES      015           STAPLES ROBER     006 
+     TAYLOR DANIEL     005           TENEROWICZ TO     017 
+     WERNER MATTHE     022           WILLIAMS ERIC     026 
+            SHC   - CHIEF SHIPS SERVICEMAN
+     AMBERGER SCOT     003           ANDERSON JOTA     027 
+     ANTHONISSEN R     026           AQUINO LOVE J     009 
+     BARR DAVID LY     029           BAUTISTA ERIC     001 
+     BIRDINE KELVI     021           BROWN WARREN      024 
+     BUENAVENTE ED     025           CHRISTIE ALLI     011 
+     DORNFORD SAND     008           FONTENOT SEAN     002 
+     FOX THERESA A     007           LAZAR ALLAN R     005 
+     LYNCH DAX JOS     006           LYONS BRETT A     019 
+     MAXWELL ERIC      022           MCQUEEN CHARL     013 
+     MITCHELL LORI     028           NEWTON HILTON     023 
+     OARD NEZILLE      018           ONIA JONATHAN     012 
+     PRODIGALIDAD      014           RABSATT LYNFO     020 
+     ROBINSON DERR     015           SANCHEZ SHELB     030 
+     SANTOS RODERI     010           THOMAS TIGIDA     017 
+     TINGSON LOREN     004           UMALI RONALD      016 
+           SKC   - CHIEF STOREKEEPER SUBMARINE QUALIFIED
+     AVILA ROBERT      002           BROWN BOBBY J     003 
+     BUSSEY JOEL M     006           DITTMAN BRECK     001 
+     JOHNS JOSEPH      005           PACE GARRETT      007 
+     WATTS DAMON J     004
+            SKC   - CHIEF STOREKEEPER
+     ACEVEDO FRANK     076           ADJEI SYLVEST     041 
+     AGUILUS GLEN      024           ANDERSON DANN     143 
+     AQUINO AARON      060           ARAO PABLO BA     073 
+     AYKE EDGAR DU     009           BAGUIO JAIME      072 
+     BAKER LARAE W     075           BASA SONNY BU     084 
+     BAUTISTA JOSE     112           BEARDMORE JAC     023 
+     BENTON ALBERT     016           BERMUDEZ LEON     022 
+     BERNARDO ROBE     071           BLACKMON LACL     162 
+     BLISS OREANA      065           BONILLAMARTIN     167 
+     BRASWELL ROBE     153           BREEDEN CHRIS     056 
+     BROOKS LAKING     058           BROWN BRIAN K     019 
+     BROWN DAVID L     068           BROWN JOSIE M     029 
+     BRYANT WILLIA     176           CABEBE SAJID      159 
+     CALILUNG RIGO     169           CAMPOS CHRIST     101 
+     CARIAGA BENJA     154           CASTANEDA JES     030 
+     CASTILLO ANTH     093           CASTILLO DANT     089 
+     COMIA MARIO J     031           DALA LA ALEXU     135 
+     DAMBRA MARIAA     161           DEGUZMAN JOSE     173 
+     DEITRICK CHAD     177           DELACRUZ ALEX     124 
+     DELAVEGA LOUI     140           DELEON DONNIE     178 
+     DELGADO MARIA     144           DHAMI DEAN SA     146 
+     DONAHUE SHANN     139           DRINKARD ANGE     133 
+     DUKA RAUL A       097           EARNSHAW WILL     134 
+     EBBA ROY EDU      017           EVERS TYRONE      116 
+     FABABIER JERR     158           FABUNMI BABAB     094 
+     FARADAY DARA      170           FAULK MICHAEL     069 
+     FERNANDEZ OMA     007           FIEDLER SEAN      120 
+     FLORNEY JULIE     114           FORD EVON         034 
+     FRANCISBAPTIS     163           GALINO JONATH     080 
+     GALLOWAY ERIC     083           GAMIAO SAMMY      004 
+     GARCIA ELOI E     040           GETALLA TITOG     003 
+     GILLESPIE ANT     028           GOLDYN MARK G     142 
+     GRAVES WILLIA     033           GREEN BRIAN L     103 
+     GUINA ANGEL C     006           HADFIELD PAUL     115 
+     HALL ROBERT M     037           HAMAR DANIEL      119 
+     HAMPTON JEREM     095           HARDAMON WAYM     063 
+     HATCH RODNEY      085           HAWTHORNE MOR     078 
+     HERNANDEZ BEN     002           HERNANDEZ DAN     067 
+     HERNANDEZ NIC     036           HERNANDO MARC     164 
+     HINTON JEFFRE     008           HINTON LAKISH     137 
+     HOBBS KERWIN      047           HOLLOWAY TIMO     172 
+     HOWELL GERALD     062           IERIS             053 
+     JACKSON PHILI     117           JACKSON SIMON     109 
+     JEFFRIES DERI     015           JENNINGS TYME     038 
+     JOHNSON JEFFE     014           JONES AMANDA      082 
+     JOSEPH CHERYL     081           KUYKENDALL JO     042 
+     LANDRY DANIEL     032           LATSON GARY S     165 
+     LAVALLAIS CHA     105           LAWRENCE MATT     138 
+     LAZARO UONIHI     035           LEE DAWNE DEN     122 
+     LERETTE STEPH     074           LILAGAN RICHA     054 
+     LINDO CARLOS      091           LOR ULYSSES L     012 
+     LUZANO NOEL S     123           MAGPALI EMMER     026 
+     MALONE AVERIL     128           MANIO NELSON      088 
+     MARKUM WILLIA     070           MARTINEZJUARE     025 
+     MCCRAY TONYA      052           MCINTOSH LARR     096 
+     MEMPIN CHRIST     066           MIJARES LEONI     005 
+     MONES RONALDO     057           MOORE BRANDYC     168 
+     MOORE MATTHEW     131           MURAO TEDDY L     111 
+     MURO RAYMOND      130           MUSTIN STEPHE     106 
+     NICHOLSON LIN     121           NICOLAS RONAL     152 
+     ODOM FRANKLIN     155           OKEIYIMOR IGN     077 
+     OKIMURA CHRIS     156           OLYMPIA HOWAR     118 
+     ONEJEME FELIX     020           ORTEGA JOSE O     104 
+     OUTZS VIRGIL      011           OZAETA GUADAL     051 
+     PARADIS RAYMO     045           PARKER INDIA      099 
+     PATTERSON MAR     136           PAULE DENIS C     160 
+     PORTER RAHSAA     102           QUEEN GRACE A     126 
+     RAMSARRAN REN     010           REED TRUDALE      113 
+     REYES EDWIN Y     079           RIBAYA ADLER      013 
+     RICO JACOB OM     059           ROBINSON JOHN     049 
+     ROSARIO ERNES     145           RUBIO PATRICI     141 
+     RUCKER COLLET     043           SANCHEZ JONAT     055 
+     SANTIAGO AUGU     048           SANTIAGO CHER     174 
+     SANTIAGO NORB     090           SAPP LASHAUND     175 
+     SARMIENTO JOV     129           SATORRE EDWAR     050 
+     SHAW COLLIN M     039           SHAW JOHN STE     064 
+     SILVA DAVID       127           SIMON GILBERT     044 
+     SIMPSON GEORG     061           STARK CRAIG L     021 
+     STELLPFLUG RO     046           STOCKING DEXT     110 
+     SUTTON JERMAI     171           SWINTON CHARL     132 
+     TATE CHRISTOP     107           TITLOW DUSTIN     149 
+     TRAVIS JONATH     157           TUAZON BARTOL     001 
+     VALENTINE BRY     125           VASQUEZ WALTE     148 
+     VASQUEZGARCIA     151           VENTURA BARRY     166 
+     VENVERTLOH JA     092           VIDAURRI MANU     087 
+     VILORIA GEORG     018           WAKEFIELD SHA     027 
+     WALDEN DAMON      108           WATKINS JEREM     100 
+     WILKERSON KEI     150           WILLIAMS MARK     086 
+     WILLIAMS RONA     098           YARBOR DIETTA     147 
+            SOC   - CHIEF SPECIAL WARFARE OPERATOR
+     ADAMS NICHOLA     050           ANDREWS SCOTT     001 
+     BAILEY AARON      085           BATHURST ROBE     047 
+     BEAL JEREMY T     046           BERRY MARK CH     030 
+     BLOOMQUIST ER     062           BOA JAMES STE     007 
+     BRADLEY EDWAR     054           BROWN ROBERT      021 
+     CABAN DANIEL      060           CALLAGY ERIK      053 
+     CARPENTER MIC     013           CHADWICK STEV     039 
+     CHARBONEAU JO     038           CLARKSON CHRI     009 
+     CLEAVER CHAD      057           CONNER WARREN     043 
+     CORTES ELDEN      028           CROSBY IVAN K     023 
+     CUMMINGS JONA     004           CURRIN PETER      083 
+     DAVIS CHRISTO     068           DICKERSON DER     056 
+     DODD MARK ALL     002           FLYNN SEAN MI     005 
+     FOREMAN MATTH     058           FREIWALD JASO     029 
+     GARCIA MARIO      069           GARGANO JONAT     027 
+     GAYLORD FREDE     036           HARDEE THOMAS     032 
+     HARTWELL CHRI     012           JONES WILLIAM     074 
+     KOSCIELSKI BA     003           KROTZ BRADLEY     064 
+     KUSKE CHAD CA     022           KYLE CHRISTOP     065 
+     LIEVRE JOSEPH     016           LOPEZ SERGIO      061 
+     LOSS ROBERT F     044           MANGAN REID A     011 
+     MANN SHAWN LO     049           MARCUS SCOTT      076 
+     MCCANDLESS MA     063           MCGRAW CHARLE     052 
+     MELTON CHARLE     015           MILLER ROBIN      079 
+     MITCHELL KERR     045           MITCHELL NATH     081 
+     MORRISON SEAN     034           MULDER WILLIA     048 
+     NESTLER CRISP     006           NIE CHRISTOPH     008 
+     OLESON BENJAM     037           ONEILL ROBERT     040 
+     OWINGS MICHAE     018           RENNER BRODIE     080 
+     RIBERA BRIAN      059           ROUTHIER SHAW     067 
+     SANDBERG PHIL     072           SANDOVAL ANTO     010 
+     SARNOSKI DAVI     031           SELLITTI SAVE     024 
+     SHEA DENIS JO     077           SHELLENBERGER     084 
+     SHIMA DERICK      025           STACKS MICHAE     041 
+     STALLTER NATH     073           SZABO DENES M     051 
+     TAYLOR ADAM D     033           THOMAS COLLIN     042 
+     TORRES FERNAN     071           VANKLEECK DON     070 
+     WEBNER JAMES      035           WEIMHOLT BREN     055 
+     WEST ALEXANDE     078           WESTCOTT STEV     075 
+     WILSON BRADLE     082           WININGHAM STE     019 
+     WRIGHT DAVID      020           YOST PATRICK      017 
+     YOUNG DAVID A     066           ZILLIG CORY M     026 
+     ZUKOSKY JAMES     014
+            STGC  - CHIEF SONAR TECHNICIAN SURFACE
+     ANGENEND KENN     026           BANIQUED SHER     028 
+     BENAVIDEZ ALA     029           BERRIEN RUDOL     027 
+     BEUCK ANDREW      012           BLACK ROBERT      033 
+     BOURNE BENJAM     020           BROGDON DONAL     005 
+     BROWN DARIUS      017           BUCAO JEFFRIE     023 
+     COOPER KENT J     008           DAMMON DAVID      036 
+     DELAROSA ANDR     015           DUKE ELDON ED     022 
+     DUREL MICHAEL     032           FIGUEROA STEV     009 
+     GALLAHER JAME     011           GENTLEMAN CHR     041 
+     GRANT MICHAEL     030           GREGG SHERYL      018 
+     HART JOSEPH F     044           HARTLEY ERIC      034 
+     HELLER PAUL R     014           HEPP JAMES RI     004 
+     HILEMAN GARY      031           HINES JEFFREY     003 
+     HOLZMACHER BR     038           JIMENEZ FRANK     010 
+     JOHANNES DOUG     007           KAVALESKY MAR     035 
+     LAWRENCE JOHN     001           LINDHORST MAT     006 
+     MCGRATH CHRIS     021           MOORE RALPH D     037 
+     PALMER WILLIA     042           PANNELL APRIL     043 
+     PAULINO ALLAN     025           PHILLIPS JOSH     040 
+     PYLES SHAWN C     013           ROSKE ROBERT      016 
+     SAULAT TRAVIS     024           THOMAS GLEN S     039 
+     WARREN STUART     019           WHITE GEORGE      002 
+            STSC  - CHIEF SONAR TECHNICIAN SUBMARINE
+     BEACH MICHAEL     029           BEDERSON NEAL     019 
+     BLYTHE ROBERT     016           BOUCHARD BRIA     009 
+     BRANTLEY ARNE     023           BROWN JERAMIA     018 
+     CABRIN CASEY      022           CANNON DAVID      006 
+     CARSON JASON      003           DUNCAN RICHAR     013 
+     FINCK SHANE L     010           HELLE JASON J     005 
+     JANOKA MARK E     014           JOHNSTON TIMO     030 
+     KOFOL DOUGLAS     008           KOLBASOWSKI R     017 
+     LAURIANO JAME     015           MCCRORY PAUL      020 
+     MCGARRAH JAME     028           MCLAUGHLIN JO     024 
+     MIKESELL SCOT     001           ONEY SCOTT OL     002 
+     PURDUM CHRIST     021           SCOTT ERNEST      026 
+     SIMONDS MICHA     007           SISSEL DAVID      025 
+     SODHI RAJPAUL     027           STREET DAVID      012 
+     TILLSON JEFFR     011           WISHART STEVE     004 
+            SWC   - CHIEF STEELWORKER
+     ALCANTARA MOS     003           ALVAREZ LOUIE     011 
+     BAKER ROGER D     006           BAKER SCOTT M     007 
+     EPSTEIN JEFFR     008           HAGAN JACOB M     010 
+     HAYES PHILLIP     004           NELSEN STEVEN     001 
+     REDDINGER JAM     005           SMITH SHON JU     002 
+     VANHORN BRADL     009
+            UTC   - CHIEF UTILITIESMAN
+     DYE ROBERT AN     003           ESPIRITU JEAN     002 
+     GIBSON MICHAE     005           KLUSKEN MARK      006 
+     NEUFELD AARON     004           WHITE TRUMAN      001 
+            YNC   - CHIEF YEOMAN SUBMARINE QUALIFIED
+     FOSKEY PAUL R     008           GREEN ALEJUAN     003 
+     KERNS CHARLES     001           MCCASTLE WILL     005 
+     PALOMERA OMAR     004           RANDALL BRYAN     007 
+     SHAMBERGER RI     006           VILLEGAS RODR     002 
+            YNC   - CHIEF YEOMAN
+     ABNER JOCELYN     036           ACFALLE GEORG     093 
+     ADAMS DEMOND      043           ALAMIN JAMIL      006 
+     ALEXANDER SHE     022           ALMAGUER JESU     106 
+     AMRINE DABREE     118           ANTISTA ANDRE     055 
+     ARMSTRONG KRI     079           BACKER TONY J     020 
+     BAKER JUAN AL     031           BALLS MOSES L     066 
+     BARNES MICHAE     099           BARNETT ANDRE     095 
+     BARNEY KEITH      011           BENNETT GEORG     084 
+     BLAKE JONATHA     008           BLANCAS ALEXA     108 
+     BRADSHAW MAND     085           BRINSON BETTY     077 
+     BROCKINGTON A     052           BROWN GARY AL     102 
+     BROWN JENNIFE     074           BROWN JENNIFE     068 
+     BRYANT CLARA      070           BURFICT LANCE     069 
+     BURKHART RYAN     112           CAMPBELL CARL     027 
+     CAMPBELL MICH     056           CATANO RUBEN      045 
+     CERAMI TERRY      109           CESSNA LARRY      065 
+     CINTRON JOSE      028           CUNNINGHAM CH     051 
+     CUNNINGHAM WI     034           CURTIS ISIAH      073 
+     DAWLEY JASON      007           DEAN ROSZETTA     049 
+     DELGADO EDUAL     012           DELOSREYES NI     098 
+     DEMAREE DANIE     059           DEMERITTE CYN     016 
+     DEMPSEY KEVIN     018           DERBY BRIAN W     015 
+     DERRICKS LUTH     054           DIXON KISHUAN     104 
+     DUNFORD DARRE     119           DYER ROBERT L     039 
+     ECKERT RICHAR     021           EDDY DAVID LE     013 
+     EDWARDS DANIE     063           ELLISON MARSC     081 
+     EZZELLE CHRIS     009           FIRMAN COREY      107 
+     FOREMAN JAROD     050           FOX MAKIA NIC     089 
+     GARAUX JEFFRE     088           GIBBS ABDUEL      067 
+     GIBSON GERALD     026           GILMER THOMAS     035 
+     GONZALEZ MOAN     061           GORKA NATHAN      086 
+     GRACE LATOYNA     080           GRANT JOHN WY     087 
+     GRIFFIN LATAS     096           GRUBB ERICA H     091 
+     HAMPTON KIRT      064           HARWOOD HEATH     082 
+     HILL KRYSTAL      023           HOLLOWAY KELV     044 
+     HOULE CHRISTO     075           HOWZE ZEB LEE     047 
+     IADEVAIA ANTH     040           JOHNSON H LON     001 
+     JONES MARSHAL     004           KEEGAN RONALD     090 
+     KNIGHT GRANT      041           KRIZOVSKI MAR     030 
+     LAU ORLANDO J     017           LAUB LOREN PH     078 
+     LOWE JAMES MI     046           MARTIN JUANET     057 
+     MASSA RYAN MI     094           MCCAULLEY SHE     062 
+     MOLINA GARY       105           MONARCH JOHN      003 
+     NASH MICHAEL      032           NELSON JASON      100 
+     NICHOLAS JASO     048           NORIEGA MICHA     110 
+     NORRIS ANTHON     014           OLMSTED RACHE     097 
+     PADILLA LOUIS     053           PONTELLO CHAS     103 
+     PORTER GAELAK     029           PROPST CLINTO     038 
+     PUTNAM KEVIN      060           REID LAKEISHA     117 
+     SABLAN ERIC F     005           SALLEY MELISS     092 
+     SANDERS ADRIA     042           SANDERS CLEAV     037 
+     SHARPE SHAWN      010           SPAIN THADDEU     058 
+     TAYLOR DARRYL     101           THOMAS DARREL     033 
+     TOBLER CORVEN     072           TUGAOEN CLAUD     113 
+     WALKER DEMETR     019           WALKER KIFFAN     076 
+     WALLS DERRICK     071           WALSH KENNETH     025 
+     WARD TAMARIO      116           WASHINGTON AR     111 
+     WESLOSKIE BRA     002           WILLIAMS GARR     115 
+     WILLIAMS MORR     024           YOUNG LORENZO     083 
+     YSLAS SARAH Y     114
+
+3.  RELEASED BY VADM M. E. FERGUSON III, N1.//
+BT
+#0000
+NNNN
+UNCLASSIFIED//

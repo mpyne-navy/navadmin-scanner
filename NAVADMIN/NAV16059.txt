@@ -1,0 +1,52 @@
+UNCLASSIFIED
+ROUTINE
+R 091243Z MAR 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 059/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/MAR//
+
+SUBJ/NOTICE OF CHANGE TO CHAPTER VIII OF THE MANUAL OF THE JUDGE ADVOCATE 
+GENERAL REGARDING LINE OF ACCOUNTING FOR PAYMENT OF FOREIGN CLAIMS ACT 
+CLAIMS//
+
+REF/A/DOC/JAGINST 5800.7F/26JUN12//
+
+NARR/REF A IS THE MANUAL OF THE JUDGE ADVOCATE GENERAL.//
+
+RMKS/1.  This NAVADMIN announces an interim revision to the Line of 
+Accounting data for the payment of Foreign Claims Act claims under Chapter 
+VIII, Section 0822c of reference A.
+
+2.  Replace current language with the following:
+    a.  Accounting data.  Foreign claims are paid from a centrally managed 
+budget with a fund citation.  The Standard Document Number (SDN) that must 
+appear on every Foreign Claim Voucher is: "N00013$$MDA1001" where "$$" equals 
+the last two digits of the fiscal year when the payment is actually made.  
+The Line of Accounting Data (LOA) that must appear on every Foreign Claim
+Voucher is: "AA 17+1804.12TL 420 71205 _ 056521 2D +##### 013$$MDA1001" where 
+"+" is the last digit of the fiscal year when the payment is actually made, 
+where "#####" is the five digit UIC of the command making the payment, and 
+where "$$" equals the last two digits of the fiscal year.
+
+3.  All other provisions of Section 0822 of reference a remain unchanged.  
+This interim revision will be included in subsequent publication of reference 
+a.
+
+4.  Point of cotact is Stephen Waldron, OJAG Comptroller Office, at 
+(202) 685-5281/DSN 325 or via email at
+stephen.waldron(at)navy.mil.
+
+5.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral R. L. Thomas, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,251 @@
+UNCLASSIFIED//
+ROUTINE
+R 071159Z OCT 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 233/15
+
+MSGID/GENADMIN CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/PHYSICAL READINESS PROGRAM POLICY CHANGES UPDATE 1:  ENLISTED POLICIES 
+(CORRECTED COPY)//
+
+REF/A/MSG/CNO WASHINGTON DC/031159ZAUG15//
+REF/B/DOC/BUPERS/1MAY15//
+REF/C/DOC/BUPERS/2NOV07//
+REF/D/DOC/COMNAVPERSCOM/5NOV14//
+REF/E/DOC/COMNAVPERSCOM/19DEC11//
+REF/F/DOC/COMNAVPERSCOM/2FEB13//
+REF/G/DOC/OPNAV/11JUL11//
+REF/H/MSG/CNO WASHINGTON DC/292315ZDEC10//
+REF/I/DOC/COMNAVPERSCOM/24APR13//
+REF/J/DOC/COMNAVPERSCOM/2SEP10//
+REF/K/DOC/OPNAV/20DEC05//
+REF/L/DOC/COMNAVPERSCOM/23MAR07//
+REF/M/DOC/COMNAVPERSCOM/20SEP11//
+NARR/REF A IS NAVADMIN 178/15, PHYSICAL READINESS PROGRAM POLICY CHANGES.  
+REF B IS BUPERSINST 1610.10D, NAVY PERFORMANCE EVALUATION SYSTEM.  REF C IS 
+BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL IN THE U.S. 
+NAVY AND U.S. NAVY RESERVE.  REF D IS MILPERSMAN 1160-120, HIGH YEAR TENURE.  
+REF E IS MILPERSMAN 1830-040, TRANSFER TO FLEET RESERVE AND RELEASE FROM 
+ACTIVE DUTY. REF F IS MILPERSMAN 1910-170, SEPARATION BY REASON OF PHYSICAL 
+FITNESS ASSESSMENT (PFA) FAILURE.  REF G IS OPNAVINST 6110.1J, PHYSICAL 
+READINESS PROGRAM.  REF H IS NAVADMIN 420/10, NEW POLICY REGARDING 
+INVOLUNTARY SEPARATION PAY FOR PHYSICAL FITNESS ASSESSMENT FAILURE.  REF I IS 
+MILPERSMAN 1160-030, CERTAIN ENLISTMENTS AND REENLISTMENTS UNDER CONTINUOUS 
+SERVICE CONDITIONS.  REF J IS MILPERSMAN 1160-040, EXTENSION OF ENLISTMENTS.  
+REF K IS OPNAVINST 1900.4, SEPARATION PAY FOR INVOLUNTARY SEPARATION FROM 
+ACTIVE DUTY. REF L IS MILPERSMAN 1920-030, INVOLUNTARY SEPARATION PAY (NON- 
+DISABILITY) - DEFINITIONS AND POLICY.  REF M IS MILPERSMAN 1920-040, 
+INVOLUNTARY SEPARATION PAY (NON-DISABILITY) ELIGIBILITY CRITERIA AND 
+RESTRICTIONS.//
+
+RMKS/1.  This NAVADMIN details the changes to physical readiness policies for 
+enlisted personnel announced in reference (a) and specifies the process by 
+which an enlisted Sailor pending separation as a result of failing three 
+physical fitness assessments (PFA) in the most recent 4-year period may be 
+retained until they are able to participate in the Cycle 1 2016 PFA.
+
+2.  Affected Enlisted Personnel Policies:
+    a.  Evaluation Policy:  Reference (b) remains in effect until 31 December 
+2015 at which point updated guidance will be promulgated.  Any Sailor 
+possessing three PFA failures in the most recent 4-year period shall continue 
+to receive evaluation grades per reference (b).  No special evaluation is 
+permitted for these Sailors until 1 January 2016, per paragraph 3 below.
+    b.  Advancement Policy:  Reference (c) remains in effect. Advancement 
+policy in upcoming advancement cycles (Cycles 230, 231, and 232) will be 
+consistent with previous policy.
+    c.  High Year Tenure Policy:  Reference (d) remains in effect.
+    d.  Fleet Reserve Policy:  References (e) and (f) remain in effect.
+        (1) Sailors who have submitted Fleet Reserve or retirement requests 
+due to multiple PFA failures must continue their Fleet Reserve or retirement 
+processing.  Career Progression Division (PERS-8), in coordination with the 
+enlisted community managers (ECMs), may approve a request for cancellation of 
+a Fleet Reserve or retirement request based on community needs or manning on 
+a case-by-case basis.
+        (2) Per reference (f), Sailors who are required to submit a request 
+to PERS-8 for an adjustment to an approved Fleet Reserve or retirement date 
+due to PFA failure must still submit this request.
+    e.  Permanent Change of Station (PCS) Transfer Policy:  Pending a 
+permanent revision to reference (g), transfer policy is modified as follows:
+        (1) Unless the most recent PFA was passed, Sailors who have failed 
+one PFA in the past three years will not be assigned to:
+
+(a) Overseas billets;
+(b) GSA/OSA;
+(c) PCS/Mobilization;
+(d) Pre-commissioning billets;
+(e) Recruiting division commander assignments;
+(f) Recruiting duty;
+(g) Equal opportunity advisor assignments;
+(h) Washington, DC and Millington, TN staffs;
+(i) Combatant commander staff; or
+(j) Instructor duty.
+        (2) Changes to any program not listed above that has specific PFA 
+requirements will be announced via revision to its governing instruction.
+    f.  Administrative Separation Policy:
+        (1) Sailors who met the requirements for mandatory separation 
+processing per reference (g) as of 1 July 2015 and do not pass either a mock 
+or official Cycle 2, 2015 physical readiness test (PRT) will resume 
+separation processing on 1 December 2015 and are ineligible for the reset of 
+PFA failures on 1 January 2016 cited in reference (a).
+        (2) Sailors who failed their third PFA in the most recent 4-year 
+period in the Cycle 2, 2015 PRT shall be processed for administrative 
+separation and are ineligible for the reset of PFA failures on 1 January 2016 
+cited in reference (a).
+        (3) Sailors who are currently being processed for administrative 
+separation due to PFA failures and choose to continue with the separation 
+process instead of requesting to participate in the Cycle 2, 2015 PFA prior 
+to 1 December 2015 shall be processed for administrative separation without 
+delay.  Involuntary separation pay (ISP) will not be awarded.  The applicable 
+separation program designator (SPD) code from the FT (physical standards) 
+family shall be used.  For Sailors who have chosen to continue with 
+separation, this guidance supersedes reference (h), specifically, they are 
+not eligible for the CR (weight control) family of SPD codes.
+        (4) Per reference (g), all commands are required to and shall capture 
+"1 or all" PFA failures using NAVPERS 1070/613 documenting the failure with 
+the Sailors acknowledgement.  If not already completed, verify all Sailors 
+possessing a PFA failure from 1 July 2012 to present have the required 
+NAVPERS 1070/613 completed and filed in their official military personnel 
+record.
+    g.  Retention Policy:  References (i) and (j) remain in effect; however, 
+Sailors who do not meet evaluation requirements for continued retention due 
+to PFA failures and do not have enough obligated service to remain in the 
+Navy until they can participate in the Cycle 1, 2016 PFA are directed to 
+paragraph 3 for guidance on the process to compete for retention.
+    h.  There shall be no modification to any part of a Sailors record (i.e. 
+evaluations, past advancement exam participation allowance, physical 
+readiness information management system (PRIMS) historical, etc.) for data 
+that was entered as a result of PFA failures prior to 31 December 2015.  
+These are considered permanent record entries.
+
+3.  Amplifying instructions for Sailors pending administrative separation who 
+have insufficient obligated service to reestablish eligibility for retention 
+and advancement under the new physical readiness standards promulgated in 
+reference (a):
+    a.  Active component Sailors with end of active obligated service (EAOS) 
+or end of active obligated service (as extended) (SEAOS) and Selected Reserve 
+(SELRES) Sailors with end of obligated service (EOS) or end of obligated 
+service (as extended) (SEOS) between now and 31 December 2015 who have been 
+ineligible to reenlist, extend or submit a Career Waypoints (C-WAY) 
+application (if required) due to having three or more PFA failures in the 
+most recent 4-year period and desire to be retained are authorized the 
+following extensions:
+        (1) As an exception to policy (ETP), they may submit an extension 
+request via their command (service not to exceed 31 December 2015) to 
+Enlisted Career Administration/Enlisted Boards (PERS-81) following the 
+guidance at: http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/ReenExt.aspx.
+            (a) The purpose of this extension is to allow these Sailors an 
+opportunity to participate in the Cycle 2, 2015 PFA, without a C-WAY quota 
+(if applicable).
+            (b) This ETP extension will be offered to all Sailors in this 
+category regardless of whether their total extension for one enlistment is 
+greater than that authorized per reference (j).
+            (c) If the total extension time is greater than authorized per 
+reference (j), the personnel support office shall:
+                1.  Prepare a hard copy extension as approved.
+                2.  Submit a trouble ticket to the Navy Standard Integrated 
+Personnel System (NSIPS) Help Desk attaching a copy of the PERS-8 ETP 
+approval received above, a copy of the extension, and a copy of this NAVADMIN 
+as authority.  The NSIPS Help Desk will assist the command in updating 
+individual records accordingly.
+        (2) Upon passing Cycle 2, 2015 PFA, a second extension request must 
+be submitted (service not to exceed 30 June 2016) to PERS-81 following the 
+guidance at:  http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/ReenExt.aspx with PRIMS results showing 
+the Cycle 2, 2015 PFA results.
+            (a) As an ETP, this action will not require a C-WAY quota (if 
+normally required).
+            (b) Follow-on actions required for retention are provided in 
+reference (j).
+    b.  Sailors with EAOS or SEAOS and EOS or SEOS between 1 January 2016 and 
+30 June 2016 who are ineligible for retention or cannot submit a C-WAY 
+application due to adverse evaluations as a result of past PFA failure 
+history and desire to be retained are authorized an extension per the 
+following:
+        (1) Once the member successfully passes the official Cycle 2, 2015 
+PFA, the Sailors command should submit an extension request to Navy Personnel 
+Command following the guidance at: http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/ReenExt.aspx with PRIMS results showing 
+the Cycle 2, 2015 PFA results.
+        (2) Because this is an ETP, this action will not require a C-WAY 
+quota (if applicable).
+        (3) Requested extension length should be of sufficient duration to 
+allow for processing of a future special evaluation and application in C-WAY 
+(if applicable), but must not exceed 30 June 2016.
+    c.  Effective 1 January 2016, all Sailors (except those specified in 
+paragraph 2 above) with PFA (body composition assessment or PRT) failures in 
+the most recent 3-year period will be reset to one failure.  C-WAY 
+application eligibility rules will be updated to reflect the new limit of two 
+failures in three years. The new 3-year cycle will be calculated forward 
+based on the most recent PFA failure.  For Sailors who were ineligible prior 
+to 1 January 2016, the following steps are required to submit a reenlistment 
+request and reestablish advancement criteria:
+        (1) Submit a special evaluation to restore advancement recommendation 
+after 1 January 2016.  Sailors who have passed the Cycle 2, 2015 PFA, are 
+authorized to receive a special evaluation to restore their advancement 
+recommendation per references (b) and (c) once they are reset.  However, 
+prior to passing the Cycle 1, 2016 PFA, these Sailors will not be eligible 
+for reenlistment, extension (except as allowed in this NAVADMIN), or a C-WAY 
+quota (if applicable).  Eligibility for retention requires that the member be 
+promotable and recommended for retention on the last two graded evaluations 
+per reference (i).  The second evaluation required to meet this will be 
+covered in following paragraphs.
+        (2) Pass the Cycle 1, 2016 PFA.  The Cycle 1, 2016 PFA begins on 1 
+January 2016.  Sailors retained in the Navy by reference (a) are permitted to 
+perform the Cycle 1, 2016 PFA less than four months after completion of their 
+Cycle 2, 2015 PFA and document it as their official PFA for this cycle as an 
+ETP to reference (g).  It is imperative that commands support an early PFA to 
+the extent practical to allow Sailors and personnel administrators the proper 
+amount of time to process special evaluations, communicate with ECMs, and 
+initiate C-WAY resets (if required) for retention.
+        (3) Submit a second special evaluation once a Sailor passes the Cycle 
+1, 2016 PFA and PRIMS is updated.  This special evaluation is to eliminate 
+the physical readiness deficiency and should state this purpose explicitly in 
+block 41 or 43 (comments on performance). At this point, Sailors will become 
+eligible to reenlist and request a C-WAY reenlistment quota (if applicable).
+        (4) Once the evaluation is issued, commands should contact the 
+applicable ECM to request a one-time in-rate, willing to convert application 
+reset to compete for a reenlistment quota. Sailors, particularly those in 
+overmanned ratings, and their supporting career counseling teams, are highly 
+encouraged to maximize opportunity for retention by selecting three rating 
+choices that match with Sailor aptitude in open ratings and year groups.
+        (5) For those Sailors subject to C-WAY, all PFA results must be 
+recorded in PRIMS, special evaluation(s) completed, and C-WAY application 
+submitted by 30 April 2016, which is the deadline for all C-WAY applications.   
+Applications submitted after this deadline will not be reviewed and enlisted 
+contracts will not be extended for additional looks in C-WAY.
+        (6) Sailors not subject to C-WAY policy must have their PRIMS and 
+special evaluation(s) submitted prior to 31 May 2016 to allow proper 
+processing of required retention paperwork.
+        (7) Due to delays in implementing required information technology 
+system changes to support the new PFA policy delineated in reference (a), 
+command career counselors (CCC) should closely scrutinize Cycle 2, 2015 PFA 
+data.  CCCs should edit the Cycle 2, 2015 PFA data on the C-WAY application 
+with detailed notes describing why the data was changed.
+    d.  ISP is authorized for Sailors who complete applicable actions 
+specified in this NAVADMIN and compete for retention but are denied a C-WAY 
+quota.  Previously submitted ineligible C-WAY applications (ineligible due to 
+multiple PFA failures) will not be used to penalize the Sailor.  Sailors who 
+request retention, pass both Cycle 2, 2015 and Cycle 1, 2016 PFAs, and submit 
+a C-WAY application (if required) after 1 January 2016, but are not retained 
+will be considered to have maximized their opportunity for retention and 
+receive ISP at the appropriate rate per references (k), (l), and (m).
+
+4.  For additional clarification, please contact the Navy Personnel Commands 
+Customer Service Center at 1-866-U-ASK-NPC or via e-mail at UASKNPC@navy.mil.
+
+5.  This NAVADMIN will remain in effect until 31 December 2016, or unless 
+superseded by new policy, whichever occurs first.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

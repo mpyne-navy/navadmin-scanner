@@ -1,0 +1,131 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 211645Z APR 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 092/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAR//
+
+SUBJ/STIPULATIONS FOR USING NAVY MOBILE DEVICES (SMART PHONE/TABLETS)
+
+REF/A/DOC/DON CIO/17APR15//
+
+REF/B/DOC/DON CIO Memo/30JAN09//
+
+REF/C/MSG/DON CIO/031648ZOCT11//
+
+REF/D/MSG/DON/032009ZOCT08//
+
+REF/E/DOC/APPLE iOS 8 Interim Guidance/18SEP14//
+
+REF/F/DOC/DON CIO MEMO/02SEP05
+
+REF/G/DOC/DOD CIO DIRECTIVE/ DoDD 8100.02/14APR04 POC/ANDREA ST. 
+JOHN/CIV/OPNAV N2N6BC1/TEL:  (571) 256-8512/EMAIL:  
+ANDREA.STJOHN(AT)NAVY.MIL//
+
+AMPN/Reference (a) is Department of the Navy Chief Information Office 
+memorandum, Approval of Good Mobility Mobile Computing (UGMMC) V2.  Reference 
+(b) is Department of Navy (DON) Chief Information Officer Memorandum 01-09, 
+Information Assurance Policy for Platform Information Technology (IT).  
+Reference (c) is the Acceptable Use Policy for DON IT Resources.  Reference 
+(d) provides the policy updates for personal electronic devices (PED) 
+security and application of email signature and encryption.  Reference (e) 
+lists all required security controls for the iOS 8 operating system. 
+Reference (f) stipulates that that all IT that receives, processes, stores, 
+displays, or transmits DoD information will be acquired, configured, 
+operated, maintained, and disposed of consistent with applicable DoD 
+cybersecurity policies, standards, and architectures. Reference (g) is 
+Department of Defense Directive that establishes policy and assigns 
+responsibilities for the use of commercial wireless devices, services, and 
+technologies in the DoD Global Information Grid.
+
+RMKS:/1.  This NAVADMIN provides information and guidance on the use of 
+government issued mobility devices in support of the advancement of 
+information technology wireless services on the Navy Marine-Corps Intranet 
+(NMCI).
+
+2.  Mobility is transforming how the Navy operates, connects, and supports 
+our personnel and the fleet.  To meet this growing demand the Naval 
+Enterprise Networks (NEN) program office (PMW-205) has implemented a mobile 
+solution to meet operational needs while complying with architectural and 
+security requirements to protect the Navy enterprise.  This new service 
+initially supports iPhone 5s/6 running iOS 8.  Android and newer iPhone/iOS 
+versions will be supported as they are released and certified for operation 
+on the NMCI network.  Information, processes, and user guides/acknowledgement 
+are available at https://www.homeport.navy.mil/services/mobile/.
+
+3.  New devices will use a Good Technology (trademark) container to securely 
+segregate official data from personal data, thereby providing users the 
+ability to perform government work and personal activities securely and 
+effectively on the same device per U.S. Navy policies on acceptable use of 
+government IT.  Mobile device configuration, security settings, and policy 
+enforcement will be managed using Good Technology (trademark) mobile device 
+management software and equipment installed on NMCI.
+
+4.  The improved service will be available to users who are approved by their 
+local command and can be ordered as a standard wireless device update through 
+the command's contract technical representative (CTR) or the command*s 
+wireless account manager.  Existing blackberry capabilities will continue to 
+be supported until end of life or full transition to iOS and Android devices.
+
+5.  Per reference (a), the following stipulations apply.
+    a.  Use of personally owned devices is not authorized.
+    b.  Program Manager (PM) shall enable TouchID, ensuring it is only used 
+to access the native (non-secure) persona of the device. The additional 
+password requirements to access the Good container minimizes the risk of 
+access to DoD information.  Further, on devices without TouchID the PM shall 
+retain the passcode minimum of four alphanumeric characters to authenticate 
+to the native (non-secure) persona of the device.
+    c.  Access to the Good Container will be controlled via a minimum eight 
+character passcode containing alpha/numeric and special characters.
+    d.  Commands and users are responsible for adhering to all applicable 
+physical security requirements for portable electronic devices in command 
+spaces.
+    e.  The camera will be turned on by default, with the option to have it 
+turned off per individual or as directed at the command level.  Cameras on 
+Government Furnished Equipment devices will be subject to wireless security 
+restrictions imposed by the facility in which the device is being operated 
+per reference (f).  Cellular/PCS and/or other RF or Infrared (IR) wireless 
+devices shall not be allowed into an area where classified information is 
+discussed or processed without written approval from the DAA in consultation 
+with the Cognizant Security Authority (CSA) Certified TEMPEST Technical 
+Authority (CTTA) per reference (g).
+    f.  Non-work applications may be installed only outside the Good 
+Container and may only be acquired from the iTunes/Google app stores.  Users 
+are responsible for all charges and installations of personally desired 
+applications and data installed on the non-secure portion of the device.
+
+6.  DoD Instruction 8520.02 requires all Department of Defense (DoD) 
+information systems, including networks and email, be enabled to use DoD-
+issued public key infrastructure certificates in order to support 
+authentication, access control, confidentiality, data integrity, and non-
+repudiation.  DON users shall digitally sign all email messages with 
+attachments, active content, or which require either message integrity or 
+non-repudiation verification.  Email messages containing sensitive 
+information shall be encrypted.  Transmission of email (i.e. create, forward, 
+reply, and reply all) that should be either signed or encrypted without 
+applying digital signature or encryption is prohibited, regardless of 
+technical limitations of the desktop or handheld device being used.
+
+7.  Additional capabilities will be released on NMCI Homeport at 
+https://www.homeport.navy.mil/services/mobile/ and other NENs when available 
+and within operational priorities.
+
+8.  Released by VADM Ted N. Branch, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

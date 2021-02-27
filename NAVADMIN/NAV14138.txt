@@ -1,0 +1,83 @@
+
+RTTUZYUW RUEMWCS0138 1691331-UUUU--RUCRNAD
+ZNR UUUUU
+R 181331Z JUN 14 PSN 446578H34
+FM CNO WASHINGTON DC//N4//
+TO NAVADMIN
+BT
+UNCLAS//N08020
+NAVADMIN 138/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/JUN//
+
+SUBJ/INTERIM CHANGE TO OPNAVINST 8020.14A DEPARTMENT OF THE NAVY 
+EXPLOSIVES SAFETY MANAGEMENT POLICY MANUAL//
+
+REF/A/MEMO/SECNAV WASHINGTON DC/18DEC2013/NOTAL//
+REF/B/DOC/CNO WASHINGTON DC/15FEB2013//
+REF/C/MSG/NAVORDSAFSECACT INDIAN HEAD MD/DTG: 261756Z FEB 14/NOTAL// 
+REF/D/DOC/COMNAVSEASYSCOM WASHINGTON DC/15JAN2013//
+REF/E/MSG/NAVORDSAFSECACT INDIAN HEAD MD/DTG: 041732Z APR 14/NOTAL//
+REF/F/DOC/COMNAVSEASYSCOM WASHINGTON DC/01APR2012//
+NARR/REF A IS SECRETARIAL ACCEPTANCE OF RISK ASSOCIATED WITH 
+AMMUNITION AND EXPLOSIVES STORED ABOARD MILITARY SEALIFT COMMAND CARGO 
+AMMUNITION SHIPS.  REF B IS OPNAVINST 8020.14A DEPARTMENT OF THE NAVY 
+EXPLOSIVES SAFETY MANAGEMENT POLICY MANUAL.  REF C IS ADVANCE CHANGE 
+NOTICE 2/12 TO NAVSEA OP 5 VOLUME 1 WHICH PROVIDES GUIDANCE FOR AS, T-
+AKE, AND T-AOE CLASS SHIPS MEETING CERTAIN RESTRICTIONS TO MOOR AT 
+PIERS, WHARVES, AND ANCHORAGES WITHOUT APPLICATION OF EXPLOSIVES 
+QUANTITY DISTANCE (ESQD) ARCS. 
+REF D IS NAVSEA OP 5 VOLUME 1 AMMUNITION AND EXPLOSIVES SAFETY ASHORE.  
+REF E IS ACN TO NAVSEA OP 4 REVISION 10.  REF F IS NAVSEA OP 4 
+AMMUNITION AND EXPLOSIVES SAFETY AFLOAT.//
+POC/AUGUST MALSON/GS14/OPNAV N411B/LOC: WASHINGTON DC/TEL: (703) 695-
+4819/DSN: (312) 225-4819/EMAIL: AUGUST.MALSON (AT) NAVY.MIL.//
+
+RMKS/1.  Ref (a) accepts risk for the storage of limited amounts of 
+Class/Division (C/D) 1.2.2, 1.3, and 1.4 material onboard T-AKE, T-
+AOE, and AS class ships.  Ref (a) affects current Navy policy 
+contained in ref (b).  Ref (c) updated ref (d) and ref (e) updated ref 
+(f) with new guidance.  
+
+2.  Make pen and ink changes to ref (b) as follows:
+    A.  Chapter 12, add to list of references, ref (d) DASN(Safety) 
+memo of 18 Dec 2013, Secretarial Acceptance of Risk Associated with 
+Ammunition and Explosives Stored Aboard Military Sealift Command Cargo 
+Ammunition Ships.
+    B.  Chapter 12, re-identify OPNAVINST 3128.10G as ref (e).
+    C.  Chapter 12, add to the end of paragraph 3.e, "Per ref (d), T-
+AKE, T-AOE, and AS class ships storing limited amounts of 
+Class/Division (C/D) 1.2.2, 1.3, and 1.4 material do not create ESQD 
+arcs provided the following restrictions are met:
+        (1) NEW does not exceed 400 pounds C/D 1.2.2 material, 2,500 
+pounds of C/D 1.3 material, and mission essential quantities of C/D 
+1.4 material.
+        (2) C/D 1.2.2 material is stored in the ship's main cargo 
+holds.
+        (3) C/D 1.2.2 and C/D 1.3 material is stored in different 
+cargo holds."
+    D.  Chapter 12, paragraph 3.l.(1), change (d) to (e). 
+    E.  Chapter 13, paragraph 3.b.(1), add to the end of paragraph, 
+"Cargo ammunition ships carrying limited amounts of C/D 1.2.2, C/D 
+1.3, and mission essential quantities of C/D 1.4 material (refer to 
+Chapter 12, paragraph 3.e) do not create ESQD arcs when ammunition and 
+explosives are properly stored." 
+    F.  Chapter 13, paragraph 3.b.(2), change to read, "The ESQD for 
+combatants and ships meeting the conditions as outlined in Chapter 12, 
+paragraph 3.e, less FBM submarines, is based only on the AE actually 
+being handled outside the skin of the ship or not secured aboard." 
+
+3.  Retain and file this message in front of the Table of Contents 
+page until the formal change is posted to ref (b) located at the 
+Department of the Navy Issuances Web site 
+http://doni.documentservices.dla.mil/.
+
+4.  This message has been coordinated with COMUSFLTFORCOM, COMPACFLT, 
+COMNAVSEASYSCOM, COMSC, MSCLANT, MSCPAC, and NOSSA.
+
+5.  Released by VADM P. H. Cullom, N4.//
+
+BT
+#2406
+NNNN
+UNCLASSIFIED//

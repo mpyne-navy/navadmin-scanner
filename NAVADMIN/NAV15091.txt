@@ -1,0 +1,65 @@
+UNCLASSIFIED/
+
+ROUTINE
+
+R 201649Z APR 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+SUBJ/PLANNING AND GUIDANCE FOR MIGRATION FROM MICROSOFT WINDOWS 7 AND ALL 
+PRIOR VERSIONS OF WINDOWS OPERATING SYSTEMS 
+
+NAVADMIN 091/15 
+
+POC/CRICCHIO/GS15/OPNAV N2N6BC1/-/TEL:  571-256-8510/EMAIL:
+MICHAEL.CRICCHIO1(AT)NAVY.MIL//
+
+RMKS/1.  On 13 January 2015, Microsoft announced end of mainstream support 
+and the beginning of the lifecycle extended support phase for the Windows 
+(WIN) 7 operating system (OS).  Extend support is available through 14 
+January 2020.  This NAVADMIN alerts resource sponsors (RSs) and program 
+managers (PMs) to plan and observe guidance in order to achieve a timely 
+transition from WIN 7 to the next WIN OS version.
+
+2.  PMs responsible for ashore information technology (IT) assets shall 
+migrate all Next Generation Enterprise Network, Non-secure Internet Protocol 
+Router Network (NIPRNET) and Secret Internet Protocol Router Network 
+(SIPRNET) systems; OCONUS Navy Enterprise Network, NIPRNET, SIPRNET, and Top 
+Secret/Sensitive Compartment Information systems; and Navy legacy network 
+systems and applications to WIN 10 or more advanced Microsoft OS environment 
+no later than
+14 January 2020.  The program funding plan for migration should occur during 
+the program objective memorandum 2018 (POM-18) budget cycle.  Effective 1 
+October 2017, IT procurements submitted for the WIN 7 OS will be disapproved.
+
+3.  PMs responsible for afloat IT assets, including platform and weapons 
+systems IT, operating in the Consolidated Afloat Network Enterprise Service 
+(CANES) environment shall migrate to the WIN 8 OS in order to align with 
+CANES OS fielding plan. CANES will begin to upgrade to WIN 10 in FY19 
+therefore the program and funding plan for system and application migration 
+to WIN 10 in FY19 and beyond should take place during the POM-18 budget 
+cycle. Remaining Integrated Shipboard Network System (ISNS) and platform 
+centric networks associated with LPD-17 Common Operating Environment, LCS 
+Total Ship Computing Environment, and DDG-1000 Total Ship Computing 
+environments should plan for WIN 10 migration during the POM-18 budget cycle 
+as applicable.
+
+4.  RSs, PMs, and Command Information Officers are prohibited from 
+negotiating with vendors for command extended WIN 7 support agreements.  Any 
+IT procurement requests for an individual extended support agreement 
+submitted after 1 October 2017 will be disapproved.
+
+5.  Released by VADM Ted N. Branch, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

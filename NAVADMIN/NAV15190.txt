@@ -1,0 +1,258 @@
+UNCLASSIFIED//
+ROUTINE
+R 201601Z AUG 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 190/15
+
+SUBJ/JANUARY 2016 CYCLE 230 ACTIVE AND FULL TIME SUPPORT E7 NAVY-WIDE
+ADVANCEMENT EXAMINATION (CORRECTED COPY)//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+REF/A/DOC/BUPERS/2NOV07//
+REF/B/MSG/SECNAV WASHINGTON DC/052044ZMAR13//
+REF/C/MSG/CNO WASHINGTON DC/N1/061346ZAUG10//
+REF/D/MSG/CNO WASHINGTON DC/N1/252221ZJUN10//
+REF/E/MSG/CNO WASHINGTON DC/N1/131544ZDEC07//
+NARR/REF A IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF U.S. NAVY AND U.S. NAVY RESERVE.  REF B IS ALNAV 015/13, PERSONNEL 
+SECURITY INVESTIGATION SUBMISSION REQUIREMENTS. REF C IS NAVADMIN 259/10, 
+NAVAL SPECIAL WARFARE ALTERNATIVE FINAL MULTIPLE SCORE IMPLEMENTATION IN FY-
+11.  REF D IS NAVADMIN 215/10, PERFORMANCE EVALUATION AND ADVANCEMENT 
+GUIDANCE FOR INDIVIDUAL AUGMENTEE SAILORS. REF E IS NAVADMIN 336/07, 
+ADMINISTRATION OF THE NAVY-WIDE ADVANCEMENT EXAM FOR SAILORS IN IRAQ, 
+AFGHANISTAN, AND THE HORN OF AFRICA.//
+
+RMKS/1.  This NAVADMIN provides guidance for administration of the January 
+2016 (Cycle 230) E7 Navy-Wide Advancement Examination (NWAE) for active and 
+full time support (FTS) Sailors only.  Information pertaining to selection 
+board criteria will be promulgated via a future NAVADMIN.
+
+2.  Timeline
+    a.  21 January 2016:  Administration of exams for USN (active) and FTS.
+    b.  29 February 2016:  Individual augmentation (IA) evaluations used for 
+time-in-rate (TIR) waivers must have an ending date by this date.
+
+3.  Eligibility Criteria
+    a.  Candidates must meet the basic eligibility requirements outlined in 
+chapter 2 of reference (a) prior to 21 January 2016 to be considered as a 
+candidate.  Candidates who do not meet the eligibility requirements are 
+ineligible for cycle 230 NWAE and shall not be administered an advancement 
+examination.
+    b.  Terminal eligibility date (TED) for Cycle 230 used to compute the TIR 
+is 1 January 2017.  The minimum TIR date must be on or before l January 2014.
+    c.  TIR requirements for Early Promote Sailors can be waived for one year 
+with CO/OIC approval.
+    d.  High year tenure (HYT) date or approved HYT waiver must be effective 
+1 September 2016 or later.
+    e.  Commissioning Programs.  Candidates who have been selected for Seaman 
+to Admiral (STA-21), Medical Enlisted Commissioning Program (MECP) and 
+Medical Service Corps (MSC) in-service procurement programs remain eligible 
+for advancement consideration. Selection to any other officer commissioning 
+program renders candidates ineligible and those examinations must be 
+invalidated by their commands.
+    f.  Security Clearance.  Candidates in a rating requiring a security 
+clearance must have a favorable investigation adjudication issued by the 
+Department of Defense Central Adjudication Facility or the commanding 
+officers interim clearance must have been granted before 1 January 2016.  
+Refer to reference (b) for additional guidance.  Once Sailors have a 
+clearance they must maintain that clearance eligibility.  If for any reason a 
+clearance is denied or revoked, an exam is not authorized until a new 
+clearance is granted. Rates requiring a security clearance are AC, AE, AG, 
+AO, ATI, ATO, AWF, AWO, AWR, AWS, AWV, AZ, CTI, CTM, CTN, CTR, CTT, EOD, ET, 
+FC, FT, GM, HT, IC, IS, IT, ITS, LN, MA, MC, MN, MT, ND, OS, QM, SB, SO, STG, 
+STS, and YN, as well as all nuclear and submarine ratings.
+    g.  Branch class (BRCL) and special program indicator (SPI) code: BRCL 32 
+with a blank SPI code is an invalid Navy accounting status. Commands should 
+take action to have this corrected for Sailors reflecting no SPI code.  
+Sailors in this status will be invalidated.
+    h.  Canvasser recruiter (CANREC) personnel with BRCL of 32 and a SPI of W 
+are ineligible for advancement to E7 and are only authorized to take the NWAE 
+for limited duty officer purposes.
+    i.  Naval Special Warfare (NSW) personnel.  Per reference (c), the NSW 
+alternative final multiple score (AFMS) will be used to determine selection 
+board eligibility for Special Warfare Operator (SO) and Special Warfare Boat 
+Operator (SB) ratings.
+    j.  Candidates must meet special requirements (citizenship, security 
+clearance, medical, etc.) for certain ratings as outlined in paragraph 204 of 
+reference (a), prior to the regular exam date.
+    k.  Evaluations used to compute performance mark average (PMA) must be 
+inclusive of period 1 January 2013 - 31 December 2015. For additional 
+guidance on computing PMA, refer to chapter 3 of reference (a).  Refer to 
+reference (d) for use of concurrent evaluations for specific IA/global 
+support assignment (GSA) tours for PMA computation and to establish 
+eligibility for early promote TIR waivers.  Only E6 evaluations are to be 
+used for PMA computation.  If a service member does not have an evaluation 
+during the period specified, prepare a special evaluation with 31 December 
+2015 in block 15.
+
+4.  Exam Ordering
+    a.  Deploying commands can order exams up to six months prior to the 
+scheduled exam date.  Exams required prior to the TIR list opening are 
+ordered via message or in the preferred message format via e-mail to 
+sfly_N321_exam_order(at)navy.mil following the guidelines in chapter 4 and 
+figure 4-1 of reference (a).  Specify in the subject line the order request 
+is for early exams.  Ensure a point of contact (POC) is included in the 
+message.  Refer to reference (e) for IA Sailors.
+    b.  CTI/CTN/CTR sensitive compartmented information (SCI) exam ordering 
+dates can be found on the Navy Enlisted Advancement System (NEAS) website at 
+https://prod.neas.netc.navy.mil.
+        (1) Educational Services Officers (ESO) must verify TIR eligibility 
+lists on the NEAS website for initial exam ordering.
+        (2) Additional exams are ordered via message or in message format via 
+e-mail to sfly_cryptologic.products(at)navy.mil following the guidelines in 
+chapter 4 of reference (a).  Commands must include their Department of 
+Defense activity address code (DODAAC) account number, POC, and the number of 
+exams required.  Commands requesting the forwarding of exams should include 
+the forwarding command as an info addressee on the message.  The deadline for 
+additional orders is 28 September 2015.  The deadline for substitute SCI exam 
+orders is 31 January 2016.
+    c.  Exam ordering for non-SCI exams begins 14 September 2015. ESOs must 
+verify TIR eligibility lists on the NEAS website during the following time 
+periods:
+        (1) Initial TIR lists will be open for review and editing until 8 
+November 2015.  Initial TIR exam orders will be processed 9 November 2015.
+        (2) Eligible candidates that were not added to the initial TIR list 
+can be added to a supplemental TIR list.  Additional TIR lists will be 
+available 9 November 2015 to 6 December 2015.  The supplemental orders will 
+be processed 8 December 2015.
+        (3) Additional regular exams required after the TIR list has closed 
+will be considered; otherwise, substitute exams will be sent. Exams ordered 
+after the TIR list has closed should be ordered via message or in the 
+preferred message format via e-mail to sfly_N321_exam_order(at)navy.mil 
+following the guidelines in chapter 4 of reference (a).  Ensure a POC is 
+included in the message.
+        (4) Substitute exams should be kept to a minimum and require 
+justification as stipulated in chapter 4 of reference (a).  Naval Education 
+and Training Professional Development and Technology Center (NETPDTC) is the 
+approval authority for all substitute exams. The Deadline for non-SCI 
+substitute examination ordering is 12 February 2016.
+    d.  ESO must verify the examination order at the View Previous Exam 
+Orders link via NEAS web within 14 days of placing the order.
+
+5.  General Examination Information
+    a.  Examination will be administered per chapter 6 of reference (a).  Do 
+not administer Cycle 230 examinations prior to 21 January 2016 unless 
+specifically authorized by Enlisted Career Administration (PERS-812).
+    b.  Refer to reference (e) regarding examination options for Sailors who 
+are pending deployment to, or are deployed to and operating in a 
+Congressionally designated combat zone.  Commands must submit the command 
+letter of transmittal in accordance with reference (a).  The in-theatre 
+selection board eligibility waiver is not an automatic process.
+    c.  Authorized materials during examination administration, only those 
+materials specifically identified and listed in chapter 6 of reference (a), 
+this NAVADMIN and the general examination verbatim instructions are 
+authorized for use during examination administration.
+    d.  Navy Counselor (NC) Recruiter examinations.  Administer Navy Career 
+Counselor (Recruiter) (NCCR) examinations to the NCs holding the 2186 Navy 
+Enlisted Classification (NEC).  Administer Navy Career Counselor (Counselor) 
+(NCCC) examinations to all other NCs.
+    e.  Aviation Electronics Technician (AT) examinations. Administer 
+Aviation Electronics Technician (Intermediate) (ATI) examinations for 
+intermediate maintenance personnel and Aviation Electronics Technician 
+(Organizational) (ATO) examinations for organizational maintenance personnel.  
+Personnel will continue to be tested via two separate examinations, but will 
+be merged together for advancement purposes.
+    f.  Air Traffic Controllers (AC) must possess a valid FAA 7220-1 ATCS 
+certificate and meet requirements established in NAVMED P-117.
+    g.  Nuclear Electronics Technician (ETN), Nuclear Electricians Mate 
+(EMN), and Nuclear Machinists Mate (MMN) examinations:
+        (1) ETN, EMN, and MMN candidates will take nuclear-specific rating 
+examinations.
+        (2) Nuclear Surface and Submarine candidates will take the same 
+examination.
+    h.  The Non-Nuclear Electronic Technicians (ET) rating has separate exams 
+for Electronic Technicians (Communications) (ETR), Electronic Technicians 
+(Navigation) (ETV) and ET.  The Non-Nuclear Machinists Mate (MM) rating has 
+separate exams for Machinists Mate (Engineering) (MME), Machinists Mate 
+(Weapons) (MMW), and MM. Administer the appropriate examination in accordance 
+with (IAW) applicable NEC:
+        (1) ET Examinations:
+            ETR - NEC 14BH, 14HH, 14RO, 14TO, 14CM, 14TM, 14EM, 14RM
+            ETV - NEC 14NM, 14NO, 14NV, 14SM, 14TK, 14XM, 14NP, 14GM,
+            14XO
+            NOTE:  ET surface - Administer the ET examination.
+        (2) MM examinations:
+            MME - NEC 4230, 4231, 4234
+            MMW - NEC 4232, 4233, 4235
+            NOTE:  MM Surface - Administer MM examinations.
+    i.  If an exam is administered in error, the command must request to 
+invalidate IAW reference (a), paragraph 610.
+
+6.  Competing Groups.  USN candidates in the following ratings are separated 
+into the following competing groups:
+    a.  CS, LS, and YN
+        GROUP 1 - Submarine
+        GROUP 2 - All others
+    b.  CTI
+        GROUP 1 - Middle East/North Africa
+        GROUP 2 - East/Far East
+        GROUP 3 - Latin/South America
+        GROUP 4 - Eastern Europe
+    c.  EMN, ETN, and MMN
+        GROUP 1 - Submarine
+        GROUP 2 - Surface
+    d.  FC
+        GROUP 1 - Non-AEGIS
+        GROUP 2 - AEGIS
+    e.  MU
+        GROUP 1 - Premier Band
+        GROUP 2 - Fleet Band
+
+7.  Exam administration and answer sheet return
+    a.  Refer to the exam verbatim at https://prod.neas.netc.navy.mil for 
+exam administration and answer sheet return.  Or visit 
+https://www.nko.navy.mil under the Career Management link, select Navy 
+Advancement Center/Command Info/Command Advancement Resources.
+    b.  ESOs must check the exam tote board on the NEAS website at
+https://prod.neas.netc.navy.mil/Public/Toteboard.aspx to ensure answer sheets 
+have been received and processed.
+    c.  Substitute examinations must be administered within seven days of 
+receipt.
+    d.  A detailed discrepancy list will be maintained on the NEAS website.  
+Refer to reference (a), chapter 7 for guidance on correcting discrepancies.
+
+8.  Examination Results
+    a.  Results will be provided online via Bupers On-Line (BOL) to 
+authorized command representatives prior to the release of the profile 
+sheets.
+    b.  Commands must verify their exam status verification report (ESVR) and 
+submit a message to Naval Education and Training Professional Development and 
+Technology Center (N321), info Eligibility and Promotions Branch (PERS-802), 
+requesting invalidation for candidates no longer eligible or no longer 
+recommended for advancement.  Withdrawal of advancement must be documented 
+per reference (a), paragraph 721.b.
+    c.  Individual Sailors may view/download their profile sheet on the Navy 
+Knowledge Online (NKO); under the Career Management link, select Navy 
+Advancement Center/My Advancement.
+
+9.  Additional information regarding this cycle will be posted on the NEAS 
+website.
+
+10.  Points of Contact
+     a.  Navy Personnel Command Customer Service Center: 866-U-ASK-NPC or via 
+e-mail at uasknpc(at)navy.mil.
+     b.  SCI exam questions and orders:  850-473-5874/5867/DSN 753 or via 
+e-mail at sfly_cryptologic.products(at)navy.mil.
+     c.  Exam orders, records, and discrepancies:  850-473-6148/DSN 753 or 
+via e-mail at sfly_N321_exam_order(at)navy.mil, or 
+sfly_N321_discrepanc(at)navy.mil.
+
+11.  For further information (exam verbatim, advancement manual, and other 
+related documents) visit the NKO website at
+https://www.nko.navy.mil; under the Career Management link, select Navy 
+Advancement Center/Command Info.
+
+12.  This message will remain in effect until canceled or superseded, 
+whichever occurs first.
+
+13.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

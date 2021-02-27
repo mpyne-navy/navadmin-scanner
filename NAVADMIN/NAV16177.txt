@@ -1,0 +1,94 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 101548Z AUG 16
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 177/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/CHANGE TO THE CYBER WARRANT OFFICER COMMISSIONING PROGRAM//
+
+REF/A/DOC/OPNAV/14DEC09//
+
+REF/B/MSG/CNO WASHINGTON DC/N1/171307ZSEP12//
+
+REF/C/MSG/CNO WASHINGTON DC/N1/202357ZAPR10//
+
+REF/D/MSG/CNO WASHINGTON DC/N1/071628ZOCT13//
+
+NARR/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.  REF B IS NAVADMIN 281/12, ADVANCED CHANGE 
+NOTICE TO OPNAVINST 1420.1B CHAPTER SEVEN, LIMITED DUTY OFFICER AND CHIEF 
+WARRANT OFFICER APPLICATION INSTRUCTION AND POLICY.  REF C IS NAVADMIN 
+139/10, ESTABLISHMENT OF THE CYBER WARRANT OFFICER COMMUNITY, REF D IS 
+NAVADMIN 259/13, CHANGE TO THE CYBER WARRANT OFFICER COMMISSIONING PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces changes to Cyber Warrant Officer 
+commissioning program.
+
+2.  In order to meet the increasing demand for officers with specific 
+Computer Network Operations focused knowledge, skills, and abilities, the 
+Secretary of the Navy approved the establishment of the Cyber Warrant Officer 
+designator in 2010.  Designated as Chief Warrant Officers in the ranks of 
+Chief Warrant Officer-2 (W-2) through Chief Warrant Officer-5 (W-5), this 
+program provides a deliberate means of identifying, developing, and 
+commissioning technically-proficient Sailors to operate, analyze, plan, and 
+direct offensive and defensive Cyber Operations.
+
+3.  Sailors from the Cryptologic Technician Networks (CTN) and Information 
+Systems Technician (IT) ratings who have demonstrated operational Cyber 
+experience and acumen in offensive and defensive Cyber Operations are 
+eligible candidates for the Cyber Warrant program.  Candidates must have a 
+minimum of six years technical experience (i.e., Network Exploitation 
+Analyst, Penetration Testing, Malware Analysis, Forensic Analysis, 
+Vulnerability Analysis, etc.).
+CTNs who possess one of the Interactive Operator (ION) Naval Enlisted 
+Classification (NECs) (9308, 9326, 9327, 9328) are highly competitive 
+candidates for the Cyber Warrant program.  Initial assignments will be under 
+the purview of Fleet Cyber Command.
+
+4.  Due to the highly technical and ever-changing landscape of the Cyber 
+Warfare Environment, candidates who do not possess an ION NEC will be 
+required to take and pass the Computer Network Operations Test (CNT) to be 
+considered eligible for selection.  This requirement is non-waiverable.
+
+5.  All selections will be made via the Limited Duty Officer (LDO) and Chief 
+Warrant Officer (CWO) In-Service Procurement Board.
+
+6.  Points of Contact:
+    a.  For general LDO/CWO career path and policy questions, contact CWO5 
+Elizabeth Rivera at (901)874-2464/DSN 882 or via e-mail at 
+elizabeth.rivera1(at)navy.mil or LT Holly Taylor at (901)874- 4714/DSN 882 or 
+via e-mail at holly.r.taylor(at)navy.mil.
+    b.  For application and eligibility questions, contact the Navy Personnel 
+Command board sponsor LT Beau Blanchard at (901)874- 3170/DSN 882 or via 
+email at beau.blanchard(at)navy.mil or Mr.
+Joseph Delfoe at (901)874-3849/DSN 882 or via e-mail at 
+joseph.delfoe(at)navy.mil.
+    c.  For Cyber Warrant Officer program questions, contact LCDR Lemuel 
+Lawrence at (901)874-3123/DSN 882 or via e-mail at 
+lemuel.lawrence(at)navy.mil.
+    d.  For CNT facilitation, contact the Navy ION program manager CTNCS 
+Joshua Vallot at (443)634-4571/DSN 685 or via e-mail at 
+joshua.vallot(at)navy.mil.
+
+7.  Released By Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

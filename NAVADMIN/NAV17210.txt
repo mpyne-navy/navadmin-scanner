@@ -1,0 +1,113 @@
+UNCLASSIFIED
+ROUTINE
+R 281648Z AUG 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 210/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/FY-18 GENERAL MILITARY TRAINING REQUIREMENTS WITH NAVY CIVILIAN TRAINING 
+GUIDANCE//
+
+REF/A/MSG/CNO WASHINGTON DC/271514ZMAR17//
+REF/B/DOC/SECNAV/12DEC16//
+REF/C/DOC/SECNAV/11DEC15/NOTAL//
+NARR/REF A IS NAVADMIN 072/17, GENERAL MILITARY TRAINING OVERHAUL.
+REF B IS SECNAVINST 12410.25A, CIVILIAN EMPLOYEE TRAINING AND CAREER 
+DEVELOPMENT.  
+REF C IS MEMORANDUM, MANDATORY TRAINING FOR DEPARTMENT OF NAVY (DON) CIVILIAN 
+EMPLOYEES.//
+
+RMKS/1.  This NAVADMIN supersedes reference (a) and outlines the General 
+Military Training (GMT) requirements for FY-18 to include guidance for Navy 
+Civilian Mandatory Training.
+
+2.  Vision for GMT and Navy Civilian Mandatory Training.  To the greatest 
+extent possible, commanders should conduct training using discussions led by 
+command and deckplate leaders.  This concept of leader-led training puts 
+training back in the hands of Sailors, enabling a powerful and personal focus 
+on integrity, accountability, and character through an interactive learning 
+dialog.  We are seeking to eliminate the passive, impersonal, and ineffective 
+approaches to training that were often inherent in legacy computer- based 
+training products.  Some mandatory topics have specific requirements for 
+completion which deviate from this general guidance.  In those cases, the 
+requirements are specifically stated on the GMT webpage or Department of the 
+Navy (DON) Office of Civilian Human Resources (OCHR) Portal.
+
+3.  GMT requirements.  (Military Only)
+    a.  The following is a complete list of mandatory GMT. Commanders are 
+responsible for certification of training completion. There is no requirement 
+to log accomplishment of GMT training in Fleet Training Management and 
+Planning System or Total Workforce Management Services.  However, commands 
+are encouraged to keep local records of training completion.
+
+        (1) Sexual Assault Prevention and Response (SAPR) Awareness*
+        (2) Equal Opportunity/Sexual Harassment/Grievance Procedures
+        (3) Suicide Prevention
+        (4) Antiterrorism Level 1 Awareness
+        (5) Counterintelligence Awareness and Reporting
+        (6) Combating Trafficking in Persons
+        (7) Cyber Awareness Challenge (computer-based only)
+        (8) Operations Security
+        (9) DON Annual Privacy Training
+        (10) Records Management
+
+        *The complete standardized content of the SAPR course should be given 
+face-to-face in a classroom environment.
+    b.  Based on need, commands may choose to include optional GMT topics.  A 
+list of optional topics and associated training material are available on the 
+GMT webpage.
+
+4.  Navy Civilian Mandatory Training.  The official list of mandatory 
+training for Navy civilians and supervisors of Navy civilians (both military 
+and civilian) is maintained by DON OCHR at
+https://portal.secnav.navy.mil/orgs/MRA/DONHR/Training/Pages/Mandato
+ry-Training.aspx.  References (b) and (c) germane.  Many of the Navy civilian 
+mandatory training topics can be completed in combined military-civilian 
+training sessions, if desired.  The GMT webpage lists the mandatory training 
+topics that can be conducted in combined sessions.
+
+5.  Additional information
+    a.  GMT webpage.  The Navy GMT webpage is a comprehensive source of 
+training materials and information for GMT.  To access the GMTwebpage go to 
+My Navy Portal (MNP) at https://my.navy.mil.  Once logged in to MNP, select 
+the Professional Resources drop down menu, then select General Skills 
+Training, and then select GMT from the navigation menu on the left to access 
+the Navy GMT page.
+    b.  Command and deckplate leader discussions (Military and Navy 
+Civilians).  Command and deckplate leader discussions may be conducted at 
+quarters, all-hands calls, or divisional training, etc. For these 
+discussions, printable training materials provide an outline for the conduct 
+of training and serve as springboards to elicit discussion to the point that 
+the leader is satisfied that the learning objectives are understood.  It is 
+not the intent for commands to create new training lesson plans to support 
+the accomplishment of GMT.  Printable training materials are available for 
+military or civilians on the GMT webpage.
+    c.  GMT Calendar.  A notional schedule for GMT completion is provided on 
+the GMT webpage for the convenience of commands. Commands are responsible for 
+assigning and completing mandatory GMT during the fiscal year, and they 
+should develop a GMT schedule that makes sense based on their unique command 
+requirements.
+    d.  The point of contact for GMT questions or feedback is Mr. Mark 
+Oberley, NETC N522, who can be reached at (850)452-4884 or via e-mail at 
+gmt.distribution(at)navy.mil.  The point of contact for Navy civilian 
+training questions is Ms. Nalo Washington, OPNAV N1C, who can be reached at 
+(703)604-0324 or via e-mail at nalo.washington(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or 30 September 
+2018, whichever occurs first.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

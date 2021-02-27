@@ -1,0 +1,77 @@
+RTTUZYUW RUEWMCS0000 3571930-UUUU--RUCRNAD.
+ZNR UUUUU
+
+R 231930Z DEC 13
+
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS //N01520//
+
+NAVADMIN 327/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N3N5/DEC//
+
+SUBJ/AY14-15 POLITICO-MILITARY (POL-MIL) MASTERS AND ARTHUR S. MOREAU POST-
+MASTERS PROGRAM SELECTION BOARD RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/021813Z Jul 13//
+
+AMPN/REF A IS THE ANNOUNCEMENT OF THE POL-MIL MASTERS AND ARTHUR S.
+MOREAU POST - MASTERS PROGRAM SECTION BOARD NAVADMIN 171/13//
+
+RMKS/1. This NAVADMIN announces the AY14-15 POL-MIL Masters and Arthur S. 
+Moreau Post-Masters program selection board results.
+
+2. Congratulations to the following officers on their selection. Primary
+selectees are listed in alphabetical order and alternate selectees are listed
+in board ranked order.
+
+2.A. ARTHUR S. MOREAU PRIMARY SELECTEE:
+     NAME                 RANK    DESIG
+     Watkins, Jeremy L    LCDR    1110
+
+2.B. ARTHUR S. MOREAU ALTERNATE SELECTEES:
+     NAME                 RANK    DESIG
+     Sandomir, David C    LCDR    1110
+     Blake, Jeffrey D     CDR     1310
+
+2.C. POLITICO-MILITARY MASTERS PRIMARY SELECTEES:
+     NAME                 RANK    DESIG   TERM
+     Edwards Lloyd R      LCDR(S) 1130    2 Year
+     Fortmann, Andrew K   LCDR    1130    1 Year
+     Mangan, William G    LCDR    1120    1 Year
+     Meyer, Kristopher K  LCDR    1320    1 Year
+     Nyheim, Erik A       LCDR(S) 1130    1 Year
+     Simoni, Stephanie M  LCDR(S) 1110    1 Year
+     Sullivan, Patrick T  LT      1310    1 Year
+     Toraason, Clifford W LCDR    1320    1 Year
+
+2.D. POLITICO-MILITARY MASTERS ALTERNATE SELECTEES:
+     NAME                 RANK    DESIG
+     Scheidler, Timothy R LT      1310
+     Starr, Matthew, G    LCDR(S) 1310
+     Blake, Jeffrey, D    CDR     1310
+     Breedlove, Paul N    LCDR    1317
+
+3.  Primary selectees must accept or decline program assignment NLT 14 days
+from the date of this NAVADMIN. Make written notification of acceptance or  
+declination via email to the NAVPERSCOM POC listed below with a copy to 
+respective community detailers and to the OPNAV N3/N5 POC listed below.
+
+4.  POINT(S) OF CONTACT:
+
+4.A.  NAVPERSCOM: LCDR ANGELIN GRAHAM; DSN 882-4056 OR COMM
+(901) 874-4056; EMAIL: ANGELIN.GRAHAM(AT)NAVY.MIL.
+
+4.B.  OPNAV (NATIONAL SECURITY SUBSPECIALTY MANAGEMENT, POLITICAL-MILITARY 
+EDUCATION PROGRAMS MANAGEMENT): LT ALAN SYSLO (N515); DSN 223-4482 OR 
+COMM (703) 6923-4482; EMAIL:
+ALAN.SYSLO(AT)NAVY.MIL.
+
+5.  RELEASED BY VADM M. J. HOWARD, DCNO N3N5.//
+BT
+#1045
+NNNN
+

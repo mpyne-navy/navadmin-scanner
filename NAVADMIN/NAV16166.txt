@@ -1,0 +1,117 @@
+UNCLASSIFIED
+ROUTINE
+R 261702Z JUL 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 166/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FY-17 GENERAL MILITARY TRAINING SCHEDULE//
+
+REF/A/DOC/OPNAV/3SEP15//
+REF/B/MSG/CNO WASHINGTON DC/081342ZEP15//
+NARR/REF A IS OPNAVINST 1500.22H, GENERAL MILITARY TRAINING PROGRAM.
+REF B IS NAVADMIN 213/15, FY-16 GENERAL MILITARY TRAINING SCHEDULE.//
+
+RMKS/1.  This NAVADMIN promulgates General Military Training (GMT) 
+requirements for FY-17 and should be read in its entirety.  Building on the 
+major changes implemented in FY-16 through references (a) and (b), this years 
+program continues to reduce mandatory training requirements for FY-17 GMT and 
+places additional control at the discretion of local command leadership in 
+determining what training is required and how often it must be accomplished.  
+This additional flexibility is particularly relevant in FY-17, as Navy 
+expects to see an increase in one time, all hands training requirements 
+outside of the GMT program (provided via separate correspondence).
+
+2.  The following lessons are included in the Standardized Core Training 
+program and are mandatory for FY-17:
+    a.  Required face-to-face, instructor led sessions provided at the 
+command level.  Commands must utilize senior leadership to deliver this 
+training and are encouraged to leverage local subject matter experts and 
+collateral duty officers to compliment standardized training content:
+        (1) Sexual Assault Prevention and Response (SAPR) Awareness
+        (2) Equal Opportunity/Sexual Harassment/Grievance Procedures (EO/SH);
+            (a) Department of Defense (DoD) has directed that commands 
+deliver SH training, when practicable, at the same time as SAPR training.
+            (b) If coincident delivery of this lesson is not practicable, 
+separate EO/SH training delivery is still required under this category.
+        (3) Suicide Prevention.
+    b.  These topics are also required for FY-17, utilizing standardized 
+training products.  They may be completed face-to-face (where an available 
+lesson format supports) or through individual completion of the courses 
+listed on the Navy Knowledge Online (NKO)/Navy eLearning courses GMT Web 
+Page:
+        (1) Combating Trafficking in Persons General Awareness;
+        (2) Antiterrorism Level I Awareness;
+        (3) Cyber Security Awareness;
+        (4) Counterintelligence Awareness and Reporting;
+        (5) Operations Security (OPSEC);
+        (6) Privacy and Personally Identifiable Information (PII); and
+        (7) Records Management.
+
+3.  The following lessons are part of the Navy Command Assigned Readiness 
+Enhancement training program for FY-17.  In alignment with the fleet-centered 
+leader development approach outlined in CNOs A Design for Maintaining 
+Maritime Superiority, all Command-Assigned Readiness-Enhancement (CARE) 
+topics for FY-17 will be delivered to the appropriate audience at an 
+appropriate periodicity as determined by the local command.  Delivery may 
+include locally-generated content or utilize standardized products as 
+desired.  Commands may also consider presentations by outside organizations 
+(e.g., law enforcement outreach, Mothers Against Drunk Driving, Fleet and 
+Family Support Center) commonly given at safety standdowns or pre/post 
+deployment briefings, to be part of CARE training.  There is no minimum 
+periodicity associated with these topics, but commands are encouraged to 
+judiciously exercise this flexibility to ensure the right people receive the 
+training when appropriate based on command schedule and as situational 
+requirements dictate:
+        (1) Alcohol, Drugs, and Tobacco Awareness;
+        (2) Stress Management;
+        (3) Domestic Violence Prevention and Reporting;
+        (4) Sexual Health and Responsibility;
+        (5) Physical Readiness;
+        (6) Hazing Policy and Prevention;
+        (7) Personal Financial Management;
+        (8) Operational Risk Management; and
+        (9) Energy Policy.
+
+4.  We will continue our efforts to work with DoD and Secretary of the Navy 
+to update relevant instructions, pursue additional consolidation, and provide 
+more effective and efficient training options.  The availability of mobile 
+applications that may be loaded onto personal electronic devices (e.g., smart 
+phones, tablets, etc.) and used to complete certain GMT lessons at a more 
+convenient time continue to grow.  There are currently four GMT mobile apps 
+available - Domestic Violence Prevention and Reporting, OPSEC, Records 
+Management, and PII), respectively.  Download information is available via 
+the Navy’s official GMT Web page, which remains the best resource for 
+information related to the GMT program.  It is a living document updated 
+regularly and remains the primary resource for access to training materials, 
+any changes to related training requirements, and revised training 
+availability.  To access this web page, go to NKO at www.nko.navy.mil.  Once 
+logged into NKO, select the GMT option under the Personal Development menu 
+item to access the Navy’s GMT page.
+
+5.  Individually completed web-based training is automatically recorded and 
+tracked in the individuals electronic training jacket. Command delivered 
+training completion is recorded in the Fleet Management and Planning System 
+(FLTMPS) via the learning event completion form.  Detailed instructions are 
+available online at ntmpsweb.ncdc.navy.mil/fltmps, by contacting the support 
+office at (866) 438-2898, and posted on the NKO GMT page.  Send questions or 
+feedback via email to gmt.distribution(at)navy.mil.
+
+6.  This NAVADMIN is canceled for record purposes on
+30 September 2017.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,406 @@
+UNCLASSIFIED
+ROUTINE
+R 091632Z MAR 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 061/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/JUNE 2018 ACTIVE DUTY OFFICER LATERAL TRANSFER/REDESIGNATION BOARD//
+
+REF/A/DOC/OPNAV/6DEC16//
+REF/B/DOC/COMNAVPERSCOM/22AUG02//
+REF/C/DOC/COMNAVPERSCOM/31MAY05//
+REF/D/DOC/COMNAVPERSCOM/6JAN13//
+REF/E/DOC/COMNAVPERSCOM/13APR10//
+REF/F/DOC/COMNAVPERSCOM/30MAY13//
+REF/G/DOC/SECNAV/1JUN06//
+REF/H/DOC/COMNAVPERSCOM/2JUN10//
+REF/I/DOC/COMNAVPERSCOM/22AUG02//
+REF/J/MSG/CNO WASHINGTON DC/251736ZJAN18//
+
+NARR/REF A IS OPNAVINST 1210.5A, LATERAL TRANSFER/REDESIGNATION AND 
+AUGMENTATION OF OFFICERS IN THE NAVY.  
+REF B IS MILPERSMAN ARTICLE 1212-010, LATERAL TRANSFER AND CHANGE OF 
+DESIGNATOR CODES OF REGULAR AND RESERVE OFFICERS.  
+REF C IS MILPERSMAN ARTICLE 1212-030, REDESIGNATION OF REGULAR PERMANENT AND 
+TEMPORARY LIMITED DUTY OFFICERS.  
+REF D IS MILPERSMAN ARTICLE 1220-410, SEAL/EOD/SWCC/DIVER/AIRR PHYSICAL 
+SCREENING TESTING STANDARDS AND PROCEDURES.  
+REF E IS MILPERSMAN ARTICLE 1210-230, EXPLOSIVE ORDNANCE DISPOSAL (EOD) 
+OFFICER.  
+REF F IS MILPERSMAN ARTICLE 1220-100, NAVY DIVER (ND) RATING.  
+REF G IS SECNAV M-5510.30, DEPARTMENT OF THE NAVY PERSONNEL SECURITY PROGRAM.  
+REF H IS MILPERSMAN 1610-020, DISQUALIFICATION OF OFFICERS FOR DUTY INVOLVING 
+FLYING.  
+REF I IS MILPERSMAN 1210-110, ENGINEERING DUTY OFFICER DESIGNATION:  
+QUALIFIED IN SUBMARINES.  
+REF J IS NAVADMIN 014/18, UPDATED OFF-RAMP GUIDANCE FOR ACTIVE AND RESERVE 
+COMPONENT INFORMATION WARFARE AND SUPPLY CORPS LIMITED DUTY OFFICERS.//
+
+RMKS/1.  This NAVADMIN announces the convening of the June 2018 Active Duty 
+Officer Lateral Transfer/Redesignation Board.  The lateral transfer and 
+redesignation process is a key tool by which the Navy manages the talents of 
+its officers.  It provides flexibility in officer community manning and 
+improves the return on investment in officer training and education for the 
+Navy by leveraging the specialized skillsets of officers throughout their 
+careers.  As part of the process, applications from qualified unrestricted 
+line, restricted line (RL), staff corps, and limited duty officers (LDO) are 
+now being accepted for the Active Duty Officer Lateral Transfer/Redesignation 
+Board which convenes 4 June 2018.  Full-time Support and Selected Reserve 
+officers are not eligible to apply for this board.
+
+2.  In addition to the year group (YG) limitations imposed in paragraph 6, 
+applicants must also meet eligibility requirements detailed in references (a) 
+through (c), and are required to review and comply with any additional 
+community requirements found in the June 2018 Letter of Instruction located 
+at: http://www.public.navy.mil/bupers-npc/boards/administrative/ 
+TransferRedesignation/Pages/Status.aspx.
+    a.  Officers who do not meet eligibility requirements in line with 
+references (a) through (c) such as time-in-grade, years-of-commissioned 
+service (YCS), or time-in-service must submit a waiver request in addition to 
+or in conjunction with their lateral transfer/redesignation application as 
+specified by specific communities.
+    b.  A waiver request must include the commanding officer (CO) endorsement 
+and a waiver request letter of the officer.  The CO may endorse the waiver in 
+the same letter as the lateral transfer package endorsement.
+    c.  Active Component LDOs in the Supply Corps (651X) and Information 
+Warfare Community (68XX) are designated for off-ramp as listed in reference 
+(j).  Those who are eligible and desire to redesignate within their parent 
+communities should submit their requests in line with reference (j) vice this 
+board.
+
+3.  Submit applications and waiver requests (as required), using the format 
+in reference (b) via email to cscselboard(at)navy.mil.  Email subject line 
+should reflect *Board Package:  Board No. 240*.  If no means of electronic 
+correspondence are available, application packages can be sent hard copy to:
+
+    Commander
+    Navy Personnel Command, Customer Service Center
+    June 2018 Active Duty Lateral Transfer/Redesignation (Board #240)
+    5720 Integrity Drive
+    Millington TN 38055-0000
+       -OR-
+For Express Mail ONLY (to include FEDEX, UPS, and DHL)to:
+    Commander
+    Navy Personnel Command, Customer Service Center
+    June 2018 Active Duty Lateral Transfer/Redesignation (Board #240)
+    5640 Ticonderoga Loop Bldg 768 Rm E302
+    Millington, TN 38055-6300
+
+4.  Application (including signed command endorsement), waiver requests, and 
+any other eligibility documentation required by the requested community must 
+be received no later than 9 April 2018. All non-eligibility supplemental 
+information such as transcripts, letters of recommendation, or current 
+fitness reports must be received no later than 25 May 2018.
+
+5.  To confirm application receipt, contact Commander, Navy Personnel Command 
+Customer Service Center at (866) 827-5672/DSN 882, or log on to 
+https://npccontactcenter.ahf.nmci.navy.mil/OA_HTML/npc.html.
+
+6.  The following information provides officers with an indication of 
+existing lateral transfer/redesignation opportunities.
+    a.  Designators indicated are authorizing a limited number of active-duty 
+officers to transfer from their current community.  Each YG is subject to 
+change prior to the board convening:
+
+Community/Designator                  Available YG        Notes
+Surface Warfare (111X)                15 and senior       a, b, c, d
+Submarine (112X)                      12 and senior       b, e
+Pilot (131X)                          09 and senior       f
+Naval Flight Officer (132X)           11 and senior       f
+Engineering Duty Officer (14X0)       09, 05              g
+Intelligence (183X)                   13-07               N/A
+Supply (310X)                         13 and senior       N/A
+Civil Engineer Corps (510X)           14-04               h
+Limited Duty (6XXX)                                       i
+
+    b.  Requests for transfer from communities not listed in paragraph 6a 
+(including all LDO designators) are extremely limited and handled on a case-
+by-case basis.
+    c.  The following designators have requirements for a limited number of 
+active-duty officers to transfer into their community.
+
+Each YG is subject to change prior to the board convening:
+
+Community/Designator                Available YG     Notes (para. 7)
+Surface Warfare (116X)              16 and junior    j
+Special Warfare (118X)              none             k
+Explosive Ordnance Disposal (119X)  15 and junior    l
+Human Resources (120X)              16-06            m, n, o
+Naval Flight Officer (137X)         14 and junior    N/A
+Pilot (139X)                        14 and junior    N/A
+Engineering Duty Officer (14X0)     15-12, 08        c, g
+Aerospace Engineering (151X)        11-04            p
+Aerospace Maintenance (152X)        15, 11-04        q
+Public Affairs (165X)               12 and junior    N/A
+Foreign Area Officer (17XX)         13-04, 01-98     r
+Oceanography (180x)                 16-15, 12-11     c, s
+Cryptologic Warfare (181X)          15-05            c, t
+Information Professional (182X)     05 and junior    c, t
+Intelligence (183X)                 16-14, 12, 08-04 c, t
+Medical Service Corps (230X)        09 and junior    N/A
+Judge Advocate Corps (2500)         15 and junior    u
+Supply Corps Officer (310X)         12-10            v
+Civil Engineer Corps (510X)         16 and junior    w
+
+7.  Notes:
+    a.  Must have Surface Warfare Officer (SWO) qualification completed to 
+apply for transfer.  Officers under SWO Continuation Pay Revised Junior 
+Critical Skills Retention Bonus, SWO Lieutenant Commander (LCDR) Retention 
+Bonus or Department Head (DH) Retention Bonus contract are not eligible for 
+transfer until completion of bonus obligation.  SWOs serving under an 
+agreement for any of the SWO bonuses are eligible to apply to the board if 
+the board convening date is within one year of satisfaction of the full bonus 
+obligation.  Quotas out may be limited due to manning levels for any given 
+YG, community billet requirements, the status of DH contract goals for YGs 
+with less than six YCS, and the assignment status of the individual officer.  
+Officers within their detailing window must communicate with their detailer 
+prior to submitting a lateral transfer application.  Executing orders, 
+slating to a billet, or serving in a hard fill billet or one with significant 
+training required could disqualify an officer for consideration and release 
+from the community until arrival to the next duty station or upon completion 
+of a minimum activity tour.  Requests for lateral transfer out of the SWO 
+community from LCDR and above will be considered on a case-by-case basis due 
+to shortages in these grades.
+    b.  Waivers to the requirements of paragraph 4h of reference (b) for 
+nuclear-trained Surface and Submarine Warfare Officers may be considered on a 
+case-by-case basis.
+    c.  Officers commissioned under a still-valid SWO-option agreement 
+(Engineering Duty (ED), Intelligence, Information Professional, Cryptologic 
+Warfare, Oceanography (OCEANO)) must contact their respective RL option 
+community manager regarding desire to be released from the SWO-option 
+agreement and seek lateral transfer to a different community.
+    d.  Nuclear-trained SWOs YG-12 and senior are available for lateral 
+transfer consideration.  YG-13 is open to officers applying to EDO(N) only.
+    e.  Officers screened *not cleared* for their next career milestone are 
+eligible.
+    f.  The YG range provided displays possible opportunities. Contact your 
+specific community placement officer with questions regarding quota 
+availability for each Type/Model/Series/YG.  General aviation officers (1300) 
+are eligible to apply for lateral transfer regardless of Active-Duty Service 
+Obligation (ADSO) from winging. Aviation officers (131X and 132X) are 
+eligible to apply for lateral transfer if the officer has fulfilled ADSO, or 
+will be within 12 months of completing ADSO at the time the board convenes.  
+Aviation officers with obligated service as a result of Aviation Bonus (AvB) 
+are eligible to apply if the officer will be within 12 months of completing 
+AvB obligation at the time the board convenes. Additionally, aviation 
+officers with obligated service as a result of AvB are eligible to apply if 
+the officer will be within 12 months of DH tour projected rotation date (PRD) 
+at the time the board convenes, regardless of contrary AvB contract language. 
+Redesignation immediately following DH tour may result in cancellation of 
+Aviation Incentive Pay (AvIP) and AvB, which will be adjudicated by Aviation 
+Officer Assignment (PERS-43).  Graduates from U.S. Naval Test Pilot School 
+class 150 and 151 may apply for Aerospace Engineering Duty Officer (AEDO) 
+only, regardless of ADSO (contact AEDO Officer Community Manager (OCM) for 
+details).  If selected, Aviation Officers should expect to redesignate 
+immediately.  Exceptions may be made for the completion of ADSO, 
+fulfillment/expiration/cancellation of AvB contract, or PRD, as determined by 
+Aviation OCM (BUPERS-313).  Officers selected to AEDO should expect to 
+redesignate immediately.  Aviation Officers in operational flying billets 
+(billet designator XXX1 or XXX2) will not redesignate until vacating the 
+billet.  BUPERS-313 authorizes redesignation timing.  By accepting a lateral 
+transfer out of Aviation (13XX) an officer consents to voluntary termination 
+of flight status (except for AEDO selects) effective the date of 
+redesignation with the lateral transfer application and CO endorsement 
+fulfilling the requirements set forth in reference (h).
+    g.  ED Community.
+        (1) Applicants desiring out quota from ED:
+            (a) ED out-quotas are extremely limited.  Redesignation requests 
+must be reviewed on a case-by-case basis with careful consideration given to 
+impact on overall community health.
+            (b) Applicants must have fulfilled at least 24 months of their 
+postgraduate education payback tour in order to apply.
+        (2) Applicants desiring redesignation to ED:
+            (a) Officers without a warfare qualification are expected to 
+submit an application for the ED Dolphin Program in line with reference (i).
+            (b) Applicants from YGs 15-12 (paragraph 6c) are desired.  YG 11-
+09 inventory requirements are met and not open for redesignation on this 
+board.  Applicants from YG 08 are desired if applicants are currently 
+enrolled in or have completed an approved Masters Degree.  See MILPERSMAN 
+1212-040 for a list of approved degrees and corresponding subspecialty codes.
+    h.  Civil Engineer Corps (CEC) Officers under a CEC Critical Skills 
+Retention Bonus (CSRB) contract are eligible to apply to the board if the 
+board application due date is within one year of satisfaction of the full 
+bonus obligation.  Officers with more than one year of obligation remaining 
+on their CEC CSRB contract may submit a waiver to be released prior to 
+fulfillment of their bonus obligation.  Waivers shall be submitted to the CEC 
+OCM for review on a case-by-case basis and can be submitted with the 
+application.  If approved, the notice of approval for early release from the 
+CSRB contract shall be included with the lateral transfer application. 
+Release from the CSRB contract will be considered a voluntary release subject 
+to repayment of any unearned amount.
+    i.  LDO redesignation requests will be reviewed on a case-by-case basis, 
+considering impact to overall community health.  Nuclear LDO submissions will 
+not be considered.  All other designators must have completed four YCS and 
+accepted permanent LDO appointment to LT prior to lateral 
+transfer/redesignation.  LDO out quotas are extremely limited but special 
+consideration will be given to officers projected to be statutorily separated 
+for years of service prior to attaining the rank of commander.
+    j.  Officers YG 15 and senior seeking lateral transfer into the Surface 
+Warfare Community are strongly encouraged to contact the SWO OCM prior to 
+applying in order to discuss critical SWO career milestone requirements.
+    k.  Naval Special Warfare (NSW) will no longer consider or select lateral 
+transfers via this board.  All applicants will be considered by a separate 
+NSW selection process and must submit their application via current OCM to 
+the Sea Air Land (SEAL) OCM.  More information, including required 
+application contents and submission due dates, can be found on the SEAL OCM 
+website at http://www.public.navy.mil/bupers-
+npc/officer/communitymanagers/active/Unrestricted/nsw/Pages/SEALOfficerSelect
+ion.aspx.
+    l.  Eligible officers in YG-15 and junior will be considered for lateral 
+transfer and redesignation as an EOD Warfare Officer trainee (1190).  Those 
+interested are encouraged to review references (d) through (f) and contact 
+the EOD OCM for package requirements and eligibility.
+    m.  Officers in all eligible YGs with Operations Analysis (OA) 
+subspecialty (321X) and/or those with an academic profile code (APC) of 325 
+or better are encouraged to apply to Human Resources (HR).
+    n.  YG-15 has highest anticipated inventory requirement. Inventory 
+requirements for YGs 08 and 09 are met.  However, the HR community is 
+targeting increased inventory for OA subspecialists. YGs 08 and 09 applicants 
+with 321X subspecialty from completed graduate education and/or experience 
+tours are planned for referral to board.  This is the last planned 
+opportunity for YG 06 applicants for lateral transfer.
+    o.  HR applicants without a masters degree resulting in 3XXX 
+subspecialty, shall request to have their APC calculated by Naval 
+Postgraduate School prior to board convening date (apply online at
+https://my.nps.edu/web/admissions/apply).  Applicants without an APC by the 
+application suspense shall include a copy of their undergraduate transcript 
+with their application.
+    p.  Officers who are one time fail to select (FOS) for LCDR will not be 
+considered for lateral transfer to 1510.  Aviation officers (13XX) are 
+eligible and may apply for 1510 (only) regardless of ADSO if they are a 
+graduate of U.S. Naval Test Pilot School class 150 or class 151.
+    q.  Officers are strongly encouraged to contact the aerospace maintenance 
+duty OCM to discuss milestones and qualifications commensurate with YG.
+    r.  All Foreign Area Officers (FAO) must be eligible for top 
+secret/sensitive compartmented information security clearance (TS/SCI), 
+submit a Personnel Security Questionnaire (SF-86) in line with reference (g), 
+or include a letter from a special security officer (SSO) indicating 
+successful completion of an SCI pre-screening interview (SSO letter is 
+preferred).
+        (1) Defense Language Proficiency Test and Oral Proficiency Interview 
+level 2 or higher is a qualifying score but is not required for applicants in 
+YG 08 and junior.  A minimum Defense Language Aptitude Battery (DLAB) score 
+of 95 is required, and a score greater than 110 is highly desirable.  DLAB 
+scores never expire and there is no need to retake the exam if a desired 
+score is attained.
+        (2) Officers without a regionally-focused masters degree should have 
+an APC of 265 or better, or an undergraduate grade point average (GPA) of at 
+least 2.60.  If they do not meet this requirement a waiver can be requested 
+by submitting an enclosure in the application.
+        (3) The following paragraphs provide rank and YG specific information 
+for officers considering lateral transfer/redesignation to FAO:
+            (a) Lieutenant and LCDR selects (sel) - Applicants in YG 13-08 
+are desired.  Waiver requests for less than eight YCS are required and will 
+be granted down to five YCS from the date the board convenes.
+            (b) LCDR - Applicants in YG 07-04 are desired. Applicants with 
+more than elevan YCS (YG-07 and senior) should already possess a regionally-
+focused masters degree, DLPT scores of 2/2 or higher in a foreign language 
+and overseas experience.  The community is especially interested in 
+applicants who have substantial overseas experience, and/or language 
+capabilities. Applicants in YG 05 should be within 12 months of PRD but shall 
+be within 18 months of PRD.  Interested officers are highly encouraged to 
+contact the FAO OCM to discuss milestones, qualifications and career 
+implications before applying.
+            (c) CDR - Applicants in YG 01-98 are encouraged to apply.  
+Applicants should possess eligibility requirements to be considered a fully 
+qualified FAO.  Additionally, they should have obtained in region experience 
+of not less than one year.  Central Command or Pacific Command experience is 
+preferred.  Interested officers are highly encouraged to contact the FAO OCM 
+to discuss milestone, qualifications, and career implications before 
+applying.
+    s.  OCEANO applicants shall request to have APC calculated by Naval 
+Postgraduate School prior to board convening date.  Apply online at 
+http://www.nps.edu/Students/Prospective/index.html.  All applicants must be 
+worldwide assignable and fit for full sea duty. All YG 13 and senior 6800 
+redesignation applicants will be considered with calculated APC and progress 
+on individual development plan if required.  Officers who have once FOS to 
+the next grade in their parent community will not be considered for lateral 
+transfer to OCEANO.  All applicants must be eligible for TS/SCI, submit a SF-
+86 in line with reference (g), or include a letter from a SSO indicating 
+successful completion of an SCI pre-screening interview.
+    t.  Officers applying for CW, IP, or INTEL Communities.  LCDR applicants 
+for 1810/1820/1830 with more than two years TIG should contact the CW, IP or 
+Intelligence OCM to discuss milestone and performance requirements.  IP, CW, 
+and INTEL applicants must be eligible for TS/SCI, submit a SF-86 in line with 
+reference (g), or include a letter from a SSO indicating successful 
+completion of an SCI pre-screening interview.  CW applicants that do not hold 
+or are not currently eligible for TS/SCI must complete an SCI eligibility 
+pre-screening interview with the Fleet Cyber Command Security Directorate 
+field office at (850) 452-6868 and submit the results as part of their 
+application.  All officers must be worldwide assignable and fit for full sea 
+duty.  Officers who have once FOS to the next grade in their parent community 
+will not be considered for lateral transfer.  Applicants to INTEL (183X) in 
+YG 08 must be LCDR or LCDR(sel).  All applicants (except 681x) to CW (181X) 
+in YGs 09-10 must be LCDR or LCDR(sel).  All officers in YG 09-15 with 
+designator 6810, 6820, or 6830 who desire redesignation should submit their 
+requests in line with reference (j).
+    u.  The Judge Advocate Corps applicants must have a Juris Doctorate (JD) 
+from and American Bar Association-approved (ABA-approved) law school and be a 
+member in good standing of the bar of a federal court or of the highest court 
+of any state, territory, commonwealth, or the District of Columbia.
+    v.  The Supply Corps is only accepting applicants from the LDO Supply 
+Community (651X) in YG 12-10.  Interested applicants should submit their 
+requests in line with reference (j).
+    w.  CEC applicants must have an accreditation board for engineering and 
+technology accredited engineering degree or a National Architectural 
+Accrediting Board accredited architecture degree.
+
+8.  Officers are required to list their lateral transfer/redesignation 
+choice(s) by priority in their application. Additionally, officers are 
+required to indicate their desire to be considered/not considered for lateral 
+transfer/redesignation by communities not listed in the application with the 
+following statement:  *If not selected by one of my listed choices, I 
+desire/do not desire my application to be reviewed by other communities 
+during the lateral transfer/redesignation board.*  If selected by a community 
+not listed in their application, these applicants will be notified via 
+official correspondence after the selection results are released with the 
+option to accept or decline.
+
+9.  Interested officers are strongly recommended to contact their respective 
+OCMs listed below:
+
+AEDO       (301) 757-8480/DSN 757
+AMDO       (301) 757-8481/DSN 757
+AVIATION   (901) 874-3353/DSN 882
+CEC        (901) 874-4034/DSN 882
+EDO        (901) 874-3473/DSN 882
+EOD        (901) 874-4991/DSN 882
+FAO        (901) 874-3694/DSN 882
+HR         (901) 874-4049/DSN 882
+INTEL      (901) 874-3426/DSN 882
+IP         (901) 874-2846/DSN 882
+CW         (901) 874-3123/DSN 882
+LDO        (901) 874-3044/DSN 882
+MSC        (901) 874-2370/DSN 882
+OCEANO     (901) 874-2461/DSN 882
+PAO        (901) 874-3098/DSN 882
+SPECWAR    (703) 604-5005/DSN 664
+SUB        (703) 604-5488/DSN 664
+JAGC       (901) 874-3521/DSN 882
+SUPPLY     (901) 874-3189/DSN 882
+SWO        (901) 874-3173/DSN 882
+SWO(N)     (703) 604-5490/DSN 664
+
+10.  Points of contact:
+     a.  For community-specific application questions, contact the 
+appropriate OCM as listed in paragraph 9.
+     b.  For application format or submission questions, contact LT Beau 
+Blanchard at (901) 874-3170/DSN 882, or e-mail at NPC_Active_Transfer-
+Redes_SELBD.fct(at)navy.mil.
+
+11.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

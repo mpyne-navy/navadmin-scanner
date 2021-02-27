@@ -1,0 +1,72 @@
+UNCLASSIFIED
+ROUTINE
+R 031640Z MAY 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 109/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/U.S. NAVY SENIOR ENLISTED ACADEMY (SEA) UPDATE//
+
+REF/A/COMNAVPERSCOM/11SEP16//
+AMPN/REF A IS MILPERSMAN 1306-925 ARTICLE, SENIOR ENLISTED ACADEMIES (SEA)//
+
+RMKS/1.  This message updates the Senior Enlisted Academies (SEA) class 
+schedule discussed in reference (a) for the Navy SEA and highlights funding 
+challenges for Select Reserve (SELRES) students.
+
+2.  The SEA is adjusting its course length from 9 weeks of distance learning 
+(DL) to 7-weeks DL to better support the fleet and reduce the impact on 
+commands.  Additionally, the reduction in length allows the SEA to hold more 
+classes per year, providing more flexibility and opportunities to attend.
+
+3.  The 7 week DL course format is constructed as follows:  7 weeks of DL at 
+parent command, followed by one week of admin time, and concluded by 3 weeks 
+of in residence (IR) education in Newport, RI, totaling 11 weeks from start 
+to finish.  This format will go into effect for FY-18 classes, beginning with 
+SEA Class 209.
+
+4.  SELRES:  The following items apply for SELRES students only:
+    a.  Two SEA classes each year are designated for SELRES students who 
+cannot attend 3 weeks in residence.  These students will complete the same 7 
+week DL, followed by 2 weeks of admin time, followed by 2 weeks of in 
+residence education.  All in residence course material will be compressed 
+from 3 weeks to 2 weeks for these classes in order to fulfill academic 
+requirements.
+    b.  Experience shows that funding for SELRES to attend the IR portion is 
+often a limiting factor, requiring the student to drop the class after 
+completing the entire DL phase.  SELRES students should secure funding early 
+in the process to ensure their quota is not lost.
+
+5.  See the SEA website for further detail at:
+https://www.usnwc.edu/departments---colleges/senior-enlisted-academy.aspx.
+
+6.  The following points of contact are available for more information:
+    a.  Director who can be reached at (401) 841-2912 or via e-mail at 
+director.sea(at)usnwc.edu
+    b.  Deputy Director who can be reached at (401) 841-4946 or via e-mail at 
+depdirector.sea(at)usnwc.edu
+    c.  Course manager who can be reached at (401) 841-4944 or via e-mail at 
+coursedirector.sea(at)usnwc.edu
+    d.  Registration who can be reached at (401) 841-4221 or via e-mail at 
+registration.sea(at)usnwc.edu, and
+    e.  Defense Travel System Coordinator who can be reached at (401) 841-
+4469 or via e-mail at seadtscoordinator(at)usnwc.edu
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,79 @@
+UNCLASSIFIED//
+ROUTINE
+R 261333Z FEB 20 MID510000981416U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 047/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/IDENTITY MANAGEMENT//
+
+REF/A/DOC/OPNAV/4AUG11//
+REF/B/DOC/CHINFO/MAR19//
+
+NARR/REF A IS OPNAVINST 3432.1A, OPERATIONS SECURITY.
+REF B IS NAVY SOCIAL MEDIA HANDBOOK 2019.//
+
+RMKS/1.  This message announces establishment of the Navy Identity Management
+(IdM) program and outlines direction for incremental changes to the way we 
+disseminate information about our personnel.
+
+2.  We are operating in an environment in which our adversaries work 
+tirelessly to gain competitive advantage by accessing operational and 
+proprietary information on our ships, submarines, aircraft, installations, 
+business processes and our most important asset, our people.  Recognizing 
+this, we must adapt how we access, store and share information to effectively 
+deny our adversaries this opportunity and advantage.  Today’s operating 
+environment requires us to consider all potential threats to our Sailors 
+including social media, cyber hacking and other exploitive behavior.  We are 
+no longer operating in an environment threatened only by traditional weapons 
+such as warships and missiles.
+
+3.  Effective immediately:
+    a.  The Navy will establish an IdM program of record to provide Sailors 
+the education, training and tools necessary to protect and deny unauthorized 
+and inadvertent access to critical information, while balancing our desire to 
+maintain transparency within the Navy and with the American people.
+    b.  Dissemination practices for active and reserve component enlisted 
+advancements and officer promotions, program selections and command 
+assignments will be scrutinized and modified, where appropriate.  Current 
+practices will continue with the ultimate goal to move all personnel 
+communications and transactions to a multi-factor authentication protected, 
+secure domain.
+    c.  In advance of these changes, Sailors are strongly encouraged to 
+review reference (b) to ensure personal online activity, behavior and 
+security settings align with Operations Security requirements.  Know who you 
+are following, know who follows you and think carefully before posting on 
+social media.  Reference (b) can be found at
+https://www.navy.mil/ah_online/OPSEC/docs/Policy/Navy_Social_Media_Handbook_2
+019.pdf.
+
+4.  These are the first steps.  IdM training will be implemented to teach our 
+Sailors and families how to operate smartly in the online battlespace.  We 
+are committed to protecting our Sailors and families in every domain.  More 
+information on the Navy IdM program will be made available in the next few 
+months on the Navy IDM site currently being developed.
+
+5.  Point of contact is Mr. Geoff Tokajer, Identity Management program 
+Director (OPNAV N17), who can be reached at (703) 317-7203/DSN 664 or via 
+e-mail at geoffrey.tokajer(at)navy.mil.
+
+6.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

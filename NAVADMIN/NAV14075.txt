@@ -1,0 +1,94 @@
+RTTUZYUW RUEWMCS0000 0932221-UUUU--RUCRNAD
+ZNR UUUUU
+R 032238Z APR 14 PSN 026649K27
+FM CNO WASHINGTON DC//DNS//
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 075/14
+
+MSGID/GENADMIN, USMTF, 2008/CNO WASHINGTON DC/DNS/APR//
+
+SUBJ/LESSONS LEARNED COLLECTION EFFORTS FOR MILITARY OPERATIONS//
+
+REF/A/DESC:DOC/OPNAV/19MAR2001//
+REF/B/DESC:LTR/CJCS/04FEB2014//
+REF/C/DESC:DOC/CJCS/20APR2012//
+NARR/REF A IS OPNAVINST 3500.37C, NAVY LESSONS LEARNED SYSTEM (NLLS).  REF B 
+IS CJCS MEMORANDUM ON LESSONS LEARNED COLLECTION EFFORTS FOR MILITARY 
+OPERATIONS. REF C IS CJCSI 3150.25E, JOINT LESSONS LEARNED PROGRAM. //
+
+RMKS/1. This NAVADMIN provides background, guidance, and coordinating 
+instructions for use of the Navy Lessons Learned System, reference (a). The 
+Navy Lessons Learned System is the singular Navy program for collection, 
+validation and distribution of unit or staff feedback, as well as correction 
+of problems identified and derived from fleet operations, exercises and other 
+miscellaneous events.
+
+2. Lessons, observations, and recommendations from past events are critical 
+to the development of future capabilities, and contribute to safe and 
+effective operations. For this reason, it is imperative that all hands 
+contribute to and leverage the wisdom embedded in our Navy Lessons Learned 
+System.    
+
+3. In accordance with references (b) and (c), the Navy Lessons Learned 
+Information System (NLLIS) is now integrated within the Joint Lessons Learned 
+Information System (JLLIS), but retains a distinct Navy entry portal through 
+which the Navy Lessons Learned System continues to operate in sync with other 
+services and combatant commanders to provide direct access to lessons learned 
+across the DoD. The Navy portal into JLLIS makes available tens of thousands 
+of observation reports and port visit reports from 1985 to the present.
+
+4. Observations submitted to JLLIS are routinely analyzed and used by 
+services and combatant commanders to improve current and future operations. 
+Following operations, exercises and other miscellaneous events, participating 
+units should submit observations and recommendations utilizing the Navy 
+lessons learned information system online at the following websites:
+
+a. NIPRNET https://www.jllis.mil (cac required)/Email: 
+navylessonslearned(at)navy.mil.  
+b. SIPRNET http://www.jllis.smil.mil.Email: 
+navylessonslearned(at)navy.smil.mil.  
+c. Collaboration at sea (siprnet) at  
+Http://www.uar.cas.navy.smil.mil/nwdc/nll/nll.nsf.
+
+5. Elements of a good observation include: 
+a. A detailed description of the observed event that addresses questions of 
+who, what, when, where, why, and how.
+b. A description of the situation that prompted the submission of the 
+observation.
+c. A description of options to avoid or alleviate the problem or recommended 
+ways to improve upon existing methods.
+d. A description of potential risks if recommendations are not adopted.
+e. Observations are not limited to shortfalls or inefficiencies. Positive 
+observations, innovations, and best practices are also strongly encouraged.
+
+6. Prior to an operation, exercise, port visit or other high interest/complex 
+event, participating units and staffs should take advantage of existing fleet 
+observations and recommendations using built-in search tools and libraries 
+within JLLIS and ensure relevant insights are shared and considered during 
+pre-event
+planning and preparations. During preparations for an event, commanders 
+should direct subordinates to record observations for later submission into 
+NLLIS. This direction should be reinforced during event execution.
+
+7. Following the completion of an event, commanders should ensure 
+subordinates promptly record and submit lessons learned, observations and 
+recommendations into JLLIS via NLLIS.
+  
+8. Point of contact is Captain Dan Brune, Navy Warfare Development Command, 
+Navy Lessons Learned and Analysis Department Head, N5l at (757) 341-4211/DSN 
+341, or via email; dan.brune(AT)navy.mil.
+
+9. Additional training on the use of NLLIS and collection of observations is 
+available online at the JLLIS website or in person from the fleet lessons 
+learned site representatives located at each of the geographic numbered fleet 
+headquarters.
+
+10. Released by Vice Admiral S. H. Swift, Director, Navy Staff.//
+
+BT
+#6342
+NNNN
+UNCLASSIFIED//

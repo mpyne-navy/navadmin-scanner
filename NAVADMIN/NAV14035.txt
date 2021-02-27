@@ -1,0 +1,53 @@
+RTTUZYUW RUEWMCS0000 0521843-UUUU--RUCRNAD.
+ZNR UUUUU
+R 211910Z FEB 14
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01500//
+
+NAVADMIN 035/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-15 DOCTORAL STUDIES PROGRAM SELECTION BOARD RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/082157ZMAY13//
+AMPN/REF A IS NAVADMIN 119/13, FY-15 DOCTORAL STUDIES PROGRAM 
+SELECTION BOARD.//
+
+RMKS/1.  This NAVADMIN announces selections for the FY-15 Doctoral 
+Studies Program (PHD).  Primary selectees are listed with the 
+academic discipline for which they were selected.  Alternate 
+selectees will be contacted only if the primary selectee declines 
+the program.  Congratulations to the following officers:
+
+Primary Selectees:
+LAST NAME, FIRST NAME  DESIG  PROGRAM/SCHOOL
+DiMaggio, Dominic F.   1800   Oceanography Operational Sciences/NPS
+Jonart, Douglas E.     1460   Naval Construction and Engineering/MIT
+Mills, Adam J.         1460   Electrical Power Systems Engineering/NPS
+Wendt, Robert D. T.    1800   Meteorology Operational Sciences/NPS
+None Selected                 Naval/Mechanical Engineering/NPS
+
+Alternate Selectees:    
+LAST NAME, FIRST NAME  DESIG  PROGRAM/SCHOOL
+Cowan, Christy G.      1800   Oceanography Operational Sciences/NPS
+Woerner, Kyle L.       1460   Naval Construction and Engineering/MIT
+
+2.  Primary selectees must accept or decline program assignment NLT 14 
+days from the date of this NAVADMIN.  Make written notification of 
+acceptance or declination via e-mail to the point of contact in 
+paragraph 3 below with a copy to respective community detailer.
+
+3.  Point of contact is LCDR Angelin Graham, PERS-440B, at (901) 874-
+4056/DSN 882 or via e-mail at angelin.graham(at)navy.mil.
+
+4. This NAVADMIN will remain in effect until canceled or superseded.
+
+5.  Released by Vice Admiral W. F. Moran, N1.//
+BT
+#0000
+NNNN
+

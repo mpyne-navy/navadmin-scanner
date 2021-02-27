@@ -1,0 +1,508 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 021507Z JUL 20 MID110000801499U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 189/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/JUN//
+
+SUBJ/NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS OUTBREAK UPDATE 6//
+
+REF/A/NAVADMIN/OPNAV/122138ZJUN20//
+REF/B/MEMO/OSD/22MAY20//
+REF/C/ALNAV/SECNAV/121305ZJUN20//
+REF/D/MEMO/SECNAV/12JUN2020//
+REF/E/MEMO/OSD/7FEB2020//
+REF/F/MEMO/OSD/25FEB2020//
+REF/G/MEMO/OSD/11MAR2020//
+REF/H/MEMO/OSD/8APR2020//
+REF/I/MEMO/OSD/13APR2020//
+REF/J/ALNAV/SECNAV/231933ZMAR20//
+REF/K/ALNAVRESFOR/COMNAVRESFOR/162051ZAPR20//
+REF/L/ALNAVRESFOR/COMNAVRESFOR/212022ZMAY20//
+REF/M/MEMO/OSD/19MAY20//
+REF/N/NAVADMIN/OPNAV/201856ZMAY20//
+REF/O/DOC/WHITE HOUSE/16APR2020//
+REF/P/NAVADMIN/OPNAV/062057ZMAY20//
+REF/Q/NAVADMIN/OPNAV/172057ZJUN20//
+REF/R/MEMO/OSD/26MAY20//
+REF/S/MEMO/OSD/29JUN20//
+REF/T/MEMO/ASN M&RA/30JUN2020//
+
+NARR/REF A IS NAVADMIN 168/20, NAVY MITIGATION MEASURES IN RESPONSE TO 
+CORONAVIRUS OUTBREAK UPDATE 5.  
+REF B IS SECRETARY OF DEFENSE (SECDEF) MEMO ON TRANSITION TO CONDITIONS-BASED 
+PHASED APPROACH TO CORONAVIRUS DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL 
+RESTRICTIONS.  
+REF C IS ALNAV 067/20, CANCELLATION OF ALNAV 044/20 AND ALNAV 049/20.  
+REF D IS SECRETARY OF THE NAVY (SECNAV) MEMO ON DEPARTMENT OF THE NAVY 
+IMPLEMENTATION OF TRANSITION TO CONDITIONS-BASED APPROACH TO CORONAVIRUS 
+DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL RESTRICTIONS.  
+REF E IS UNDERSECRETARY OF DEFENSE (PERSONNEL AND READINESS
+(USD(PR)) FORCE HEALTH PROTECTION GUIDANCE (FHPG) (SUPPLEMENT 1).  
+REF F IS USD(PR) FHPG (SUPPLEMENT 2).
+REF G IS USD(PR) FHPG (SUPPLEMENT 4).  
+REF H IS USD(PR) FHPG (SUPPLEMENT 7).  
+REF I IS USD(PR) FHPG (SUPPLEMENT 8).  
+REF J IS ALNAV 029/20, STATE AND LOCAL SHELTER-IN- PLACE ORDERS IMPACT ON DON 
+OPERATIONS.  
+REF K IS ALNAVRESFOR 011/20, NAVY RESERVE FORCE POLICY UPDATE FOR COVID-19.  
+REF L IS ALNAVRESFOR 012/20, NAVY RESERVE FORCE POLICY UPDATE FOR COVID-19 
+UPDATE 2.  
+REF M IS SECDEF MEMO ON GUIDANCE FOR COMMANDERS ON RISK-BASED CHANGING OF 
+HEALTH PROTECTION CONDITION LEVELS DURING THE CORONAVIRUS DISEASE 2019 
+PANDEMIC.  
+REF N IS NAVADMIN 147/20, GUIDANCE TO COMMANDERS ON ADJUSTING HEALTH 
+PROTECTION CONDITIONS AND BASE SERVICES.  
+REF O ARE WHITE HOUSE GUIDELINES OPENING UP AMERICA AGAIN (PDF SLIDES).  
+REF P IS NAVADMIN 136/20, CNO MESSAGE TO THE FLEET.  
+REF Q IS NAVADMIN 173/20, U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL 
+GUIDANCE VERSION 2.0.  
+REF R IS USD(PR) FHPG (SUPPLEMENT 9).  
+REF S IS SECDEF MEMO ON EXEMPTION OF AUTHORIZED LEAVE FOR DEPARTMENT OF 
+DEFENSE SERVICE MEMBERS FROM CORONAVIRUS DISEASE 2019 PERSONNEL MOVEMENT AND 
+TRAVEL RESTRICTIONS.  
+REF T IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE AFFAIRS) (ASN 
+M&RA) MEMO ON DEPARTMENT OF THE NAVY EXEMPTION OF AUTHORIZED LEAVE FOR 
+SERVICE MEMBERS FROM CORONAVIRUS DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL 
+RESTRICTIONS.// 
+POC/RADM JEFFREY JABLON/OPNAV N13/703-604- 5040/JEFFREY.JABLON(AT)NAVY.MIL//
+
+RMKS/1.  Based on recent revisions to Department of Defense (DoD) and 
+Department of the Navy (DoN) guidance regarding travel restrictions 
+(references (s) and (t)), leave and liberty outside of the local area is now 
+exempted from the travel restrictions listed in reference (b), the DoD 
+framework on transitioning to a conditions-based, phased approach to 
+personnel movement and travel.  This NAVADMIN cancels reference (a), removes 
+personal leave and liberty outside of the local area as restricted travel, 
+and in line with references (b) through (d) transitions the stop movement 
+approach to domestic and overseas personnel travel to a conditions- based and 
+phased approach to lifting of travel restrictions.  All other guidance from 
+reference (b) remains in effect until further notice.  All commands shall 
+continue to take specific actions to mitigate the spread of COVID-19 
+worldwide and Department of the Navy (DON) Navy Service Members will adhere 
+to Force Health Protection Guidance (FHPG), references (e) through (i) and 
+(r).  This NAVADMIN does not cancel or supersede Combatant Commander (CCDR) 
+guidance for forces assigned or allocated to that Combatant Command (CCMD) or 
+within that CCMD Area of Responsibility (AOR).  This NAVADMIN is effective 
+immediately and reissues guidance for the Navy that will remain in effect 
+until further notice.
+
+2.  Stop Movement.  A stop movement for all DON Navy Service Members and 
+their dependents (if dependent travel is government-funded), both 
+internationally and domestically, remains in effect unless the conditions 
+listed in paragraph 4 are met (Transition to Condition- based Phased 
+Approach).
+    2.A.  Except as provided below, this stop movement applies to all 
+official travel, including temporary duty (TDY) travel, permanent duty travel 
+including Permanent Change of Station (PCS) travel, and travel related to 
+Authorized Departures (AD) and Ordered Departures (OD) issued by the 
+Department of State (DoS).  For DON civilian travel, DON will promulgate 
+guidance separately in accordance with reference (d).  For personnel and 
+units deploying to and from homeport (originating unit location for reserve 
+personnel), follow the guidance of reference (q).
+    2.B.  Stop Movement Exemptions.  The following circumstances are exempt 
+from the stop movement travel restrictions:
+          2.B.1.  Travel associated with uniformed personnel recruiting and 
+accessions activities, to include accessions, basic training, advanced 
+military individual training and follow-on travel to the first duty station.
+          2.B.2.  Travel by patients (to include those on the Temporary 
+Disability Retired List (TDRL)), as well as their authorized escorts and 
+attendants, for purposes of medical treatment.  Travel by medical providers 
+for the purposes of medical treatment for DoD personnel and their families is 
+also authorized.
+          2.B.3.  Travel for Global Force Management (GFM) activities 
+(defined as deployments/redeployments ordered in the GFM Allocation Plan 
+(GFMAP) and CCMD Assigned Force Demand Tasking, including Service internal 
+rotations to support and TDY used to source ordered capabilities).  Such 
+travel to execute Operations, Activities and Investments or Service-related 
+training will be coordinated between the CCDR, the Joint Staff (JS) and the 
+appropriate Military Department.  All GFM-scheduled deployments/redeployments 
+of U.S. Navy vessels and embarked units and personnel are authorized, 
+provided they have met the Restriction of Movement (ROM) guidance set forth 
+in references (e), (q), (r) and any applicable subsequent guidance.
+          2.B.4.  Travel authorized by the Commander, U.S.
+Transportation Command (USTRANSCOM), to continue execution of the Joint 
+Deployment and Distribution Enterprise as required to project and sustain the 
+Joint Force globally.  This includes forces (aircrews, vessel crews and 
+mission essential personnel) ordered on prepare-to-deploy orders alert 
+status, air refueling, global patient movement, mortuary affairs support, 
+inland surface, sea and air sustainment missions, support to other U.S. 
+Agencies (as approved by the Secretary of Defense (SecDef)) and moves of 
+personnel and equipment that support USTRANSCOM global posture requirements.
+          2.B.5.  Travel by military personnel pending retirement or 
+separation.  Specific to Navy Service Members, travel is authorized to take 
+terminal leave.
+          2.B.6.  Travel by those under authority of a Chief of Mission and 
+authorized by that Chief of Mission.  Travel from locations where the DoS has 
+issued an OD, and return travel from safe havens when the DoS has terminated 
+an OD or AD.
+          2.B.7.  Travel to and from Professional Military Education Programs 
+(defined by Navy as in-resident graduate education including in-resident 
+Joint Professional Military Education (JPME)).
+          2.B.8.  In line with references (s) and (t), personal leave and 
+liberty travel outside of the local area for Navy Service Members is exempt 
+from COVID-19 related travel restrictions.
+Approval authority for leave outside of the local area will be determined by 
+the echelon 2 commander, but may be delegated by the echelon 2 commander to 
+no lower than the unit CO, OIC or equivalent (Branch Head, Division Director, 
+etc.).
+                  2.B.8.a.  Commanders and supervisors will conduct a risk 
+assessment of the health status and travel itinerary for Navy Service Members 
+requesting leave or liberty outside the local area.
+Navy Service Members should not travel if they display a fever or other 
+symptoms consistent with COVID-19 or if they have had close contact with 
+someone who has tested positive for COVID-19 within the past 14 days.  Navy 
+Service Members will comply with any DoD, component, federal, state and local 
+restrictions while in a leave/liberty status.
+                  2.B.8.b.  Commanders and supervisors will follow the 
+procedures in reference (g) for all Service Members traveling on leave.  
+Commanders and supervisors will establish a means of communication with all 
+Navy Service Members throughout the period of leave or liberty and post-
+travel actions as well as prescribing actions (i.e., post-travel ROM, if 
+applicable) for their particular circumstances.  Navy commanders and 
+supervisors may be more restrictive based on local risk assessment in 
+consultation with public health authorities.
+                  2.B.8.c.  The MyNavy Portal Travel Tracker
+(https://www.mnp.navy.mil/group/don-covid-19-travel-tracker) can be used to 
+see the status of states, countries, territories and installations to assist 
+with making risk informed decisions on approving leave and implementing the 
+appropriate mitigation measures when individuals return from leave. For 
+example, if a Sailor is approved to take leave to a red location, it may be 
+appropriate for the sailor to ROM upon return based on potential exposure to
+COVID-19 due to the locations high rate of COVID-19 documented cases. 
+References (g) and (i) in particular provide guidance on when various risk 
+mitigation measures, such as ROM, are appropriate.
+    2.C.  Stop Movement Waivers.  Waivers to the stop movement travel 
+restrictions may be granted in writing in cases where the travel is:  1) 
+Determined to be mission-essential, 2) Necessary for humanitarian reasons or 
+3) Warranted due to extreme hardship.  These waivers are to be executed on a 
+case-by-case basis, must be determined to be in the best interest of the U.S. 
+Government and shall be coordinated between the gaining and losing 
+organizations.  Mission-essential travel refers to work that must be 
+performed to ensure the continued operations of mission-essential functions, 
+including positions that are deemed key and essential, as determined by the 
+responsible DoD Component.  Further information on granting waivers is 
+contained in paragraph 3.D.
+
+3.  Stop Movement Policy.  This portion of the NAVADMIN applies to areas 
+currently under a stop movement.  Paragraph 4 applies to the transition of 
+areas out of stop movement status.  All personnel should follow federal, 
+state and local (including host nation) direction, as well as direction from 
+their chain of command, including observing *Stay at Home* orders if in 
+effect, maximizing telework and practicing social distancing.  Reference (j) 
+provides additional guidance on state and local executive orders and COVID-19 
+response.
+    3.A.  PCS
+          3.A.1.  PCS orders from or to locations under a stop movement.  
+Navy Service Members and their dependents under PCS orders will stop 
+movement.  Execution of PCS orders requires a waiver in accordance with (IAW) 
+paragraph 3.D.
+          3.A.2.  A local PCS move may be executed without a waiver since it 
+does not involve travel outside of the local area.  Same geographic location 
+PCS moves will only be executed with due regard to the operational readiness 
+of the commands involved.  Losing and gaining commands are encouraged to 
+coordinate with placement coordinators and detailers in Navy Personnel 
+Command (NPC) Career Management Pillar Branch (PERS-4) as required.  PERS-4 
+shall adjudicate same geographic location PCS move decisions in situations 
+where losing and gaining commands do not agree on an execution timeline.  
+This adjudication may be delegated, but no lower than the O-6 Division 
+Director level at PERS-4.
+    3.B.  Other Official Travel (Meetings, Conferences, Site Visits, etc.).  
+All other official travel by Navy Service Members from or to an area under a 
+stop movement is prohibited and will require a waiver IAW paragraph 3.D.  
+Navy Reserve personnel will follow guidance promulgated by the Chief of Navy 
+Reserve (CNR) in references (k) and (l).
+    3.C.  Travel for Official Training.
+          3.C.1.  Navy Service Members traveling to attend formal training 
+from or to an area under a stop movement will require a waiver IAW paragraph 
+3.D. prior to travel, advance coordination with the training command and will 
+comply with reference (q) and any Navy Component Commander (NCC) guidance 
+concerning pre- and post-travel medical screening and reception procedures, 
+to include ROM if applicable.
+          3.C.2.  Navy Service Members (not exempted by para 2.B.1.) 
+currently executing PCS or TDY orders and attending training and/or schools 
+will complete their current training and/or school.  Those on TDY orders are 
+directed to remain in contact with the command that issued the orders for 
+returning instructions/guidance.  Navy Service Members executing PCS orders 
+should expect to take one of the following actions:  (1) return to their 
+previous Permanent Duty Station (PDS), (2) remain at the school/training site 
+if prudent for health protection, (3) if the next school/training is in the 
+same location and the course is still being offered, continue training.
+Reevaluate after school/training completion or (4) proceed to the next 
+intermediate stop or ultimate PDS.  Decisions will be based on force health 
+protection considerations.  Throughout the process, Navy Service Members 
+should consult with their affected command (current, losing and future) as 
+well as their detailer.
+          3.C.3.  Naval Education and Training Command (NETC) Learning 
+Centers will continue to support Fleet mission-essential training to the 
+maximum extent possible while minimizing risk to force and balancing risk to 
+mission, strictly abiding by Centers for Disease Control (CDC), DoD and 
+Bureau of Medicine and Surgery (BUMED) guidance in the classroom/trainer 
+environment.  There must be a two-factor approach for all training when 
+determining whether to convene a course/training.  First, a deliberate 
+evaluation should be conducted on whether the course/training should be 
+convened based on its measurable impact to Force Generation (Fg) and Force 
+Employment (Fe).  Second, a deliberate evaluation should be conducted as to 
+whether the course/training can be conducted while still adhering to current 
+FHPG.  For all accession level courses, ROM shall be required before 
+commencing training unless students arrive via bubble-to-bubble/protected 
+travel.  For all high- risk/intensity training courses, and courses where 
+CDC, DoD, and BUMED guidance cannot be adhered to (physical nature of 
+training, team simulators, firefighting/damage control trainers, etc.), ROM 
+shall be required before commencing training unless students are from the 
+local area or arrive via bubble-to-bubble travel.  For all other courses, ROM 
+will be at the discretion of the schoolhouse COs based on risk to force.  
+Fleet units shall coordinate ROM requirements with the schoolhouse before 
+permitting student travel.  Type Commanders (TYCOMS) should validate each 
+individual training requirements mission-essentiality in light of the risk to 
+force, and then coordinate with NETC to implement risk mitigations (i.e., 
+reduced throughput, extra course convenings, ROM, etc.).
+    3.D.  Stop Movement Waivers.
+          3.D.1.  All travel orders will be annotated stating the waivers 
+herein being granted.  Waivers granted prior to the date time group of this 
+NAVADMIN under reference (a) are still valid.
+          3.D.2.  COs and OICs may request a waiver via their chain of 
+command to paragraphs 3.A. through 3.C.  Approval authority for waivers 
+belongs to the CCDR if the individual is assigned or allocated to a CCMD, the 
+Chairman of the Joint Chiefs of Staff (CJCS) if the individual is assigned to 
+the JS, the DoD Chief Management Officer (DoD CMO) for personnel in the 
+Office of the Secretary of Defense (OSD), Defense Agencies, DoD Field 
+Activities (and any other DoD entities not listed in this paragraph) and 
+finally to the Secretary of the Navy (SECNAV) for personnel under his 
+jurisdiction.  In line with reference (d), SECNAV has delegated this 
+authority to the Chief of Naval Operations (CNO).
+                  3.D.2.a.  PERS-4 is delegated authority to approve or deny 
+stop movement waivers for Navy Service Member PCS travel in paragraphs 3.A. 
+and 3.C.2.  Approvals of waiver requests shall be made via message traffic to 
+all concerned and will specify whether dependents are authorized to accompany 
+the Navy Service Member.  Detaching commander endorsement is required up 
+through the first Flag Officer or the Senior Executive Service (SES) or 
+equivalent with authority to approve waivers in line with paragraph 3.D.2.b.
+NCCs will be notified of all PCS movements into and out of their area of 
+responsibility.  Upon receipt of an approved waiver, Transaction Service 
+Center or Personnel Support Detachment personnel/offices will process the 
+Navy Service Member for transfer to the gaining command.  Send all waiver 
+requests to pers451(at)navy.mil with the subject line PCS WAIVER REQUEST.
+Waiver request formats are posted on MyNavy Portal (MNP).  Navy Service 
+Members who are granted a waiver will receive guidance from NPC concerning 
+NCC pre- and post-travel medical screening and reception procedures to 
+include ROM.
+                  3.D.2.b.  Authority to approve or deny stop movement 
+waivers for Navy Service Members in the case of:  (1) official travel in 
+paragraph 3.B., and (2) official training, not associated with a PCS, in 
+paragraph 3.C. is delegated to the echelon 2 commander.  The echelon 2 
+commander may further delegate waiver authority, but no lower than the first 
+Flag Officer or SES or equivalent in the chain of command of the Service 
+Member.  Those who are granted a waiver will comply with the NCC guidance 
+concerning pre- and post-travel screening and reception procedures.
+    3.E.  Holding Conferences (and other similar events involving gatherings 
+of personnel).  All conferences (and other similar events) shall be held 
+virtually until an area transitions out of stop movement status as detailed 
+in paragraph 4.  Upon designation as an unrestricted travel location, the 
+decision to hold conferences (and other similar events) in person should be 
+based on local Health Protection Conditions (HPCON) and if the conference 
+(and other similar events) is determined to be permissible, all attendees 
+should adhere to applicable FHPG.
+    3.F.  References (m) and (n) contain specific requirements and 
+considerations for each HPCON.  Considerations include the
+following:  During HPCON C and above, Navy Service Members avoid social 
+settings of 10 or more people that do not allow for appropriate social 
+distancing.  During HPCON B, larger gatherings may occur but practice social 
+distancing, and when physical distancing is not possible, use precautionary 
+measures (like face coverings).  During HPCON A, all should consider 
+minimizing time spent in crowded environments.  During HPCON 0, unrestricted 
+activities may resume.  Naval component and region commanders may be more or 
+less stringent than surrounding community requirements based on mission and 
+risk considerations.
+
+4.  Transition to Condition-based Phased Approach.
+    4.A.  Transition to a conditions-based, phased approach to personnel 
+movement and travel applies to all official travel, including TDY travel, 
+permanent duty travel including PCS travel and travel related to ADs and ODs 
+issued by DoS.  For DON civilian travel, DON will promulgate guidance 
+separately in line with reference (d).  Conditions to resume unrestricted 
+travel rest on two overarching Factors:  (1) state and/or regional (to 
+include host nation) criteria and (2) installation-level criteria based on 
+conditions in and surrounding DoD installations, facilities and locations.  
+Factors (1) and (2) are detailed in reference (b).  Additionally, Factor (1) 
+and (2) assessments can be nested with existing installation gating criteria 
+assessments in line with references (m) and (n).
+    4.B.  Advana is the primary platform the Under Secretary of Defense for 
+Personnel and Readiness (USD(PR)) will be using to track implementation of a 
+conditions-based, phased approach to personnel movement and travel.  The 
+Advana COVID-19 modeling platform is used to accurately develop a COVID-19 
+common operational picture and dashboard to better enable data-informed 
+decision making.  It is maintained by DoD and includes live updates on cases, 
+testing capacity, bed, personnel, supply and logistics.  Additionally, it 
+will be used to show Factor (1) and (2) assessments in a green (yes) or red 
+(no) status.  An extract of the Advana information required for 
+implementation of this NAVADMIN will be displayed for Navy use via MyNavy 
+Portal at https://www.mnp.navy.mil/group/don-covid-19-
+travel-tracker.
+    4.C.  U.S. States and Territories, and Host Nations (Factor 1).
+Using reference (o) as a baseline, along with data and guidance from the 
+Department of Health and Human Services and the CDC and inputs from the 
+military services and CCMDs, the USD(PR) will continuously assess each U.S. 
+state, district, or territory and nations that host greater than 1,000 
+permanently assigned DoD personnel, for three criteria:  (1) removal of 
+shelter-in-place orders or other travel restrictions, (2) 14-day downward 
+trajectory of flu-like and COVID- 19-like symptoms and (3) 14-day downward 
+trajectory of new COVID-19 cases or positive tests.  Any state, district, 
+territory, or host nation that meets all three criteria shall be considered 
+to permit movement to/from these areas.  Once a U.S. state or territory or 
+country meets the Factors described indicating criteria have been met to 
+resume unrestricted travel, the USD(PR) will publish the change in status and 
+present the information in Advana. In order for Navy Service Members to 
+execute the direction of this NAVADMIN, an extract of that information is 
+posted via MyNavy Portal at https://www.mnp.navy.mil/group/don-covid-19-
+travel-tracker and will be updated weekly.  Any subsequent significant change 
+in Factors due to temporary localized breakouts will be assessed for travel 
+restrictions being reinstated.
+    4.D.  DoD Installations, Facilities and Locations (Factor 2).
+As delegated to the CNO by reference (d) and further delegated by this 
+NAVADMIN, the applicable NCC for Navy installations, as well as other 
+military departments, CCDRs, and the DoD CMO for non-Navy installations, will 
+continuously assess each DoD installation, facility or location under their 
+purview for the feasibility of lifting travel restrictions.  There are four 
+Factors that will be reported in order to make this assessment:  (1) removal 
+of local travel restrictions (Commander, Navy Installations Command (CNIC 
+Lead)), (2) availability of essential services (e.g., schools, childcare, 
+moving services) (CNIC Lead), (3) quality control/assurance capability for 
+household goods packing and moving (Naval Supply Systems Command (NAVSUP) 
+Lead reporting to CNIC for inclusion in weekly report as described below) and 
+(4) favorable HPCON (below HPCON C) as determined by references (m) and (n) 
+(CNIC Lead).  Assessments of this criteria will include consultation with the 
+other Services who have installations in the local surrounding area and will 
+take into account the areas where installation personnel reside.  
+Specifically, installations/facilities within a 50-mile commuting distance 
+will coordinate their assessments and plans.  Any Navy installation, 
+facility, or location that meets all of the criteria above, as reported by 
+CNIC, will be assessed by the applicable NCC to determine unrestricted 
+movement to or from these locations.  The above criteria and whether or not 
+an installation is restricted for travel will then be reported by CNIC to the 
+DoD COVID-19 Task Force (with an information copy to the Assistant Secretary 
+of the Navy (Manpower and Reserve Affairs) (ASN M and RA) staff on a weekly 
+basis (via the Navy Operations Center (NOC)), using a pre-formatted 
+spreadsheet provided by the DoD COVID-19 Task Force.  In order to execute the 
+direction of this NAVADMIN, an extract of that information is posted via 
+MyNavy Portal at https://www.mnp.navy.mil/group/don-covid-19-travel-tracker.
+    4.E.  Assessment Process.  Unrestricted travel activities may resume 
+between installations when the criteria for states, territories, and host 
+nations are met as published for both the gaining and losing U.S. State or 
+territory or host nation, and subject to installation conditions as 
+determined by the DoD CMO, applicable NCC (as detailed above), or the CCDRs.
+          4.E.1.  Considerations for Unrestricted Travel.  Though travel may 
+be approved as unrestricted based on the gaining and losing location both 
+reflected as green on Factor 1 and Factor 2, risk of COVID-19 exposure may 
+still exist during transit.  COs and OICs shall review travel plans with 
+Service Members to ensure appropriate FHP measures are implemented, including 
+ROM if warranted.  This includes considering Factors such as airport 
+connections for air travel, rest stops for travel by vehicle, and 
+leave/liberty enroute.  Gaining COs (including for intermediate stops (I-
+stops)) shall evaluate the manner and location of travel for incoming Sailors 
+and determine the necessity of ROM for each individual.  Coordination with 
+losing command, training command enroute (if applicable) and gaining command 
+is required to determine if ROM requirements are necessary.  Commands and 
+individual Service Members shall remain vigilant and implement reasonable 
+measures to reduce risk of exposure and infection where appropriate.  
+Reference (q) contains authoritative guidance for all personnel and units 
+deploying to and from homeport (originating unit location for reserve 
+personnel).
+          4.E.2.  PCS.  At least 30 days prior to Service Members executing 
+PCS orders, the losing command shall check the status of losing and gaining 
+locations in MyNavy Portal at https://www.mnp.navy.mil/group/don-covid-19-
+travel-tracker.  If both gaining and losing locations are *green* on Factor 1 
+and Factor 2, no waiver is required and normal PCS procedures apply.  If 
+either gaining or losing locations are not *green* on Factor 1 and Factor 2, 
+then the procedures in paragraph 3 (Stop Movement) apply and the losing 
+command should contact the PERS-4 Placement Officer or Placement Coordinator  
+to determine whether an orders modification (ORDMOD) or waiver is more 
+appropriate.
+          4.E.3.  Other Official Travel (Meetings, Conferences, Site Visits, 
+etc.).  Prior to issuing a set of TDY orders, COs or OICs shall review MyNavy 
+Portal at https://www.mnp.navy.mil/group/don-covid-19-travel-tracker.  If 
+both the gaining and losing locations are *green* on Factor 1 and Factor 2, 
+no waiver is required and normal TDY procedures apply.  If either the gaining 
+or losing locations are not green on Factor 1 and Factor 2, then the 
+procedures in paragraph 3 apply.
+          4.E.4.  Travel for Official Training.  COs or OICs (for training 
+not associated with a set of PCS orders) or Training Command COs or OICs (for 
+training associated with a set of PCS orders) shall check the status of a 
+training location, I-stop or ultimate duty location via MyNavy Portal at 
+https://www.mnp.navy.mil/group/don-covid-19-travel-tracker before allowing a 
+Navy Service Member to execute travel.  If the gaining, I-stop (if 
+applicable), and losing locations are *green* on Factor 1 and Factor 2, no 
+waiver is required and normal TDY or PCS procedures apply.  If either the 
+gaining or losing locations are not *green* on Factor 1 and Factor 2, then 
+the procedures in paragraph 3 apply.
+          4.E.5.  Locations Not in Advana (as reflected on MyNavy Portal).  
+For PCS or TDY considered in paragraphs 4.E.2. through
+
+4.E.4., if a location is not listed in Advana (as reflected on MyNavy 
+Portal), the decision to allow unrestricted travel should be made based on 
+the closest DoD installation, facility or location and their Factor 2 and 
+applicable Factor 1 status.  If there is not a DoD installation, facility, or 
+location within a reasonable distance (generally 50 miles), the decision to 
+allow unrestricted travel should be made based on the Factor 1 status of the 
+U.S. State or territory or host nation.
+          4.E.6.  Changes in Status.  As assessments will occur weekly, a 
+change in status may occur due to localized spikes in COVID-19 cases.  If a 
+Service Member was approved for travel (Factor 1  green/Factor 2  green) and 
+either one or both locations then turn red prior to departure/return, travel 
+would then require a waiver (in line with paragraph 3.D. of this NAVADMIN on 
+stop movement waivers) or ORDMOD for PCS travel.  For PCS travel, the losing 
+command should contact the PERS-4 Placement Officer or Placement Coordinator 
+to determine whether a waiver or ORDMOD is more appropriate.
+
+5.  Points of Contact.
+    5.A.  Sailor Support.  Service Members with questions regarding this 
+NAVADMIN should contact the MyNavy Career Center (1-833-330-6622) or e-mail 
+askmncc(at)navy.mil.
+    5.B.  Medical Questions.  BUMED Watch:  703-681-1087/1125 or NIPR e-mail:  
+usn.ncr.bumedfchva.list.bumed---2019-ncov-response-cell(AT)mail.mil.
+
+6.  This conditions-based, phased approach prioritizes the safety and 
+security of our personnel, their families and our communities, while 
+balancing unit rotational deployments, the need to advance Navy Service 
+Member career opportunities and other imperatives.  COs and OICs must 
+continuously review current HPCON, FHPG and subsequent releases when making 
+risk informed decisions such as holding in- person conferences or determining 
+the maximum size of gatherings.  References (n), (p) and (q) are particularly 
+valuable resources containing much of what we have learned during this COVID-
+19 response.  Moving forward, it is incumbent upon COs and OICs to balance 
+risk to mission and risk to force to ensure we, as a Navy, can continue to 
+meet our mission while simultaneously preventing the spread of COVID-19 
+within the Navy, and the communities we live in, to the greatest extent 
+possible.  This requires not only leadership at every level, but also 
+personal responsibility to continue to follow the tenets that have been 
+proven time and again to reduce the spread  social distancing, frequent hand-
+washing and use of face coverings.  Avoiding complacency on these simple, 
+low-tech, solutions will ensure continued success on Mission One  the 
+operational readiness of the Navy today so that we maintain what our nation 
+expects  a ready Navy  ready to fight today  and our commitment to the 
+training, maintenance and modernization that will also ensure a Navy ready 
+for tomorrow.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

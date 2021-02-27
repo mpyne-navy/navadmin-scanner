@@ -1,0 +1,61 @@
+UNCLASSIFIED
+ROUTINE
+R 161559Z JUN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 142/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/NAVY-WIDE OCCUPATIONAL SURVEYS FOR QUARTERMASTER AND SONAR TECHNICIAN 
+SURFACE RATINGS//
+
+REF/A/DOC/OPNAV/28DEC09//
+ REF/B/DOC/NAVPERS/OCT15//
+ NARR/REF A IS OPNAVINST 1223.1C, NAVY ENLISTED OCCUPATIONAL CLASSIFICATION 
+SYSTEM.  REF B IS NAVPERS 18068F, VOLUME I, NAVY ENLISTED OCCUPATIONAL 
+STANDARDS.//
+
+RMKS/1.  This NAVADMIN solicits leadership assistance in capturing data for 
+the Quartermaster (QM) and Sonar Technician (STG) rating per reference (a) 
+and as published in reference (b), in support of Navy Manpower Analysis 
+Center (NAVMAC) implementation of occupational standards (OCCSTDs) reviews.
+
+2.  NAVMAC data collection strategy will incorporate remote collection of QM 
+and STG rating information via a web-based survey.  Beginning July 2016, 
+NAVMAC will e-mail Sailors their unique log-in and password information to 
+access the web-based survey.  The survey will run through 31 October 2016 for 
+Sailor (E-4 to E-7) participation to provide responses for rating-related 
+tasks being performed to validate the work within a rating.
+
+3.  Input from your Sailors in these ratings is essential to ensure an 
+accurate, comprehensive representation of tasks currently being performed 
+within the rating.  Maximum participation ensures validation of the 
+foundational work our Sailors perform.
+
+4.  Accurate Fleet input to the OCCSTD review process is vital to the ready 
+relevant learning (RRL) initiative.  As the executive agent for RRL, U.S. 
+Fleet Forces Command (USFF) fully supports NAVMACs survey data collection 
+initiative.  USFF strongly encourages unit khaki leadership to ensure that 
+Sailors are:
+    a.  Provided time to complete the surveys; and
+    b.  Understand the importance of providing accurate input to NAVMAC.
+
+5.  The engagement of leadership in capturing this data is pivotal to the 
+success of this data collection effort.  The point of contact is Ms. Michele 
+Jackson, at (901) 874-6276/DSN 882, or via e-mail at
+michele.a.jackson(at)navy.mil. 
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

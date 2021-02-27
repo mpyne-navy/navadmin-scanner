@@ -1,0 +1,108 @@
+RAAUZYUW RUEWMCS0000 1412053-UUUU--RUCRNAD.
+ZNR UUUUU ZUI RUEWMCF0295 1412105
+
+R 212053Z MAY 13
+
+FM CNO WASHINGTON DC
+TO ZEN/NAVADMIN
+INFO RUEKJCS/SECDEF WASHINGTON DC
+BT
+UNCLAS
+QQQQ
+
+SUBJ: ORDER TO ACCOUNT FOR THE NAVY FAMILY /OKLAHOMA TORNADO UNCLASSIFIED/
+PASS TO ALL OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+UNCLAS//N01300//
+
+NAVADMIN 135/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/ORDER TO ACCOUNT FOR THE NAVY FAMILY /OKLAHOMA TORNADO// 
+
+REF/A/DOC/OPNAV/31OCT11// 
+REF/B/DOC/DOD/8AUG06// 
+REF/C/DOC/DOD/20MAR08//
+REF/D/DOC/NAVSO P-1000/12DEC12//
+REF/E/MSG/PTC WASHINGTON DC/171821ZMAR09// 
+REF/F/MSG/PTC WASHINGTON DC/171846ZMAR09// 
+NARR/REF A IS OPNAVINST 3006.1, PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH 
+CATASTROPHIC EVENTS, NAVY PERSONNEL ACCOUNTABILITY POLICY.  REF B IS DODINST 3001.02, 
+PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH NATURAL OR MAN-MADE DISASTERS. REF C IS 
+DODINST 1015.15, PROCEDURES AND SUPPORT FOR NON-FEDERAL ENTITIES AUTHORIZED TO OPERATE 
+ON DOD INSTALLATIONS (ENCL 4).  REF D IS FINANCIAL  MANAGEMENT POLICY MANUAL.  REF E IS 
+ALARACT 070/2009, CONUS EVACUATION ALLOWANCES.  REF F IS ALARACT 071/2009, 
+NONCOMBATANT EVACUATION ORDER/OCONUS EVACUATION ALLOWANCES.// 
+
+RMKS/1.  This message applies to all Navy personnel, uniformed and civilian.  Echelon II commanders 
+and all regional commanders shall ensure widest dissemination to all subordinate and tenant commands
+and detachments for immediate action upon receipt.  
+
+2.  The following Geographic Areas of Interest (GAOI) have been established  for the OKLAHOMA 
+TORNADO:
+    a.  Oklahoma:
+        (1) The following counties in the state of Oklahoma are in the GAOI: Cleveland, Oklahoma, and 
+Pottawatomie. 
+
+3.  All commands are expected to:
+    a.  Muster and account for all affected personnel, including applicable family members.  Commanding 
+officers (COS) and/or commanding officers representatives (CORS) are to determine accurate status and 
+whereabouts of their personnel and muster and account for them at current residence, displaced 
+location, or not in the  GAOI with specified circumstance (deployed, TDY/TAD/IA, on leave,
+separated/retired, transferred, UA/deserter, other).  In doing so, an accurate accounting of all personnel 
+in all accounting categories can be quickly determined.
+    b.  COS and/or CORS utilize the Navy Family Accountability and Assessment System (NFAAS) support 
+site at https://navyfamily.navy.mil to account for each individual required to be reported per refs
+(a) and (b).
+    c.  Individuals or family members not able to contact their command can log on to NFAAS at 
+https://navyfamily.navy.mil and check in (muster) on the Navy family members site.  If unable to log on 
+to NFAAS, call the NFAAS help desk at 866-946-9183.
+    d.  If NFAAS is not available, commands are to report the status of personnel accountability (PA) to the 
+affected Region Operations Center (ROC) or direct chain of command.
+    e.  Do not delay reporting on personnel until all information is complete.  Report and account 
+mustering information when obtained including the posting of amplifying data in the notes area on the
+individual's accounting line.
+
+4.  Commands executing evacuation procedures are responsible for issuing TDY evacuation orders for 
+their personnel, military and civilian employees, and family members using DOD Form 1610.  Military 
+members departing the area being evacuated are on TDY status and will receive normal TDY allowances.  
+Command's day-to-day operations funding source is to be used per ref (d).  For civilian employees and 
+family members of military and civilian personnel, the funding accounting data is outlined in refs (e) and 
+(f).
+
+5.  Displaced personnel who have been ordered to evacuate by military authority, can email the Navy 
+Pay and Personnel Support Center  (NPPSC), Norfolk, VA at evacuations(at)navy.mil for evacuation travel 
+related questions.
+    a.  The decision of local civil officials to evacuate an area is  not sufficient for DOD reimbursement 
+entitlements.  The appropriate  military official must authorize/order an evacuation as local civil
+officials cannot obligate the expenditure of DOD funds.
+    b.  Commands will designate safe havens for evacuated personnel.
+    c.  Upon arrival at the designated safe haven, all personnel  muster in accordance with parent 
+command direction.
+
+6.  Navy families who were severely impacted by the OKLAHOMA TORNADO are strongly encouraged to 
+log into NFAAS, https://navyfamily.navy.mil, to update contact information and complete a needs
+assessment form at their earliest convenience after storm passage.  For further assistance after a needs 
+assessment form has been submitted, call Navy Personnel Command Emergency Coordination Center
+(NPC ECC) at 877-414-5358 or e-mail npc.cat.captain(at)navy.mil.
+
+7.  For PA questions or concerns, contact the point of contacts below for your chain of command (read 
+as location/phone/email):
+
+********* START OF SECTION 2 *********
+
+    a.  CNR MID WEST/847-688-5303/cnrma_rocwo.fct(at)navy.mil.
+    b.  CNIC N14 PA POC/202-433-0549/chin.kong(at)navy.mil or
+        202-433-0226/cnic.n36.bwc(at)navy.mil.
+    c.  USFFC BWC/757-836-5397/5398/5359/bwc.ffc(at)navy.mil.
+    d.  NFAAS Help Desk/866-946-9183/nfaas(at)spawar.navy.mil.
+
+8. Released by Vice Admiral S. R. Van Buskirk, N1.//
+
+BT
+#0000
+
+NNNN
+

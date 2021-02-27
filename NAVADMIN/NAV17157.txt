@@ -1,0 +1,73 @@
+UNCLASSIFIED
+ROUTINE
+R 291827Z JUN 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 157/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/ACTIVE COMPONENT LIMITED DUTY OFFICER AND CHIEF WARRANT OFFICER FITNESS 
+REPORT OFFICER SUMMARY GROUPS//
+
+REF/A/DOC/BUPERS/1MAY15//
+AMPN/REF A IS BUPERSINST 1610.10D, NAVY PERFORMANCE EVALUATION SYSTEM.//
+
+RMKS/1.  This NAVADMIN announces an upcoming change to reference (a) 
+directing reporting seniors to use specific officer summary groups (OSGs) for 
+active component (AC) limited duty officers (LDO) and chief warrant officers 
+(CWO).  The modification aligns the 6XXX and 7XXX designators into specific 
+categories and enables a more focused community capability for the Navy while 
+preserving the unique knowledge, skills, and technical abilities of the 
+individual competitive categories.  Changes to OSGs apply to AC LDO and CWO 
+only.  Reserve Component LDOs and CWOs will continue to use current summary 
+groups LDO Line (61XX/62XX/63XX/64XX), LDO Staff (65XX), and CWO (7XXX).  
+These changes support the LDO/CWO Officer Sustainability Initiative (OSI) 
+with a goal to holistically review the LDO/CWO communities ensuring the force 
+structure of both remains balanced.  As the OSI effort matures, promotion 
+boards will begin considering LDO and CWOs for promotion in new competitive 
+categories which mirror the revised OSGs for the FY-21 promotion plan.  This
+NAVADMIN will remain in effect until the update of reference (a).
+
+2.  Fitness reports ending on 1 October 2017 or later (block 15), reporting 
+seniors must:
+    a.  Rank LDO ensign through captain by OSG as follows:  surface (61XX), 
+submarine/nuclear (62XX), aviation (63XX), general line/staff (641X, 643X, 
+647X, 648X, 649X, 653X and 655X), supply (651X) and information warfare 
+(68XX).
+    b.  Rank CWO2 through CWO5 by OSG as follows:  surface (71XX), 
+submarine/nuclear (72XX/740X), aviation (73XX), information warfare (78XX), 
+and general line/staff (741X, 748X, 749X, 751X, 752X and 753X).
+
+3.  This change applies for fitness report purposes only.  LDOs and CWOs will 
+retain their current designators and continue to compete for statutory 
+promotion within current competitive categories.
+
+4.  Amplifying guidance for reporting seniors is provided as follows:
+    a.  Continue adherence to upper limits on early promote and must promote 
+recommendations in line with reference (a).
+    b.  Existing special billet subcategories will remain in effect.
+    c.  Table 1-3 of reference (a) defines other characteristics used in 
+determining OSGs.
+    d.  The use of amplifying fitness report verbiage and soft breakouts by 
+individual community are strongly encouraged.  All efforts should be made to 
+continue to document officers displaying sustained superior performance.
+
+5.  For additional information, contact the Navy Personnel Command Customer 
+Service Center at 1-866-U-ASK-NPC, or via e-mail at uasknpc(at)navy.mil.
+
+6.  File this NAVADMIN with reference (a).
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

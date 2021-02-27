@@ -1,0 +1,243 @@
+UNCLASSIFIED//
+ROUTINE
+R 201449Z DEC 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 312/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/ADVANCEMENT POLICY UPDATE//
+
+REF/A/DOC/BUPERS/19FEB18//
+REF/B/DOC/BUPERS/1MAY15//
+REF/C/MSG/CNO WASHINGTON DC/021910ZOCT06//
+REF/D/MSG/CNO WASHINGTON DC/291556ZMAY07//
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS BUPERSINST 1610.10D, NAVY PERFORMANCE EVALUATION SYSTEM.  
+REF C IS NAVADMIN 273/06, TASK FORCE INDIVIDUAL AUGMENTATION (TFIA) UPDATE.
+REF D IS NAVADMIN 136/07, TASK FORCE INDIVIDUAL AUGMENTATION (TFIA) UPDATE.//
+
+RMKS/1.  This NAVADMIN announces changes to enlisted advancement policies 
+within reference (a) with the goal to reward talented Sailors who show 
+sustained superior performance.  This aligns with Sailor 2025 talent 
+management initiatives by making changes to the current final multiple score 
+(FMS) advancement process that add greater weight to performance measures.
+
+2.  FMS updates and timeline.  The following changes have been made to the 
+FMS and will be effective for E-4 through E-6 Selected Reserve (SELRES) 
+candidates in the Navy-wide advancement exam (NWAE) February 2019 cycle 
+(Cycle 104) and for E-4 through E-6 Active Duty (AD), Full-Time Support (FTS) 
+and Canvasser Recruiter (CANREC) candidates in the March 2019 cycle (Cycle 
+243).  The E-7 FMS will be updated for AD, FTS and CANREC chief petty officer 
+candidates beginning with the January 2020 NWAE (Cycle 246) and for the 
+February 2020 SELRES E-7 NWAE (Cycle 106).  Any Sailor who is competing for 
+advancement in a past cycle will be scored with the FMS computation used 
+during the missed cycle.  For example, Sailors who were unable to take an 
+earlier exam or missed an exam while deployed to an approved operational area 
+or Sailors who missed an exam through no fault of their own with approved 
+exception to policy request or Board for Correction of Naval Records 
+petition.
+    a.  Performance Mark Average (PMA) for E-6 and E-7 Candidates.
+Individual trait average (ITA) and reporting senior cumulative average (RSCA) 
+will be used to determine RSCA PMA for Sailors competing for advancement for 
+E-6 and E-7.  This change is intended to reward our most talented Sailors who 
+display sustained superior performance.  The revised PMA computation process 
+will be computed as follows:
+        (1) Convert the *promotion recommendation* of all NAVPERS 1616/26, 
+Evaluation Report and Counseling Record (E1-E6)
+(active/inactive) in the respective paygrade, including frocked, for the 
+computation period announced in the respective cycle NAVADMIN, to the value 
+indicated in paragraph 308 of reference (a).  Refer to reference (b) for 
+additional guidance on evaluations.  Evaluation reports are also accessible 
+through the Navy Standard Integrated Personnel System (NSIPS) electronic 
+service record (ESR) of the Sailor to arrive at the evaluation value (of 
+4.00, 3.80, 3.60, 3.40 or 2.00).
+        (2) For each evaluation within the PMA computation period, subtract 
+the RSCA value from the ITA value.  If the difference is negative or 0.04 or 
+less, no additional points are added to the evaluation value.  If the 
+difference is 0.05 or more above RSCA, the additional RSCA calculation points 
+as indicated below will be added to the evaluation value to get a RSCA 
+evaluation value.  RSCA for evaluations from previous commands or reporting 
+seniors can be found at NSIPS in the performance section under the 
+FITREP/Evaluation link or at BUPERS Online (BOL) in the *ODC, OSR, PSR, ESR* 
+section under the Evaluations Summary (1996 to present) link.
+
+    POINTS ABOVE RSCA       ADDITIONAL RSCA CALCULATION POINTS
+      0.05 to 0.19                         0.20
+      0.20 to 0.34                         0.40
+      0.35 to 0.49                         0.60
+      0.50 to 0.64                         0.80
+      0.65 to 0.79                         1.00
+      0.80 to 0.94                         1.20
+      0.95 to 1.09                         1.40
+      1.10 to 1.24                         1.60
+      1.25 or greater                      1.80
+
+        (3) Each of the RSCA evaluation values will be added together and 
+divided by the number of evaluations to get the RSCA PMA (rounded to two 
+decimal places).
+EXAMPLE:
+EVAL 1:  EP; ITA = 4.71; RSCA = 3.77; POINTS ABOVE RSCA = 0.94 EVAL 2:  MP; 
+ITA = 4.29; RSCA = 3.86; POINTS ABOVE RSCA = 0.43
+EVAL 3:   P; ITA = 3.14; RSCA = 3.58; POINTS ABOVE RSCA = 0.00
+RSCA EVAL1 = 4.00 + 1.20 = 5.20
+RSCA EVAL2 = 3.80 + 0.60 = 4.40
+RSCA EVAL3 = 3.60 + 0.00 = 3.60
+RSCA PMA = (5.20 + 4.40 + 3.60)/3 = 4.40
+Note:  The RSCA value for each evaluation will be a requirement for computing 
+RSCA PMA.  If the RSCA value is missing for any of the evaluations in the PMA 
+of the advancement cycle computation period, then RSCA PMA will be equal to 
+0.00 and will be considered a discrepancy until resolved by the command.
+        (4) A Microsoft Excel spreadsheet will be available on the Navy 
+Enlisted Advancement System (NEAS) website at https://prod- 
+neas.ncdc.navy.mil/ and the Navy Personnel Command (NPC) Career 
+Administration Department (PERS-8031) page at
+https://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Advancement/Pages/default2.aspx.
+Links to these websites can also be found in paragraph 7.  The spreadsheet 
+will assist commands with the revised RSCA PMA calculation for candidates 
+competing for E-6 advancement in the Spring 2019 cycles (Cycles 104 and 243).  
+Accurate RSCA PMA calculations are vital to the selection and promotion of 
+the right Sailors.  The RSCA PMA calculation will be included in the 
+automated enlisted advancement worksheet (EAW) application starting with the 
+Fall 2019 cycles (Cycles 105 and 244).  Prior to the automatic EAW 
+application availability, commands shall ensure each manual RSCA PMA 
+calculation performed by the educational services officer (ESO) and is 
+verified by a second E-7 or above person (or the senior enlisted leader in 
+commands that do not have E-7 or above personnel).
+Note:  Active and Reserve candidates competing for advancement to chief petty 
+officer will not use RSCA PMA until the 2020 advancement cycles.
+    b.  Individual Augmentee (IA) Points.  Based on current operational 
+requirements, the awarding of IA points for E-4 through
+E-6 candidates will no longer be factored into the FMS score.  This change 
+discontinues the awarding of IA points in references (c) and (d).
+    c.  Pass Not Advanced (PNA) Points.  To reward superior rating knowledge, 
+PNA points for E-4 through E-6 candidates will continue to be added when the 
+FMS is computed.  However, in an effort to allow first time test takers an 
+opportunity to compete on a more equal level, PNA points will continue to be 
+awarded for the top 25 percent of eligible candidates but PNA points will 
+only accumulate for the 3 previous advancement cycles.  Current PNA points 
+from previous cycles will be retained.
+    d.  Service in Paygrade (SIPG) Factor.  To reward experience, SIPG points 
+for E-4 through E-6 candidates will continue to be added when the FMS is 
+calculated.  However, in an effort to allow first time test takers an 
+opportunity to compete on a more equal level, SIPG will be changed by 
+dividing SIPG by 5 for eligible candidates.
+
+3.  The revised FMS computations are summarized below:
+    a.  E-4 and E-5 computations starting with Cycles 104 and 243:
+FACTOR    COMPUTATION                    MAX POINTS    MAX PERCENT
+PMA       (PMA*80)  256                     64            38
+SS        Exam standard score                80            47
+Awards    Per reference (a)                  10             6
+PNA       Points for top 25 percent exam      9             6
+          standard score and PMA for last
+          3 exam cycles
+SIPG      SIPG/5                              2             1
+Education 2 points for AA/AS, 4 points for    4             2
+          BA/BS or higher
+TOTAL                                       169           100
+    b.  E-6 computations starting with Cycles 104 and 243:
+FACTOR    COMPUTATION                    MAX POINTS    MAX PERCENT
+RSCA PMA  (RSCA PMA*30)  60                114            51
+SS        Exam standard score                80            36
+Awards    Per reference (a)                  12             6
+PNA       Points for top 25 percent exam      9             4
+          standard score and PMA for last
+          3 exam cycles
+SIPG      SIPG/5                              3             1
+Education 2 points for AA/AS, 4 points for    4             2
+          BA/BS or higher
+TOTAL                                       222           100
+    c.  E-7 computations starting with Cycles 106 and 246:
+FACTOR    COMPUTATION                    MAX POINTS    MAX PERCENT
+RSCA PMA  (RSCA PMA*30)  54                120            60
+SS        Exam standard score                80            40
+TOTAL                                       200           100
+
+4.  Responsibilities.  To ensure a fair, transparent and timely process for 
+processing and determining RSCA PMA for our Sailors, the following reminder 
+and administrative change to reference (b) applies:
+    a.  Command leadership shall adhere to reference (b) timelines by 
+promptly mailing evaluations within 15 days for AD, FTS and CANREC 
+candidates, and 30 days for SELRES candidates, from the ending date of the 
+evaluation.  This timeliness is critical to the ability of NPC to receive the 
+evaluations, conduct the RSCA calculations and promptly update RSCAs into 
+NSIPS ESR.  Evaluations sent outside these timelines must have a late letter 
+justification attached.
+    b.  Reporting seniors shall incorporate their post summary group
+(PSG) RSCA score for E-5 and E-6 reports into evaluation Block 43, as a 
+required admin comment, beginning the date of release of this NAVADMIN.  This 
+will provide more transparency for our Sailors and will enable ESOs an 
+ability to calculate RSCA PMA if RSCA is not available within NSIPS ESR.  In 
+cases where the RSCA value documented in evaluation Block 43 differs from the 
+RSCA provided by NSIPS after an evaluation has been accepted and processed by 
+PERS-32, ESOs shall use the NSIPS ESR RSCA value when computing the RSCA PMA.
+
+5.  Procedure for reporting seniors to calculate PSG RSCA (a Microsoft Excel 
+spreadsheet will be available to assist commands with the PSG RSCA 
+calculation):
+  Step 1:  Log onto BOL at https://www.bol.navy.mil
+  Step 2:  Click on CCA/FITREPS/Eval Reports
+  Step 3:  Click on Reporting Seniors Cumulative Average Report
+  Step 4:  If current paygrade RSCA is equal to Summary Group Average, place 
+current RSCA on Block 43 of evaluation to finish this procedure
+  Step 5:  If current paygrade RSCA is not equal to Summary Group Average, 
+then continue with procedures below to determine new PSG RSCA
+  Step 6:  Click on appropriate paygrade, E-5 or E-6
+  Step 7:  Scroll to bottom of list and identify Total Trait Count and Total 
+Trait Sum
+  Step 8: Identify the total trait count and total trait sum for your current 
+summary group
+  Step 9: Add the two total trait count numbers together
+  Step 10: Add the two total trait sum numbers together
+  Step 11: Divide the new total trait sum by the new total trait count to get 
+new PSG RSCA
+  Step 12: Insert new RSCA into Block 43 of evaluation
+Example:
+Current RSCA for E-5 has a total trait count of 124 and the total trait sum 
+is 594 for a current RSCA of 4.79 (rounded to two decimal places).  New 
+summary group has three Sailors being evaluated as
+follows:
+  Sailor 1:  6 traits; 5,4,4,4,5,4 = trait sum of 26
+  Sailor 2:  6 traits; 4,4,4,4,4,4 = trait sum of 24
+  Sailor 3:  6 traits; 4,4,3,3,4,3 = trait sum of 21 For a total trait count 
+of 18 (6+6+6) and a total trait sum of 71 (26+24+21).  Summary Group of three 
+Sailors being evaluated is 3.94.
+Combine the two trait counts (124+18 = 142) Combine the two trait sums 
+(594+71 = 665) Divide 665 by 142 to get new PSG RSCA of 4.68 (rounded to two 
+decimal places).  Sample entry for block 43:  PSG RSCA:  4.68.
+Refer to reference (b) for additional guidance on evaluations.
+
+6.  To allow sufficient time to manually process all documents (evaluation 
+reports and RSCA information) during advancement worksheet verification, 
+command leadership is responsible for ensuring all Sailors, ESOs and command 
+career counselors are familiar with these updates.
+
+7.  Points of contact and links.
+    a.  Naval Education and Training Professional Development Center
+(NETPDC) N321:  (850) 473-6148, sfly_n321_discrepanc(at)navy.mil.
+    b.  MyNavy Career Center (MNCC):  (833) 330-MNCC (6622) or 
+askmncc(at)navy.mil.
+    c.  NEAS Web service:  https://prod-neas.ncdc.navy.mil/.
+    d.  NPC NEAS guidance:  http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Advancement/Pages/default2.aspx.
+
+8.  This message will remain in effect until superseded or canceled.
+
+9.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

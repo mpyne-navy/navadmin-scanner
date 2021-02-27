@@ -1,0 +1,26 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 301840Z SEP 20 MID200000169591U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 268/20 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO// 
+ 
+SUBJ/FLYING THE NATIONAL FLAG AT HALF-MAST IN HONOR OF ADMIRAL CARLISLE A. H. 
+TROST, USN (RET), 23RD CHIEF OF NAVAL OPERATIONS// 
+ 
+RMKS/1.  Commencing today, until sunset on Monday, 5 October 2020, the 
+National Flag will be flown at half-mast on all Navy ships and stations to 
+honor Admiral Carlisle A. H. Trost, former Chief of Naval Operations. 
+ 
+2.  Released by Admiral Mike Gilday, Chief of Naval Operations.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

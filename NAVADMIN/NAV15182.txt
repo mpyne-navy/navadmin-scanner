@@ -1,0 +1,121 @@
+UNCLASSIFIED
+ROUTINE
+R 051649Z AUG 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 182/15
+
+SUBJ/MATERNITY AND CONVALESCENT LEAVE POLICY (CORRECTED COPY)//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+REF/A/MSG/SECNAV WASHINGTON DC/021900ZJUL15//
+REF/B/DOC/OPNAV/14JUN07//
+REF/C/DOC/COMNAVPERSCOM//
+REF/D/DOC/OPNAV/11JUL11//
+REF/E/DOC/USD(P&R)/16JUN09//
+REF/F/DOC/10 U.S.C.//
+NARR/REF A IS ALNAV 053/15, DEPARTMENT OF THE NAVY MATERNITY AND CONVALESCENT 
+LEAVE POLICY.  REF B IS OPNAVINST 6000.1C, NAVY GUIDELINES CONCERNING 
+PREGNANCY AND PARENTHOOD.  REF C IS NAVPERS 15560D, NAVAL MILITARY PERSONNEL 
+MANUAL.  REF D IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.  REF E IS 
+DODINST 1327.06, LEAVE AND LIBERTY POLICY AND PROCEDURES.  REF F IS SECTION 
+701 OF TITLE 10, U.S. CODE, ENTITLEMENT AND ACCUMULATION.
+
+RMKS/1.  This NAVADMIN provides policy and implementation guidance for 
+changes to maternity and convalescent leave announced in reference (a).  This 
+NAVADMIN will be followed by updates to references (b) through (d), including 
+the release of a new MILPERSMAN article addressing maternity leave.
+
+2.  Effective immediately, commanding officers (COs) shall grant up to 126 
+days of convalescent leave to a member who has given birth, as requested by 
+the service member.  This policy is retroactive for eligible members who gave 
+birth to a child on or after 1 January 2015.
+
+3.  The 126 days of convalescent leave includes the 42-day convalescent 
+period currently authorized as maternity leave in reference (e) to be taken 
+immediately following the mothers release from the medical facility after the 
+birth of the child.  The additional leave, up to 84 days, does not need to be 
+taken consecutively but must be used within the first year after the childs 
+birth.  Each member eligible for this leave shall be permitted to use the 
+entire balance of the leave within the time prescribed.
+
+4.  Definitions
+    a.  Maternity Leave.  Maternity leave shall be considered the 42-day 
+convalescent leave period (and any extensions driven by medical necessity) 
+beginning after the mothers discharge from the hospital.
+    b.  Additional Maternity Leave (AML).  AML shall be considered the period 
+of up to 84 days of convalescent leave after maternity leave.
+
+5.  Eligibility.  AML eligibility is limited to a birth mother on active duty 
+at the time of delivery who retains custody of her child.
+
+6.  AML may be taken in multiple blocks of time within one year of the 
+child’s birth.  COs shall grant the entire 126 days of leave upon request of 
+eligible service members.  If a member does not elect to take AML in a single 
+block, COs will make every effort to accommodate members requests on timing 
+of AML with members encouraged to create mutually agreeable, individualized 
+leave plans with their chains of command.
+
+7.  Additional Policy Guidance and Criteria.
+    a.  To ensure all birth mothers have the equivalent of 12 weeks of AML, 
+AML shall be calculated based on work days.  For example, using the standard 
+42-day maternity leave period, members who normally work 7 days per week will 
+receive 84 working days of AML; those who normally work 5 days per week will 
+receive 60 working days of AML. COs shall ensure that members are granted the 
+appropriate AML based on work schedule.
+    b.  If a second child is born prior to a member using all AML from a 
+previous birth, the amount of maternity leave and AML resets up to 126 days.  
+Maternity leave and AML consist of up to 126 days for single and multiple 
+births (i.e., the birth of twins would not double the leave, etc.).
+    c.  Unused AML will be lost upon separation from active duty.
+    d.  Reserve service members who give birth while on definite active duty 
+recall or mobilization orders will be extended on active duty at their 
+request for the purposes of taking maternity leave or AML.
+    e.  Maternity leave and AML cannot be taken during a permanent change of 
+station.  Maternity leave and AML shall be taken before out-processing from 
+the old command or after in-processing to the new command.
+    f.  For the purpose of the Physical Readiness Program, the intent of 
+reference (d), paragraph 6a(3) of enclosure (1), remains unchanged.
+Pregnancy status is defined from the time pregnancy is confirmed by a 
+military health care provider (HCP) or civilian HCP in cases of 
+inaccessibility to an MTF, until the end of the six month period following 
+maternity leave (postpartum) as defined in paragraph 4a above.
+
+8.  Leave Accrual and Carry-over.  Members may not always be able to take all 
+available leave.  Exceptions to the 60-day maximum accrual of annual leave 
+per references (c) and (e) will not be granted because AML-use precluded full 
+use of annual leave.  Annual leave in excess of 60 days will be lost on 1 
+October 2015, unless subject to special leave accrual.  To prevent loss of 
+annual leave, members are encouraged to request annual leave in excess of 60 
+days prior to using AML, and COs shall make every effort to accommodate use 
+of this leave at the members request.
+
+9.  Tracking of Maternity Leave and AML.  A systems change request for the 
+Navy Standard Integrated Personnel System (NSIPS) has been submitted to add 
+an option for maternity leave, which will be charged as convalescent leave.  
+This system change is expected to be complete in December 2015.
+    a.  Prior to the system change, members shall request maternity leave and 
+AML as convalescent leave in NSIPS and commands will be required to manually 
+track maternity leave and AML to ensure 126 days is not exceeded.
+    b.  Once the maternity leave option is available in NSIPS, members will 
+request the maternity leave type for both maternity leave and AML.  A 
+maternity leave type will also be added to the e-Leave Type Report in NSIPS.  
+Command Leave Administrators shall run the report regularly to ensure the 126 
+days of maternity leave and AML is not exceeded.
+    c.  Commands not on e-Leave within NSIPS will manually track maternity 
+leave and AML until the command goes live on e-Leave and system change 
+request is completed.
+
+10.  Point of contact for this matter is LT Amy Younger, N130C2, at (703) 
+604-5477/DSN 664 or via e-mail at NXAG_N130C@NAVY.MIL.
+
+11.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

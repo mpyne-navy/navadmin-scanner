@@ -1,0 +1,148 @@
+RTTUZYUW RUEWMCS0000 3221709-UUUU--RUCRNAD
+ZNR UUUUU
+R 181709Z NOV 13 PSN 384917K32
+FM CNO WASHINGTON DC//
+TO NAVADMIN
+INFO CNO WASHINGTON DC/N2N6//
+BT
+UNCLAS//
+NAVADMIN 295/13 
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/NOV//
+
+SUBJ/INFORMATION TECHNOLOGY PROCUREMENT REQUEST APPROVAL PROCESS FISCAL YEAR 
+2014 GUIDANCE//
+
+REF/A/MSG/CNO WASHINGTON DC/021600ZNOV12//
+REF/B/LTR/CNO WASHINGTON DC/25OCT11//
+REF/C/MSG/COMSPAWARSYSCOM SAN DIEGO CA/012023ZDEC11//
+NARR/REF A IS NAVADMIN 327/12.  REF B ESTABLISHES SPACE AND NAVAL WARFARE 
+SYSTEMS COMMAND AS THE DESIGNATED ACTIVITY FOR INFORMATION TECHNOLOGY (IT) 
+PROCUREMENT APPROVAL AND OVERSIGHT.  REF C ESTABLISHES IT ACQUISITION 
+APPROVAL PROCESS (ITAAP).//
+
+RMKS/1.  This NAVADMIN updates ref (a)guidance for the Information Technology 
+Procurement Request (ITPR) and approval process, effective 1 October 2013.
+
+2.  ITAAP ensures effective and efficient expenditure of funding to acquire 
+IT capabilities, prevent duplicative investments, provide visibility on all 
+Navy IT related expenditures, and ultimately achieve strategic sourcing for 
+IT procurement. Procurement actions for IT may not be initiated without an 
+ITPR approval.
+
+3.  The following IT procurement guidance applies to all IT assets including 
+hardware, software, maintenance, contract support, and telecommunication 
+services that are reported in the Program Budget Information System-IT (PBIS-
+IT) and resourced with Navy appropriated and non-appropriated funds.
+
+    a. The ITPR threshold for fiscal year (FY) 2014 remains at $500K.  The 
+ITAAP governance body will review all ITPRs of $500K or greater and forward 
+to the Deputy Department of the Navy Chief Information Officer Navy (DDCIO 
+(N)) for approval.  For ITPRs less than $500K, the Echelon II Command 
+Information Officer (Ech II CIO) retains discretion to set a local approval 
+threshold amount for assigned Echelon III and below commands. 
+      
+    b. Procurement requests must be submitted electronically via 
+Navy Information Dominance Approval System (NAV IDAS) for: 
+
+        (1) Business mission area programs and non-programs of 
+            record software, hardware, maintenance, and support 
+            services;
+
+        (2) Fleet/OCONUS Network Centric IT Assets (i.e., 
+            consolidated afloat network enterprise services 
+            (CANES) and ONE-net);
+
+        (3) Cryptologic (UNCLASSIFIED) IT systems;
+
+        (4) IT procured using military intelligence program funds;
+
+        (5) IT for industrial/base operating support (i.e., heating, 
+            ventilation, air conditioning, perimeter security, and 
+            anti-terrorism force protection);
+
+        (6) Ashore excepted network infrastructure assets and 
+            services;
+
+        (7) Commercial off the shelf and Government modified off the 
+            shelf software;
+
+        (8) Telecommunications, commercially supported handheld 
+            wireless communication devices, and non-tactical radios;
+
+        (9) Business IT that supports oversight and program 
+            management operations of Program Executive Office, 
+            Program Manager Warfare, or Program Manager Air; and 
+            Weapon Systems support (i.e., portals, hardware, and 
+            software tools, engineering services, financial 
+            management, installation, and customer support);
+
+        (10) Research, Development, Test and Evaluation laboratory 
+             network infrastructure that supports weapon system 
+             replication, trainers, ranges, and simulators; and
+
+        (11) Bureau of Medicine and Surgery shipboard IT assets 
+             that support Fleet Force Health Protection operations.
+    
+    c. Systems Commands acting as Executive Agents for Department of Defense 
+(DoD) programs using non-Navy budget dollars to procure IT hardware, 
+software, maintenance, support, or telecommunications in support of other DoD 
+components or non-DoD agency programs may submit an ITPR for tracking 
+purposes.  Expenditures for such requests will not be reported in the IT 
+expenditure reporting summary.
+
+4.  The following are exempt/not included in this process:
+
+    a. Weapons systems not reported in PBIS-IT (e.g., platform or command, 
+control, computer, communications, intelligence, surveillance, and 
+reconnaissance (C4ISR)).
+
+    b. Expendables (e.g., paper, ink, toner, compact disc, digital video disc 
+media, etc.).
+
+    c. Continuity of Services Contract/Next Generation (COSC/NGEN) priced and 
+un-priced contract line item numbers.
+
+    d. IT assets procured with National Intelligence Program funds.
+
+    e. IT assets procured using Defense Health Agency funds.
+
+    f. Small Business Innovative Research pilots/proofs of concept.
+
+    g. Consumable spare parts for computers.
+
+    h. Personnel IT training and subscriptions not reported in the 
+IT budget.
+
+5.  NAV IDAS FY 2014 guidance changes posted to the NAV IDAS home page policy 
+tab include:
+
+    a. Enterprise license agreement waiver forms and ordering instructions.
+
+    b. National Defense Authorization Act (NDAA-12) Data Center Waiver forms 
+in word format.
+
+    c. Data center application optimization monthly hardware reuse inventory 
+list.
+
+    d. Multi-functional device waiver forms and ordering instructions.
+
+6.  Organizational responsibilities.
+
+    a. Ech II CIOs and Budget Submitting Offices:  reference and incorporate 
+revised policy contained in this NAVADMIN into local regulations and standard 
+operating procedures.
+
+    b. Ech II CIOs:  reset local approval thresholds less than $500K as 
+required.
+
+7.  Point of contact is Mr. Michael Cricchio, OPNAV N2N6BC2 at (571) 256-8510 
+or email:  michael.cricchio1(at)navy.mil.
+
+8.  Released by Vice Admiral Ted N. Branch, OPNAV N2N6.//
+
+BT
+#2484
+NNNN
+UNCLASSIFIED//
+

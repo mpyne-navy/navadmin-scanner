@@ -1,0 +1,81 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 051837Z AUG 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 183/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/JUL//
+
+SUBJ/CYBERSECURITY IMPLEMENTATION PLAN//
+
+REF/A/MSG/CNO WASHINGTON DC/N2N6BC/311732ZOCT13//
+
+REF/B/MSG/CNO WASHINGTON DC/N2N6BC/201511ZDEC13//
+
+REF/C/MSG/CNO WASHINGTON DC/N2N6BC/061724ZNOV14//
+
+REF/D/MSG/USCYBERCOM/061534ZJUL15//
+
+REF/E/MSG/USCYBERCOM/180435ZJUL15//
+
+REF/F/MSG/COMFLTCYBERCOM/082247ZJUL15//
+
+NARR/ REF A IS NAVADMIN 285/13 IMMEDIATE PUBLIC KEY ENFORCEMENT ON NAVY 
+ASHORE SECRET INTERNET PROTOCOL ROUTER NETWORK.  REF B IS NAVADMIN 322/13 
+MANDATORY AFLOAT ISSUANCE OF SIPRNET TOKENS.  REF C IS NAVADMIN 256/14 PUBLIC 
+KEY ENFORCEMENT FOR ACCESS TO U.S. NAVY WEBSITES AND ASHORE APPLICATIONS ON 
+SIPRNET.  REF D IS USCYBERCOM TASKORD 15-0102 IMPLEMENTATION AND REPORTING OF 
+DOD PUBLIC KEY INFRASTRUCTURE (PKI) SYSTEM ADMINISTRATOR AND PRIVILEGED USER 
+AUTHENTICATION.  REF E IS FRAGORD 01 TO REF A.  REF F IS FLEET CYBER COMMAND 
+TASK ORDER 15-030 IMPLEMENTATION AND REPORTING OF DOD PUBLIC KEY 
+INFRASTRUCTURE (PKI) SYSTEM ADMINISTRATOR AND PRIVILEDGED USER 
+AUTHENTICATION.// POC/MS. BROOKE ZIMMERMAN/CIV/OPNAV N2N6BC/WASHINGTON 
+DC/TEL:  571-256-8521/EMAIL:  BROOKE.ZIMMERMAN(AT)NAVY.MIL//
+
+RMKS/1.  In order to address core vulnerabilities exploited in recent cyber 
+incidents, the Department of Defense (DoD) Chief Information Officer in 
+conjunction with U.S. Cyber Command had directed Navy to accelerate actions 
+in the DoD Cyber Security Campaign for all DoD Information Systems including 
+DoD Programs, Special Access Programs (SAPs), Strategic, Tactical, and 
+Research Development Test & Evaluation (RDT&E) systems.  Compliance with the 
+following is to be reported in Defense Cyber Scope (DCS).  Implementation 
+guidance has been promulgated via a Fleet Cyber Command Tasking Order.
+a.  No later than 31 August 2015, change all system administrator and 
+privileged user accounts to use DoD PKI credentials on smart cards (where the 
+capability is embedded in the system) on systems that can be used to remotely 
+access other devices.  If specific information technologies (e.g. Unix, 
+Linux, etc.) do not support DoD PKI authentication for these privileged 
+users, the use of alternate two factor authentication technologies is 
+authorized.  When reporting compliance, also report the alternate two factor 
+technology employed and rationale.
+b.  If PKI authentication or alternate two factor authentication cannot be 
+implemented within the 30 day window, system owners must submit a waiver 
+request NLT 15 August 2015 endorsed by the first Flag Officer in the chain of 
+command. The request must include a Plan of Actions and Milestones (POA&Ms) 
+and must be submitted to DDCIO(N) IAW REF A and using the PKI waiver template 
+and process found in REF F and posted at:  
+https://infosec.navy.mil/PKI/pkipolicy.jsp.  In the event that a PKI waiver 
+already exists, no resubmission is necessary for the system.  Adherence to 
+this requirement will be self-reported by each command and will be audited 
+via Command Cyber Readiness Inspections (CCRI), Vulnerability Remediation 
+Asset Manager (VRAM), and automated scans.
+
+2.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+3.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations, 
+Information Dominance, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

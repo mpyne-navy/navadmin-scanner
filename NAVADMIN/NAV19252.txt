@@ -1,0 +1,111 @@
+UNCLASSIFIED//
+ROUTINE
+R 081428Z NOV 19 MID510000681389U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 252/19
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N4/NOV//
+
+SUBJ/PROCEDURES FOR NOTIFYING CIVILIAN LAW ENFORCEMENT OF ISSUANCE OF A 
+MILITARY PROTECTIVE ORDER//
+
+REF/A/DOC/10 U.S.C.//
+REF/B/DOC/32 C.F.R.//
+REF/C/DOC/DOD/28MAR13//
+REF/D/DOC/SECNAV/10AUG18//
+REF/E/DOC/OPNAV/13AUG15//
+REF/F/DOC/DOD/21AUG07//
+REF/G/DOC/OPNAV/25APR08//
+REF/H/DOC/SECNAV/23SEP19//
+NARR/REF A IS TITLE 10, U.S.C. SECTION 1567A, MANDATORY NOTIFICATION OF 
+ISSUANCE OF MILITARY PROTECTIVE ORDER TO CIVILIAN LAW ENFORCEMENT.  
+REF B IS TITLE 32 C.F.R. PART 105.9, COMMANDER AND MANAGEMENT SEXUAL ASSAULT 
+PREVENTION AND RESPONSE PROCEDURES.  
+REF C IS DODI 6495.02, SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM 
+RESPONSE PROCEDURES.  
+REF D IS SECNAVINST 1752.4C, SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM 
+PROCEDURES.  
+REF E IS OPNAVINST 1752.1C, SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM.  
+REF F IS DODI 6400.06, DOMESTIC ABUSE INVOLVING DOD MILITARY AND CERTAIN 
+AFFILIATED PERSONNEL.  
+REF G IS OPNAVINST 1752.2B, FAMILY ADVOCACY PROGRAM.  
+REF H IS SECNAV M-5210.1, DEPARTMENT OF THE NAVY RECORDS MANAGEMENT 
+PROGRAM.// POC/HAMMETT, ERIC/GS14/OPNAV N462/TEL:703-695-5521/EMAIL:
+ERIC.HAMMETT(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN directs Navy compliance with references (a) through 
+(h), requiring notification to local civilian law enforcement of Military 
+Protective Orders (MPO).  Notification to local civilian law enforcement 
+authorities will be made via the Federal Bureau of Investigations National 
+Crime Information Center (NCIC) database.  When MPOs are entered into the 
+Protection Order File of NCIC, a record is created that is available to 
+civilian law enforcement agencies nationwide.  MPOs will remain in NCIC for 
+the duration of the order and then removed no later than the end of the month 
+in which they expire.  Commands will retain MPO records within local files in 
+accordance with reference (h).
+
+2.  Per references (e), (f), and (g), military commanders have authority to 
+issue an MPO when necessary to safeguard victims, quell disturbances, and 
+maintain good order and discipline while victims have time to pursue a 
+protection order through a civilian court or to support an existing civilian 
+protection order.  Per references (c), (d), (e), and (g), all issued MPOs 
+will be documented with Department of Defense Form 2873 (DD Form 2873).
+    a. Per references (a) through (e), all MPOs issued by Commanding Officers
+(CO) of units located on Navy installations within the U.S. and U.S.
+territories will immediately be forwarded to the applicable installation 
+commander and ultimately to the Naval Criminal Investigative Service (NCIS) 
+for inclusion into NCIC.  The issuing commander has a continuing obligation 
+to report any change to the MPO to the applicable installation commander.
+    b.  MPOs issued by COs of shore based activities not located on a Navy 
+military installation, but within the U.S. or U.S. territories, will forward 
+MPOs directly to their assigned NCIS Field Office for inclusion into NCIC.
+    c.  MPOs issued by COs of units underway/deployed or ashore units not 
+located in the U.S. or U.S. territories will immediately be forwarded to the 
+applicable installation commander and ultimately to NCIS for inclusion into 
+NCIC if the MPO is active at the time of the Service Members return to the 
+U.S.
+or U.S. territory.
+
+3.  Responsibilities.
+   a.  Commander, Navy Installations Command (CNIC).  CNIC will provide all 
+installation commanders located within the U.S. and U.S. territories with a 
+process to submit all issued, modified, and terminated MPOs to NCIS via the 
+ollowing email address, mposubmission@NCIS.NAVY.MIL.
+   b.  Commander, Naval Legal Service Command (CNLSC).
+      (1) CNLSC will ensure Region Legal Service Offices provide judge 
+advocate support to commanders without their own servicing staff judge 
+advocate throughout the MPO issuance and termination process.
+      (2) CNLSC will ensure a module on the issuance of MPOs is included in 
+the training curriculum for prospective commanding officers and executive 
+officers, and for judge advocates and legal officers.
+c.  COs.
+    (1) For MPOs issued on Navy installations within the U.S. or U.S.
+territories, COs will immediately forward all required information, including 
+the DD Form 2873, to the applicable installation commander or their designee.  
+Every issued MPO must contain an expiration date.  COs will immediately 
+notify the installation commander or their designee of any changes to an 
+active MPO, such as an extension or early termination.
+   (2) COs of shore based activities not located on a Navy military 
+installation, but within the U.S. or U.S. territories, will forward MPOs, to 
+include the DD Form 2873 with expiration date, directly to their assigned 
+NCIS Field Office.
+   (3) COs of units underway/deployed or ashore units not located in the U.S. 
+or U.S. territories will report issued MPOs if the Service Member returns to 
+the U.S. or U.S. territories while the MPO is active.  Active MPOs will then 
+be forwarded to the applicable installation commanding officer in accordance 
+with paragraph 3d(1).
+   (4) Per references (c) through (e) and (g), COs should consult a judge 
+advocate prior to issuing or terminating a MPO.
+
+4.  Released by VADM R. L. Williamson, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

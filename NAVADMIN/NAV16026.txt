@@ -1,0 +1,96 @@
+UNCLASSIFIED
+ROUTINE
+R 041557Z FEB 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 026/16
+
+MSGID/GENADMIN/CNO WASHNGTON DC/N2N6/JAN//
+
+SUBJ/GUIDANCE FOR MIGRATION FROM ALL LEGACY VERSIONS OF WINDOWS OPERATING 
+SYSTEMS TO WINDOWS 10
+
+REF/A/MSG/CNO WASHINGTON DC/N2N6/201649ZAPR15/NAVADMIN 091/15//
+REF/B/LTR/DOD CIO WASHINGTON DC/20NOV15//
+NARR/REFERENCE (A) IS NAVADMIN 091/15 (PLANNING AND GUIDANCE FOR MIGRATION 
+FROM MICROSOFT WINDOWS 7 AND ALL PRIOR VERSIONS OF WINDOWS OPERATING 
+SYSTEMS). REFERENCE (B) ESTABLISHES DOD CIO INTENT FOR ALL SERVICE COMPONENTS 
+TO EXECUTE A PLAN TO MIGRATE ALL LEGACY VERSIONS OF WINDOWS OPERATING SYSTEMS 
+TO WINDOWS 10 BY 31 JANUARY 2017
+POC/CRICCHIO/GS15/OPNAV N2N6BC1/-/TEL:  571-256-8510/EMAIL:
+MICHAEL.CRICCHIO1(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancels and supersedes reference (a) and promulgates 
+Windows 10 guidance outlined in reference (b).  Resource Sponsors and Program 
+Management Offices shall plan for a timely migration from all DOD Information 
+Systems currently Using Microsoft Operating Systems (OS) to the Windows 10 
+Secure Host Baseline (SHB) starting 31 January 2016 with target compliance 
+for all applicable assets by 31 January 2017.
+
+2.  Program Executive Office, Program Manager-Air, and Program Manager-
+Warfare responsible for shore based information technology (IT) assets are 
+directed to develop execution plans for migration;
+   (a) All Navy desktops, laptops, and smartphones (except iPads and iPhones) 
+operating on the following networks:
+      (1) Next Generation Enterprise Network (NGEN).
+      (2) Outside the Continental United States Navy Enterprise Network (One-
+NET).
+      (3) All Top Secret/Sensitive Compartment Information (TS/SCI) networks.
+      (4) Navy legacy accepted networks, including the Defense Research and 
+Engineering Network (as appropriate).
+   (b) All defense business systems, commercial and government off-the-shelf 
+applications operating on NGEN, One Net or TS/SCI networks should be tested 
+and upgraded to Windows 10 to operate in a Windows 10 SHB environment.
+
+3.  The Defense Information Systems Agency and National Security Agency co-
+lead a Joint Windows 10 SHB Working Group to prepare a Windows 10 standard 
+desktop configuration to comply with the Department of Defense (DoD) Security 
+Technical Implementation Guides and will include secure settings for other 
+commercial software currently in use across DoD.  The Windows 10 SHB content 
+is currently available on Defense Information System Agency Information 
+Assurance Support Environment Portal Site, at 
+http://disa.deps.mil/ext/cop/iase/dod-images/pages/index.aspx.
+
+4.  For new desktops, laptops, authorized tablets, and other mobile computing 
+devices (except iPads and iPhones) Window 10 SHB is the only authorized 
+operating system.  Information Technology Procurement Requests submitted for 
+desktops, laptops etc., which include Windows 7 or Windows 8.0/8.1 in the 
+specifications, will be returned to the submitting organization with 
+recommendation that any hardware computing request must be configured to 
+operate using Windows 10.
+
+5.  Project managers responsible for afloat IT assets, including platform and 
+weapon systems IT, operating in the Consolidated Afloat Network Enterprise 
+Service (CANES) environment shall plan to migrate to Windows 10 SHB.  All 
+CANES OS fielding plans must be adjusted to meet this requirement.  Remaining 
+Integrated Shipboard Network System and platform centric networks associated 
+with USS SAN ANTONIO class vessel Common Operating Environment, Littoral 
+Combat Ship class vessel Total Ship Computing Environment, and USS ZUMWALT 
+class vessel Total Ship Computing environments shall plan for Windows 10 SHB 
+migration in the same manner as applicable.
+
+6.  Department of the Navy, Deputy Chief Information Officer (DDCIO (N)) will 
+have a limited 12-month waiver/Plan of Action and Milestones (POA&M) approval 
+authority regarding Windows 10 SHB implementation plans.  Waiver requests 
+must include a POA&M when submitted to DDCIO (N).  Submissions will be 
+reviewed on a case by case basis for approval up to 12 months beyond the 31 
+January 2017 compliance date.  Any waiver/POAM request received that exceeds 
+the 12 months limit will be forwarded to the Department of Defense Chief 
+Information Officer for adjudication.  The DDCIO (N) will provide guidance 
+for submission and format of waiver requests via separate correspondence.
+
+7.  Funding including network or system software/hardware upgrades and 
+testing to accommodate Windows 10 SBH migration is the responsibility of the 
+Resource Sponsors and the designated Program Managers.
+
+8.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

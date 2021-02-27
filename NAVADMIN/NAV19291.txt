@@ -1,0 +1,149 @@
+UNCLASSIFIED//
+ROUTINE
+R 121659Z DEC 19 MID510000801738U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 291/19
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/DEC// PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+SUBJ/UPDATED COMMON ACCESS CARD RECONFIGURATION AND PERSONAL IDENTITY 
+VERIFICATION AUTHENTICATION CERTIFICATE GUIDANCE//
+
+REF/A/HSPD-12/POTUS/27AUG04//
+REF/B/FIPS201-2/NIST/28FEB17//
+REF/C/LTR/DOD/7DEC18//
+REF/D/GENADMIN/CNO WASHINGTON DC/N2N6/171409ZAUG18//
+REF/E/LTR/DDCIO(N)/10APR19//
+
+NARR/REF (A) IS HOMELAND SECURITY PRESIDENTIAL DIRECTIVE 12, POLICY FOR A 
+COMMON IDENTIFICATION STANDARD FOR FEDERAL EMPLOYEES AND CONTRACTORS.  
+REF (B) IS NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY FEDERAL INFORMATION 
+PROCESSING STANDARD (FIPS) 201-2, PERSONAL IDENTITY VERIFICATION OF FEDERAL 
+EMPLOYEES AND CONTRACTORS.  
+REF (C) IS DEPARTMENT OF DEFENSE (DOD) MEMO, MODERNIZING THE COMMON ACCESS 
+CARD STREAMLINING IDENTITY AND IMPROVING OPERATIONAL INTEROPERABILITY. 
+REF (D) IS NAVADMIN 200/18, ACTIONS FOR ALL NAVY PERSONNEL AND NON-CLASSIFIED 
+INTERNET PROTOCOL ROUTER NETWORK (NIPRNet) NETWORK, WEB, AND APPLICATION 
+OWNERS AS DOD CHANGES THE CERTIFICATES ON THE COMMON ACCESS CARD.  
+REF (E) IS AMPLIFYING GUIDANCE TO NAVADMIN 200/18 ACTIONS FOR ALL NAVY 
+PERSONNEL AND NON-CLASSIFIED INTERNET PROTOCOL ROUTER NETWORK (NIPRNet) 
+NETWORK, WEB, AND APPLICATION OWNERS AS DOD CHANGES THE CERTIFICATES ON THE 
+COMMON ACCESS CARD// 
+POC/PLANKENHORN/CIV/OPNAV N2N6G5/TEL: (703) 692-1896/
+EMAIL:  BENJAMIN.PLANKENHORN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides updated guidance that supports correct and 
+consistent implementation of references (a) through (e) which directed Navy 
+personnel and Non-classified Internet Protocol Router Network (NIPRNet) 
+network, web, and application owners to transition to the Personal Identity 
+Verification Authentication (PIV_Auth) certificate for all authentication 
+functions.
+
+2.  Action for All Navy Personnel:
+    a.  In accordance with references (d) and (e), beginning in February 
+2018, new Navy issued Common Access Cards (CAC) had the PIV_Auth certificate 
+activated and visible.  No further action is required.
+    b.  All ashore Navy personnel to include contractors, Foreign Liaisons 
+/Officers and REL - A NIPRNet users who have not received a new CAC since 24 
+February 2018 and/or cannot see their PIV_Auth certificate, are overdue and 
+must follow the procedures located on the Navy Marine Corps Internet 
+Homeport, (https://www.homeport.navy.mil/support/articles/activate-piv_auth-
+cert), and Information Security Online Services, (https://infosec.navy.mil 
+/PKI/) to activate the PIV_Auth certificate via the Defense Manpower Data 
+Center (DMDC) Real-Time Automated Personal Identification Systems (RAPIDS) 
+Self-Service website, (https://www.dmdc.osd.mil/self_service).
+    c.  All afloat users on Consolidated Afloat Network and Enterprise 
+Services (CANES) who have not received a new CAC since 24 February 2018 
+and/or cannot see their PIV_Auth certificate, must activate it no later than 
+31 January 2020.
+
+3.  Actions for all Navy owners of PK-enabled networks, websites, and 
+applications requiring CAC for authentication (this ONLY applies to the CAC):
+    a.  All Navy owners of NIPRNet networks, websites, and applications must 
+ensure their systems are capable of supporting the PIV_Auth certificate for 
+authentication functions no later than 29 February 2020.  No waivers will be 
+considered or granted for this transition.
+    b.  CAC Reconfiguration:  For CACs issued starting 1 May 2020, reference 
+(c) outlines the CAC modernization changes and mandates that all CACs be 
+configured with the Department of Defense (DoD) Public Key Infrastructure 
+(PKI) certificate profile:
+        (1)  PIV_Auth Certificate:  Per references (a) and (b), the PIV_Auth 
+certificate will be the only technically capable PKI certificate on the CAC 
+to support network, web, or application authentication.  The PIV_Auth 
+certificate will be the only certificate capable of NIPRNet authentication.
+        (2)  Identity Certificate:  This PKI certificate will no longer be 
+included on the CAC.
+        (3)  Email Signing Certificate:  This PKI certificate will no longer 
+be technically capable of supporting network, web, or application 
+authentication.  The Extended Key Usage (EKU) is being removed and will no 
+longer support authentication capabilities.  This PKI certificate will be 
+used for the intended purpose of signing emails and documents.  Additionally, 
+this certificate will be renamed the Signature certificate beginning 1 May 
+2020.
+        (4)  Email Encryption Certificate:  No change to this PKI 
+certificate.
+    c.  Legacy CAC Attrition and Certificate Usage:  Reference (c) mandates 
+that DoD component NIPRNet network, web, and application owners configure CAC 
+user accounts to support the PIV_Auth certificate.  DoD recognizes that CACs 
+issued with the legacy configuration (CACs issued prior to 1 May 2020) and 
+any PKI certificates capable of supporting authentication functions are still 
+considered valid DoD PKI certificates.  These legacy PKI certificates can 
+still be used for authentication if the NIPRNet network, web, or application 
+owner allows.  The legacy configuration of authentication capable 
+certificates
+include:
+        (1)  PIV_Auth Certificate.
+        (2)  Identity Certificate.
+        (3)  Email Signing Certificate:  Includes the EKU.
+        (4)  Legacy CAC configurations will be removed from DoD and Navy
+        environments via attrition as legacy CACs expire.
+
+4.  NIPRNet Alternate Logon Token (ALT) or NIPRNet Enterprise Alternate Token 
+System (NEATS) Use-Case Impacts.
+    a.  NIPRNet ALT or NEATS Token users are not impacted, as the PIV_Auth 
+certificate implementation is only applicable to the CAC.
+    b.  The PIV_Auth certificate is defined in reference (b) as a mandatory 
+certificate to be included on federally issued PIV cards, to include the DoD 
+CAC.  Certificates issued on other DoD-approved form factors (i.e., ALT or 
+NEATS tokens) cannot have PIV_Auth certificates.
+    c.  ALT and NEATS tokens have certificates which are approved for use in 
+authentication.  These non-CAC authentication certificates may continue to be 
+used in accordance with DoD policy, but are not referred to as PIV_Auth 
+certificates.
+    d.  Role-based user accounts (i.e., System Administrators, Foreign 
+Nationals, Code Signers, and other NIPRNet use-cases) can continue 
+utilization of their tokens and certificates without loss of access.  Navy 
+NIPRNet network, web, and application owners must ensure their systems 
+support the ALT and/or NEATS token users.
+
+5.  Impacts to DoD approved External Certificate Authorities (ECA).  ECAs may 
+continue to be used for authentication to unclassified DoD websites and 
+applications; however, ECAs are not and have not been approved for 
+cryptographic logon/authentication to DoD networks.
+
+6.  For additional detail regarding CAC PKI certificate mapping options for 
+PIV _Auth and/or legacy CAC certificate options, a Frequently Asked Questions 
+document is available at https://intelshare.intelink.gov/sites/disa-pki-pke/
+_layouts/15/start.aspx#/SitePages/Home.aspx.  Owners or technical teams can 
+contact PMW 130 and NIWC PKI if technical assistance is required:
+    a.  PMW 130:  Mr. Cody Persinger, cody.persinger.ctr(AT)navy.mil
+    b.  NIWC Atlantic:  Ms. Noni Jenkins, noni.jenkins(AT)navy.mil
+    c.  NIWC Pacific:  Mr. Gary Delgado, gary.delgado(AT)navy.mil
+
+7.  This NAVADMIN will remain in effect until canceled or superseded.
+
+8.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

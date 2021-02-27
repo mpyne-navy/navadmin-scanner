@@ -1,0 +1,252 @@
+UNCLASSIFIED/
+ROUTINE
+R 201953Z JAN 15 PSN 499072H31
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO ZEN/CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 014/15
+
+SUBJ/SEXUAL ASSAULT INCIDENT RESPONSE OVERSIGHT (8-DAY) REPORT//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+REF/A/DOC/DOD/30SEP14//
+REF/B/DOC/SECNAV/8AUG13//
+REF/C/DOC/DOD/28MAR13//
+REF/D/DOC/OPNAV/29DEC06//
+REF/E/DOC/DOD/25JAN13//
+REF/F/DOC/DOD/23AUG04//
+REF/G/DOC/OPNAV/25APR08//
+REF/H/DOC/DOD/21AUG07//
+REF/I/DOC/OPNAV/4OCT11/NOTAL//
+NARR/REF A IS DIRECTIVE-TYPE MEMORANDUM (DTM) 14-007**SEXUAL ASSAULT INCIDENT 
+RESPONSE OVERSIGHT (SAIRO) REPORT*.  REF B IS SECNAVINST 1752.4B, SEXUAL 
+ASSAULT PREVENTION AND RESPONSE.  REF C IS DODINST 6495.02, SEXUAL ASSAULT 
+PREVENTION AND RESPONSE (SAPR) PROGRAM PROCEDURES.  REF D IS OPNAVINST 
+1752.1B, SEXUAL ASSAULT VICTIM INTERVENTION (SAVI) PROGRAM.  REF E IS DODINST 
+5505.18 CH1, INVESTIGATION OF ADULT SEXUAL ASSAULT IN THE DEPARTMENT OF 
+DEFENSE. REF F IS DODD 6400.1, FAMILY ADVOCACY PROGRAM (FAP).  REF G IS 
+OPNAVINST 1752.2B, FAMILY ADVOCACY PROGRAM (FAP).  REF H IS DODINST 6400.06, 
+DOMESTIC ABUSE INVOLVING DOD MILITARY AND CERTAIN AFFILIATED PERSONNEL.  REF 
+I IS OPNAVINST F3100.6J CH-2, SPECIAL INCIDENT REPORTING (OPREP-3 PINNACLE, 
+OPREP-3 NAVY BLUE AND OPREP-3 NAVY UNIT SITREP) PROCEDURES.//
+
+RMKS/1.  This NAVADMIN directs Fleet-wide implementation of the Sexual 
+Assault Incident Response Oversight (SAIRO) (8-day) Report, required by law, 
+which accounts for actions taken, or in progress, to provide the necessary 
+care and support to the victim of an assault, verify referral of the 
+allegation of sexual assault to the appropriate Military Criminal 
+Investigative Office (MCIO), and to provide initial notification to the 
+service member*s chain of command as required by reference (a).  The SAIRO 
+(8-day) Report is a one-time Situational Report (SITREP) required within 
+eight calendar days following the initial OPREP-3 Navy Blue or OPREP-3 Navy 
+Unit SITREP for an adult sexual assault.  The SITREP format mandated by this
+NAVADMIN is an interim measure pending the release of a fillable form. The 
+fillable form will be available later this year and will replace the SITREP 
+format imposed by this NAVADMIN.
+
+2.  Effective immediately, the SAIRO (8-day) SITREP is required when an adult 
+sexual assault is reported involving a service member victim or a service 
+member alleged offender (including reserve component members who were 
+performing active service or inactive duty training during the time of the 
+assault) per reference (b).  This requirement only applies to unrestricted 
+reports made to a Sexual Assault Response Coordinator (SARC), Deployed 
+Resiliency Counselor (DRC), or Sexual Assault Prevention and Response Victim 
+Advocate (SAPR VA) and to independent investigations initiated by the MCIO 
+per references (c) through (e).  A SAIRO (8-day) SITREP is not prepared for 
+sexual assaults involving Family Advocacy Program cases, consistent with 
+references (f) through (h).
+
+3.  An individual, one-time SAIRO (8-day) SITREP is required for each victim 
+involved, regardless of affiliation, status or location of the victim or 
+alleged offender.  Per reference (a), the SAIRO (8-day) SITREP is required 
+for all unrestricted reports of sexual assault incidents, including incidents 
+(being reported at the present time) that occurred before the enlistment or 
+commissioning of the service member victim, with the understanding that some 
+alleged offender information may not be accessible or available.
+
+4.  The eight-day requirement begins upon initial notification and resultant 
+initial OPREP-3 Navy Blue or OPREP-3 Navy Unit SITREP of any of the below:
+    a.  An unrestricted report is made to a SARC, DRC, SAPR VA, or Unit SAPR 
+VA (UVA) via a Victim Reporting Preference Statement (DD Form 2910).  The 
+SARC will contact the victim*s commanding officer (CO) within 24 hours, or 48 
+hours if there are extenuating circumstances in deployed environments.  This 
+requirement does not affect the preexisting requirement for the SARC to 
+contact the installation CO per references (c) and (d).
+    b.  The victim elects to convert a previously filed restricted report to 
+an unrestricted report via DD Form 2910.
+    c.  The MCIO notifies the CO that an independent investigation has been 
+initiated by the MCIO.
+
+5.  For a SAIRO (8-day) SITREP triggered by an unrestricted report of sexual 
+assault, the SARC will be responsible for providing all victim information 
+and the MCIO will provide the incident data and investigation information.  
+For a SAIRO (8-day) SITREP triggered by an independent MCIO investigation, 
+the MCIO will be responsible for providing the available information.  
+Incident data shall not be acquired through a command-directed investigation 
+which is prohibited for sexual assaults in accordance with (IAW) references 
+(a) through (e).  At a minimum, the CO preparing the SAIRO (8-day) SITREP 
+will provide preliminary information of the incident with the understanding 
+that some victim or alleged offender information may not be accessible or 
+available.
+
+6.  Restrictions.  Privacy is of the utmost importance.  Information 
+contained in the SAIRO (8-day) SITREP shall not be requested from the victim 
+and such information shall be limited in distribution to personnel with an 
+official need-to-know while ensuring control of sensitive information.  
+Personally identifiable information (PII) shall not be included.  The SARC 
+will report non-PII concerning sexual assault incidents (without information 
+that could reasonably lead to personal identification of the victim or the 
+alleged offender).  For example, depending on the size of the unit or the 
+gender make-up of the unit, it may not be appropriate to include gender, 
+rank, or grade.
+
+7.  Reporting Responsibility.  Without disclosing protected communications 
+and victim confidentiality, the SAIRO (8-day) SITREP will be prepared and 
+submitted by the CO with input from the SARC and the MCIO (e.g., NCIS) IAW 
+reference (a) and as follows:
+    a.  In reports involving a service member victim or a service member 
+alleged offender, the following will be responsible for submitting the SAIRO 
+(8-day) SITREP:
+        (1) The CO of the victim and alleged offender if the victim and 
+alleged offender are assigned to the same command.
+        (2) The CO of the victim if the victim and the alleged offender are 
+assigned to different commands.
+        (3) The first O-6 or above Immediate Superior in Command (ISIC) in 
+the chain of command if the CO is the alleged offender.
+    b.  The CO of the victim involving a service member victim and a non-
+service member alleged offender.
+    c.  The CO of the alleged service member offender involving a civilian 
+victim will prepare and submit a SAIRO (8-day) SITREP containing available 
+information.
+
+8.  Notification requirements.  In addition to notification requirements in 
+reference (i), the SAIRO (8-day) SITREP will be sent to the below listed 
+individuals:
+    a.  The installation CO, if such incidents occurred on or in the vicinity 
+of a military installation.
+    b.  The chain of command of the victim and/or alleged offender, up to and 
+including the first Flag officer.
+    c.  The ISIC of the service member alleged offender if the alleged 
+offender is a CO or Flag officer.
+
+9.  The SAIRO (8-day) SITREP will be submitted no later than eight calendar 
+days following the initial OPREP-3 Navy Blue or OPREP-3 Navy Unit SITREP 
+required by reference (i).  At a minimum, the CO preparing the SAIRO (8-day) 
+SITREP will provide preliminary information of the incident, with the 
+understanding that some victim or alleged offender information may not be 
+accessible or available.
+
+10.  Report format requirement.  The SAIRO (8-day) SITREP will include the 
+following specific information in the GENTEXT/INCIDENT IDENTIFICATION AND 
+DETAILS section of the OPREP-3 Navy Blue or OPREP-3 Navy Unit SITREP required 
+by reference (i):
+     a.  Victim information (non-PII) provided by the SARC.
+        (1) Victim gender, duty status, service affiliation, assigned 
+command, grade, and current geographic area where the victim is assigned and 
+resides.  If not a service member or Department of Defense (DoD) civilian 
+employee, the SAIRO (8-day) SITREP shall indicate if the victim is a military 
+dependent, DoD contractor, foreign national, or non-government civilian.
+        (2) The date the victim was referred to the SARC, SAPR VA, or UVA.
+        (3) If an unrestricted report of sexual assault was made to a SARC, 
+DRC, or SAPR VA and date when the DD Form 2910 was completed by the SARC, 
+DRC, SAPR VA, or UVA.
+        (4) SAPR advocacy services of a SARC, DRC, SAPR VA, and UVA offered 
+if the victim is a service member, adult military dependent, or otherwise 
+eligible for SAPR services:
+            (a) Confirmation that the SARC entered information into the 
+Defense Sexual Assault Incident Database within 48 hours, or 96 hours if in a 
+deployed environment with connectivity issues.
+            (b) A description of any circumstances in the response that 
+adversely affected the command*s ability to address the victim*s needs (e.g., 
+timeliness, sensitivity, obstacles to care, coercion, retaliation, or 
+reprisal, if any) if the victim accepted SAPR services.  The SARC will 
+include any victim input provided with documented victim consent for 
+disclosure of privileged communications per reference (c).  The SARC will 
+confirm that the victim was informed of the ability to speak to a Victims* 
+Legal Counsel (VLC) before providing consent for release of privileged 
+information.
+            (c) A summary of SAPR services offered.
+            (d) The date for the Sexual Assault Case Management Group meeting 
+scheduled to provide oversight of the case as outlined in references (b) and 
+(c).
+        (5) Healthcare information, excluding PII or individually 
+identifiable health information protected under references (c) and
+(d), including the following if the victim is a service member or otherwise 
+eligible for healthcare at a military treatment facility:
+            (a) The date the victim was offered medical care,
+            (b) The date the victim was offered mental health care,
+            (c) The date the victim was offered a Sexual Assault Forensic 
+Examination (SAFE) at the appropriate location based on eligibility 
+requirements.  If a SAFE was not offered or was unavailable, explain why.
+        (6) The following information if the victim is a service member or an 
+adult military dependent:
+            (a) The date the safety assessment of the victim was conducted.
+            (b) If there was a need to assemble a High-Risk Response Team.
+            (c) The date the victim was given information regarding military 
+protective orders and civilian protective orders.
+            (d) If military protective orders or civilian protective orders 
+were issued IAW reference (c).
+            (e) A description of the safety measures taken for the victim if 
+the event(s) happened in a deployed environment or concerns exist regarding 
+the victim’s safety.
+        (7) The following additional information if the victim is a service 
+member:
+            (a) The date the victim was given information regarding expedited 
+transfers.
+            (b) If the victim requested an expedited transfer and, if so, 
+it*s processing status, including the date it was received.
+            (c) The date when the victim was informed of Navy*s VLC program 
+and provided contact information for a VLC.
+            (d) The date the victim was notified that the VLC is the victim’s 
+attorney, not the prosecution, and will provide the victim with confidential 
+legal advice and representation.
+    b.  Incident data and investigation information (non-PII) provided by the 
+MCIO.
+        (1) The MCIO case file number.  If there is no MCIO case number, 
+indicate why and include the investigating jurisdiction notified and the date 
+of the notification.  Information from civilian law enforcement may not be 
+available.
+        (2) The date that the victim was provided a copy of an Initial 
+Information for Victims and Witnesses of Crime (DD Form 2701).
+        (3) Alleged offender gender, duty status, service affiliation,       
+assigned unit, grade, and current geographic area where the alleged offender 
+is assigned and resides.  If not a service member or DoD civilian employee, 
+the SAIRO (8-day) SITREP shall indicate if the alleged offender is a military 
+dependent, DoD contractor, foreign national, or non-government civilian.
+        (4) Most serious sexual assault offense alleged in the investigation.
+        (5) Location where the alleged sexual assault offense occurred (e.g., 
+on an installation, while ship is underway, etc.). Additional details should 
+also be provided if available (e.g., barracks, ship*s berthing, off base 
+housing, shower).
+        (6) The date and time of the alleged sexual assault offense.
+        (7) The date the alleged sexual assault offense was reported to the 
+MCIO, including the organization notified (e.g., NCIS).
+        (8) If the alleged service member offender was temporarily 
+transferred or removed from an assigned billet, if applicable.
+        (9) Any other relevant information (excluding investigative details) 
+pertaining to the alleged offender.
+    c.  The name, command, and contact information of the Judge Advocate 
+General consulted.
+    d.  Additional non-PII comments, if any, provided by the CO responsible 
+for submitting the SAIRO (8-day) SITREP.
+
+11.  This NAVADMIN does not supersede the requirement for monthly report 
+updates and follow-up/final OPREP-3 Navy Blue or OPREP-3 Navy Unit SITREPs 
+required by references (d) and (i).  The SAIRO (8-day) SITREP will not delay 
+immediate reporting to the appropriate SARC and MCIO, nor will it delay or 
+replace required OPREPs for serious incidents or operational reporting. 12.  
+Point of contact: LCDR Steven Smiraldo, OPNAV N172, (703)604-1204/DSN 664-
+1204 or via e-mail at steven.smiraldo(at)navy.mil+0
+
+13.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+14.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#8850
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,54 @@
+UNCLASSIFIED/
+
+ROUTINE
+
+R 292100Z DEC 14
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+SUBJ/PROMULGATION OF OPNAVINST 7220.11E, NUCLEAR OFFICER INCENTIVE PAY 
+PROGRAM// 
+
+NAVADMIN 283/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+REF/A/DOC/OPNAV/01AUG13//
+
+REF/B/DOC/OPNAV/16JUN14//
+
+NARR/REF A is OPNAVINST 7220.11D CH-1, NUCLEAR OFFICER INCENTIVE PAY PROGRAM. 
+REF B is OPNAVINST 7220.11D CH-2, NUCLEAR OFFICER INCENTIVE PAY PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces the promulgation of OPNAVINST 7220.11E, an 
+update to the Nuclear Officer Incentive Pay program instruction.
+
+2.  OPNAVINST 7220.11E can be downloaded at 
+Http://doni.daps.dla.mil/allinstructions.aspx
+
+3.  Summary of changes:
+a.  This revision incorporates references a and b into the base instruction.  
+It also clarifies several aspects of the instruction based on fleet questions 
+and feedback.
+b.  This revision makes no changes to current contract rates or bonus 
+amounts.
+
+4.  Point of contact is LCDR Alan Nelson, (N133C), at (703) 604-5490 or via 
+email at NXAG_N133C(AT)NAVY.MIL.
+
+5.  This NAVADMIN will remain in effect until superseded or canceled 
+whichever occurs first.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+

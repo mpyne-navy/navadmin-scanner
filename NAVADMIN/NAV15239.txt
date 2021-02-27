@@ -1,0 +1,50 @@
+UNCLASSIFIED
+ROUTINE
+R 131455Z OCT 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 239/15
+
+SUBJ/NAVY CYBERSECURITY COMMUNICATIONS CAMPAIGN
+
+RMKS/1.  Every day the Navy is in an active cybersecurity fight against 
+witting foes that are technologically sophisticated and well-funded.  The 
+Navy's networked systems are an essential part of naval operations but their 
+connectedness increases the potential impact of a cyber-event.  Complacency 
+about cybersecurity makes the Navy vulnerable to attacks that could 
+significantly affect operations.
+
+2.  The cyber threat reaches beyond traditional IT networks to systems that 
+affect nearly every aspect of the Navy's mission.  Machinery control, weapons 
+and navigation systems may be vulnerable, as well as the systems and networks 
+supporting human resources, financial management, and logistics business 
+processes.  A successful cyber-intrusion anywhere in the Navy increases the 
+risk that adversaries can move to other targets.  Therefore, a mistake by one 
+individual puts everyone and the mission at risk.  Adhering to cybersecurity 
+policies, directives, and best practices is commanders' business and requires 
+an All Hands approach to protect the Navy and the mission.
+
+3.  This month, the Navy has launched a year-long communications campaign to 
+create a culture where cybersecurity discipline is a high priority and a 
+daily habit, protecting the Navy from the persistent cyber threat it faces.  
+This campaign will provide information showing that the cyber threat is real, 
+describing how adversaries succeed, showing what the Navy can do to defend 
+itself, and spelling out the steps everyone must take to improve the Navy's 
+cybersecurity.  Campaign content will be delivered through social media, blog 
+posts, printed materials, articles, videos, public service announcements, and 
+other avenues.  Your commitment to cybersecurity will protect the Navy and 
+contribute to our cyber fight.
+
+4.  Every time you connect to or operate a Navy network or system, you are in 
+the cyber battlespace.  Think cybersecurity before you act.
+
+5.  Released by VADM Ted N. Branch, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

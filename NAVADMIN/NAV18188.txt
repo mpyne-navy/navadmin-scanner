@@ -1,0 +1,94 @@
+UNCLASSIFIED
+ROUTINE
+R 021501Z AUG 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 188/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/COMMAND PAY AND PERSONNEL ADMINISTRATOR PROGRAM UPDATE//
+
+REF/A/DOC/COMNAVPERSCOM/1APR18//
+NARR/REF A IS NAVPERS 18068F, NEOCS MANUAL.//
+
+RMKS/1.  This NAVADMIN announces the launch of a formal 2 week course to 
+train Command Pay and Personnel Administrators (CPPA) as part of the Sailor 
+2025 focus to improve the quality and timeliness of pay and personnel 
+services across the Navy.  Personnel Specialist (PS), Yeoman (YN), Yeoman 
+(Submarines) (YNS), Navy Counselor (NC) rated personnel, those personnel in 
+ratings assigned to commands without a PS, YN, YNS, or NC (E-4 through E-9), 
+and designated civilian personnel are eligible to attend the CPPA course.  
+The course will be held in Norfolk, VA and San Diego, CA.
+
+2.  Attending the classroom course provides our CPPAs a greatly enhanced 
+learning experience, providing interaction with subject matter experts within 
+a robust curriculum.  This alternative to the existing computer based 
+training (CBT) available on Navy eLearning (NeL) is a comprehensive, hands-on 
+approach that will provide our CPPAs with the tools essential to initiate and 
+transmit pay and personnel transactions.  A pilot session of the course was 
+completed in June with feedback from participants and suggested improvements 
+immediately implemented, setting a record time for getting this training out 
+to the Fleet.
+
+3.  Our priority is to ensure this training is available to Sailors 
+designated as CPPAs currently in operational commands preparing for 
+deployment.  The NeL course is still available to earn the A16A Navy enlisted 
+classification (NEC), however the preferred path to the NEC is through this 
+C-School.  Quotas are also available for civilian personnel assigned to 
+commands where they are designated and function as CPPAs.  For contractor 
+personnel, the primary vehicle for training will remain the CBT courses until 
+further notice.
+
+4.  Future convening dates of this course (A-500-0035) beginning on
+13 August can be viewed in the Catalog of Navy Training Courses (CANTRAC), 
+found at https://app.prod.cetars.training.navy.mil/cantrac/vol2.html.  Each 
+class will hold approximately 24 seats, with 21 dedicated to Active 
+Duty/Full-Time Support and 3 to civilian employees who are, or will function 
+as a CPPA.  The quota control authority (QCA) will remain the Training 
+Support Center-Hampton Roads (TSC-HR), and the primary method for quota 
+requests is the Enterprise Naval Training Reservation System (eNTRS) via the 
+Corporate Enterprise Training Activity Resource System (CeTARS) at 
+https://main.prod.cetars.training.navy.mil/cetars/main.html.  This will 
+remain the method for commands to request quotas until billets are coded with 
+the A16A NEC and Sailors are distributed to those billets.  Once that has 
+happened, the respective rating detailers will send those Sailors to the C-
+School in route to their ultimate duty station.  We are also making plans to 
+launch a Mobile Training Team that will train our CPPAs in areas outside of 
+Norfolk and San Diego to include OCONUS locations.
+
+5.  To reiterate, Sailors can obtain the A16A Command Pay and Personnel 
+Administrator NEC code now by either:
+    a.  Completing the NeL Command Pay and Personnel Administrator
+(CPPA) Training Course (PERS2-PERS2-PAYPERS-CPPA-CPPATRAINING-V1.0),
+Department of the Navy Annual Privacy Training (DON-PRIV-1.00, and Records 
+Management in the DON:  Everyones Responsibility (DOR-RM-
+010-1.2) as identified in reference (a), or
+    b.  Completing the instructor led CPPA course (A-500-0035).
+
+6.  Additional CPPA resources are available at
+http://www.public.navy.mil/bupers-
+npc/support/paypers/cpcresources/Pages/default2.aspx.
+
+7.  Success of this transformation initiative requires engagement at all 
+levels of leadership.  From the triad down to the deckplates, we need full 
+support and utilization of the CPPA program.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+9.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

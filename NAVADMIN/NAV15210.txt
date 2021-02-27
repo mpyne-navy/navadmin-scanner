@@ -1,0 +1,135 @@
+UNCLASSIFIED//
+ROUTINE
+R 012027Z SEP 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 210/15
+
+MSGID/ GENADMIN/CNO WASHINGTON DC/N2N6BC/AUG//
+
+SUBJ/NAVY IMPLEMENTATION OF DOD CYBERSECURITY CAMPAIGN REPORTING//
+
+REF/A/MEMO/DOD CYBERSECURITY CAMPAIGN/04JUN15//
+REF/B/MEMO/IMPLEMENTATION AND REPORTING OF DOD PUBLIC KEY INFRASTRUCTURE 
+(PKI) SYSTEM ADMINISTRATOR AND PRIVILEGED USERS AUTHENTICATION/05JUL15//
+REF/C/MSG/USCYBERCOM/061534ZJUL15//
+REF/D/MSG/COMFLTCYBERCOM/082247ZJUL15//
+REF/E/MSG/COMFLTCYBERCOM/161300ZJUL15//
+REF/F/MSG/CNO WASHINGTON DC/N2N6BC/051837ZAUG15//
+REF/G/DOC/DOD/CYBERSECURITY DISCIPLINE TIGER TEAM IMPLEMENTATION 
+PLAN/19AUG15//
+
+NARR/REF A IS THE DOD CYBERSECURITY CAMPAIGN PLAN, WHICH REINFORCES THE 
+USCYBERCOM OPERATION CYBER SHIELD IDENTIFYING ACTIONS REQUIRED BY COMMANDERS 
+AND LEADERS TO ENFORCE CYBERSECURITY COMPLIANCE AND ACCOUNTABILITY.  REF B IS 
+THE DOD MEMO MANDATE TO ACCELERATE PKI ENFORCEMENT OF SYSTEM ADMINISTRATOR 
+AND PRIVILEGED USER ACCOUNTS. REF C IS USCYBERCOM TASKORD 15-0102 DIRECTING 
+THE ACCELERATION OF DOD PKI SYSTEM ADMINS AND PRIVILEGED USER AUTHENTICATION. 
+REF D IS FLEET CYBER COMMAND TASK ORDER 15-030 TO ACCELERATE SYSTEM 
+ADMINISTRATOR AND PRIVILEGED USER AUTHENTICATION. REF E IS CTF 1010 TASKORD 
+15-0002 WHICH DIRECTS THE IMPLEMENTATION OF AN UPDATED HOST BASE SECURITY 
+SOLUTION (HBSS) BASELINE NLT 01DEC15. REF F IS THE CYBERSECURITY 
+IMPLEMENTATION PLAN NAVADMIN 183/15 PROVIDING ADDITIONAL ACCELERATION 
+GUIDANCE OF PKI HARDENING. REF G IS THE DOD IMPLEMENTATION PLAN THAT 
+REINFORCES BASIC CYBERSECURITY REQUIREMENTS IDENTIFIED IN DIRECTIVES, ORDERS, 
+AND POLICIES.
+//
+POC/MR. ANDREJ STARE/CIV/OPNAV N2N6BC/WASHINGTON DC/TEL:  571-256-8284/EMAIL: 
+ANDREJ.STARE(AT)NAVY.MIL//
+
+RMKS/1. References A - G outline objectives for Commanders and Civilian 
+leaders to secure and defend their segments of the Department of Defense 
+(DoD) Information Network (DoDIN) while enforcing accountability and 
+readiness across assigned forces. Securing the DoDIN to provide mission 
+assurance requires leadership at all levels to implement cybersecurity 
+discipline, enforce accountability, and manage the shared risk to all Navy 
+missions. Therefore, the Cybersecurity Campaign focuses on ensuring 
+accountability at all levels for the below key tasks by including the results 
+of Navy’s cybersecurity compliance with readiness reporting in the Defense 
+Cyber Scope (DCS) tool.  The seven key areas are: PKI enforcement, securing 
+outward facing servers behind DoD Demilitarized Zones (DMZ), reducing the 
+number of unsupported operating systems, ensure system accreditation, Host 
+Based Security System (HBSS) continuous monitoring, configuration control, 
+and patch management.
+
+2. Immediate action: Echelon II Commanders must designate a Cybersecurity 
+Campaign Lead (CCL) and report the name of CCL as the primary cybersecurity 
+metrics point of contact (POC) to the OPNAV N2/N6 POC listed in this NAVADMIN 
+NLT 8 September, 2015.
+a. The CCL will be responsible for establishing a user account in DCS. Upon 
+account creation, the CCL shall create a Sub-Echelon II reporting structure 
+to collect Cybersecurity Campaign metrics for each subcomponent. 
+Additionally, the CCL is responsible for ensuring that reporting requirements 
+are disseminated down to all the commands subcomponents.
+b. No later than the fifth calendar day of each month, the CCL shall submit a 
+consolidated report and ensure that the Echelon II metrics are reported in 
+DCS for OPNAV N2/N6 review. Echelon II Commanders are ultimately responsible 
+for ensuring that the data collected is validated and accurately reported in 
+the DCS tool prior to submission to OPNAV N2/N6.
+d. The link to the DCS DoD Enterprise Reporting tool is: https://emass-
+ers.csd.disa.mil/Home?ReturnUrl=%2fFismaDash%2fHome
+
+3. In support of the DoD Cybersecurity initiatives, Navy must report DoD 
+Cybersecurity Scorecard metrics on a monthly basis.  Commands shall report 
+the metrics outlined in DCS to the best of their ability no later than the 
+fifth calendar day of each month, noting the Commanders confidence level in 
+the numbers.  Metrics are to be further categorized by afloat and ashore 
+where applicable.  DoD and OPNAV N2/N6 expect the reporting numbers and 
+confidence to be low initially and increase over the course of the next few 
+months for certain metrics.  For HBSS-dependent metrics, Commanders are 
+required to ensure compliance no later than 1 December 2015 IAW Reference E.  
+Command specific actions:
+a. U.S. Fleet Cyber Command/U.S. Tenth Fleet (FCC/C10), as the Network 
+Operational Commander, is responsible for the reporting and validating of key 
+metrics for all Navy Information Technology (IT) assets and accounts in all 
+domains secret and below, the outward facing webservers behind approved Navy 
+and DoD DMZs, afloat and ashore Enterprise networks (i.e. Navy Marine Corps 
+Internet (NMCI), OCONUS Navy Enterprise Network (ONE-Net), IT-21, and CANES) 
+except those listed in paragraph 3.b.
+b. All other Echelon II Commanders are responsible for the reporting and 
+validating of key metrics for all Navy IT assets and accounts for all 
+networks previously considered excepted and legacy in all domains secret and 
+below.  These excepted and legacy networks specifically include: Research, 
+Development, Training, and Education(RDT&E), non-NMCI, non-ONE-Net, including 
+ONE-Net transport Community of Interest (COI) assets, Satellite, PSNET, 
+METOC, Commercial Shipyard, Navy Exchange, Medical, Education, Prison 
+Networks, NMCI Contract Line Item Number (CLIN) 27 assets (i.e. DON Servers 
+that have migrated and are connected to NMCI enclave, DMZ, or COI 
+environments), NMCI CLIN 6AR workstations (Program of Record such as Global 
+Command and Control System (GCCS)), and NMCI CLIN 32 (COI Service Delivery 
+Point) servers and workstations, and NGEN CLIN 58 in DCS.
+c. OPNAV N2/N6 will report System Authorization Metrics, however, Echelon II 
+Commanders are responsible for ensuring that the data in DoD Information 
+Technology Portfolio Repository (DITPR) is current and properly maintained.
+
+4. Echelon IIs requesting relief from the mandates in reference G must 
+provide an operational impact statement with justification for non-
+compliance.  All waiver requests should be submitted via the OPNAV N2/N6 POC 
+listed in this NAVADMIN.  Any requests exceeding 12 months will forwarded to 
+DoN CIO to DoD CIO for review and approval / disapproval.  Waiver request 
+justifications must fall into one of the below categories:
+a.	Statutory: Laws or regulations prohibit changes to the capability / 
+system.
+b. Proprietary: Non-DoD / government organization owns information / data / 
+software.
+c. Timeline: Will not meet the deadline for completion, but can become 
+compliant within 365 days of deadline.
+d. Resources: Cost is prohibitive to implementation before system replacement 
+- will not be compliant within 365 days of deadline.
+e. Technical Solutions in Development: Solution is currently in development 
+with a plan to be compliant will not be compliant within 365 days of 
+deadline.
+
+5. This NAVADMIN will remain in effect until cancelled or superseded.
+
+6. Released by VADM Ted N. Branch, Deputy Chief of Naval Operations,
+Information Dominance, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,114 @@
+UNCLASSIFIED//
+ROUTINE
+R 241457Z JAN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 020/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/POST 9-11 GI BILL EXCEPTION TO POLICY//
+
+REF/A/DOC/USD P&R/25OCT18//
+REF/B/DOC/DOD/31MAY13//
+REF/B/MSG/CNO WASHINGTON DC/161223ZJUL18//
+REF/D/MSG/CNO WASHINGTON DC/241332ZSEP18//
+REF/E/DOC/COMNAVPERS/16FEB17//
+NARR/REF A IS OFFICE OF THE UNDERSECRETARY OF DEFENSE FOR PERSONNEL AND 
+READINESS MEMORANDUM.  
+REF B IS DEPARTMENT OF DEFENSE INSTRUCTION 1341.13 CHANGE 1, POST 9-11 GI 
+BILL.  
+REF C IS NAVADMIN 170/18, POST 9-11 GI BILL UPDATES.  
+REF D IS NAVADMIN 236/18, POST 9-11 GI BILL UPDATES PART 2.  
+REF E IS MILPERSMAN 1160-040, EXTENSION OF ENLISTMENT.
+
+RMKS/1.  This NAVADMIN announces a temporary exception to policy (ETP) by the 
+Department of Defense (DoD) to Post 9-11 GI Bill transfer of education 
+benefits (TEB) eligibility.
+
+2.  Effective immediately and retroactive to 12 July 2018, reference
+(a) defers full implementation of eligibility changes in references
+(b) and (c) until 12 July 2019 for members who have served at least
+10 years.  All other TEB policies and procedures remain in effect.
+
+3.  Members with at least 10 years of service in the armed forces who are 
+unable to serve 4 additional years due to statute or standard policy (DoD or 
+Service) at the time of their TEB application and agree to serve the maximum 
+time authorized by that statute or policy, are eligible to transfer education 
+benefits to dependents until 11 July 2019.
+    a.  Sailors whose TEB applications were previously rejected must reapply 
+for TEB to be considered for approval.
+    b.  All Sailors applying or reapplying for TEB who have not previously 
+completed the online self-service Statement of Understanding implemented in 
+reference (d) must first complete it at 
+https://myeducation.netc.navy.mil/webta/home.html#nbb.
+    c.  Enlisted Sailors within 4 years of high year tenure (HYT) must have a 
+hard or soft end of active obligated service/end of service reflected in the 
+Navy Standard Integrated Personnel System electronic service record (ESR) 
+that coincides with the month and year of their HYT before applying for TEB.
+    d.  Officers within 4 years of the statutory limit for their current 
+rank, or who have twice failed to select for promotion to the next rank, will 
+have an Obligation End Date (OED) established that coincides with the last 
+day of the month prior to their mandatory retirement or separation date.
+    e.  Selected Reserve (SELRES) officers serving in tenure-limited billets 
+will have an OED established 4 years from their TEB application date or to 
+their statutory limit, as applicable.
+Officers whose projected rotation date precedes the OED must apply to remain 
+in the SELRES by participating in the applicable billet application and 
+selection process.  Officers not selected for a billet to continue in the 
+SELRES must contact the Navy Reserve point of contact identified in paragraph 
+6c to request OED adjustment to coincide with the last day of the last month 
+of their current assignment.
+    f.  Members undergoing medical board processing must receive final 
+determination of their status prior to applying for TEB.  If not retainable, 
+Active-Duty and Full-Time Support (FTS) members must provide their final 
+separation message to Navy Personnel Command GI Bill Programs Branch (PERS 
+311), via MyNavy Career Center.  SELRES members must provide their 
+documentation to Commander, Navy Reserve Forces Command Post-9/11 GI Bill 
+Manager (N1C2).  The documentation must indicate their separation date and 
+the TEB application must be submitted before separation and expiration of 
+this ETP.
+    g.  Sailors submitting TEB applications on or after 12 July 2019 will be 
+subject to TEB policy contained in references (b) through (d).  This includes 
+the restriction of TEB eligibility to those with no more than 16 years of 
+service.  Sailors approaching 16 years of service must take action prior to 
+12 July 2019 to preserve the ability to transfer benefits or it will be lost.
+
+4.  Enlisted Sailors subject to this ETP may extend to meet the TEB obligated 
+service, subject to eligibility criteria in reference (e).
+Extensions must be reflected in the ESR prior to submitting a TEB request.
+
+5.  Members approved for TEB must remain in the armed forces until the OED.  
+Failure to complete the service obligation will result in family member 
+ineligibility for benefits, or if benefits have been used, all monies paid to 
+dependents will be considered an overpayment by the Department of Veterans 
+Affairs subject to recoupment.  Exceptions that do not result in loss of TEB 
+eligibility are described in reference (b), enclosure 3, paragraphs
+3g(2)(a) through 3g(2)(h).
+
+6.  Points of contact:
+    a.  OPNAV N127 Policy:  Mr. Jim Johnson, (703)604-5256/DSN 664 or via e-
+mail at james.p.johnson(at)navy.mil.
+    b.  Active-Duty and FTS Sailors may submit inquiries to MyNavy Career 
+Center at 1-833-330-6622 or via e-mail at askmncc(at)navy.mil.
+    c.  SELRES Sailors may submit inquiries to Commander, Navy Reserve Forces 
+Command (N1C2) at 1-800-621-8853 or via e-mail at 
+cnrfc_post911gibill(at)navy.mil.
+
+7.  This NAVADMIN will remain in effect until superseded or
+12 July 2019, whichever occurs first.
+
+8.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

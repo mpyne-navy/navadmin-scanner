@@ -1,0 +1,78 @@
+RTTUZYUW RUEWMCS0000 3541511-UUUU--RUCRNAD
+ZNR UUUUU
+R 201511Z DEC 13 PSN 763044K24
+FM CNO WASHINGTON DC//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N2N6//
+UNCLAS
+
+NAVADMIN 322/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/MANDATORY AFLOAT ISSUANCE OF SIPRNET TOKENS//
+
+REF/A/LTR/DOD CIO WASHINGTON DC/14OCT11//
+REF/B/MSG/CNO WASHINGTON DC/121935ZMAR12//
+REF/C/MSG/SPAWARSYSCEN PACIFIC/200033ZDEC12//
+
+NARR/Ref A is Department of Defense Chief Information Officer memo, 
+Department of Defense Secure Internet Protocol Router Network Public Key 
+Infrastructure Cryptographic Logon and Public Key Enablement of Secure 
+Internet Protocol Router Network Applications and Web Servers.  Ref B is 
+NAVADMIN 084/12, Public Key Enablement of Navy Secret Internet Protocol 
+Router Network.  Ref C is PMW-160 Networks Fleet Advisory Message 0170 which 
+addresses installation and configuration of the middleware smart card reader 
+to allow the use of secure internet protocol router network tokens.//
+
+RMKS/1.  This NAVADMIN provides Navy-specific direction to all afloat 
+commands regarding secure internet protocol router network (SIPRnet) token 
+issuance per ref A.  All afloat commands shall issue SIPRnet tokens to 100 
+percent of SIPRnet users to allow them to access public key (PK) enabled 
+websites and applications by 1 July 2014.
+
+2.  Background.  Ref A requires 100 percent of SIPRnet users to have the 
+ability to use tokens to access websites and applications.  Without these 
+tokens, SIPRnet users will soon be unable to access critical PK enabled 
+websites required for daily operations.  Upon installation of card readers 
+and middleware, PK authentication is available on afloat workstations.  The 
+installation to allow PK authentication on websites is independent of network 
+changes required to allow using public key infrastructure (PKI) to gain 
+access to the network via cryptographic log on (CLO).  The second phase of 
+the SIPR PKI afloat implementation will require CLO.
+
+3.  Action
+
+    a. Subject to forthcoming guidance from Commander, U.S. Fleet Forces 
+Command (COMUSFLTFORCOM) and Commander, U.S. Pacific Fleet (COMUSPACFLT), 
+afloat commands will order tokens and card readers and issue tokens to 100 
+percent of SIPRnet users by 1 July 2014.  The following provides a notional 
+plan of action for token issuance per refs B and C:
+
+        (1) Assign three trusted agents (TA).
+        (2) Provide training to TAs and complete designation paperwork.
+        (3) Provide names of TAs to Ms. Linda Kee via e-mail:  
+linda.kee(at)navy.mil.
+        (4) Order tokens from Regional Local Registration Authority (LRA).  
+LRA information is available at: 
+https://infosec.navy.mil/PKI/nssregionallras.pdf.
+        (5) PK-enable workstations by installing 90-meter middleware and 
+connecting card readers.
+        (6) Issue tokens to all users and report statistics as COMUSFLTFORCOM 
+and COMUSPACFLT.
+        (7) The token issuance guide is available at: 
+https://infosec.navy.mil/PKI/fleet_nss_pki_20121107.pdf
+
+    b. COMUSFLTFORCOM and COMUSPACFLT shall report status of afloat token 
+issuance to Commander, Naval Network Warfare Command on the first and third 
+Friday of each month until compliant with this message.
+
+4.  This NAVADMIN will remain in effect until cancelled or superseded. 
+
+5.  Released by Vice Admiral Ted N. Branch, Deputy Chief of Naval Operations 
+for Information Dominance (OPNAV N2N6).//
+
+BT
+#0983
+NNNN
+UNCLASSIFIED//

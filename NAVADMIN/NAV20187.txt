@@ -1,0 +1,89 @@
+UNCLASSIFIED//
+ROUTINE
+R 302033Z JUN 20 MID110000792573U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 187/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/JUN//
+
+SUBJ/FISCAL YEAR 2021 PROJECTED SHIP INACTIVATION SCHEDULE//
+
+REF/A/DOC/OPNAVINST 4770.5H/20140424//
+REF/B/ DOC/OPNAVINST 5400.44A/20111013//
+
+AMPN/REF A IS OPNAV POLICY AND GUIDANCE FOR THE INACTIVATION, RETIREMENT, AND 
+DISPOSITION OF U.S. NAVAL VESSELS.  
+REF B IS NAVY ORGANIZATION CHANGE MANUAL
+(NOCM) FOR SUBMITTING ORGANIZATIONAL CHANGE REQUESTS (OCR) TO INCLUDE SHIP 
+DECOMMISSIONINGS OR INACTIVATIONS.// 
+POC/M. COOPER/CIV/N9IS/TEL: 703-692-3534/EMAIL: MAX.COOPER(AT)NAVY.MIL//
+
+RMKS/1.  This message shall be read in its entirety to ensure all 
+stakeholders in the ship inactivation process are aware of the projected 
+retirement schedule for the upcoming Fiscal Year 2021 (FY21), respective 
+responsibilities and necessary follow-up actions.  Ship retirement decisions 
+reflected in paragraph 2 below align with the Presidents Budget for 2021.  
+This plan will be adjusted if necessary based on subsequent execution year 
+decisions made by leadership or as required by Congressional action.
+
+2.  To facilitate fleet planning efforts to conduct decommissioning 
+continuous maintenance availability (CMAV) or inactivation availability 
+(INAC), the projected schedule for inactivating U.S. battle force and non 
+battle force naval vessels in FY21 is promulgated as follows:
+
+Ship Name		Proj Inactive Date	Post Inactive Status
+USS ZEPHYR		31 Mar 2021            	Dismantle
+(PC 8)
+USS SHAMAL		31 Mar 2021            	Dismantle
+(PC 13)
+USS TORNADO	      31 Mar 2021            	Dismantle
+(PC 14)
+USNS SIOUX		30 Sep 2021            	Dismantle
+(T-ATF 171)
+USS FORT MCHENRY	31 Mar 2021           	OCIR
+(LSD 43)
+USS FREEDOM      	31 Mar 2021		      OCIR
+(LCS 1)
+USS INDEPENDENCE	31 Mar 2021		      OCIR
+(LCS 2)
+USS FORT WORTH	31 Mar 2021		      OCIR
+(LCS 3)
+USS CORONADO	31 Mar 2021		      OCIR
+(LCS 4)
+
+3.  Per reference (b), Fleet Commanders shall submit an Organizational Change 
+Request for commissioned U.S. ships and per reference (a) to formally notify 
+the Office of the Chief of Naval Operations (OPNAV) of a ships 
+decommissioning, INAC, or end of service.  Submit revisions due to 
+operational schedule changes per references (a) and (b).  It is the 
+responsibility of Commander, U.S. Fleet Forces Command and Commander, U.S. 
+Pacific Fleet in coordination with their respective TYCOM to ensure the 
+appropriate lower echelon commands are notified of any changes in the ship 
+inactivation schedules, as well as Integrated Warfare (OPNAV N9I) and OPNAV 
+resource sponsor.
+
+4.  Adjustments to paragraph 2 ship inactivations that cross the current 
+fiscal year must be coordinated with OPNAV N9I due to Congressional 
+requirements for execution year force structure changes that differ from what 
+Congress authorized/appropriated and signed into law by the President.  OPNAV 
+shall promulgate changes to the inactivation fiscal year as required.
+
+5.  The ships commanding officer, masters, or Immediate Superior In Command, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning ceremony) announcing the ships official retirement date 
+and include a brief history of the significant events in the life of the ship 
+per reference (a).  The Naval History and Heritage Command (NAVHISTHERITAGE 
+WASHINGTON DC) and Naval Vessel Register Custodian (NVR NORFOLK VA), shall be 
+included as INFO addees.
+
+6.  Released by VADM J. W. Kilby, Deputy Chief of Naval Operations, 
+Warfighting Requirements and Capabilities, OPNAV N9.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

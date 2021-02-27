@@ -1,0 +1,87 @@
+UNCLASSIFIED
+ROUTINE
+R 171359Z FEB 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 037/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/MY NAVY PORTAL BETA LAUNCH//
+
+RMKS/1.  Navy is set to launch a beta release of My Navy Portal (MNP) 
+17 February 2017.  This new portal was designed by Sailors and is intended to 
+become the central location for Sailors to access all of their personnel 
+information, and to manage their careers from start to finish.
+
+2.  This initial release is a beta, with limited functionality. Today, the 
+content and applications Sailors need is spread across multiple websites.  
+Over time, all of that capability will be integrated into MNP, which will 
+serve as the single point of entry for Sailor self-service capabilities.  The 
+beta release will provide select Sailors access to their career data through 
+a framework of eleven career & life events (CLE), including their Physical 
+Readiness Information Management System and Official Military Personnel File.  
+Additionally, Sailors will be able to access the most popular Navy Knowledge 
+Online (NKO) content, Navy Advancement Center, Navy schools and learning 
+centers, personnel qualification standards, and general military training.  
+MNP also provides interactive resources such as separation and retirement 
+timelines, travel checklists, advancement and promotion resources, Sailor and 
+family support, plus CLE-specific glossaries, acronym finders, and frequently 
+asked questions.  MNP also provides links to Career Management System-
+Interactive Detailing, electronic training jacket, joint services transcript, 
+Navy eLearning, Navy Credential Opportunities Online, Navy Standard 
+Integrated Personnel System (electronic service record and eLeave), 
+Pay/Personnel Standard Operating Procedures, U.S. Navy awards, and more.  
+Those Sailors who are beta testers will be notified by email.  Upon 
+completion of the beta test, MNP will be launched fleet-wide and will be 
+available to all Sailors as the central online location for their personnel 
+information.
+
+3.  MNP is a common access card (CAC) enabled website optimized for modern 
+web browsers including Internet Explorer, Firefox, and Google Chrome.  
+Sailors can view the public homepage at https://my.navy.mil.  This page will 
+provide links to many of the websites Sailors use today.  From the homepage, 
+Sailors can access the CAC-enabled MNP website.  There are currently 
+challenges for platforms with limited, low, or intermittent 
+bandwidth/connectivity. We are diligently working to improve Sailor access 
+and use in these environments.
+
+4.  Starting with the beta release in February, MNP will be deployed in 
+phases, adding capability and functionality over time.  With each quarterly 
+release of MNP, Sailors will see continued improvement and functionality.  
+MNP is expected to be fully operational in 2020 and be a self-service 
+solution for the personnel needs of the Sailor.
+
+5.  Fleet feedback is very important to MNP development, especially during 
+the beta test.  As such, any Fleet user may and is encouraged to explore MNP 
+beta capability and provide detailed comments and recommendations using the 
+feedback option located at the bottom right of every MNP page.  If Sailors 
+experience difficulty logging on to MNP, please email MNP_Helpdesk@navy.mil 
+for assistance.
+
+6.  More information about MNP can be found on the MNP help tab and on the 
+Navy Personnel Command Career Toolbox website at
+http://www.public.navy.mil/bupers-npc/career/toolbox/Pages/My-Navy-
+Portal.aspx.
+
+7.  With the launch of MNP beta, NKO is tentatively scheduled to be retired 
+after data migration and the spring Navy Wide Advancement Exam Cycle, 
+expected spring 2017.  The NKOs Navy eLearning Center content and communities 
+of practice will be restructured and updated on MNP.
+
+8.  Point of contact is LCDR Eric Smith, OPNAV (N16), who can be reached at 
+(703) 604-5747/DSN 664 or via e-mail at eric.s.smith(at)navy.mil.
+
+9.  Released by Vice Admiral, R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

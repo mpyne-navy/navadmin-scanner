@@ -1,0 +1,72 @@
+UNCLASSIFIED//
+ROUTINE
+R 201407Z AUG 19 PSN 920767P31
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 193/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1//AUG//
+
+SUBJ/ACTIVE COMPONENT LIMITED DUTY OFFICER AND CHIEF WARRANT OFFICER FITNESS 
+REPORT OFFICER SUMMARY GROUPS (CORRECTED COPY)//
+
+REF/A/MSG/CNO WASHINGTON DC/291827ZJUN17//
+REF/B/DOC/BUPERS/1MAY15//
+REF/C/DOC/SECNAV/5APR19//
+NARR/REF A IS NAVADMIN 157/17, ACTIVE COMPONENT LIMITED DUTY OFFICER AND 
+CHIEF WARRANT OFFICER SUMMARY GROUPS.  
+REF B IS BUPERSINST 1610.10D, NAVY PERFORMANCE EVALUATION SYSTEM.  
+REF C IS SECNAVINST 1400.1C, OFFICER COMPETITIVE CATEGORIES FOR THE ACTIVE 
+DUTY LIST OF THE NAVY AND MARINE CORPS.//
+
+RMKS/1.  This NAVADMIN announces the cancelation of reference (a) and updates 
+reference (b) to align with reference (c).
+
+2.  For fitness reports ending 1 October 2019 or later (block 15), reporting 
+seniors must:
+    a.  Rank LDO ensign through captain by officer summary groups
+(OSG) as follows:  Surface (61XX), Submarine/Nuclear (62XX), Aviation (63XX), 
+General Line (64XX), Civil Engineer (653X), Supply (651X) and Information 
+Warfare (68XX).
+    b.  Rank CWO2 through CWO5 by OSG as follows:  Surface (71XX), 
+Submarine/Nuclear (72XX/740X), Aviation (73XX), Information Warfare (78XX) 
+and General Line/Staff (74XX/75XX).
+
+3.  This change applies to fitness report purposes only.  LDOs and CWOs will 
+retain their current designators and compete for statutory promotion within 
+revised competitive categories.
+
+4.  Amplifying guidance for reporting seniors is provided as follows:
+    a.  Continue adherence to upper limits on early promote and must promote 
+recommendations in line with reference (b).
+    b.  Existing special billet subcategories will remain in effect.
+    c.  Table 1-3 of reference (b) defines other characteristics used in 
+determining OSGs.
+    d.  Use of amplifying fitness report verbiage and soft breakouts by the 
+individual community are strongly encouraged.  All efforts should be made to 
+continue to document officers displaying sustained superior performance.
+
+5.  A list of frequently asked questions can be found via MyNavy Portal at 
+https://www.mnp.navy.mil/group/career-planning.
+
+6.  For LDO/CWO questions regarding the cancelation of reference (a) or any 
+questions regarding this message, contact LT Shanique Howard at (901) 874-
+2236/DSN 882, or via e-mail at shanique.d.howard(at)navy.mil, CWO5 Hector 
+Sandoval at (901) 874- 2464/DSN 882, or via e-mail at 
+hector.sandoval(at)navy.mil
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#6526
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,163 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 141629Z AUG 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO USCYBERCOM FT GEORGE G MEADE MD
+COMFLTCYBERCOM FT GEORGE G MEADE MD
+DIRNSA FT GEORGE G MEADE MD
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 213/18
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//DNS//
+
+SUBJ/CALL FOR APPLICANTS FOR THE COMPUTER NETWORK OPERATIONS DEVELOPMENT 
+PROGRAM (CNODP) CLASS OF 2022//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/AUG//
+
+REF/A/DOC/NSA/JUL/NOTAL//
+
+AMPN/REF A IS UNITED STATES CYBER COMMAND (USCC) AND NATIONAL SECURITY AGENCY 
+(NSA) CALL FOR APPLICANTS FOR THE CNODP CLASS OF 2022// POC/WILLIAM 
+LOVEJOY/FCC-C10F N13/TEL: (443) 634-4586 EMAIL:
+USFF_FCC_C10F_NSAH_CNODP(AT)NAVY.MIL//
+
+RMKS/1.  This is the annual call for the Computer Network Operations 
+Development Program (CNODP), Class of 2022.  The CNODP is comprised of the 
+NSA System and Network Interdisciplinary Program (SNIP), the Global Network 
+Exploitation and Vulnerability Analyst (GNEVA) Development Program (GDP) and 
+the United States Cyber Command (USCC) Joint Cyber Development Program 
+(JCDP).  This is an opportunity for a select group of highly technically 
+inclined individuals to further develop their skills in the areas of secure 
+system design, vulnerability analysis, Computer Network Defense (CND), and 
+Computer Network Exploitation (CNE).  The goal of the program is to develop a 
+cadre of technical leaders who will improve Department of Defense (DoD) 
+Computer Network Operations
+(CNO) capabilities.  The program is a technically demanding three-year 
+internship, tailored to each applicant to best capitalize on individual 
+expertise. The next class is expected to start on or about 8 July 2019, with 
+an anticipated report not later than (NLT) date of 22 April 2019 to allow 
+sufficient time for in-processing, orientation, and security clearance 
+processing.
+
+2.  Ideal CNODP candidates will have many of the following
+qualifications:
+    a.  Bachelor's degree plus advanced courses or equivalent experience in 
+the areas of computer engineering, computer science, electronic and 
+electrical engineering, or applied mathematics.
+    b.  Exceptional academic performance and professional accomplishments, as 
+well as a demonstrated interest in and ability to perform technically 
+oriented, hands-on work.
+    c.  Well-developed oral and written communication skills.
+    d.  Working knowledge in one or more telecommunications or computer 
+network disciplines (computer hardware, software, or networks).
+    e.  Well-qualified officers (O1-O3), enlisted (E5-E7), and Warrant 
+Officers (all ranks).  Previous assignments should include experience in CNO, 
+signal intelligence (SIGINT) collection operations, information security 
+(INFOSEC)/information assurance (IA), and/or research and development (R&D).
+    f.  Demonstrated programming skills in C or C++, Python and some assembly 
+are desired.
+    g.  Selected applicants must possess a TS/SCI security clearance and a 
+current counter-intelligence (CI) polygraph prior to the projected class 
+start date of 8 July 2019.
+
+3.  Caveats:
+    a.  A three (3) year commitment is required upon graduation to fulfill 
+the follow-on tour requirement.
+    b.  Applicants must contact their detailer for counseling on the career 
+impact of participation in the CNODP program.
+    c.  Civilian applicants must have concurrence from their respective 
+command and all PCS and associated costs are the responsibility of each 
+command.
+    d.  All applicants must have the ability to continue service for six (6) 
+years from program start date.
+
+4.  Please ensure widest dissemination to include, cryptologic, intelligence, 
+communications and computer science, scientific, engineering, acquisition, 
+and operations fields.
+
+5.  Selection will be based on a thorough FCC/C10F review and ranking of each 
+application package followed with an interview of the top applicants by the 
+USCC and NSA selection board.  The application package shall include the 
+following:
+    a.  Documentation that demonstrates service performance and technical 
+competency.
+        (1) Officer:  Academic transcripts, ODC, OSR, complete PSR, and an 
+optional subset of your fitness reports.
+        (2) Enlisted:  Academic transcripts, ESR, complete PSR, and 
+evaluations detailing technical competence.
+        (3) Civilian:  Academic transcripts and any performance assessments 
+detailing technical competence.
+    b.  A career impact and endorsement letter from applicant's detailer.
+    c.  Letter of recommendation from the applicant's Commanding Officer.
+    d.  Letter of recommendation from the applicant's supervisor attesting to 
+his/her technical skills and abilities.
+    e.  An optional letter of recommendation at the applicant's discretion.
+    f.  A letter from the applicant (two pages or less) answering the 
+following:
+        (1) Why do you think that CNODP is the right choice for you?  What 
+goals do you wish to accomplish in CNODP?  Do you have a preference for NSA 
+SNIP/GDP or USCC JCDP program?  If so, why?
+        (2) Detail your experience with programming/software engineering, to 
+include programming language(s) (degree of familiarity, breadth of 
+knowledge/duration of use, and when it was last used).  Only include 
+languages for which you have actually written (or substantially modified) 
+code.  Include any and all:  assembly, hardware-based, high-level, and 
+scripting languages.
+        (3) Other than programming language expertise listed above, how does 
+your experience and training relate to the core fields (hardware, software, 
+and networks)?
+        (4) Teaming:  Describe a positive teaming experience that you have 
+had.  Describe your role on the team and how you contributed.  You may 
+include experiences from work or school.
+        (5) Technical experience:  Describe an unclassified project that best 
+exemplifies your technical development activities and experiences.  Tell us 
+the technical details of your contributions to that project, highlighting 
+your strengths and weaknesses.  The project can be work, home, or school 
+related.
+        (6) Self-directed:  Give one example of a project where you worked by 
+yourself with very little guidance.  Briefly describe what you accomplished, 
+how you approached the problem, and how you liked/disliked working in that 
+capacity.
+        (7) NAVPERS 1070/613 that includes the following
+verbiage:  "I understand that my acceptance of admission into the Computer 
+Network Operations Development Program obligates me to serve on Active Duty 
+for a period of six years following the commencement of the program.  If I 
+elect to leave the program early, I am obligated to serve on Active Duty for 
+a period of one month for every one month served in the program, commencing 
+upon voluntary program termination." Applicants who fail to include the 
+NAVPERS 1070/613 with their nomination package will not be considered.  
+Enlisted personnel who fail to OBLISERV for six years prior to program start 
+will not be allowed to begin the program.
+
+6.  Commands are encouraged to nominate the best-qualified individuals for 
+this voluntary program.  This is an outstanding opportunity to provide future 
+technical leaders with the necessary skills needed to lead the Navy in this 
+vital area.
+
+7.  Send applications to the U.S. Fleet Cyber Command/U.S. TENTH Fleet, Point 
+of Contact (POC): William Lovejoy, usff_fcc_c10f_nsah_cnodp(AT)navy.mil NLT 
+21 September 2018 for review and prioritization.  Nominating organizations 
+are expected to pay travel/per diem costs for necessary travel associated 
+with interviews, which will occur in the November
+2018 - January 2019, time frame; video conferencing will be used wherever 
+necessary.
+
+8.  Released by Mrs. Steffanie B. Easter, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

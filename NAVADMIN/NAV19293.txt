@@ -1,0 +1,73 @@
+UNCLASSIFIED//
+
+PRIORITY
+
+P 172327Z DEC 19 MID510000809662U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 293/19
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/DEC//
+
+SUBJ/FLEET-WIDE SECURITY STAND-DOWN//
+
+REF/A/MEMO/SECNAV/16DEC2019//
+
+REF/B/DOC/OPNAVINST F3300.53C/26MAY2009//
+
+REF/C/DOC/OPNAVINST 5510.165A/1OCT2015//
+
+NARR/REF A IS SECNAV MEMO TO CNO AND CMC DIRECTING FLEET-WIDE SECURITY STAND 
+DOWN.  REF B IS THE NAVY ANTITERRORISM PROGRAM.
+REF C IS THE NAVY INSIDER THREAT PROGRAM.// POC/CDR DARYL MEEKS/OPNAV 
+N314/703-692-8350/DARYL.MEEKS(AT)NAVY.MIL/
+ERIC HAMMETT/CIV/OPNAV N462/703-695-5521/ERIC.HAMMETT(AT)NAVY.MIL/
+JENNIFER FLOYD/CIV/OPNAV N2N6I/703-604-5564/JENNIFER.FLOYD3(AT)NAVY.MIL//
+
+RMKS/1.  In light of the tragic events in Fort Story, VA, Pearl Harbor, HI, 
+and Pensacola, FL, Acting SECNAV has directed execution of a fleet-wide 
+security stand-down to ensure all Sailors, Marines, and civilian workforce 
+across all installations and commands are best postured, trained, and 
+informed to prevent these events in the future.
+
+2.  Per reference a, all commands are directed to execute a security stand-
+down.  Guided by references b and c, commands shall use the material provided 
+in the links below, Navy eLearning tools, and locally developed training 
+material.  At a minimum, the stand-down shall focus on the following:
+    a.  Command review of current physical security and random antiterrorism 
+measures posture.
+    b.  Command-wide training on insider threat, including indicators, 
+actions necessary to deter and mitigate potential insider threats, and 
+associated reporting requirements.  Refer to reference c for insider threat 
+program requirements.
+Training and discussion points can be found at:
+https://www.doncio.navy.mil/mobile/contentview.aspx?id=9552&type
+id=21.
+    c.  Command-wide review of active shooter pre-planned responses (PPR).  
+An active shooter drill or table top exercise of an active shooter event to 
+validate PPRs should be strongly considered.  Additional resources for this 
+training can be found at the following links:
+https://www.fbi.gov/about/partnerships/office-of-partner-
+engagement/active-shooter-resources
+https://www.dhs.gov/cisa/active-shooter-preparedness
+https://training.fema.gov/is/courseoverview.aspx?code=is-907
+
+3.  Echelon 2 commands shall report completion of stand-down training by all 
+installations and units under their command to OPNAV N314 POC by email, cc 
+N462 and N2N6I, NLT 10 January 2020.
+
+4.  Released by Admiral Michael M. Gilday, Chief of Naval Operations.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

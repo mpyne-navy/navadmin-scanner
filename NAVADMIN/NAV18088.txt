@@ -1,0 +1,52 @@
+UNCLASSIFIED
+ROUTINE
+R 042054Z APR 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 088/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/CANCELLATION OF NAVADMIN 203/14 AND NAVADMIN 159/17//
+
+REF/A/MSG/CNO WASHINGTON DC/022044ZSEP14//
+REF/B/MSG/CNO WASHINGTON DC/301517ZJUN17//
+NARR/REF A IS NAVADMIN 203/14, OVERSEAS/REMOTE DUTY SCREENING POLICY CHANGE.  
+REF B IS NAVADMIN 159/17 PERMANENT CHANGE OF STATION ORDERS LETTER OF 
+INTENT.//
+
+RMKS/1.  This NAVADMIN cancels references (a) and (b).
+
+2.  With increased orders lead time (OLT), letters of intent (LOI) are no 
+longer as impactful and less critical for Sailors and their dependents.  OLT 
+is expected to remain around six months in aggregate for the foreseeable 
+future, with a shift in the CMS-ID window to 9-12 months.  Sailors should 
+receive orders with adequate time to complete the required documentation and 
+logistical planning for both continental United States (CONUS) and 
+overseas/remote assignments before beginning the permanent change of station 
+(PCS) process, negating the need for the LOI.
+
+3.  The other PCS tools that were available as outlined in reference (a) 
+remain in effect to make the PCS process smooth for Sailors and their 
+dependents.
+
+4.  Naval Personnel Command (NPC) will resume issuance of LOIs as necessary 
+to best meet Sailor needs, based upon budgetary constraints, OLT, and other 
+factors as determined by NPC leadership.
+
+5.  For assistance or further information, contact the NPC Help Desk at 
+(866) 827-5672/DSN 882 or via e-mail at: uasknpc(at)navy.mil.
+
+6.  Released by Vice Admiral R. P. Burke, N1//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

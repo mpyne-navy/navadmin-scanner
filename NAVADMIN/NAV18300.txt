@@ -1,0 +1,223 @@
+UNCLASSIFIED//
+ROUTINE
+R 121648Z DEC 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 300/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT//
+
+SUBJ/NAVY INFORMATION TECHNOLOGY PROCUREMENT REQUEST FISCAL YEAR 2019 
+GUIDELINES (CORRECTED COPY)//
+
+REF/A/MSG/CNO WASHINGTON DC/201202ZSEP17//
+REF/B/LTR/CNO WASHINGTON DC/19OCT18//
+REF/C/LTR/CNO WASHINGTON DC/31MAY18//
+REF/D/MSG/CNO WASHINGTON DC/041557ZFEB16//
+REF/E/LTR/CNO WASHINGTON DC/01FEB17//
+REF/F/LTR/DON CIO/12FEB16//
+REF/G/DOC/USD AT&L/01DEC17//
+NARR/REF A IS NAVADMIN 234/17, FY18 ITPR APPROVAL PROCESS GUIDANCE. 
+REF B IS NAVY POLICY AND REQUIREMENTS FOR THE NAVYS INFORMATION TECHNOLOGY 
+PROCUREMENT REQUEST (ITPR) PROCESS.  
+REF C IS NAVY POLICY AND REQUIREMENTS FOR THE ACQUISITION OF MULTI -FUNCTION 
+DEVICES AND PRINT SERVICES.  
+REF D IS NAVADMIN 026/16, GUIDANCE FOR MIGRATION FROM ALL LEGACY VERSIONS OF 
+WINDOWS OPERATING SYSTEMS TO WINDOWS 10.  
+REF E IS NAVY POLICY FOR THE PROMOTION, ACQUSITION, AND CONSUMPTION OF 
+COMMERCIAL CLOUD SERVICES.  
+REF F IS DON CIO GUIDANCE ON THE REPORTING REQUIREMENTS FOR ASSETS $25,000 
+AND BELOW.  
+REF G IS DEPARTMENT OF DEFENSE (DOD) MANUAL 4140L.26, VOLUME 2, DOD 
+INTEGRATED MATERIEL MANAGEMENT (IMM) FOR CONSUMABLE ITEMS: ITEM MANAGEMENT 
+CODING CRITERIA.// 
+POC/ZIMMERMAN/BROOKE/CIV/OPNAV N2N6G/-/TEL:  (571)256-8521/DSN:  (312)260-
+8264/E-MAIL:  BROOKE.ZIMMERMAN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancels reference (a) and provides Fiscal Year 2019 
+(FY) guidelines for the execution of reference (b).  As local policy may be 
+more restrictive, all subordinate commands should refer to their Echelon II 
+Command Information Officer (CIO) for additional guidance in regards to this 
+NAVADMIN.
+
+2.  The Information Technology Procurement Request (ITPR) process ensures 
+efficient expenditure of IT funding, prevents duplicative investments, 
+provides visibility on all Navy IT-related expenditures, and achieves 
+strategic sourcing for IT capabilities and procurements.  All ITPRs will be 
+submitted electronically via the Navy Information Technology Approval System 
+(NAV-ITAS) in accordance with reference (b).
+
+3.  The following FY19 guidelines will be used for the submission of ITPRs in 
+FY19:
+    a.  Subject matter expert (SME) Speed Pass:  The SME Speed Pass was 
+devised to make it easier for commands to expedite ITPR reviews.  The SME 
+Speed Pass may only be used for the following IT procurements to allow for 
+expedited review.
+        (1) All programs of record (POR).  POR information must be supplied 
+within the ITPR if this option is selected;
+        (2) Procurements that are out of scope of the ITPR policy per 
+reference (b); and
+        (3) Procurements that are exempt from the ITPR requirements in FY19, 
+as noted in paragraph 5 of this document.
+    b.  Multi-Function Device (MFD) products and/or services:  The following 
+guidelines are applicable for the procurement of any MFD product and/or 
+service in FY19:
+        (1) Per reference (c), all procurement actions for MFD products or 
+services made outside of the Defense Logistics Agency (DLA) or the Next 
+Generation Enterprise Network (NGEN) marketplace must submit a waiver for 
+approval by the appropriate Echelon I SME, and
+        (2) All ITPRs for the procurement of MFD products and/or services 
+from DLA must be submitted by 21 June 2019 in order to meet the DLA 
+procurement cut-off date of 1 July 2019.  Requests submitted after 21 June 
+2019 will not be considered without documented extenuating circumstances.
+    c.  Windows 10 Secure Host Baseline (WIN 10 SHB) Migration:  Per 
+reference (d), all Department of Defense (DoD) component organizations must 
+migrate from Microsoft legacy operating systems to the Defense Information 
+Service Agency approved WIN 10 SHB version unless otherwise waived in 
+accordance with Deputy Department of the Navy Chief Information Officer 
+(Navy) (DDCIO(N)) issued guidance.  A justification statement must be 
+included in the ITPR executive summary for the procurement or sustainment of 
+a legacy operating system (including any associated hardware, software, 
+and/or support services).
+    d.  ITPRs requesting approval for execution of FY20 funding will be 
+accepted starting in the fourth quarter of FY19.
+        (1) ITPRs requesting approval for execution of FY20 funding submitted 
+prior to the fourth quarter of FY19 will be handled on a case-by-case basis.  
+All such ITPRs must include an additional statement in the ITPR executive 
+summary stating the necessity to obtain approval for FY20 funding prior to 
+the fourth quarter of FY19; and
+        (2) The submitting command must include the following statement in 
+the ITPR executive summary:  The Budget Submission Office asserts that it 
+will not obligate FY20 funds prior to 1 October 2019 and affirms such funding 
+is subject to all the provisions of either a FY20 DoD appropriation act or a 
+FY20 Continuing Resolutions Act, whichever is applicable.  All funds in 
+support of a Defense Business System (DBS) are subject to FY20 DBS 
+certification by the appropriate approval authority.  Approving this request 
+will not cause an Anti-Deficiencies Act violation and/or an unauthorized 
+commitment on behalf of the government.
+
+4.  The following criteria and thresholds are set for ITPRs submitted in 
+FY19:
+    a.  All ITPRs submitted for the purchase of the following types of Navy 
+IT, regardless of cost, will be routed to the applicable Navy Echelon I SME 
+for review.
+        (1) Cloud computing services, commercial or government, as identified 
+in reference (e);
+        (2) Navy IT Help Desks or upgrades; and
+        (3) Procurement/maintenance support of portals, websites, and web 
+presences.
+    b.  As applicable by policy, a waiver must be submitted and approved by 
+the appropriate Echelon I SME for the purchase of the following types of Navy 
+IT, regardless of cost:
+        (1) Data Center/Data Server Waiver:  ITPRs containing data center 
+/data server items must route through the Data Canter/Data Server Approval 
+process to be reviewed and approved by DDCIO(N) and DON Office of the Chief 
+Information Officer;
+        (2) MFD Waiver:  Waiver is required for the procurement of an MFD 
+products and/or services from a vendor/distributor other than DLA or the NGEN 
+Marketplace;
+        (3) Enterprise License Agreement (ELA)/Enterprise Software Initiative 
+(ESI) Waiver:  Waiver is required if a DON, DoD, or Joint ELA or ESI is 
+available but is not used for procurement of software, hardware, or related 
+services; and
+        (4) All other Navy IT not documented herein but mandated by the 
+DDCIO(N) to require procurement approval by the DDCIO(N).
+    c.  For all other Navy IT, the following thresholds apply for approval:
+        (1) All requests of $500,000 or greater will route to the DDCIO(N) 
+for approval;
+        (2) ITPRs submitted for $20 million or greater require Director, 
+Programming Division (OPNAV N80) staff review.  OPNAV N80 will coordinate 
+approval decisions with DDCIO(N).  OPNAV N80 will present the request to the 
+Resources Requirement Review Board for a final procurement decision; and
+        (3) ITPRs submitted for less than $500,000 will be approved by the 
+applicable Echelon II CIO.  For all ITPRs less than $500,000, the Echelon II 
+CIO retains discretion to set a local approval threshold amount for assigned 
+Echelon III and below commands.  The Echelon II CIO may designate a Trusted 
+Agent, responsible for the review and approval of ITPRs submitted for less 
+than $25,000.
+            (a) The Abbreviated ITPR Form in NAV-ITAS is authorized for use 
+by Echelon II CIOs for review and approval of ITPRs less than $500,000 unless 
+specified below or covered by any requirement specified in reference (b).  
+Echelon II CIOs retain discretion in the utilization of the Abbreviated ITPR 
+Form by assigned Echelon III and below commands.  The following are not 
+authorized to use the Abbreviated ITPR Form:
+                1.  Cloud computing services (commercial or government);
+                2.  Data center and data server hardware/software waiver 
+review and approvals;
+                3.  Navy IT Help Desks or upgrades;
+                4.  Procurement/maintenance support of portals, websites, and 
+web presences;
+                5.  MFD products and/or services (including those procured 
+from DLA or the NGEN Marketplace);
+                6.  Software/maintenance products procured with a DON, DoD, 
+or Joint ELA or ESI;
+                7.  FY19 year of execution DBS requirements; and
+                8.  Contract support services that will exceed the $25,000 
+threshold over the course of the contract (including option years).
+        (4) Echelon II CIOs are required to track IT transactions of $25,000 
+or less but are not required to submit an ITPR in NAV-ITAS unless covered by 
+paragraph 3.c.(3).a. or any requirement specified in reference (b).
+            (a) Echelon II CIOs are authorized to use the abbreviated ITPR 
+Form in NAV-ITAS for these procurements;
+            (b) Per reference (f), submission of an ITPR in NAV-ITAS is 
+optional for purchases of $25,000 or less (including government purchase card 
+purchases); and
+            (c) Echelon II CIOs that do not utilize the Abbreviated ITPR Form 
+must submit a quarterly report to the DDCIO(N) outlining all IT spend of 
+$25,000 or less in accordance with ITPR process and procedural guidance 
+issues by the DDCIO(N).
+
+5.  Unless otherwise directed by the Echelon II command, the following are 
+exempt from the ITPR requirements in FY19 and, therefore, do not require 
+submission or approval of an ITPR:
+    a.  Software and/or systems embedded in non-command and 
+control/communications weapon systems.  This is not a blanket exemption for 
+all Warfighting Mission Area systems, lab infrastructure, or other types of 
+National Security Systems.  This exemption does include IT embedded in 
+replicas of weapons systems for Research, Development, Test, and Evaluation 
+lab use.
+        (1) Embedded software is computer software, written to control 
+machines or devices that are not typically thought of as computers; and
+        (2) An embedded system is a programmed controlling and operating 
+system with a dedicated function within a larger mechanical or electrical 
+system, often with real-time computing constraints.  It is embedded as part 
+of a complete device, often including hardware and mechanical parts.
+    b.  Consumable items and peripheral devices, as defined below, that are 
+not data center or data server related.
+        (1) Per reference (g), a consumable item is an item of supply or an 
+individual item (except explosive ordnance and major end items of equipment) 
+that is normally expended or used up beyond recovery in the use for which it 
+is designed or intended; and
+        (2) A peripheral device is an internal or external device that 
+connects to and works with a computer to either put information into the 
+computer or to get information out of the computer.  Peripheral devices 
+connect with a computer through an input/output (I/O) interface (e.g., 
+communications, Universal Serial Bus, or serial port).  A peripheral device 
+may also be referred to as an external peripheral, integrated peripheral, 
+auxiliary component, computer peripheral, or I/O device.
+    c.  NGEN contract line item numbers (priced and unpriced) that are:
+        (1) Not associated with NGEN program management, network 
+infrastructure, or MFDs; and
+        (2) Not subject to Echelon II SME review and/or waiver approval as 
+specified in paragraph 3.a and 3.b of this document.
+    d.  Personnel IT training and subscriptions not reported in the Navys IT 
+budget.
+
+6.  For additional information or for references, please refer to the 
+DDCIO(N) SharePoint site at https://portal.secnav.navy.mil/orgs
+/OPNAV/N2N6/DDCION/SitePages/Home.aspx.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

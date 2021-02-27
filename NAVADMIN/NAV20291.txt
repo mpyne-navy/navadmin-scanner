@@ -1,0 +1,110 @@
+RTTUZYUW RHOIAAA0001 3031819-UUUU--RHSSSUU.
+ZNR UUUUU
+R 291806Z OCT 20 MID200000293756U
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS
+
+NAVADMIN 291/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/NAVY PERSONNEL AND PAY(NP2) SYSTEM UPDATE//
+
+REF/A/GENADMIN/CNO WASHINGTON DC/231514ZOCT20
+REF/B/GENADMIN/CNO WASHINGTON DC/111158ZSEP19
+REF/C/GENADMIN/CNO WASHINGTON DC/061834ZAUG19
+REF/D/GENADMIN/CNO WASHINGTON DC/171240ZJUL19
+
+NARR/REF A IS NAVADMIN 287/20 PERSONAL FOR COMMAND PAY AND PERSONNEL
+ADMINISTRATOR (CPPA) PROGRAM UPDATE.  
+REF B IS NAVADMIN 211/19 PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS PHASE 
+THREE.  
+REF C IS NAVADMIN 183/19 PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS PHASE 
+TWO.  
+REF D IS NAVADMIN 161/19 PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS//
+
+RMKS/1.  To improve Fleet readiness and warfighting effectiveness through
+repurposed Sailor and command leadership focus and time, the MyNavy HR team
+continues to make progress in fielding a modern Human Resources (HR)
+services delivery capability to improve all HR functions  especially more 
+timely and accurate personnel and pay transactions.  This NAVADMIN announces 
+the rollout of three new capabilities to the Navy Personnel and Pay (NP2) 
+system:
+improved travel processing capabilities, Reserve Orders and MySailor Data.
+NP2 is the modern integrated personnel and pay system that is already
+Proving a key enabler to successful MyNavy HR Transformation.  References (b)
+Through (d) announced the initial rollout of NP2 in 2019 with the launch of 
+MyPCS Mobile, providing Active Duty Sailors with CAC-free mobile access to a
+tailored Permanent Change of Station (PCS) checklist, viewable orders in an
+easier to read format, an automated wizard driven electronic travel voucher
+capability and a travel entitlements calculator.
+2.  Similar to the previously deployed NP2 capabilities, Sailor access to
+New NP2 capabilities will be available 24/7 and from any mobile device 
+through MyNavy Portal at https://my.navy.mil.  CAC-free entry to NP2 is 
+enabled by registering on MyNavy Portal.  Sailors may also continue to use 
+the conventional CAC sign-in from a CAC-enabled device.
+3.  Improved Travel Processing Capabilities.  Sailors who use the new PCS
+Travel Voucher Wizard capability will experience a more efficient process
+than todays paper-based capability.  The voucher will be pre-filled with
+information from the Sailors orders and personnel record, and Sailors can
+complete their PCS travel claim form (DD Form 1351-2) in the Travel Voucher
+Wizard.  Sailor travel vouchers approved in NP2 for processing by Command
+Pay and Personnel Administrators (CPPA) will be sent to voucher processing
+Clerks to begin pay processing.  All required approval signatures will be 
+completed with e-signature capability.  Automation of this process eliminates 
+the need for CPPAs to manually download and retransmit travel vouchers and 
+associated supporting documents and the need for hard copies of travel 
+claims.  This capability applies to all Active Duty and Full Time Support 
+Sailors traveling on PCS orders as well as Reservists executing Active Duty 
+for Operational Support (ADOS) and Officer Recall PCS orders.
+4.  Reserve Orders.  This upgrade will integrate the following Reserve order
+types into NP2:  Mobilization and Demobilization, ADOS and Officer Recall.
+Reserve Sailors will have the same capability as Active Duty Sailors to
+execute a tailored checklist for use in move preparation and can view and
+print an abbreviated orders format called lean orders.  This feature
+includes a command view function that allows review of checklist completion 
+status to determine Sailor readiness and preparedness, as well as the ability 
+for Sailors to opt-in and immediately get on the waitlist for government 
+housing and childcare services at their new duty station.  Sailors can 
+generate their checklist online at any time and tasks are listed 
+chronologically to improve the overall move experience for Sailors and their 
+dependents.
+Note:  Only Reservists with ADOS or Officer Recall PCS orders will have the
+ability to use the Travel Voucher Wizard capability in the current release.
+5.  MySailor Data.  This capability establishes an on-line display of the HR
+data NP2 needs to support personnel and pay transactions for Active Duty and
+Reserve Sailors, to include assignment, service data and biographical
+information.  In the future, MySailor Data will replace the Navy Standard
+Integrated Personnel System (NSIPS) Electronic Service Record (ESR).  The
+initial MySailor Data release will contain a subset of HR data required for
+Assignments, Leave and Travel capabilities to include Reserve orders.  This
+capability will be accessible on personal and government mobile devices,
+tablets, laptops and desktops.  This release will provide Sailors "view
+only" capability for data across both Active Duty and Reserve components.
+MySailor Data will be used to determine Sailor pay.  Therefore, it is 
+imperative that Sailors review their MySailor Data early to identify any data 
+errors upfront to avoid potential future pay issues.  The technical 
+capability to update MySailor Data will be coming in a future release.  
+Please continue to coordinate with your CPPA, MyNavy Career Center (MNCC) or 
+Naval Reserve Activity/Naval Operational Support Center for all data 
+correction requests.
+As new NP2 capabilities are released, MySailor Data will expand, ultimately
+providing a comprehensive display of data supporting the Sailor career
+continuum from accession to retirement.
+6.  These NP2 capability enhancements are just the latest steps towards
+fielding a modernized Personnel and Pay process that makes the overall
+customer experience better for Sailors and their families.  We will deploy
+new capabilities to Sailors and the Navy HR workforce quarterly.
+7.  Contact the MNCC with any questions, issues or to provide feedback at
+833-330-MNCC/6622 or via e-mail at askMNCC(at)navy.mil.
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+BT
+#0001
+NNNN
+UNCLASSIFIED//

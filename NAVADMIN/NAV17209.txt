@@ -1,0 +1,99 @@
+UNCLASSIFIED
+ROUTINE
+R 281635Z AUG 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 209/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N3N5/AUG//
+
+SUBJ/LEVERAGING MILITARY TRAINING (LMT) FOR SUPPORT OF CIVIL AUTHORITIES//
+
+REF/A/DOC/NDAA/23DEC16//
+REF/B/DOC/SECDEF/14JUL17//
+REF/C/DOC/TITLE 10, U.S.C., SECTION 271/23DEC16//
+REF/D/DOC/TITLE 10, U.S.C., SECTION 276/23DEC16//
+REF/E/DOC/DODI 3025.21/27FEB13//
+REF/F/DOC/SECNAVINST 5820.7C/26JAN06//
+REF/G/DOC/DODD 5240.01/27AUG14//
+REF/H/DOC/DOD 5240.01-M/8AUG16//
+REF/I/DOC/DODD 5148.13/26APR17//
+REF/J/DOC/DODD 5200.27/7JAN80//
+
+NARR/REF A IS SECTION 1014 OF NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL 
+YEAR 2017 (PUBLIC LAW 114-328), ENHANCEMENT OF INFORMATION SHARING AND 
+COORDINATION OF MILITARY TRAINING BETWEEN DEPARTMENT OF HOMELAND SECURITY AND 
+DEPARTMENT OF DEFENSE.  
+REF B IS SECDEF MEMORANDUM, SECURING OUR BORDERS:  LEVERAGING MILITARY 
+TRAINING FOR INCIDENTAL SUPPORT OF DOMESTIC CIVILIAN LAW ENFORCEMENT AGENCIES 
+INFORMATION NEEDS.  
+REF C IS SECTION 271 OF TITLE 10, UNITED STATES CODE, USE OF INFORMATION 
+COLLECTED DURING MILITARY OPERATIONS.
+REF D IS SECTION 276 OF TITLE 10, UNITED STATES CODE, SUPPORT NOT TO 
+ADVERSELY AFFECT MILITARY PREPAREDNESS. 
+REF E IS DOD INSTRUCTION 3025.21, DEFENSE SUPPORT OF CIVILIAN LAW ENFORCEMENT 
+AGENCIES.
+REF F IS SECNAVINST 5820.7C, COOPERATION WITH CIVILIAN LAW ENFORCEMENT 
+OFFICIALS.  REF G IS DOD DIRECTIVE 5240.01, DOD INTELLIGENCE ACTIVITIES.  
+REF H IS DOD MANUAL 5240.01, PROCEDURES GOVERNING THE CONDUCT OF DOD 
+INTELLIGENCE ACTIVITIES.  
+REF I IS DOD DIRECTIVE 5148.13, INTELLIGENCE OVERSIGHT.  
+REF J IS DOD DIRECTIVE 5200.27, ACQUISITION OF INFORMATION CONCERNING PERSONS 
+AND ORGANIZATIONS NOT AFFILIATED WITH THE DEPARTMENT OF DEFENSE.//
+
+RMKS/1.  Reference (a) requires Department of Homeland Security (DHS) to 
+ensure that the information needs relating to civilian law enforcement 
+activities in proximity to the international borders of the United States are 
+identified and communicated to the Secretary of Defense for the purposes of 
+the planning and executing of military training by the Department of Defense 
+(DoD). Reference (b) directs the military departments to take into account 
+the needs of civilian law enforcement officials for information, to the 
+maximum extent practicable, in the planning and execution of military 
+training or operations in accordance with reference (c).
+
+2.  DHS created an LMT portal within the homeland security information 
+network (HSIN) to facilitate the dissemination of law enforcement information 
+needs to the Armed Forces and to ensure that the information relevant to law 
+enforcement that is collected by the Armed Forces during the normal course of 
+military training is provided to relevant officials.  It is expected that the 
+LMT portal will be web accessible and common access card (CAC) enabled.
+DHS is expected to begin to build LMT accounts for the services by July 31, 
+2017.
+
+3.  Commander, Fleet Forces Command (FFC) and Commander, Pacific Fleet 
+(PACFLT) will determine how to implement and manage LMT for their assigned 
+forces, to include access management for the LMT portal, in accordance with 
+references (a) through (j) and the following guidelines:
+    a.  LMT will be supported, to the maximum extent practicable, during the 
+normal course of military training or operations in proximity to the 
+international borders (air, maritime, and land) of the United States, to 
+include U.S. territories.
+    b.  Commands will not add or change deployment dates, training dates, 
+schedule of events, area of operations, or missions to support LMT.
+    c.  With the exception of man-hours required to manage LMT portal access 
+for Navy personnel to facilitate information exchange with DHS, commands will 
+not purchase equipment or incur any additional costs to support LMT.
+    d.  Commands will document all training events and operational activities 
+that provide opportunities to support LMT or otherwise provide relevant 
+information to civilian law enforcement officials.
+    e.  FFC and PACFLT will provide an annual summary to OPNAV N3/N5 to 
+satisfy the reporting requirements in reference (a).
+
+4.  Direct questions regarding this NAVADMIN to the Navy Continuity of 
+Operations (COOP) and Defense Support of Civil Authorities (DSCA) office.
+    a.  Mr. Kenneth Denham, Branch Head Navy COOP and DSCA, at e-mail:  
+kenneth.denham(at)navy.mil.
+    b.  Mr. Matthew Fleisher, Deputy Branch Head Navy COOP and DSCA at 
+e-mail:  matthew.fleisher(at)navy.mil.
+
+5.  Released by Vice Admiral A. L. Lewis, Deputy Chief of Naval Operations 
+for Operations, Plans and Strategy (N3/N5))//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

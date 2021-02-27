@@ -1,0 +1,145 @@
+UNCLASSIFIED
+ROUTINE
+R 261729Z JUL 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 182/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 TO NMCI (UPDATE 4)//
+
+REF/A/LTR/DOD CIO/20NOV15//
+REF/B/LTR/DEPSECDEF/8JAN18//
+REF/C/NAVADMIN 038/18/R 202004ZFEB 18//
+REF/D/UAB/NNWC/24APR18//
+REF/E/NAVADMIN 108/18/R 031453Z MAY 18//
+REF/F/NAVADMIN 138/18/R 311325Z MAY 18//
+REF/G/NAVADMIN 166/18/R 131344Z JUL 18//
+
+NARR/REF (A) IS THE DEPARTMENT OF DEFENSE (DOD) CHIEF INFORMATION OFFICER 
+(CIO) MEMORANDUM, MIGRATION TO MICROSOFT WINDOWS 10 (WIN10) SECURE HOST 
+BASELINE (SHB).
+REF (B) IS DEPUTY SECRETARY OF DEFENSE (DEPSECDEF) MEMORANDUM PROMULGATING 
+DEADLINE FOR MIGRATING OFFICE INFORMATION TECHNOLOGY WORKSTATIONS TO THE DOD 
+WIN10 SHB.
+REF (C) IS INITIAL NAVADMIN DETAILING DEPLOYMENT OF WIN10 TO THE NAVY MARINE 
+CORPS INTRANET (NMCI).
+REF (D) IS THE NAVAL NETWORK WARFARE COMMAND USER AWARENESS BULLETIN ON 
+ENERGY SAVING DURING WIN10 MIGRATION.
+REF (E) IS THE FIRST NAVADMIN IN THIS SERIES OF NMCI WIN10 ENTERPRISE 
+MIGRATION UPDATES.
+REF (F) IS THE SECOND NAVADMIN IN THIS SERIES OF NMCI WIN10 ENTERPRISE 
+MIGRATION UPDATES.
+REF (G) IS THE THIRD NAVADMIN IN THIS SERIES OF NMCI WIN10 ENTERPRISE 
+MIGRATION UPDATES.//
+
+POC/WIN10 COORDINATION CENTER/CIV/PMW-205/-/EMAIL:
+win10coordinatio.fct(at)navy.mil/202-685-0471//
+poc/nen customer engagement managers/civ/pmw-205/-/email:
+pmw_205_nen_cem(at)navy.mil//
+
+
+RMKS/1.  This NAVADMIN is the fourth in a series providing updates on the 
+NMCI Secret Internet Protocol Routing Network (SIPRNet) and Non-Classified 
+Internet Protocol Routing Network (NIPRNet) enterprise migration to WIN10 SHB 
+to be completed by 31 July 2018.  The message directs the quarantine of all 
+remaining non-compliant workstations by 31 July 2018 and provides specifics 
+for execution.  Migration to WIN10 SHB is necessary to improve cybersecurity, 
+promote standardization across the Naval Enterprise Network, and comply with 
+the DOD mandates.  OPNAV N2N6 and PEO-EIS have worked extensively with the 
+Fleet to prioritize migrations and understand potential operational impacts 
+for workstation quarantines.  Maritime Operations Center and embarkables 
+seats will be exempt from this quarantine to ensure no impact to operations.
+
+
+2.  Effective 31 July 2018, all remaining Windows 7 NMCI workstations with 
+the exception of previously identified MOC and embarkable machines will be 
+quarantined.  Quarantined workstations will prevent all Non-administrative 
+users from logging on to those specific computers.
+Those workstations will show a notice in place of the DOD Warning banner 
+stating the workstation has been quarantined.  Users of quarantined computers 
+can use another WIN10 compliant computer to access their information on their 
+home drive (H:\) or command share drive (S:\) until their computer is 
+migrated to WIN10.
+
+
+3.  Individual User Responsibilities:
+
+    a.  Users that receive the quarantined notice on their computer should 
+contact the command Contract Technical Representative (CTR) or IT support 
+staff to have their computer migrated to WIN10.
+
+    b.  As noted, users of quarantined computers can logon to another
+WIN10 compliant computer to access their home drive or command share drive 
+information until their computer is migrated to WIN10.
+Commands should prioritize access to alternate workstations for users 
+effected by the quarantine until the computers is upgraded to WIN10.
+
+    c.  NIPRNet workstations and SIPRNet workstations in approved open 
+storage areas should leave the quarantined workstations powered on and 
+connected to the network (via cabled connection) and continue to reboot 
+nightly selecting NO to the green shutdown notice.  This allows the computer 
+to receive software patches, anti-virus updates and to execute the WIN10 
+migration.
+
+
+4.  CIO and CTR Responsibilities:
+
+    a.  Command CIOs and CTRs must continue to aggressively track the
+    progress of the WIN10 migrations within their area of responsibility to 
+maximize seats completed by 31 July 2018 and minimize the number of machines 
+quarantined.
+
+    b.  While there is no authorization to extend beyond the
+31 July 2018 deadline, requests for an exception to the quarantine policy can 
+be provided by the CIO/CTR, endorsed by the first flag officer in the chain 
+of command, and routed via CIO channels to OPNAV N2N6 for consideration.  
+Requests must include:
+
+        (1) Workstation Name
+
+        (2) Reason for Exception request  cite specific operational impact
+
+        (3) Mission impact if the exception is not approved
+
+        (4) Expected date when the exception will no longer be required 
+(cannot exceed 15 August 2018)
+
+        (5) Echelon II CIOs will send requests to WIN10 Coordination Center, 
+win10coordinatio.fct(at)navy.mil and OPNAV N2N6G.
+
+    c.  Requests for Exception formats were distributed to the CIO community 
+on 23 July 2018 by the WIN10 Coordination Center.
+Any requests for exception previously submitted should be reviewed and 
+resubmitted.
+
+    d.  If a computer is accidentally included in the list and becomes 
+quarantined on 1 August 2018, notify the CIO/CTR immediately to have it 
+removed.
+
+
+5.  OPNAV N2N6 Responsibilities.  OPNAV N2N6 will review exception requests 
+and submit any approved requests to FLTCYBERCOM CIO at 
+c10f_bwc.fct(at)navy.mil.
+
+
+6.  FLTCYBERCOM/C10F Responsibilities.  FLTCYBERCOM/C10F will execute the 
+quarantine according to the approved exception list provided by OPNAV N2N6G.
+
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,133 @@
+RTTUZYUW RUEWMCS0176 2171950-UUUU--RUCRNAD
+ZNR UUUUU
+R 051950Z AUG 14 PSN 271825K25
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N07220//
+
+SUBJ/ANNUAL RECERTIFICATION OF SPECIAL DUTY ASSIGNMENT PAY//
+
+NAVADMIN 176/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+REF/A/DOC/OPNAV/29DEC06//
+REF/B/DOC/OSD/10APR09//
+REF/C/MSG/CNO WASHINGTON DC/N1/071311ZJUL14//
+NARR/REF A IS OPNAVINST 1160.6B, SPECIAL DUTY ASSIGNMENT PAY (SDAP) PROGRAM.  
+REF B IS DOD INSTRUCTION 1304.27, AWARD AND ADMINISTRATION OF SPECIAL DUTY 
+ASSIGNMENT PAY.  REF C IS NAVADMIN 156/14, SPECIAL DUTY ASSIGNMENT PAY.//
+
+RMKS/1.  This NAVADMIN announces the annual Special Duty Assignment Pay 
+(SDAP) recertification process for FY-14 and retroactive payment procedure 
+changes.  This process is critical to ensure the Navy accurately compensates 
+Sailors for serving in uniquely challenging assignments.  Per refs (a) and 
+(b), commanding officers (CO) are required to annually review and certify 
+each Sailors entitlement to SDAP.  This certification is to verify every 
+Sailor who is assigned to an eligible billet remains qualified to fill the 
+billet and is receiving the correct SDAP.  Certification shall commence upon 
+the release of this NAVADMIN and continue through 30 September 2014. Per ref 
+(a), commands that do not complete the required certification by 30 September 
+2014 will have their Sailors SDAP terminated retroactive to 1 June 2014.  A 
+complete list of authorized skills and pay amounts can be found at:
+http://www.public.navy.mil/bupers-
+npc/career/payandbenefits/sdap/Pages/CurrentSDAPRates.aspx.
+
+2.  To verify if a Sailor is eligible and receiving the correct level of 
+SDAP, refer to ref (a), and http://www.public.navy.mil/bupers-
+npc/career/payandbenefits/sdap/Pages/CurrentSDAPRates.aspx.
+
+3.  Follow these procedures to certify the special pay (SP) section of the 
+Enlisted Distribution and Verification Report (EDVR):
+    a.  Obtain and print the SP section of the EDVR.  The SP section only 
+pulls those Sailors that are currently drawing SDAP.
+    b.  Verify your command as a whole and make changes as follows:
+        (1) Add any Sailors who are eligible for SDAP, but not listed in the 
+SP section of the EDVR.  To add, simply handwrite or type the name, rate, 
+effective date, and level on the bottom of the SP section of the EDVR.  If 
+there is not enough space you can do one of two things:
+            (a) Attach a list on command letterhead; or
+            (b) Make a copy of the top portion of the SP section and use that 
+as a secondary page for your additions. 
+        (2) Draw a line through any Sailor who has not reported and are on 
+the SP section as a prospective gain.  These Sailors are currently drawing 
+SDAP at their current command and will be certified by that unit 
+identification code (UIC).
+        (3) Draw a line through any Sailor who is no longer eligible and put 
+a brief description as to why they are no longer eligible 
+(transfer/separation/loss of Navy Enlisted Classifications).
+        (4) Verify levels per ref (c), and draw a line through listed level 
+and replace with new level as required.
+        (5) The COs original signature must be on each page of the SP section 
+accompanied by the following statement:  "After review, I certify that all 
+required additions and changes have been annotated and all Sailors at this 
+command are receiving the correct SDAP entitlement."  This statement can be 
+handwritten, typed, or put on with a label.  A cover letter is not required, 
+and only recommended if the command needs more space for Sailors added.
+        (6) List a point of contact, in the top right hand corner of the 
+first page of the SP section.
+        (7) Send the SP section via encrypted e-mail to PSC(SW/AW) Marie 
+Bates at marie.bates(at)navy.mil.  If you are having trouble sending 
+encrypted e-mail, send an e-mail to PSC(SW/AW) Bates so you can be added to 
+the contact list.  E-mail subject line should read: Encryption request for 
+UIC, POC:  name and phone number and/or e-mail address.  E-mail is the 
+preferred method, but if you need to send via regular mail, please send to: 
+
+    Navy Personnel Command
+    ATTN:  PSC Marie Bates (PERS 81)
+    5720 Integrity Drive
+    Millington, TN 38055-0130. 
+
+        (8) E-mail subject line must contain:  UIC, POC:  rate, name, and 
+phone number.
+        (9) SDAP recertifications do not go to personnel support detachments 
+(PSD), only the required changes need to be submitted to PSD via the 
+transaction online processing system.
+
+4.  Each command is responsible for ensuring updates are made to the Sailors 
+record through the commands servicing PSD.  No changes will be made by Navy 
+Personnel Command as part of the annual recertification process.  If changes 
+are required by PERS-81, then send via separate correspondence with Sailors 
+name in subject line of the e-mail.
+
+5.  To obtain a copy of the commands EDVR go to
+http://www.public.navy.mil/bupers-npc/Documents/BPM_NPC_%20FAQ.docx and look 
+on page five for "How do I get a copy of my commands EDVR."
+
+6.  Each year commands fail to submit their SDAP recertifications by the 
+deadline of 30 September 2014 resulting in stoppage of SDAP for all Sailors 
+at that UIC.  Ensure the command submits their annotated EDVR before the 
+deadline date to prevent unnecessary pay interruptions.
+
+7.  Commands can check the status of their SDAP recertification at
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/pages/default1.aspx.  Commands are strongly 
+encouraged to use this site to ensure all subordinate commands have completed 
+the recertification.  Please allow five to 10 days after submission to be 
+updated on the webpage.
+
+8.  Beginning with this NAVADMIN, commands and Sailors will have the ability 
+to receive back pay within the current FY.  Previously, PSD could not process 
+SDAP requests over four months old and could not cross the FY.  All PSDs will 
+now have the ability to start a Sailors SDAP up to eight months prior to date 
+of the command certification letter within the same FY.  Any SDAP issues that 
+are between eight months and one year old past the SDAP effective start date 
+will be processed by PERS-81 and will require a letter signed by the commands 
+immediate superior in command explaining why the members SDAP was not 
+processed in a timely manner.  All other Sailors with outstanding SDAP 
+retroactive pay issues should submit a request through the Board for 
+Corrections of Naval Records.
+
+9.  Point of contact is PSC(SW/AW) Marie Bates, PERS-811, at (901)874-3260 or 
+via e-mail at marie.bates(at)navy.mil.
+
+10.  This message will remain in effect until superseded or 1 October 2014, 
+whichever occurs first.
+
+11.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#9745
+NNNN
+UNCLASSIFIED//

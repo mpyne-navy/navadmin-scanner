@@ -1,0 +1,85 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 041318Z DEC 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 292/18
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/DEC//
+
+SUBJ/HUSBANDING SERVICE PROVIDER PROGRAM POLICY UPDATE// 
+POC/WHEELER/CAPT/OPNAV N413/E-MAIL: mark.s.wheeler@navy.mil//
+
+REF/A/DOC/OPNAV/02JUN2016//
+
+REF/B/DOC/COMUSFLTFORCOM/COMPACFLT/11JAN2016/NOTAL//
+
+NARR/REF A IS OPNAVINST 4400.11, HUSBANDING SERVICE PROVIDER PROGRAM 
+POLICY.
+REF B IS THE HUSBANDING SERVICE PROVIDER PROGRAM READY REFERENCE 
+GUIDE.//
+
+RMKS/1.  This NAVADMIN standardizes execution of Husbanding Service 
+Provider (HSP) Program policy by directing an interim change to 
+reference (a).  Effective immediately, Fleets, Naval Components, and 
+Numbered Fleet Commanders will add the following guidance to reference 
+(a) paragraph 5.g.
+     a.  Contracting Officer Representatives (COR) on HSP contracts
+     will support deployed units including USS and USNS Government-
+Owned
+     /Government-Operated MSC vessels and specific homeport services
+     contracts.  HSP CORs will not be assigned to or conduct 
+acceptance
+     on non-HSP contracts.
+     b.  Continuously enforce cost avoidance procedures with ships
+     preparing for port visits (PVST) through effective communication 
+and
+     coordination among stakeholders.
+     c.  Identify conditions and locations whereby CORs provide
+     onsite PVST support.  At a minimum, CORs will be onsite for:
+            (1) A ships first multi-day PVST in each OCONUS AOR
+            (2) Fleet weeks / high visibility exercises / multiple
+            ship visits
+            (3) CVN / LHD / LHA PVSTs
+            (4) Ports anticipating or previously experiencing
+            significant logistics challenges
+     d.  Deployed units requesting items or quantities in excess of
+     approved standard Logistics Requests (LOGREQs) require deviation
+     approval.  At a minimum, Numbered Fleet N4s will approve or
+     disapprove requests for deviations.  Individual or aggregate
+     deviations for a specific PVST equal to or in excess of the
+     tripwires listed below, require coordination with the associated
+     Type Commander to ensure adequate funding is available:
+            (1) COMNAVAIRLANT/COMNAVAIRPAC - $100,000
+            (2) COMNAVSURFLANT/COMNAVSURFPAC - $20,000
+            (3) COMNAVSUBLANT/COMNAVSUBPAC - $20,000
+            (4) Military Sealift Command - $20,000
+            (5) Navy Expeditionary Combat Command - $10,000
+     e.  Numbered Fleets maintain a log documenting all deviation
+     requests and associated actions.
+     f.  Fleets and Numbered Fleets review and update their
+     standardized LOGREQs quarterly.
+     g.  Utilize reference (b) to further standardize processes and
+     reinforce training with operational units.  Reference (b) is
+     available on the HSPortal system.
+
+2.  Reference (a) is being reviewed in its entirety and will 
+incorporate changes directed by this NAVADMIN.
+
+3.  Released by VADM D. R. Smith, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

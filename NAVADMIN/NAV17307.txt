@@ -1,0 +1,229 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 221516Z DEC 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 307/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/ALIGNMENT OF ENLISTMENT CONTRACTS WITH DUTY STATION TOUR LENGTHS//
+
+REF/A/MSG/CNO WASHINGTON DC/061543ZJAN17//
+
+REF/B/MSG/CNO WASHINGTON DC/281806ZFEB17//
+
+REF/C/DOC/COMNAVPERSCOM/08JAN08//
+
+REF/D/DOC/COMNAVPERSCOM/03SEP14//
+
+REF/E/DOC/COMNAVPERSCOM/16MAY16//
+
+REF/F/DOC/COMNAVPERSCOM/16FEB17//
+
+REF/G/DOC/COMNAVPERSCOM/22APR10//
+
+REF/H/DOC/COMNAVPERSCOM/13MAY16//
+
+REF/I/DOC/OPNAV/30JAN07//
+
+NARR/REF A IS NAVADMIN 004/17, VOLUNTARY EXTENSION OF ENLISTMENT.
+REF B IS NAVADMIN 051/17, EXTENSION OF DEADLINE TO APPLY FOR VOLUNTARY 
+EXTENSION.  REF C IS MILPERSMAN 1306-106, TIME ON STATION
+(TOS) AND RETAINABILITY/OBLIGATED SERVICE (OBLISERV).  REF D IS MILPERSMAN 
+1306-125, ENLISTED RECORD FLAGS.  REF E IS MILPERSMAN 1160-140, CAREER 
+WAYPOINTS  REENLISTMENT.  REF F IS MILPERSMAN 1160-040, EXTENSION OF 
+ENLISTMENTS.  REF G IS MILPERSMAN 1306-126, FIRST-TERM PERSONNEL ASSIGNMENT 
+POLICY.  REF H IS MILPERSMAN 1306- 611, PROFESSIONAL APPRENTICESHIP CAREER 
+TRACK (PACT) PROGRAM.  REF I IS OPNAVINST 1160.8A, SELECTIVE REENLISTMENT 
+BONUS (SRB).//
+
+RMKS/1.  There are currently over 61,000 Sailors whose enlistment contract 
+ends prior to their projected rotation date (PRD).  This misalignment causes 
+unexpected gaps in manning.  This NAVADMIN announces comprehensive policy and 
+process changes, and directs commands to take immediate action to align 
+enlistment contracts with duty station tour lengths.  Effective upon release 
+through 31 May 2018, the Navy is in an Alignment Open Season with details 
+spelled out in paragraph 5.  In addition, we are implementing several policy 
+and process changes to maintain long term alignment.  These changes are 
+effective immediately and include:
+    a.  Commanding officers (CO) extension authority,
+    b.  Obligated service (OBLISERV) policy,
+    c.  Career Waypoints (C-WAY) policy, and
+    d.  Enlistment extension policy.
+
+2.  Policy changes.  Policy changes required to implement and sustain 
+alignment between enlistment contracts and duty station tour lengths are 
+outlined below.  These policy changes greatly benefit our Sailors, putting 
+them in an active role in deciding what is best for their career by 
+communicating their desire directly to their detailers and community 
+managers.  Updates to the corresponding MILPERSMAN (MPM) articles are 
+forthcoming.
+    a.  COs extension authority.  References (a) and (b) offered first-term 
+Sailors on sea duty an opportunity to extend their enlistment without C-WAY 
+approval, providing Sailors more career stability and giving the Navy a 
+clearer picture for ordering in replacement personnel.  Many Sailors took 
+advantage of this policy change and extended their enlistment.  Effective 
+immediately, this NAVADMIN makes the COs authority to extend a Sailors 
+enlistment contract to complete their prescribed tour without C-WAY approval 
+permanent.  Sailors whose enlistment contract ends prior to their duty 
+station tour lengths  will be asked to obligate service to complete their 
+prescribed tour.  This will reduce mid-tour C-WAY decisions.  References (a) 
+and (b) are hereby canceled.  Additional guidance on how C-WAY will be used 
+is outlined below in section 2.c.
+    b.  OBLISERV policy.  Effective immediately, to improve the alignment 
+between the end of enlistment contract and tour lengths, all permanent change 
+of station (PCS) orders will require OBLISERV for the full prescribed tour.  
+These changes will be updated in reference (c).  Sailors must complete their 
+prescribed tours, unless released by the Assignment Control Authority, 
+Commander, Navy Personnel Command (NAVPERSCOM).  Nuclear trained Sailors will 
+be handled in line with established policies between OPNAV N133 and PERS-403.
+         (1) Transferring and gaining commands are responsible for verifying 
+that a Sailors end of enlistment contract match or exceed the prescribed tour 
+for their next duty station.  If a Sailor does not desire to OBLISERV for 
+orders for the prescribed tour, the transferring command will use a NAVPERS 
+1070/613, Administrative remark, to document the Sailors decision.  The 
+command is required to notify the respective rating detailer at NAVPERSCOM by 
+naval message within 30 days of receipt of the PCS orders.  The message 
+template for notifying NAVPERSCOM can be found at
+http://www.public.navy.mil/bupers-
+npc/enlisted/community/Pages/eaosinit.aspx.  NAVPERSCOM (PERS-40BB) will 
+track Sailors who do not OBLISERV in line with reference (d), and PERS-40 
+will make final decisions on orders approval.  Sailors may still be directed 
+by PERS-40 to execute orders based on contract time remaining and needs of 
+the Navy.  These Sailors are considered as being in the decision window upon 
+arrival.
+         (2) A decision window is defined as the length of time from when a 
+Sailor checks onboard and completes the initial career development board 
+(CDB) up to 13 months from the end of their enlistment contract.  Sailors in 
+the decision window may request to extend their enlistment contract to the 
+full prescribed tour via NAVPERS 1306/7, Personal Action Request, and, with 
+CO approval, may extend their enlistment.  Sailors with less than 13 months 
+to the end of their enlistment contract may still request to extend via 
+NAVPERS 1306/7 to their prescribed tour, but due to the fact that a relief 
+may already be identified, approval is subject to billet availability.  In 
+this situation, commands will send a copy of the NAVPERS 1306/7 to the 
+applicable rating detailer for feedback before approving an extension.
+         (3) Sailors completing initial skills training might not have 
+enlistment contracts that align with their prescribed tour.
+Initial assignment PCS orders will include a provision to allow Sailors to 
+voluntarily extend their enlistment to complete the prescribed tour.  Sailors 
+declining to voluntarily extend their enlistment will execute the orders as 
+written.  Their gaining command shall inform these Sailors of the benefits of 
+extending their enlistment during the reporting Career Development Board 
+(CDB).
+    c.  C-WAY policy.  C-WAY will allow Sailors with less than 14 years of 
+service and E-6 and below in rank to communicate their career intentions with 
+the enlisted community managers (ECM).  This allows the ECM to efficiently 
+manage their enlisted communities for accurate accession planning, retention 
+goal setting, and advancement planning.  This constant communication will 
+also help stabilize manning for the command by clearing up the demand signal 
+for distribution or accession replacements.  Nuclear trained Sailors will 
+continue to manage C-Way through OPNAV N133.
+         (1) Commands will mark Sailors in C-WAY as no apply this month 
+selecting undecided reason from the drop-down menu at 16 months if they are 
+undecided about extending to complete their prescribed tour length, and they 
+want to defer their decision to extend.  This is repeated for months 15 and 
+14 if the Sailor remains undecided.  This process ensures Sailors are easily 
+identified to the Career Development Team.
+         (2) The decision window ends at 13 months prior to the end of the 
+enlistment contract, and Sailors who remain undecided will be marked by their 
+commands in C-WAY as Intends to Separate selecting Other reason in the drop-
+down menu adding the following
+note:  Decline to obligate service to match SEAOS to Prescribed Tour.  Based 
+on this information, PERS-40 will automatically adjust the Sailors duty 
+station tour lengths to the end of their enlistment contract, ensuring that 
+Navy can begin the process of finding a relief.  Sailors still have the 
+option to stay Navy and extend (as noted in para 2.b.2) with CO approval by 
+submitting a NAVPERS 1306/7 to extend their PRD to the prescribed tour, which 
+allows PERS-40 to restore the PRD to the prescribed tour and the rating ECM 
+to reset the Sailor in C-WAY, if necessary.  These changes will align with 
+reference (c) and be added to references (e), (f) and (g).
+    d.  Enlistment extension policy.  Effectively immediately, all Sailors, 
+with the exception of nuclear-trained Sailors, can extend their current 
+enlistment contract up to a total of 48 aggregate months to match their duty 
+station tour length, or to obtain the required OBLISERV to execute PCS 
+orders.  This is a change from the previous maximum of 23 aggregate months in 
+one enlistment contract, and will be updated in reference (f).  Nuclear-
+trained Sailors requiring an extension greater than 23 months in one 
+enlistment contract will coordinate with OPNAV N133.
+
+3.  Professional Apprenticeship Career Track (PACT) policy reminder.
+PACT Sailors are assigned a 24-month tour length/PRD per reference (h).  If 
+PACT Sailors are subsequently designated and remain at their current command, 
+their PRD will be adjusted to the prescribed tour for their rating (including 
+PACT sea time already served).
+Once designated, these Sailors are subject to the same policies as rated 
+Sailors and may extend their EAOS to match their new PRD.
+These actions align PACT Sailors to their new rating cohort so they can 
+compete more favorably in C-WAY in the future.
+
+4.  Selective Reenlistment Bonus (SRB) policy reminders.  SRB eligible 
+Sailors may extend their enlistment to match the prescribed tour length for 
+their next duty station according to the most current SRB NAVADMIN.  In line 
+with reference (i), Sailors shall be counseled about the benefits of 
+reenlisting prior to their extension becoming operative.  In order for 
+extension to not count against the SRB computation, it is required that a 
+Sailor reenlist for 2 years past any inoperative extension(s).  The ability 
+to submit a NAVPERS 1070/613, Administrative Remarks, in lieu of hard 
+OBLISERV, if the combined inactive extension(s) is more than 24 months, could 
+potentially result in monetary loss.  Use of NAVPERS 1070/613 entries for 
+periods of more than 24 months must be requested from
+PERS-811 using the request format at
+http://www.public.navy.mil/bupers-npc/
+enlisted/community/Pages/eaosinit.aspx.  Nuclear trained Sailors should 
+contact OPNAV N133 for guidance and permission to exceed 24 months with a 
+NAVPERS 1070/613.
+
+5.  Alignment Open Season is the time period from release of this message 
+until 31 May 2018.  During this period, we want to make rapid improvement to 
+align enlistment contracts to tour lengths.
+The following actions are authorized during the open season:
+    a.  Commands will engage Sailors whose enlistment contracts end before 
+their PRD to facilitate the initial execution of this NAVADMIN.  Using Billet 
+Based Distribution, command Activity Manning Managers can identify Sailors 
+whose enlistment contract ends before their duty station tour length.  At 
+CDBs and subsequent discussions, personnel should be advised about the career 
+implications of a decision to extend their enlistment contract, and the 
+benefits of staying Navy.  Commands are required to counsel Sailors on the 
+importance of extending prior to 13 months before the end of their enlistment 
+contract to ensure career stability.
+    b.  With CO approval, Sailors requiring a High Year Tenure (HYT) waiver 
+to comply with this policy are approved to extend to meet the full prescribed 
+tour length without the need of a HYT waiver request.  Nuclear-trained E4 and 
+E5 Sailors who will exceed HYT or nuclear trained E6 Sailors who intend to 
+extend past 20 years of service, must submit a HYT waiver request via NAVPERS 
+1306/7 to OPNAV N133.
+      c.  Sailors who were not approved in C-WAY for reenlistment but who are 
+mid-tour can be extended by their Commanding Officer to complete their 
+prescribed tour, following guidance contained in this NAVADMIN.  These 
+Sailors can then re-compete in C-WAY for a reenlistment quota during the 
+normal orders negotiating timeline.
+
+6.  Points of contact:
+    a.  NAVPERSCOM (PERS-40), COMM 1-866-827-5672 (U-ASK-NPC).
+    b.  NAVPERSCOM (PERS-811), COMM (901) 874-4993/DSN 882-4993.
+    c.  BUPERS-33 C-WAY Admin Desk, COMM (901) 874-2102, or email at 
+Career_Waypoints@navy.mil.
+
+7.  This NAVADMIN will remain in effect until superseded or canceled.
+
+8.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

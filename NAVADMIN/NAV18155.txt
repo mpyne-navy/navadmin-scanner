@@ -1,0 +1,63 @@
+UNCLASSIFIED
+ROUTINE
+R 261442Z JUN 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 155/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/REVISION OF NAVAL ENLISTED CLASSIFICATION CODE G29A FROM AWV TO AWO//
+
+RMKS/1.  This NAVADMIN is to announce the automatic rating change of all 
+Sailors that hold the G29A Naval enlisted classification code (NEC) from the 
+Aircrewmen Avionics (AWV) rating into the Naval Aircrewmen Operator (AWO) 
+rating.  This rating change is effective as follows:
+
+        E3-E5:  1 JUL 2018
+        E6:  1 SEP 2018
+        E7-E9:  15 OCT 2018
+
+2.  These changes are a result of an extensive review of current and future 
+billet structures, personnel inventory, training pipelines and career paths.  
+With the downsizing of legacy P-3C/EP-3 aircraft for the more advanced P-8A 
+and MQ-4C aircraft, we are capitalizing upon the existing work requirements 
+and training provided to holders of NEC G29A which are more closely aligned 
+with the AWO rating than the AWV rating.  In line with the above timeline, 
+all personnel holding or in training for NEC G29A shall be automatically 
+converted to the AWO rating.  The following is the navy-wide exam 
+administration schedule:
+
+        E4-E6:  AWO Exam-SEP 18 Exam Cycle
+        E7:  AWO Exam-JAN 19 Exam
+
+The following is the E7 and E8/9 Selection Board Schedule:
+
+        E7:  Summer 19 (FY20 Board)
+        E8-E9:  Spring 19 (FY20 Board)
+
+3.  This NAVADMIN does not modify any previous guidance concerning early 
+separation, fleet reserve, conversion packages, or C-Way reenlistment 
+requests.
+
+4.  A frequently asked questions information sheet is posted on the enlisted 
+community mangers webpage at http://www.public.navy.mil/bupers-
+npc/enlisted/community.
+
+5.  Point of contact is CDR Case Garrison, Aviation Enlisted Community 
+Manager, (901) 874-2980 or AWRCS Gary Bryant, Aircrew ECM Technical Advisor, 
+(901) 874-2074.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

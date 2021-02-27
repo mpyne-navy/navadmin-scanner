@@ -1,0 +1,83 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 071449Z SEP 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 220/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/FY-19 ENLISTED ADVANCEMENT-TO-VACANCY SELECTION BOARD RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/141446Z JUN 18//
+
+REF/B/DOC/BUPERS/02NOV17//
+
+NARR/REF A IS NAVADMIN 144/18, ANNOUNCEMENT OF PILOT PROGRAM FOR THE
+FY-19 ENLISTED ADVANCEMENT-TO-VACANCY SELECTION BOARD.  REF B IS BUPERSINST 
+1430.16F, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF THE U.S. NAVY AND U.S. 
+NAVY RESERVE.//
+
+RMKS/1.  Congratulations to the following personnel who have been selected 
+for temporary (spot) advancement by the FY-19 Senior Enlisted Advancement-to-
+Vacancy Selection Board.  Strong competition between qualified professionals 
+is one of the strengths of our Navy and your selection speaks highly of your 
+abilities.
+
+2.  Selectees are authorized for spot advancement upon arrival at the 
+ultimate duty station listed below provided they have met all requirements 
+for the billet to which they were selected.  If a Sailor transfers from a 
+spot-advanced billet for any reason prior to being permanently selected for 
+the next paygrade, the Sailor will revert back to their permanent paygrade 
+effective the date of the transfer.  Personnel listed below may be frocked 
+per reference (b) once they have completed all prerequisites and enroute 
+training required for the selected billet.  The selection list is in 
+alphabetical order by rate.
+
+3.  For selectees, read each line from left to right: spot rank, name, 
+command, and billet.  Members are directed to verify their select status via 
+BUPERS Online.
+AFCM JULIO, CHARLIE    LHA-6 MMCPO/Production Control Supervisor
+AFCM MAYER, LUCAS A    HM-14 Aviation Maintenance Supervisor
+AVCM JOYNER, ERIC      VAW-125 Aviation Maintenance Supervisor
+AVCM SANANGELO, DAV    VFA-37 Aviation Maintenance Supervisor
+AVCM SATTERWHITE, J    CVN-68 Production Control Supervisor
+AVCM STOESSEL, KRIS    VAQ-134 Aviation Maintenance Supervisor
+AVCM VIRAMONTES, HE    VFA-25 Aviation Maintenance Supervisor
+DCCS WILKINS, BRAND    AFLTRAGRU MIDPAC Training Manager
+ENCM BLAKE, DEE WAY    AFLTRAGRU NORFOLK Training Manager
+ENCM MAYDAK, DARREN    LSD-41 Engineering Department LCPO
+FCACM JABBUSCH, KEI    CG-62 Fire Control Administrator
+GSCS HUDSON, DARREL    DDG-92 Engineering Department LCPO
+GSCS REYES, GASTON     DDG-95 Engineering Department LCPO
+GSCS SCHARNHORST, K    DDG-96 Engineering Department LCPO
+GSCS STORRIER, GARY    CG-73 Engineering Department LCPO
+MMCM FRANKLIN, DAMI    COMPHIBRON-11 Steam Systems Manager
+MMCM MARTINEZACEVES    LHD-2 Engineering Department LCPO
+ITCM VIK, ZECHARIAH    CCSG-9 Spectrum Manager
+QMCS HIGINIO, DANY     AFLTRAGRU WESTPAC Training Manager
+
+4.  Each selectee should contact their detailer to coordinate orders and any 
+required enroute training.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

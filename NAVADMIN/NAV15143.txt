@@ -1,0 +1,76 @@
+UNCLASSIFIED//
+ROUTINE
+R 222126Z JUN 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 143/15
+
+SUBJ/COMMAND RESPONSIBILITIES FOR PROCESSING CONTINUOUS EVALUATION
+CONCEPT DEMONSTRATION REPORTS//
+
+REF/A/ALNAV 083/14//
+REF/B/DOC/SECNAV M-5510.30//JUN06//
+AMPN/REF A IS THE ANNOUNCEMENT OF THE DEPARTMENT OF DEFENSE CONTINUOUS 
+EVALUATION CONCEPT DEMONSTRATION KICK-OFF. REF/B/ IS THE DEPARTMENT OF
+THE NAVY PERSONNEL SECURITY MANUAL.//
+POC/CDR JEREMY L. BUTLER/DNS-3/JEREMY.L.BUTLER(AT)NAVY.MIL/TEL:
+(703) 695-5756//
+
+RMKS/1.  Per reference (a), this NAVADMIN provides details on the Continuous 
+Evaluation Concept Demonstration (CECD) process and establishes response 
+requirements for commands receiving CECD reports.  Personnel are reminded of 
+their responsibility to self-report potentially derogatory information to 
+their Chain of Command and Security Manager as required by chapter 10 of 
+reference (b).  Commanders shall report potentially derogatory information to 
+the Department of Defense Consolidated Adjudication Facility (DODCAF) via the 
+Joint Personnel Adjudication System (JPAS) or successor systems.
+
+2.  CECD uses technology to continuously conduct automated records checks 
+using data from government and commercial sources to identify potentially 
+derogatory information that may indicate a personnel security concern.
+
+3.  This demonstration continues to evolve with each lesson learned. Under 
+the current process, when potentially derogatory information is discovered, a 
+report is forwarded directly to the members? Command via the Case 
+Adjudication Tracking System (CATS).  The next step in the process is for the 
+command to notify the DODCAF of this potentially disqualifying information 
+via a JPAS Incident Report. Specifically, command actions include the 
+following:
+    a.  Within five days, acknowledge command receipt of the CATS message via 
+a JPAS Incident Report and include any available amplifying information.
+    b.  Assist the individual with the development of a plan of action and 
+milestones to address and mitigate the issue.
+    c.  Initiate a follow-up report and/or submit a final report to the 
+DODCAF to complete the reporting process in JPAS.
+
+4.  It is important for commands to have at least one CATS account and a 
+primary and alternate Security Manager because command notification of a 
+member flagged for an unreported violation will only occur through CATS.  
+Access to CATS is granted through Echelon II Security Managers.
+
+5.  Echelon II commands will ensure subordinate commands obtain and maintain 
+CATS access and respond to every CECD alert by submitting a JPAS incident 
+report within five days of its receipt.
+
+6.  Commands shall reinforce the requirement for all cleared employees to 
+immediately self-report any potentially derogatory information.
+
+7.  Commands that have received CECD reports shall submit lessons learned via 
+email to the POC listed in paragraph 9 NLT 15 August 2015.
+
+8.  Reporting requirements contained within this NAVADMIN are exempt from 
+Information Management Control Per Secretary of the Navy Manual 5214.1 
+December 2005 Part IV Paragraph 7.o.
+
+9.  Point of contact:  CDR Jeremy L. Butler, at: email: 
+jeremy.l.butler(AT)navy.mil or commercial:  (703) 695-5756.
+
+10.  Released by Vice Admiral J. F. Caldwell, JR., Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

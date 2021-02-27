@@ -1,0 +1,169 @@
+UNCLASSIFIED//
+ROUTINE
+R 271705Z APR 20 MID110000616289U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 121/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/SUPPLEMENTAL NUMBER TWO FOR E4 THROUGH E7 FEBRUARY 2020 (CYCLE
+106) SELECTIVE RESERVE AND MARCH 2020 (CYCLE 247) E4 THROUGH E6 ACTIVE-DUTY, 
+FULL-TIME SUPPORT AND CANVASSER RECRUITER NAVY-WIDE ADVANCEMENT 
+EXAMINATIONS//
+
+REF/A/DOC/BUPERS/19SEP18//
+REF/B/MSG/CNO WASHINGTON DC/N1/121521ZNOV19//
+REF/C/MSG/CNO WASHINGTON DC/N1/101418ZDEC19//
+REF/D/MSG/CNO WASHINGTON DC/VCNO/172230ZMAR20//
+REF/E/MSG/CNO WASHINGTON DC/N1/212136ZAPR20//
+
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS NAVADMIN 253/19, FEBRUARY 2020 (CYCLE 106) NAVY-WIDE ADVANCEMENT 
+EXAMINATION GUIDANCE FOR SELECTED RESERVE E-4 THROUGH E-7 CANDIDATES.  
+REF C IS NAVADMIN 284/19, MARCH 2020 (CYCLE 247) NAVY-WIDE ADVANCEMENT 
+EXAMINATION GUIDANCE FOR ACTIVE-DUTY, FULL-TIME SUPPORT AND CANVASSER 
+RECRUITER PETTY OFFICERS (E-4 through E-6).  
+REF D IS NAVADMIN 069/20, SUPPLEMENTAL FOR E-4 THROUGH E-7 FEBRUARY (CYCLE
+106) SELECTIVE RESERVE AND MARCH 2020 (CYCLE 247) E4 THROUGH E6 ACTIVE-DUTY, 
+FULL-TIME SUPPORT AND CANVASSER RECRUITER NAVY-WIDE ADVANCEMENT EXAMINATIONS.  
+REF E IS NAVADMIN 116/20, NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 4.//
+
+RMKS/1.  In coordination with Fleet Education Service Officers (ESO) and with 
+assistance from the Fleet Master Chiefs, the Navy advancement team working 
+group developed a tailored approach to close out the Spring Navy Wide 
+Advancement Exam (NWAE) for both active-duty (AD) and Reserve Sailors.  Our 
+primary goal continues to be keeping all Sailors safe and healthy, while 
+ensuring every advancement candidate has an equal and fair opportunity to 
+advance despite the challenges of the current COVID-19 environment.  This 
+NAVADMIN amplifies guidance contained in reference (a) and contains exam and 
+cycle administration changes to references (b) and (c).
+Additionally, this NAVADMIN cancels and replaces reference (d).
+
+2.  The following applies only to AD and Full-Time Support (FTS)
+Sailors:
+    a.  E-7 candidates.  These Sailors were able to take their exams before 
+COVID-19 mitigation measures were implemented.  The selection board 
+eligibility list was published on MyNavy Portal at 
+https://www.mnp.navy.mil/group/navy-advancement-center/my-eso.
+Additional guidance will be promulgated in a future NAVADMIN, which will 
+detail a revised selection board schedule for all chief petty officer boards.
+    b.  E-5 and E-6 candidates.  Regular March exams were administered before 
+COVID-19 mitigation measures were implemented.
+However, approximately 5,000 substitute exams have not been administered.  As 
+such, command ESOs will be given 10 working days from 21 May 2020 through 3 
+June 2020, to administer substitute exams for these Sailors.  ESOs must 
+clearly publish and communicate exam administration schedules so Sailors are 
+made aware of testing dates and administration sites in advance of this 
+testing window.
+Commands should implement precautionary measures to ensure Force Health 
+Protection Guidance (FHPG) measures are met in line with reference (e) to 
+include social distancing requirements.  This may include providing multiple 
+administration sites to reduce the number of, and spread-out, exam-takers at 
+each site.  To minimize the risk of Sailor collusion, ESOs are highly 
+encouraged to administer exams for like ratings on the same day.  Following 
+the completion of substitute exams, ESOs must expeditiously mail all answer 
+sheets to the Navy Education and Training Professional Development Center
+(NETPDC) in accordance with reference (a).
+    c.  E-4 candidates.  There are approximately 20,000 exams that were not 
+administered due to the COVID-19 Pandemic.  Reference (d) rescheduled the E-4 
+exam to 21 May 2020, however, execution of the exam in May presents high risk 
+to the force.  Due to the large number of Sailors eligible to participate in 
+this exam and the added difficulty of administering the exam to all of these 
+Sailors while implementing FHPG measures, the Navy has determined that it is 
+in the best interest and safety of our Sailors to NOT administer the E-4 
+exam.
+        (1) As an alternative, those Sailors who were eligible to take the 
+Spring E-4 Cycle 247 exam will have the opportunity for advancement using the 
+rank-order method, a performance-based system that will use current standard 
+Final Multiple Score (FMS) factors without inclusion of an exam score.  With 
+the elimination of the exam score the Performance Mark Average will be the 
+dominant factor in determining advancement.  FMS factors include the 
+following:
+
+Traditional FMS		Rank-Order FMS
+Points	%		Points	%
+Performance Mark Avg.	64		38%		64		72%
+Standard Score		80		47%		0		0%
+Awards			10		6%		10		11%
+Pass not Advance		9		6%		9		10%
+Service In Paygrade	2		1%		2		2%
+Education			4		2%		4		5%
+Maximum FMS			169		100%		89		100%
+
+This alternate FMS method provides eligible E-4 candidates opportunity for 
+advancement this cycle.
+        (2) To accurately determine the population of E-4 candidates eligible 
+for advancement using the rank-order method, command ESOs MUST complete all 
+Enlisted Advancement Worksheets (EAW) in the Navy Standard Integrated 
+Personnel System (NSIPS).  EAW accuracy is particularly important since 
+traditionally, NETPDC uses the candidate exam answer sheet to create a 
+candidate record and establish the advancement eligible population.  However, 
+with exam cancellation, NETPDC will not receive answer sheets and will rely 
+on the completed EAW to establish advancement eligibility.
+        (3) Currently, there are approximately 35,000 unfinished EAWs in 
+NSIPS, which require immediate action by command or regional ESOs (for those 
+units unable to access NSIPS).  ESOs are directed to adjudicate all EAWs to 
+reflect the correct eligibility status for their respective Sailors before 21 
+May 2020 in order to have their records reviewed for the Spring exam (Cycle 
+247).  Command leadership should ensure this process is completed by 21 May 
+2020 to afford eligible candidates consideration for advancement.
+
+3.  The following applies only to Selected Reserve (SELRES) Sailors:
+    a.  E-4 through E-7 candidates.  Approximately 83% of all Cycle
+106 exams were administered during the NWAE in February 2020.
+However, close to 3,000 late exams were not administered due to the
+COVID-19 Pandemic.  As such, command ESOs are authorized to test from 1-31 
+July 2020 since testing for SELRES is dependent on drill weekends, available 
+test sites and candidate availability.
+Following the completion of late exams, ESOs must expeditiously mail answer 
+sheets to NETPDC.
+        (1) SELRES E-7 candidates are highly encouraged to participate in the 
+exam at the earliest possible date in July 2020 to ensure selection board 
+eligibility results can be posted prior to the board convening date.
+        (2) Due to Cycle 106 exam delays, all SELRES E-7 candidates will have 
+an additional three weeks to submit a Letter to the Board (LTB).  The new due 
+date for LTB submissions will be 18 May 2020, which correlates to the 
+original convening of the Reserve E-7 board.
+While FTS E-7 board eligibility has already been published, SELRES
+E-7 has not.  Consequently, all SELRES E-7 candidates are encouraged to 
+submit a LTB prior to the 18 May due date, if desired, just in case they 
+become eligible for the SELRES E-7 board following the publishing of board 
+eligibility.  An LTB is not required and should not include information 
+already available within the Official Military Personnel File of a Sailor.
+    b.  ESOs are responsible for ensuring examination dates on the EAW are 
+changed for the approved late examination administrations.
+
+4.  Advancement Results.  Release of E-4 through E-6 AD/FTS advancement 
+results is anticipated as early as July 2020.  SELRES E-4 through E-6 
+advancement results and E-7 selection board eligibility results can be 
+expected in late August.  Results are heavily dependent on commands promptly 
+processing and returning answer sheets.
+
+5.  EAW system change.  A system change was made to the Cycle 247 (March 
+2020) E4 EAW, setting the new examination administration date to 21 May 2020.  
+Regardless of when the actual exam is administered, ESOs will have until 21 
+May 2020 to finalize E-4 Worksheets.  For SELRES Cycle 106, ESOs are 
+responsible for ensuring examination dates on the EAW are changed for the 
+approved late examination administrations.  No Sailors will gain eligibility 
+for advancement due to the delay/cancellation of exams.
+
+6.  Questions and concerns regarding these policy changes may be referred to 
+MyNavy Career Center at askmncc(at)navy.mil or 1-833- 330-MNCC (6622).
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

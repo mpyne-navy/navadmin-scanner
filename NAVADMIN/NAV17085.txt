@@ -1,0 +1,67 @@
+UNCLASSIFIED
+ROUTINE
+R 061357Z APR 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC/N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 085/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/SERVICEMEMBERS GROUP LIFE INSURANCE ONLINE ENROLLMENT SYSTEM//
+
+RMKS/1.  The Department of the Navy, in collaboration with the Veteran 
+Affairs, Department of Defense, Defense Finance and Accounting Service 
+(DFAS), Defense Manpower Data Center and the other uniformed services, 
+announces the launch of the Servicemembers Group Life Insurance (SGLI) Online 
+Enrollment System (SOES).  SOES is a web-based system available through My 
+Navy Portal that allows Sailors to validate or change SGLI or Family SGLI 
+(FSGLI) coverage amounts and beneficiaries quickly and easily without using 
+paper forms.  SOES is available 24 hours a day and provides detailed guidance 
+to Sailors that enables them to make informed decisions on their life 
+insurance policy elections.
+
+2.  SOES replaces the SGLI Election and Certificate form (SGLV-8286) and 
+Family Coverage Election form (SGLV-8286A) as the authoritative record of 
+life insurance coverage.  SOES automatically creates the Sailors record by 
+using the SGLI/FSGLI coverage amount and effective date stored in the Defense 
+Enrollment Eligibility Reporting System.  In order for the SOES record to be 
+complete and considered authoritative, Sailors must log into the SOES 
+application by April 2018 to provide beneficiary name(s), share(s) of 
+proceeds, and to certify the record with a digital signature.  Sailors who 
+have declined coverage previously and want to continue with no coverage have 
+no required action.  Forms SGLV-8286/8286A will continue to be the 
+authoritative record until the above actions are complete.  Additionally, the 
+SGLV-8286/8286A forms will continue to be valid if used in extenuating 
+circumstances where there is no
+= means for Sailors to access SOES.
+
+3.  Commands shall ensure Sailors complete their SOES record by April 2018.  
+Sailors access SOES by navigating to My Navy Portal at
+https://my.navy.mil and selecting the milConnect tab, and once logged into 
+milConnect, selecting the "SOES" option under the "Benefits" tab.  Access 
+requires a Common Access Card, DFAS (myPay) account, or DS LOGON account.
+
+4.  For more information, take the online training course available at 
+http://www.benefits.va.gov/INSURANCE/training/SOES/SOES.htm.
+
+5.  For questions regarding the SOES application, commands may contact 
+Stanley Keller at 901-874-4453/DSN 882 or via e-mail at 
+stanley.keller(at)navy.mil.  For questions regarding SGLI policy, commands 
+may contact Alan Gorski at 901-874-4559/DSN 882 or via e-mail at 
+alan.gorski(at)navy.mil.  For Reserve-specific questions, commands may 
+contact Robert O'Neil at 757-322-2490/DSN 312 or via e-mail at 
+robert.f.oneil(at)navy.mil.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

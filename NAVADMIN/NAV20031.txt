@@ -1,0 +1,204 @@
+UNCLASSIFIED//
+ROUTINE
+R 041542Z FEB 20 MID510000923511U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 031/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-21 NAVY ACTIVE-DUTY AND RESERVE ENLISTED ADVANCEMENT SELECTION BOARDS 
+FOR CHIEF PETTY OFFICER// 
+
+REF/A/DOC/BUPERS/19SEP18// 
+REF/B/DOC/COMNAVPERSCOM/14JUN18// 
+REF/C/MSG/CNO WASHINGTON DC/271415ZSEP19// 
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS MILPERSMAN 1220- 040, SUBMARINE QUALIFICATIONS DESIGNATION FOR 
+ENLISTED MEMBERS.  
+REF C IS NAVADMIN 220/19, ELECTRONIC SUBMISSION OF LETTERS TO PROMOTION AND 
+SELECTION BOARDS THROUGH MYNAVY PORTAL (MNP).// 
+
+RMKS/1.  This NAVADMIN provides guidance for the Fiscal Year (FY) 2021 Navy 
+Active-Duty and Navy Reserve Enlisted Advancement Selection Boards for Chief 
+Petty Officer.  The Active Component (AC)/Full-Time Support (FTS) cycle is 
+246, and the Selected Reserve (SELRES) cycle is 106.  The Reserve Component
+(RC) board will consider personnel serving on Active Duty as FTS and SELRES, 
+to include those serving on voluntary and involuntary recall and mobilization 
+orders.  Mobilized Individual Ready Reserve personnel are considered under 
+the SELRES requirements for advancement.
+
+2.  RC Timeline
+    a.  28 February 2020:  Individual augmentation evaluations used for time-
+in-rate (TIR) waivers must have an ending date by this date and must be 
+available to the board.
+    b.  17 April 2020:  RC candidates changing ratings must be in their new 
+rating by this date to be considered for selection in the new rating.
+    c.  24 April 2020:  Letter to the board (LTB) deadline for the RC E-7 
+selection board.
+    d.  18 May 2020:  RC E-7 selection board convenes.  All eligibility 
+requirements, to include any waivers, must have final approval and be posted 
+to the records of the candidates prior to this date.
+    e.  5 June 2020:  RC E-7 selection board scheduled to adjourn.
+
+3.  AC Timeline
+    a.  28 February 2020:  Individual augmentation evaluations used for TIR 
+waivers must have an ending date by this date and must be available to the 
+board.
+    b.  22 May 2020:  AC board candidates changing ratings must be in their 
+new rating by this date to be considered for selection in the new rating.
+    c.  29 May 2020:  LTB deadline to the AC E-7 selection board.
+    d.  22 June 2020:  AC E-7 selection board convenes.  All eligibility 
+requirements, to include any waivers, must have final approval and be posted 
+to the records of the candidates prior to this date.
+    e.  17 July 2020:  AC E-7 selection board scheduled to adjourn.
+
+4.  Eligibility Criteria.  Candidates must meet the eligibility requirements 
+outlined in chapters 2 and 11 of reference (a) and this NAVADMIN prior to the 
+scheduled board convening date.  All requirements must be reflected in the 
+enlisted master file prior to the board convening.  Requirements achieved or 
+posted to the record of the candidates after the scheduled board convening 
+date will be considered late and do not make a candidate eligible for the 
+regularly scheduled board or entitle a candidate to a special selection 
+board.  If candidates are deemed ineligible for advancement and later regain 
+eligibility, submit a message formatted e-mail to Naval Education Training 
+Professional Development Center (NETPDC)(N321) and Selection Board 
+Eligibility Branch (PERS-802) requesting validation of eligibility status and 
+provide an explanation.  Eligibility requirements include:
+    a.  The name of the candidate appears on the selection board eligibility 
+list in the correct competitive group on their profile sheet.  Candidates 
+should register for e-mail notification for profile sheet updates via MyNavy 
+Portal at https://www.mnp.navy.mil/group/navy-advancement-center/my-
+advancement.  Candidates and commands share equal responsibility to ensure 
+the eligibility list is accurate.  Because eligibility status can change 
+without direct notification, candidates should verify their profile sheet on 
+a continuous basis.  Commands must verify their examination status 
+verification reports weekly through the projected board adjourn date at the 
+Navy Enlisted Advancement System (NEAS) website via MyNavy Portal at 
+https://www.mnp.navy.mil/group/navy-advancement-center/my-eso.
+    b.  TIR date must be on or before l January 2018.  In line with reference 
+(a), the terminal eligibility date used to compute TIR is 1 January 2021.  If 
+an early promote (EP) TIR waiver is granted, the evaluation used to grant the 
+EP TIR waiver must be available to the board.
+    c.  High year tenure (HYT) waivers must be approved prior to the board 
+convening.  HYT date or approved HYT waivers for the current paygrade must be 
+dated 1 September 2020 or later.  Candidates who will be at HYT on 
+1 September 2020 for the next higher paygrade are ineligible for advancement, 
+regardless of any approved HYT waiver.
+    d.  Commands must-revalidate members whose disapproved or canceled 
+retirement authorization is adjudicated prior to selection board convening 
+date by sending an e-mail with a reason for revalidation to PERS-802.  See 
+paragraph 208 of reference (a) for fleet reserve request impacts to 
+eligibility.
+    e.  Security clearance requirements.  See paragraph 203 of reference (a).  
+Ratings requiring a security clearance are AC, AE, AG, AO, AT, AWF, AWO, AWR, 
+AWS, AWV, AZ, CTI, CTM, CTN, CTR, CTT, EOD, ET, FC, FCA, GM, HT, IC, IS, IT, 
+LN, MA, MC, MN, ND, OS, QM, SB, SO, STG and YN, as well as all nuclear and 
+submarine ratings.
+    f.  Rate specific and competitive group eligibility requirements.
+Candidates must meet special requirements for certain ratings, as outlined in 
+paragraphs 203 and 206 of reference (a).  Required Navy enlisted 
+classifications (NEC) must be posted in the enlisted master file prior to the 
+regularly scheduled board convening date.
+NECs posted to the enlisted master file after the regularly scheduled board 
+convening date, even with a prior date, will not entitle a candidate to a 
+special selection board.  Commands must verify and submit a message formatted 
+e-mail to NETPDC (N321) and PERS-802 requesting invalidation of those 
+selection board eligible candidates who no longer meet rate specific and 
+competitive group qualifications listed in reference (a) or below by the 
+scheduled board convening date.
+        (1) Non-nuclear submarine Sailors must be designated as either SS, SU 
+or SQ in line with reference (b) as of the board convening date to be 
+eligible.  Candidates designated as SG or SP are not eligible for 
+advancement.
+        (2) Canvasser recruiter personnel are ineligible for advancement to 
+E-7.
+
+5.  Record review and communication with the E-7 selection board refer to 
+reference (c).
+    a.  Communication to the board must originate from the individual 
+candidate and must be accompanied under the signed LTB of the candidate.
+    b.  All LTBs and each enclosure must contain the candidates full name and 
+full social security number.  Candidates must verify that the correct board 
+number is on their signed cover letter.  Board numbers are:
+        (1) 335 for SELRES.
+        (2) 336 for FTS.
+        (3) 360 for AC.
+    c.  Electronic submission of selection board documents (ESSBD) is the 
+preferred method to submit an LTB as directed by reference (c).  Candidates 
+may access ESSBD via MyNavy Portal at 
+https://www.mnp.navy.mil/group/advancement-and-promotion.  After login and 
+navigating to the Advancement and Promotion webpage, select the *ESSBD* tile 
+link.
+    d.  If unable to submit as per reference (c), candidates may mail a LTB 
+to the addresses below.  Mailed LTBs should be on plain white paper and paper 
+clipped (no staples, binders, folders or tabs).
+        (1) SELRES/Mobilized E-7 Board:
+            MyNavy Career Center (BUPERS 074)
+            President
+            FY-21 Reserve E-7 Selection Board 335
+            5720 Integrity Drive
+            Millington TN 38055
+        (2) FTS E-7 Board:
+            MyNavy Career Center (BUPERS 074)
+            President
+            FY-21 Reserve E-7 Selection Board 336
+            5720 Integrity Drive
+            Millington TN 38055
+        (3) Active E-7 Board:
+            MyNavy Career Center (BUPERS-074)
+            President
+            FY-21 Active E-7 Selection Board 360
+            5720 Integrity Drive
+            Millington TN 38055
+    e.  Certified or registered mail is not advised due to delays in 
+handling.
+    f.  Candidates may submit more than one LTB vice waiting until the 
+deadline to submit one all-inclusive LTB.  Although multiple LTBs are 
+authorized, candidates should not duplicate previously sent information.
+    g.  The same LTB deadline applies to candidates who gain eligibility 
+after the LTB deadline and before the convening date.  A candidate who is 
+working to fix an eligibility issue and expects to be selection board 
+eligible prior to the board convening date may submit a LTB.
+6.  Selection board results.  Official results will be provided online via 
+BUPERS Online to authorized command representatives prior to the release of 
+the official results via NAVADMIN.  Selectee profile sheets will be published 
+by NETPDC (N321) within 30 days of both RC and AC selection board results 
+being released via NAVADMIN.
+Educational services officers who are registered users may access results 
+through the NEAS website via MyNavy Portal at 
+https://www.mnp.navy.mil/group/navy-advancement-center/my-eso. Individual 
+candidates may view profile sheets via MyNavy Portal at 
+https://www.mnp.navy.mil/group/navy-advancement-center/my-advancement.
+
+7.  Additional information regarding this cycle will be posted via MyNavy 
+Portal.
+    a.  AC boards:  https://www.mnp.navy.mil/group/advancement-and-
+promotion/active-duty-enlisted.
+    b.  RC boards:  https://www.mnp.navy.mil/group/advancement-and-
+promotion/reserve-enlisted.
+
+8.  Points of Contact
+    a.  MyNavy Career Center, (833) 330-6622 or via e-mail at 
+askmncc(at)navy.mil.  Do not submit LTBs to this e-mail.
+    b.  PERS-802, (901) 874-4537/DSN 882 e-mail at 
+NPC_enlisted_selbd_elig(at)navy.mil.  Do not submit LTBs to this e-mail.
+    c.  NETPDC (N321), (850) 473-6148/DSN 753 or via e-mail at 
+sfly_N321_discrepanc(at)navy.mil.
+
+9.  This message will remain in effect until canceled or superseded.
+
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

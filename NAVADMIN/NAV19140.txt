@@ -1,0 +1,89 @@
+UNCLASSIFIED//
+ROUTINE
+R 261408Z JUN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 140/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM APPLICATION//
+
+REF/A/MSG/CNO WASHINGTON DC/201604ZDEC18//
+AMPN/REF A IS NAVADMIN 313/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY 
+EXAM BUSINESS RULES.//
+
+RMKS/1.  This NAVADMIN announces the release of the Professional Military 
+Knowledge Eligibility Exam (PMK-EE) Application (App) for use on mobile 
+devices.  The PMK-EE App was created to provide flexibility to Sailors in the 
+completion of their E-4 through E-7 advancement eligibility requirements.  
+Reference (a) provides the business rules and eligibility requirements as 
+they pertain to PMK-EE.  All Sailors must successfully complete PMK-EE as 
+outlined in reference (a) regardless of their path to advancement.
+
+2.  The PMK-EE App is currently available through the Navy App Locker and via 
+the Apple and Android App stores under the name PMK-EE.
+    a.  The PMK-EE App can be downloaded to and opened on a mobile device 
+without the need for a common access card.
+    b.  Once an exam has been downloaded to a mobile device, the App can be 
+used with or without an internet connection.
+    c.  Upon exam completion, the Sailor will input their Department of 
+Defense Identification (DoD ID) Number into the App.  Once the DoD ID is 
+submitted, completion information is transferred to the Navy Training 
+Management and Planning System (NTMPS)/Electronic Training Jacket (ETJ).  
+Sailors must be connected to the internet to transfer exam completion data.
+
+3.  Completion Status and System Reporting
+    a.  Sailors working in a restricted environment using the PMK-EE App will 
+have to back up their progress to an external device, or complete the PMK-EE 
+exam and transfer the completion information to NTMPS/ETJ, prior to exiting 
+the restricted environment.  PMK-EE progress/completion information will be 
+lost if the mobile device memory is erased prior to departing the restricted 
+environment.
+    b.  PMK-EE completed via Navy e-Learning, submarine on-board training or 
+a mobile device, will automatically be updated in the Sailors NTMPS/ETJ.  
+NTMPS/ETJ should update the advancement eligibility check on the Enlisted 
+Advancement Worksheet (EAW) to *yes* indicating PMK-EE is complete.  If the 
+NTMPS/ETJ does not automatically update the PMK-EE successful completion on 
+the EAW, the command Educational Services Officer (ESO) can upload the 
+passing certificate of the Sailor to NTMPS/ETJ and change the PMK-EE status 
+on the EAW from *No* to *Yes*.  The ESO can change *Advancement Ineligible* 
+to *Advancement Eligible* at this time if all other eligibility requirements 
+have been met.  At this time, the PMK-EE App and Navy e-Learning systems 
+operate independently.  This means that in order to generate a completion 
+certificate, Sailors must complete all five modules of the PMK-EE within the 
+same system.
+    c.  The Fleet Training Management and Planning System (FLTMPS) can be 
+used to generate command completion reports for PMK-EE.  The following steps 
+access the automated report:
+
+        (1) Log into FLTMPS.
+        (2) Click on the *Report Search* button at the top of the Screen.
+        (3) Type *PMK* in the *Search for Report* box, click *Search*, then 
+click on the PMK-EE link once it appears.
+        (4) On the report screen, select one of the options from the report 
+criteria table.
+(5) Enter the command unit identification code or activity name and run the 
+report.
+(6) The command completion report will list all Sailors who have completed at 
+least one PMK-EE.
+
+4.  For more information or concerns, contact the PMK-EE Help Desk Help Desk 
+at (850) 473-6014/DSN 753 or via e-mail at sfly_pmkee_questions(at)navy.mil 
+or MyNavy Career Center at (833) 330-6622 or (901) 834-6622 or via e-mail at 
+askmncc(at)navy.mil.
+
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

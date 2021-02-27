@@ -1,0 +1,144 @@
+UNCLASSIFIED
+ROUTINE
+R 201802Z FEB 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 037/18
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/FEB//
+
+SUBJ//UNIFORM NATIONAL DISCHARGE STANDARDS INFORMATIONAL BRIEFINGS//
+
+RMKS/1.  This message announces the schedule of informational briefings for 
+compliance with upcoming Uniform National Discharge Standards (UNDS) 
+regulations.
+
+2.  Background.
+  a.  In the upcoming months, Navy vessels (USS, USNS, combatant
+  craft, service craft, boats, and any other artificial contrivance)
+  will be required to comply with new UNDS for the following eleven
+  discharges:
+    (1) Aqueous Film-Forming Foam
+    (2) Chain Locker Effluent
+    (3) Distillation and Reverse Osmosis Brine
+    (4) Elevator Pit Effluent
+    (5) Gas Turbine Water Wash
+    (6) Non Oily Machinery Wastewater
+    (7) Photographic Laboratory Drains
+    (8) Seawater Cooling Overboard Discharge
+    (9) Seawater Piping Biofouling Prevention
+    (10) Small Boat Engine Wet Exhaust
+    (11) Welldeck Discharges
+  b.  A DoD Instruction will implement the UNDS regulations.  When
+  that instruction is issued, another NAVADMIN will be promulgated to
+  announce the issuance.  In the interim, all commands are highly
+  encouraged to send appropriate representatives to the training
+  advertised below.
+  c.  Existing Navy operations should already be in compliance with
+  most of the discharge standards through the use of current systems
+  and practices. However, the new regulations will impose some
+  additional reporting, information logging, and record-keeping
+  responsibilities.  These include, but are not limited to:
+    (1) All Commands that own or operate one or more vessels will be
+    required to assign an UNDS Person in Charge (PIC) who will be
+    responsible for ensuring compliance with the UNDS discharge
+    regulations as well as all UNDS reporting and recordkeeping
+    requirements.  For larger vessels, the UNDS PIC duties are expected
+    to be assigned to the ship's Commanding Officer (CO) or vessel
+    master; for smaller vessels, a single person can be assigned PIC
+    duties for multiple vessels.
+    (2) Vessels that inadvertently make a discharge that does not
+    comply with the UNDS must submit an UNDS non-compliance
+    report.  Additionally, discharge specific records will be required
+    for certain discharges such as chain locker effluent and small boat
+    engine wet exhaust.
+  d.  UNDS regulations are federal regulations, based on the federal
+  Clean Water Act.  It is imperative that all Navy vessels are in full
+  compliance with these regulations as failure to comply could result
+  in civil actions against the Navy or criminal prosecution.
+  e.  The UNDS regulations may be enforced by U.S. Coast Guard or
+  State officials.  If such officials request access to vessels or
+  records, follow the procedures in OPNAV M-5090.1, Chapter 35, and
+  coordinate with the Regional Environmental Coordinator (REC).
+  f.  To assist commands in complying with the UNDS regulations,
+  OPNAV will provide informational briefings as laid out
+  below.  Scheduling of some meetings is still in progress.  Request
+  appropriate personnel (PIC, maintenance, repair, operations) attend
+  one of these sessions, as subject-matter experts will be on hand to
+  answer questions.
+
+3.  Informational briefing schedule:
+  a.  Virtual Teleconference (VTC) Meeting (1.888.240.2560/
+  1.408.740.7256, Meeting ID: 243 000 0169, press #):
+    Tuesday, March 20, 1400-1530 EST, Combined Session
+    Wednesday, March 28, 1400-1530 EST, Combined Session
+  b.  Pearl Harbor, HI:  Thursday, February 22 NAVFAC Hawaii Compound
+  Building 40:
+    0800-0930 - Vessel personnel (PIC/AEPC/CHENG/TYCOMS/vessel custodians
+    /ATG/INSURV)
+    1030-1200 - CNIC/NAVFAC/Regional Environmental Coordinators
+    1300-1430 - Naval Shipyards/Regional Maintenance Centers/Port
+    Engineers
+  c.  Everett, WA:  Tuesday February 27, Naval Station Everett
+  Building 2000 Auditorium:
+     0900-1030 - Combined Session
+  d.  Bremerton, WA:  Wednesday, February 28 Naval Base Kitsap
+  Auditorium B1013:
+     0800-0930 - Vessel personnel (PIC/AEPC/CHENG/TYCOMS/vessel custodians
+     /ATG/INSURV)
+     1030-1200 - CNIC/NAVFAC/Regional Environmental Coordinators
+     1300-1430 - Naval Shipyards/Regional Maintenance Centers/Port
+     Engineers
+  e.  Norfolk, VA:  Tuesday, March 6 Norfolk Naval Base CEP-86
+  auditorium:
+    0800-0930 - Vessel personnel (PIC/AEPC/CHENG/TYCOMS/vessel custodians
+    /ATG/INSURV)
+    1030-1200 - CNIC/NAVFAC/Regional Environmental Coordinators
+    1300-1430 - Naval Shipyards/Regional Maintenance Centers/Port
+    Engineers
+  f.  Mayport, FL:  Thursday, March 8 STARK Memorial Classroom (BLDG
+  1 NAVSTA Mayport):
+    0800-0930 - Vessel personnel (PIC/AEPC/CHENG/TYCOMS/vessel
+    custodians/ATG/INSURV)
+    1030-1200 - CNIC/NAVFAC/Regional Environmental Coordinators
+    1300-1430 - Naval Shipyards/Regional Maintenance Centers/Port
+    Engineers
+  g.  New London, CT:  Thursday, March 15 USS Nautilus Museum
+  Classroom:
+    0800-0930 - Vessel personnel (PIC/AEPC/CHENG/TYCOMS/vessel custodians
+    /ATG/INSURV)
+    1030-1200  CNIC/NAVFAC/Regional Environmental Coordinators/Affected
+    Base Personnel
+    1300-1430  Naval Shipyards/Regional Maintenance Centers/Port
+    Engineers
+  h.  San Diego, CA:  Wednesday, March 21, Naval Base San Diego
+  Theatre:
+    0800-0930 - Vessel personnel (PIC/AEPC/CHENG/TYCOMS/vessel
+    custodians/ATG/INSURV)
+    1030-1200 - CNIC/NAVFAC/Regional Environmental Coordinators
+    1300-1430 - Naval Shipyards/Regional Maintenance Centers/Port
+    Engineers
+  i.  Coronado, CA:  Thursday, March 22, Naval Base Coronado Building
+  678 Auditorium:
+    0800-0930 - Combined Session
+  j.  Prospective attendees should check My Navy Portal at https
+  ://www.mnp.navy.mil/group/surface-ship-community/uniform-national
+  -discharge-standards for any updates to the UNDS Informational
+  Briefing schedule.  To access the My Navy Portal website, users must
+  have a .mil email address and a Common Access Card (CAC).  Any
+  updates to phone-in information for the VTC meetings can also be
+  found at this site.  Those planning to attend a briefing may also
+  email NSWCCD_UNDS@navy.mil with the subject line UNDS Briefing
+  Schedule to be included in future briefing communications.  For
+  additional information, contact NSWCCD_UNDS@navy.mil.
+
+4. Released by VADM D. R. Smith, N4//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

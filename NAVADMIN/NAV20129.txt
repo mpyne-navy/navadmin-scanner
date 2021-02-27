@@ -1,0 +1,171 @@
+UNCLASSIFIED//
+ROUTINE
+R 012028Z MAY 20 MID510001157902U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 129/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/GUIDANCE ON EVALUATION OF DEPLOYABILITY, TEMPORARY LIMITED DUTY, AND 
+REFERRAL TO THE DISABILITY EVALUATION SYSTEM (DES) DURING THE CORONAVIRUS 
+(COVID-19) PANDEMIC//
+
+REF/A/MEMO/DASN/23APR20//
+REF/B/MEMO/ASD/24MAR20//
+REF/C/DOC/DOD/30JUL18//
+REF/D/DOC/OPNAV/25SEP18//
+REF/E/DOC/DOD/5AUG14//
+REF/F/DOC/SECNAV/23SEP19//
+REF/G/MEMO/BUMED/8NOV19//
+REF/H/DOC/SECNAV/14JUN19//
+REF/I/DOC/BUMED/28MAR12//
+REF/J/DOC/BUPERS/5NOV04//
+REF/K/DOC/BUPERS/11MAY07//
+REF/L/DOC/BUPERS/27APR07//
+REF/M/DOC/BUPERS/16APR07//
+REF/N/DOC/BUPERS/23MAR05//
+REF/O/DOC/BUPERS/11MAY07//
+REF/P/DOC/BUPERS/14NOV11//
+REF/Q/DOC/BUPERS/10NOV09//
+
+NARR/REF A IS DEPUTY, ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE 
+AFFAIRS) MEMORANDUM.  
+REF B IS ASSISTANT SECRETARY OF DEFENSE (HEALTH AFFAIRS) MEMORANDUM.  
+REF C IS DEPARTMENT OF DEFENSE INSTRUCTION 1332.45, RETENTION DETERMINATIONS 
+FOR NON-DEPLOYABLE SERVICE MEMBERS.  
+REF D IS OPNAVINIST 1300.20, DEPLOYABILITY ASSESSMENT AND ASSIGNMENT PROGRAM.  
+REF E IS DEPARTMENT OF DEFENSE INSTRUCTION 1332.18, DISABILITY EVALUATION 
+SYSTEM (DES).
+REF F IS SECRETARY OF THE NAVY MANUAL, DISABILITY EVALUATION SYSTEM MANUAL.  
+REF G IS BUREAU OF MEDICINE MEMORANDUM, ADMINISTRATIVE MANAGEMENT OF THE 
+DEPLOYABILITY ASSESSMENT AND ASSIGNMENT PROGRAM.
+REF H IS SECNAVINST 6120.3A, PERIODIC HEALTH ASSESSMENT FOR INDIVIDUAL 
+MEDICAL READINESS.  
+REF I IS BUMEDINST 6110.14, DOCUMENTING AND REPORTING INDIVIDUAL MEDICAL 
+READINESS DATA.
+REF J IS MILPERSMAN 1306-1200, LIMITED DUTY (LIMDU).  
+REF K IS MILPERSMAN 1306-1202, LIMITED DUTY (LIMDU) AVAILABILITY PROCEDURES 
+AND ASSIGNMENT POLICY.  
+REF L IS MILPERSMAN 1306-1204, ACCOUNTABILITY OF PERSONNEL ON LIMITED DUTY 
+(LIMDU).  
+REF M IS MILPERSMAN 1306-1206, LIMITED DUTY (LIMDU) FOLLOW-UP CARE.  
+REF N IS MILPERSMAN 1306-1208, DISPOSITION AND ACCOUNTING OF PERSONNEL UPON 
+COMPLETION OF LIMITED DUTY (LIMDU).  
+REF O IS MILPERSMAN 1306-1210, NUCLEAR TRAINED AND SUBMARINE PERSONNEL ON 
+LIMITED DUTY (LIMDU).
+REF P IS MILPERSMAN 1300-800, TRANSFER OF PERSONNEL TO OPERATIONAL DUTY 
+(OPERATIONAL SCREENING).  
+REF Q IS MILPERSMAN 1300-302, SUITABILITY AND SELECTION FOR OVERSEAS 
+SERVICE.//
+
+RMKS/1.  Pursuant to reference (a), this NAVADMIN announces interim policy 
+guidance pertaining to deployability evaluation, temporary limited duty and 
+Disability Evaluation System (DES) processes.
+COVID-19 is challenging the progress made over the last year to improve the 
+effectiveness and efficiency of the temporary limited duty and DES processes, 
+which resulted in greater operational availability of our overall workforce.  
+This NAVADMIN amplifies guidance published in reference (b), which directs 
+limiting medical and dental care to only acute and emergent care to optimize 
+medical readiness during this COVID-19 pandemic.  We will maintain medical 
+readiness through prioritization of medical assessments, delaying or 
+extending assessments where able, and using telehealth to the maximum extent 
+possible.  Commands and Service Members, with support from Navy medicine, 
+will continue to closely track/monitor unit and individual medical readiness.
+
+2.  All Department of the Navy (DON) personnel must continue to aggressively 
+tend to their medical readiness in accordance with references (b) and (c).  
+Specifically, reference (c) directs anyone non-deployable for greater than 12 
+months to undergo a retention determination.  Further, references (c) and (d) 
+detail how the Navy will process personnel who are non-deployable, with 
+disposition falling into three categories derived from non-deployability
+determinations:  (1) temporary limited duty, (2) administrative separation or 
+(3) referral to the DES.  Further, references (e) and (f) detail the DES 
+process and reference (g) details the medical management of personnel who are 
+non-deployable.
+
+3.  As defined in reference (a), if care for a Service Members is delayed due 
+to medical access limitations, additional periods of temporary limited duty 
+may be required.  Medical personnel will continue to employ current 
+methodology when making a decision to place Service Members on additional 
+periods of limited duty namely do they expect resolution of the medical 
+condition or will the Service Member be fully deployable within the next 12 
+months of their original placement on temporary limited duty.  If the Service 
+Member has a condition that will not likely improve, then referral to the DES 
+is appropriate per references (e) and (f).
+
+4.  Referral to the Integrated Disability Evaluation System requires exams 
+within both the Department of Defense (DoD) and the Department of Veterans 
+Affairs (DVA), while the Legacy DES may be completed without DVA input.  In 
+line with reference (a), if a Service Member is unable to schedule and 
+complete DoD or DVA examinations, the Physical Evaluation Board Liaison 
+Officer (PEBLO) may request deferment until such time as the examinations can 
+be performed.
+This deferment will lengthen the duration a Service Member will be in the DES 
+and remain non-deployable.  PEBLOs will ensure that existing DES cases with 
+finalized clinical narrative summaries are submitted to the Physical 
+Evaluation Board without delay.
+
+5.  The retention waiver process for Service Members who are non- deployable 
+for greater than 12 months will continue as normal - the Navy Personnel 
+Command Deployability Assessment and Assignment Branch (PERS-454) evaluates 
+each case and forwards a recommendation to the Deputy Chief of Naval 
+Personnel for final adjudication.
+Inability to complete a course of treatment while under limited duty because 
+of COVID-19 will be considered during the retention determination process.
+
+6.  In line with reference (g), the Chief, Bureau of Medicine and Surgery 
+will prioritize medical readiness requirements to maximize operational 
+effectiveness, including separation history and physical exams (SHPE).  
+Telehealth should be used to the maximum extent possible to meet these 
+enduring requirements.  The due dates defined in references (h) and (i) for 
+the annual Periodic Health Assessments (PHA) and annual dental examinations 
+are extended by an additional 120 days for all Service Members.  Every effort 
+should be made to complete PHAs and dental exams due within 90 days of 
+deployment.
+Pre-deployment and initial training vaccinations will continue, excluding 
+Smallpox.  All routine readiness immunizations and laboratory tests will be 
+deferred with the exception of seasonal influenza.
+
+7.  References (j) through (q) provide specific details regarding limited 
+duty, operational and overseas screening.  As noted previously, each 
+requirement is ongoing and BUMED continues to perform these vital functions.  
+Any Service Member found unsuitable for operational or overseas assignment 
+undergoes review by PERS-454.
+If PERS-454 non-concurs with the reason for unsuitability, the cognizant 
+TYCOM/Fleet will be engaged for an additional review, which is typically a 
+15-day process.  PERS-454 may override unsuitability determinations or direct 
+other actions as specified in reference (d).  When a Service Member is found 
+unsuitable for an overseas assignment, PERS-454 works with BUMED and the 
+gaining Medical Treatment Facility to validate the concern, if medically- 
+related, for unsuitability and then works with detailers to amend the 
+assignment or direct further actions per reference (d).
+
+8.  Service Member or family movements to facilitate care, DES appointments, 
+pregnancy availabilities, expedited and safety transfers and Exceptional 
+Family Member Program needs will continue to be evaluated on a case-by-case 
+basis, however, PERS-454 may recommend delay in movement due to COVID-19 
+influenced risk.
+
+9.  These temporary measures will enable us to focus our medical efforts on 
+fighting COVID-19 while keeping all other processes as on track as possible 
+to continue to maximize our warfighting readiness.
+
+10.  For questions concerning these policy changes, please contact PERS-454 
+at (901) 874-4210 or the MyNavy Career Center at (833) 330-6622 and or 
+via e-mail at askmncc(at)navy.mil.
+
+11.  Released by VADM John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

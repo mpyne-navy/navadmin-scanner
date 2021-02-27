@@ -1,0 +1,107 @@
+UNCLASSIFIED//
+ROUTINE
+R 081505Z JAN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 008/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/MYNAVY PORTAL MYRECORD MOBILE (BETA) APP LAUNCH//
+
+RMKS/1.  Navy launched the MyNavy Portal MyRecord Mobile (Beta) App on 
+04 January 2019.  MyRecord Mobile (Beta) is our first mobile app using 
+commercial grade Multi-Factor Authentication (MFA) credentials for security 
+instead of a Common Access Card (CAC) to deliver mobile human resources 
+services to Sailors.  MyRecord Mobile (Beta) App is available on the Apple 
+App Store for iPhone and the Google Play Store for Android.
+
+2.  This initial release has limited functionality specifically linked to a 
+portion of personnel and training information from the Electronic Training 
+Jacket (ETJ) of the Sailor, in a read-only mode, as the primary function of 
+the release is to evaluate the CAC-less access.  Future releases will rapidly 
+expand access to eventually include the entire Navy pay and personnel record 
+of the Sailor and will allow Sailors to submit changes and conduct all 
+transactions from their personal mobile devices with the same level of 
+security as they expect from their personal banking services.  Sailors should 
+check their data on MyRecord Mobile (Beta) for accuracy and contact MyNavy 
+Career Center (MNCC) to make updates or corrections.  The app pulls from the 
+same official data sources as MyNavy Portal and the family of Navy Personnel 
+Command/BUPERS and Navy Education and Training Command websites, but if there 
+is a mismatch, we would appreciate your help by reporting it.  Also, since at 
+this point the entire record of the Sailor is not yet on this Beta version of 
+the app, it is important to conduct a full record review via our current IT 
+systems prior to boards.
+
+3.  Sailors with a mobile phone or tablet that is secured using a PIN, 
+pattern, password or fingerprint should follow the steps below to gain access 
+to the MyRecord Mobile (Beta) App.
+    a.  Log into MyNavy Portal (MNP) at https://my.navy.mil on a CAC-enabled 
+machine.
+        (1) At the top of the page, you should see your name.  Click on your 
+name and select CAC Free setup.
+        (2) Follow the steps for either iOS or Android to authenticate your 
+identity under the Instructions tab.  Note:  This is a one-time event and 
+allows the user to establish their secure Multi-Factor Authentication (MFA) 
+account to log into the app.  You may receive an email regarding activating 
+your account.  However, no action is required on this email.  Following the 
+instructions in the CAC-free setup wizard within MNP will properly activate 
+your account.
+    b.  Visit the Apple App Store (iPhone) or Google Play Store
+(Android) and download the free non-Navy app, Okta Verify.  This Navy-
+approved app allows us to operate in a secure environment without a CAC.
+    c.  Visit the Apple App Store (iPhone) or Google Play Store
+(Android) and download the free Navy app, MNP MyRecord.
+        (1) Launch the app and enter your e-mail address as it appeared in 
+Step 1 as the User ID.
+        (2) Enter the password created on the MNP webpage in the previous 
+step.
+        (3) Press Sign In.  Note:  The Okta Verify App must be running when 
+using the MNP MyRecord App.  This allows secure communication of information.
+        (4) A notification will pop up asking to verify the user from the 
+Okta Verify App and the user must approve it to continue.
+Once this is complete, you can now use the MyRecord Mobile (Beta) App.
+
+4.  MyRecord Mobile (Beta) App is available for all Sailors.  This is a full 
+scale beta test which allows Sailors to provide feedback about what they like 
+and dislike, as well as what they would like to see in the future.  Sailors 
+can send their comments to MyNavy Career Center (MNCC) by selecting the e-
+mail link in the app askmncc(at)navy.mil or by calling 1-833-330-MNCC (833-
+330-6622).
+Your feedback will ensure we develop future products that meet the needs of 
+all Sailors.  If Sailors are experiencing difficulty with the MyRecord Mobile 
+(Beta) App, please e-mail MNCC at askmncc(at)navy.mil or call 1-833-330-MNCC 
+(833-330-6622) for assistance.  Sailors should also keep in mind that this is 
+a Beta release.  Early testing indicated an occasional error resulting in 
+misalignment of data fields.  Before submitting records for correction, first 
+verify your status on the MNP desktop version.
+
+5.  Starting with this MyRecord Mobile (Beta) App launch, new capabilities 
+and functionality will be released over time.  As functionality improves, you 
+can expect to find an increasing number of tools at your fingertips that will 
+allow you and your spouse to accomplish things that previously required a 
+trip to a Personnel Support Detachment.  We will continue to make updates to 
+the MyRecord Mobile (Beta) App.  Ensure you update the application to the 
+newest version when available.  You can also turn on automatic updates within 
+your devices settings to ensure you always have the most up-to-date version.  
+Coupled with the improved Customer Service and responsiveness of MNCC, you 
+can expect continuous improvement in how personnel services are delivered in 
+the coming months.
+
+6.  Point of contact:  CAPT Ian Branum, OPNAV (N16), at (703) 604- 5747/DSN 
+664 or e-mail at ian.branum(at)navy.mil.
+
+7.  Released by Vice Admiral, R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

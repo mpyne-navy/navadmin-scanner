@@ -1,0 +1,269 @@
+UNCLASSIFIED//
+ROUTINE
+R 231957Z MAR 20 MID110000511164U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 083/20
+
+MSGID/NAVADMIN/CNIC WASHINGTON DC/N00/MAR//
+
+SUBJ/RESTRICTION OF MOVEMENT (ROM) GUIDANCE//
+
+REF/A/DOC/USD/11MAR20//
+REF/B/NAVADMIN/OPNAV/212007ZMAR20//
+REF/C/DOC/BUMED/17MAR20//
+
+NARR/REF A IS UNDER SECRETARY OF DEFENSE MEMO, FORCE HEALTH PROTECTION 
+GUIDANCE (SUPPLEMENT 4) - DEPARTMENT OF DEFENSE GUIDANCE FOR PERSONNEL TRAVEL 
+DURING THE NOVEL CORONAVIRUS OUTBREAK. 
+REF B IS NAVADMIN 080/20, NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 3. 
+REF C IS BUMED RETURN TO WORK GUIDELINES FOR CORONAVIRUS.//
+
+RMKS/1. REF A requires that personnel returning from a Center for Disease 
+Control and Prevention (CDC) Travel Health Notice (THN) Level 3 or Level 2 
+location perform a 14 day restriction of movement (ROM). During ROM, Service 
+Members should be restricted to their residence or other appropriate domicile 
+and limit close contact (within 6 feet or 2 meters) with others. This 
+NAVADMIN clarifies the definition of ROM, provides amplifying guidance, and 
+delineates responsibilities for execution of ROM.
+
+2. Definitions.
+    2.a. Restriction of Movement (ROM). General DoD term referring to the 
+limitation of personal liberty for the purpose of ensuring health, safety and 
+welfare. ROM is inclusive of quarantine and isolation.
+        2.a.(1) Quarantine. Medical term referring to the separation of 
+personnel from others as a result of suspected exposure to a communicable 
+disease. For the world-wide COVID-19 epidemic, this should be imposed on 
+those with no COVID-19 symptoms who have either recently returned from a 
+high-risk location (CDC THN Level 2 or 3), or have had close contact with a 
+known COVID-19 positive patient. The current recommended quarantine period is 
+14 days. Per CDC, quarantine generally means the separation of a person or 
+group of people reasonably believed to have been exposed to a communicable 
+disease but not yet symptomatic, from others who have not been so exposed, to 
+prevent the possible spread of the communicable disease.
+
+2.a.(2) Isolation. Medical term referring to the separation of personnel from 
+others due either to the development of potential COVID-19 symptoms or as a 
+result of a positive COVID-19 test. Per CDC, isolation means the separation 
+of a person or group of people known or reasonably believed to be infected 
+with a communicable disease and potentially infectious from those who are not 
+infected to prevent spread of the communicable disease. Isolation for public 
+health purposes may be voluntary or compelled by federal, state, or local 
+public health order.
+    2.b. Patient (or Person) Under Investigation (PUI). In the case of COVID-
+19, a PUI is defined as an individual with either a pending COVID-19 test or 
+for whom a test would have been ordered/conducted had one been available.
+    2.c. Self-monitoring. Per CDC, self-monitoring means people should 
+monitor themselves for fever by taking their temperatures twice a day and 
+remaining alert for the onset of a cough or difficulty breathing. If an 
+individual feels feverish or develops a measured fever, cough, or difficulty 
+breathing during the self-monitoring period, they should self-isolate, limit 
+contact with others, and seek advice by telephone from a healthcare provider 
+or their local health department to determine whether further medical 
+evaluation is needed.
+    2.d. Close Contact. Per CDC, a close contact is defined as:
+        2.d.(1) Being within approximately 6 feet (2 meters) of a COVID-19 
+case for a prolonged period of time; the current recommended threshold is 10 
+minutes. Close contact can occur while caring for, living with, visiting, or 
+sharing a healthcare waiting area or room with a COVID-19 case, or
+        2.d.(2) Having direct contact with infectious secretions of a COVID-
+19 case (e.g., being coughed on).
+
+3. Applicability. ROM applies to all Service Members, who in the last 14 days 
+have either been in:
+    3.a. An area with ongoing spread of COVID-19 as defined as CDC designated 
+Level 2 and 3 countries (https:// www.cdc.gov/coronavirus/2019-
+ncov/travelers/map-and-travel-notices.html), or
+    3.b. Close contact with a person known to have COVID-19.
+    3.c. Per REF A, it is strongly recommended that DoD civilian employees, 
+contractor personnel and dependents also follow this guidance.
+
+4. Guidance.
+    4.a. ROM personnel shall be directed to remain at home or in a comparable 
+setting for 14 days ROM from the day of departure or contact. For transient 
+personnel and those residing in close quarters such as unaccompanied housing 
+or ships, temporary lodging meeting CDC guidance of separate sleeping and 
+bathroom facilities shall be arranged, when available.
+    4.b. When in ROM, personnel shall avoid congregate settings, limit close 
+contact with people and pets or other animals to the greatest extent 
+possible, avoid traveling, self-monitor, and seek immediate medical care if 
+symptoms (e.g., cough or shortness of breath) develop.
+    4.c. Personnel assigned ROM may exit quarters to access laundry 
+facilities, outdoor exercise, and designated smoking areas; and conduct other 
+routine tasks not in a public setting provided they maintain social 
+distancing greater than 6 feet from others. Access to messing facilities, 
+stores, fitness centers and other widely used support services is prohibited.
+    4.d. For temporary lodging, normal room cleaning services will be 
+suspended during the ROM period.
+    4.e. For personnel executing ROM in private residence, coordinate with 
+parent command for the purchase of required food/hygiene items or arrange 
+delivery through other means.
+    4.f.  After completion of ROM, return to work per REF C and Combatant 
+Commander guidance, if applicable.
+
+5. Responsibilities.
+    5.a. Parent command Commanding Officer/Officer in Charge shall:
+        5.a.(1) Ensure screening of personnel for ROM.
+        5.a.(2) Ensure ROM personnel comply with paragraph 4.
+        5.a.(3) If temporary lodging is required:
+            5.a.(3)A. Provide cost orders for ROM personnel. Orders will 
+direct the Service Member to a ROM status and not TAD to the host 
+installation.
+Recommend funding for temporary lodging, if required, be obtained through the 
+Type Commander. This may be accomplished utilizing a General Terms and 
+Conditions document to avoid issues arising from Service Members not having 
+government travel cards.
+            5.a.(3)B. Coordinate with installation Commanding Officer for 
+room assignment. It is imperative that tenant commands inform installations 
+of all personnel in ROM within government facilities (to include barracks, 
+NGIS, Navy Lodge, PPV family housing, and PPV barracks).
+            5.a.(3)C. As needed, coordinate messing support with the 
+Commanding Officer where a galley is available. Arrangements will be made 
+between the parent command and the installation for the delivery of meals to 
+Service Members in a ROM status.
+            5.a.(3)D. As required, provide daily support to ROM personnel to 
+ensure meal delivery as well as health and comfort checks.
+            5.A.(3)E. Ensure personnel supporting individuals in ROM are 
+trained on the status of ROM personnel and associated interaction protocols. 
+Close contact is prohibited. PPE is not required.
+        5.a.(4) If private residence is utilized, coordinate with ROM 
+personnel to ensure all messing needs are met.
+    5.b. Installation Commanding Officers shall:
+        5.b.(1) Account daily for available temporary lodging to support ROM.
+        5.b.(2) Track all ROM personnel residing in Navy Lodging 
+(unaccompanied housing, NGIS, Navy Lodge, PPV family housing, PPV barracks) 
+both on and off installation. There is no need for installations to track 
+tenant personnel in a ROM status in private residence/lodging.
+        5.b.(3) Provide detailed instructions to tenant commands who require 
+temporary ROM lodging support.
+        5.b.(4) If available, coordinate with parent commands to provide take 
+-out meals for delivery to ROM personnel.
+        5.b.(5) Ensure temporary lodging staff are trained on the status of 
+ROM personnel and associated interaction protocols. Close contact is 
+prohibited. PPE is not required.
+        5.b.(6) Follow CDC guidance for cleaning rooms following the ROM 
+period.
+Ensure the standards are the same across all facilities (unaccompanied 
+housing, NGIS, Navy Lodge).
+        5.b.(7) For the safety of lodging personnel, ensure clear discrete 
+procedures are in place to identify rooms which are occupied by ROM 
+personnel.
+        5.b.(8) Ensure fire and emergency services are aware of ROM personnel 
+locations, particularly those in isolation, and are prepared to respond to 
+medical emergencies with appropriate PPE.
+
+6. Entitlements. Per REF B.
+
+7. Reporting Requirements. Per REF B.
+
+8. ROM FAQs.
+Question 1. When placed on Restriction of Movement (ROM), can I travel to 
+locations within the fence line of an installation to utilize facilities such 
+as the NEX food court or the gym?
+
+Answer 1. No, during the duration of ROM, Service Members must remain in 
+their rooms with the exception of brief trips to utilize designated smoking 
+areas, walking in the immediate vicinity of the building (usually within 100 
+feet), and limiting close contact (within 6 feet) with others. If your 
+facility contains an in house gym, do not use it.
+
+Question 2. Can I accept food deliveries from various services?
+
+Answer 2. Yes, food must be placed outside the room. Minimize close contact 
+(within 6 feet).
+
+Question 3. Can my family or friends visit me?
+
+Answer 3. Yes, provided they do not enter your room. Conversations should be 
+held with visitors staying in the passageway outside the room and Service 
+Members in their room. Minimize close contact (within 6 feet).
+
+Question 4. Can I do my laundry?
+
+Answer 4. Yes, but you should coordinate with your command to utilize in 
+house laundry facilities.
+
+Question 5. How do I obtain personal hygiene items?
+
+Answer 5. Utilize the point of contact provided by your command to arrange 
+for purchase of these items.
+
+Question 6. Will my room be cleaned daily?
+
+Answer 6. No, your room will not be cleaned during your stay. Trash pickup is 
+available by placing your trash can in the passageway.
+
+Question 7. Is Personal Protective Equipment required for personnel in my 
+vicinity?
+
+Answer 7. No, you should limit close contact (within 6 feet) with others.
+Question 8. Can I ROM in open bay barracks or in rooms with shared bathrooms?
+
+Answer 8. No, individuals should be placed in separate lodging (when 
+available).
+
+Question 9. Can I use public transportation if in ROM status?
+
+Answer 9. No, individuals on ROM should avoid crowds and public locations.
+
+Question 10. Can I get off ROM early if I was in close contact to a person 
+with COVID-19, and I feel like I am not sick?
+
+Answer 10. No, the Centers for Disease Control (CDC) recommends 14 days of 
+ROM from the last date of exposure to a COVID-19 positive person.
+
+Question 11. What is the difference between quarantine and restriction of 
+movement (ROM)?
+
+Answer 11. Quarantine is a legal public health term used for civilian 
+restrictions and ROM is a military term being used to identify military 
+individuals who are restricted in their movement, generally to their 
+residence.
+
+Question 12. Are my family members at risk if I ROM at home with them?
+
+Answer 12. ROM status is a precautionary step to prevent spread to others.
+Considering this, it is recommended that while at home in a ROM status, you 
+practice social distancing. This means try to remain at least 6 feet from 
+other persons, avoid using the same bathroom, or sleeping in the same bed.
+
+Question 13. Can I prepare meals for my family while on ROM?
+
+Answer 13. When in a ROM status, it is recommended you not prepare meals for 
+your family because the virus is spread through respiratory droplets that can 
+land on surfaces such as food. Ideally, you should have other individuals 
+prepare food. If you are the only care giver, make sure you are washing your 
+hands with soap and water for 20 seconds for general food safety. Make sure 
+you cover your nose and mouth when coughing and wash your hands after using 
+the bathroom.
+
+Question 14. Should I be wearing a mask?
+
+Answer 14. Masks will not protect you from inhaling the virus. The virus is 
+very small and can make its way through and around the mask. The best way to 
+prevent being infected or infecting others is to practice social distancing 
+and good hygiene techniques (such as washing your hands regularly with soap 
+and water for at least 20 seconds, avoid touching your face, avoid sick 
+persons, etc).
+
+Question 15. Do I need to clean my house to CDC standards?
+
+Answer 15. It is recommended you maintain a clean living environment as you 
+normally would. This includes frequent hand washing, washing clothing and 
+bedding, and wiping down frequently touched surfaces with a sanitizing wipe 
+or any cleaning product that contains at least 10 percent bleach. The 
+Environmental Protection Agency has a list of products that have been 
+specifically tested as effective in sanitizing surfaces.
+
+9. Released by Vice Admiral M. M. Jackson, Commander, Navy Installations 
+Command.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

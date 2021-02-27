@@ -1,0 +1,617 @@
+UNCLASSIFIED// 
+ 
+ROUTINE 
+ 
+R 142017Z NOV 19 MID110000189088U 
+ 
+FM CNO WASHINGTON DC 
+ 
+TO NAVADMIN 
+ 
+INFO CNO WASHINGTON DC 
+ 
+BT 
+UNCLAS 
+
+NAVADMIN 256/19 
+
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/ACTIVE DUTY PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, 
+COMMANDER, LIEUTENANT COMMANDER, LIEUTENANT AND CHIEF WARRANT 
+OFFICERS IN THE LINE AND STAFF CORPS// 
+ 
+REF/A/DOC/OPNAV/11JUL11// 
+ 
+REF/B/MSG/CNO WASHINGTON DC/211859ZDEC17// 
+ 
+REF/C/DOC/OPNAV/28FEB12// 
+ 
+REF/D/DOC/SECNAV/24JUL19// 
+ 
+REF/E/DOC/COMNAVPERSCOM/23JUL07// 
+ 
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM. 
+REF B IS NAVADMIN 304/17, PHYSICAL READINESS PROGRAM POLICY CHANGES. 
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE 
+FLEET RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY. 
+REF D IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS. 
+REF E IS MILPERSMAN ARTICLE 1070-180, OFFICER PHOTOGRAPHS.// 
+ 
+RMKS/1.  Congratulations to the following officers on their 
+promotions to the ranks indicated in this message.  This NAVADMIN is 
+the authority for effecting permanent officer promotions on the 
+dates indicated.  Columns read name and designator. 
+                       PERMANENT PROMOTION TO CAPTAIN 
+              CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE 
+                  LINE 27 JUNE 2019      STAFF 27 JUNE 2019 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Arnold Michelle Gloria   2100         Askew Lane Christopher   1820 
+ Collins Kenneth C II     6430         Gillen Brian Michael     2200 
+ Hodges Justin Reese      1110         Jones Richard A          1440 
+ Knight Sean P            1310         Kranz Jason Gregory      5100 
+ Milner Christopher G     1110         Moree John               2100 
+ Pashnehtala Kamyar       1120         Porado John D            1130 
+ Russell Matthew D        1130         Swinford William F       1110 
+ Thompson Herbert Russell 1830 
+                      PERMANENT PROMOTION TO COMMANDER 
+              COMMANDER LINE AND STAFF SENATE CONFIRMATION DATE 
+                  LINE 27 JUNE 2019      STAFF 31 JULY 2019 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Burgess Ian M            1320         Case Paul M              1320 
+ Decker Suzanne Mara      2300         Eubanks Lee H            3100 
+ Falconer Thomas Charles  1320         Fitzkee William Ford     1320 
+ Harris Clarence S I      1110         Hebert Antheus Damon     1820 
+ Hoagland Benjamin D      2100         Hodgkinson Scott Thomas  1820 
+ Jatho Edgar Wilfred III  1810         Johnson Clay Irvin       1440 
+ Kitchen Levi Kern        2100         Knapp Robert George      6410 
+ Krause Brian R           2100         Kreutz Kevin Patrick     1310 
+ Lerner Jacob Alan        1320         Liebig Jonathan Tyler    2100 
+ Lynch Michael James      1310         Mcelroy Chris Shane      1320 
+ Mcettrick David Mathew   2300         Mcnulty Jessica Lynn     1650 
+ Moeser Matthew C         1310         Nguyen Tony Nhat         3100 
+ Pak Walter Jay           1320         Perkins John Christopher 1310 
+ Portell Jeffrey Robert   1800         Ruck Joseph Richard      1830 
+ Saltzman Nick Anthony    2900         Snow Garrett Steven      2500 
+ Springer Timothy Allen   4100         Szpara Dennis A          1320 
+ Vick James Kyle          2200         Walker Chad Cameron      1320 
+ Zintak George Stanley    1320 
+                 PERMANENT PROMOTION TO LIEUTENANT COMMANDER 
+                  SENATE CONFIRMATION DATE 31 OCTOBER 2017 
+                       DOR/EFF DATE 1 SEPTEMBER 2018 
+ Goff John Tyrah          1110 
+                 SENATE CONFIRMATION DATE 26 SEPTEMBER 2019 
+                          DOR/EFF DATE 1 MAY 2019 
+ Adams Dion Mark          6130 
+                 SENATE CONFIRMATION DATE 26 SEPTEMBER 2019 
+                       DOR/EFF DATE 1 SEPTEMBER 2019 
+ Cady Christopher Corey   6410         Mueller Andrew Cameron   1120 
+ Potter Tyrone Kishon     1110         Rocchi Vanna J           2100 
+ Witt Joshua Kenneth      1310 
+        LIEUTENANT COMMANDER LINE AND STAFF SENATE CONFIRMATION DATE 
+             LINE 31 OCTOBER 2019      STAFF 26 SEPTEMBER 2019 
+                        DOR/EFF DATE 1 OCTOBER 2019 
+ Abbitt William H         1130         Acosta Ernesto Hubert    1110 
+ Anderson Joshua M        1120         Anderson Kierin William  1320 
+ Andrews Ryan Nicholas    1110         Atwood Caity Marie       1310 
+ Babcock Donald S         1110         Baker Timothy P          1110 
+ Baker Veronica Yaneth    1200         Balding Troy Andrew      1320 
+ Ballard Ian Lindsey      1310         Beard Brian Campbell     1120 
+ Bell Kevin Bonneau       1310         Berthold William Corey   1320 
+ Bienaime Frantz          1310         Bogart Alexander Stevens 1830 
+ Boring Daniel Michael    1110         Boykin Gloria Frances    6410 
+ Bradford Jordan Paul     1110         Brennan Ryan P           1310 
+ Brockwell Kira Pauline   1110         Brodersen Bradford C     1310 
+ Brown Jason Eugene       1820         Brown Justin Lee         1310 
+ Bryant Patrick William   1110         Burngasser John R Jr     1810 
+ Caban Daniel             1130         Cairoli Christine Marie  1200 
+ Calvanico Christopher M  1320         Campbell Michael Jude    1130 
+ Catoire Andrew Gerard    1130         Chamberlain Vincent D    1800 
+ Chamis Peter Angelo      1130         Cheek Corey Brandon      6330 
+ Chitwood Tony Lee Jr     1310         Chuda Scott Richard      1310 
+ Cline Jessica Ann        1310         Close John Jacob         1310 
+ Cooper Natalya Emiko     1310         Covert Samson Joseph     1830 
+ Cowan Amber Leigh        1120         Cox James Cooper Jr      1310 
+ Cox Philip Allen         1110         Criger Bryan Thomas      1310 
+ Dambra Adam Joseph       1120         Danese Kevin Cameron     1320 
+ Daratsos Basil           1310         Davey Timothy Steven     1110 
+ Demelew Daniel G         1820         Deno Amanda Cathryn      1830 
+ Diblasi Anthony Joseph   1830         Dineen Martin Kevin Jr   1110 
+ Dixonleach Ann Marie     1820         Drake Anton Stefan       6130 
+ Dressel Stefanie M       1800         Dunn Shenequa Shanette   1810 
+ Edsall Kevin Scott       1830         Ekhart Kenneth Edward Jr 6260 
+ Elder Darren J           1310         Elliott Nicholas Scott   1320 
+ Engle Nicholas Joseph    1310         Eriksen Eric Allan Jr    6490 
+ Erwin Garrison Lee       1310         Evans Ryan Kingdon       1710 
+ Federoff Carl James      1310         Fisel Adam Jon           1310 
+ Fisher Kenneth Craig     1310         Fletcher Alexander Payne 1310 
+ Flynn Thomas Anthony     1310         Forward Douglas Theodore 1110 
+ Freeze Matthew Dean      1120         Garcia Brian Jonas       6360 
+ Geary Shaun M            1110         Gilbertson Jarad John    1310 
+ Giller Daniel Simon      1200         Gillette Kyle Matthew    1310 
+ Glenn Joshua Jamieson    1130         Gorski Kari Maclennan    1310 
+ Goss Tj Marvin           1110         Gray Adrian Wayne        6110 
+ Greenberg Jonathan David 1110         Grim Joseph A            1140 
+ Guenther Eric Brian      6120         Guiremand Erik M         1110 
+ Guy Dennis C             1120         Hahn Joshua Tyler        6260 
+ Hall Annajoy Lorraine    1110         Hamm Brendan Daniel      1130 
+ Hangartner Randall E     1120         Hanley Nicholas Ryan     1310 
+ Hartmann David R         1110         Hatch Michael Thomas     1310 
+ Hayes Christopher R      1110         Heilmann Ryan A          1320 
+ Hemmer Daniel Joseph     1110         Hemmings Kedish Oketaike 1110 
+ Herrick Brandon Kirk     1130         Hicks Michael John       1140 
+ Hodgeman Jessica Lyn     1110         Holliday Zachary S       1110 
+ Holmes Jeffrey Allan     1320         Horton Brandon Keith     1130 
+ Howard Christopher Reed  1320         Howard Martin Grant      6160 
+ Howe Adam Charles        1320         Huff Russell Jamie Jr    1520 
+ Hurley Nicholas Miles    1110         Hutton Joe Ann           6410 
+ Ingle Derrick Madrid     1650         Jackson Jermaine Detrek  1810 
+ Jameson Robert James     1310         Jobski Rick Lee Jr       1310 
+ Johnson Chuney C         1810         Johnson Rita Marie       1830 
+ Jones Matthew Alexander  1320         Junker Jason David       1140 
+ Kadlec Lauren Nicole     1460         Kagehiro Christopher R   1120 
+ Kaijankoski Eric Andrew  1110         Kaiserski Matthew J      1830 
+ Kelch Justin Andrew      1110         Kelly Nathan Eric        1310 
+ Kennedy Braz Michael     1320         Kettler Douglas A        1320 
+ Kinsey Thomas Ryan       1130         Kipper John Henry        1310 
+ Kirchert Andrew P        1310         Knorr Mark David         1320 
+ Kreuzberger Patricia A   1650         Kumm Micheal John        1310 
+ Kunz Joel Robert         1310         Lashomb David Robert     1110 
+ Lashomb Keith Jeffery    1810         Lavoie Paul Ryan         1110 
+ Lennon Joseph Patrick    1310         Levy Alexander           1830 
+ Lichi Anthony Jacob      1830         Lloret Sergio Edwin      1310 
+ Long Roger W             1830         Love Patrick Thomas      1110 
+ Lozano Steven Ray        1320         Magtanong Roniel Atis    1710 
+ Marinelli Joseph A       1830         Martin Antonio Roshun    6330 
+ Martin James Elliott     1830         Martin Phillip Dejuan    1110 
+ Mccabe Kevin John        1320         Mccammond Lindsay Renee  1310 
+ Mccann Adam M            1110         Mccarty Leland Edward    1460 
+ Mcfadden Kyle Eugene     1120         Mcfarland Andrew Scott   1310 
+ Mcreynolds Brandon S     1310         Medina Issac             6330 
+ Meehan Jr                1830         Menn Randy S             6330 
+ Mennerich Thomas Oneill  1310         Miller Denise E          1310 
+ Miller Joseph Reed       1820         Moore Andrew Stanley     1310 
+ Morgan Alexia Lynn       1110         Morgan Lawrence L Jr     1820 
+ Munji Audrey Laura Ann   1110         Murdock Carl Andrew      1830 
+ Murray Nicholas P        1310         Nelsen Brent Charles     1310 
+ Nelson Ryan T            1310         Nottberg Adam N          1110 
+ Ocampo Louis J           1830         Odenwald Ward F IV       1120 
+ Olena Jessica Jill       1440         Osborne Christopher Paul 1110 
+ Palanca Gerie W          1810         Patrick Robert S III     1310 
+ Pausche Thomas James     1200         Peach John J III         1110 
+ Pennington Adam Pittman  1320         Petkas Christopher J     1130 
+ Philbin Matthew Brendan  1310         Phillips James Ray       1200 
+ Pickler Brian Andrew     1810         Pitts Jeffrey Jeremiah   1140 
+ Polk Edward Ricardo      6410         Porthouse Brandon A      1310 
+ Portzer Joshua Michael M 1320         Post Kerwin Shawn Jr     1310 
+ Procelli Michael James   1310         Resavy William George    1320 
+ Richardson Samuel David  1310         Rivers William Mason Jr  1110 
+ Robertson Matthew Wade   6330         Robishaw Joshua Best     1810 
+ Rutherford Evan Scott    1310         Ruttum Mary Lawrence     1310 
+ Sackreiter Scott Harold  1110         Santelli James E III     1120 
+ Scheuermann Jonathan P   1440         Schlaefer Douglas C J    1320 
+ Seibel David Christoph   1110         Sellars Gerald Charles   1110 
+ Shafer Anna Marie Thomas 1110         Showanes James Bernard   1110 
+ Shrader Jared Allen      1110         Smith Zachary Thomas     1110 
+ Snyder Kevin William     1510         Standen Sean Michael     1110 
+ Stayton Daniel Franklin  1110         Steiner Timothy Carlton  1310 
+ Stewart John Jason       6200         Stewart Mitchell Coleman 1440 
+ Strickland Chase Tracy   1310         Sullivan Brian Edward Jr 1120 
+ Sullivan Evan            1130         Sullivan Naomi C         1110 
+ Summers Timothy James    1830         Tarescavage Michael A    1110 
+ Taylor Robert Alfred     1320         Terry Scott Wayne        1130 
+ Torgesen Johanna Terese  1310         Trady Khalid             1520 
+ Trapp Keith Bernard Jr   1830         Trogden James Edward III 6200 
+ Turner Johnny Bryant Jr  6180         Valdez Eric Matthew      1320 
+ Valencia David G         1820         Vanbruaene Joseph David  1810 
+ Venturini Aaron Gabriel  1310         Wake John Alan Jr        1320 
+ Washington Tracy Lynn    6410         Webster Andrew Robert    1310 
+ Wells Benjamin Brodie    1800         White Shun Terrell       1110 
+ Whitelaw Nathan A        1120         Will Andrew David        1310 
+ Willard Nathan Jon       1310         Williams Shaun Edward    1440 
+ Wilson Desmond Larone    1820         Wilson James Roger       6200 
+ Wittner Jessica Ann      1310         Wood Micah Lee           1320 
+ Zakriski Timothy J       1310         Zebian Cory              1110 
+ Zicarelli David Lee      1110         Ziomkowski Matthew D     1110 
+                        DOR/EFF DATE 1 NOVEMBER 2019 
+ Anderson Benjamin Thomas 1650         Atangcho Percy Mcjames   1830 
+ Bishop Gilbert Lee II    6310         Bohls Mark Allen         1110 
+ Cottingham Kevin D       1310         Coutre Jacob T           1710 
+ Dennison Michael Anthony 1320         Deppen Matthew John      1310 
+ Dube Eric Stephen        1310         Englander Jacob M        6490 
+ Fearon Chet M            1310         Fodor James Nicholas     1310 
+ Francis Kyle John        1820         Graf Erick Walter        1310 
+ Green Whittaker          6110         Hardzinski Mark Fredric  1110 
+ Herbaugh Matthew Guy     1320         Hollrah Hunter Lee       1310 
+ Hudson Brian L           1320         Imperato Michael A Jr    1110 
+ Johnson Lee T            1440         Jones Corey Michael      1320 
+ Kimmey Brent Warren      1810         Kirkpatrick Jason Daniel 1320 
+ Kuzara Brian John        1820         Lindahl Scott Alan       1310 
+ Mahoney Olusola Joycelyn 1110         Mccauley Joshua Craig    1830 
+ Mcmonagle Brendan J      1830         Miller Kenneth Brian     1520 
+ Montgomery Bryan Alan    1110         Morzenti Steven John     1310 
+ Mozer Christopher Edward 1320         Murray Patrick Charles   1810 
+ Musselman Wesley Fredric 1110         Nelson Lauren Christine  1110 
+ Patterson Adam Robert    1310         Prendergast Edward M     1110 
+ Schwob Nicholas David    1320         Spilman Scott C          6290 
+ Steiner Robert Geordon   1310         Strong Krystal Brooke    1110 
+ Taylor Leonard Ray       1310         Traylor Daniel Ryan      1320 
+ Tschumy William Lee Jr   1320         Walker Brandon Scott     1110 
+ Walsh James Roderick     1310         Weast Amanda Daniella    1320 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Aldridge Jason T         1310         Allen Brian E            1110 
+ Allred Bryan Mckay       1830         Bakey Sean Thomas        1310 
+ Beckmann Robert Charles  2100         Bender Samuel R          1310 
+ Bourque Christopher W    1110         Buckner Robert           6180 
+ Campbell Ryan P          1110         Carroll Joseph E         1310 
+ Cayce Thomas Elliott     2100         Checchi Kyle Douglas     2100 
+ Chong Junvicente M Jr    1110         Clapp Thomas K           1310 
+ Connell Christopher C    2900         Coronado Calina Marie    2900 
+ Do Nhu Quynh             2300         Doane Nathaniel L        1120 
+ Downs Justin Lawrence    1310         Draper Eric Randall      2200 
+ Ellis Geoffrey Alexander 1830         Finnell Alexander S      1310 
+ Foster Eric Shane        6320         Franks James Donald      2300 
+ Godfrey Adam Harold      1200         Grabon Jeffrey Scott     1800 
+ Hale Sean W              1310         Hall Richard Nelson      1310 
+ Jahr Marijke Monique     1320         Jefferson David Dejuan   6130 
+ Johnson Andrew Steven    2100         Johnson Quintino Lamont  6120 
+ Kauffman Bryan J         1810         Ketring Jacquelyn Mei Li 3100 
+ Klainerman Ariel Mark    1310         Korbein Steven G         1310 
+ Lewis Ashley Inez        1820         Lykins James Thomas      1320 
+ Martinez Anthony Trevor  3100         Mclaughlin Stephen P     1310 
+ Messer Jonathan J        1310         Nann Reinhard M          1310 
+ Newman Safiat O          2300         Nicolet Christopher A    1310 
+ Norris Jessica Renee     2200         Owen Scott R             1310 
+ Park Jesse Aaron         2100         Pollini Daniel           1310 
+ Porter Ian Michael       2100         Rackley Emily Jeanne T   1810 
+ Rausa Nicholas Joseph    2500         Reilly Grace E           1310 
+ Roemhild Andrew David    1130         Russell Keith Alan       4100 
+ Sacco Frank Edwin III    1830         Sacksen Benjamin Peter   1320 
+ Salami Saheed Abayomi    3100         Sayans Jose Jaime        1440 
+ Scott Kendall Sean       1110         Simmons Lamont Dewayne   2300 
+ Stone Alex C             1310         Thomsen Anthony Lynn     1320 
+ Webb Samuel David        5100         Weber Michael Conrad     2100 
+ Wielgus Ryan Wayne       1310         Wilder Brandon Andrew    1310 
+                      PERMANENT PROMOTION TO LIEUTENANT 
+                          DOR/EFF DATE 1 JUNE 2016 
+ Fahey Daniel Roy         1310 
+                          DOR/EFF DATE 1 JUNE 2018 
+ Giger Samuel J           1300 
+                          DOR/EFF DATE 1 JULY 2018 
+ Knoll Zachary James      1110 
+                        DOR/EFF DATE 1 OCTOBER 2019 
+ Adams Jeremy Matthew     1110         Adams Michael Ross       1320 
+ Akkineni Arunkumar       1220         Alcudia Alyster Alisla   1120 
+ Anderson James Kyle      1120         Austin Justin Robert     5100 
+ Ballard Lucien E         1110         Barotti Daniel James     1110 
+ Behr William David       1820         Beichter Dane A          1110 
+ Belcher Michael R        1320         Bengtson Jacob Daniel    1210 
+ Biondo Marc Sebastian    1810         Blair Benjamin Kelsey    1820 
+ Bolton Benjamin Samuel   1810         Boutin Jeffrey C         6320 
+ Bozzi Matthew A          1310         Bulls Ambar Marlene      6130 
+ Busico Erica Nichole     1520         Calderoncasillas Jessy A 2300 
+ Carey Brian Patrick      6200         Carman Thomas Robert     1120 
+ Catalano Salvatore R     6330         Cavender Christopher H   1310 
+ Chase Thomas Andrew      6200         Chavis Lauren Kristen    1310 
+ Cheng Ehren Kyle         1170         Cherry Scott Michael     5100 
+ Chiong Matthewcarlson A  6330         Christensen Jonathan Z   5100 
+ Church Joshua Robert     1110         Clark Ryan Michael       6230 
+ Courtney Matthew Scott   1110         Crawford Kelly L M       1110 
+ Crowther Michael William 1120         Dang Ben Duc             1120 
+ Davis Kevin James        1830         Deason Jason Neal        6200 
+ Delallo John Stephen     1170         Delbello Christopher J   1120 
+ Desio Charles Vincent    1120         Diaz Juan Manuel         1120 
+ Diazmendoza Jose Javier  6360         Dicksey Andrew Carey     1830 
+ Dulnuan Celestino D      6510         Easterling Yurina Debra  1110 
+ Eaton Benjamin Joseph    1110         Eschmann John Michael    1320 
+ Espinosa Ernesto Jr      6320         Evans Matthew James      1170 
+ Fenstermacher Andrew D   1170         Fienberg Jeffrey Thomas  1120 
+ Fowler Kyle James        1120         Franco Jose Ernesto      6360 
+ Frazier Wesley Alan      1800         Friesz Curtis Lee        6330 
+ Genito Thomas Michael    1120         Gerling Gabriel Lee      6200 
+ Gibbons Gregory Derek    6200         Giles Sara J             2300 
+ Glasgow William Walter   1110         Good Brandon J           6200 
+ Gottal Jessica Robin     3100         Griffin William George   1800 
+ Grimm Matthew Lawrence   6330         Gronstal David Thomas    1110 
+ Hadley Nathan Andrew     1830         Haffner Brett Rollin     1110 
+ Hampel Morgan Leigh      1110         Harbaugh Daniel Douglas  1520 
+ Haynes John Paul         1120         Hebig Christopher R      1110 
+ Hillery Jock Lamar       1820         Hillyard Landon Wayman   1120 
+ Hofert Andrew William    1120         Holt Nicholas Robert     1110 
+ Hunt Joseph Robert       5100         Hutton Nicholas James    1120 
+ Irmer Mitchell Gabriel   1110         Jemmott Pedro            6130 
+ Jensen Tate Avery        1120         Johnson Mitchell James   1120 
+ Jones Mitchell Drexel    1120         Jorgensen Curtis Raymond 1120 
+ Kammermeier Kent C       1120         Karg Bryan Raymond       1110 
+ Kerstein William Edward  1120         Kessler Alexander Ian    1810 
+ Ketsdever Phillip M      6160         Khan Rooya Khalid        6820 
+ Kibby Jeremy Harris      1110         King Adam Michael        1110 
+ Kinnane Joshua K         1310         Kircher Matthew John     1830 
+ Koehr Brendan P          1320         Koenig Todd Jayson       1130 
+ Korte Matthew Joseph     6130         Kuldell Philip Joseph    1820 
+ Lane Candace Bilan       2500         Lane Charles Edward      6480 
+ Larson Robert Alan       1170         Lawrence Travis Buchanan 1120 
+ Lemaster Hershel Edward  6410         Lilly Jeremiah Leslie    6200 
+ Limbrock Dale Charles    2300         Liu David                1120 
+ Loera Joshua Amado       1110         Lupisan James E          6130 
+ Mackey Kevin Matthew Ray 1170         Magnusson Jacob Joseph   1120 
+ Manson Kristin Elizabeth 1310         Marion Spencer Elliott   1650 
+ Martin Erik Mikell       1120         Martinez Jorge           6120 
+ Martinez Ryan Alexander  1120         Martinez Victor          1120 
+ Mccloggan Rodway Winston 6510         Mccullum Crystal Yvonne  2300 
+ Mcgary Jennifer Marie    6180         Mckenna Douglas Kevin    1120 
+ Medina Adrian Roberto    6830         Miller Jennifer L        1110 
+ Miller Rhonda Lynn       6530         Miller Zachary Aaron     1170 
+ Minikus Andrew Thomas    6810         Mitchelmore Matthew Kyle 1110 
+ Monia Keith Lars         1170         Montoya Jorge            1110 
+ Morrissey Donald James   6130         Mosley Kelly Lee         6120 
+ Mountain Nicole Dawn     1800         Mueller Joshua Quinn     1120 
+ Mulligan Ryan Michael    5100         Munion Ryan Michael      1800 
+ Nabholz Jon Andrew       1120         Nations Benjamin Frame   1300 
+ Nguyen Kha Minh          1120         Nguyen Nguyen Thanh      1170 
+ Niemela Jared Allan      6230         Odowd Kevin Addison      1120 
+ Osburn Ashley Elizabeth  1110         Pashman Breeanna Nicole  1110 
+ Pattison Russell Bernard 1110         Peralta Justin Peter     1820 
+ Perdomo Harry Orlando    1110         Perrine Daniel Joseph    1170 
+ Phillips Stuart Benjamin 1650         Phouthaboun Eddy         1110 
+ Potenza Luke Benedict    1320         Pracht Nicholas Andrew   1120 
+ Pruitt Joshua Brian      6260         Pyanoe Anthony           1110 
+ Ramirez Jose Felipe      6490         Reardon Timothy Donald   1120 
+ Reid Anthony Thomas      1830         Renz Meredith Catherine  5100 
+ Reuer Kristen A          2900         Reyeschavez Eduardo      2500 
+ Rhea Justin Ryan         1120         Rhem Leroy Jr            6820 
+ Rhodes James Cody        1830         Roane Nicholas Patterson 1220 
+ Rodgers Cody Lynn        1120         Rodgers Rodney Aaron     1120 
+ Rogge Cory Alan          2900         Roy Casey Anne           1110 
+ Rubin James Stephan      6130         Saldua Paolo Hoyohoy     6130 
+ Sands Darrell Thomas     1110         Santiagomartinez Pascual 1120 
+ Santos Marc Edmund       3100         Schenk Darren Douglas    1120 
+ Schirra Randall Thomas   1210         Schlup James William     1110 
+ Schroeder Erynn Janece   1210         Schwalbenberg Robert C   1170 
+ Shafer Michal Ruth       6530         Sheasby Marion Anderson  6820 
+ Shindle Jordan Tanner    5100         Shoemaker Dillon Loren   1320 
+ Simmons Jeffery Dale     6180         Simpson Beth Lynn        6180 
+ Smith Bryan Abraham      1120         Smith Dustin Kody        1110 
+ Smith Zane Wesley        1310         Spikes Billy Gene Jr     6110 
+ Stasolla Cord Anthony    1810         Stclair Marisa Leigh     2900 
+ Steber Seth Allen        1830         Steel John Paul          6830 
+ Stelzleni Jonathan E     1120         Stidham James Joseph     1110 
+ Stilwill Christopher D   5100         Stokes Ryan Kirk         1800 
+ Stowe Adam Michael       1120         Swaminathan Siddharth V  1200 
+ Tinh Anh Chan            6200         Todd Tyler Davidson      1120 
+ Tomlinson Jennifer L     2900         Treut Steven Douglas     2900 
+ Tuazon Paul Deleon       6130         Tustison Nathan Carl     1120 
+ Vaculin Craig            6330         Vanderwater Gary Alan    6200 
+ Vanriper Jake            1120         Vargas Erik Valentine    1210 
+ Verhagenmetman Rolf Hein 1210         Vernon Alexander Leonard 6410 
+ Wagner James Sumner      1120         Waller Jace Brian Jr     6200 
+ Watson Brandon Neil      1120         Weston Caleb Iago        1120 
+ Weyh Todd Walter         6330         White Lakeshia Joy       5100 
+ Wiermaa Jordan Thomas    6330         Wilberscheid Jonathan    2500 
+ Wilkening Eric Logan     1120         Woodward Dallas William  1830 
+ Worley Joseph C          1820         Wuestewald Brian David   1170 
+ Yu Scott Soohan          1820         Zachry Brandon Michael   1190 
+ Zinger Matthew Bernard   1830 
+                        DOR/EFF DATE 1 NOVEMBER 2019 
+ Aiken Sharon Lee         2500         Arinello Dennis Michael  1310 
+ Baker Christopher John   1110         Baker Nicole Diane       2300 
+ Barr Myesha Kamaya       2900         Bechtol Claten Wilson    1520 
+ Beering Samuel Conyers   5100         Beverly John Thomas      3100 
+ Boros John Mark          1310         Brown Justin Elisha      4100 
+ Budge Connor Earl        1320         Bundoc Byron Sinchongco  1310 
+ Camacho Joseph Edward    1310         Campbell Melissa Anne    2900 
+ Chen Andrew Peter        1320         Chiaravalle Sara Frances 1830 
+ Churchward Vincent David 3100         Cole James Dean          5100 
+ Collins Brett Robert     1830         Collins Joshua Andrew    5100 
+ Crowder Christopher A    1820         Dao Khai Duy             1110 
+ Deaven Joseph Abraham    1830         Derscheid Hayley Theone  1110 
+ Doherty Matthew C        2500         Dysangco Roy Robert Aras 5100 
+ Economidis Thomas G      1810         Escarcega Alejandro Mart 1310 
+ Evans Timothy James      1110         Fagan Sean Peter         1520 
+ Farace Sarah Elizabeth   1110         Ferrer Mark Louis        1110 
+ Gamble Jason M           5100         Gerlach James Kennedy    2500 
+ Goods Jeremy Alan        1110         Guerrero Alberto David   1310 
+ Hall Thomas James        1310         Hambrick Matthew Kevin   1110 
+ Harris Anna Lynn         1110         Hennig Donald Edwin      1810 
+ Herbach Jennifer Lynne   2900         Herring Alexander Kelly  1310 
+ Holliday Caitlin E       1110         Homerda Zachary Stephen  1310 
+ Hoover Stephanie Lynn    1110         Howes Lauren Ashley      2500 
+ Huang Kent               1310         Kakascik Kristen Marie   2500 
+ Kim Tylon Taegyun        3100         Kosek Benjamin Edward    1310 
+ Krzan Corey Michael      2500         Lafrance Ralphsonny S    1120 
+ Lange Cody James         3100         Lantrip Keaton James     2900 
+ Lebus Sara Elizabeth     2900         Lopezcoronado Javier G   2300 
+ Martin Matthew Sean      1820         Massey Michael Joseph    1310 
+ Mccain Jason Santiago    2300         Mcnair Jeffery Allicock  1310 
+ Meier Cameron Curtis     3100         Meisler Zachary Adam     2500 
+ Metzger Curt             1810         Morella Colin Matthew    1320 
+ Mott Harrison Floyd      1310         Navarro Daniel Adam      1520 
+ Newton Samuel Carter     5100         Nimmo Ronald Tyler       1810 
+ Osorio Marcela Carolina  2300         Perdue Brian Michael     3100 
+ Peterson John L          1320         Pflomm Tara Amanda       1110 
+ Pinkston Michael John    5100         Protzmann Kevin Thomas   2500 
+ Radford Jordan Kendall   1310         Ramosdiaz Brayan Stir    1520 
+ Rogers Ryan Patrick M    2500         Ryan Connor Andrew       1110 
+ Ryden Madelyn Louise     1110         Sandford Thomas Arlen    1310 
+ Sawey Daniel Joseph      2500         Schmidt Richard Luke     1520 
+ Schultz Megan Elizabeth  2500         Sheen Sarah Anne         1110 
+ Silva Fernando Jose De J 1310         Smithmoore Korrenzo K    1110 
+ Song Mitchell Tuohcherng 2500         Sotoperez Martin Antonio 3100 
+ Specht David Bradford    1310         Spurlock Matthew Russell 4100 
+ Talledo Lisa Ann         2900         Thaller Rachel Veronica  5100 
+ Theodotou Andrew A       1310         Thoits Ashley Christine  2900 
+ Torres Nicholas C        1110         Torres Trevor Andrew     3100 
+ Tucker Adam Matthew      1310         Wilkie Amber Leigh       1110 
+ Williams Brandon Lee     1120         Wilster Steven C         1320 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Abebe Yonatan Gizaw      5100         Abel Christopher Blake   3100 
+ Adams Barry Lynn Jr      6160         Amodio Paul Vito         1310 
+ Anderson Michael Martin  1310         Andrews Gregory Joseph   6200 
+ Andrews Sean Patrick     1320         Ascani Nathaniel Cory    1310 
+ Baliraj Nandesh          6310         Barnes Bryan Ashley      6200 
+ Battistone Jared Douglas 2900         Bauer Brian James        1310 
+ Beaufond Edwin Alexander 6180         Benton Scott Edmund      1320 
+ Bernard Michael Lewis II 6120         Bielawski Luke Joseph    1310 
+ Bohanon Guy Alan         1310         Boyle Kevin Patrick      1320 
+ Briggs Amanda Marie      6820         Brock Amanda Joann       2900 
+ Bryant Nicholas Isaiah   1830         Burke Ollieanna Patricia 1200 
+ Burton Taylor Lenn       5100         Campbell Stacey Jo       2900 
+ Canchon Juan Felipe      2900         Carter Thomas Edward     1810 
+ Case Brian Jeremy        6800         Cassidy Ian Robert       1800 
+ Cavalleri Kiera Michele  5100         Chaffin Neil Cameron     1310 
+ Choi Mark Kwi Hyun       1110         Coats Benjamin James     1310 
+ Coble Joseph Robert      1810         Conant Jeremy Michael    6130 
+ Corcoran Jaime Thao      1110         Criss Michael Norimichi  1310 
+ Crumrine Chad Lawrence   1310         Crusoe Cassandra         2900 
+ Daniel Quesly Jr         1170         Davila Alfredo           3100 
+ Deguzman Roimarrion G    6510         Denson Beau Lawrence     6320 
+ Dienes Tiara Lynn        1820         Donohue Christopher Ryan 1310 
+ Donovan Andrew           1110         Dowden Matthew Richard B 1810 
+ Dunn Cody Oei            3100         Edwards Maxie Lynn II    1810 
+ Elrod Chaz Aubrey        1310         Ensz Jordan Timothy      5100 
+ Espinosa Nicole K        2900         Espinosagonzalez Luis E  6430 
+ Estes Joseph Keith       1110         Fairchild Timothy J K    1830 
+ Fietko Thomas Kevin      1320         Finch Chase Eric         1110 
+ Forner Denton Thomas     1820         Foster Bradley Alan      1310 
+ Frericks Bradford G      1310         Funderburk Jennifer E    6120 
+ Garrett Joseph Andrew Jr 1110         Goman Barret Werner John 1110 
+ Grammer Alexander Jacob  1320         Greene Ryan Michael      6200 
+ Gregory Marc Alan        6180         Griffith Thomas William  1820 
+ Guinan Andrew Ellison    1390         Gwin John Leonard III    1110 
+ Gyori Paul Kenneth       1310         Harrington Stephen Boyd  1310 
+ Hartner Kyle Nicholas    1810         Haupt Vaughn Joseph      1310 
+ Hawker Adam Nicholas     1310         Heath Clinton Dewayne    1320 
+ Heisner Callie Rebecca   1830         Hembree Dwain Kyle       1810 
+ Hernandez Benjamin Henry 1830         Herrick Caleb Joseph     1310 
+ Hoagland Brian C         3100         Houston Tyler Andrew L   1390 
+ Hundley Alexandra L E    1110         Hutchinson Thomas Ryan   1320 
+ Kamens Bryan Alexander   1310         Kaufmann Seely Andrews   1800 
+ Kazeem Oluwatobi Kareem  3100         King Erik Reid           2300 
+ Klingensmith Scott Duane 2900         Koncelik Michael Francis 1320 
+ Laforteza Elphbert Daza  1520         Lanier Sean Timothy      1170 
+ Lawson Francesca Jewell  3100         Lazarevstanishchev V     1320 
+ Lee Tonesha Monsha       5100         Levine Ian Joseph        3100 
+ Logan Thomas C D         1310         Logan Thomas Patrick     1310 
+ Ludwig Richard Michael   1170         Lyon Joseph Stone        1390 
+ Malerk Christopher James 6200         Mason Michael Ross       1310 
+ Maunz Michael Arthur     1110         Mcdonnell Ryan Kenneth   1310 
+ Mcpherson George Anthony 1390         Mcvey Kendall Albert     1110 
+ Mensah Raymond Arthur    1810         Merla Gabriel Alejandro  1310 
+ Miller Joseph Michael    1110         Miller Michael Isaac     1310 
+ Minnick Daniel Timothy   1820         Mitchell William Thomes  5100 
+ Mizuhara Brandon Katsuta 2300         Mobley Denarius Jermaine 6160 
+ Morris Cole Steven       3100         Northern Cristopher John 6130 
+ Norton Justin Michael M  1310         Oberley Joshua Alexander 1310 
+ Pallotto Angelo A III    5100         Pany Lucas William       1390 
+ Parham John Theodore     3100         Parham William J III     1310 
+ Parker Kyle Ryan         1120         Perez Colby Christian    1830 
+ Pescoso Reaganbruno Piyo 6510         Pierce Robert Morris     1310 
+ Pitsas Demetrios N       1310         Power Nathan James       1390 
+ Price Kody Asher         5100         Reed Elliott Hesterman   1390 
+ Reynolds Darius Allen    1310         Rhodes Bryan Jeffery     1110 
+ Roach Kirsten Paige      2900         Robinson Matthew Tryon   1310 
+ Robinsonkronrod Gregory  1390         Sanchezburgos Omar Lucas 6330 
+ Schroer Robert Paul      1120         Schweich Nicholas Josiah 6200 
+ Silverwolf Lyra          1110         Spanovich Samuel George  1310 
+ Spencer Douglas A        1110         Steinhauser Robert W     1390 
+ Sterling Robert R III    1310         Sukovaty Robert Lee      1310 
+ Sullivan Lucas Lloyd     1110         Sweet Alonzo Jr          1310 
+ Timme Eric Scott         6330         Torres Sean Patrick F    1390 
+ Tran Kevin               1810         Trop Casey Lee           1310 
+ Udy Joshua Keith         1310         Vanboxtel Kristin Elaine 1830 
+ Vandegriff Daniel W      1310         Vandenberg Ernst Jacobus 1310 
+ Villasenor Justin C      1810         Vitton Brandon Thomas    1110 
+ Waclawczyk Thomas James  1320         Walden Jarrett Kale      1310 
+ Walla Zachary Levi       1110         Wallace Paxon Robert     1830 
+ Walters Jackson Wells    1390         Ward Russell Dean        1310 
+ Welch Sebastien Graem    1110         West Barron Grant        1310 
+ White Cayla Michelle     1390         White James Allen Jr     1310 
+ White Tyler Eugene       1310         Will Megan Elizabeth     1120 
+ Williams Jared Tence     1820         Winslow Jeremy John      1140 
+ Winters Adam Wayne       1110         Womack Katheryne Amanda  1830 
+ Wonser Ryan Mathew       1320         Wood Brian Lee           5100 
+ Woodley Jacob Andrew     1520 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-5 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Rodriguez Reinaldo       7311 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-4 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Franklin Antonio Dnale   7411         George Kareem Levar      7131 
+ Ingle Kenneth Allan      7411         Iwaniec John Michael     7821 
+ Johnston Mark Robert     7331         Nastasi David Nicholas   7201 
+ Pippen Earnest C Jr      7111         Walton Rodraigus Antonio 7131 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-3 
+                        DOR/EFF DATE 1 DECEMBER 2019 
+ Baguilod Therdy          7331         Bridges Gregory C Jr     7151 
+ Buck Jordan Wayne        7161         Dellajacono Anthony V    7311 
+ Edmond Jessica Marie     7841         Estrada Daniel C         7311 
+ Ferrette Carl Daniel     7361         Fisher Jessica Elizabeth 7831 
+ Furstman Francis W       7331         Godown Sean Philip       7821 
+ Goodale Sarah Thecla     7811         Hall Morio L             7521 
+ Jeno Thomas Carl         7361         Jimenezfigueroa Jose A J 7131 
+ Koger Brandon Lee        7811         Kornegay Brian David     7181 
+ Marzan Ferdinand Deleon  7131         Negrini Vincent Edward   7331 
+ Newton Robert Dewain     7361         Riley James Odell        7181 
+ Riley Zachary John       7171         Rohrer Kevin Joseph      7111 
+ Smith Daniel Scott       7151         Vergara Van Madlambayan  7521 
+ Walters Steven Grant     7131         Watrous Andrew Jay       7161 
+ 
+2.  If a selected officer does not decline promotion in writing 
+prior to the projected date of rank (noted above in paragraph 1), 
+that officer is considered to have accepted the promotion on the 
+date indicated.  An officer who chooses to decline promotion must 
+submit the declination in writing to COMNAVPERSCOM (PERS-806) within 
+30 days of the release of this NAVADMIN.  Limited duty officers 
+declining appointment to lieutenant will be reverted to enlisted 
+status within 90 days of projected promotion date. 
+ 
+3.  The commanding officer (CO), the Secretary of the Navy or his 
+designee, has the authority to delay projected promotions.  Upon the 
+exercise of a delay, the officer shall be notified in writing before 
+the effective date of the promotion, and not be tendered the 
+promoting appointment.  The delay authority will immediately forward 
+the notification of delay with supporting documentation to 
+COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806). 
+ 
+4.  COs are reminded of their responsibility to ensure the officers 
+they are promoting are mentally, physically, morally and 
+professionally qualified in accordance with section 624 of title 10, 
+U.S. Code.  Per reference (a), officers are ineligible for promotion 
+if they have failed the most recent Physical Fitness Assessment. 
+COs shall verify the promoting officer's information in the Physical 
+Readiness Information Management System to ensure compliance with 
+reference (a), as modified by reference (b), and delay the officers 
+promotion in accordance with paragraph 3 of this NAVADMIN, if 
+required. 
+ 
+5.  Prepare a Delivery of Temporary/Permanent Appointment (NAVPERS 
+form 1421/7) (Rev 10-13).  Use this NAVADMIN as reference (a).  Use 
+section 624 of title 10, U.S. Code as reference (b), for permanent 
+lieutenants and above.  Use section 578 of title 10, U.S. Code as 
+reference (b), for chief warrant officers.  Use sections 624 and 
+8139 of title 10, U.S. Code as reference (b), for limited duty 
+officer promotion to lieutenant.  For limited duty officers, 
+acceptance of the appointment is acceptance of permanent appointment 
+as a limited duty officer.  Mail the completed form to COMNAVPERSCOM 
+(PERS-806). 
+ 
+6.  Officers should review reference (c) for minimum time-in-grade 
+requirements for purposes of voluntary retirement.  Full time 
+support officers and those officers temporarily on active-duty 
+anticipating release from active-duty under reference (d) may accept 
+promotion without incurring any additional active-duty obligation. 
+ 
+7.  New photographs are required for all officers within three 
+months after acceptance of promotion.  See reference (e), for 
+specific requirements. 
+ 
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN
+UNCLASSIFIED//

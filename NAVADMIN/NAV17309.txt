@@ -1,0 +1,108 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 221737Z DEC 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 309/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/DEC//
+
+SUBJ/ADDITIVE MANUFACTURING - A CHALLENGE FOR EVERY SAILOR//
+
+REF/A/MSG/COMNAVSEASYSCOM WASHINGTON DC/121201ZJAN15//
+
+REF/B/DOC/NAVAIRINST 13034.1F/30JUN16//
+
+NARR/REF A IS NAVAL SEA SYSTEMS COMMAND GUIDANCE FOR DEPARTURE FROM 
+SPECIFICATIONS FOR ADDITIVE MANUFACTURING.  REF B IDENTIFIES RESPONSIBILITIES 
+FOR EXECUTING AIRWORTHINESS REVIEWS RESULTING IN NAVAL AIR SYSTEMS COMMAND 
+FLIGHT CLEARANCES.// POC/M. FINE/LCDR/OPNAV N4/MEGAN.FINE@.NAVY.MIL/TEL: 
+(703) 614-7963
+/DSN: 224-7963//
+POC/P. VEITH/LCDR/OPNAV N4/PATRICK.VEITH@NAVY.MIL/TEL: (703) 695-4889
+/DSN: 225-4889//
+
+RMKS/1.  The Navy is actively seeking ideas from the Fleet to create 
+innovative solutions to materiel problems.  Additive Manufacturing (AM), 
+often referred to as 3 dimensional (3-D) printing, can enable those 
+solutions.  AM is the process of making a 3-D object of virtually any shape 
+from a digital model by adding successive layers of material.  It includes a 
+diverse set of processes and materials such as plastics, composites, metals 
+and others.  Recent technological advances enable manufacturing or cost-
+effective repair of end-use components, and open the door to an enormous 
+array of new capabilities that will directly benefit the warfighter.  Navy 
+leadership encourages Sailors and Navy civilians to use AM, where 
+appropriate, to solve challenging materiel problems.
+
+2.  AM provides an opportunity for every Sailor to impact the way their 
+command executes its mission.  Throughout the Navy, it is being used to 
+produce prototypes for form, fit, and function, as well as for tooling to 
+include molds, jigs, and fixtures.  Sailors and Navy civilians across the 
+Fleet are taking advantage of the opportunity to 3-D print innovative 
+solutions to real world challenges.  For example, Navy special operations 
+personnel 3-D printed a new modular, extendable, carbon-fiber tactical ladder 
+at a reduced weight with increased versatility.  Shipboard Sailors have 
+harnessed AM to solve every day problems, including items such as a Hydra 
+radio clip and a scullery throat guard.  Commanding officers are authorized 
+and encouraged to use additively manufactured components in a safe and 
+meaningful capacity per references (a) and (b), ensuring installed equipment 
+is not compromised by use of an AM component.  Additional guidance from Naval 
+Air Systems Command
+(NAVAIR) and Naval Air Systems Command (NAVSEA) is in development and will be 
+promulgated by June 2018 to maximize appropriate AM usage in low-risk 
+applications.
+
+3.  Naval warfare centers, depot maintenance facilities, and certain ships 
+already have 3-D printers.  Fabrication labs (Fab Labs) exist at Regional 
+maintenance centers in the Mid-Atlantic, Southeast and Southwest as well as 
+at Fleet Readiness Center East to help Sailors learn about and use AM; reach 
+out and use them to help solve your challenges through new innovative ideas. 
+Deputy Chief of Naval Operations, Fleet Readiness and Logistics (OPNAV N4) is 
+the Navy lead for AM and challenges every Navy member, active, reserve, and 
+civilian, regardless of rank, rate, or grade to explore new applications for 
+this revolutionary technology.  In cases where your team has or seeks to use 
+AM for a cutting edge solution, we encourage you to forward your idea.  
+Solutions with the potential to provide significant benefit to the Navy, in 
+the form of readiness, cost savings, or improved safety, will be presented to 
+Navy senior leadership.  Forward all ideas to navyAM@navy.mil no later than 1 
+March 2018.
+
+4.  In order to validate how AM is currently being used throughout the Fleet, 
+and to understand what value its providing across the enterprise, OPNAV N4 
+requests organizations identify if they have a 3-D printer in their 
+workspaces.  If your command has a 3-D printer, contact the OPNAV AM team at 
+navyAM@navy.mil by 30 January 2018 and a Navy AM representative will provide 
+you with a template to uniformly identify the pertinent data.  The template 
+captures information such as, printer type, items being printed, what need 
+the item addressed, what value the item provides to your command (mission 
+impact, cost savings, design speed, increased operational availability), etc.  
+This data is critical to support budget processes, mature AM policies, and 
+enhance information sharing and lessons learned across the Navy.
+
+5.  A concerted enterprise push to integrate AM into all aspects of naval 
+operations will lead to a stronger, smarter, more agile, and more innovative 
+fighting force.  AM will not be a panacea to every materiel problem, but it 
+will be an important operational and acquisition tool as we transform into a 
+digital Navy that is agile and ready to adapt in an uncertain global 
+environment.
+
+6.  You can find additional information regarding Navy AM at https:/ 
+/www.milsuite.mil/book/groups/navy-additive-manufacturing or by contacting 
+the POCs above.
+
+7.  Released by VADM D. R. Smith, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

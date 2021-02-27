@@ -1,0 +1,221 @@
+RAAUZELX RUENAAA0616 3441913-UUUU--RUCRNAD
+ZNR UUUUU ZUI RUEWCSE9611 3480047 ZUI RUEWMCF2394 3480108 
+R 131921Z DEC 06 ZEL PSN 980352K27 
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN 
+INFO RHMFIUU/CNO WASHINGTON DC RUENAAA/CNO WASHINGTON DC BT UNCLAS 
+//N01236//
+NAVADMIN 344/06 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+SUBJ/ARMED FORCES VOCATIONAL APTITUDE BATTERY (ASVAB) RATING ENTRY 
+REQUIREMENTS// 
+REF/A/MSG/CNO WASHINGTON DC/121503Z/JUL2004// AMPN/REF A IS NAVADMIN 
+152/04-ASVAB RENORM MODIFICATION AND RATING ENTRY STANDARDS// 
+GENTEXT/REMARKS/1.  THIS NAVADMIN ANNOUNCES CHANGES TO THE ARMED 
+SERVICES VOCATIONAL APTITUDE BATTERY (ASVAB) RATING ENTRY REQUIREMENTS 
+AND SUPERCEDES REF A.  THE NEW STANDARDS WILL BE INCORPORATED INTO THE 
+RECRUITING CLASSIFICATION SYSTEM AND FLEET RIDE.  SAILORS CONSIDERING 
+RATING CONVERSIONS, INCLUDING PERFORM TO SERVE, AND GENERAL DETAIL 
+SAILORS EXPLORING RATING ENTRY OPTIONS, SHOULD VALIDATE ELIGIBILITY 
+STATUS.
+2.  MINIMUM ASVAB REQUIREMENTS ARE BASED ON ASVAB TEST FORM DESIGNATORS.  
+THE TABLE BELOW LISTS PAY80 AND THE NEW PAY97 REQUIREMENTS.
+
+RATING     PAY97 FORMS                    PAY80 FORMS
+           01E,02E,03E,04E,05E,06E,23F,  ALL OTHER FORMS
+           23G,24F,24G,25F,25G,26F,26G,  INCLUDING 17A
+           27F,27G,28I,18F,19G AND 19W         AND 17B
+ABE          VE+AR+MK+AS=184               VE+AR+MK+AS=185
+ABF          VE+AR+MK+AS=184               VE+AR+MK+AS=185
+ABH          VE+AR+MK+AS=184               VE+AR+MK+AS=185
+AC           VE+AR+MK+MC=220               VE+AR+MK+MC=220
+             -OR-                          -OR-
+             VE+MK+MC+CS=220               VE+MK+MC+CS=220
+AD           VE+AR+MK+AS=210               VE+AR+MK+AS=210
+             -OR-                          -OR-
+             VE+AR+MK+MC=210               VE+AR+MK+MC=210
+AE           AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=222               VE+AR+MK+MC=222
+AECF         AR+MK+EI+GS=222               AR+MK+EI+GS=222
+AG           VE+MK+GS=162                  VE+MK+GS=165
+AIRCREW      VE+AR+MK+MC=210               VE+AR+MK+MC=210
+             -OR-                          -OR-
+             VE+AR+MK+AS=210               VE+AR+MK+AS=210
+AM           VE+AR+MK+AS=210               VE+AR+MK+AS=210
+             -OR-                          -OR-
+             VE+AR+MK+MC=210               VE+AR+MK+MC=210
+AME          VE+AR+MK+AS=210               VE+AR+MK+AS=210
+             -OR-                          -OR-
+             VE+AR+MK+MC=210               VE+AR+MK+MC=210
+AO           VE+AR+MK+AS=185               VE+AR+MK+AS=185
+             -OR-                          -OR-
+             MK+AS+AO=140                  MK+AS+AO=140
+AS           VE+AR+MK+AS=210               VE+AR+MK+AS=210
+             -OR-                          -OR-
+             VE+AR+MK+MC=210               VE+AR+MK+MC=210
+AT           AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=222               VE+AR+MK+MC=222
+AW           VE+AR+MK+MC=210               VE+AR+MK+MC=210
+             -OR-                          -OR-
+             VE+AR+MK+AS=210               VE+AR+MK+AS=210
+AZ           VE+AR=102                     VE+AR=103
+BU           AR+MC+AS=145                  AR+MC+AS=140
+BM           VE+AR+MK+AS=175               VE+AR+MK+AS=175
+             -OR-                          -OR-
+             MK+AS+AO=135                  MK+AS+AO=135
+CE           AR+MK+EI+GS=201               AR+MK+EI+GS=200
+CM           AR+MC+AS=162                  AR+MC+AS=158
+CS           VE+AR=88                      VE+AR=89
+CS(SS)       AR+MK+EI+GS=200               AR+MK+EI+GS=200
+             -OR-                          -OR-
+             VE+AR+MK+MC=200               VE+AR+MK+MC=200
+CTA          VE+MK+102                     VE+MK=105
+CTI          VE+MK+GS=162                  VE+MK+GS=165
+CTM          AR+MK+EI+GS=223               AR+MK+EI+GS=222
+CTN          AR+2MK+GS=222                 AR+2MK+GS=222
+CTR          VE+AR=109                     VE+AR=110
+CTT          VE+MK+GS=162                  VE+MK+GS=165
+CTT(AEF)     AR+MK+EI+GS=223               AR+MK+EI+GS=222
+DC           VE+AR+MK+AS=205               VE+AR+MK+AS=205
+             -OR-                          -OR-
+             VE+AR+MK+MC=205               VE+AR+MK+MC=205
+EA           AR+2MK+GS=207                 AR+2MK+GS=210
+EM           VE+AR+MK+MC=210               VE+AR+MK+MC=210
+             -OR-                          -OR-
+             AR+MK+EI+GS=210               AR+MK+EI+GS=210
+EN           VE+AR+MK+AS=200               VE+AR+MK+AS=200
+             -OR-                          -OR-
+             VE+AR+MK+AO=205               VE+AR+MK+AO=205
+EN(ATF)      AR+MK+EI+GS=211               AR+MK+EI+GS=210
+EO           AR+MC+AS=145                  AR+MC+AS=140
+EOD          AR+VE=109                     AR+VE=110
+             -AND-                         -AND-
+             MC=51                         MC=50
+             -OR-                          -OR-
+             GS+MC+EI=169                  GS+MC+EI=165
+ET(AECF)     AR+MK+EI+GS=223               AR+MK+EI+GS=222
+ET(SS)       AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=222               VE+AR+MK+MC=222
+FC(AECF)     AR+MK+EI+GS=223               AR+MK+EI+GS=222
+FT(SS)       AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=222               VE+AR+MK+MC=222
+GM           AR+MK+EI+GS=205               AR+MK+EI+GS=204
+GSE          VE+AR+MK+MC=210               VE+AR+MK+MC=210
+             -OR-                          -OR-
+             AR+MK+EI+GS=210               AR+MK+EI+GS=210
+GSM          VE+AR+MK+AS=200               VE+AR+MK+AS=200
+             -OR-                          -OR-
+             VE+AR+MK+AO=205               VE+AR+MK+AO=205
+HM           VE+MK+GS=146                  VE+MK+GS=149
+HT           VE+AR+MK+AS=205               VE+AR+MK+AS=205
+             -OR-                          -OR-
+             VE+AR+MK+MC=205               VE+AR+MK+MC=205
+HT(ATF)      AR+MK+EI+GS=213               AR+MK+EI+GS=212
+IC           VE+AR+MK+MC=209               VE+AR+MK+MC=210
+IC(ATF)      AR+MK+EI+GS=213               AR+MK+EI+GS=212
+IS           VE+AR=107                     VE+AR=108
+IT           AR+2MK+GS=222                 AR+2MK+GS=222
+             -OR-                          -OR-
+             AR+MK+EI+GS=222               AR+MK+EI+GS=222
+LN           VE+MK=102                     VE+MK=105
+MA           AR+WK=95                      AR+WK=100
+             -AND-                         -AND-
+             WK=43                         WK=45
+MC           VE+AR+109                     VE+AR=110
+MM           VE+AR+MK+AS=200               VE+AR+MK+AS=200
+             -OR-                          -OR-
+             VE+AR+MK+AO=205               VE+AR+MK+AO=205
+MM(SS)       VE+AR+MK+MC=210               VE+AR+MK+MC=210
+MN           VE+AR+MK+MC=210               VE+AR+MK+MC=210
+             -OR-                          -OR-
+             VE+AR+MK+AS=210               VE+AR+MK+AS=210
+MR           VE+AR+MK+AS=205               VE+AR+MK+AS=205
+             -OR-                          -OR-
+             VE+AR+MK+MC=205               VE+AR+MK+MC=205
+MT           AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=22                VE+AR+MK+MC=222
+NC           VE+AR=104                     VE+AR=105
+             -AND-                         -AND-
+             AR=51                         AR=50
+ND           AR+VE=103                     AR+VE=104
+             -AND-                         -AND-
+             MC=51                         MC=50
+NUC          VE+AR+MK+MC+                  VE+AR+MK+MC+
+(MM,EM,      NAPT=290 AND NAPT=50          NAPT=290 AND NAPT=50
+ET)          -OR-                          -OR-
+             AR+MK+EI+GS+                  AR+MK+EI+GS+
+             NAPT=290 AND NAPT=50          NAPT=290 AND NAPT=50
+             -OR-                          -OR-
+             AR+MK+EI+GS=252               AR+MK+EI+GS=252
+             -OR-                          -OR-
+             VE+AR+MK+MC=252               VE+MK+AR+MC=252
+OS           VE+MK+CS=157                  VE+MK+CS=157
+             -OR-                          -OR-
+             AR+2MK+GS=210                 AR+2MK+GS=210
+PC           VE+AR=107                     VE+AR=108
+PR           VE+AR+MK+AS=185               VE+AR+MK+AS=185
+             -OR-                          -OR-
+             MK+AS+AO=140                  MK+AS+AO=140
+PS           VE+MK=105                     VE+MK=105
+             -OR-                          -OR-
+             VE+MK+CS=157                  VE+MK+CS=157
+QM           VE+AR=96                      VE+AR=97
+RP           VE+MK=105                     VE+MK=105
+             -OR-                          -OR-
+             VE+MK+CS=157                  VE+MK+CS=157
+SB           AR+VE=103                     AR+VE=104
+             -AND-                         -AND-
+             MC=51                         MC=50
+SECF         AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=222               VE+AR+MK+MC=222
+SH           VE+AR=95                      VE+AR=96
+SK           VE+AR=102                     VE+AR=103
+SK(SS)       AR+MK+EI+GS=200               AR+MK+EI+GS=200
+             -OR-                          -OR-
+             VE+AR+MK+MC=200               VE+AR+MK+MC=200
+SN(SS)       AR+MK+EI+GS=200               AR+MK+EI+GS=200
+             -OR-                          -OR-
+             VE+AR+MK+MC=200               VE+AR+MK+MC=200
+STG          AR+MK+EI+GS=223               AR+MK+EI+GS=222
+STG(AEF)     AR+MK+EI+GS=223               AR+MK+EI+GS=222
+ST(SS)       AR+MK+EI+GS=222               AR+MK+EI+GS=222
+             -OR-                          -OR-
+             VE+AR+MK+MC=222               VE+AR+MK+MC=222
+SO           GS+MC+EI=165                  GS+MC+EI=165
+             -OR-                          -OR-
+             VE+MK+MC+CS=220               VE+MK+MC+CS=220
+SW           AR+MC+AS=145                  AR+MC+AS=140
+TM           AR+2MK+GS=194                 AR+2MK+GS=196
+UT           AR+MK+EI+GS=201               AR+MK+EI+GS=200
+YN           VE+MK=105                     VE+MK=105
+             -OR-                          -OR-
+             VE+MK+CS=157                  VE+MK+CS=157
+YN(SS)       AR+MK+EI+GS=200               AR+MK+EI+GS=200
+             -OR-                          -OR-
+             VE+AR+MK+MC=200               VE+AR+MK+MC=200
+3.  PERSONNEL IN NAVY?S DELAYED ENTRY PROGRAM OR IN BASIC MILITARY 
+TRAINING AT RECRUIT TRAINING COMMAND WILL RETAIN THEIR CONTRACTED 
+ENLISTMENT PROGRAM IF THEIR CUTSCORE ELIGIBILITY VALIDATION RESULTS IN 
+INELIGIBILITY FOR RATING.
+4.  UPDATES TO THE MILPERSMAN AND RECRUITING MANUAL ARE FORTHCOMING.
+5.  POC:  DR. STEPHEN WATSON, (703) 695-2432/DSN 225 OR EMAIL AT 
+STEPHEN.E.WATSON@NAVY.MIL.
+6.  RELEASED BY VADM J. C. HARVEY, JR., N1.// BT
+#0616
+
+
+
+
+
+
+NNNN
+
+
+
+

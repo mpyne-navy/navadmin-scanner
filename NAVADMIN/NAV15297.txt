@@ -1,0 +1,213 @@
+UNCLASSIFIED
+ROUTINE
+R 211955Z DEC 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 297/15
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2/N6BC/DEC//
+
+SUBJ/FISCAL YEAR 2016 GUIDANCE FOR THE CYBERSECURITY ACCREDITATION OF NAVY 
+INFORMATION TECHNOLOGY SYSTEMS MIGRATING TO DATA CENTERS//
+
+REF/A/CON/NEIGB/14OCT15//
+REF/B/DOC/SPAWAR-DCAO-FCC/25JUN2014//
+NARR/Reference (a) is the three-star Navy Enterprise Information Governance Board 
+meeting held on 14 October 2015 that resulted in the decisions articulated below.  
+Reference (b) is the Navy Data Center and Application Optimization streamlined 
+cybersecurity accreditation process document. 
+POC/MS. BROOKE ZIMMERMAN/CIV/OPNAV N2/N6BC4/WASHINGTON DC/TEL:  (571) 256-
+8521/EMAIL: BROOKE.ZIMMERMAN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN applies to information technology (IT) systems with accreditations 
+that are expired or expiring in Fiscal Year 2016 (FY-16) that are also scheduled for data 
+center transition in FY-16.  This NAVADMIN does not apply to non-Navy applications that 
+may be approved to be hosted in a Navy Enterprise Data Center.
+
+2.  Per reference (a), effective immediately, IT systems with expired Cybersecurity 
+accreditations or that will expire between the date of this NAVADMIN and 30 September 
+2016 shall complete the Cybersecurity accreditation process based on the new to be data 
+center environment in accordance with reference (b).  Parallel accreditation processing for 
+legacy versions operating in their current environment may be suspended, with the 
+exception of action cited in paragraph 4.  Transition delays past 30 September 2016 are not 
+authorized.  Systems to be migrated are not relieved of requirements to perform regular 
+system maintenance, monitoring, security scans, and patching.
+
+3.  The following IT systems are on the FY-16 Data Center transition plan:
+    a)  Data Center Information Management System (DCIMS):  14931; Naval Education and 
+Training Command - Enterprise Data Center Production Nonsecure Internet Protocol Router 
+Network Saufley Field  Pensacola, FL.  Transitioning systems:
+        (1) Lean Business Process Management Services (Lean BPM), transitioning to hosting 
+facility:  New Orleans, LA, 1st quarter FY-16.
+        (2) Fund Administration and Standardized (FAST Data) Document Automation Fund 
+Administration and Standardized Document Automation Legacy, transitioning to hosting 
+facility:  New Orleans, LA, 1st quarter FY-16.
+        (3) Authoring Instructional Materials (AIM) Enterprise System, transitioning to hosting 
+facility:  New Orleans, LA, 4th quarter FY-16.
+        (4) Navy Inspector General Hotline Tracking System (NIGHTS), transitioning to 
+hosting facility:  New Orleans, LA, 4th quarter FY-16.
+        (5) Corporate Enterprise Training Activity Resource System (CeTARS), transitioning to 
+hosting facility:  New Orleans, LA, 4th quarter FY-16.
+        (6) Navy Enlisted Advancement System (NEAS), transitioning to hosting facility:  New 
+Orleans, LA, 4th quarter FY-16.
+        (7) Learning Management System  Distance Learning (LMS-DL), transitioning to 
+hosting facility:  New Orleans, LA, 4th quarter FY-16.
+FY-16.
+        (8) Naval Education and Training Future Officer and Citizenship User System (NET 
+FOCUS), transitioning to hosting facility:  New Orleans, LA, 4th quarter
+    b.  DCIMS:  15513; United States Fleet Forces (USFF)  Naval Support Activity Norfolk 
+Hampton Roads - 95 Maritime Operations Center/Navy Continuous Training Enviornment 
+(NCTE)  Norfolk, VA.  Transitioning systems:
+        (1) Defense Readiness Reporting System (Navy) (DRRS-N) - Classified, transitioning 
+to hosting facility:  Defense Information Systems Agency (DISA) Enterprise Data Center, 1st 
+quarter FY-16.
+        (2) Global Force Management - Enterprise Tracking System (GFM-ETS) - Classified, 
+transitioning to hosting facility:  DISA Enterprise Data Center, 1st quarter FY-16.
+        (3) Navy Organizational Server (NOS) - Classified, transitioning to hosting facility:  
+DISA Enterprise Data Center, 1st quarter FY-16.
+        (4) Navy Readiness Reporting Enterprise (NRRE) - Classified, transitioning to hosting 
+facility:  DISA Enterprise Data Center, 1st quarter FY-16.
+        (5) NRRE  Business Intelligence - Classified, transitioning to hosting facility:  DISA 
+Enterprise Data Center, 1st quarter FY-16.
+        (6) Navy Readiness Reporting Interoperability Framework (NRRIF), transitioning to 
+hosting facility:  DISA Enterprise Data Center, 1st quarter FY-16.
+        (7) Navy Training Information Management System (NTIMS), transitioning to hosting 
+facility:  DISA Enterprise Data Center, 1st quarter FY-16.
+        (8) Site Management Plan (SMP), transitioning to hosting facility:  DISA Enterprise 
+Data Center, 1st quarter FY-16.
+        (9) NOS - Unclassified, transitioning to hosting facility:  DISA Enterprise Data Center, 
+3rd quarter FY-16.
+        (8) Global Force Management (GFM) - Navy, transitioning to hosting facility:  DISA, 
+3rd quarter FY-16.
+    c.  DCIMS:  14937; Naval Air Systems Command Fleet Readiness Center South East, 
+Jacksonville, FL.  Transitioning systems:
+        (1) Sensormatic Electronics CCURE 800, transitioning to hosting facility:  Navy Marine 
+Corps Intranet (NMCI) Jacksonville, FL, 4th quarter FY-16.
+        (2) Joint Engineering Data Management Information and Control System (JE DMICS), 
+transitioning to hosting facility:  NMCI Jacksonville, FL, 4th quarter FY-16.
+        (3) Direct Numerical Control (DNC), transitioning to hosting facility:  NMCI 
+Jacksonville, FL, 4th quarter FY-16.
+        (4) Heating, Ventilating, and Air Conditioning (HVAC), transitioning to hosting facility:  
+NMCI Jacksonville, FL, 4th quarter FY-16.
+    d.  DCIMS:  14974; Naval Sea Systems Command (NAVSEA)  Naval Surface Warfare 
+Center (NSWC)  Crane, IN.  Transitioning systems:
+        (1) Sharepoint, transitioning to hosting facility:  Charleston, SC, 2nd quarter FY-16.
+        (2) Product Data Management (PDM) (Classified), transitioning to hosting facility:  
+Charleston, SC, 2nd quarter FY-16.
+        (3) Fallbrook Structured Query Language, transitioning to hosting facility:  San Diego, 
+CA, 1st quarter FY-16.
+    e.  DCIMS:  No Number; Maritime Systems Environment  various locations.  Transitioning 
+system:
+        (1) Build 1.1, transitioning to hosting facility:  Charleston, SC, 4th quarter FY-16.
+    f.  DCIMS:  16833; NAVSEA  NSWC Corona, Norco, CA.  Transitioning systems:
+        (1) Metrology Benchtop (MET Bench), transitioning to hosting facility:  San Diego, CA, 
+1st qurter FY-16.
+        (2) Integrated Enterprise Management System (IEMS), transitioning to hosting facility:  
+San Diego, CA, 1st quarter FY-16.
+         (3) Engineering and Calibration Component System (ECCS), transitioning to hosting 
+facility:  San Diego, CA, 1st quarter FY-16.
+    g)  DCIMS:  16814; NAVSEA - NSWC Dahlgren Dahlgren, VA.  Transitioning systems:
+        (1) Advanced Configuration and Control Engineering Status System (ACCESS), 
+transitioning to hosting facility:  Charleston, SC, 1st quarter FY-16.
+        (2) Enterprise Application Server Suite (EASS), transitioning to hosting facility:  
+Charleston, SC, 1st quarter FY-16.
+    h)  DCIMS:  16755; NSWC Indian Head - Indian Head, MD.  Transitioning system:
+        (1) Naval Ordnance Safety and Security Activity Restricted Website (NOSSAWEB), 
+transitioning to hosting facility:  Charleston, SC, 2nd qaurter FY-16.
+    i)  DCIMS:  16785; NAVSEA Naval Undersea Warfare Center Keyport Keyport, WA.  
+Transitioning system:
+        (1) Windchill Failure Reporting Analysis and Corrective Action System, transitioning to 
+hosting facility:  Charleston, SC, 1st quarter FY-16.
+    j)  DCIMS:  16836; USFF Naval Submarine Support Facility New London Groton, CT.  
+Transitioning system:
+        (1) The Mine and Undersea Warfare Information Desk System, transitioning to hosting 
+facility:  Charleston, SC, 1st quarter FY-16.
+    k)  DCIMS:  16729; USFF Navy Warfare Development Command NCTE Navy Center for 
+Advanced Modeling  Norfolk, VA.  Transitioning system:
+        (1) Sharepoint, transitioning to hosting facility:  Charleston, SC, 1st quarter FY-16.
+    l.  DCIMS:  15011; U.S. Pacific Fleet (PACFLT)  Chief of Naval Air Training (CNATRA) 
+Headquarters (HQ) Training Wing (TW) FOUR Naval Acquisition Career Center - Corpus 
+Christi, TX.  Transitioning systems:
+        (1) Head Quaters Decision Support System (HQ DSS), transitioning to hosting facility:  
+New Orleans, LA, 2nd quarter FY-16.
+        (2) Central Design Activity (CDA), transitioning to hosting facility:  New Orleans, LA, 
+2nd quarter FY-16.
+        (3) Naval Aviation Logistics Command Management Information System (NALCOMIS), 
+transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (3) Naval Tactical Command Support System (NTCSS) Optimized Intermediate 
+Maintenance Activity (OIMA), transitioning to hosting facility: San Diego, CA, 2nd quarter 
+FY-16.
+        (4) Optimized Organizational Maintenance Activity (OOMA) Operations and Intelligence 
+(O&I), transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (5) OOMA O&I - T44, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-
+16.
+        (6) OOMA TW SIX, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (7) NALCOMIS Aircraft Intermediate Maintenance Department (AIMD), transitioning to 
+hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (8) NTCSS OIMA AIMD, transitioning to hosting facility:  San Diego, CA, 2nd quarter 
+FY-16.
+    m.  DCIMS:  15507; PACFLT - CNATRA TW SIX Pensacola, FL.  Transitioning systems:
+        (1) NALCOMIS, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (2) NTCSS OIMA, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (3) OOMA O&I, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+        (4) OOMA TW SIX, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-16.
+    n.  DCIMS:  15508; PACFLT - CNATRA TW TWO  Kingsville, TX.  Transitioning system:
+        (1) OOMA TW FOUR FIVE, transitioning to hosting facility:  San Diego, CA, 1st quarter 
+FY-16.
+    o.  DCIMS: 15509; PACFLT - CNATRA TW ONE  Meridian, MS.  Transitioning system:
+        (1) OOMA TW ONE, transitioning to hosting facility:  San Diego, CA, 1st quarter FY-16.
+    p.  15012-PACFLT - CNATRA TW FIVE  Milton, FL.  Transitioning system:
+        (1) OOMA TW FIVE, transitioning to hosting facility:  San Diego, CA, 2nd quarter FY-
+16.
+    q.  DCIMS:  14945; Commander Operational Test and Evaluation Force  Norfolk, VA.  
+Transitioning systems:
+        (1) E-Business Suite (EBSuite), transitioning to hosting facility:  Charleston, SC, 2nd 
+quarter FY-16.
+        (2) Unclassified Test and Evaluation Support (UTES), transitioning to hosting facility:  
+Charleston, SC, 2nd quarter FY-16.
+    r.  DCIMS:  14972; Commander, Navy Installations Command - Service Delivery Point - 
+Grace Hopper, Washington, D.C..  Transitioning system:
+        (1) Computer Desktop Notification System (CDNS), transitioning to hosting facility:  
+New Orleans, LA, 2nd quarter FY-16.
+
+4.  Cybersecurity accreditation strategy for applications listed in paragraph 3 are as follows:
+    a.  Applications with authorization termination date (ATD) after 30 September 2016:  
+Continue activities in accordance with the Navy Data Center and Application Optimization 
+(DCAO) program management office to update current record in Enterprise Mission 
+Assurance Support(eMASS) to reflect the new environment and migrate on schedule.  
+Renew full accreditation (preferably using risk management framework process as 
+determined by the systems Echelon II) prior to existing ATD.
+    b.  Applications with ATD of 30 September 2016 or earlier:  DCAO shall coordinate with 
+applicable Echelon II information system owners (ISO) to trigger the eMASS record to the 
+appropriate step for U.S. Fleet Cyber Command Navy Authorizing Offical (NAO) issuance of 
+a High Risk Interim Authorization
+to Operate (IATO).
+    c.  Applications that are not registered in the Navy instance of eMASS and have no 
+Cybersecurity accreditation on record:  DCAO shall coordinate with applicable Echelon II ISO 
+to register affected systems in eMASS and trigger the eMASS record to the appropriate step 
+for NAO issuance of a High Risk IATO.
+    d.  The DCAO Program Management Office will provide a consolidated list from sub-
+paragraphs b and c to the NAO, and the NAO will present a single high risk escalation brief 
+for approval.  FY-16 consolidation baseline changes will be reflected in an updated 
+NAVADMIN.
+    e.  Upon completion of the high risk escalation process and with proper approval, the 
+NAO will issue an IATO with ATD of 15 October 2016.
+    f.  In all transition cases, upon completion of data center migration, the DCAO will 
+coordinate with the Echelon II ISO to initiate the denial of ATO process for the legacy 
+version of the application.
+
+5.  This message has been coordinated with U.S. Fleet Cyber Command and Space and 
+Naval Warfare Systems Command.  This NAVADMIN will remain in effect until 30 September 
+2016.
+
+6.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations for Information 
+Dominance, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

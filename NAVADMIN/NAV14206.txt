@@ -1,0 +1,83 @@
+UNCLASSIFIED//
+REROUTE DETECTED  
+ROUTINE
+R 051719Z SEP 14 PSN 430379H26
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 206/14
+
+SUBJ/WINDOWS XP ERADICATION EFFORTS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/SEP//
+
+REF/A/MSG/CNO N2N6/091807ZAPR14//
+POC/JOE SALAZAR/GS15/OPNAV N2N6BC/-/TEL:  (703) 256-8248/EMAIL:  
+JOSEPH.A.SALAZAR1(AT)NAVY.MIL// POC/ANDI ST JOHN/GS13/OPNAV N2N6BC3/-/TEL:  
+(571) 256-8512/EMAIL:  ANDREA.STJOHN(AT)NAVY.MIL//
+POC/DAN DELGROSSO/GS15/PEO-EIS TD/-/TEL:  (703) 604-4480/EMAIL:  
+DAN.DELGROSSO(AT)NAVY.MIL//
+
+NARR/Reference (a) is NAVADMIN 080/14; Navy systems continuing to operate 
+with Windows XP or older operating systems.//
+
+RMKS/1.  Reference (a) provided notification indicating Microsoft*s Windows 
+XP operating system (WIN XP) has reached end of life and the vendor will no 
+longer employ support system upgrades or mitigation of vulnerabilities.  To 
+ensure end-to-end cyber security posture and enterprise configuration 
+management, Navy will accelerate the process to eradicate the remaining WIN 
+XP instances and support a migration effort to Microsoft*s Windows 7 
+operating systems (WIN 7).
+
+2.  Navy has entered into a Microsoft Custom Support Agreement (MCSA) to 
+provide minimal vulnerability support for the remaining WIN XP currently in 
+use across the enterprise.  The MCSA is in effect from
+8 April 2014 to 14 April 2015.  MCSA will deliver operational continuity by 
+providing security *hotfixes* for WIN XP.  Space and Naval Warfare Systems 
+Command (SPAWAR) has established a central repository for downloading 
+hotfixes via the SAILOR web portal.  For access to SAILOR contact Elle 
+Bergeron, SPAWAR 4.3.3, (619) 221 -7819, or e-mail: 
+elle.bergeron(at)navy.mil.  Navy Cyber Defense Operations Command will 
+control notification of security hotfixes and compliance reporting via the 
+existing information assurance vulnerability alert process.
+
+3.  Navy is developing a comprehensive migration/eradication plan for both 
+ashore and afloat systems.
+    a.  Ashore compliance will align with the plan of action and
+    milestones (POA&Ms) previously submitted to OPNAV N2N6 by the
+    responsible program manager (PM) and Echelon II Command
+    Information
+   Office (ECH II CIO).  All ashore assets must be WIN 7 compliant
+    and
+    or compatible by 30 April 2015 or risk disconnect from all Navy
+    networks.
+    b. Given the complexities associated with the afloat environment,
+    WIN XP support will likely be required beyond 14 April
+    2015.  Combined Fleet, SYSCOM, PM and Microsoft Eradication Team
+    efforts are currently underway for data collection, onsite
+    surveys,
+    and analysis of the afloat environment, including all non
+    -consolidated afloat networks and enterprise services
+    platforms.  This analysis will enable development of an
+    enterprise
+    POA&M to assist in the migration of afloat IT assets to a WIN 7
+    or
+    greater operating system as quickly as possible.
+
+4.  This evolution requires a commitment from all PMs and ECH II CIOs acting 
+as focal points for addressing migration/eradication requirements.  
+Cooperation and full disclosure with the contracted Microsoft eradication 
+team is essential for this effort to be a success.
+
+5.  Point of contact is Ms. Andrea St. John, OPNAV N2N6BC2 at (571) 256-8512 
+or email:  andrea.stjohn(at)navy.mil.
+
+6.  Released by Vice Admiral Ted N. Branch, OPNAV N2N6.//
+
+BT
+#6815
+NNNN
+UNCLASSIFIED//
+

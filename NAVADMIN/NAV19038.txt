@@ -1,0 +1,49 @@
+UNCLASSIFIED//
+ROUTINE
+R 212150Z FEB 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO USCYBERCOM FT GEORGE G MEADE MD
+COMFLTCYBERCOM FT GEORGE G MEADE MD
+DIRNSA FT GEORGE G MEADE MD
+CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 038/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+
+SUBJ/COMPUTER NETWORK OPERATIONS DEVELOPMENT PROGRAM (CNODP) CLASS OF 2022 
+SELECTION RESULTS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/FEB//
+REF/A/MSG/CNO WASHINGTON DC/DNS/141629Z AUG 18//
+AMPN/REF A IS NAVADMIN 213/18 CALL FOR APPLICANTS FOR THE CNODP CLASS OF 
+2022// POC/WILLIAM LOVEJOY/FCC-C10F N13/TEL: (443) 634-4586 EMAIL:
+USFF_FCC_C10F_NSAH_CNODP(AT)NAVY.MIL//
+
+RMKS/1.  Congratulations to the following personnel on their selection for 
+the National Security Agency's System and Network Interdisciplinary Program 
+(SNIP) CNODP Class of 2022:
+
+S. R. SMITHERMAN	LT	SSBN 740 RHODE ISLAND GOLD
+J. M. CEBRY		PO1	NAVBASE VENTURA COUNTY
+M. J. KYLER		PO1	NSWTACDEVRON ONE
+
+2.  This program will develop a cadre of technical leaders who will improve 
+Department of Defense (DoD) Computer Network Operations (CNO) capabilities.  
+The program is tailored to each selectee to best capitalize on individual 
+expertise.  The Class of 2022 is expected to start on or about 8 July 2019, 
+with a RNLT date of 22 April 2019 to allow sufficient time for inprocessing, 
+orientation, and security clearance processing.
+
+3.  Released by Ms. Steffanie B. Easter, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

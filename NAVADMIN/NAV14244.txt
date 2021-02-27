@@ -1,0 +1,168 @@
+UNCLASSIFIED//
+ROUTINE
+R 171839Z OCT 14 PSN 866080H28
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 244/14
+
+SUBJ/ROLLOUT OF NAVY STANDARD INTEGRATED PERSONNEL SYSTEM ORDER WRITING 
+MODULE AND CANCELLATION OF STANDARD TRANSFER ORDERS// 
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+REF/A/DOC/OASN FM&C/26SEP08/NOTAL//
+REF/B/DOC/NAVPERS/17DEC13//
+REF/C/DOC/CNPC/06NOV12//
+REF/D/DOC/NAVSO P-1000/12DEC02//
+REF/E/DOC/JTR/01OCT14//
+NARR/REF A IS DD FORM 67, FORM PROCESSING ACTION REQUEST.  REF B IS THE NAVAL 
+MILITARY PERSONNEL MANUAL.  REF C IS NAVPERS 1320/16, TEMPORARY ADDITIONAL 
+DUTY (TEMADD) TRAVEL ORDERS.  REF D IS DEPARTMENT OF THE NAVY FINANCIAL 
+MANAGEMENT POLICY MANUAL.  REF E IS JOINT TRAVEL REGULATIONS.//
+
+RMKS/1.  This NAVADMIN announces the rollout of the Navy Standard Integrated 
+Personnel System (NSIPS) order writing module, which will be utilized to 
+generate all orders authorizing permanent change of station (PCS) transfer of 
+members for unit moves, unit*s decommissioning, base realignment and closure 
+(BRAC) moves, overseas tour extension incentive program, and enlisted 
+separation and retirements.  All other PCS orders will be written by 
+Commander, Navy Personnel Command (CNPC) (appropriate detailer).
+This NAVADMIN also cancels Separation Order Writing Form (NAVPERS Form 
+1900/2) in accordance with reference (a), therefore cancelling all versions 
+of Standard Transfer Orders (STOs).
+
+2.  Commanding officers and officers in charge do not have authorization to 
+write command/field-generated PCS orders allocating CNPC appropriated funds 
+outside the NSIPS order writing module.
+Any order utilizing CNPC funds shall be written in CNPC order writing systems 
+or NSIPS.
+
+3.  Units not supported by a Personnel Support Detachment (PSD) or customer 
+support detachment (CSD) have until 31 October 2014 to transition their 
+processes to use the NSIPS order writing module.
+CNPC will work with these units to gain access to NSIPS web until they have 
+NSIPS version 1.3.20 installed on their ship.  The units listed below are 
+non-PSD/CSD supported units:
+    a.  All CVNs
+    b.  USS FRANK CABLE (AS 40)
+    c.  USS EMORY S. LAND (AS 39)
+    d.  USS MOUNT WHITNEY (LCC 20)
+
+4.  For enlisted members requesting transfer to the Fleet Reserve or 
+retiring, CNPC will continue to issue the official message granting approval.  
+That message will be the authorization for PSDs/CSDs and the above listed 
+ships to issue the separation order via NSIPS.
+    a.  Enlisted members not eligible for reenlistment or choosing to 
+separate upon completion of their service obligation will be written 
+separation orders in accordance with reference (b), specifically MILPERSMAN 
+article (MPM) 1910 series, via NSIPS.
+    b.  When processing an enlisted adverse separation order, refer to MPM 
+1900 series for specific instructions.
+
+5.  Transfer of a member for medical evaluation or treatment in an outpatient 
+status will utilize temporary duty (TDY) orders in accordance with references 
+(c) and (d).  Transfer of members in an inpatient status for evaluation or 
+treatment will utilize a TDY order in accordance with reference (d), and 
+funded by a Bureau of Medicine line of accounting.  Personnel in an 
+outpatient status will be issued TDY orders utilizing that member*s command 
+funds in accordance with reference (d).
+    a.  Within 60 days of initial contact with a patient, the treating 
+physician shall make a determination returning the member to duty or 
+recommending reassignment to an area with suitable care.
+    b.  If a medical determination is made that requires reassignment, the 
+member*s command shall notify CNPC (PERS-454) via e-mail at mill_DAOPers-
+454@navy.mil so PCS orders can be issued for transfer.
+    c.  Enlisted service members must also submit an availability request to 
+CNPC (PERS-40GG) via e-mail at mill_PERS4013_avails@navy.mil, and comply with 
+reference (b), specifically MPM article 1306-1700.  CNPC (appropriate 
+detailer) will issue the PCS order.
+    d.  CNPC (PERS-454) may direct additional requirements (e.g. abbreviated 
+medical board for enlisted, comply with MPM article 1301-122 for officers, 
+etc.).
+
+6.  OCONUS commands requesting an early return (ER) or Overseas Screening 
+Deficiency Report/ER for any service member must complete requirements in 
+accordance with reference (b), specifically outlined in MPM 1300-306.  
+Additionally, commands shall comply with requirements outlined in paragraph 5 
+above.
+
+7.  Writing orders for service members in military confinement:
+    a.  PCS orders are required for enlisted members and officers adjudged by 
+a court-martial that includes a sentence to confinement in excess of 30 days, 
+or any sentences of confinement that include a punitive discharge or 
+dismissal, as applicable.
+        (1) Member*s command shall contact CNPC (PERS-00D) at
+(901) 874-4529 or DSN 882-4529 to obtain a designated place of confinement 
+and provide CNPC (PERS-00D) with the report of results of trial (ROT).
+        (2) CNPC (PERS-00D) shall review the ROT and forward a memorandum to 
+CNPC (PERS-40BB) for enlisted members designating the military confinement; 
+for officers, the memorandum shall be forwarded to the applicable detailer.
+        (3) The respective detailer of the confined service member is 
+responsible for writing and issuing the PCS order.
+    b.  Enlisted members or officers adjudged by a court-martial that 
+includes a sentence to confinement of 30 days or less of military confinement 
+and does not include a punitive discharge or dismissal, as applicable, shall 
+be issued TDY orders in accordance with references (c) through (e).
+
+8.  Members in civilian pre-trial confinement:
+    a.  Given there are no unusual circumstances, members should not receive 
+transfer orders while civilian charges are pending.
+    b.  For officers, notify CNPC (PERS-834) in accordance with MPM article 
+1611-010.  If transfer orders are desired, CNPC (PERS-834) will coordinate 
+with CNPC (PERS-4) and CNPC (PERS-00J) to determine whether such orders are 
+appropriate.
+    c.  For E-1 through E-9, notify CNPC (PERS-832) in accordance with MPM 
+1616-040.  If transfer orders are desired, CNPC (PERS-832) will coordinate 
+with CNPC (PERS-4) and CNPC (PERS-00J) to determine whether such orders are 
+appropriate.
+
+9.  Members who have been tried by civilian authorities and sentenced to 
+confinement.
+    a.  Follow instructions in paragraph 8 above for the notification and 
+coordination processes.  CNPC/Deputy Chief of Naval Personnel will issue a 
+PCS order for confinement.
+    b.  As appropriate, follow procedures for administrative processing.  
+Members in foreign confinement may not be separated until released.
+    c.  If it is determined that administrative processing is not warranted, 
+and there are no unusual circumstances, members should not receive transfer 
+orders until released from confinement.
+    d.  Once PCS orders are issued, commands shall contact the local PSD to 
+ensure member is placed in Accounting Category Code 392 during civilian 
+confinement, suspend pay, and begin documenting member*s unauthorized 
+absence.  In no situation may a service member in confinement be placed in a 
+leave status.
+
+10.  PSDs/CSDs will not process STOs generated after 30 September 2014.  Pay 
+and Personnel Information Bulletins will be distributed to PSDs/CSDs and 
+personnel offices as updates are made to these processes.
+
+11.  Military Entrance Processing Station moves to Recruit Training Command 
+and Officer Candidate School will continue utilizing their current processes.
+
+12.  In accordance with reference (e), any member ordered TDY away from their 
+permanent duty station is required to be issued a properly funded order.  TDY 
+funding requirements are outlined in reference (d).
+
+13.  Flag Officer orders will continue to be issued by Chief of Naval 
+Operations, Flag Matters (N00F).
+
+14.  This NAVADMIN supersedes all current instructions, MPM articles and 
+policy documents which address the issuance of STOs.
+    a.  Any office responsible for documents referencing STOs shall update 
+these documents* to reflect the correct process within 180 days of release 
+from this NAVADMIN.
+
+15.  MPM article 1320-302 (Preparation of STO) is hereby canceled.
+
+16.  This NAVDMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+17.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#8116
+NNNN
+UNCLASSIFIED//
+

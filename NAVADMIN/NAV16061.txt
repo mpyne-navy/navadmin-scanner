@@ -1,0 +1,280 @@
+UNCLASSIFIED
+ROUTINE
+R 091538Z MAR 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 061/16
+
+MSGID/GENADMIN CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/IMPLEMENTATION OF PHYSICAL READINESS PROGRAM POLICY CHANGES UPDATE #2//
+
+REF/A/MSG/CNO WASHINGTON DC/031159ZAUG15//
+REF/B/MSG/CNO WASHINGTON DC/071159ZOCT15//
+REF/C/DOC/OPNAV/11JUL11//
+REF/D/DOC/DOD/5NOV02//
+NARR/REF A IS NAVADMIN 178/15, PHYSICAL READINESS PROGRAM POLICY CHANGES.
+REF B IS NAVADMIN 233/15, PHYSICAL READINESS PROGRAM POLICY CHANGES UPDATE 1:
+ENLISTED POLICIES (CORRECTED COPY).  REF C IS OPNAVINST 6110.1J, PHYSICAL
+READINESS PROGRAM.  REF D IS DODI 1308.3, DOD PHYSICAL FITNESS AND BODY FAT
+PROGRAMS PROCEDURES.//
+
+RMKS/1.  This NAVADMIN amplifies and clarifies changes to the Physical
+Readiness Program as announced in reference (a).  Physical Fitness
+Assessments (PFA) are designed and implemented to assess the health and
+mission readiness of individual Sailors 365 days a year.  The intent of these
+changes and initiatives is to strike a better balance between physical health
+and mission accomplishment.  The ultimate responsibility for implementing the
+physical readiness program lies with the commanding officer.
+
+2.  The following guidance is only applicable for PFA record corrections,
+administrative separations and exceptions to policy:
+    a.  Letter of Correction (LOC):  LOC signed by the commanding officer
+(CO) must be submitted with supporting documentation to include the scanned
+original:  Body composition assessment (BCA) score sheet, physical readiness
+test (PRT) score sheet and Physical Fitness Assessment Medical
+Clearance/Waiver (NAVMED 6110/4) for each individual Sailor to Navy 21st
+Century Sailor Office (OPNAV N170), Physical Readiness Information Management
+System (PRIMS) Manager, (prims(at)navy.mil) if changes to a PFA record is
+required.
+    b.  Administrative Separation:  Medically-waived, pregnant and
+deployed/operational statuses during Cycle 2, 2015 did not count as failures
+or passes for the PRT.  These Sailors are to be retained and their most
+recent PFA failure will carry over effective 1 January 2016.
+    c.  Exception to Policy.  Sailors who were not medically cleared to
+participate in Cycle 2, 2015 PRT and whose Expiration of Active Obligated
+Service and Soft Expiration of Active Obligated Service expired prior to
+1 January 2016 were authorized an exception to policy extension of sufficient 
+duration to allow participation in the Cycle 1, 2016 PFA.  Procedures are
+described in reference (b), paragraph 3a (1).
+
+3.  Effective 1 January 2016 (Cycle 1, 2016), the following changes to
+reference (c) are in effect:
+    a.  BCA Methodology:  As outlined in reference (a), the new method for
+measuring BCA consists of a three-step process.  A Sailor who is medically
+cleared to participate in the PRT must participate regardless of his or her
+BCA results under any of the three steps discussed below.
+        (1) Step 1:  Apply the current height/weight tables per reference
+(c).  If the Sailor is within height/weight standards, he or she will pass 
+the BCA, steps 2 and 3 will not apply, and no Fitness Enhancement Program
+(FEP) enrollment is required.  If the Sailor does not meet the height/weight 
+standard, proceed to step 2.
+        (2) Step 2:  Apply a single-site abdominal circumference (AC)
+measurement.  The following will provide a brief description of the AC
+measurement process for the Sailor and the Command Fitness Leader (CFL).  The
+CFL will need to be familiar with the appropriate anatomical sites for tape
+placement to obtain consistent and accurate measurements.  Amplifying
+information and video can be found on the Navy Personnel Command (NPC) 21st
+Century Sailor web page http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx.
+            (a) The CFL will start the measurement on the right side of the
+Sailor.
+            (b) The CFL will locate the measurement landmark immediately
+above the right uppermost hip bone (superior border of the iliac crest) at
+the side of the body vertically in line with the right armpit (mid-axillary
+line).
+            (c) If desired, the Sailor may assist the CFL in locating the
+measurement landmark by resting the right hand on the hip, using rearward
+facing right thumb to locate the iliac crest.  The CFL will determine final
+horizontal - vertical intersection point for landmark confirmation.
+            (d) The Sailor will stand on a flat surface with feet no more
+than shoulder width apart.  The head should be upright, looking directly
+forward with the chin parallel to the floor.
+            (e) The Sailor may use one hand to initially assist the CFL in
+anchoring the tape measure to the body, but must remove the hand from the
+tape measure before the official measurement is recorded.
+            (f) Measurement will be taken on bare skin.  The free hand may be
+used to hold the shirt out of the way, but no part of the hands or arms may
+extend above the shoulders.
+            (g) The Sailor will remain stationary while the CFL conducts the
+measurement by initially moving around the Sailor to place the tape in a
+horizontal plane around the abdomen.
+            (h) The CFL will ensure the tape is parallel to the floor at the
+level of the landmark (bottom edge of the tape just contacts landmark), is
+snug, but does not compress the bare skin.
+            (i) Upon exhale, the CFL will take the measurement at the end of 
+the Sailors normal respiration.
+            (j) The CFL will take the circumference measurement twice and 
+record each, round each down to the nearest 1/2 inch.  If one of the two 
+measurements differs by more than one inch, the CFL will take an additional
+measurement and compute a mathematical average of the two closest 
+measurements to the nearest 1/2 inch and record this value as the AC 
+measurement.
+            (k) A Sailor will pass the BCA if AC is less than or equal to
+
+39.0 inches for males and less than or equal to 35.5 inches for females.
+            (l) If the Sailor is within AC standards, he or she will pass the
+BCA, step 3 will not apply.
+            (m) If the Sailor exceeds the AC measurement, proceed to step 3.
+        (3) Step 3:  If the Sailor exceeds the AC measurement screen of step
+2, a body circumference measurement must be conducted.
+            (a) Apply the BC measurement technique to determine body fat 
+percentage per reference (c).
+            (b) The Sailor will pass the BCA by meeting the Department of
+Defense (DoD) maximum allowable body fat limit of less than or equal to 26 
+percent for males or less than or equal to 36 percent for females as outlined 
+in reference (d).
+            (c) The Sailor will fail the BCA if they do not meet any of the 
+standards employed in steps 1, 2, and 3.
+            (d) Sailors who fail the BCA must be evaluated by a medical 
+provider, enrolled in the FEP, and provided nutritional counseling.
+            (e) All Sailors who are medically cleared, regardless of BCA 
+results, must take the PRT.
+            (f) A BCA failure will constitute an overall PFA failure for the
+cycle regardless of PRT results.
+    b.  Performance Standard Scoring Tables:
+        (1) Each PRT event will be scored using five categories
+(Probationary, Satisfactory, Good, Excellent, and Outstanding).
+        (2) Each category will have three different levels (high, medium and
+low) of performance except Satisfactory where only two levels (high and low)
+will apply.
+        (3) Probationary is the minimum achievable score, anything below
+probationary is a failure.  Sailors who score probationary in any PRT event
+will be enrolled in FEP.
+        (4) The new Performance Standard Scoring Tables are published in
+reference (c), Operation Guide 5 effective 1 January 2016.
+    c.  CFL Certification and Re-Certification:
+        (1) CFLs must attend the CFL training course to obtain initial
+training and certification.
+        (2) In order to maintain certification, the Navy Enlisted
+Classification 95PT/Additional Qualification Designator, CFLs must attend a
+CFL seminar or a CFL certification course at a minimum of every three years
+to maintain their CFL credentials.
+        (3) CFLs may obtain more information about CFL seminars and courses
+at the NPC 21st Century Sailor web page http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx.
+        (4) CFLs are required to score an overall excellent or above on their
+PFA in order to obtain/ retain certification.  CFLs that elect to participate
+in an alternate cardio event must score an excellent or better on the cardio
+event elected.
+        (5) CFLs are required to maintain one percent below the graduated BCA
+standards for purposes of certification.
+        (6) CFL certification course will continue to require all Sailors
+complete the 1.5 mile run, no alternate cardio options will be provided.
+    d.  FEP:  A strong command FEP is key in ensuring that Sailors who exceed
+DoD maximum BCA standards (26 percent males and 36 percent females), exceed
+new Navy graduated BCA standards, or Sailors failing any portion of the PRT
+actively work towards getting back in PFA standards.
+        (1) All medically cleared Sailors enrolled in FEP will be required to
+participate in a mock PFA every 30 days.
+        (2) Failures incurred during a mock PFA will not count as official
+failures.
+        (3) A Sailor will be disenrolled from FEP when he or she passes a
+mock or official PRT and is within the new Navy graduated BCA standards.
+        (4) CFLs must ensure that appropriate entries are made in PRIMS under
+the FEP tab for each member who is enrolled in FEP to include pass or fail of
+the required monthly mock PFA.
+        (5) Sailors enrolled in FEP due to BCA failure, or exceeding the new
+graduated BCA standards must also be enrolled in a weight management program
+or receive nutritional counseling as outlined in reference (c).  The
+Nutrition Resource Guide can be found on the NPC 21st Century Sailor web page
+http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx.  Shipshape, the
+official Navy weight management program and other weight management programs
+must focus on nutrition and behavior change.  FEP participants should also be
+engaged with their CFL and Navy Fitness resources to improve their physical
+exercise regimens.  Sailors do not have to fail the PFA or a spot check to
+participate in FEP or Shipshape.  These resources are in place for the
+benefit of all Sailors and COs are encouraged to promote participation.  FEP
+and Shipshape facilitators should flex program availability to meet the needs
+of the fleet.
+        (6) Medical clearance to participate in the PFA:  If a member fails
+BCA and is cleared to participate in the PRT with no medical waivers, then
+the Physical Activity Risk Factor Questionnaire will serve as medical
+clearance to participate in the PRT and FEP, and no NAVMED 6110/4 form will
+be required.  If member requires a medical waiver for any portion of the PFA
+it must be documented on a NAVMED 6110/4.
+        (7) Medical clearance is not required for Sailors who fail to meet
+the graduated BCA standards, or for Sailors who fail any portion of the PRT.
+    e.  An authorized medical department representative must follow Bureau of
+Medicine and Surgery guidelines for waiver recommendation process and
+complete the required training on proper procedures for BCA and PRT medical
+screening and waivers.
+
+4.  Evaluation Policy
+    a.  No mandated or prohibited trait mark is required in "Military
+Bearing"/Professionalism for promotability and/or retention for reporting
+period in which a first PFA failure in a 3-year period occurs.
+    b.  For reporting period in which a member has failed two or more PFAs in
+the most recent 3-year period,
+        (1) Enlisted members shall receive:
+            (a) A grade no greater than 1.0 in "Military Bearing" or
+Professionalism (CHIEFEVAL block 35 or EVAL block 36).
+            (b) Marks of "Significant Problems" and "Retention Not
+Recommended (Eval block 45 and block 47), respectively.
+        (2) Officers shall receive:
+            (a) A grade no greater than 1.0 in "Military Bearing" (FITREP
+block 35).
+            (b) Mark for promotability shall be Significant Problems.
+        (3) For Sailors with two PFA failures in most recent 3-year period
+that have an approved waiver, reporting seniors shall use their discretion
+when determining "Military Bearing" or "Professionalism" marks for a
+reporting period in which the member passes two consecutive PFAs.  However,
+the member must still receive a not recommended for reenlistment or retention
+for that evaluation period and the member remains ineligible for
+advancement/promotion and for enlisted members ineligible for participation
+in the advancement exam.  In those situations, insert a bullet in the
+evaluation/fitness report stating why the member is not recommended due to
+having two or more PFA failures in the most recent 3-year period.
+    c.  Overall score of "outstanding" or "excellent" are not required for
+assigning 5.0 in Military Bearing or Professionalism.
+
+5.  BCA Spot checks.  BCA spot checks provide COs an opportunity to make a
+difference in Sailor health and fitness without administrative/punitive
+consequences outside of the official command PFA cycle.
+    a.  Spot checks will be conducted at the discretion of the CO and are
+intended to identify Sailors in need of additional support by assigning them
+to the FEP program before they become a PFA failure.
+    b.  With only two failures in a 3-year period now resulting in processing
+for administrative separation, it is important that all hands stay proactive
+in achieving and maintaining the health and fitness goals of the Navy.
+    c.  It is the responsibility of every Sailor to be within PFA standards
+at all times.  If a Sailor fails a BCA spot check, they will be enrolled in
+FEP and will actively participate in mock PFAs until they meet the new
+graduated BCA and PRT standards.
+    d.  COs are not required to conduct a Administrative Remarks (NAVPERS
+1070/613) counseling for Sailors who fail BCA spot checks.
+    e.  CFLs must ensure that Sailor progress is accurately reflected in
+PRIMS for Sailors enrolled in FEP due to spot checks failures.
+    f.  Recommended guidance (not all inclusive or limiting other options)
+for conducting spot checks include:
+        (1) Within five days of checking-in to the command (this should be
+applied to everyone).
+        (2) Individual returning from extended leave/TAD periods (length of
+period to be determined by CO).
+        (3) Unit sweep BCA spot checks as a means to get at risk Sailors into
+the FEP program.
+        (4) Incorporate into the Command Division in the Spotlight.
+        (5) In conjunction with urinalysis on a random basis.
+        (6) After extended authorized absences for reserve personnel.
+        (7) Recommendation from CFL.
+
+6.  Commander, Navy Recruiting Command new accession BCA policy will follow
+guidance set forth in reference (b) effective 1 January 2016.
+
+7.  Prior to initiating separation processing on any Naval Nuclear Propulsion
+Program Sailor (to include those who incur the third failure in the past four
+years prior to 1 December 2015 and those who incur their second failure in
+the last three years after 1 January 2016), commands are still required to
+submit separation requests for review and approval to Nuclear Propulsion
+Programs (OPNAV N133) per reference (c).
+
+8.  For questions, please contact the Physical Readiness Program Help Desk at
+(901) 874-2210/DSN 882 or via e-mail at prisms(at)navy.mil.  Physical
+Readiness Program polices, operating guides and FAQs can be found on the NPC
+21st Century Sailor web page http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx.
+
+9.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,84 @@
+UNCLASSIFIED//
+ROUTINE
+R 241507Z JAN 20 MID110000334025U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 017/20
+
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6G/JAN//
+
+
+SUBJ/RISK MANAGEMENT FRAMEWORK RAPID ASSESS AND INCORPORATE SOFTWARE 
+ENGINEERING IN A DAY//
+
+REF/A/DOC/DODI 8510.01/DOD/28JUL17//
+AMPF/REF A IS DEPARTMENT OF DEFENSE (DOD) INSTRUCTION 8510.01, RISK 
+MANAGEMENT FRAMEWORK (RMF) FOR DOD INFORMATION TECHNOLOGY (IT).// 
+POC/BRYERJOYNER/CAPT/OPNAV N2N6G5/WASHINGTON DC/TEL: 571-256-8422
+/EMAIL:  SUSAN.BRYERJOYNER1(AT)NAVY.MIL// POC/KELLEY/CIV/OPNAV 
+N2N6G5/WASHINGTON DC/TEL: 571-256-8509
+/EMAIL:  PETER.KELLEY(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN introduces the Rapid Assess and Incorporate Software 
+Engineering in a Day (RAISED) process, which is the Risk Management Framework
+(RMF) for agile software based systems.  The RAISED process takes advantage 
+of lessons learned from the Air Force Continuous Authorization process, 
+Department of Defense (DoD) Software Assurance, and Industry best practices 
+for Development Security Operations (DEVSECOPS) to enable the modernization 
+of applications and significantly reduce RMF workload and timelines.  In 
+anticipation of transition to RAISED framework later this year, application 
+owners should review the RAISED guidance contained in the RMF Process Guide 
+and RAISED Playbook which are posted to the following location:
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC1/ArchGovPolicy
+/RAISED/Forms/AllItems.aspx.
+
+
+2.  RAISED utilizes the Assess and Incorporate process under the Assess Only 
+construct established in reference (a).  For applications that are within 
+established risk tolerance levels, the Assess Only construct incorporates 
+applications into the hosting system/enclaves existing authorization boundary 
+without changing the security posture or level of risk, precluding the need 
+for a separate authorization.  By leveraging the defined development process, 
+shared infrastructure, and automated security testing, it allows applications 
+to utilize a reduced security control set and streamlined assessment process.  
+RAISED is focused on streamlining the RMF approval processes, with the 
+ultimate goal of assessing and deploying RMF approved applications as needed 
+to meet Fleet operational requirements.
+
+
+3.  The RAISED workflows and reduced security control set are being finalized 
+by the offices of the Navy Authorizing Official (NAO) and Navy Information 
+Warfare Systems Command (NAVWAR) with an anticipated completion in January 
+2020.  The request to develop the RAISED workflows will be submitted to 
+Defense Information Systems Agency upon OPNAV N2N6 approval.
+    a.  Upon approval of the revised workflows and reduced security control 
+set, NAVWAR will test the RAISED concept by using established workflows and 
+RAISED methods and procedures to assess and approve a DEVSECOPS containerized 
+application for deployment.  RAISED workflows will be manually implemented 
+during this testing period.  The objective of this test is to validate the 
+ability of the RAISED process to accelerate the RMF assessment and approval 
+process, validate methods and procedures, and incorporate lessons learned.
+    b.  The anticipated availability of the RAISED Enterprise Mission 
+Assurance Support Service (eMASS) workflows for program use is the 3rd 
+quarter of fiscal year 2020.  Criteria for determining application 
+suitability will be provided when the RAISED process is officially approved 
+for use.
+
+
+4.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+
+5.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,78 @@
+UNCLASSIFIED//
+ROUTINE
+R 231550Z AUG 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 197/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/RISK MANAGEMENT FRAMEWORK TRANSITION AFLOAT WAY AHEAD//
+
+REF/A/DOC/DODI 8510.01/DOD/28JUL17//
+REF/B/DOC/OPNAVINST 5239.1D/CNO/18JUL18//
+REF/C/LTR/N2N6G/8U121038/29MAY18//
+REF/D/MSG/FLTCYBERCOM/101128Z AUG 17//
+REF/E/OPORD/FLTCYBERCOM/19-058//
+NARR/REF A IS DEPARTMENT OF DEFENSE (DOD) INSTRUCTION 8510.01, RISK 
+MANAGEMENT FRAMEWORK (RMF) FOR DOD INFORMATION TECHNOLOGY (IT).  
+REF B IS CHIEF OF NAVAL OPERATIONS INSTRUCTION 5239.1D, U.S. NAVY 
+CYBERSECURITY PROGRAM.  
+REF C IS DEPARTMENT OF THE NAVY DEPUTY CHIEF INFORMATION OFFICER (NAVY) 
+MEMORANDUM WHICH DIRECTS THE TRANSITION TO RMF BY 31 DECEMBER 2020.  
+REF D IS THE FLTCYBERCOM MESSAGE U.S.
+NAVY RMF IMPLEMENTATION STRATEGY/DIACAP TO RMF BRIDGE CONVERSION (RBC) - 
+UPDATE NR 1.  
+REF E IS THE FLTCYBERCOM OPORD 19-058 OPERATION TRITON BASTION (OTB) ISO 
+CAMPAIGN FOR NAVY-WIDE TRANSITION TO RMF.//
+POC/KELLEY/CIV/OPNAV/N2N6/TEL:  571-256-8523/
+EMAIL:  PETER.KELLEY(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides transition assistance for the afloat 
+community to assist the Navy in converting to Risk Management Framework (RMF) 
+by 31 December 2020.  This RMF Afloat way ahead process is intended to 
+provide an alternative solution for attaining RMF site authorizations for 
+ships, which in turn will allow for a deliberate RMF transition of the 
+systems hosted on those ships.
+
+2.  Ships under U.S. Fleet Forces Command (USFF), Commander, U.S. Pacific 
+Fleet (COMPACFLT) and Military Sealift Command (MSC) with Defense Information 
+Assurance Certification and Accreditation Process (DIACAP) Authorizations to 
+Operate (ATO) that expire on or before 1 January 2020 are authorized to 
+pursue an Afloat RMF Bridge Conversion (RBC).  The intent of the Afloat RBC 
+is to utilize the assessed and certified risk of a DIACAP submission, and 
+issue an RMF ATO instead of a DIACAP ATO.  The Afloat RBC ATO will be issued 
+for no more than 12 months.  All ships under the scope of this NAVADMIN will 
+be required to transition to full RMF on or before the Authorization 
+Termination Date (ATD) of their respective RBC.  Amplifying guidance is as 
+follows:
+    a.  The Package Submitting Officer (PSO) will process the package for a 
+DIACAP Certification Determination (CD) issuance from the Navy Security 
+Control Assessor for impacted ships as per references (c) and (d).
+    b.  The DIACAP CD shall be no older than 180 days.
+    c.  Following the CD issuance, the PSO will process the package for an 
+Afloat RBC following reference (d).
+    d.  All DIACAP artifacts will be in compliance with reference (d).
+    e.  The DIACAP artifacts that accompanied the DIACAP submission will be 
+used to leverage Afloat RBCs.
+
+3.  Programs outside of the afloat community are eligible for additional new 
+alternate RMF transition processes, which are detailed in reference (e).
+
+4.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+5.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

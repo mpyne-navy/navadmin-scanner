@@ -1,0 +1,71 @@
+UNCLASSIFIED//
+
+ATTENTION INVITED TO  
+
+ROUTINE
+
+R 311732Z OCT 13 PSN 162670K22
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO ZEN/CNO WASHINGTON DC
+
+BT
+UNCLAS
+QQQQ
+
+SUBJ: IMMEDIATE PUBLIC KEY ENFORCEMENT ON NAVY ASHORE SECRET INTERNET UNCLASSIFIED/ FM 
+CNO WASHINGTON DC TO NAVADMIN UNCLAS// 
+
+NAVADMIN 285/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC//N2N6BC/OCT//
+
+SUBJ/IMMEDIATE PUBLIC KEY ENFORCEMENT ON NAVY ASHORE SECRET INTERNET PROTOCOL ROUTER 
+NETWORK//
+
+REF/A/EMAIL/25OCT13//
+
+REF/B/MSG/CNO/241810ZSEP13//
+
+REF/C/MSG/CTF 1010/CTO 13-12/161945ZJUL13//
+
+NARR/REF A IS P4 TO FLEET COMMANDERS.  REF B IS PUBLIC KEY ENFORCEMENT ON NAVY SECRET 
+INTERNET PROTOCOL ROUTER NETWORK.  REF C IS COMMUNICATIONS TASKING ORDER 13-12, 
+AMPLIFYING TASKING AND GUIDANCE REQUIREMENTS FOR DOD SIPRNET PUBLIC KEY CRYTOGRAPHIC 
+LOG-ON ENFORCEMENT.// POC/MR. JOSEPH WALKER/CIV/OPNAV N2N6BC4/E-MAIL:  
+JOE.T.WALKER(AT)NAVY .MIL
+/TEL:  (571) 256-8523/DSN:  260-8523//
+
+Rmks/1.  This NAVADMIN provides Navy-specific direction to  immediately execute the requirement for 
+secure internet protocol router network (SIPRNET) Public Key Enforcement (PKE) in accordance with Ref 
+A NLT 1 January 2014.  This message applies to all ashore, Navy owned,  operated, or controlled SIPRNET 
+connected networks.  Ashore system owners shall implement PKE immediately.  This message 
+supersedes PAR 3 of REF B.  Exceptions will be kept to an absolute minimum and will be 
+approved/disapproved by DDCIO(N). Requests will only be considered with an accompanying POAM for 
+compliance.
+
+2.  A comprehensive implementation plan for afloat commands and Platform IT (PIT) will be published 
+SEPCOR.  OPNAV N2/N6 is working  with platform resource sponsors and the acquisition community to  
+promulgate an executable, achievable timeline.
+
+3.  Action.  In order to harden SIPRNET, it is vital that the  following actions occur:
+    (a) 100% token issuance throughout the Military and civilian workforce;
+    (b) Mandatory enforcement of cryptographic login (CLO) via SIPRNET token.
+Enforcement means users have no other option to login other than the token, eliminate 
+userid/password logon;
+    (c) elimination of all userid/password accounts;
+    (d) reporting PKE status to CTF 1010 (NETWARCOM) until compliant IAW ref c.
+
+4.  This NAVADMIN will remain in effect until cancelled or  superseded.
+
+5.  Released by Vice Admiral Ted N. Branch, Deputy Chief of Naval  Operations, Information Dominance, 
+OPNAV N2N6.//
+
+BT
+#1927
+NNNN
+UNCLASSIFIED//
+

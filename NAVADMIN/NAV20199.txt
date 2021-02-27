@@ -1,0 +1,66 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 131534Z JUL 20 MID110000833065U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 199/20 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/PROCESSING TIME FOR CERTIFICATION OF HONORABLE SERVICE FOR PURPOSES OF 
+NATURALIZATION// 
+ 
+REF/A/DOC/OUSD(PR)/24APR20// 
+REF/B/DOC/OUSD(PR)/13OCT17// 
+REF/C/MSG/CNO WASHINGTON DC/N1/191107ZAPR18// 
+ 
+NARR/REF A IS OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND 
+READINESS MEMORANDUM, CERTIFICATION OF HONORABLE SERVICE FOR PURPOSES OF 
+NATURALIZATION.  REF B IS OFFICE OF THE UNDER SECRETARYOF DEFENSE FOR 
+PERSONNEL AND READINESS MEMORANDUM, CERTIFCATION OF HONORABLE SERVICE FOR 
+MEMBERS OF THE SELECTED RESERVE OF THE READY RESERVE AND MEMBERS OF THE 
+ACTIVE COMPONENTS OF THE MILITARY OR NAVAL FORCES FOR PURPOSES OF 
+NATURALIZATION.  REF C IS NAVADMIN 099/18, CERTIFICATION OF HONORABLE SERVICE 
+FOR PURPOSES OF NATURALIZATION APPLICATIONS.// 
+ 
+RMKS/1.  This NAVADMIN announces the requirement for certifying officials to 
+process and return United States Citizenship and Immigration Services Form N-
+426, *Request for Certification of Military Service*, to qualified applicants 
+for naturalization within 30 days of receipt, as directed in reference (a). 
+ 
+2.  As directed in reference (b), specific requirements for Service Members 
+in the Active Component and Service Members in the Selected Reserve of the 
+Ready Reserve must be met before certification of honorable service for 
+purposes of supporting the Service Members naturalization 
+application.  Details of reference (b) are located at 
+https://www.jag.navy.mil/organization/code_16_immigration_info.htm. 
+ 
+3.  As directed in reference (c), for Active and Reserve Component members 
+whose date of enlistment or accession is prior to 13 October 2017, the 
+minimum length of service is 45 days, inclusive of basic military 
+training.  For Service Members in the Active Component and the Selected 
+Reserve of the Ready Reserve whose date of enlistment or accession is on or 
+after 13 October 2017, or for those Service Members who have served in an 
+Active Duty status in a hazardous duty area, refer to reference (b) to 
+determine minimum length of service required. 
+ 
+4.  The Legal Assistance Division, Office of the Judge Advocate General (Code 
+16) retains oversight responsibility for the U.S. Navy Naturalization 
+Program.  For questions, contact Ms. Kathlene Somerville, Code 16 Director, 
+who may be reached at (202) 685-4639/DSN 325 or via e-mail at 
+kathlene.somerville(at)navy.mil, or LT Jason Kim, who may be reached at  
+(202) 685-4637 or via e-mail at jason.l.kim(at)navy.mil. 
+ 
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN
+

@@ -1,0 +1,90 @@
+UNCLASSIFIED//
+ROUTINE
+R 211212Z JUN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 133/19
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUN//
+
+SUBJ/SUNDOWN OF TASKERS VERSION FIVE AND TASK MANAGEMENT UPDATE//
+
+REF/A/DOC/DON CIO WASHINGTON DC/20140410
+NARR/REF A IS NAVADMIN 105/17, IMPLEMENTATION OF THE DEPARTMENT OF NAVY 
+TASKS, RECORDS, AND CONSOLIDATED KNOWLEDGE ENTERPRISE REPOSITORY FOR TASK 
+MANAGEMENT.// POC/Navy DON TRACKER points of contact:
+Implementation - CDR Enjoli Ramsey, enjoli.ramsey(AT)navy.mil and LCDR 
+Michael Sword, michael.sword(AT)navy.mil.
+TV5 Data Migration - LCDR Lacy Ford, lacy.ford(AT)navy.mil//
+
+RMKS/1.  Purpose.  This NAVADMIN announces the Sundown of Non -Classified 
+Internet Protocol Router (NIPR) Taskers Version 5 (TV5) and provides an 
+update on Department of the Navy (DON) Tasking, Records and Consolidated 
+Knowledge Enterprise Repository (TRACKER) for the Office of the Chief of 
+Naval Operations (OPNAV) Staff and Echelon II Commands, per reference (a).  
+DON TRACKER can be accessed at https://dontracker.navy.mil.
+
+2.  General.  OPNAV and Ech II commands officially implemented DON TRACKER as 
+their task management (TM) system in May 2017, per reference (a).  The 
+initial schedule called for the TV5 Sundown Phase to end on 31 December 2017.  
+However, an operational pause on DON TRACKER implementation allowed commands 
+to continue using TV5 while critical system upgrades were made to DON 
+TRACKER.  DON TRACKER is now at a point where it can function as the single 
+enterprise solution to replace multiple legacy Department-wide NIPR TM 
+applications.  Therefore, all TV5 users will transition to DON TRACKER.
+
+3.  TV5 Data Migration.  The data migration will take place in a phased 
+approach.  During the first phase, archived taskers will be migrated to DON 
+TRACKER.  During this time, the functions Create New Task and Re-Open 
+Completed Task will be deactivated.  However, users will still be able to 
+complete open taskers.  During the second phase, users will no longer be able 
+to work on taskers in TV5, and all remaining closed taskers will be migrated 
+to DON TRACKER.  All open taskers will need to be transferred manually before 
+the migration of closed taskers.  Open taskers will not migrate to DON 
+TRACKER.
+
+4.  Schedule.  The first phase of the data migration will commence on
+1 July 2019.  As of this date, users will no longer be able to create new TV5 
+taskers or reopen completed taskers.  The second phase of the data migration 
+will commence on or about 1 January 2020.  As of this date, users will only 
+be able to access TV5 in read-only mode.  The TV5 application will officially 
+sunset in Spring 2020.  All task management functions will be performed in 
+DON TRACKER.
+
+5.  Registration.  In order to register for DON TRACKER, users must visit the 
+DON TRACKER website URL, enter their personal information in the registration 
+box, and select the appropriate organization.
+If a user is unable to identify the appropriate organization, please contact 
+your DON TRACKER organizational administrator (OA), if known.
+If you are unable to identify your OA, please contact CDR Enjoli Ramsey at 
+(703) 693-8712.
+
+6.  DON TRACKER Customer Support.  Customers will initiate service requests 
+for technical assistance via NESD at 1-833-NESD-NOW (1-833 -637-3669).  They 
+will press Option 1 and then press Option 1 again.
+The e-mail address is nesd_dontracker.fct(AT)navy.mil.  TV5 customer support 
+can be reached at (703) 695-9093.
+
+7.  Secret Internet Protocol Router (SIPR).  The Department of the Navy (DON) 
+is scheduled to transition from SIPR TV5 to SIPR DON TRACKER in early FY20.  
+More information will be provided when the SIPR transition plan is finalized.
+
+8.  Task Management Tool (TMT).  The Office of the Secretary of Defense (OSD) 
+is directing adoption of TMT as the task management tool for the Department 
+of Defense. The Army recently adopted TMT as their TM solution, and DON is 
+currently working with the Army on an implementation plan.  DON is currently 
+scheduled to transition to the new system by FY22.
+
+9.  Applicability.  This NAVADMIN is applicable to commands currently using 
+TV5 as one of their Task Management applications.
+
+10.  Release authorized by Ms. Steffanie B. Easter, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

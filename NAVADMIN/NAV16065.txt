@@ -1,0 +1,116 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 161439Z MAR 16
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+BT
+UNCLAS
+NAVADMIN 065/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/MAR//
+
+SUBJ/FISCAL YEAR 2016 ANNUAL CYBERSECURITY AND INFORMATION SYSTEM SECURITY 
+AWARENESS TRAINING//
+
+REF/A/MSG/CNO/062052ZFEB15//
+
+REF/B/DOC/DoDD 8140.01/11AUG2015//
+
+REF/C/DOC/DODI 8500.01/14MAR2014//
+
+REF/D/DOC/SECNAVINST 5239.20A/10FEB16//
+
+REF/E/DOC/OPNAVINST 5239.1C/20AUG08//
+
+NARR/REF (A) IS THE NAVADMIN FOR FISCAL YEAR (FY) 2015 ANNUAL CYBERSECURITY 
+AND INFORMATION SYSTEM SECURITY AWARENESS TRAINING.  REF (B) IS THE 
+DEPARTMENT OF DEFENSE (DOD) DIRECTIVE, CYBERSECURITY.  REF (C) IS THE DOD 
+DIRECTIVE, CYBERSECURITY WORKFORCE MANAGEMENT.  REF (D) IS THE SECRETARY OF 
+THE NAVY (SECNAV) CYBERSPACE INFORMATION TECHNOLOGY AND CYBERSECURITY 
+WORKFORCE MANAGEMENT AND QUALIFICATION.  REF (E) IS THE OFFICE OF THE CHIEF 
+OF NAVAL OPERATIONS (OPNAV) INSTRUCTION WHICH ESTABLISHES POLICY AND 
+PROCEDURES FOR THE NAVYS INFORMATION ASSURANCE (IA) PROGRAM.// POC/ANDREJ 
+STARE/CIV/OPNAV N2N6BC/-/TEL:  (571) 256-8284/EMAIL:
+ANDREJ.STARE(AT)NAVY.MIL//
+POC/DANIEL HARRINGTON/CIV/ NAVCYBERFOR/-/TEL:  (757) 203-3307/EMAIL:  
+DANIEL.HARRINGTON(AT)NAVY.MIL// POC/MIKE (HENRY) KNIGHT/CIV/ NAVCYBERFOR/-
+/TEL:  (757)203-3135/EMAIL:
+HENRY.KNIGHT(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN supersedes reference (a) and establishes the Fiscal 
+Year 2016 (FY16) Cybersecurity (CS) awareness training requirement for all 
+Navy personnel as set forth in references (b) through (e).  Proper network 
+discipline is critical to maintaining network security and integrity.  
+Failure to accomplish annual training introduces unnecessary operational risk 
+and will result in loss of network access.
+
+2.  All Department of the Navy military (as per the General Military Training 
+Schedule (NAVADMIN 213/15)), civilians, and contractors with access to 
+Unclassified, Secret, and Sensitive Compartmented Information (SCI) networks 
+must satisfy the FY16 training requirement.  Cyber Awareness Challenge (CAC) 
+Version 3 (V3) released February 2016, is the required FY16 DoD authorized 
+awareness training for users with access to unclassified and secret networks.
+
+3.  The Office of the Director of National Intelligence requires Navy 
+Intelligence Community personnel with access to information and information 
+systems that process, store, and/or transmit SCI information applicable to 
+both those connected to the Joint Worldwide Intelligence Communications 
+System or standalone as well as those directly supporting Director of Naval 
+Intelligence initiatives to complete IC-CAC V2 to satisfy the FY16 
+requirement; CAC V3 does not contain the tasks required of the IC covered in 
+IC-CAC V2.
+
+4.  Authorized methods for training delivery:
+       a.  Total Workforce Management Service (TWMS), 
+https://twms.navy.mil/selfservice/login.asp;
+       b.  Navy e-Learning (NEL) via the Navy Knowledge Online portal;
+       c.  CAC V3 is available at: 
+http://iatraining.disa.mil/eta/cyberchallenge_v3_fy15/launchPage.htm
+       d.  IC-CAC V2 is available at:
+http://iatraining.disa.mil/eta/cyberchallenge/launchpage.htm
+       e.  Other approved training sources, include general military lectures 
+delivered by a certified Information Security Systems Managers (ISSM) and 
+Defense Information Systems Agency (DISA) Digital Video Discs.
+
+5.  Deploying commands must make every effort to complete the training prior 
+to deployment.  Afloat commands with limited bandwidth may access the annual 
+training from the ship's Navy e-Learning afloat (NEL) application hosted on 
+the Navy Information/Application Product Suite server, eliminating the need 
+to reach back to shore hosted NEL websites.  Commands may also order CS 
+awareness training compact discs from DISA via, 
+http://iasecontent.disa.mil/eta/products_order_form.pdf.
+
+6.  Although, CS awareness training is an individual responsibility, 
+Commanders and Commanding Officers are accountable for 100 percent 
+certification of their personnel.  Echelon II Command ISSM and training 
+officers are responsible for tracking and reporting compliance to meet annual 
+Federal Information Security Modernization Act of 2014 requirements.
+
+7.  Command training officers must validate training via the TWMS or Fleet 
+Training Management and Planning System, 
+(https://ntmpsweb.ncdc.navy.mil/Fltmps/) authoritative database.  Training 
+officers will manually input training completed via NEL or AILE.  Report 
+discrepancies to the Navy Training Management Planning System Operational 
+Support office at ntmps.support(AT)navy.mil or 1-866-438-2898/DSN 922-1867.
+
+8.  Echelon II training officers are responsible for maintaining a list of 
+personnel which have fulfilled the training requirement in addition to  
+compiling data in TWMS for their respective area of responsibility.  The 
+command ISSM shall disable the accounts of users who fail to complete the 
+training by 01 July 2016.
+
+9.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+10.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operation for 
+Information Warfare, OPNAV N2N6.// UNCLASSIFIED//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

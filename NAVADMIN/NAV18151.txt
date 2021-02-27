@@ -1,0 +1,169 @@
+UNCLASSIFIED
+ROUTINE
+R 211800Z JUN 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 151/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/MILITARY PARENTAL LEAVE PROGRAM//
+
+REF/A/LTR/OSD/23MAR18//
+REF/B/LTR/ASN/23MAY18/
+REF/C/DOC/DOD/19MAY16//
+REF/D/DOC/COMNAVPERSCOM/31MAR11//
+REF/E/DOC/OPNAV/12DEC14//
+NARR/REF A IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS 
+DIRECTIVE-TYPE MEMORANDUM, PARENTAL LEAVE FOR MILITARY PERSONNEL IN 
+CONNECTION WITH THE BIRTH OR ADOPTION OF A CHILD.  REF B IS ASSISTANT 
+SECRETARY OF THE NAVY (MANPOWER AND RESERVE AFFAIRS) DIRECTIVE-TYPE 
+MEMORANDUM, DEPARTMENT OF THE NAVY GUIDANCE FOR IMPLEMENTATION OF THE 
+MILITARY PARENTAL LEAVE PROGRAM.  REF C IS DODI 1327.06, LEAVE AND LIBERTY 
+POLICY AND PROCEDURES.  REF D IS NAVPERS 15560D, NAVAL MILITARY PERSONNEL 
+MANUAL.  REF E IS OPNAVINST 1754.4A, NAVY ADOPTION REIMBURSEMENT POLICY.//
+
+RMKS/1.  This NAVADMIN establishes the Navy Parental Leave Program policy in 
+line with references (a) through (c), and replaces MILPERSMAN articles of 
+reference (d) 1050-420 (Adoption Leave), 1050-430 (Paternity Leave), and 
+1050-435 (Maternity Leave) with MILPERSMAN 1050-415 (Military Parental Leave 
+Program) for release in the near future.
+
+2.  The Military Parental Leave Program (MPLP) replaces current adoption, 
+paternity, and maternity leave with primary caregiver (PC) leave, secondary 
+caregiver (SC) leave, and maternity convalescent leave (MCL).  Members 
+designated as the PC for a birth or qualifying adoption are eligible for 6 
+weeks of non-chargeable PC Leave (PCL).
+Members designated as the SC for a birth or qualifying adoption are eligible 
+for 2 weeks of non-chargeable SC Leave (SCL).  Members who give birth are 
+entitled to 6 weeks of non-chargeable MCL.  If a member is given MCL in 
+excess of 6 weeks, their PCL is reduced day for day.
+
+3.  MPLP applies to all active component (AC) members and all reserve 
+component (RC) members who were performing active duties, or mobilized more 
+than 12 continuous months and were party to a qualifying birth event (QBE) or 
+qualifying adoption (QA) on or after 23 December 2016.  A QBE is defined as a 
+live birth.  A QA is defined as an adoption that qualifies for reimbursement 
+of adoption expenses in line with reference (e).
+
+4.  MCL is a 6-week (42-day), non-chargeable leave period for the 
+birthparent, commencing the first full day following the discharge and 
+release of the member from the hospital (or similar facility) following a QBE 
+and is intended for the medical recovery of the birthparent.  MCL must be 
+executed in one increment and completed before commencing PCL.  Any medically 
+required extensions of MCL will be deducted from PCL.
+
+5.  PCL is a 6-week (42-day), non-chargeable leave period for the PC 
+following a QBE or qualifying adoption (QA).  PCL will be granted to the 
+parent designated with primary responsibility for caring for the birthed or 
+adopted child(ren).  PCL must be executed in one increment.  For a QBE, by 
+default, the PC will be the parent who physically gives birth to one or 
+multiple live children in a 72-hour period.  For a QA, by default, the PC 
+will be the non-military parent, or in the case of dual military couples, the 
+member who is serving in the least operational position.  The commanding 
+officer (CO) of the member has the authority to designate PC status on a 
+case-by-case basis when it can be demonstrated that the default PC is 
+unavailable to administer the necessary care to the child (e.g., 
+incapacitation, dual military couples, death, or other circumstances where 
+the military parent must act as PC.)  For dual military couples, only one PC 
+and SC will be authorized per QBE or QA.  Under normal situations PC 
+designations should be made 60 days prior to the QBE or QA and documented on 
+Administrative Remarks NAVPERS 1070/613 (commonly known as a Page 13).
+
+6.  SCL is a 2-week (14-day), non-chargeable leave period for the SC 
+following a QBE or QA.  SCL will be granted to the parent not designated as 
+the PC.  SCL must be executed in a consecutive block.
+Under normal situations SC designations should be made 60 days prior to the 
+QBE or QA and documented on NAVPERS 1070/613.
+
+7.  Authorized PCL or SCL that is not commenced within 1 year from the QBE or 
+QA will expire.  Any period of deferral of PCL or SCL under this NAVADMIN due 
+to an operational deployment shall not be counted against expiration dates.  
+No member will be designated as both PC and SC for any QBE or QA.
+
+8.  For a QBE of a child(ren) born outside of a marriage, the member who does 
+not give birth is required to establish proof of parentage.
+Proof of parentage may include, but is not limited to:
+    a.  being listed, with consent, as a parent on the birth certificate of 
+the child or other government issued document
+    b.  acknowledgement in writing of an obligation to support the child, 
+either by voluntary agreement or court order, or
+    c.  registration, or pending registration, in the Defense Enrollment 
+Eligibility Reporting System (DEERS).
+
+9.  Deployed members or members within 3 months of deployment will normally 
+be required to defer PCL/SCL until completion of the deployment.  However, in 
+some cases where extraordinary and compelling circumstances exist, COs may 
+approve immediate SCL or PCL.
+If PCL/SCL was deferred until the completion of deployment, upon approval by 
+the CO, and only after being designated as PC/SC, the member may use PCL or 
+SCL.
+
+10.  There are two retroactive periods covered by MPLP.
+    a.  Sailors who had a QBE or QA from 23 December 2016 to 22 March 2018 
+have 18 months from the QBE or QA, to commence PCL or SCL.  Sailors that had 
+QBE or QA on or after 23 March 2018 have 12 months from the QBE or QA to 
+commence PCL or SCL.  The following conditions apply to retroactive MPLP:
+        (1) Members who executed or are executing the 12 weeks of Maternity 
+Leave authorized in MILPERSMAN 1050-435 will be considered the PC and will 
+not be authorized additional MCL, PCL, or SCL.
+        (2) Members who executed 10 days of Parental Leave or 21 days of 
+Adoption Leave authorized in MILPERSMAN 1050-420 and 1050-430 may be 
+retroactively designated as PC or SC and are, respectively, entitled to a 
+total of 42-days or 14-days of non- chargeable leave.  Members may elect to 
+execute any remaining PCL or SCL, or have any regular annual leave executed 
+in conjunction with the parental or adoption leave reimbursed not to exceed 
+the PCL or SCL days authorized.  Any reimbursed leave days in line with this 
+election will not qualify for special leave accrual.
+    b.  Commands may contact OPNAV N130C for guidance concerning members who, 
+in extreme circumstances, cannot commence PCL or SCL within the allotted 
+retroactive period.
+
+11.  Members who are no longer on active duty will not be authorized 
+entitlements outlined herein or following instruction updates.
+Leave recalculations are not authorized.
+
+12.  Birthparent members who do not retain custody of the child(ren) are not 
+covered under the MPLP but are eligible for regular convalescent leave as 
+prescribed by their health care provider.
+
+13.  Neither AC members nor RC members will be extended on active duty for 
+the purposes of taking PCL or SCL.  Members can be extended on active service 
+following a QBE when determined medically necessary by a competent medical 
+authority.
+
+14.  Special Leave Accrual is not authorized due to excess leave earned 
+during MCL, PCL, or SCL.
+
+15.  No member will be disadvantaged in their career, including limitations 
+in their assignments (except where members voluntarily agree to accept an 
+assignment limitation), performance appraisals, or selection for professional 
+military education or training, solely because they take any of the non-
+chargeable leave outlined herein.
+
+16.  MCL, PCL, and SCL must be requested through e-Leave in Navy Standard 
+Integrated Personnel System (NSIPS).  Until NSIPS is fully updated to include 
+the MCL, PCL, and SCL options requests should be selected as *Convalescent* 
+with full annotation in the comment section clarifying purpose for leave 
+either MCL, PCL, or SCL.  Leave approvers will be responsible for ensuring 
+that PC and SC designations are correct and that parental leave does not 
+exceed the MCL, PCL, or SCL limits outlined in this NAVADMIN.  Commands not 
+on e-Leave with NSIPS will manually track MCL, PCL, and SCL until the command 
+begins using e-Leave.
+
+17.  Point of contact for this matter is LT David Rapoff, OPNAV N130C2, at 
+(703) 604-5477/DSN 664, or via e-mail at nxag_n130c(at)navy.mil.
+
+18.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,111 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 101528Z AUG 20 MID510001602166U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 226/20 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/AUG// 
+ 
+SUBJ/PROCESS FOR PARTS AND SUPPLIES PRODUCED BY ORGANIC NAVY ADDITIVE 
+MANUFACTURING// 
+ 
+REF/A/MEMO/OSD/MAR 2019// 
+REF/B/DOC/DON/MAY 2017// 
+REF/C/DOC/USFFC/16OCT2019// 
+REF/D/LTR/NAVSEA 05T/17AUG2018// 
+REF/E/MSG/NAVAIR/141953ZMAR18// 
+REF/F/MSG/CNAF/302311ZMAY19// 
+REF/G/DOC/NAVSEA/30NOV2015// 
+REF/H/DOC/NAVSUP/14APR2020// 
+ 
+NARR/REF A IS DEPSECDEF DIRECTIVE TYPE MEMORANDUM (DTM-19-006) INTERIM POLICY 
+AND GUIDANCE FOR THE USE OF ADDITIVE MANUFACTURING IN SUPPORT OF MATERIAL 
+SUSTAINMENT.   
+REF B IS DON ADDITIVE MANUFACTURING IMPLEMENTATION PLAN V2.0.   
+REF C IS COMUSFLTFORCOMINST 4790.3 JOINT FLEET MAINTENANCE MANUAL.   
+REF D IS NAVSEA GUIDANCE ON THE USE OF ADDITIVE MANUFACTURING.   
+REF E IS NAVAIR INTERIM GUIDANCE TO REQUEST AND EMPLOY ADDITIVE MANUFACTURING 
+TECHNOLOGIES COMPONENTS ON NAVAL AIRCRAFT AND ASSOCIATED EQUIPMENT.   
+REF F IS CNAF INTERIM GUIDANCE TO EMPLOY ADDITIVE MANUFACTURING TECHNOLOGIES 
+ON COMPONENTS, NAVAL AIRCRAFT, AND ASSOCIATED EQUIPMENT.   
+REF G IS NAVSEAINST 4790.8C (WITH CHANGE-1) SHIPS MAINTENANCE AND MATERIAL 
+MANAGEMENT (3-M) MANUAL.   
+REF H IS NAVSUP SUPPLY PROCEDURES PUBLICATION 485.// 
+ 
+POC/MR DAVID LUDWA/CNO WASHINGTON DC/N414/ARLINGTON, VA/ 
+TEL:  703-695-4915/EMAIL:  DAVID.E.LUDWA1.CTR@NAVY.MIL// 
+POC/CAPT XAVIER LUGO/CNO WASHINGTON DC/N414/ARLINGTON, VA/ 
+TEL:  703-614-2246/EMAIL:  MANUEL.X.LUGO@NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN provides information regarding Naval Additive 
+Manufacturing (AM) capabilities and provides steps to obtain Navy Organic AM 
+produced parts and supplies.  While still an evolving option for Navy Supply 
+chains, AM has continued to mature and is in use by the Department of the 
+Navy.  Items ranging from repair parts to consumable supplies have already 
+been produced and provided to the Fleet.  While the list of approved AM parts 
+continues to grow, the current list can be found at the Joint Technical Data 
+Integration (JTDI) Website:  https://www.jtdi.mil.  Navy AM capability 
+currently produces parts made from polymer, composite materials and metal. 
+ 
+2.  The process to obtain AM produced parts or supplies is also evolving and 
+may differ across United States Navy Systems Commands (SYSCOM)/production 
+sites.  The steps provided in this NAVADMIN are intended to be integrated 
+with existing supply/maintenance processes.  An appropriate path forward to 
+meet technical requirements will be recommended by the SYSCOM point of 
+contact (POC).  If AM is determined to be a capable path for production and 
+meets requestor requirements such as timeline and budget, SYSCOM POC will 
+connect requestor with production coordinator for a designated production 
+site(s).  AM pricing and lead time may vary from pricing via normal supply 
+chain options.  Units requiring AM support for parts or supplies should: 
+    a.  If applicable, coordinate with 3MC/Maintenance Department to ensure 
+    maintenance actions are performed and tracked in accordance with 
+reference(c). 
+    b.  Contact SYSCOM POC responsible for the equipment associated with the 
+    required item to discuss AM options and ensure compliance with SYSCOM 
+specific policy per references (d) through (g) or other applicable 
+guidance/updates.  A form with requested information is available on the JTDI 
+website and includes information such as part number, national item 
+identification number, drawing, applicable system, component location, 
+material requirements, and performance requirements.  SYSCOM contact 
+information is provided below. 
+    c.  Send a demand only military standard requisitioning and issue 
+procedures to Navy enterprise resource planning (MILSTRIP) to ensure the item 
+manager can track the demand signal.  For non-national stock number (NSN) AM 
+fabricated items, the supply department shall submit a MILSTRIP BHJ to report 
+the fabrication of non-NSN material.  For NSN AM fabricated material, the 
+supply department shall submit a MILSTRIP DHA to report the fabrication of 
+NSN material. 
+    d.  Coordinate with the identified SYSCOM production coordinator provided 
+by the SYSCOM POC. 
+ 
+3.  For AM items with AM NSNs established, standard requisition policy should 
+be followed in accordance with reference (h).  If off-hull, I-level or above 
+assistance is required for compliant fabrication of an item, standard 
+procedures for this process should be followed. 
+ 
+4.  Unless other existing procedures/work orders or support arrangements are 
+available, obtaining AM items fabricated via the organic industrial base 
+(OIB) above the unit-level can be funded via a DD1149 or DD1348 with a line 
+of accounting.  Units should use appropriate funding in accordance with 
+standard requisition policy.  Questions regarding fiscal policy should be 
+directed to your local comptroller.  Rough order of magnitude cost, schedule 
+and funding documents will be coordinated directly between the SYSCOM POC and 
+the requestor. 
+ 
+5.  For questions, please contact your SYSCOM POC: 
+    a.  NAVSEA:  NAVSEA_AM@navy.mil 
+    b.  NAVAIR:  NAVAIR_AM.fct@navy.mil 
+    c.  NAVFAC or NECF:  NAVFAC_NECF_AM@navy.mil 
+    d.  Other SYSCOM:  NavyAM@navy.mil 
+ 
+6.  Released by VADM R. L. Williamson, OPNAV N4.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

@@ -1,0 +1,102 @@
+RTTUZYUW RHOIAAA0001 0281411-UUUU--RHSSSUU
+ZNR UUUUU
+R 281401Z JAN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 016/16
+
+MSGID/GENADMIN CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/ANNOUNCEMENT OF FEBRUARY 2016 IMPLEMENTATION OF BILLET BASED 
+DISTRIBUTION FUNCTIONALITY INTO THE CAREER MANAGEMENT SYSTEM INTERACTIVE 
+DETAILING//
+
+RMKS/1.  This NAVADMIN announces the Navy’s refining of the distribution 
+process for enlisted personnel with the addition of Billet Based Distribution 
+(BBD) functionality to the Career Management SystemInteractive Detailing 
+(CMS-ID).  BBD matches Sailors to specific billets based on rating, paygrade, 
+and Navy enlisted classification codes.  BBD will enable the Navy to more 
+efficiently assign personnel in support of warfighting readiness. BBD will be 
+implemented in February 2016.
+
+2.  Impact to Sailors:  BBD is transparent to the individual Sailor in that 
+BBD does not change the Sailor negotiation and application process in CMS-ID.  
+Sailors will continue to use CMS-ID to apply for available jobs in the 
+present manner.  To accommodate implementation, BBD will be deployed to the 
+production CMS-ID environment starting 28 January 2016.  The first BBD 
+enlisted requisition will run 5 February 2016, and the February cycle of 
+CMS-ID using the new capability will open for fleet applications on 12 
+February 2016.  The January CMS-ID cycle will be compressed to allow this 
+implementation, and the updated schedule for January and February 2016 can be 
+found on the CMS-ID log-in page: 
+https://www.cmsid.navy.mil/jass/Index.action.  For more information, see the 
+Sailors Whats New for You on the BBD web page: 
+http://www.public.navy.mil/bupers-
+npc/enlisted/billet_based/Pages/default2.aspx.
+
+3.  Past and Ongoing Education Events:  During Summer and Fall 2015, 
+Commander, Navy Personnel Command (NPC) conducted training in the Hampton 
+Roads, Jacksonville-Mayport-Kings Bay, Pacific Northwest, and San Diego 
+areas, training over 1,000 military and civilians across type commander, 
+immediate superior in command, and command levels, on the basics of BBD.  NPC 
+began hosting Defense Collaboration Services (DCS) training in December 2015 
+to continue in-depth activity manning manager (AMM) training.  This training, 
+along with frequently asked questions (FAQ), is posted on the BBD web page.
+
+4.  AMM:  Multiple user roles are available in the new system; however, the 
+primary user will be the AMM.  The role of AMM was created specifically for 
+BBD to manage enlisted personnel and the commands legacy Enlisted 
+Distribution Verification Report (EDVR). AMMs will have access to view 
+detailed information on command personnel and billets allowing for efficient 
+management of the demand signal sent to NPC for distribution action based 
+upon manning control authority prioritization.  The AMMs role is critical in 
+the automated BBD environment, as detailed information is shared across 
+myriad users and personnel managers.  It is the AMMs responsibility to ensure 
+this information is accurate.  As of 30 December 2015, 4,012 unit 
+identification codes have been verified by NPC and 3,894 initial baseline 
+alignments have been sent to commands or designated manning managers to 
+review, validate and return to NPC.
+
+5.  EDVR Replacement:  The legacy EDVR will be replaced by an Enlisted 
+Distribution Verification Process (EDVP).  Instead of a published report, the 
+process of validating enlisted manning will use on-line information provided 
+in CMS-ID.  This change provides access to near real-time information for 
+better distribution of enlisted Navy personnel.
+
+6.  Requesting Access:  Fleet users may begin requesting access to the new 
+system now.  All users, with the exception of the enlisted Sailors role used 
+for orders negotiation in CMS-ID, must resubmit a System Authorization Access 
+Request  Navy (OPNAV 5239/14) and submit a new Distribution Systems Request 
+Form (NAVPERS 1330/3). Guidance on filling out and submitting these forms can 
+be found on the BBD web page on the NPC website under BBD Access:
+http://www.public.navy.mil/bupers-
+npc/enlisted/billet_based/Pages/default2.aspx.  Access issued for fleet users 
+prior to BBD delivery will initially be for the CMS-ID test website.  Upon 
+BBD delivery, all accounts will automatically switch to allow access to the 
+production CMS-ID site.  Users will be granted varying levels of access to 
+information in BBD based on their assigned role in the command.
+
+7.  Guidance and Training:  The BBD web page provides additional information 
+on pertinent instructions, including the new EDVP Manual, a BBD User Guide, 
+links to the CMS-ID test and production websites, training materials and 
+links to DCS training events, and FAQs.
+
+8.  For questions or access to supplemental information, go to the BBD web 
+page at:  http://www.public.navy.mil/bupers-
+npc/enlisted/billet_based/Pages/default2.aspx or contact your commands PERS-
+4013 Placement Coordinator.
+
+9.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

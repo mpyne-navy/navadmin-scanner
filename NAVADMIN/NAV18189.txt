@@ -1,0 +1,70 @@
+UNCLASSIFIED
+ROUTINE
+R 031910Z AUG 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 189/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/UPDATE TO THE AUGUST 2018 (CYCLE 103) NAVY-WIDE EXAMINATIONS FOR 
+ADVANCEMENT OF SELECTED RESERVE PERSONNEL TO E4 THROUGH E6//
+
+REF/A/MSG/CNO WASHINGTON DC/141447ZMAY18//
+REF/B/DOC/BUPERS/2NOV07//
+NARR/REF A IS NAVADMIN 120/18 AUGUST 2018 (CYCLE 103) NAVY-WIDE EXAMINATIONS 
+FOR ADVANCEMENT OF SELECTED RESERVE PERSONNEL TO E4 THROUGH E6.  
+REF B IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.//
+
+RMKS/1.  This NAVADMIN announces the update to reference (a) and Sailors in 
+the MMA (Auxiliary) and MMW (Submarine Weapons) ratings accessed into the 
+United States Navy Reserve.  In support of Reserve initiatives to retain 
+talent and increase Reserve Component (RC) to Active Component (AC) 
+permeability, MMA and MMW rated Sailors are no longer required to convert to 
+the Machinist Mate (MM) rating when transitioning into the RC.  This change 
+will allow these Sailors to maintain their critical skillsets and remain 
+better aligned with the career paths of their AC counterparts, enhancing 
+their ability to move between the Active and Reserve components.  
+Accordingly, MMA and MMW candidates must take the appropriate exam that 
+matches their specific rate.
+
+2.  Educational Services Officers (ESO) should ensure that MMA exams are 
+ordered for MMA candidates and MMW exams are ordered for MMW candidates.  
+ESOs should contact Navy Education and Training Professional Development 
+Center (NETPDC) to order exams for those Sailors whose initial exams were not 
+ordered in the correct rate.
+Exams shall be ordered via message or in message format via e-mail to 
+sfly_N321_exam_order(at)navy.mil following the guidelines in chapter 4 of 
+reference (b).  Ensure a point of contact is included in the message.  
+Deadline to order additional selected reserve exams is 4 September 2018.
+
+3.  Any additional information regarding this cycle will be posted on the 
+Navy Enlisted Advancement System (NEAS) website.
+
+4.  Points of contact:
+    a.  Navy Personnel Command Customer Service Center:  866-U-ASK- NPC, or 
+via e-mail at uasknpc(at)navy.mil.
+    b.  SCI exam questions and orders: (850) 473-5867/DSN 753, or via e-mail 
+at sfly_cryptologic.products(at)navy.mil.
+    c.  Exam orders, records, and discrepancies:  (850) 473-6148/DSN 753, or 
+via e-mail at sfly_N321_exam_order(at)navy.mil, or 
+sfly_N321_discrepanc(at)navy.mil.
+
+5.  Retain this NAVADMIN until policy changes are incorporated in reference 
+(b), superseded or canceled, whichever occurs first.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

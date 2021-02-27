@@ -1,0 +1,132 @@
+UNCLASSIFIED
+ROUTINE
+R 291241Z MAR 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 076/18
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N4/MAR//
+
+SUBJ//GUN CONTROL ACT OF 1968 CRIMINAL JUSTICE INFORMATION REPORTING 
+REQUIREMENTS//
+
+REF/A/DOC/SECNAV MEMO 22 JAN 18//
+REF/B/DOC/18 U.S.C. SECTION 921//
+REF/C/DOC/34 U.S.C. SECTION 40901//
+REF/D/DOC/DODI 6400.06//
+REF/E/DOC/DODD 5400.11//
+NARR//REF A IS SECRETARY OF THE NAVY (SECNAV) MEMO TO THE CHIEF OF NAVAL 
+OPERATIONS (CNO), COMMANDANT OF THE MARINE CORPS (CMC) AND DIRECTOR, NAVAL 
+CRIMINAL INVESTIGATIVE SERVICE (NCIS) DATED 22 JANUARY 18.  
+REF B IS TITLE 18, U.S.C., SECTION 921 ET SEQ, CRIMES AND CRIMINAL PROCEDURE.  
+REF C IS TITLE 34, U.S.C., SECTION 40901, ESTABLISHMENT OF THE NATIONAL 
+CRIMINAL INSTANT BACKGROUND CHECK SYSTEM.  
+REF D IS DOD INSTRUCTION 6400.06, 26 MAY 2017, DOMESTIC ABUSE INVOLVING DOD 
+MILITARY AND CERTAIN AFFILIATED PERSONNEL.  REF E IS THE DOD PRIVACY PROGRAM, 
+29 OCTOBER 2014.//
+POC/OPNAV N462/MR. MARK SINDER/TEL: 703-695-5534/
+EMAIL: MARK.SINDER(AT)NAVY.MIL//
+
+RMKS/1.  Per reference (a), the Secretary of the Navy (SECNAV) has directed 
+compliance with the Gun Control Act of 1968.  This NAVADMIN ensures accurate 
+and timely reporting of criminal justice information, including records 
+related to unlawful drug use, felony indictments and convictions, domestic 
+violence convictions, and other conditions which preclude the receipt, 
+possession, or transfer of firearms and ammunition, per reference (b), to the 
+Criminal Justice Information Services (CJIS) Division of the Federal Bureau 
+of Investigation (FBI) for entry in the National Instant Criminal Background 
+Check System (NICS).  Compliance with this NAVADMIN is required whether a 
+defense criminal investigative organization, Navy law enforcement 
+organization, preliminary investigating officer, or any other investigating 
+entity conducts the investigation.  Reporting requirements under this 
+NAVADMIN and references (b) through (d) are separate from reporting 
+requirements per Department of Defense Instruction (DoDI) 5505.11, 
+Fingerprint Card and Final Disposition Report Submission Requirements, which
+will be forthcoming under separate correspondence. 
+
+2.  Policy.  All criminal justice information in possession of the Navy which 
+affects a persons eligibility to receive, possess, or transfer firearms or 
+ammunition per reference (b) will be transmitted to the Naval Criminal 
+Investigative Service (NCIS) for forwarding to the FBI, using the format 
+provided in paragraph 4 of this message by the most reliable and expeditious 
+means available.
+
+3.  Responsibilities
+    a.  Deputy Chief of Naval Operations, Manpower, Personnel,
+    Training and Education/Chief Of Naval Personnel (CNO N1
+    /CNP).  Director, 21st Century Sailor Office (OPNAV N17) will forward
+    criminal justice information to NCIS for all service members who are
+    unlawful drug users.
+       (1) For reporting purposes, a service member is an unlawful drug user 
+per reference (b) when any of the following has occurred:
+           (a) Court-martial conviction for wrongful use of a controlled 
+substance;
+           (b) Non-judicial punishment (NJP) finding of guilty for wrongful 
+use of a controlled substance;
+           (c) Enlisted Administrative Separation Board finding of misconduct 
+drug abuse (MILPERSMAN 1910-146); or
+           (d) Officer Board of Inquiry (BOI) finding of misconduct  unlawful 
+drug involvement basis (SECNAVINST 1960.6C).
+      (2) OPNAV N17 will indicate in their submission to NCIS that the 
+service member should remain in the NICS database for a period of one year, 
+per Department of Justice guidance.
+      (3) Every six months, OPNAV N17 will forward to Vice Director, Navy 
+Staff a list of commands with service members who have outstanding positive 
+drug results greater than six months with no reported adjudication.
+      (4) OPNAV N17 will update the criminal justice information sent to the 
+FBI via NCIS as necessary when notified by a command that a service members 
+adjudication result has changed.  For example, when an NJP guilty finding, 
+court-martial conviction, or administrative separation misconduct finding is 
+overturned.
+    b.  The Office of the Judge Advocate General (OJAG) is
+    responsible for tracking all courts-martial cases that meet the
+    reporting requirements per reference (b) through the appellate
+    process.  OJAG will update criminal justice information sent to the
+    FBI via NCIS as necessary during the appellate process.
+    c.  Naval Legal Service Command (NLSC).  NLSC will make available
+    or forward, and update as appropriate upon final disposition,
+    criminal justice information to NCIS for service members who have:
+     (1) Been referred to a general-court martial for a crime punishable by 
+more than one year confinement;
+     (2) Been convicted by a general-court martial for any offense punishable 
+by more than one year confinement (regardless of actual confinement awarded);
+     (3) Been found incompetent to stand trial or found not guilty by reason 
+of lack of mental responsibility pursuant to articles 50a and 76b of the 
+Uniform Code of Military Justice; or
+     (4) Been convicted by a special or general court-martial of a crime of 
+domestic violence as defined in reference (d).
+    d.  Navy Personnel Command (NPC) will forward criminal justice
+    information to NCIS when a service member has been separated from
+    the Navy with a dishonorable discharge or dismissal as adjudged by a
+    general court-martial for which appellate review is complete.
+    e.  Commanding Officers (COs).  COs will forward criminal justice
+    information to NCIS for every member within their command who is a
+    fugitive from justice.
+    (1) A person is a fugitive from justice when he or she has fled from any 
+state to avoid prosecution; who leaves the state to avoid giving testimony in 
+any criminal proceeding; or who knows that charges have been preferred or are 
+otherwise pending before any civilian or military court against such person, 
+and leaves the state of prosecution without proper authority.
+   (2) COs should consult with a legal advisor prior to reporting a service 
+member to NCIS for being a fugitive from justice.
+
+4.  Criminal justice information will be sent to NCIS by the responsible Navy 
+organization in accordance with reference (e) and in the following manner.
+    a. Submissions will contain a spreadsheet with the following data
+    fields:  Service member (1) Full name, (2) Sex, (3) Race, (4)
+    Height, (5) Weight, (6) Eye color, (7) Hair color, (8) Place of
+    birth, (9) Date of Birth, (10) Social security number; and (11)
+    Incident number, (12) Submitter contact information, (13) Reason for
+    service member entry into NICS.
+    b. Submit by email to NCIS at nicssubmission@ncis.navy.mil.
+
+5.  Released by VADM D. R. Smith, N4//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

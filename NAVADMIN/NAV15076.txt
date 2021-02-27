@@ -1,0 +1,68 @@
+UNCLASSIFIED/
+ROUTINE
+R 311418Z MAR 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 076/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/
+
+SUBJ/CHANGE TO CHIEF OF NAVAL OPERATIONS INTEGRATED VULNERABILITY ASSESSMENT 
+(CNOIVA), DEFENSE CRITICAL INFRASTRUCTURE PROGRAM (DCIP) ASSESSMENT, AND 
+MISSION ASSURANCE ASSESSMENT-NAVY (PILOT) (MAA-N(P)) SCHEDULE FOR SELECT NAVY 
+COMMANDS DURING FISCAL YEAR (FY) 2015//
+
+REF/A/DOC/DEPT OF DEFENSE VULNERABILITY ASSESSMENT BENCHMARKS/1JAN2013//
+REF/B/MSGID/021355Z OCT 14/CNO WASHINGTON DC/N4//
+REF/C/DOC/DODI 2000.16/31OCT2006//
+REF/D/DOC/OPNAVINST 3300.53C/26MAY2009//
+NARR/REF A PROMULGATED THE FY15 CNOIVA, DCIP, AND MAA-N(P) SCHEDULE.
+REF B IS THE DEPARTMENT OF DEFENSE (DOD) ANTITERRORISM STANDARDS.
+REF C IS THE NAVY ANTITERRORISM PROGRAM.  REF D IS THE DOD VULNERABILITY 
+ASSESSMENT BENCHMARKS.
+POC/CDR A. L. SCHREIBER/CNO WASHINGTON DC/N462/LOC: ARLINGTON, VA/
+TEL:  (703) 695-5526, ANDREA.SCHREIBER(AT)NAVY.MIL AND MR. ERIC
+HAMMETT/OPNAV N462/LOC: ARLINGTON, VA/ TEL: (703) 695-5521, ERIC.
+HAMMETT(AT)NAVY.MIL//
+
+RMKS/1. This NAVADMIN promulgates CNOIVA, DCIP and MAA-N(P) assess-ment 
+schedule for FY15.  Changes were made based on installation operational 
+commitment conflicts or changes in assessment priorities.
+
+2. References (a) and (b) require Navy commands that have an Antiterrorism 
+program to undergo a higher headquarters integrated vulnerability assessment 
+(CNOIVA) using reference (c).  Other commands require an assessment based on 
+the critical infrastructure program criteria.  These are annotated by *CIP.* 
+The development of the Navy*s Mission Assurance assessment program drives the
+MAA-N pilot assessment which consists of two phases: a pre-assessment site 
+visit for installation and mission data gathering and the on-site assessment.  
+See reference (d) for more detail on these programs.
+
+3. Revised FY15 assessment schedule by date, location and type:
+
+20-24 Apr 2015  NAS Oceana                       CNOIVA-CIP
+4-8 May 2015    NAVHOSP Pensacola                CNOIVA
+18-22 May 2015  NAVBASE Coronado                 CNOIVA
+1-5 Jun 2015    NAVBASE Guam                     MAA-N(P) Pre-Site
+15-19 Jun 2015  NAVSUPPACT Bethesda              CNOIVA-CIP
+15-19 Jun 2015  Washington Navy Yard             CIP
+13-17 Jul 2015  NAF El Centro                    MAA-N(P) Pre-Site
+20-31 Jul 2015  NCTAMS PAC DET Puget Sound       CIP
+10-21 Aug 2015  NAVCOMTELSTA Jacksonville        CIP
+10-21 Aug 2015  NAVBASE Guam                     MAA-N(P)
+7-11 Sep 2015   NAF El Centro                    MAA-N(P)
+21-25 Sep 2015  NAVSUPPACT Hampton Roads         CNOIVA-CIP
+
+4. Further changes to this schedule must be coordinated through the POCs.
+
+5. Released by VADM P. H. Cullom, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

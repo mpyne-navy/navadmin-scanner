@@ -1,0 +1,80 @@
+UNCLASSIFIED//
+ROUTINE
+R 131615Z JUL 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 160/15
+
+SUBJ/2014 ADMIRAL STAN ARTHUR AWARDS ANNOUNCEMENT//
+
+REF/A/MSG/CNO WASHINGTON DC/R 181942Z FEB 15//
+
+AMPN/ADMIRAL STAN ARTHUR AWARD CALL FOR 2014 NOMINATIONS MESSAGE.//
+POC/LCDR REBECCA GELS/N413M/ARLINGTON, VA/TEL: (703) 695-4861/EMAIL: 
+REBECCA.V.GELS(AT)NAVY.MIL//
+
+RMKS/1.  A Flag/SES panel reviewed candidate nominations and selected the 
+2014 Admiral Stan Arthur Award winners IAW ref A.  This award recognizes 
+military and civilian logisticians who epitomize excellence in logistics 
+planning and execution.  I am pleased to announce the 2014 Admiral Stan 
+Arthur Award winners:
+     A.  2014 Military Logistician of the Year is LCDR Mark Bowmer, Naval 
+Reactors (NR) Supply Chain Management (SCM) Directorate (NRSCMD) Operations 
+Manager, NAVSUP Weapon Systems Support (NAVSUP WSS).  Addressing NRSCMD 
+limitations of analyzing SCM data between disparate NAVSUP and NR business 
+systems, LCDR Bowmer developed the Supply Procurement Integrated Data Extract 
+Report (SPIDER) tool.  SPIDER provides a new capability to conduct detailed 
+multivariable SCM analysis of $75M in procurements, $100M in sales, and 5,500 
+contracts, presenting a common operating picture (COP) that cuts across the 
+challenges associated with a transitioning generational workforce and the 
+related struggle to maximize efficiencies of ERP.  The use of SPIDER 
+facilitated a 26% decrease in administrative lead time for high priority 
+requirements, innovative contracting solutions such as Blanket Purchase 
+Agreements (BPAs) that yielded an 81% decrease in unfilled customer orders, 
+and the identification of deficiencies in material drawings affecting 68 
+contracts valued at $716K.  Furthermore, SPIDER is being exported for use by 
+other NAVSUP WSS directorates.
+     B.  2014 Civilian Logician of the Year is Mr. Dwayne Lloyd, Fleet 
+Modernization and Installation Division Head and 4.2 Installations Competency 
+Lead (SPAWAR).  Mr. Lloyd ensured maximum support to the Fleet by delivering 
+the most robust, complex IT systems anywhere in the world.  His leadership 
+revitalized the quality assurance process, doubled waterfront installation 
+support, and instilled a culture of teamwork among his personnel that led to 
+the most technically complete C4ISR network upgrades with the Consolidated 
+Afloat Networks and Enterprise Services (CANES) installations in 2014.  
+Additionally, Mr. Lloyd implemented a number of innovative approaches to 
+maximize Enterprise resources, reducing unplanned requirements growth by 40% 
+and driving down costs by nearly 50% from FY13 to FY14.
+     C.  2014 Logistics Team of the Year is EUCOM/AFRICOM - CTF 63 Logistics 
+Operations Team.  The CTF 63 Logistics Operations Team supported the CNO's 
+Maritime Strategy and delivered on all three tenants of the CNO's FY14 
+Navigation Plan.  "Warfighting First" was accomplished by coordinating 
+logistics support for the deployment of SM-6 missiles and the four MQ-8C 
+Firescout deployments.  "Operate Forward" was accomplished by providing 
+logistics support for two amphibious platform surge deployments, two Forward 
+Deployed Naval Forces - Europe (FDNF-E) units in Rota, Spain, and the maiden 
+deployment for USNS SPEARHEAD (JHSV-1).  The tenant of "Be Ready" was 
+accomplished through the movement of 1,971 tons of material (to include 668 
+CASREP requirements), coordinating 138 explosives movement evolutions 
+totaling 1,002 tons of ordnance, and redirecting orders from other theater 
+assets to ensure zero gaps in sustainment support for the warfighter.
+
+2.  A virtual awards ceremony, via video teleconference, with ADM Arthur 
+(ret), VADM Cullom, and the winning members commands is scheduled for 24 July 
+2015.  The OPNAV POC will contact winning commands to make arrangements for 
+the ceremony.
+
+3.  My heartiest congratulations to the winners!  Your superlative innovative 
+solutions resulted in quantifiable benefits to the United States Navy and 
+enhanced the logistics profession.  BRAVO ZULU!
+
+4.  Released by VADM P. H. Cullom, OPNAV N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

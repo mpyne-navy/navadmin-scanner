@@ -1,0 +1,417 @@
+UNCLASSIFIED/
+REROUTE DETECTED  
+ROUTINE
+R 301636Z APR 15 PSN 994218K33
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 106/15
+
+SUBJ/SELECTIVE REENLISTMENT BONUS AND POLICY UPDATE//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+REF/A/MSG/CNO WASHINGTON DC/101942ZAPR14//
+REF/B/MSG/CNO WASHINGTON DC/172244ZMAY11//
+REF/C/MSG/CNO WASHINGTON DC/141500ZOCT11//
+REF/D/MSG/CNO WASHINGTON DC/102129ZDEC12//
+REF/E/MSG/CNO WASHINGTON DC/221403ZMAR13//
+REF/F/DOC/OPNAV/30JAN07//
+REF/G/OSD DTM/21MAY08//
+REF/H/OSD DTM/6FEB09//
+NARR/REF A IS NAVADMIN 81/14, SELECTIVE REENLISTMENT BONUS AND POLICY UPDATE.  
+REF B IS NAVADMIN 166/11, FY-11 SELECTIVE REENLISTMENT BONUS AWARD LEVELS AND 
+POLICY UPDATE.  REF C IS NAVADMIN 308/11, ENLISTED SUPERVISOR RETENTION PAY 
+PROGRAM.  REF D IS NAVADMIN 370/12, POLICY UPDATE TO ENLISTED SUPERVISOR 
+RETENTION PAY (ESRP) MULTIPLES.  REF E IS NAVADMIN 070/13 NUCLEAR TRAINED 
+SAILOR APPLICATIONS TO OFFICER COMMISSIONING PROGRAMS.  REF F IS OPNAVINST 
+1160.8A, SELECTIVE REENLISTMENT BONUS (SRB) PROGRAM. REF G IS OSD DTM, 
+REPAYMENT OF UNEARNED PORTIONS OF BONUSES, SPECIAL PAY, AND EDUCATIONAL 
+BENEFITS OR STIPENDS.  REF H IS OSD DTM, REPAYMENT OF UNEARNED PORTIONS OF 
+BONUSES, SPECIAL PAY, AND EDUCATIONAL BENEFITS OR STIPENDS.//
+
+RMKS/1.  This NAVADMIN announces revised selective reenlistment bonus (SRB) 
+award levels for active component (AC) and full time support (FTS).  This 
+NAVADMIN supersedes reference (a).
+
+2.  Increased award levels are effective immediately and decreased levels are 
+effective 30 days after the release of this NAVADMIN.
+
+3.  Continuing with the policy initiated by reference (b), reenlistment 
+requests for the following SRB award levels will be approved based on quota 
+availability.  Eligible Sailors desiring SRB reenlistment are encouraged to 
+work with their chain-of-command as early as possible within their 
+reenlistment window to maximize potential for SRB.  Navy Personnel Command 
+Enlisted Career Administration Division (PERS-81) maintains the current list 
+of SRB eligible ratings/skills based on available quotas at the following 
+website: http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/pages/srb.aspx.  For those commands with 
+limited internet access, command career counselors should contact Enlisted 
+Active Programs (PERS-811) directly for the latest updates.
+
+4.  FTS new reenlistment contracts for SRB are not currently being accepted.  
+AC SRB award levels are as follows (Note:  An *** indicates level located in 
+other sections of paragraph 4; a *-* indicates a reduction from previous 
+award level; a *+* indicates an increase from previous award level):
+
+Tier One:
+30,000 DOLLAR AWARD CEILING
+RATING               NEC       ZONE A  ZONE B   ZONE C  NOTES
+IT        0000      1.0      *       0.0     B,H
+ND        5342       *      2.0       *
+SO        5326     +3.0      *        *
+STG        0000      0.0    +2.0      0.0     H
+
+45,000 DOLLAR AWARD CEILING
+AM        7225      0.0    +2.0      0.0
+CTI-Eastern Europe           9RUS      0.0     1.0      0.0     B
+CTI-Latin/S America          9SPA      0.0     1.0      0.0     B
+CTN        0000     +1.0      *        *      B,H
+CTR        0000     +1.5     0.0      0.0     B,H
+CTR        9138     -0.0     0.0      0.0
+EN        0000      0.0     +1.0     0.0     H
+ETSS COMM       14XXA      *      2.5      0.0     D,E,F
+FT        13XX       *      1.0      0.0     D
+GSE        0000      0.0    +1.5     +1.5     H
+HM        8402      0.0      *       1.5
+MT        33XX       *     +1.0      0.0     D
+OS        0318      2.0     2.0      0.0
+OS        0319      0.0     2.5      1.0
+OS        0324      1.5    +1.5      0.0
+SB        5352     -3.0      *        *
+STS        0000       *      2.0      0.0     H
+
+60,000 DOLLAR AWARD CEILING
+CSSS         0000     -2.0     0.0      0.0     E,H
+CTR        9149      0.0    +2.0     +2.5     A,B
+ETSS COMM       14CM      0.0    -0.0      0.0     K
+ETSS NAV       14XXB      *      1.5      0.0     D,E,F
+FCA         0000     +3.0      *       0.0     H
+HM        8402      0.0     5.0       *
+HM        8403     -2.0     5.0     -2.0
+HM        8425      0.0    -3.5     -1.5
+HM        8427      4.0     2.0      0.0
+HM        8494      0.0     4.0      1.5
+IS        3913      0.0     3.0      1.5     B
+ITS        27XX       *      2.5      0.0     B,D
+MMSS AUX       42XXA      *     +1.5      0.0     D,E
+MMSS WEP       42XXB      *      2.0      0.0     D,E
+ND        5342       *       *       2.0
+
+75,000 DOLLAR AWARD CEILING
+CTI-MidEast/N Africa         9ARB      3.0    -1.0      0.0     B
+CTI-MidEast/N Africa         9PES      3.0     3.0      0.0     B
+CTN        0000       *     +4.0      3.0     B,H
+CTN        9308     -6.0    +6.0     +6.0     A,B
+EMNUC(SS)       3354/64   9.0     6.5      0.0     C
+EMNUC(SW)       3384/94   7.5     6.5      0.0     C
+ETNUC(SW)       3383/93   9.0      *       0.0     C
+MMNUC(SW)       3385/95   8.5      *       0.0     C
+EOD        5333      4.5     4.0      0.0
+EOD        5335      6.0     5.0      5.0
+ETSW        0000      0.0     1.5      1.0     E,H
+FC        0000      0.0    -1.5      1.0     H
+ITS        2781S     0.0     0.0     -2.5     B,D
+ITS        27XX     -3.0      *       0.0     B,D
+ND        5342      7.0      *        *
+STG        0416      0.0    -6.0      6.0
+
+100,000 DOLLAR AWARD CEILING
+ELTNUC(SS)       3356/66   11.0    9.0      0.0     C
+ELTNUC(SW)       3386/96   9.5     9.0      0.0     C
+ETNUC(SS)       3353/63   12.0    8.5      0.0     C
+ETNUC(SW)       3383/93    *      9.0      0.0     C
+MMNUC(SS)       3355/65   11.0    9.0      0.0     C
+MMNUC(SW)       3385/95    *      9.0      0.0     C
+EOD        5337      0.0     7.0      7.0
+ND        5341      0.0     0.0      5.0
+SB        5352       *      5.0      5.0
+SB        5392B    +8.0    -8.5      0.0     D
+SO        5323     +8.0    -8.5     -7.5
+SO        5326       *     -8.0      7.0
+SO        5392A    +8.0    -8.5      0.0     D
+STS        0416S     0.0     8.0      8.0     D
+
+Tier Two:
+30,000 DOLLAR AWARD CEILING
+CSSW        0000     +1.5     0.0      0.0     H
+HM        8401      1.5      *       0.0     I
+LSSS         0000     -0.5     0.0      0.0     E,H
+YNSS         0000      1.0     0.0      0.0     E,H
+45,000 DOLLAR AWARD CEILING
+AC        0000     +2.0    +2.0      0.0     H
+AG        0000     +1.0     0.0      0.0     H
+CB        5931      0.0     3.5      3.0
+CB        5932     +4.0    +2.5      0.0
+CTM        9229      3.0     2.0      1.0     A,B
+CTT        1702      0.0     1.0      0.0     A,B
+CTT        9135      0.0     2.0      1.0     A,B
+CTT        173X      0.0     1.0      0.0     A,B,D
+DC        0000      0.0     1.0      0.0     H
+GSM        0000      0.0    +1.5      0.0     H
+HM        8401       *     +1.5      0.0
+HM        8493     -2.5     0.0      0.0
+HM        8541      0.0     1.0      0.0
+HT        0000     -0.0    -0.0      0.0     H
+IC        0000      0.0    +1.5      0.0     H
+IT        0000       *     +2.0      0.0     B,H
+MMSS AUX       42XXA    +2.5      *       0.0     D,E
+MMSS WEP       42XXB    +3.0      *       0.0     D,E
+MR        4402      0.0    +2.5      0.0
+MT        33XX      1.0      *       0.0     D
+
+60,000 DOLLAR AWARD CEILING
+CTR        9169     +2.0    +2.0      0.0     A,B
+ETSS COMM       14EM      0.0    -0.0      0.0     K
+ETSS COMM       14XXA    -3.0      *       0.0     D,E,F
+ETSS NAV       14XXB    -2.0      *       0.0     D,E,F
+FT        13XX     -0.0      *       0.0     D
+
+
+75,000 DOLLAR AWARD CEILING
+FCA         0000       *     +4.0      0.0     H
+STS        0000     -1.5      *       0.0     H
+
+Tier Three:
+30,000 DOLLAR AWARD CEILING
+ABE        0000      1.0     0.0      0.0     H
+ABF        0000      1.0     0.0      0.0     H
+ABH        0000      1.0     0.0      1.0     H
+AG        7412      0.0    +1.5      0.0     J
+AM        0000      1.0    +1.0      0.0     H
+AME         0000      1.0    +1.5      0.0     H
+AO        0000      1.0     0.0      0.0     H
+HM        8506      0.0     1.0      0.0
+HM        8708      0.0     1.0      0.0
+HM        8753      0.0     1.0      0.0
+HM        8765      0.0     1.0      0.0
+
+45,000 DOLLAR AWARD CEILING
+AWO        0000      0.0     2.0      0.0     H
+AWO        7841     -1.0     0.0      0.0
+CB        5633      2.0     2.0      2.0
+EM        0000      1.0     1.0      0.0     H
+LCAC         0304     -2.0    -1.0      0.0     G
+MMSW        0000     -0.0     0.0      0.0     E,H
+NCCR        2186      0.0    +1.0     +1.0
+
+5.  Notes
+    a.  The SRB for this rating or Navy enlisted classification (NEC) is tied 
+to an incumbent billet or to orders negotiated for the next billet.  Commands 
+must verify if the member is currently in, or has orders to a billet 
+requiring this NEC and annotate this verification in the comments section of 
+the precertification request.  Personnel not in their negotiating window at 
+the time of reenlistment should sign NAVPERS 1070/613, Administrative 
+Remarks, agreeing to take orders to an NEC billet.  The NAVPERS 1070/613 
+should be forwarded to member*s respective detailer.
+    b.  An SRB approval for all CT, IS, IT, and ITS ratings will be 
+contingent upon member having a current single scope background investigation 
+(SSBI), an active SSBI or recent submission of an SSBI package.  Commands 
+must verify the member has a current SSBI, active SSBI, or has submitted an 
+SSBI package and make note of this in the comments section of the 
+precertification request.
+    c.  Reenlistment bonuses for nuclear trained personnel:
+        (1) Reenlistment compensation for zone 1-3 nuclear trained personnel 
+holding a nuclear supervisor NEC shall be provided under the enlisted 
+supervisor retention pay (ESRP) program in accordance with (IAW) policies and 
+procedures detailed in reference (c). Current ESRP multiples are detailed in 
+reference (d).
+        (2) SRB entitlement for eligible nuclear-trained service members who 
+reenlist after applying for an officer program will be held pending selection 
+results.  The date on which conditional release is approved by Nuclear 
+Propulsion Programs (N133) per reference (e) is considered the date of the 
+application to an officer program.
+    d.  Letters appearing with an NEC are only for administrative use.
+    e.  Subsurface or surface designation does not mean an individual must be 
+subsurface or enlisted surface warfare specialist qualified, but it indicates 
+the component of the rating in which they can reasonably be expected to 
+serve.  Training, qualifications, and previous or projected duty assignments 
+at sea will indicate the appropriate rating component.  When using the force 
+management system and the officer personnel information system (OPINS) to 
+input an SRB precertification request, use the rating (with appropriate 
+suffix designation/NEC) as specified in this NAVADMIN.  For example, a 
+surface electronics technician with no NEC would submit 'ETSW' on 
+precertification for rating.
+    f.  Subsurface NECs.  Subsurface electronics technician 14XXA identifies 
+all subsurface electronics technician communications Sailors who hold NECs 
+beginning with 14.  Subsurface electronics technician navigation 14XXB 
+identifies subsurface electronics technician navigation Sailors and includes 
+all subsurface electronics technician navigation NECs beginning with 14.
+    g.  Ratings eligible for NEC 0304 are:  AWO, ET, QM, and OS.
+    h.  NEC 0000 (commonly referred to as *quad zero*) is listed here to 
+establish that Sailors in these ratings/career fields can hold any or no NEC 
+and still be qualified for the SRB provided they meet all other applicable 
+non-NEC related criteria.
+    i.  E-3 to E-6 personnel only.
+    j.  E-4 to E-6 personnel only.
+    k.  This skill was rolled into 14XXA.
+
+6.  Littoral Combat Ship (LCS) Guidance.  Sailors assigned to LCS platforms 
+or with orders to an LCS platform who possess multiple NECs specifically 
+required for LCS assignment are authorized to reenlist for the most lucrative 
+SRB-eligible NEC, regardless of assigned rating.
+
+7.  Reenlistment Opportunity:
+    a.  Sailors serving in tier one skills are eligible to reenlist any time 
+within the same fiscal year of their end of active obligated service (EAOS).
+    b.  Sailors serving in a tier two or three skill must reenlist in the 
+same fiscal year as their EAOS and within 90 days of their EAOS.
+    c.  Sailors serving in a tier two or three skill and eligible for combat 
+zone tax exclusion (CZTE) are authorized to reenlist anytime within the same 
+fiscal year as their EAOS.  These Sailors along with command career 
+counselors (CCC) must annotate in the remarks section of the precertification 
+request whether they are currently CZTE eligible or serving in a qualified 
+hazardous duty area.  A condition of approval of their precertification 
+request is that the Sailor*s reenlistment occurs in a month during which CZTE 
+qualification applies.
+    d.  Sailors serving in tier two or tier three SRB skills who received an 
+*early promote* in block 45 of their most recent regular periodic evaluation 
+will be allowed to reenlist early any time within the fiscal year of their 
+EAOS.  No transfer, concurrent, or special evaluations will apply.  Sailors 
+advanced within the 12 months prior to their EAOS will be allowed to 
+substitute the last regular periodic evaluation in their previous paygrade.  
+Personnel must e-mail a signed copy of the evaluation to PERS-81 once their 
+precertification has been submitted.  This requirement is only for those that 
+fall under the provisions of this paragraph.
+
+8.  SRB Precertification Requirements:
+    a.  Career Waypoints - Reenlistment (C-WAY-REEN):  Commands are 
+authorized to submit SRB reenlistment requests prior to a member receiving a 
+C-WAY-REEN quota; however, the C-WAY-REEN quota request must have been 
+submitted and the SRB request will not be processed until the member has 
+received C-WAY-REEN confirmation.  SRB requests without C-WAY-REEN approval 
+will still be rejected in the OPINS to keep the command informed of potential 
+SRB approval issues.  Once a member has an approved C-WAY-REEN quota, the 
+command should contact PERS-81 to clear any rejections.
+    b.  Commands are required to submit SRB reenlistment requests to PERS-81 
+via OPINS or Navy standard integrated personnel system (NSIPS) 35-120 days in 
+advance of the Sailor’s requested reenlistment date.  Requests submitted less 
+than 35 days prior to the requested reenlistment date will be rejected; 
+however, commands may contact PERS-81 for waiver eligibility and procedures.  
+Sailors must have approved precertification before reenlisting.  The 
+servicing personnel office is responsible for verifying the reenlistment, 
+posting the contract, releasing the first payment, and verifying the master 
+military pay account.
+    c.  Sailors with approved precertification who do not reenlist on the 
+date or for the term specified in the precertification message must have 
+their command contact PERS-81 to initiate a reenlistment cancellation to 
+avoid placing Sailors in an overpaid status.
+    d.  To validate an inoperative extension of enlistment and expedite 
+processing of an SRB request, include the following information in the 
+remarks paragraph of the request:  term, narrative reason, authority, and 
+execution date of all inoperative extensions.  Failure to verify extension 
+will cause processing delays and may result in rejection of the request or an 
+approval at a lower amount.
+    e.  Sailors must obtain an approval for extension from PERS-81 in order 
+to minimize the potential for loss of SRB eligibility.
+
+9.  NEC-Specific SRB and Lateral Conversions.  Acceptance of an NEC-specific 
+SRB contract indicates an agreement between the Sailor and the Navy to use 
+skills attributed to the NEC during the Sailor’s enlistment to meet fleet 
+readiness requirements.  In subsequent tours, a Sailor must be willing to be 
+detailed during the normal projected rotation date window to an available 
+billet within the SRB contracted NEC, consistent with sea-shore flow 
+requirements. Lateral conversions must follow reference (f), paragraph 12d.
+Lateral conversion requests will not be processed more than nine months 
+before the EAOS.  Conversions to a rate with a lower award level will not be 
+approved.  Personnel in a *closed-loop* NEC can reenlist by the NEC only.
+
+10.  Obligated Service to Train (OTT) and then Reenlist.  See reference (f), 
+paragraph 12e, for OTT guidance.  Requests are to be submitted to PERS-81 
+extension desk via e-mail.  A copy of the authorization message should be 
+retained by the Sailor until the SRB reenlistment on graduation day from the 
+course of instruction.  Use code 1CC (1RC for FTS) for OTT SRB request in 
+OPINS or NSIPS.
+
+11.  Inoperative Extensions Policy.  In keeping with Department of Defense 
+(DoD) policy, personnel who accepted an enlistment bonus for extended 
+enlistment (EBEE), as reflected on their NAVCRUIT 1133/52 (EG, NAT or PACT), 
+are not authorized to use this inoperative extension time in the SRB 
+calculation.  Sailors who have inoperative extension time through a five-year 
+obligation or six-year obligation program, or as authorized in NAVADMIN 
+007/09, may continue to have up to 24 months of inoperative extension time 
+count towards the SRB calculation provided the reenlistment results in a new 
+EAOS that is at least 24 months day-for-day past the current extended EAOS.  
+This calculation is performed automatically by PERS-81.  Local commands are 
+not authorized to cancel or change extensions for the purpose of immediate 
+SRB reenlistments.  Commands must verify and annotate on the precertification 
+request whether any inoperative extension time noted is part of an EBEE 
+contract.
+
+12.  Repayment.  Repayment policy is governed by Title 37 U.S. Code 373, and 
+references (e), (g) and (h), which collectively determine when repayment of 
+the unearned portion of a bonus is required, not required but left to 
+secretarial discretion, or prohibited.  Title 37 U.S. Code 373 requires 
+repayment with certain exceptions.  As a general rule, repayment of any 
+unearned portion of a bonus will be sought.
+    a.  Repayment will not be sought when a member fails to complete an SRB 
+contract IAW with the complete policy cited for each of the following 
+circumstances:
+        (1) Death, not due to misconduct, IAW reference (e).
+        (2) Incurs an injury or illness, not due to misconduct, under 
+specified conditions, resulting in separation or retirement for disability 
+under Title 10 U.S. Code, chapter 61, IAW reference
+(e).
+        (3) Separation under a hardship or sole survivor discharge IAW 
+reference (f); and
+        (4) Completion of the contract is prevented by the Navy due
+to specified management actions IAW reference (e).     
+       b.  Repayment is at discretion of secretarial process when a member 
+fails to complete an SRB contract IAW the complete policy cited for each of 
+the following circumstances.  Repayment action will be initiated for these 
+circumstances, until and unless the secretarial process waives or remits 
+recoupment:
+        (1) Separation for medical reasons not covered by paragraph 12a(2), 
+IAW reference (e);
+        (2) Medical reasons preclude completion of SRB contract, but member 
+is not separated and continues in another capacity IAW reference (e); and
+        (3)  The secretarial process determines that recoupment is contrary 
+to a personnel policy or management objective, against equity or good 
+conscience, or contrary to the best interest of the United States IAW 
+reference (e).
+    c.  Repayment is required for the following circumstances:
+        (1) An approved request for voluntary release from the written 
+agreement specifying the condition for receipt of the bonus or voluntary 
+separation from the naval service;
+        (2) An approved voluntary request for relief from a qualifying 
+assignment;
+        (3) Failure to execute orders to a billet commensurate with the 
+individual*s specialty or skill, grade, or career progression;
+        (4) Disability or physical disqualification resulting from 
+misconduct, willful neglect, or incurred during a period of unauthorized 
+absence;
+        (5) Separation for cause, including misconduct;
+        (6) An approved detachment for cause;
+        (7) Separation by reason of weight control and/or physical readiness 
+test failure; and
+        (8) Any other situation not covered by paragraph 12c.
+
+13.  To ensure all requirements and timelines are met, visit the following 
+SRB page of the NPC website: http://www.public.navy.mil/bupers-
+npc/career/payandbenefits/N130/pages/N130D.aspx.
+
+14.  Point of contact for a Sailor who has reenlisted and has not received 
+their SRB payment, or has questions concerning the taxation of their SRB and 
+annual installments, is the Sailor’s servicing pay office or personnel 
+support detachment.  SRB tax information is also discussed in DoD Financial 
+Management Regulation Volume 7A, Chapter 44, Table 44-1, Rule 7.  The point 
+of contact for a Sailor with questions regarding the SRB program or any 
+information on their PERS on-line account is their CCC.  For technical 
+questions or clarification, CCCs, not individual Sailors, are encouraged to 
+contact PERS-81 at (901) 874-2526/DSN 882, via fax at (901) 874-2623/DSN 882 
+or via e-mail EMCM(SS) Douglas B. Irish at douglas.b.irish(at)navy.mil or Mr. 
+Francisco Palomo at francisco.palomo(at)navy.mil.
+
+15.  We will continue to assess retention behavior and adjust SRB award 
+levels accordingly.
+
+16.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first.
+
+17.  Released by VADM W. F. Moran, N1.//
+
+BT
+#1803
+NNNN
+UNCLASSIFIED//

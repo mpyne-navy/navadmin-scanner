@@ -1,0 +1,185 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 031453Z MAY 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+R XXXXXXZ MAY 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+UNCLAS
+
+NAVADMIN 108/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 TO NMCI (UPDATE 1) (CORRECTED COPY)//
+
+REF/A/LTR/DOD CIO/20NOV15//
+
+REF/B/LTR/DEPSECDEF/8JAN18//
+
+REF/C/NAVADMIN 038/18/R 202004ZFEB 18//
+
+REF/D/UAB/NNWC/24APR18//
+
+NARR/REF A IS THE DEPARTMENT OF DEFENSE (DOD) CHIEF INFORMATION OFFICER (CIO) 
+MEMORANDUM, MIGRATION TO MICROSOFT WINDOWS 10 SECURE HOST BASELINE (SHB).  
+REF B IS DEPUTY SECRETARY OF DEFENSE
+(DEPSECDEF) MEMORANDUM PROMULGATING DEADLINE FOR MIGRATING OFFICE INFORMATION 
+TECHNOLOGY WORKSTATIONS TO THE DOD MICROSOFT WINDOWS 10
+(WIN10) SHB.  REF C IS INITIAL NAVADMIN DETAILING DEPLOYMENT OF
+WIN10 TO THE NAVY MARINE CORPS INTRANET.  REF D IS NAVAL NETWORK WARFARE 
+COMMAND USER AWARENESS BULLETIN ON ENERGY SAVING DURING
+WIN10 MIGRATION.//
+POC/NEN END USER SERVICES TEAM/CIV/PMW-205/-/EMAIL:  NEN_ENDUSER 
+_SERVICES(AT)NAVY.MIL // POC/NEN CUSTOMER ENGAGEMENT MANAGERS/CIV/PMW-205/-/-
+/EMAIL:  PMW_205 _NEN_CEM(AT)NAVY.MIL//
+
+RMKS/1.	This NAVADMIN provides an update on the NMCI Secret Internet
+Protocol Routing Network (SIPRNET) and Non-Classified Internet Protocol 
+Routing Network (NIPRNET) enterprise migration to WIN10 SHB.  It also 
+outlines specific command leadership and user responsibilities required to 
+ensure smooth transition, minimal disruption, and completion of the 
+transition for all NMCI seats by
+30 June 2018.  Per references (a) through (c), the navy remains on track to 
+complete the migration to WIN10 SHB operating system on the NMCI network by 
+30 June 2018.  This is necessary to improve cyber security, promote 
+standardization across the Naval Enterprise Network (NEN), and comply with 
+the DoD mandates.
+
+2.  There are three ways that NMCI user seats receive the WIN10 SHB upgrades 
+on SIPRNET and NIPRNET:  seat technical refresh (completely replaces the 
+computer), manual wipe and re-image (W&R) process (same computer is taken 
+from the user, reloaded and returned with the new operating system), and in 
+place upgrade (IPU) (the operating system is upgraded via a software push 
+over the network to the computer which remains with the user).  There are 
+slight differences in how NIPRNET and SIPRNET upgrades are being handled.  
+Procedures unique to SIPRNET are noted below.  During any of these processes 
+there are required actions for command leadership and users  the WIN10 
+migration is an all hands evolution.
+a.  Command responsibilities:
+(1)  Commanders, CIO's, and command
+Contract Technical Representatives (CTR) will aggressively track the 
+scheduled upgrades for their commands and ensure planned seat migrations 
+remain on schedule.  Program Executive Officer for Enterprise (PEO EIS) will 
+be alerted immediately of any schedule slips or technical difficulties 
+preventing execution.
+(2)  CIOs will participate in the weekly OPNAV N2N6 and PEO EIS WIN10 SHB 
+update teleconferences; Thursdays at 1500 est.  Echelon II CIOs will be 
+expected to brief any delays in execution, advise regarding actions planned 
+to get back on track, and discuss any technical issues requiring resolution 
+by the program office.
+(3)  Communicate with users often to ensure specific migration schedule and 
+process details are understood.
+(4)  For the manual re-image process:  commands must make designated W&R 
+computers available to NMCI contractor field services on the date and time 
+provided to command CTR by the PEO EIS program office.  Local scheduling of 
+the W&R process is both a CIO and CTR responsibility to manage.  They will 
+work closely with local field service teams to execute on schedule and 
+identify and report any additional support needed to PEO EIS.
+(5)  For the IPU:  Early challenges with the initial WIN10 IPU solution have 
+been resolved, resulting in the accelerated implementation of IPU to 3000 
+NIPRNET seats per day on 24 April 2018. The IPU reporting portal (https 
+://naeanrfkqr73.nadsusea.nads.navy.mil/reportmanager/pages
+/folder.aspx?itempath=%2feua_reports) is in place for Echelon II CTRs.  It 
+includes information on scheduling, computer status changes, and other 
+detailed IPU reports.  Prior to IPU process initiation, a pre-load package is 
+sent to the computer being upgraded and will need to be resident on the 
+machine prior to the IPU final push.  Commands must ensure they know when 
+users are scheduled for their IPU push and that all computers, including 
+those normally used for telework and Wi-Fi, are connected to the NMCI network 
+via network cable at their scheduled migration time, and for the five days 
+prior.  CTRs and Intelligence Technology (IT) staff will remind users of 
+reference (d), direction regarding end of day actions.  Users still on WIN 7 
+will select "restart" vice shutdown, and select no when prompted for green 
+shutdown.  This allows the computer to receive software patches and perform 
+standard maintenance in preparation for WIN10 migration in the five days 
+leading up to their IPU migration date.  The IPU process typically takes 16-
+20 hours per seat and users should plan to be without their computer for 24 
+hours in case issues are encountered that require help desk resolution.  Some 
+users have experienced longer delays in certain geographic areas and network 
+engineers and the contractor are working to resolve those latency issues.  
+Computers that are not connected at their scheduled IPU time will immediately 
+start the IPU process upon return to the network.  Seats temporarily deferred 
+for the final IPU push due to technical difficulties will still receive the 
+IPU pre-load packages to the computer and will see the start decryption now 
+icon.  This icon is not a sign the computer is going to IPU, just that the 
+computer has received all necessary pre-load packages.
+(6)  The WIN10 SHB design requires optional software to create optical disks.  
+Per DoD policy, removable media is required to be encrypted.  Roxio Secure 
+Burn is the product selected for this capability and is available for 
+ordering via your command CTR.  Support for unencrypted media is available, 
+with an approved exception to policy, using the Roxio silver product.  If you 
+require either of these capabilities contact your local CTR.
+b.  Individual user responsibilities:
+(1)  Know when your computer is scheduled for technical refresh, W&R or to 
+receive the IPU.  Users and CTRs are notified a minimum of five days in 
+advance of their computer migration date.  For any migration issues, 
+communicate with your CTR for scheduling issues and the NMCI help desk for 
+technical issues. the WIN10 coordination center at
+(2)  Ensure your NIPRNET computer remains connected to the network and 
+powered on for five days prior to your upgrade.  Ensure your power saver 
+feature is disabled so the computer remains powered on.
+(3)  Plan to be without your computer for 24 hours on your scheduled date.  
+This will not affect your ability to log in to other computers and to access 
+your data on the NMCI shared drives to continue work.
+(4)  Back up any data that you have on your computer to a shared drive so you 
+can retrieve it after your migration.
+c.  Special SIPRNET computer considerations:
+(1)  Seat migration:  The plan for SIPRNET seat migration will be promulgated 
+to Echelon II CIOs and CTRs by
+11 May 2018.  Users will be notified five days prior to their migration and 
+SIPRNET IPU pre-loads will begin 1 May 2018.
+(2)  SIPRNET seats where the hard drives are removed and stored when not in 
+use (i.e., in non-open storage secret facilities) require specific 
+coordination between users, CTR, and WIN10 coordination center to ensure that 
+the migration can be executed within normal working hours.
+(3)  SIPRNET migrations may also require additional coordination due to 
+special Secure Networks connection types.  The program office will coordinate 
+with command CTRs to account for method of migration and connection types at 
+each command.
+(4)  With BitLocker as the navys data-at-rest solution, SIPRNET computers 
+with hard drives installed via removable sleds must remain with the computer 
+they were encrypted with initially.  The hard drive will only successfully 
+boot from the computer where it was encrypted. Once encrypted under WIN10, 
+users cannot move hard drives between different computers.  Failure to follow 
+this guidance will trigger the BitLocker user lockout.
+d.  Quarantine (no network connection) procedures: Quarantine procedures are 
+being developed for computers that miss their scheduled migration.  Details 
+of those processes will be promulgated in early May 2018.  Any non-tactical 
+computers that do not meet the
+30 June 2018 deadline will be quarantined until they are migrated to WIN10.
+
+3.  Users with specific operational concerns, capability questions and or 
+application concerns should contact their command CTR and it staff, and 
+review available information on the homeport site (https 
+://www.homeport.navy.mil).  Command CIOs and CTRs requiring assistance or 
+information are encouraged to contact the Windows 10 coordination center at 
+win10coordinatio.fct(AT)navy.mil or (202) 685 -0471.  We appreciate the 
+patience and flexibility of commands and users as we work through challenges 
+associated with this migration.
+This upgrade is critical to protecting our information and networks and will 
+enable smoother future updates.  Your continued active engagement and support 
+remain essential to meeting the 30 June 2018 deadline directed by DoD.
+
+4.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

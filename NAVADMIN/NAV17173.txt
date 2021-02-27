@@ -1,0 +1,283 @@
+UNCLASSIFIED
+ROUTINE
+R 131758Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 173/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUL//
+
+SUBJ/GUIDANCE FOR TRANSFERRING HEALTH SERVICE TREATMENT RECORDS FOR ALL 
+UNITED STATES NAVY ACTIVE AND SELECTED RESERVE SERVICE MEMBERS
+
+REF/A/MSG/CNO WASHINGTON DC/DNS/192157Z AUG 14//
+REF/B/DOC/DODI 6040.45/16 NOV 2015//
+REF/C/DOC/BUMED/10 NOV 2015//
+REF/D/DOC/BUMED/20 JUN 2016//
+REF/E/DOC/MILPERSMAN 6150-010/12 OCT 2015//
+REF/F/MSG/SECNAV WASHINGTON DC/062126Z OCT 16//
+REF/G/MSG/DON CIO WASHINGTON DC/151450Z MAR 17//
+NARR/REF A IS NAVADMIN 187/14, PROPER TRANSFER OF HEALTH SERVICE TREATMENT 
+RECORDS OF TRANSITIONING SERVICE MEMBERS TO VETERANS ADMINISTRATION.  
+REF B IS DODI 6040.45, DOD HEALTH RECORD LIFE CYCLE MANAGEMENT.  
+REF C IS MANUAL OF THE MEDICAL DEPARTMENT, CHAPTER 16.  
+REF D IS BUMEDNOTE 6150, EXAMPLES OF EXCEPTIONS TO "NO HAND CARRY GUIDANCE."  
+REF E IS MILPERSMAN ARTICLE 6150-010, TRANSFER OF OUTPATIENT AND DENTAL 
+TREATMENT RECORDS, OFFICER AND ENLISTED.  
+REF F IS ALNAV 066/16, GUIDANCE FOR ARCHIVING HEALTH SERVICE TREATMENT 
+RECORDS FOR DON ACTIVE/SELRES SERVICE MEMBERS.  
+REF G IS DON CIO MESSAGE, SSN REDUCTION.//
+
+RMKS/1.  This NAVADMIN is an update to reference (a) to clarify the 
+Department of the Navy (DON) process for the proper transfer of medical and 
+dental records, hereafter known as service treatment records (STR), of 
+transitioning Navy active and ready reserve Service Members to the Department 
+of Veterans Affairs (VA).  Proper archiving of STRs is required for future 
+benefits with the VA.  Failure to properly maintain STRs within 
+medical/dental departments could affect these future benefits.  As such, the 
+Office of the Under Secretary of Defense for Personnel and Readiness has 
+mandated a 45-calendar day submission timeline for all Services to transfer 
+STRs to the VA.  DON shall comply with the timeliness standards and make 
+records available within 45-calendar days from the separation/retirement date 
+from active duty.  For Reserve Component members who do not separate from 
+Service but file a VA benefits claim, STRs must be available within 
+45-calendar days after notification by the VA of pending claim.
+
+2.  References (a) and (b) provide guidelines to properly archive STRs.  
+Reference (a) is cancelled effective upon the release of this NAVADMIN.  Per 
+references (b) and (c), STRs are the property of the Department of Defense 
+(DoD).  Commanding Officers (CO) are responsible for ensuring STRs are 
+properly retired and shall implement collaborative processing of STRs 
+involving the medical/dental and administrative departments that maintain 
+custody of Service Member STRs.  Reference (f) requires STRs to be
+transferred to the VA within 45 days of separation to ensure Service
+Member disability claims are processed within the established timelines set 
+forth by the Secretary of the Navy.  Service Members who are authorized to 
+hand carry their STRs must protect the integrity of the information and 
+provide it to the appropriate DoD activity prior to departing on terminal 
+leave.
+
+3.  General STR Disposition Process:
+    a.  A complete STR for disposition includes:  Service provided medical 
+and dental documentation, civilian provided medical and dental documentation, 
+and the STR Certification Memo (DD Form 2963).  STRs shall not contain 
+printed pages of the electronic Armed Forces Health Longitudinal Technology 
+Application Web Print (AWP) or Military Health System GENESIS notes unless 
+they contain pen and ink notes from the provider.
+    b.  Effective immediately, for Navy personnel, all medical and dental 
+departments, Battalion Aid Stations (BAS), Regimental Aid Stations (RAS), 
+medical treatment facilities (MTF), Navy Operational Support Centers (NOSC), 
+Navy Recruiting Districts (NRD), and operational and remote forces shall mail 
+the STR at terminal leave commencement or no later than (NLT) five calendar 
+days after a Navy member's separation/retirement date via 3b(1) or 3b(2) 
+below.
+        (1) All Navy MTFs, Branch Health Clinics (BHC), BASs, RASs, and NOSCs 
+shall send STRs using the scanning contractor manifest process.  Website 
+access to the manifest system can be obtained via
+http://pmo.anacomp.com.  Upon manifest process completion, the STRs shall be 
+mailed to the following physical address:
+
+    ANACOMP, Inc.
+    1856 Borman Court
+    St. Louis, MO 63146
+
+        (2) All operational platforms, NRDs, and remote units are not 
+required to use the above manifest system process, but are encouraged to use 
+the process in order to improve STR arrival timeliness, when available.  All 
+operational platforms, NRDs, and remote units will mail non-manifested 
+records to the Navy Medicine Records Activity (NMRA) at the following 
+address:
+
+    Navy Medicine Records Activity
+    4300 Goodfellow Blvd, Bldg. 103
+    St Louis, MO  63120
+
+        (3) STRs shall not be mailed to the VA, National Personnel Records 
+Center, or National Archives Records Administration (NARA).
+        (4) Appellate Leave Personnel.  Records shall remain in the custody 
+of the medical and dental department where member receives care.  If member 
+is processed for separation, the STR must be mailed to NMRA NLT five calendar 
+days after the separation date, by the medical/dental department that 
+maintains custody of the records.
+        (5) Confined Personnel.  Upon member's release from the brig and 
+separation from service, the STR shall be sent to NMRA or be manifested and 
+sent to the scanning contractor NLT five calendar days after the separation 
+date by the brig.
+        (6) Reserve Personnel.  Reserve component personnel leaving active 
+duty and returning to drill status are not considered separating for purposes 
+of the STR disposition process.  If a reserve member is not separating, but 
+is filing a claim with the VA, the reserve component will send a clear and 
+accurate copy of the STR to the scanning facility using the scanning 
+contractor manifest system NLT five calendar days following notification by 
+the VA of a pending claim.
+        (7) Individual Ready Reserve (IRR)/Active Status Pool (ASP).  
+Transfer into the IRR/ASP is an STR submission occasion, and STRs for all 
+members of the IRR/ASP shall be dispositioned per the instructions outlined 
+in paragraph 5.  Transfer into the Voluntary Training Unit (VTU) is not an 
+STR submission occasion and those members shall continue to have their STRs 
+maintained at their unit's parent activity until the member retires or 
+separates.
+        (8) Navy Members Enrolled to Other-Service MTFs.  Other-Service MTF 
+must forward the STR directly to NMRA using the instructions outlined in 
+paragraph 5.
+        (9) Unplanned Separations.  Unplanned separations have a short 
+suspense for member's release from service.  Upon members' completion of a 
+separation physical, COs shall ensure the STR disposition process is followed 
+per paragraph 3.
+
+4.  Mailing Process:
+    a.  STRs may be sent individually or as a bundle (a bundle includes 
+multiple members' STR volumes in one package).  Medical and dental records 
+staff shall mail the medical and dental records together at the commencement 
+of terminal leave or NLT five calendar days from a Service Member's 
+separation/retirement from service.  Per reference (g), when mailing 25 or 
+more hard copy records containing personally identifying information, the 
+package shall be double wrapped and the inner package marked "For Official
+Use Only, Privacy Sensitive."
+    b.  Record departments are required to use NARA standard white record 
+retirement boxes or other same-sized box, purchased specifically for 
+shipping.  Box liners such as plastic bags shall be used when shipping STRs.  
+CONUS commands with access to the manifest system may request supplies be 
+shipped directly to them.  OCONUS commands may contact NMRA who will obtain 
+and mail the supplies to the command.
+    c.  Shipping Envelopes.  Record departments shall not wait for a full box 
+to mail STRs.  If there are individual STRs or the STR bundle will easily fit 
+into an envelope, one may be used.  Envelopes must be tear resistant (i.e., 
+fiber/cloth-like construction).
+
+5.  Responsibilities.
+    a.  Commanders, COs, and Officers-in-Charge (OIC) Responsibilities.
+        (1) Commanders, COs, and OICs are responsible for all aspects of the 
+STR disposition process for their unit as part of the administrative 
+requirements of the separations process per reference (f).
+        (2) Each unit must initiate the separation process per command policy 
+and Bureau of Naval Personnel (BUPERS) separation requirements at a minimum 
+90 to 120 days prior to separation to ensure its completion prior to the 
+Service Member's release from active duty.
+        (3) Each unit must confirm the STR is not in the possession of the 
+Service member.  If the Service member has possession of the STR, the member 
+must submit the STR to the appropriate medical and dental departments for 
+disposition no later than 30 days prior to separation or terminal leave 
+commencement date.
+        (4) If STR is not in the possession of the medical and/or dental 
+departments, the member shall sign a SF 600 (chronological record of medical 
+care) stating the STR is not in their possession.  The SF 600 shall be 
+included as part of the STR by uploading it into the Health Artifact and 
+Image Management Solution (HAIMS).
+        (5) If STR is not in the possession of the medical and/or dental 
+departments and the member refuses to sign a SF 600 stating the STR is not in 
+their possession, then Unit COs may hold temporary duty and terminal leave in 
+abeyance as deemed necessary to facilitate completion of the STR submission 
+prior to separation of a Service member.  Service members may not be retained 
+on active duty beyond the expiration of their active duty service obligation 
+unless specifically provided for by applicable law and policy from BUPERS.
+       (6) Service Member's Unit chain of command must provide the Separation 
+Questionnaire (NPPSC 1900/1) via the personnel department for completion 30 
+days prior to separation.
+        (7) Medical Record Officers and Dental Record Officers or respective 
+departmental representative shall ensure records are at the facility or that 
+the member has signed a SF 600 stating they do not have the records in their 
+possession, prior to signing the Separation Questionnaire (NPPSC 1900/1).
+        (8) Echelon 2 commanders will appoint STR point of contacts at each 
+subordinate echelon to serve as the responsible individual (RI) and an 
+alternate RI (ARI) for all STR retirement matters and manage the STR tracking 
+and reporting tool reports.  In addition, the STR RI and ARI will regularly 
+communicate with NMRA Coordination Cell for issue resolution and 
+coordination.  Send e-mail STR RI and ARI contact information to NMRA at:
+usn.ncr.bumedfchva.mbx.nmra-navy-str(at)mail.mil within 30 days of release of 
+this NAVADMIN.
+    b.  Service Member Responsibilities.
+        (1)  Upon command check-in, the Service Member must surrender their 
+STR to the appropriate medical/dental facility responsible for the member's 
+primary care.  Additionally, prior to end of active service, execution of 
+transitional permissive temporary additional duty, post deployment 
+mobilization respite absence, or separation/terminal leave, each Service 
+Member must ensure their STR is in possession of the appropriate medical or 
+dental department for processing and disposition.
+       (2)  Per references (b) and (c), STRs are the property of the DoD.  
+Service Members are responsible for their STR and are not permitted to hand 
+carry original copies of their STRs unless authorized per references (d) and 
+(e).  Service Members who are authorized to hand carry their STRs must 
+protect the integrity of the information and provide it to the appropriate 
+DoD authority within 48 hours of arrival to new assignment or Transient 
+Personnel Unit, unless indicated as an exception to hand carry policy unit 
+such as deployment, Individual Augmentee, Specialized Training Unit, etc.
+    c.  Administration Department and Command Separations Division 
+Responsibilities.  Each Navy administration department shall modify the 
+command separation checkout sheets to include the following:
+        (1)  Identify the Service Member's duty stations for the past five 
+years, if the medical and/or dental records cannot be located.
+        (2)  Ensure that all checkout sheets contain a legibly printed name, 
+date, and signature of an authorized staff member from the medical and dental 
+departments.
+        (3)  The command administrative departments must coordinate with 
+medical and dental departments to ensure possession of the record prior to 
+the member?s departure on terminal leave.
+    d.  Medical Administration Department Responsibilities.
+        (1)  This section applies to commands with medical and dental 
+departments as well as commands that have Authorized Medical Department 
+Representatives to include Independent Duty Corpsman and MTF Patient 
+Administration Departments.  Any activity that maintains medical records 
+shall meet the requirements in this section.
+       (2)  The medical department representative is responsible for the 
+retirement of the STR for each retiring/separating Service Member.  Medical 
+Administration shall notify the dental department of all separations and 
+ensure medical and dental record personnel work together to assemble the 
+complete STR.
+            (a) Until missing STRs are located and sent to the scanning 
+contractor, medical, and dental departments are required to continue to 
+search for the STR.  If not found, the STR can be declared lost but only 
+after due diligence has been performed as follows and documented on the STR 
+Certification form (DD Form 2963):
+                1.  Contact the Service Member and ensure they sign the 
+SF 600 indicating that their STR is or is not in their possession.
+                2. Contact the Veterans Administration Records Management 
+Center at 1-800-827-1000.
+                3. Contact the Service Member's duty stations for the past 
+five years.  If prior duty stations are unknown, the responsible unit shall 
+contact Navy Personnel Command customer service center at 1-866-827-5672/DSN:  
+882-5672, e-mail: uasknpc(at)navy.mil.
+            (b) If STR is in the Service Member's possession, direct them to 
+return the STR to the MTF or mail the STR directly to NMRA (see address in 
+paragraph 3b(2)).
+    e.  BUPERS Responsibilities.
+        (1) BUPERS shall provide NMRA with weekly separations lists, until a 
+full transition has been made to the STR tracking tool within the Navy 
+Standard Integrated Personnel System.
+        (2)  Personnel Support Detachments shall provide weekly separation 
+lists to MTFs, clinics, ships, etc. for their area of responsibility.
+
+6.  Monthly Delinquent Reporting Requirements.
+    a.  Per reference (f), STRs not received at the scanning contractor 
+within 20-days from the Service Member’s separation date, will be placed on a 
+delinquent report.
+    b.  NMRA will forward the 20-day delinquent report to the Director of 
+Navy Staff (DNS) on a twice monthly basis.
+    c.  DNS will disseminate and/or task all Navy commanders, COs, OICs, and 
+inform the appropriate medical departments, via their echelon 2 commands, to 
+submit the delinquent STR to the appropriate medical/dental department.
+
+7.  Navy Medicine is in the process of conducting STR digitization 
+initiatives that will reduce overall inventory of paper STRs at MTFs.  The 
+goal is to ensure optimal continuity of care while facilitating transition to 
+a full electronic health record.  The medical record for members involved in 
+the pilot will exist in digital format and will be available via the HAIMS.  
+For operational units, members may be provided a disk to hand carry a digital 
+copy of their AWP and additional required medical documentation in Portable 
+Document Format.
+
+8.  Ensuring Service Members experience an orderly transition to civilian 
+life is of paramount importance to the DON.  An important enabler of this 
+transition is the timely transfer of the separating or retiring Service 
+Member's STR to the VA.
+
+9.  Released by VADM J. G. FOGGO, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

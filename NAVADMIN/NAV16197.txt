@@ -1,0 +1,430 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 061652Z SEP 16
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 197/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/FY-18 NAVY ACTIVE-DUTY AND RESERVE ENLISTED ADVANCEMENT SELECTION BOARDS 
+FOR MASTER CHIEF AND SENIOR CHIEF PETTY OFFICER//
+
+REF/A/DOC/BUPERS/2NOV07//
+
+REF/B/DOC/OPNAV/03JUN09//
+
+REF/C/MSG/SECNAV WASHINGTON DC/052044ZMAR13//
+
+REF/D/DOC/BUMED/21JUL16//
+
+REF/E/MSG/CNO WASHINGTON DC/192102ZNOV14//
+
+REF/F/DOC/BUPERS/01MAY15//
+
+NARR/REF A IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR THE ENLISTED  
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.
+REF B IS OPNAVINST  1220.1D, CHANGING OR REMOVING PRIMARY NAVY ENLISTED 
+CLASSIFICATION CODES FOR  NUCLEAR PROPULSION PLANT OPERATORS.  REF C IS ALNAV 
+015/13, PERSONNEL SECURITY INVESTIGATION SUBMISSION REQUIREMENTS.  REF D IS 
+MANUAL OF THE MEDICAL DEPARTMENT (MANMED), NAVMED P-117.  REF E IS NAVADMIN 
+266/14 SENIOR ENLISTED ACADEMY.  REF F IS BUPERSINST 1610.10D, NAVY 
+PERFORMANCE EVALUATION SYSTEM.//
+
+RMKS/1.  This NAVADMIN provides guidance for eligibility, communication to 
+the boards, and board membership or recorder application procedures regarding 
+the FY-18 Navy Active-Duty and Reserve Enlisted Advancement Selection Boards 
+for Master Chief and Senior Chief Petty Officer.  The reserve board will 
+consider personnel serving on active-duty as Full Time Support (FTS) and 
+Selected Reserve (SELRES), to include those serving on voluntary and 
+involuntary recall and mobilization orders.  Mobilized Individual Ready 
+Reserve (IRR) personnel are considered under the SELRES requirements for 
+advancement.
+
+2.  Timeline
+    a.  21 October 2016.  Navy Personnel Command (NPC) (PERS-802) compiles 
+and submits initial time-in-rate (TIR) eligibility list of candidates to 
+Naval Education and Training Professional Development Center (NETPDC) (N321).
+    b.  11 November 2016.  Examination Status Verification Reports
+(ESVR) will be available at:  https://prod.neas.netc.navy.mil.
+    c.  6 February 2017.  Reserve Component (RC) E8/E9 board candidates 
+changing ratings must be in their new rating to be considered as a candidate 
+in the new rating.
+    d.  13 February 2017.  Letter to the board (LTB) deadline for the RC E8/9 
+selection board.
+    e.  3 March 2017.  Active Component (AC) E9 board candidates changing 
+ratings must be in their new rating to be considered as a candidate in the 
+new rating.
+    f.  6 March 2017.  RC E8/E9 selection board convenes.  All eligibility 
+requirements, to include any waivers, must have final approval prior to this 
+date.
+    g.  13 March 2017.  LTB deadline for the AC E9 selection board.
+    h.  17 March 2017.  RC E8/E9 selection board scheduled to
+    adjourn.
+    i.  24 March 2017.  AC E8 board candidates changing ratings must be in 
+their new rating to be considered as a candidate in the new rating.
+    j.  3 April 2017.  AC E9 selection board convenes.  All eligibility 
+requirements, to include any waivers, must have final approval prior to this 
+date.
+    k.  3 April 2017.  LTB deadline for the AC E8 selection board.
+    l.  14 April 2017.  AC E9 selection board scheduled to adjourn.
+    m.  24 April 2017.  AC E8 selection board convenes.  All eligibility 
+requirements, to include any waivers, must have final approval prior to this 
+date.
+    n.  12 May 2017.  AC E8 selection board scheduled to adjourn.
+
+3.  Eligibility Criteria.  Candidates must meet the eligibility requirements 
+outlined in chapter 2 of reference (a) prior to the scheduled board convening 
+date.  Requirements achieved after the scheduled board convening date will be 
+considered late and not make a candidate eligible for the regularly scheduled 
+board or entitle a candidate to an enlisted special selection board.  The 
+authoritative source to determine selection board eligibility is the profile 
+sheet.  The AC/FTS/SELRES cycle is 233.  Because eligibility status can 
+change without direct notification, candidates should verify their profile 
+sheet on a continuous basis and commands must verify their ESVR weekly 
+through the projected board adjournment date.  The profile sheet and ESVR are 
+updated as changes are processed by PERS-802.
+    a.  The candidate shares equal responsibility with their parent command 
+to ensure:
+        (1) the candidates name appears on the selection board eligibility 
+list.
+        (2) the candidate is listed in the correct competitive group.
+        (3) the candidates Official Military Personnel File (OMPF)field codes 
+30-38 and Performance Summary Record (PSR) are up-to-date.
+    b.  If an eligible candidate is not listed, mail or send an e-mail 
+containing a completed Advancement in Rate or Change in Rating worksheet 
+(NETPDTC 1430/3 Rev 06-16) along with a letter of transmittal to NETPDC
+(N321) and info PERS-802.
+    c.  If listed candidates are ineligible or later become ineligible, 
+submit a message to NETPDC N321 and NPC PERS-802 requesting invalidation of 
+eligibility status and provide explanation for invalidation.  Per reference
+(a) paragraph 721b, withdrawal of advancement recommendation must be 
+completed and documented prior to message transmission.
+    d.  If candidates are validated in the wrong competitive category, submit 
+a message notification to NETPDC N321 and NPC PERS-802 detailing the 
+discrepancy.
+    e.  Sailors not selected to continue from a Senior Enlisted Continuation 
+Board are ineligible for advancement.
+    f.  Candidates who do not have a recommendation for advancement on their 
+most recent chief evaluation shall be invalidated.  Evaluations that restore 
+a recommendation for advancement must be made available to the selection 
+board prior to the board convening date.
+    g.  Per reference (a), terminal eligibility date used to compute the TIR 
+is 1 October 2017.  The minimum TIR date for E8 candidates must be on or 
+before 1 September 2014.  The minimum TIR date for E9 candidates must be on 
+or before 1 July 2014.
+    h.   High Year Tenure (HYT) date or approved HYT waiver for the
+current paygrade must be 1 July 2017 or later.  Candidates who will be at HYT 
+on 1 July 2017 for the next higher paygrade are ineligible for advancement, 
+regardless of any approved HYT waiver.
+    i.  Members who have submitted voluntary Fleet Reserve 
+(FLTRES)/retirement requests to NPC are not eligible.  Voluntary FLTRES are 
+those not mandated by HYT; requests due to HYT are eligible for advancement 
+and selection board consideration provided their HYT date for the present 
+paygrade is 1 July 2017 or later per reference (a).  An approved or pending 
+voluntary FLTRES/retirement request must be successfully disapproved, 
+canceled, or modified to an involuntary date prior to the board convening to 
+render a candidate selection board eligible.
+    j.  Commissioning Programs.  Candidates who have been selected for Seaman 
+To Admiral (STA-21), Medical Enlisted Commissioning Program, Medical Service 
+Corps in-service procurement, or Judge Advocate General Corps in-service 
+procurement programs remain eligible for advancement consideration.
+Selection to any other officer commissioning program renders candidates 
+ineligible.  Commands are required to request those candidates be invalidated 
+by PERS-802.  Per reference (b), nuclear candidates who are assigned Navy 
+Enlisted Classification (NEC) 3359/3389 upon transfer from a nuclear 
+propulsion plant operator to a non-nuclear billet at sea or ashore, or to 
+duty under instruction including special college education programs are 
+ineligible for advancement.  This includes nuclear candidates transferred to 
+a STA-21 duty station.
+    k.  Security clearance requirements.  Candidates in a rating requiring a 
+security clearance must have a favorable investigation adjudication issued by 
+the Department of Defense Central Adjudication Facility.  If the candidates 
+commanding officer (CO) grants an interim clearance, documentation must be 
+received by PERS-802 prior to board convening.  Refer to reference
+(c) for additional guidance.  Sailors who have a clearance must maintain that 
+clearance eligibility.  Ratings requiring a security clearance are AC, AE, 
+AG, AO, AT, AWF, AWO, AWR, AWS, AWV, AZ, CTI, CTM, CTN, CTR, CTT, EOD, ET, 
+FC, FT, GM, HT, IC, IS, IT, ITS, LN, MA, MC, MN, MT, ND, OS, QM, SB, SO, STG, 
+STS, and YN, as well as all nuclear and submarine ratings.  This guidance 
+supersedes reference (a).
+    l.  Branch class (BRCL) and special program indicator (SPI) code.  SPI 
+for BRCL 32 Sailors must be verified via the Billet Based Distribution 
+system.  BRCL 32 with a blank SPI code is invalid.  Commands must correct the 
+error via the Navy Standard Integrated Personnel System or the Sailor may 
+seek relief by petitioning the Board for Correction of Naval Records.
+Sailors whose SPI code is invalid as of the board convening date will be 
+invalidated.
+    m.  Competitive group specific eligibility requirements.
+Candidates must meet special requirements (citizenship, medical, etc.) for 
+certain ratings as outlined in paragraph 204 of reference (a).  Commands must 
+verify and submit a message to NETPDC N321 and NPC PERS-802 requesting 
+invalidation of those selection board eligible Sailors who no longer meet the 
+qualifications listed in reference (a) or below by the scheduled board 
+convening date.
+        (1) Air Traffic Controller personnel must possess a valid Federal 
+Aviation Administration 7220-1 ATCS Certificate and meet requirements 
+established in reference (d).
+        (2) Cryptologic Technician Interpretive personnel must achieve a 
+minimum of L2/R2 on the Defense Language Proficiency Test (DLPT) in their 
+primary language, as assigned by their CO, at least once in their current 
+paygrade.  Acceptable documentation of L2/R2 includes an evaluation with 
+language scores or a letter from the candidates's command forwarded to the 
+board via the candidate's LTB.
+        (3) Explosive Ordnance Disposal (EOD) personnel.  To be eligible for 
+advancement to E8 and E9, Sailors must hold the Master EOD technician NEC 
+(5337).
+        (4) Navy Diver (ND) personnel.  To be eligible for advancement to E8, 
+Sailors must hold the First Class Diver NEC (5342) for group 2 or the Master 
+Diver NEC (5341) for group 1.  To be eligible for advancement to E9, Sailors 
+must hold the Master Diver NEC (5341).
+        (5) Nuclear trained personnel.
+            (a) To be eligible for advancement to E8, submarine Sailors in 
+nuclear ratings must hold a supervisor NEC (3363, 3364, 3365, or 3366).
+Personnel must also hold the nuclear qualified secondary NEC 3302 
+(Engineering Department Master Chief (EDMC)).  A NAVPERS 1221/6 requesting a 
+secondary NEC of 3302 and copy of qualification card must be submitted to 
+OPNAV N133 at bullnuke(at)navy.mil via the Force EDMC by 14 April 2017.  
+Additional contact information is available via 
+http://www.public.navy.mil/bupers-
+npc/enlisted/community/nuclear/Pages/NuclearEnlistedPrograms.aspx
+            (b) To be eligible for advancement to E8, surface Sailors in 
+nuclear ratings must hold a supervisor NEC (3393, 3394, 3395, or 3396).
+            (c) To be eligible for advancement to E9, submarine Sailors in 
+nuclear ratings must hold a supervisor NEC (3363, 3364, 3365, or 3366).
+Candidates must also hold the secondary NEC 3302 and have served or be 
+currently serving as an EDMC of a submarine.  Acceptable documentation of 
+EDMC service for review by the advancement board includes an evaluation with 
+"EDMC" in Block 29 or 41, a letter from the CO via the member providing dates 
+of EDMC service, or NSIPS documentation via the candidate.  Candidates 
+without EDMC service documented in their service record must submit 
+documentation with their LTB providing dates of EDMC service.
+            (d) To be eligible for advancement to E9, surface Sailors in 
+nuclear ratings must hold a supervisor NEC (3393, 3394, 3395, or
+3396) and must have served, or be currently serving as, a Division Leading 
+Chief Petty Officer (DLCPO) of a nuclear division at sea (reactor mechanical, 
+reactor electrical, reactor controls, reactor propulsion, or reactor 
+laboratories), reactor training division officer (RT DIVO) at sea, or leading 
+crew chief (LCC) of a prototype.  E8s who are billeted as Reactor Department 
+Master Chief (RDMC) in lieu of DLCPO are also eligible for advancement to E9.
+Acceptable documentation of DLCPO, RT DIVO, LCC, or RDMC service for review 
+by the advancement board includes an evaluation with DLCPO, RT DIVO, LCC, or 
+RDMC in Block 29 or 41, a letter from the CO via the member to the board 
+providing dates of DLCPO, RT DIVO, LCC, or RDMC service, or NSIPS 
+documentation via the member.  Sailors without DLCPO, RT DIVO, LCC, or RDMC 
+service documented in their service record must submit documentation with 
+their LTB providing dates of DLCPO, RT DIVO, LCC, or RDMC service.
+      (6)  Non-Nuclear Submarine Ratings.  To be eligible for advancement, 
+submarine Sailors must be designated as either SS, SU, or SQ IAW MILPERSMAN 
+1220-040 as of the board convening date.  Candidates designated as SG or SP 
+are not eligible for advancement.
+    n.  E9 eligibility requirement.  Per reference (e), beginning in FY-17, 
+all newly selected Senior Chiefs are required to complete either the U.S. 
+Navy Senior Enlisted Academy, U.S. Air Force Senior Enlisted Academy, U.S. 
+Marine Corps Senior Enlisted Academy, U.S. Coast Guard Senior Enlisted 
+Academy, or Joint Special Warfare Academy in order to be eligible for 
+advancement to Master Chief.  This means the first boards where Senior 
+Enlisted Academy completion will be required for selection board eligibility 
+is the FY-20 Master Chief Selection Boards.  Senior Chiefs should plan 
+accordingly.
+
+4.  Competitive Groups.  The below listed ratings are separated into 
+competitive groups as applicable to the candidates component:
+    a.  CS, LS, YN (Active Duty E8/9)
+        Group 1 - Submarine
+        Group 2 - Surface
+    b.  CTI (Active Duty E8/9)
+        Group 1 - Middle East and North Africa
+        Group 2 - East and Far East Asia
+        Group 3 - Latin and South America
+        Group 4 - Eastern Europe
+    c.  EMN, ETN, MMN (Active Duty E8/9)
+        Group 1 - Submarine
+        Group 2 - Surface
+    d.  FC (Active Duty E8/9)
+        Group 1 - All Others
+        Group 2 - AEGIS
+    e.  MU (Active Duty E8/9)
+        Group 1 - Premier Band
+        Group 2 - Fleet Band
+    f.  NC (Active Duty and FTS E8/9)
+        Group 1 - Career Recruiter Force
+        Group 2  Fleet
+    g.  ND (Active Duty E8)
+        Group 1 - Master Diver (5341)
+        Group 2 - First Class Diver (5342)
+
+5.  Record review and communication with the E8/9 selection board.
+    a.    Candidates should check their evaluation continuity via
+BUPERS Online (BOL).  Any evaluation gaps should be resolved by either 
+submitting the missing evaluations in the candidates LTB or a statement in 
+lieu of missing report per chapter 17 of reference (f).
+    b.  Communication to the board must originate from the individual 
+candidate and must be accompanied under the candidates signed LTB.
+        (1) The LTB may address any information that the candidate considers 
+important.  Candidates should not include items in their LTB that are already 
+included in their OMPF or PSR unless the OMPF version is unreadable or the 
+PSR is incorrect.  Submission of a LTB to only state that the candidates OMPF 
+and PSR have been verified and is correct is not desired.
+        (2) The LTB must either be digitally signed using the candidates 
+military identity certificate or have a hand-written signature.  Unsigned 
+LTBs will not be presented to board members.
+        (3) Third party correspondence is any communication to the board 
+which is not accompanied by the candidates signed LTB and will not be 
+permitted.  Commands are not authorized to submit a message to NPC requesting 
+information be presented to the board.  This supersedes reference(a).
+    c.  Information received that is not under a signed LTB or not received 
+by NPC Customer Service Center (CSC) by the deadline listed in paragraph 2 
+will not be presented to the board.  The time and date LTBs are received 
+inthe NPC CSC inbox (central time zone) is the time and date used for 
+deadline verification.  To verify receipt of your LTB, go to 
+https://npccontactcenter.ahf.nmci.navy.mil/OA_HTML/npc.html or call the NPC 
+CSC.  Although late or unsigned LTBs may be accepted by the NPC CSC, they 
+will not be presented to the board and no feedback will be provided to the 
+candidate.
+    d.  All LTBs and each enclosure must contain the candidates full name and 
+full social security number.  LTBs Candidates must verify that the correct 
+board number is on their signed cover letter.  The board numbers are 205 for 
+SELRES E8/9, 206 for FTS E8/9, 210 for AC E9, and 235 for AC E8.
+    e.  The preferred method to submit an LTB is by encrypted e-mail to 
+cscselboard(at)navy.mil.  E-mailed LTBs must be encrypted to protect 
+personally identifiable information.  Trouble with file encryption or 
+certificate issues does not justify a late LTB.
+    f.  If unable to e-mail, candidates may use regular mail to the addresses 
+below.  Mailed LTBs should be on plain white paper and paper clipped (no 
+staples, binders, folders or tabs).
+        (1) SELRES/Mobilized IRR E8/9 Board:
+            Navy Personnel Command Customer Service Center
+            President
+            FY-18 Reserve E8/9 Selection Board #205
+            5720 Integrity Drive
+            Millington, TN 38055
+        (2) FTS E8/9 Board:
+            Navy Personnel Command Customer Service Center
+            President
+            FY-18 Reserve E8/9 Selection Board #206
+            5720 Integrity Drive
+            Millington, TN 38055
+        (3) Active E9 Board:
+            Navy Personnel Command Customer Service Center
+            President
+            FY-18 Active E9 Selection Board #210
+            5720 Integrity Drive
+            Millington, TN 38055
+        (4) Active E8 Board:
+            Navy Personnel Command Customer Service Center
+            President
+            FY-18 Active E8 Selection Board #235
+            5720 Integrity Drive
+            Millington, TN 38055
+     g.  Certified or registered mail is not advised due to delays in 
+handling.
+     h.  Candidates are authorized to submit more than one LTB, vice waiting 
+until the deadline to submit one all-inclusive LTB.  Although multiple LTBs 
+are authorized, candidates should not duplicate previously sent information.
+     i.  The same LTB deadline applies to candidates who gain eligibility 
+after the LTB deadline and before the convening date.  If a candidate is 
+working to fix an eligibility issue and expects to be selection board 
+eligible prior to the board convening date, they may submit a LTB, but it 
+still must be received prior to the deadline.
+
+6.  Selection board results.  Official results will be provided online via 
+BOL to authorized command representatives prior to the release of the 
+official results via NAVADMIN.  Selectee profile sheets will be published by 
+NETPDC within 30 days of both reserve and active selection board results 
+being released via NAVADMIN.  Educational Services Officers, who are 
+registered users may access results through the Navy Enlisted Advancement 
+System (NEAS) website http://prod.neas.netc.navy.mil.  Individual candidates 
+may view/download their profile sheet via a .mil domain computer at 
+https://prod.neas.netc.navy.mil/NEASRpts/Individual.aspx.
+
+7.  Special Selection Boards (SSB).
+    a.  SSBs may be approved for candidates who have demonstrated they were 
+precluded from consideration at the selection board, or were considered at 
+the selection board in the incorrect competitive category; and the 
+administrative error was beyond the candidates control and not the direct or 
+indirect result of their error, delay, or omission.  SSB requests are to be 
+submitted per reference (a) para 102d to PERS-803 vice PERS-811/812.
+    b.  All requests for SSBs must be received by PERS-803 no later than two 
+years after the date the contested board results were made public.  Requests 
+received more than two years after the date the contested board results were 
+made public will be treated as untimely and will normally be denied by Deputy 
+Chief of Naval Personnel.  If a request is delayed more than the two year 
+requirement and justification can be provided for the delay (Board for 
+Correction of Naval Records (BCNR) or Inspector General (IG) action), the 
+request will be considered.  However, it may ultimately be denied if the 
+reason for the delay is due to late submission of the initial BCNR or IG 
+request.
+
+8.  Additional information regarding this cycle will be posted at:
+    a.  AC boards:  http://www.public.navy.mil/bupers-
+npc/boards/activedutyenlisted/Pages/GeneralInformation.aspx
+    b.  RC boards:  http://www.public.navy.mil/bupers-
+npc/boards/reserveenlisted/Pages/GeneralInformation.aspx
+
+9.  Board members and recorders.
+    a.  AC commanders and senior lieutenant commanders are encouraged to 
+contact their detailer if they are interested in serving as a member on the 
+AC selection board.
+    b.  FTS commanders and senior lieutenant commanders are encouraged to 
+contact their detailer if they are interested in serving as a member on the 
+RC selection board.  SELRES commanders and lieutenant commanders are 
+encouraged to contact commander, Navy Reserve Forces Command via their 
+community leaders if they are interested in serving on the RC selection 
+board.
+    c.  AC and RC master chiefs are encouraged to apply to serve on the 
+selection boards.  There are no restrictions preventing AC members from 
+serving on RC selection boards or RC members from serving on AC selection 
+boards.
+    d.  Senior chief petty officers and chief petty officers (to include 
+frocked) may serve as recorders if not eligible.  Petty officers (E6 and 
+below) may not serve on the boards in any capacity, no exceptions.
+    e.  Officers shall complete the Officer Selection Board Member/ Recorder 
+Nomination form (NAVPERS 1400/5) found at http://www.public.navy.mil /bupers-
+npc/reference/forms/NAVPERS/Pages/default.aspx
+    f.  Enlisted applicants must wait until the Annual Notice of Convening 
+message for enlisted advancement selection boards has been released (usually 
+in early September) before submitting their application.  Follow the 
+instructions in that message for submission. Selection to serve on a board is 
+not based on the order applications are received.  Early applications will 
+not be accepted.
+    g.  Enlisted applicants shall complete the Enlisted Selection Board 
+Member/Recorder Application form (NAVPERS 1400/2) found at
+http://www.public.navy.mil/bupers-
+npc/reference/forms/NAVPERS/Pages/default.aspx and route it through their 
+FORCM.  Personnel stationed at commands that do not fall under a FORCM may 
+have their SEL or CMC forward the NAVPERS 1400/2 directly to PERS-805 (Mr. 
+Patrick Marshall):
+donald.p.marshall@navy.mil.  Do not use normal administrative routing.  Only 
+route your application to your SEL/CMC/CO/FORCM and PERS-805.
+
+10.  Points of Contact
+    a.  NPC Customer Service Center: 866-U-ASK-NPC/866-827-5672 or via e-mail 
+at UASKNPC(at)NAVY.MIL.  Do not submit LTBs to this e-mail.
+    b.  Selection board eligibility (PERS-802):
+        - Mr. David Lanham (Branch Head):  david.b.lanham(at)navy.
+          mil
+        - Ms. Elizabeth Vaughn (AC):  elizabeth.vaughn(at)navy.mil
+        - Ms. Dorothy Harris (FTS/SELRES):  dorothy.harris(at)navy.
+          mil
+    c.  NETPDC (N321): 850-473-6148/DSN 753 or via e-mail 
+sfly_N321_discrepanc(at)navy.mil.
+
+11.  This message will remain in effect until superseded or canceled.
+
+12.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

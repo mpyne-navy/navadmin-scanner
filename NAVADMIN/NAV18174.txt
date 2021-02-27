@@ -1,0 +1,50 @@
+RTTUZYUW RHOIAAA0001 2041348-UUUU--RHSSSUU
+ZNR UUUUU
+R 231345Z JUL 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 174/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FY-19 ADVANCED EDUCATION VOUCHER PROGRAM SELECTION BOARD RESULTS//
+
+REF/A/GENADMIN/CNO WASHINGTON DC/011606Z MAR 18//
+AMPN/REF A IS NAVADMIN 052/18 WHICH ANNOUNCED THE FY-19 ADVANCED EDUCATION 
+VOUCHER PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces selection board results for participation in 
+the FY-19 Advance Education Voucher (AEV) Program in line with reference (a).  
+Congratulations to the following chief, senior chief, and master chief petty 
+officers on their selection to participate in the FY-19 AEV Program.  
+Selectees are authorized to begin work immediately on the degree programs 
+specified below:
+           Bachelor of Science/Bachelor of Arts AEV
+Irvine, Ryan M.             HMC           Allied Health
+Jenkins, Stephanie N.       AGC           Business Administration
+Olesen, Martin S.           GMCS          Organization Leadership
+             Master of Science/Master of Arts AEV
+Aberle, Christopher A.      YNCS          Business Administration
+Baumert, Richard A.         ETCS          Organizational Leadership
+Kirsch, Steven M.           LSC           Business Administration
+Staton, John A.             SOC           Business Administration
+Wittman, Will S.            NDCM          Business Administration
+2.  Amplifying information will be provided to selectees by separate 
+correspondence.
+
+3.  The point of contact is MMCS Joshua Rice, NETC N523, who can be reach at 
+(850) 452-7268/DSN 459 or via e-mail at joshua.c.rice(at)navy.mil.
+
+4.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

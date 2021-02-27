@@ -1,0 +1,76 @@
+UNCLASSIFIED/
+
+ROUTINE
+
+R 181952Z NOV 14 PSN 018663H24
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+BT
+UNCLAS
+
+NAVADMIN 264/14
+
+SUBJ/NEW NAVY STANDARDIZED FPO MAIL ADDRESS FORMAT//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N41/NOV// POC/Mr. Gabe 
+Telles/GS14/NAVSUP/Postal Director/Mechanicsburg PA
+/gabriel.telles(at)navy.mil/TEL:  (717) 605-6947//
+
+RMKS/1.  Navy Fleet Post Office (FPO) addresses for ships, mobile units, and 
+ashore FPOs are being converted to an address format compatible with the U.S. 
+Postal Service*s (USPS) address system, which is similar to the concept used 
+for residential addresses across the U.S.  New standardized address formats 
+will improve service, reduce mail transit times, and improve efficiency for 
+Navy FPO directory services performed afloat and ashore.
+    A.  For ships, official mail addresses began converting to the
+    new format effective 1 October 2014, with personal address
+    conversion starting 15 November 2014.  Fleet Postal Officers and
+    Postal Assistance Advisors will directly contact ships to assist
+    Supply Officers with implementation guidance.
+    B.  For ashore FPOs, the new format is effective immediately and
+    will be implemented by Regional Postal Managers and Postal
+    Assistance Advisors.
+    C.  For Navy mobile units, the new address format is effective
+    immediately and will be provided each time a Mobile Routing
+    Instruction is requested.
+
+2.  Ships and Mobile Units will include a new unit number and
+*virtual* box number along with a 5-digit ZIP Code in the Navy standardized 
+address format as follows:
+    Line 1:  Name
+    Line 2:  Ship or Mobile Unit name
+    Line 3:  Ship or Mobile Unit number, box number
+    Line 4:  FPO (AP, AE, AA) ZIP Code (5 digits only)
+
+3.  Ashore FPOs now include a Postal Service Center (PSC) number and box 
+number along with a 5-digit ZIP Code in the address as follows:
+    Line 1: Name
+    Line 2: PSC number, box number
+    Line 3: FPO (AP, AE, AA), ZIP Code (5 digits only)
+
+4.  Benefits to the Navy using the new address format are:
+    A.  Postal patrons will be able to use the USPS*s Internet Change
+    of Address process at https://www.usps.com/ when rotating to/from
+    new assignments that use FPO addresses.
+    B.  USPS mail software requires only 5-digit ZIP Codes on new
+    Navy addresses.
+    C.  Reduced mail transit times because mail will be automatically
+    redirected to new forwarding addresses.
+
+5.  Please ensure widest distribution of new Navy standardized FPO mail 
+address format.
+
+6.  This message supersedes all previous FPO address guidance.  Additional 
+addressing information and assigned unit addresses / box numbers will be 
+provided in upcoming messages from CPF and USFF Fleet Postal Officers.
+
+7.  Released by VADM P. H. Cullom, OPNAV N4.//
+
+BT
+#6477
+NNNN
+UNCLASSIFIED//
+

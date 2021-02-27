@@ -1,0 +1,78 @@
+UNCLASSIFIED
+ROUTINE
+R 151850Z NOV 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 273/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/IMPLEMENTATION OF RETIREMENTS AND SEPARATIONS FUNCTIONALITY WITHIN NAVY 
+STANDARD INTEGRATED PERSONNEL SYSTEM//
+
+REF/A/MSG/CNO WASHINGTON DC/081501ZJUN16//
+NARR/REF A IS NAVADMIN 133/16, IMPLEMENTATION OF RETIREMENTS AND SEPARATIONS 
+FUNCTIONALITY WITHIN NAVY STANDARD INTEGRATED PERSONNEL SYSTEM OVERVIEW.//
+
+RMKS/1.  This NAVADMIN announces a self-service function for Retirements and 
+Separations (RnS) within Navy Standard Integrated Personnel System (NSIPS).  
+This functionality allows members to initiate requests electronically via 
+NSIPS self-service, route them through their chain of command for review and 
+recommendation, and then electronically route the request to Navy Personnel 
+Command for a decision.  This improvement provides transparency for our 
+service members on the status of their requests, an integrated waiver process 
+when needed, and electronic notification of the final disposition of requests 
+for both the member and the command.  This new capability is another interim 
+enhancement to our legacy systems, while the new systems and processes of 
+Sailor 2025 are finalized.
+
+2.  Commands with access to NSIPS Web are directed to set up their command 
+hierarchy in preparation of full Fleet utilization by 1 January 2018.  The 
+NSIPS Web-Afloat implementation timeline is dependent on the ship 
+modernization process and will be completed in approximately 24 months.
+
+3.  Directions for setting up the command hierarchy, which is necessary to 
+for routing requests and other useful information to Navy Personnel Command, 
+is posted on the NSIPS main page, beneath the Training section titled User 
+Productivity Kit (UPK).  In the UPK section, select RnS Training then Command 
+Setup Training.
+
+4.  All officers submitting their voluntary resignation or retirement and 
+enlisted personnel submitting their transfer request to the Fleet Reserve are 
+must utilize NSIPS for requests initiated on or after 1 January 2018.  Since 
+functionality is already available, members and commands may start to use 
+NSIPS (RnS) immediately.  Members who are deployed without NSIPS Web access 
+shall submit their request through their shore-based chain of command, who 
+will then submit their request via NSIPS.  A sample demonstration of how to 
+fill out a request is located in the RnS Training section of the UPKs.  
+Statutory retirement notifications are now being generated through NSIPS to 
+eliminate printing and distributing business letters via the postal service.  
+The benefits of electronic delivery include a time/date stamp and a 
+read/unread status, and the copy of the letter remains in the record of the 
+member for future reference.  Service members must ensure their email 
+addresses in NSIPS are correct to ensure timely delivery.
+
+5.  Points of contact are Mr. Mike Majeskie, Enlisted Retirements/Fleet 
+Reserve (PERS-836), who can be reached at (901) 874-3246/DSN 882 or via e-
+mail at mike.majeskie(at)navy.mil, Mr. Dan McCoy, Drilling Reserve Enlisted 
+Retirements/Fleet Reserve and Drilling Reserve Officer Retirements (PERS-
+912), who can be reached at (901) 874-4604 or via e-mail at 
+daniel.mccoy2(at)navy.mil, Mr. Mike Wallace, Officer Retirements (PERS-835), 
+who can be reached at (901) 874-3180/DSN 882 or via e-mail at 
+michael.p.wallace(at)navy.mil and Mr. Warren Jones, Officer Resignations 
+(PERS-45), who can be reached at (901) 874-2085/DSN 882 or via e-mail at 
+warren.d.jones(at)navy.mil.
+
+6.  Released by Vice Admiral R. P. Burke, N1. //
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

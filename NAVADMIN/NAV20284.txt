@@ -1,0 +1,112 @@
+UNCLASSIFIED//
+ROUTINE
+R 231208Z OCT 20 MID200000261284U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 284/20
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/EXTENSION OF NEW GLOBAL AUTHORIZED DEPARTURE FOR INDIVIDUALS AT HIGHER 
+RISK FROM COVID-19//
+
+REF/A/MEMO/OSD/16SEP2020//
+REF/B/NAVADMIN/OPNAV/222028ZSEP20//
+REF/C/MEMO/OSD/13OCT2020//
+REF/D/NAVADMIN/OPNAV/291910ZMAY20//
+REF/E/MEMO/OSD/8SEP2020//
+REF/F/MEMO/OSD/6AUG2020//
+
+NARR/REF A IS MEMO FROM UNDERSECRETARY OF DEFENSE FOR PERSONNEL AND READINESS 
+(USD PR), AUTHORIZED DEPARTURE-INDIVIDUALS AT HIGHER RISK FROM COVID-19.  
+REF B IS NAVADMIN 264/20, NEW GLOBAL AUTHORIZED DEPARTURE AND TERMINATION 
+PROCESS FOR INDIVIDUALS AT HIGHER RISK FROM COVID-19.  
+REF C IS MEMO FROM USD PR, AUTHORIZED DEPARTURE TRANSITION AND TERMINATION 
+INDIVIDUALS AT HIGHER RISK FROM COVID-19.  
+REF D IS NAVADMIN 159/20, TERMINATION OF DEPARTURE AUTHORITY FOR INDIVIDUALS 
+AT HIGHER RISK FROM COVID-19.  
+REF E IS MEMO FROM USD PR, AUTHORIZED DEPARTURE TERMINATIONS AND REQUESTED 
+RETURNS- INDIVIDUALS AT HIGHER RISK FROM COVID-19.  
+REF F IS MEMO FROM USD PR, FORCE HEALTH PROTECTION GUIDANCE (SUPPLEMENT 12) - 
+DEPARTMENT OF DEFENSE GUIDANCE FOR PERSONNEL TRAVELLING DURING THE 
+CORONAVIRUS DISEASE 2019 PANDEMIC.//
+
+RMKS/1.  References (a) and (b) announced a new global authorized departure 
+effective 10 September 2020 to 9 October 2020.  In line with reference (c), 
+this NAVADMIN announces an authorized departure extension from 10 October 
+2020 to 9 December 2020.
+
+2.  This NAVADMIN applies to those Department of Defense (DoD) eligible 
+family members (EFM) and civilian employees who are currently at their safe 
+haven location.  DoD EFMs and civilian employees who did not have travel 
+orders approved prior to 7 May 2020, are not permitted an authorized 
+departure extension under reference (c).
+
+3.  All associated guidance for safe haven extensions described in reference 
+(d) remain in effect at the termination of the authorized departure extension 
+on 9 December 2020.  Requests for extension of safe haven allowances beyond 9 
+December 2020 may be submitted to OPNAV N130 via email at 
+nxag_n130c(at)navy.mil.
+
+4.  In line with reference (c), Safe Haven allowances for DoD EFMs and 
+civilian employees will be reduced to 50 percent of the maximum allowable 
+rate from 10 October 2020 through 8 November 2020, and to 25 percent of the 
+maximum allowable rate from 9 November 2020 through 8 December 2020.
+
+5.  The Department of State (DOS) announced in reference (e) that, unless 
+terminated earlier, the authorized departure for individuals at higher risk 
+from COVID-19 (Global Authorized Departure) will terminate on an individual 
+country basis after that country has ended phase 3 of its Diplomacy Strong 
+Framework.  DoD EFMs and civilian employees are required to return to their 
+permanent duty station (PDS) when DOS terminates the global authorized 
+departure for the country in which they are assigned.  Once the global 
+authorized departure terminates for a given country or individuals are 
+otherwise authorized to return voluntarily, DoD EFMs are authorized safe 
+haven allowances for a grace period of up to 10 days, if necessary, for 
+individuals to make arrangements to return to their PDS.  The DOS phase 
+tracker can found at MyNavy Portal https://www.mnp.navy.mil/group/don-covid-
+19-travel-tracker.  This website requires a Common Access Card (CAC) to login 
+unless the Service Member has previously set up a CAC-free account on MyNavy 
+Portal.  This list should be checked frequently, as NAVADMINs will not be 
+released every time a country ends phase 3.
+
+6.  DoD EFMs and civilian employees may return to their PDS prior to the 
+termination of the evacuation if the individual meets the requirements 
+contained in reference (f) located at
+https://media.defense.gov/2020/Aug/06/2002472408/-1/-1/1/FHP-
+GUIDANCE-SUPPLEMENT-12.PDF as well as the requirements below.
+    a.  For countries in DOS phase 3.  Civilian employees are authorized to 
+return to their PDS.  DoD EFMs may return to the PSD of their sponsor if:
+        (1) their request to return is approved by their DoD component head, 
+and
+        (2) they will not require institutional quarantine or testing by the 
+host nation.
+    b.  For countries in DOS phase 2.  Civilian employees and DoD EFMs may 
+return to their PDS if:
+        (1) their request to return is approved by their DoD component head, 
+and
+        (2) they will not require institutional quarantine or testing by the 
+host nation.
+    c.  For countries in DOS phases 0 or 1, DoD EFMs must request approval to 
+return by exception through USD PR to the DOS Under Secretary for Management.
+
+7.  Service Members with questions regarding this NAVADMIN should contact 
+MyNavy Career Center, available 24/7, by phone at (833) 330- MNCC ((833) 330-
+6622) or via e-mail at askmncc(at)navy.mil.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,83 @@
+UNCLASSIFIED
+ROUTINE
+R 071852Z FEB 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 026/18
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/FEB//
+
+SUBJ/POLICY AND EXCEPTIONS TO MINIMUM ANTITERRORISM UNIFIED FACILITIES 
+CRITERIA STANDARDS FOR NAVY PROJECTS//
+
+REF/A/DOC/UFC 4-010-01/01OCT13//
+REF/B/DOC/OPNAVINST F3300.53C/26MAY09//
+REF/C/DOC/OPNAVINST 5530.14E/20NOV17//
+REF/D/DOC/OPNAVINST 11010.20H/24JUN15//
+NARR/REF A IS UFC 4-010-01, DOD MINIMUM ANTITERRORISM STANDARDS FOR 
+BUILDINGS, 01 OCTOBER 2013. 
+REF B IS OPNAVINST F3300.53C, NAVY ANTITERRORISM PROGRAM, 26 MAY 2009.  
+REF C IS OPNAVINST 5530.14E, NAVY PHYSICAL SECURITY AND LAW ENFORCEMENT 
+PROGRAM, 20 NOVEMBER 2017.  
+REF D IS OPNAVINST 11010.20H, NAVY FACILITIES PROJECTS, 24 JUNE 2015.//
+POC/R. STILES/CDR/OPNAV N4/ROBERT.STILES@NAVY.MIL/TEL: (703) 695-7204
+/DSN: 260-7204//
+
+RMKS/1. In anticipation of and consistent with expected OSD coordinated 
+revisions to reference (a), this message provides amplifying policy and 
+permanent exceptions to specific minimum Department of Defense (DoD) 
+antiterrorism (AT) Unified Facilities Criteria (UFC) standards in reference 
+(a).  Exceptions described in this message are effective immediately.
+
+2. Policy.  Any Navy project that requires adherence to reference (a) must be 
+planned and designed to the minimum DoD AT standards unless the applicable 
+geographic combatant commander (GCC) has established more stringent measures 
+in higher threat environments.
+
+3. Exceptions.  Requests to deviate above or below minimum DoD AT Standards 
+must be submitted and approved by Office of the Chief of Naval Operations 
+Shore Readiness Division (OPNAV N46) per references (b) through (d), unless 
+the deviation is to meet more stringent GCC measures, per paragraph 2, or to 
+enhance protection of defense critical infrastructure (DCI) as identified in 
+the Navy Critical Asset Management System.  Deviations for higher GCC or DCI 
+measures may be approved by the installation commanding officer.  For all 
+other projects located more than 50 feet on the interior side of a controlled 
+installation perimeter, the following permanent exceptions to reference (a) 
+apply:
+    a.	Standard 1:  Site plans and designs do not need to incorporate 
+minimum standoff distances, as defined in reference (a).
+    b.	Standard 2:  Unobstructed space must extend out 33 feet from the 
+building.  Roadways and parking are allowed within this space.
+    c.	Standard 6:  Existing buildings do not need to incorporate 
+progressive collapse resistance, as defined in reference (a).
+    d.	Standard 10:  Window systems, to include glazing, framing, 
+connections, and supporting structural elements, do not have to be designed 
+for blast resistance.  Neither dynamic analysis nor testing is required.  
+Subparagraph B-3.1.7 of reference (a) applies for all exterior glazing.
+    e.	Standard 12:  Door assemblies, to include doors, framing, 
+fasteners and anchorage, do not have to be designed or tested for blast 
+resistance.  Swinging exterior doors for inhabited areas must open outward.  
+Exterior doors for inhabited areas that do not swing outward should be 
+designed per subparagraph B-3.3.3 of reference (a) to mitigate the potential 
+to be propelled into inhabited areas.  Glazing in and around exterior doors 
+must comply with subparagraph 3d.
+
+4. Implementation of this policy is mandatory for all projects planned for 
+FY20 and beyond.  This policy does not relieve commanders of their 
+responsibility to identify and submit deviation requests to incorporate 
+unique AT measures associated with the project based on mission, conditions, 
+and terrorist threat.
+
+5. This policy remains in effect until superseded by a revision of reference 
+(a).
+
+6. Released by VADM D. R. Smith, N4//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,191 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 231648Z OCT 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+COMNAVRESFORCOM NORFOLK VA
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+COMNAVRESFORCOM NORFOLK VA//N1/NO1A//
+
+NAVADMIN 254/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/SELF SERVICE RECORD OF EMERGENCY DATA AND DEPENDENCY APPLICATION 
+REGIONAL PHASED IMPLEMENTATION SCHEDULE AND TRAINING AVAILABILITY//
+
+REF/A/MSG/CNO WASHINGTON DC/051859ZFEB09//
+
+AMPN/REF A IS NAVADMIN 043/09, MANDATORY USE OF THE NAVY STANDARD INTEGRATED 
+PERSONNEL SYSTEM (NSIPS) ELECTRONIC SERVICE RECORD (ESR).//
+
+RMKS/1.  This NAVADMIN announces the phased implementation of self- service 
+capability in the Electronic Service Record (ESR) within Navy Standard 
+Integrated Personnel System (NSIPS) for processing emergency contact and 
+dependency information.  Training for specific regions, along with self-paced 
+or individual training, is conducted by region and as operational schedules 
+permit over the next 24 months.  Updated processes and command requirements 
+are also added for clarification.  These new capabilities are interim 
+enhancements to our legacy systems, while the new systems and processes of 
+Sailor
+2025 are finalized.
+
+2.  Updated Process for Sailors:
+    a.  The data for Record of Emergency Data (RED) and Dependency 
+Application (DA) currently resides on the NAVPERS 1070/602, Dependency 
+Application/Record of Emergency Data, that is most commonly known as the Page 
+2.  This current single process has been separated into two documents, the 
+Dependency Application (NAVPERS
+1070/602) and Record of Emergency Data (DD Form 93).  The digitally signed DD 
+Form 93 is transmitted directly to the Official Military Personnel File 
+(OMPF) and the DA is submitted for review through a workflow.  This will 
+eliminate personally identifiable information
+(PII) violations that resulted from the co-processing of RED and DA 
+information.
+    b.  RED initiative is a self-service capability for Active and Reserve 
+members to manage their own record of emergency data.
+Service members can enter or update emergency data and generate a DD Form 93 
+for digital signature with their common access card (CAC).
+Once digitally signed and submitted by the Service member, the form is 
+electronically sent to the OMPF of the Service member.
+    c.  DA initiative is a self-service capability for Active and Reserve 
+members to enter or update dependency data and generate a NAVPERS 1070/602 
+form for electronic signature with their CAC.  Once digitally signed and 
+submitted by the Service member, the transaction will flow electronically to 
+the servicing personnel office for review and approval.  The servicing 
+personnel office will process all pay and entitlements associated with the 
+new DA and electronically submit the form to the OMPF of the Service member.  
+A review by servicing personnel office representatives is required because 
+changes to the DA form may impact the pay and allowances of a Service member.  
+This new capability also includes the ability to upload supporting 
+documentation in the form of scanned PDF files.
+
+3.  Updated Process for Commands.  Command Pay and Personnel Administrators 
+(CPPA) are required to request the Command RED and DA user role for the unit 
+identification code(s) (UIC) they manage.
+The Command RED and DA user role will provide the command direct access to 
+monitor pending transactions and review various RED and DA reports and 
+metrics.  Electronic reports provide command visibility to ensure Sailors are 
+in compliance with annual RED and DA verification requirements.  To gain 
+access, CPPA will be required to submit two system access authorization 
+requests (SAAR).  They are both located on the NSIPS homepage 
+https://nsipsprod.nmci.navy.mil/ (CAC access required).  The electronic SAAR 
+can be accessed by clicking "New Users" link and the SAAR-N can be accessed 
+by clicking on the SAAR-N Form, OPNAV 5239 link.
+
+4.  System Access.  Both RED and DA will reside within NSIPS ESR.
+For those who have not established an ESR self-service account as directed in 
+reference (a), establish an ESR self-service account
+via:  https://nsipsprod.nmci.navy.mil/ (CAC access required).
+
+5.  Timeline:
+    a.  Shore Commands.  The operational test originated with the alpha 
+assessment which consisted of two customer commands Personnel Support 
+Detachment (PSD) Memphis and PSD Pearl Harbor.
+Live operational bravo assessment processing of RED and DA functionality 
+began in February 2016 with PSDs Naval Station Norfolk, Little Creek, Great 
+Lakes, Naval Base San Diego, Jacksonville, Kings Bay, Memphis, Okinawa, Port 
+Hueneme, Navy Operational Support Center (NOSC) Norfolk, NOSC San Diego, and 
+350 Customer Commands nominated by their respective Type Commanders.
+Following successful operational bravo assessment, RED and DA was expanded on 
+17 July 2017 to all customer commands of the aforementioned PSDs.
+    b.  Phased Implementation.  Instructor Led Training and site support will 
+be led by Mr. John Courtney at PERS-2 for active component and CNRFC N01A 
+YNCS Reid and PSC Roettger for Reserve component commands.  Regional site 
+support training and schedules will be announced and supported by the above 
+representatives and posted on the Commander, Navy Personnel Command 
+(COMNAVPERSCOM), Pay and Personnel Support Branch (PERS-2) SharePoint site 
+https://mpte.navy.deps.mil/sites/npc/pers2/NPPSC/Training/PSD%20COI%
+20CPPA.aspx (CAC access required).  Contact your servicing PSD in your area 
+for specific date and time for scheduled training.  On- line training in the 
+form of Job Performance Aids is also available on the NSIPS splash page at 
+https://nsipsprod.nmci.navy.mil/ (CAC access required).
+    c.  Planned Schedule:
+        (1) Northwest Region:  Whidbey Island, Everett & Kitsap, WA
+30 October - 3 November 2017
+        (2) Southwest Region:  San Diego, North Island, Point Loma, Camp 
+Pendleton, Port Hueneme, Lemoore, CA & Fallon, NV
+13-22 November 2017
+        (3) Northeast Region:  PSD Washington, DC, Patuxent River, FT Meade, 
+Bethesda, MD, New London, CT & Newport, RI 27 November
+4 December 2017
+        (4) Midwest Region:  San Antonio, Corpus Christi, Dallas, TX & 
+Oklahoma City, OK 8-12 January 2018
+        (5) Mideast Norfolk Region:  Oceana, Norfolk & Little Creek VA 22-26 
+January 2018
+        (6) Europe & Middle East Region:  Naples Sigonella, Rota, & Bahrain 
+22-31 January 2018
+        (7) Far East:  Atsugi, Chinhae, Yokosuka, & Misawa
+5-9 February 2018
+        (8) Far East:  Iwakuni, Sasebo & Okinawa 12-16 February 2018 Guam & 
+Pearl Harbor, HI 20-23 February 2018
+        (9) Great Lakes, IL 12-16 March 2018
+    d.  CNRFC N01A and N1 will conduct instructor led training for Reserve 
+Component Commands (RCC) N1 designated personnel, at CNRFC, and Site Support 
+by RCC region via teleconference.  Dates for Train- the-Trainer will be 
+announced by CNRFC separate correspondence.
+    e.  NSIPS Web-Afloat implementation timeline is dependent on the ship 
+modernization process and will be completed in about 24 months after initial 
+roll-out.
+
+6.  Training, Policy, and Standing Operating Procedure (SOP)
+Resources:
+    a.  To contact COMNAVPERSCOM, PERS-213 concerning RED and DA training 
+resources, send an email to:  PERS- 21_talent_management(at)navy.mil or 
+contact Dr. Tom Palmer at (901) 874-2215/DSN 882 or Mr. Dave Lenagar at (901) 
+874-2234/DSN 882.
+CPPA training resource materials are located at:
+https://mpte.navy.deps.mil/sites/npc/pers2/NPPSC/Training/PSD%20COI%
+20CPPA.aspx (CAC access required) and for any questions email:
+pers21_95ad.fct(at)navy.mil
+    b.  Governing Instructions; MILPERSMAN 1070-270, Dependency Application, 
+and MILPERSMAN 1070-271, Record of Emergency Data, will contain the new 
+guidance and instructions.  Current dependency application procedures will be 
+maintained in MILPERSMAN 1070-270 until all afloat units have transitioned to 
+RED and DA application.
+    c.  End-to-end SOPs are being developed by COMNAVPERSCOM, Navy Casualty 
+Branch (PERS-13) and PERS-2 functional owners and will be posted to the 
+Manpower, Personnel, Training, and Education portal for use by Service 
+members, CPPAs, command leadership, and personnel support representatives.
+https://mpte.navy.deps.mil/sites/npc/pers2/RED%20DA/Forms/AllItems.a
+spx (CAC access required).
+
+7.  Points of Contact
+    a.  Training implementation lead for Active component is Mr.
+John Courtney, at (901)874-2231/DSN 882 or email:
+john.g.courtney(at)navy.mil; Reserve component is YNCS Christopher Reid, 
+CNRFC N01A, at (757)445-8597 DSN 565 or e-mail:
+christopher.t.reid(at)navy.mil; or PSC Steven Roettger, CNRFC N01A, at 
+(757)322-5689/DSN 262 or e-mail:  steven.roettger(at)navy.mil.
+    b.  For ESR access, any RED and DA problems or transaction failures, 
+contact the NSIPS/ESR Help Desk at (877) 589-5991, or
+(504) 697-5442/DSN 647; e-mail:  nsipshelpdesk(at)navy.mil.
+    c.  RED.  For information regarding content of the DD Form 93, contact 
+Mr. Alan Gorski, PERS-13, at (901) 874-4559/DSN 882 or e-
+mail:  alan.gorski(at)navy.mil.
+    d.  DA.  For information on program status or issues with the DA form, 
+contact Mr. John Courtney, COMNAVPERSCOM, Systems and Programs Branch (PERS-
+222), at (901) 874-2231/DSN 882 or e-mail:
+john.g.courtney(at)navy.mil.
+    e.  NPPSC PERS-23 Personnel Officer CWO4 Kevin Powers at (901)
+874-4517 or e-mail:  kevin.a.powers1(at)navy.mil and Training Officer LT 
+Olivia Jones at (901) 874-2177/DSN 882 or e-mail:
+olivia.jones(at)navy.mil.
+
+8.  Released by Vice Admiral R. P. BURKE, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

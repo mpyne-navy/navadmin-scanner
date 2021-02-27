@@ -1,0 +1,131 @@
+RTTUZYUW RUEWMCS0000 1911726-UUUU--RUCRNAD.
+ZNR UUUUU
+R 101726Z JUL 13
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS //N04770//
+
+NAVADMIN 175/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N9//
+
+SUBJ/FY14 PROJECTED SHIP INACTIVATION SCHEDULE//
+
+REF/A/DOC/SECNAVINST 4900.50A/04OCT2011// 
+
+REF/B/DOC/OPNAVINST 4770.5G/06FEB09// 
+
+REF/C/DOC/OPNAVINST 5441.1/14SEP11// 
+
+REF/D/DOC/OPNAVINST 5400.44A/13OCT11//
+
+NARR/Ref (a) is SECNAV policy for the transfer of U.S. naval vessels 
+to foreign governments and international organizations.  Ref (b) is 
+OPNAV policy and guidance for the inactivation, retirement, and 
+disposition of U.S. naval vessels.  Ref (c) is the OPNAV policy for 
+reporting changes in status to U.S. naval vessels to the Naval Vessel 
+Register.  Ref (d) is the Navy Organizational Change Manual that 
+provides guidance and procedures for the establishment, 
+disestablishment or modification of fleet and shore activities of the 
+U.S. Navy.//
+
+POC/B. Lewis/CIV/N9ISC3/LOC: Washington DC/Tel: 703-614-2253/ DSN 224-
+2253/email: barbara.lewis1@navy.mil//
+
+RMKS/1.  This NAVADMIN shall be read in its entirety to ensure all 
+stakeholders in the ship inactivation process are aware of the 
+projected inactivation schedule for the upcoming fiscal year, their 
+respective responsibilities, and any necessary follow-up actions.  For 
+the purposes of this NAVADMIN, the inactivation date in paragraph 2 
+reflects the start of the planned inactivation availability for a 
+nuclear ship or the official retirement date for non-nuclear ships.
+
+2.  The projected FY14 ship inactivation schedule for inactivating 
+U.S. naval ships is promulgated as follows to facilitate fleet 
+planning efforts to conduct an inactivation availability:
+Ship Name                         Inactivation   Post Decom Status
+USS FORD (FFG 54)                 31 Oct 2013     See Note 1
+USS THACH (FFG 43)                15 Nov 2013     See Note 1
+USS NICHOLAS (FFG 47)             17 Mar 2014     See Note 1
+USS ROBERT G BRADLEY (FFG 49)     28 Mar 2014     See Note 1
+USNS OBSERVATION ISLAND (T-AGM 23)01 Apr 2014     See Note 2
+USS DE WERT (FFG 45)              04 Apr 2014     See Note 1
+USS RENTZ (FFG 46)                23 May 2014     See Note 1
+USS AVENGER (MCM 1)               30 Aug 2014     See Note 3 
+USS HALYBURTON (FFG 40)           08 Sep 2014     See Note 1
+USS DALLAS (SSN 700)              26 Sep 2014     See Note 4
+USNS BRIDGE (T-AOE 10)            30 Sep 2014     See Note 5
+USS DENVER (LPD 9)                30 Sep 2014     See Note 5
+
+Note 1:  Designated for foreign military sale (cold).  It is Navy 
+policy that ships designated for FMS transfer shall not be stripped.  
+Stripping of ships provides diminished operational capability to 
+maritime partners and corrodes our efforts to build maritime partner 
+capacity.  TYCOMS are required to ensure strict adherence to this 
+direction.  NAVSEA PMS 326 will issue additional guidance via SEPCOR 
+to Fleet TYCOMS identifying non-transferrable technology.  Except in 
+the case of C3/C4 emergent CASREPS, no removals of installed equipment 
+(e.g., Combat, C4I, HME SYSTEMS, etc.) will be permitted except as 
+specifically authorized by OPNAV N9I in response to a record request 
+submitted by PEO IWS or respective NAVSEA ship program office no later 
+than 90 days prior to the ships official retirement date that 
+includes:  a comprehensive list (by ship) of specific installed 
+equipment desired for removal; justification for the removal that 
+includes evidence that the Navy supply system, TYCOM/RMC is unable to 
+fulfill the requirement; an assessment of the requestor's ability to 
+restore the equipment in operational condition in the event the vessel 
+transfers as a cold FMS ship; and coordination via the respective 
+Systems Command.  All other equipment/supply removals are to be 
+conducted per ref (a).     
+
+Note 2:  Dismantlement (scrap).  MSC shall submit a naval message per 
+ref (b) NLT 90 days prior to the ships' inactivation to CNO WASHINGTON 
+DC //00/09/N4/N42/N9/N9I//, COPY COMNAVSEASYSCOM WASHINGTON DC//SEA 
+05/21/, INACTSHIPOFF PORTSMOUTH VA//00/01// and supporting activities 
+advising of the planned retirement, disposition, and funding ISO the 
+ships' inactivation.  MSC shall coordinate directly with NAVSEA 21I 
+regarding lay-up requirements and custody transfer to either NAVSEA or 
+MARAD.  MSC shall adhere to refs (b) and (c) status reporting 
+requirements.  
+
+Note 3:  Utilize as a logistic support asset primarily ISO remaining 
+ships in its class.
+
+Note 4:  Date inactivation begins in a naval shipyard and the unit is 
+no longer available for operational tasking.  Official status of the 
+vessel will be in-commission/in-reserve (ICIR) pending final 
+decommissioning.  Final decom date shall be reported to the CNO and 
+NVR Custodian per refs (b) and (c).
+
+Note 5:  Retain in a retention status under NAVSEA custody ISO future 
+mobilization requirements. 
+
+3.  Per refs (b) and (d), COMPACFLT and COMUSFLTFORCOM shall 
+coordinate with their respective Type Commanders and submit an 
+organizational change request (OCR) with enough lead time for OPNAV to 
+staff and approve the final decommissioning/inactivation of a naval 
+vessel.  
+
+4.  Per ref (b), all ship Commanding Officers/Masters or Ship 
+Immediate Superior in Command (ISIC) shall send a separate naval 
+message announcing that the actual retirement date has occurred.  It 
+shall be addressed to CNO WASHINGTON DC//00/09/N1/N2/N6/N4/N3/N5/ 
+support activities, COMNAVSEASYSCOM WASHINGTON DC//SEA 05C/SEA 21// 
+and NAVHISTHERITAGECOM N8/N9/N9I//.  Info addees shall include the 
+chain of command, all appropriate WASHINGTON DC.  Message should give 
+a brief history of the life of the ship to include significant events.
+
+5.  Adjustments to a ship's official inactivation date that crosses 
+the current fiscal year must be coordinated with OPNAV N9I per ref (b) 
+due to the reporting requirement that Navy must inform Congress on 
+execution year force structure changes that differ from what Congress 
+authorized/appropriated and signed into law by the President.  OPNAV 
+shall promulgate changes to the inactivation year as required.
+
+6.  Released by VADM J. P. Aucoin, Deputy Chief of Naval Operations, 
+Warfare Systems (N9).//
+BT
+#1950
+NNNN
+

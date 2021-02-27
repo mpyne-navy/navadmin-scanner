@@ -1,0 +1,66 @@
+UNCLASSIFIED
+ROUTINE
+R 281715Z NOV 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 260/16 //
+
+MSIG/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/RELEASE OF THE TRANSITION ASSISTANCE PROGRAM ELECTRONIC FORM FOR 
+TRANSITION GOALS, PLANS, SUCCESS COUNSELING//
+
+REF/A/DOC/DOD/26SEP16//
+AMPN/REF A IS ASSISTANT SECRETARY OF DEFENSE MEMORANDUM, OFFICIAL DEPLOYMENT 
+OF THE TRANSITION ASSISTANCE PROGRAM (TAP) ELECTRONIC FORM (EFORM) and 
+ENTERPRISE DATABASE.//
+
+RMKS/1.  This NAVADMIN announces the deployment of the new electronic form 
+(eForm) called Service Members Pre-Separation/Transition Counseling and 
+Career Readiness Standards eForm for Service Members Separating, Retiring, or 
+Released from Active Duty (REFRAD) (DD Form 2648).  The new DD Form 2648 
+replaces the current Active-Duty Pre-Separation Checklist (DD Form 2648),
+Transition Assistance Program (TAP) Checklist for Deactivationg / 
+Demobilizing National Guard and Reserve Service Members (DD Form 2648-1), and 
+Service Members Individual Transition Plan Checklist (DD Form 2958) used for 
+Transition Goals, Plans, Success (GPS) and will improve data accuracy, create 
+efficiencies, and streamline TAP data-gathering and sharing.
+
+2.  The new eForm was developed in three main phases and is designed to 
+support the Transition GPS process:
+    a.  Pre-Separation Counseling - Mandatory counseling that is provided to 
+eligible Service Members by TAP staff or command career counselors to inform 
+members of services, benefits, curriculum, assessments, career readiness 
+standards (CRS) deliverables, and individual transition plan during and after 
+their separation, retirement, or release from active duty.
+    b.  CAPSTONE Review - Mandatory phase in which eligible Service Members 
+produce evidence of the deliverables that meet the CRS to TAP staff or 
+command career counselors before commander verification of CAPSTONE.
+    c.  Commander Verification - Mandatory phase in which eligible Service 
+Members produce evidence of the deliverables that meet the CRS to the 
+commander or their designee before separation, retirement, or release from 
+active duty.
+
+3.  Transition officers/career counselors/transition counselors must use the 
+Defense Manpower Data Center web based TAP applications online tool to review 
+and submit forms at https://pki.dmdc.osd.mil/tacl/.
+
+4.  Additional information on the eForm is available at 
+http://www.public.navy.mil/bupers-npc/career/Transition/pages/tap.aspx.
+
+5.  Point of contact is Mr. Tom Albert, OPNAV N170C, at (901) 874-4254/DSN 
+882, or via e-mail at tom.albert(at)navy.mil.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

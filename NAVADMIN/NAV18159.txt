@@ -1,0 +1,336 @@
+UNCLASSIFIED
+ROUTINE
+R 031145Z JUL 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 159/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FY-19 SENIOR ENLISTED CONTINUATION BOARD//
+
+REF/A/DOC/BUPERS/1MAY15//
+REF/B/DOC/BUPERS/5OCT15//
+NARR/REF A IS BUPERSINST 1610.10D, NAVY PERFORMANCE EVALUATION SYSTEM.  
+REF B IS MILPERSMAN 1160-120, HIGH YEAR TENURE.//
+
+RMKS/1.  This NAVADMIN announces convening of the FY-19 Senior Enlisted 
+Continuation Board (SECB) on 3 December 2018.  The SECB will carefully 
+consider, without prejudice or partiality, the record of every eligible 
+candidate and identify Sailors whose service is no longer in the best 
+interest of the Navy.  Among many factors reviewed, documented misconduct 
+and/or substandard performance within the past three years will be considered 
+to determine whether to continue a board-eligible Sailor.  Examples include, 
+but are not limited to, receipt of an evaluation with an individual trait 
+grade of 2.0 or below or any documented circumstance related to performance 
+that resulted in a Sailors inability to perform in the rating or required 
+duties (e.g., loss of a security clearance in a rating that requires a member 
+to maintain continuous eligibility).
+
+2.  Eligibility
+    a.  Time in service
+         (1) Active Component (AC) and Full-Time Support (FTS) E7-E9 Sailors 
+with at least 19 years of active service computed from their active duty 
+service date to 31 August 2018 and 3 years time-in-rate
+(TIR) as of 31 August 2018 will be considered by the SECB.
+         (2) Selected Reserve (SELRES) and Voluntary Training Unit
+(VTU) E7-E9 Sailors with at least 20 years of qualifying service as of 31 
+August 2018 and three years TIR as of 31 August 2018 will be considered by 
+the SECB.
+    b.  Fleet Reserve retirement approval
+        (1) All Sailors who, as of 16 November 2018, have either a Navy 
+Personnel Command (NPC) final authorization to transfer to the Fleet Reserve 
+or an approved request to retire on or before 1 September 2019 will be exempt 
+from the SECB.  Approved requests will not be modified after 16 November 
+2018.
+        (2)  Sailors meeting all other eligibility requirements who have an 
+NPC approved transfer to the Fleet Reserve/retirement/ Retired Reserve (with 
+or without pay) after 1 September 2019 will be considered by the SECB.
+    c.  Sailors selected for Chief Warrant Officer (CWO) by the Limited Duty 
+Officer/CWO In-service Procurement Board held in January 2018 or selected by 
+the FY-19 advancement boards will be exempt from the SECB.  CWO selectees who 
+decline appointment or are removed from the selection list prior to 15 
+November 2018 and meet all other SECB eligibility criteria will be considered 
+by the SECB.
+
+3.  Critical Skills Retention Bonus (CSRB)/Selective Retention Bonus (SRB).
+    a.  AC/FTS Sailors not selected for continuation shall have the unearned 
+portion of any CSRB recouped based on date of transfer to the Fleet Reserve 
+or retirement, whichever occurs first.  For questions regarding recoupment 
+contact OPNAV N130D at nxag_n130d(at)navy.mil.
+    b.  SELRES Sailors not selected for continuation shall have the unearned 
+portion of any SRB recouped based on the date of transfer to the Retired 
+Reserve.  For questions regarding recoupment, contact LCDR Robert Brown 
+(CNRFC N11) at (757) 322-2262, or e-mail at robert.l.brown16(at)navy.mil.
+
+4.  Timeline of events and deadlines.
+    a.  1 October 2018.  The Selection Board Eligibility Branch
+(PERS-802) will forward the SECB eligibility list to Naval Education and 
+Training Professional Development Center (NETPDC (N321)).
+    b.  8 October 2018.  NETPDC (N321) will publish the names of the eligible 
+Sailors to the Navy Enlisted Advancement System website, accessible by 
+command designated personnel at https://prod.neas.netc.navy.mil.  Individual 
+Sailors may view their SECB eligibility at https://prod.neas.netc.navy.mil/ 
+neasrpts/continuationboardind.aspx.
+    c.  8 October - 15 November 2018
+        (1) Sailors and commands must verify the eligibility list and ensure 
+any Sailor not eligible is identified and removed from the list by 15 
+November 2018.  Absent action, these Sailors will remain eligible for the 
+board and will forfeit any waiver or appeal process.
+        (2) Commands shall verify the eligibility list weekly until
+15 November 2018 as the list will be updated while NPC reviews eligibility 
+issues.
+        (3) Sailors who are on the eligibility list as of 16 November 2018 
+will be considered by the SECB.  Requests for subsequent removal from the 
+list will not be approved.
+    d.  24 October 2018
+        (1) By this date, if an eligible Sailor is not listed, commands must 
+submit the Sailors name to PERS-802 requesting the member be added to the 
+SECB eligibility list.  Requests for subsequent additions to the list of 
+eligible will not be approved.
+        (2) Submit eligibility changes via e-mail to PERS-802 to 
+npc_enlisted_selbd_elig.fct(at)navy.mil.
+    e.  16 November 2018.  Letters to the board (LTB) deadline.
+LTBs must be received by the NPC Customer Service Center (CSC) by
+2359 Central Standard Time (CST), 16 November 2018.  See paragraph 5 for LTB 
+guidance.
+    f.  3 December 2018.  FY-19 SECB convenes.
+    g.  TBD (Once results are released).  Commanding officers (COs) will be 
+notified via PERSONAL FOR NAVADMIN that the results have been posted on 
+BUPERS Online (BOL) for command access only.  COs have 7 calendar days to 
+notify and counsel those members not selected for continuation.  See 
+paragraph 6 for counseling and other command responsibility guidance.
+    h.  16 March 2019
+        (1) Last day for Sailors not selected to continue to submit a Fleet 
+Reserve/retirement/Retired Reserve (with or without pay) request to PERS-836 
+for AC and FTS, or PERS-912 for SELRES and VTU.
+Sailors who are not selected to continue who have requested a Fleet Reserve 
+date after 31 August 2019 or retirement date after 1 September 2019 must 
+submit a new request to PERS-836 or PERS-912 for a Fleet Reserve transfer 
+date of 31 August 2019 or earlier, or retirement date of 1 September 2019 or 
+earlier.
+        (2) Last day for commands to submit operational waiver or readiness 
+appeal requests for their Sailors who were not selected to continue.  See 
+paragraph 7 for guidance on waivers and readiness appeals.
+    i.  1 September 2019.  If not approved for an operational waiver, this is 
+the last authorized effective date for Sailors not selected to continue to 
+transition to the Fleet Reserve/retirement/ Retired Reserve (with or without 
+pay).
+    j.  1 December 2019.  If approved for an operational waiver, this is the 
+last authorized effective date for Sailors not selected to continue to 
+transition to the Fleet Reserve/retirement/Retired Reserve (with or without 
+pay).
+
+5.  LTB Guidance.  A Sailors entire record is available for review in 
+determining whether a Sailor should be continued.  Incomplete or incorrect 
+records may have an impact on a Sailors selection for continuation.  Commands 
+should take proactive steps to ensure eligible Sailors records are properly 
+updated and that Sailors review their Official Military Personnel File (OMPF) 
+and Performance Summary Record (PSR) and submit a LTB as appropriate.  Each 
+Sailor should review his or her OMPF and PSR and then exercise reasonable 
+diligence to ensure his or her record is complete and accurate prior to 
+convening of SECB in time.  If the OMPF or PSR does not get updated in time, 
+Sailors should provide the missing or corrective documentation via his or her 
+LTB.  Sailors should not submit a LTB to notify the board that everything is 
+complete and accurate in their record.
+    a.  Sailors should check their OMPF and PSR for evaluation continuity.  
+Any evaluation gaps should be resolved by either submitting the missing 
+evaluations in an LTB or a statement in lieu of missing report per chapter 17 
+of reference (a).
+    b.  Communication to the board must originate from the individual Sailor.
+        (1) The LTB may address any information that the Sailor considers 
+important.  Sailors should not include items in their LTB that are already 
+included in their OMPF or PSR unless the OMPF version is unreadable or the 
+PSR is incorrect.
+        (2) The LTB must be either digitally signed using the Sailors 
+military identity certificate or signed with a hand-written signature.  
+Unsigned LTBs will not be presented to the board.
+        (3) Third party correspondence is any communication to the board 
+which is not accompanied by the Sailors signed LTB as a cover letter.  Third 
+party correspondence will not be presented to the board.  Commands are not 
+authorized to submit a message to NPC requesting information be presented to 
+the board.
+        (4) Information received that is not under a signed LTB or not 
+received by NPC CSC by the established deadline will not be presented to the 
+board.  To verify receipt of an LTB, go to 
+https://npccontactcenter.ahf.nmci.navy.mil/oa_html/npc.html or call the NPC 
+CSC.  Late or unsigned LTBs may be accepted by NPC Selection Board Support 
+Division, but will not be presented to the board and no feedback will be 
+provided to the submitter.
+        (5) All LTBs and each enclosure must contain the Sailors full name 
+and full social security number.  Sailors must verify that the correct board 
+number is on their signed cover letter.  The board number is 19478.
+    c.  The preferred method to submit a LTB is by encrypted e-mail to 
+cscselboard(at)navy.mil.  E-mailed LTBs must be encrypted to protect 
+personally identifiable information.  Trouble with file encryption does not 
+justify a late LTB.
+        (1) If unable to e-mail, Sailors may use regular mail to the 
+addresses below.  Mailed LTBs shall be on plain white paper and paper clipped 
+(no staples, binders, folders or tabs).
+
+            Navy Personnel Command Customer Service Center
+            President
+            FY-19 SECB 19478
+            5720 Integrity Drive
+            Millington, TN 38055
+
+        (2) Certified or registered mail is not advised due to delays in 
+handling.
+        (3) Sailors are authorized to submit more than one LTB vice waiting 
+until the deadline to submit one all-inclusive LTB.
+Although multiple LTBs are authorized, Sailors should not duplicate 
+previously sent information.
+
+6.  Counseling and command responsibility
+    a.  Counseling shall be documented on NAVPERS 1070/613 Administrative 
+Remarks (Page 13) created through Navy Standard Integrated Personnel System 
+(NSIPS) Electronic Service Record (ESR) and witnessed by the CO (by direction 
+is not authorized).  After counseling and signatures are obtained, using this 
+NAVADMIN as authority, forward the counseling Page 13 to PERS-313 to be 
+included in the members OMPF.  Page 13 format is available at 
+http://www.public.navy.mil/bupers-npc/boards/
+enlistedcontinuation/pages/default.aspx.
+    b.  Commands shall immediately contact PERS-833 at 
+enlistedpostboard(at)navy.mil if a Sailor not selected to continue has 
+transferred or is serving on an Individual Augmentation Manpower Management 
+(IAMM), Global Support Assignment (GSA), Overseas Contingency Operations 
+Support Assignment (OSA), or mobilization.
+    c.  Sailors with orders to or currently on an IAMM/GSA/OSA/mobilization 
+who are not selected to continue will be allowed to complete their 
+IAMM/GSA/OSA/mobilization tour and transfer to the Fleet 
+Reserve/retirement/Retired Reserve (with or without pay) following a maximum 
+period of 6 months after return from IAMM/GSA/OSA/mobilization tour to 
+complete the mandatory post- deployment health reassessment (PDHRA).  Sailors 
+not selected to continue who desire to transfer to the Fleet 
+Reserve/retirement/ Retired Reserve (with or without pay) less than 6 months 
+after return from IAMM/GSA/OSA/mobilization are encouraged to submit the date 
+of their choice.  Seven days after the release to command triad, a complete 
+list of those selected to continue and those not selected to continue will be 
+available on BOL for individual access.
+        (1) All Sailors with orders to or currently on an 
+IAMM/GSA/OSA/mobilization who are not selected to continue must complete a 
+statement of understanding and forward to PERS-833 at ENLISTED-
+POSTBOARD(at)navy.mil.  IAMM/GSA/OSA/mobilization statement of understanding 
+format is available at http://www.public.navy.mil/ bupers-
+npc/boards/enlistedcontinuation/pages/default.aspx.
+        (2) SELRES/VTU Sailors shall be assigned a Manpower Availability 
+Status Code of "ACB" by the Naval Reserve Activity and are ineligible to be 
+identified for new mobilization orders.
+        (3) In line with reference (b), SELRES Sailors who reach their high 
+year tenure (HYT) date while mobilized will be transferred to the VTU by the 
+end of the month in which the HYT date occurs and may continue on 
+mobilization orders.  SELRES Sailors who are not selected to continue will be 
+authorized to remain in the VTU for a maximum period of 6 months beyond their 
+demobilization date to complete the mandatory PDHRA.
+        (4) SELRES Sailors not reaching HYT and VTU Sailors shall remain in 
+the status held prior to mobilization tour.
+    d.  Sailors awaiting final medical board or physical evaluation 
+proceedings who are not selected to continue shall be held in their current 
+status until disposition of their case.  Within 30 days of disposition, 
+Sailors shall request to transfer to the Fleet Reserve/retirement/Retired 
+Reserve (with or without pay).  The effective date of retirement shall be 
+within 3 months of return to full duty status.
+
+7.  Waivers and readiness appeals.  Waivers or readiness appeals shall be 
+requested only to mitigate a severe operational impact that could result in 
+potential mission failure, not for convenience of the Sailor or to allow for 
+transition leave/temporary duty period.
+    a.  Operational waivers
+        (1) Operational waivers are limited to a maximum of 3 months.
+        (2) AC and FTS operational waivers are routed via the first flag 
+officer in the chain of command and approved by the Deputy Chief of Naval 
+Personnel.
+        (3) SELRES and VTU operational waivers are routed via the Echelon IV 
+Commander and approved by Commander, Navy Reserve Forces Command 
+(COMNAVRESFORCOM) (N1).
+        (4) Operational waiver format is available at http:// 
+www.public.navy.mil/bupers-npc/boards/enlistedcontinuation/
+pages/default.aspx.
+    b.  Readiness appeals.  Readiness appeals shall be requested only to 
+mitigate a severe readiness impact that cannot be resolved via an operational 
+waiver, not for convenience of the Sailor.  An approved readiness appeal will 
+remove the Sailors non-selection for continuation.  A command may submit a 
+readiness appeal with concurrence of the Sailor via their respective chain of 
+command as stipulated below.  Readiness appeals are approved by the Chief of 
+Naval Personnel (CNP).  Readiness appeal format is available at 
+http://www.public.navy.mil/bupers-npc/boards/enlistedcontinuation/
+pages/default.aspx.
+        (1) Readiness appeals may only be initiated by the CO of a Sailor not 
+selected for continuation.  Sailors who have been detached for cause, were 
+awarded non-judicial punishment/courts- martial, or have other adjudicated 
+misconduct between 2 December
+2015 and 3 December 2018 are not eligible to be considered for a readiness 
+appeal.
+        (2) A readiness appeal shall focus on the negative impact to unit or 
+force readiness if the Sailor is separated, not for the convenience of the 
+Sailor.
+        (3) Route AC and FTS appeal requests via the administrative chain of 
+command to the Type Commander (TYCOM).  If the TYCOM recommends approval, the 
+request is forwarded to PERS-833 for further routing to CNP for final 
+disposition.
+        (4) Route SELRES appeal requests through the administrative chain of 
+command via COMNAVRESFORCOM (N1) to the TYCOM.  If the TYCOM recommends 
+approval, the request is forwarded to PERS-833 for further routing to CNP for 
+final disposition.
+        (5) Route VTU appeal requests via the administrative chain of command 
+to COMNAVRESFORCOM (N1).  If COMNAVRESFORCOM (N1) recommends approval, the 
+request is forwarded to PERS-833 for further routing to CNP for final 
+disposition.
+        (6) If the TYCOM (AC/FTS/SELRES) or COMNAVRESFORCOM (N1)
+(VTU) does not recommend approval, the request is disapproved and is returned 
+to the requesting command.  The TYCOM or COMNAVRESFORCOM
+(N1) will forward an electronic copy of disapprovals to PERS-833 for record 
+retention.
+        (7) CNP decision is final and not subject to waiver/appeal to higher 
+authority.
+        (8) All Sailors who successfully appeal the non-selection for 
+continuation remain eligible for a later SECB as well as standard Navy 
+administrative separation processes.
+
+8.  Release of SECB results.  Certificate of Release or Discharge from Active 
+Duty (DD 214).  For AC/FTS Sailors, prepare DD 214 using the following 
+entries:
+Blk 23:  Transfer to the Fleet Reserve or Retired (as applicable).
+Blk 24:  Characterization of service as warranted by service record.
+Blk 25:  MILPERSMAN 1810-010 and current NAVADMIN directing
+         Continuation Board.
+Blk 26:  NBD.
+Blk 27:  RE-2.
+Blk 28:  Sufficient Service for Retirement.
+
+9.  Advancement and future continuation board consideration.
+Sailors not selected to continue are ineligible for further advancement 
+consideration by enlisted selection or in-service procurement boards.  Unless 
+approved for a readiness appeal, Sailors not selected for continuation by 
+this board are ineligible for consideration by a future continuation board 
+and shall be separated per the guidelines in this NAVADMIN.
+
+10.  Board membership.  Command Master Chiefs are encouraged to apply to 
+become SECB members, and non-eligible senior chief petty officers and chief 
+petty officers are encouraged to apply to become SECB recorders.  
+Applications must be received not later than 21 September 2018.  Point of 
+contact is PERS-805 at (901) 874-3223, or e-mail at 
+donald.p.marshall(at)navy.mil.  The application can be found at 
+http://www.public.navy.mil/bupers-npc/boards/
+activedutyenlisted/pages/generalinformation.aspx.
+
+11.  General information regarding this board can be found at 
+http://www.public.navy.mil/bupers-npc/boards/enlistedcontinuation/
+pages/default.aspx.
+
+12.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+13.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

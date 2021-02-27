@@ -1,0 +1,450 @@
+UNCLASSIFIED
+ROUTINE
+R 251901Z AUG 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 190/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/230112ZAUG08//
+REF/B/MSG/CNO WASHINGTON DC/031833ZDEC12//
+REF/C/MSG/CNO WASHINGTON DC/101615ZDEC15//
+NARR/REF A IS NAVADMIN 234/08, SEA SHORE FLOW ENLISTED CAREER PATHS.  REF B 
+IS NAVADMIN 361/12, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES (CORRECTED 
+COPY).  REF C IS NAVADMIN 284/15, SEA SHORE FLOW ENLISTED CAREER PATHS
+UPDATES FOR NUCLEAR-TRAINED ENLISTED PERSONNEL.//
+
+RMKS/1.  This NAVADMIN announces updates to sea shore flow (SSF) enlisted 
+career paths as established in reference (a) and revised in reference (b).  
+Reference (c) remains the governing SSF policy for nuclear-trained enlisted 
+personnel.
+
+2.  SSF is the personnel policy that assigns sea and shore duty tour lengths 
+for each enlisted rating as listed in paragraph 6 below.  In accordance with 
+reference (a), SSF replaced sea shore rotation (SSR) as the enlisted tour 
+length policy in 2008.  Reference (b) updated reference (a) in 2012 for 
+conventional ratings and reference (c) updated nuclear-trained-ratings in 
+2015.
+    a.  Taking into account unique sea and shore duty billet structure for 
+each enlisted rating, tour lengths are determined using the sea shore flow 
+model with inputs from rating experts (i.e., enlisted community managers), 
+detailers and major stakeholders such as U.S. Fleet Forces, Commander, 
+Pacific Fleet, type commanders, Commander Navy Installation Command, and 
+resource sponsors.
+    b.  Summary of changes from the 2012 NAVADMIN includes:
+        - 42 ratings will have no change to current tour lengths;
+        - 13 ratings have increased time on sea duty;
+        - 10 ratings have decreased time on sea duty;
+        - 5 AW ratings broken out separately with decreased time on sea duty;
+        - IT rating converts from inside/outside United States (INUS/OUTUS) 
+to sea/shore;
+        - MAs will serve a Dependent Restricted (type 3) duty in addition to 
+their first and/or second OUTUS/sea tour;
+        - STGs with 5 year contracts added to T+X program;
+        - T+X ratings adjusted based on projected initial time to train;
+        - Change to notes for PR, CT, MA and T+X ratings;  and
+        - Nuclear power-trained ratings refer to reference (c).
+
+3.  For ease of reference, the SSF enlisted career paths announced in this 
+message apply to all active component conventional ratings, including those 
+with no changes from reference (b).  Nuclear power-trained personnel should 
+refer to reference (c) for tour length information.  Full time support 
+personnel should refer to the SSR policy that remains in effect.
+
+4.  Commander, Navy Personnel Command may adjust projected rotation dates 
+(PRD) to reflect the tour lengths listed in paragraph 6 based on length of 
+tour remaining and the needs of the Navy.
+    a.  In order to minimize turbulence in personnel planning, Sailors who 
+have current PRDs within 12 months of the release of this NAVADMIN will not 
+have their PRDs adjusted, unless requested by the Sailor via the Enlisted
+Personnel Action Request (NAVPERS 1306/7) or the units commanding officer 
+based on unit readiness needs.
+     b.  Sailors with current PRDs beyond 12 months, and whose new adjusted 
+PRD places them inside the normal 7 to 9 months detailing window, will be 
+handled on a case-by-case basis.  Actual rotation dates may vary by up to six 
+months based on projected manning levels and availability of Sailors rotating 
+to fill projected vacant billets, refer to MILPERSMAN 1306-104.
+     c.  A larger than normal number of Sailors joined the Navy in 2013 and 
+therefore will be entering their rotation windows and/or approaching the end 
+of their initial contracts within the next few years.  Over the same time 
+period, additional units will be entering the Optimal Fleet Response Plan 
+(OFRP), requiring higher manning standards than non-OFRP units.  This may 
+require greater than normal use of the +/- six month detailing window in 
+addition to other manning actions to ensure operational units remain properly 
+manned during that time period.
+
+5.  SSF enlisted career paths are defined in paragraph 6 below and should be 
+read in 11 columns:
+    a.  RATING - enlisted community used for determining applicable SSF 
+career path.  To determine tour lengths for those ratings that compress at 
+the E8 and E9 pay grades (AB, AF, AV, CU, EQ, UC, GS), refer to the third and 
+fourth sea tour length columns (Sea3, Sea4) of the appropriate feeder rating.
+
+Compressed Feeder:
+Rating      Ratings        Notes
+AB          ABE, ABF, ABH compress at E9
+AF          AD, AME, AM   compress at E9; AME compresses to
+AM at E8
+AV          AE, AT         compress at E9
+CU          BU, EA, SW     compress at E8
+EQ          CM, EO         compress at E9
+UC          CE, UT         compress at E9
+GS          GSE, GSM       compress at E8
+    b.  SEA1 - Amount of time in months a Sailor will be assigned to their 
+first sea tour.  Depending on sea duty availability, Sailors may be assigned 
+to a shore tour immediately following initial training and prior to their 
+first sea tour.  In this case, Sailors will be assigned to shore duty for 24 
+to 36 months depending on the rating and location or type of duty prior to 
+commencing their first sea tour.
+    c.  SHR1 - Amount of time in months a Sailor will be assigned to shore 
+duty after completing their first sea tour.
+    d.  SEA2 - Amount of time in months a Sailor will be assigned to their 
+second sea tour.
+    e.  SHR2 - Amount of time in months a Sailor will be assigned to shore 
+duty after completing their second sea tour.
+    f.  SEA3 - Amount of time in months a Sailor will be assigned to their 
+third sea tour.
+    g.  SHR3 - Amount of time in months a Sailor will be assigned to shore 
+duty after completing their third sea tour.
+    h.  SEA4 - Amount of time in months a sailor will be assigned to their 
+fourth sea tour.
+    i.  SHR4 - amount of time in months a Sailor will be assigned to shore 
+duty after completing their fourth sea tour.
+    j.  SEA/SHR - Sea tours and shore tours for Sailors that have completed 
+four sea tours will be 36 months at sea followed by 36 months ashore until 
+retirement.
+    k.  See paragraph 7 for additional notes regarding SSF career paths.
+
+6.  Sea Shore Flow Enlisted Career Paths:
+
+Rating-SEA1 SHR1 SEA2 SHR2 SEA3 SHR3 SEA4 SHR4 SEA/SHR NOTES
+ABE    55   36   60   36   48   36   48   36   36/36   A, J
+ABF    55   36   60   36   48   36   48   36   36/36   A, J
+ABH    55   36   60   36   48   36   48   36   36/36   A, J
+AC     Career path not defined by SSF                  C
+AD     48   36   48   36   48   36   36   36   36/36
+AE     54   36   54   36   36   36   36   36   36/36
+AG     36   36   36   36   36   36   36   36   36/36
+AM     60   36   48   36   42   36   36   36   36/36
+AME    52   36   54   36   36   36   36   36   36/36   J
+AO     53   36   60   36   48   36   48   36   36/36   A, J
+AS     36   36   48   36   36   48   36   36   36/36
+AT     48   36   48   36   48   36   36   36   36/36
+AWF    54   36   36   36   36   36   36   36   36/36
+AWO    54   36   42   36   42   36   36   36   36/36
+AWR    54   36   36   36   36   36   36   36   36/36
+AWS    54   36   42   36   42   36   36   36   36/36
+AWV    54   36   36   36   36   36   36   36   36/36
+AZ     54   36   42   36   42   36   36   36   36/36
+BM     56   36   60   36   48   36   48   36   36/36   A, J
+BU     54   36   54   36   42   36   36   36   36/36   I
+CE     48   36   42   36   36   36   36   36   36/36   I
+CM     60   36   60   36   42   36   42   36   36/36   I
+CMD    Career path not defined by SSF                  D
+CS     55   36   54   36   48   36   36   36   36/36   J
+CS(SS) 52   36   54   36   48   36   36   36   36/36   J
+CTI    Career path not defined by SSF                  C, H
+CTM    36   36   36   36   36   36   36   36   36/36   H
+CTN    Career path not defined by SSF                  C, H
+CTR    Career path not defined by SSF                  C, H
+CTT    42   36   36   36   36   36   36   36   36/36   H
+CTT(AEF) 48   36   36   36   36   36   36   36   36/36
+DC     60   36   60   36   48   36   48   36   36/36   A
+EA     36   48   36   48   36   36   36   36   36/36   I
+EMN(SS) Refer to reference (c)                         G
+EMN(SW) Refer to reference (c)                         G
+EMSW    52   36   60   36   48   36   48   36   36/36   A, J
+EN     60   36   60   36   48   36   48   36   36/36   A
+EO     60   36   60   36   42   36   42   36   36/36   I
+EOD    60   36   60   36   48   36   48   36   36/36   A
+ETN(SS) Refer to reference (c)                         G
+ETN(SW) Refer to reference (c)                         G
+ETR    48   36   48   36   36   36   36   36   36/36
+ETSW   54   36   42   36   36   36   36   36   36/36
+ETV    48   36   48   36   48   36   48   36   36/36
+FC     60   36   60   36   48   36   48   36   36/36   A
+FCAEGIS 60   36   60   36   48   36   48   36   36/36   A
+FT     54   36   42   36   36   36   42   36   36/36
+GM     54   36   54   36   48   36   42   36   36/36
+GSE    51   36   60   36   48   36   48   36   36/36   A, J
+GSM    53   36   60   36   48   36   48   36   36/36   A, J
+HM     Career path not defined by SSF                  C, F
+HT     54   36   48   36   36   36   36   36   36/36
+IC     60   36   60   36   48   36   48   36   36/36   A
+IS     36   36   36   36   36   36   36   36   36/36
+IT     36   36   36   36   36   36   36   36   36/36   K
+ITS    54   36   48   36   42   36   36   36   36/36
+LCAC   Career path not defined by SSF                  D
+LN     36   48   36   48   36   48   36   36   36/36   B
+LS     55   36   42   36   36   36   36   36   36/36   J
+LS(SS) 52   36   42   36   36   36   36   36   36/36   J
+MA     36   36   36   36   36   36   36   36   36/36   B
+MC     36   36   36   36   36   36   36   36   36/36
+MMA    52   36   54   36   48   36   42   36   36/36   J
+MMN(SS) Refer to reference (c)                         G
+MMN(SW) Refer to reference (c)                         G
+MMNELT(SS) Refer to reference (c)                      G
+MMNELT(SW) Refer to reference (c)                      G
+MMSW    60   36   48   36   48   36   42   36   36/36
+MMW     51   36   48   36   36   36   36   36   36/36   J
+MN      36   36   48   36   42   36   36   36   36/36
+MR      48   36   42   36   36   36   36   36   36/36
+MT      48   36   36   36   30   30   30   30   30/30   K
+MU      Career path not defined by SSF                  C
+NC      36   36   48   36   36   36   36   36   36/36   D
+NCCR    Career path not defined by SSF                  C, D
+ND      36   36   36   36   36   36   36   36   36/36
+OS      54   36   60   36   48   36   48   36   36/36   A, J
+PR      42   36   42   36   36   36   42   36   36/36   K
+PS      48   36   42   36   42   36   36   36   36/36
+QM      54   36   60   36   48   36   48   36   36/36   A, J
+RP      36   36   36   36   36   36   36   36   36/36   B
+SB      60   36   60   36   48   36   48   36   36/36   A, E
+SH      56   36   54   36   48   36   42   36   36/36   J
+SO      60   36   60   36   48   36   48   36   36/36   A, E
+STG     50   36   54   36   48   36   36   36   36/36   J
+STG(6YO) 54   36   54   36   48   36   36   36   36/36
+STS     48   36   48   36   42   36   42   36   36/36
+SW      54   36   54   36   42   36   36   36   36/36   I
+UT      52   36   42   36   42   36   36   36   36/36   I
+YN      36   48   36   48   36   48   36   36   36/36
+YN(SS)  36   36   36   36   36   36   36   36   36/36
+
+7.  Communities:
+    a.  Sea-Intensive Communities.  Ratings that have SSF career paths set to 
+the maximum sea tour lengths allowed by policy, resulting in 216 months or 18 
+years on sea duty over a 30-year career, are considered sea-intensive.  T+X 
+ratings (reference note J below) that are assigned the maximum sea tour 
+lengths following the first sea tour are also considered sea-intensive.  
+Maximum assigned sea tour lengths for these communities will not exceed 60 
+months for Sailors with less than 20 years of service (YoS) and 48 months for 
+Sailors with more than 20 YoS.  Shore tour lengths between sea tours will be 
+set to 36 months long.  Manning conditions at sea may require sea tour 
+extensions or shore tour curtailments to ensure all sea duty billets are 
+properly filled.  Sailors in sea-intensive communities are also subject to 
+the +/- six month detailing window as described in paragraph 2 above; 
+however, voluntary extension of sea duty or curtailment of shore duty remains 
+the preferred method to ensure proper sea duty manning.  Sailors are advised 
+to contact their community manager or detailer for information on or 
+availability of incentives such as Sea Duty Incentive Pay or Voluntary Sea 
+Duty Program for volunteering to serve additional time on sea duty.
+    b.  INUS/OUTUS Communities.  Sailors in INUS/OUTUS communities have SSF 
+career paths based on a flow between INUS and OUTUS duty assignments.  
+Assignment to sea and/or OUTUS duty (types 2, 3, 4, and 6) will be considered 
+sea tours for SSF purposes.  Assignment to INUS shore duty (type 1) will be 
+considered shore tours for SSF purposes.
+        (1) LNs have a limited number of sea duty (type 2 and 4) billets 
+available for assignment.  Tour assignments for the LN community will be 
+based on INUS/OUTUS career paths, as described above.
+        (2) MAs that successfully complete a full tour at a Surface Weapons 
+Force Atlantic or Strategic Weapons Facility will be granted OUTUS/sea duty 
+credit for SSF purposes only and will be eligible for INUS/shore duty 
+assignment upon completion.  MAs will be required to complete a dependent 
+restricted OUTUS/sea tour assignment type 3 (Andros Island Bahamas, Bahrain, 
+Diego Garcia, Poland, Romania, Souda Bay) in addition to their first and/or 
+second OUTUS/sea tour rotation.  Senior MAs may be required to complete a 
+dependent restricted OUTUS/sea tour assignment in addition to their third 
+OUTUS/sea tour rotation.  Hawaii is considered INUS/shore duty (type 1).  
+Sailors are encouraged to contact their community manager or detailer for 
+additional career path information.
+        (3) RPs have a limited number of sea duty billets available for 
+assignment.  Tour assignments for the RP community will be based on 
+INUS/OUTUS career paths as described above.
+    c.  Shore-Intensive Communities.  Sailors in shore-intensive communities 
+do not have career paths defined by SSF and can expect to spend more than 
+half their career on shore duty assignments.  Sailors are encouraged to 
+contact their community manager or detailer for specific career path 
+information.
+        (1) ACs shore tour lengths at particular shore unit identification 
+code are dependent upon the tower classification and the time frame required 
+to become qualified for tower operations.  Sailors in the AC community can 
+expect to serve more than half their careers in operational support tours 
+ashore.  Every effort will be made to ensure Sailors are afforded equitable 
+opportunities to serve at sea to enhance career progression.  Sailors are 
+encouraged to contact their community manager or detailers for additional 
+career path information.
+        (2) MUs will be assigned to one of the various Navy bands throughout 
+their career.  Assignment by fit of skill and/or Navy enlisted classification 
+(NEC) predominates and minimum tour lengths apply.  MUs can expect at least 
+one tour assignment to an OUTUS band during their career and are required to 
+maintain world-wide assignability.  Though classified type 1 shore duty, all 
+INUS bands are subject to frequent and extensive temporary assigned duty 
+within their area of responsibility (AOR), and are considered deployable 
+units.  OUTUS bands are subject to shipboard and ground-based deployment 
+within their AOR and require operational duty screening.  MUs are encouraged 
+to contact their community manager or detailer for additional career path
+information.
+    d.  Mid-Career Transition Community.  Sailors in mid-career transition 
+communities will have completed at least one sea tour while in their initial 
+community.  Prior to applying for transition, Sailors should fully understand 
+career path information, including possible sea tour lengths.
+        (1) Landing Craft Air Cushion (LCAC) Operators transition to the LCAC 
+community after completing at least two sea tours in their initial community.  
+LCAC operators can expect sea tour lengths of 48 months after transitioning 
+to the LCAC community.  Due to the limited availability of LCAC operator 
+shore duty billets, Sailors in the LCAC community may be assigned to their 
+initial community for shore duty.
+        (2) NC - Navy Career Counselors transition to the NC community after 
+completing at least one sea tour in their initial community.  Sailors can 
+expect sea tour lengths of up to 48 months.  The length of the first sea tour 
+as an NC will be determined on a case-by-case basis depending upon the 
+individual's sea tour experience and transition timing.
+        (3) NCCR - Navy Career Counselors, Career Recruiters have no sea duty 
+billets and will be assigned as required.
+        (4) CMD - Command master chiefs and command senior chiefs have a 
+unique career path and will be detailed to leadership milestone billets as 
+appropriate.
+    e.  Naval Special Warfare Community.  The Naval Special Warfare (NSW) 
+community is a sea-intensive community.  Due to the unique nature of the 
+special warfare mission, Sailors in the elite communities of NSW Operator and 
+NSW Combatant Crewman should expect to serve back-to-back sea tours prior to 
+assignment ashore.  Sailors in these communities can expect their initial 
+back-to-back sea tours to be within the same geographic location, contingent 
+upon the needs of the Navy and NSW.
+    f.  Medical Community.  SSF enlisted career paths for the HM community 
+are dependent upon the Sailor's specific NEC or specialty.  HMs can expect 
+36-month sea tours followed by 36-month shore tours except for those with 
+NECs that are shore-intensive.  Those with operational intensive
+NECs can expect longer sea tour lengths.  HMs are encouraged to contact their 
+community manager or detailer for additional career path information or visit
+http://www.public.navy.mil/Bupers-npc/enlisted/Community/medical for specific 
+community management information.
+    g.  Nuclear Power Community.  Nuclear power trained Sailors should refer 
+to reference (c) for SSF enlisted career path information.
+    h.  Cryptologic Community.  Due to the unique nature and specific skill 
+sets required by Sailors in the CT community, career paths are defined by 
+INUS/OUTUS vice SSF, with the exception of the Cryptologic Technician 
+Maintenance (CTM) and Cryptologic Technician Technical (CTT) ratings.  
+Sailors can expect to serve on various tours OUTUS and/or on sea duty (types 
+2, 3, 4, and 6) during their career.  Due to the unique characteristics of 
+the Cryptologic community, Sailors in the CT communities are encouraged to 
+contact their community manager or detailers for additional career path 
+information.  INUS/OUTUS rotations for specific CT ratings are listed below 
+and are dependent upon billet availability and emerging needs of the Navy:
+        (1) CTI E1 - E9  1 INUS/1 OUTUS (SEA) ** See note
+H.4
+        (2) CTN E1 - E5  2 INUS/1 OUTUS (SEA)
+                E6 - E7  2 INUS/1 OUTUS (SEA) ** See note
+H.8
+                E8 - E9  3 INUS/1 OUTUS (SEA)
+        (3) CTR E1 - E4  1 INUS/2 OUTUS (SEA)
+                E5 - E8  1 INUS/1 OUTUS (SEA) ** See note
+H.7
+                E9       2 INUS/1 OUTUS (SEA)
+        (4) CTIs will be detailed according to billet and relief 
+availability.  CTIs are assigned according to the varying demand for the 
+unique linguistic skills they possess.  The INUS/OUTUS assignment flow is 
+only a recommended flow and need not be followed to maintain career 
+progression.
+        (5) CTMs will be detailed according to billet and relief 
+availability.  Most permanent change of station (PCS) afloat tours will be 48 
+months to include CTM skills 9225, and 9298 CTM 9229 (sub duty) requires 60-
+month sea duty obligation following initial skills training.  CTM E7 and 
+above may have multiple back to back shore rotations.
+        (6) CTT AEF (6 year) skills 173x and 1702, first sea tour will be 48 
+months due to length of initial training; all subsequent sea tours will be 36 
+months.
+        (7) CTRs are assigned according to the varying demand of the unique 
+technical skills they possess.  Due to the nature of CTR skill 9149, Sailors 
+are assigned based entirely upon billet availability and not INUS/OUTUS flow.
+Hawaii shore billets are considered OUTUS (sea).  All rotations will be 36 
+months in length with exception of the following:  E7 personnel not serving a 
+DoD-mandated tour will serve 48 months in an OUTUS sea billet and E8 
+personnel will serve 48 months INUS.  The INUS/OUTUS assignment flow will be 
+followed when available billets support; however, based on emerging needs and 
+NEC requirements, this flow need not be followed to maintain career 
+progression.
+        (8) CTNs will be detailed according to billet and relief 
+availability.  CTNs are assigned according to the varying demand for the 
+unique cyber skills they possess. Hawaii shore billets are considered OUTUS 
+(sea).  All rotations will be 36 months in length and the INUS/OUTUS 
+assignment flow is only a recommended flow and need not be followed to 
+maintain career progression.
+    i.  Seabee Community.  Basic Underwater Construction Technician, NEC 
+5932, initial sea tour in the underwater construction teams will be 60 months 
+regardless of previous accumulated sea duty.  Advanced Underwater 
+Construction Technician, NEC 5931, subsequent sea/shore tour lengths will be 
+36/36 months.  Master Underwater Construction Technician, NEC 5933, sea/shore 
+tour lengths will be 36/36 months. Mobile Utilities Support Equipment 
+Technician, NEC 5633, initial sea tour will be 36 months regardless of 
+previous accumulated sea duty.  Subsequent sea/shore tour lengths will be 
+36/36 months.
+    j.  T+X Rating.  The T+X accession pilot increases the enlistment length 
+and initial active obligation enlisted obligation active service(EAOS) for 
+designated pilot ratings from four to five years, and sets a Sailor's 
+prescribed sea tour (PST) and PRD to approximately align with EAOS, as 
+follows:
+        (1) The first four pilot ratings (AO, EMSW, GSE and QM) participated 
+in the pilot beginning in FY-11; Sailors in those four ratings who shipped to 
+Recruit Training Command (RTC) beginning in October 2010 and before October 
+2012 had the PST/PRD for their initial sea tour set to their EAOS month.  
+Sailors in those four ratings who shipped beginning in October 2012 will have 
+their initial sea tour PST/PRD set to the SEA1 tour shown for their rating in 
+paragraph 6.
+        (2) The next 11 pilot ratings (ABE, ABF, ABH, AME, GSM, BM, OS, SH, 
+MMA, MMW, and CSSS) were added to the pilot beginning in FY-13; Sailors in 
+those 11 ratings who shipped to RTC beginning in October 2012 will also have 
+their initial sea tour PST/PRD set to the SEA1 tour shown for their rating in 
+paragraph 6.
+        (3) Three more pilot ratings (CS, LS, LSSS) were added in FY-14; 
+Sailors in those 3 ratings who shipped to RTC beginning in October 2013 will 
+have their initial sea tour PST/PRD set to the SEA1 tour shown for their 
+rating in paragraph 6.
+        (4) The next pilot rating (STG) was added in FY-17; Sailors in the 
+STG rating with a 5 year enlistment who ship to RTC beginning in October 2016 
+will have their initial sea tour PST/PRD set to 50 months.  Sailors with a 4 
+year enlistment who ship before October 2016, or a 6 year enlistment who ship 
+in any month, will have their initial sea tour set to the SEA1 tour shown for 
+their rating in paragraph 6.
+    k.  Other Ratings.
+        (1) ITs will be converting from an INUS/OUTUS rotation construct to 
+sea/shore.  Sea duty credit will be granted for type 2, 3, or 4 duty 
+assignments.  Type 6 duty will be considered sea duty until the member 
+executes PCS orders.  ITs currently on type 6 duty will rotate to type 1 duty 
+upon completion.  Any subsequent type 6 duty assignment will be considered 
+shore duty for the IT rating.
+        (2) MT supervisors (E7 and above) can expect 30 month sea and shore 
+duty tours within the same fleet concentration area after completing their 
+second shore tour. This is designed to improve geographic stability and 
+enhance career opportunities for senior MTs.  MTs that execute a funded PCS 
+move can expect a 36-month tour following the funded PCS move.
+        (3) PR - Aircrew Survival Equipmentmen have very few E8 and E9 sea 
+duty billets.  As a result, E8 and E9 PRs do not follow SSF career paths and 
+will be assigned to sea duty as needed or available.
+
+8.  Points of Contact are as follows:
+    a.  For specific rate/rating/NEC questions and concerns, Sailors should 
+contact their respective community manager or detailers.
+    b.  For SSF policy questions:
+        (1) Mr. Craig Schauppner, OPNAV (N122), 571-236-7897 or via e-mail at 
+craig.schauppner(at)navy.mil.
+        (2) FCCM Michael Poole, ECM, BUPERS-32, 901-874-2820/DSN 882 or via 
+e-mail at michael.b.poole2(at)navy.mil.
+        (3) CDR Pamela Thien, NPC, PERS-4013, 901-874-4565/DSN 882 or via e-
+mail at pamela.thien(at)navy.mil.
+            Mr. Craig Burns, NPC, PERS-4013, 901-874-4497/DSN 882 or via e-
+mail at craig.burns(at)navy.mil.
+    c.  For SDIP questions contact Mr. Joseph Ferdinand, NPC, PERS-40DD, 
+901-874-3545/DSN 882 or via e-mail at joseph.ferdinand(at)navy.mil.
+    d.  For VSDP questions contact CDR Matthew Pederson, NPC, PERS-4013, 
+901-874-4360/DSN 882, or via e-mail at matt.pederson(at)navy.mil.
+
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+10.  Released by VADM R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

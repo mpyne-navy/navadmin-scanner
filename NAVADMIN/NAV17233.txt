@@ -1,0 +1,68 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 191914Z SEP 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 233/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/SHUTDOWN OF NAVAL WAR COLLEGE CDROM-BASED PROGRAM//
+
+RMKS/1.  This NAVADMIN announces the decision to discontinue delivery of 
+Intermediate Joint Professional Military Education
+(JPME-I) through the Naval War College (NWC), College of Distance Education 
+(CDE) Compact Disk read only memory-based Program.  This decision is taken 
+because of the expansion of internet availability and coverage that obviates 
+delivery of Compact Disks, Digital Versatile Disc, and printed course 
+materials through the postal system.  Given advances in distance learning 
+technologies that provide for both synchronous and asynchronous interaction 
+between students and faculty as well as between groups of students, it makes 
+sense to eliminate individual, self-administered graduate level JPME-I 
+courses, that do not provide the rigorous instructor-led education, in a 
+joint classroom or online cohort that is necessary to prepare military 
+leaders for todays challenging environment.  A phased shutdown of the program 
+will proceed as follows:
+    a.  New applications for the CDROM-based Program will not be accepted 
+after 30 September 2017.
+    b.  Students currently enrolled and active in any one of the three core 
+courses in the program will have 20 months from their initial course 
+enrollment date to complete all course and program requirements.  
+Accordingly, the program will cease operations on 31 May 2019, 20 months 
+after the last enrollments on 30 September 2017.
+    c.  Active students who are enrolled in the program on 31 May 2019, but 
+who have not completed their current course will be offered enrollment in 
+either the World Wide Web-enabled Program or the Fleet Seminar Program.  Both 
+of these programs will continue to be offered through the CDE, and all Naval 
+officers who are unable to attend the NWC in residence are strongly 
+encouraged to enroll as it is extremely important to complete JPME-I 
+requirements in a maritime, sea power-focused NWC program.
+
+2.  Request widest dissemination of the above information in activity plans 
+of the day, plans of the week, base newspapers, base cable television and any 
+other available appropriate media.
+
+3.  Point of contact is Dr. Brad Carter who can be reached at
+(401) 841-3277/DSN 841, or via e-mail at cdrom(at)usnwc.edu.
+
+4.  This message is canceled for record purposes on 1 June 2019.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

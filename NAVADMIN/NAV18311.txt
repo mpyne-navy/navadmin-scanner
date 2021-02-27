@@ -1,0 +1,116 @@
+UNCLASSIFIED//
+ROUTINE
+R 211446Z DEC 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 311/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/DERIVED CREDENTIALS FOR MOBILE COMMUNICATIONS//
+
+REF/A/DOC/PMW-205/09NOV2018//
+REF/B/DOC/DOD INST 8520.02/24MAY11//
+NARR/REF A IS CHIEF INFORMATION OFFICER-NAVY ENTERPRISE NETWORK EXCHANGE 
+NEWSLETTER 18-010.  
+REF B ESTABLISHES AND IMPLEMENTS POLICY, ASSIGNS RESPONSIBILITIES, AND 
+PRESCRIBES PROCEDURES FOR DEVELOPING A DOD-WIDE PUBLIC KEY INFRASTRUCTURE 
+(PKI) AND PUBLIC KEY ENABLING TO ENHANCE THE SECURITY OF DOD INFORMATION 
+SYSTEMS BY ENABLING THESE SYSTEMS TO USE PKI FOR AUTHENTICATION, DIGITAL 
+SIGNATURES, AND ENCRYPTION.// 
+POC/NEN MOBILITY SERVICES/CIV/PMW-205/-/EMAIL:  
+NEN.MOBILITY.SERVICES(AT)NAVY.MIL/TEL: (202) 685-0471//
+
+RMKS/1.  This NAVADMIN advises of the upcoming Navy Marine Corps Intranet 
+(NMCI) transition to derived credentials and new applications for mobile 
+device access to email.  Transition is required as BlackBerry will sunset 
+support for the Good for Enterprise (GfE) application on 28 February 2019.  
+NMCI currently uses GfE and Smart Card Reader to deliver a secure mobile 
+environment on iOS and Android devices.  The Navy must transition to a new 
+mobile solution that provides required capabilities and security per 
+reference (b).  The intent of this message is to provide expectations and 
+highlight required user actions.  Commands are encouraged to migrate users as 
+soon as possible and not delay transitions that could result in unintended 
+user impacts.  Failure to migrate by the deadline will result in inability to 
+send and receive email from the device.
+
+2.  This approach will offer users the significant advantages of the Defense 
+Information Systems Agency (DISA) preferred solution.  Retaining the same 
+mobile device (tablet or smartphone), users will access their existing 
+mailboxes and will be able to receive, edit, and send encrypted email without 
+the use of a card reader (sled) or other hardware.
+
+3.  PMW-205 selected BlackBerry Unified Endpoint Management (UEM), (which 
+interfaces with BlackBerry Enterprise Mobility Suite, BlackBerry Work email 
+application and DISAs Purebred Derived Credential) to replace GfE.  Purebred 
+Derived Credential will provide an over-the-air certificate credentialing 
+capability to enable the use of Department of Defense PKI credentials on 
+mobile devices.  Upon migration to UEM, all NMCI mobile users shall leverage 
+Purebred Derived Credential to enable:
+    a.  Digitally signed email
+    b.  Encrypted and decrypted email
+
+4.  Full migration for iOS commenced 21 November 2018.  Each command must 
+order the appropriate contract line item numbers and nominate a sufficient 
+number of Purebred agents to enroll mobile devices and associate users with 
+those devices.  Nominations and training are ongoing.  Command Chief 
+Information Officers and contract technical representatives are responsible 
+for tracking the transition for their commands.  Chief Information Officers 
+and contract technical representatives must ensure that Purebred agents are 
+identified and trained and users are prepared for the update.  GfE must be 
+accessible.  The Android solution is undergoing testing.  Updates on the 
+Android variant will be provided when available.
+
+5.  Successful transition requires dedicated time, planning, and a location 
+with wireless connectivity.  Users will keep their existing devices and must 
+maintain them in an active state with the latest mobile operating system.  
+Expect a minimum of 15 minutes each to download software and execute the 
+credentialing process.  Experiences of early adopters has demonstrated that 
+the entire evolution may take anywhere from 30 minutes to two hours.  Other 
+lessons learned are summarized below:
+    a.  Instructions and standard operating procedure are posted on NMCI 
+Homeport (link below).  Users must review and engage contract technical 
+representatives if unsure of process before initiating migration.  Contract 
+technical representatives are recommended to closely coordinate VIP 
+transition.  Early lessons learned are that failure to accurately follow the 
+procedures risks significantly delaying completion.
+    b.  Users must be in a location with strong cellular or WiFi connectivity 
+(minimum of two bars; recommend three) and ready access to an NMCI 
+workstation.
+    c.  During the Purebred credentialing process, the Purebred agent will 
+provide an over the air PIN that the user must enter into the mobile device 
+within three minutes of receipt.
+    d.  During the last step of the credentialing process, users must 
+generate their own over the air PIN by logging into an NMCI seat and using 
+the DISA website.  Within three minutes of generation, users must enter the 
+final over the air PIN into the mobile device.
+
+6.  Command CIOs/CTRs shall report progress in implementation of the 
+UEM/Purebred solution by weekly email reports to the PMW 205 Mobility Team at 
+the below email address.  They should include assessments of challenges 
+faced, noted lessons learned, and projection for successful completion.  PMW 
+205 shall report progress to OPNAVN26G weekly beginning 15 January 2019.
+
+7.  Contact information and links for future updates and training materials:
+    a.  PMW-205 mobility team contact at email:  
+NEN.Mobility.Services(AT)navy.mil; phone (202) 685-0471
+    b.  Homeport link:  https://www.homeport.navy.mil/services/mobile/ios-
+android-solutions
+    c.  DISA Purebred web site:  https://iase.disa.mil/pki-
+pke/Pages/purebred.aspx
+
+8.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

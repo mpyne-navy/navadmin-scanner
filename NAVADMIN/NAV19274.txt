@@ -1,0 +1,191 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 022009Z DEC 19 MID510000757458U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 274/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/230112ZAUG08//
+
+REF/B/MSG/CNO WASHINGTON DC/251901ZAUG16//
+
+REF/C/MSG/CNO WASHINGTON DC/101615ZDEC15//
+
+REF/D/MSG/CNO WASHINGTON DC/151503ZJUL19//
+
+REF/E/MSG/CNO WASHINGTON DC/111604ZDEC02//
+
+REF/F/MSG/CNO WASHINGTON DC/141332ZMAR14//
+
+REF/G/MSG/CNO WASHINGTON DC/071453ZAUG17//
+
+NARR/REF A IS NAVADMIN 234/08, SEA SHORE FLOW ENLISTED CAREER PATHS.  REF B 
+IS NAVADMIN 190/16, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE.  REF C IS 
+NAVADMIN 284/15, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES FOR NUCLEAR- 
+TRAINED ENLISTED PERSONNEL.  REF D is NAVADMIN 157/19, SEA SHORE FLOW 
+ENLISTED CAREER PATHS UPDATE FOR NUCLEAR TRAINED JUNIOR STAFF INSTRUCTORS.  
+REF E IS NAVADMIN 395/02, TAR SEA SHORE ROTATION TOUR LENGTH REVISION.  REF F 
+IS NAVADMIN 058/14, INCREASED ENLISTED PERSONNEL DISTRIBUTION AUTHORITY.  REF 
+G is NAVADMIN 192/17, OPTIMIZING SENIOR ENLISTED (E7-E9) ASSIGNMENTS.//
+
+RMKS/1.  This NAVADMIN announces updates to Sea Shore Flow (SSF) Enlisted 
+Career Paths, the personnel policy that assigns sea and shore-duty tour 
+lengths for each enlisted rating, as established in reference (a) and revised 
+in reference (b).  Reference (c), as modified by reference (d), remains the 
+governing SSF policy for nuclear-trained enlisted personnel.  Reference (e) 
+remains the Sea Shore Rotation (SSR) policy for Full Time Support (FTS) 
+Sailors.
+
+2.  SSF ensures the Navy has enough Sailors on sea-duty to man all the sea- 
+duty billets for each rating.  The SSF tour length policy requires periodic 
+updates as the number of sea-duty and shore-duty billets changes.  These 
+changes result in some ratings having longer sea-duty tour lengths while 
+others will have shorter sea-duty tour lengths.
+    a.  Simultaneous to this SSF update, MyNavy HR continues delivering 
+Sailor 2025 and transforming our personnel system and processes to achieve 
+greater flexibility and transparency.  We are transitioning from the long- 
+standing assignment rotation-centric view of SSF to a more flexible, agile 
+career-centric approach.  This approach represents the wide range of 
+incentives and personnel options under Sailor 2025 for eventual integration 
+into the planned Detailing Marketplace, giving our Sailors the flexibility, 
+choice, and transparency they need for effective career management.
+    b.  Summary of changes (full listing in paragraph 3):
+        - 42 ratings have no changes to current tour lengths;
+        - 20 ratings have increased time on sea duty;
+        - 22 ratings have decreased time on sea duty;
+        - 7 ratings have increased time on shore duty;
+        - 2 ratings (MA and RP) convert from inside/outside United States 
+rotation to SSR;
+        - 1 rating (CTR) converts from not following SSF to following SSF;
+        - T+X ratings, ratings that set a Sailors Prescribed Sea Tour (PST) 
+and Projected Rotation Date (PRD) to align with Expiration of Active 
+Obligated Service (EAOS), are adjusted based on projected initial time to 
+train;
+        - Change to notes for CT, MA and T+X ratings
+
+3.  The tables below show the net change to current tour lengths for Sailors 
+in ratings impacted by this NAVADMIN.  MyNavy Portal (MNP) contains the 
+actual tour lengths and notes for all ratings (see paragraph 5 for more 
+details).
+    a.  Ratings with net increase time on sea duty:
+Rating (EMC)    Sea Tour 1    Sea Tour 2    Sea Tour 3    Sea Tour 4
+ABE (A101)      +1 month      0             0             0
+ABF (A102)      +1 month      0             0             0
+ABH (A103)      +1 month      0             0             0
+AME (A131)      +2 months     0             0             0
+AO (A420)       +2 months     0             0             0
+AT (A210)       +2 months     0             0             0
+AZ (A440)       +1 month      +6 months     0             0
+EM (B210)       +1 month      0             0             0
+ET (B420)       0             +6 months     0             0
+ETR (C126)      +6 months     0             +6 months     0
+GM (B320)       -5 months     +6 months     0             +6 months
+GSE (B121)      +1 month      0             0             0
+GSM (B122)      +1 month      0             0             0
+IT (B460)       +12 months    0             0             0
+LS (B740)       0             +6 months     +6 months     0
+MM (B130)       -6 months     +12 months    0             +6 months
+MN (C160)       +12 months    0             -6 months     0
+MT (C180)       0             +6 months     +6 months     0
+STG (B340)      -5 months     +6 months     0             +12 months
+SW (H170)       +6 months     +4 months     0             0
+    b.  Ratings with net decrease time on sea duty:
+Rating (EMC)    Sea Tour 1    Sea Tour 2    Sea Tour 3    Sea Tour 4
+AM (A130)       -6 months     0             0             0
+AWO (A520)      -6 months     -6 months     -6 months     0
+AWR (A505)      -6 months     0             0             0
+AWS (A510)      -3 months     -6 months     -6 months     0
+CE (H110)       +4 months     -6 months     0             0
+CSS (C170)      -1 months     0             0             0
+DC (B200)       -6 months     0             0             0
+EN (B110)       -5 months     0             0             0
+EO (H150)       -8 months     0             0             -6 months
+ETV (C121)      0             -6 months     -12 months    -12 months
+FC (B310)       -9 months     -12 months    -12 months    -12 months
+FT (C130)       0             0             0             -6 months
+HT (B220)       0             -8 months     0             0
+LSS (C220)      0             -6 months     0             0
+MMA (C150)      -1 month      0             -6 months     0
+MR (B250)       0             -6 months     0             0
+NC (B670)       0             -12 months    +6 months     0
+PR (A450)       0             -6 months     0             0
+RS (B730)       -1 month      0             0             -6 months
+STS (C230)      0             0             -6 months     -6 months
+TM (C151)       0             -6 months     0             0
+UT (H190)       0             0             -6 months     0
+    c.  Ratings with net increase time on shore duty:
+Rating (EMC)    Shore Tour 1    Shore Tour 2    Shore Tour 3
+CE (H110)       +6 months       +6 months       +6 months
+EA (H140)       0               0               +12 months
+IS (B600)       0               +12 months      +12 months
+MC (B610)       +12 months      +12 months      +12 months
+MT (C180)       0               0               +6 months
+RP (B720)       +12 months      +12 months      +12 months
+YN (B750)       0               +6 months       0
+
+4.  Commander, Navy Personnel Command (NPC) may adjust PRDs to reflect the 
+tour lengths based on length of tour remaining and the needs of the Navy.
+    a.  To support proper Fleet manning, reference (f) authorizes detailers 
+to rotate Sailors 6 months prior to or after assigned PRD.  When detailing 
+paygrades E7-E9, reference (g) delineates that SSF and SSR will be considered 
+but will be secondary to Fleet manning requirements.
+    b.  To minimize challenges in personnel planning, Sailors who have 
+current PRDs within 12 months of the release of this NAVADMIN will not have 
+their PRDs adjusted, unless requested by the Sailor via Enlisted Personnel 
+Action Request (NAVPERS 1306/7) or the units commanding officer based on unit 
+readiness needs.
+    c.  Sailors with current PRDs beyond 12 months and whose new adjusted PRD 
+places them inside the normal 7 to 12-month detailing window, will be handled 
+on a case-by-case basis.  Actual rotation dates may vary by up to 6 months 
+based on projected manning levels and availability of Sailors rotating to 
+fill projected vacant billets, see reference (f) for more details.
+
+5.  MNP provides specific tour lengths for each rating as well as additional 
+information for various rating categories.  Sailors and commands can access 
+SSF information on the MNP Career Planning page at 
+https://www.mnp.navy.mil/group/career-planning/overview.  Select *I Agree* to 
+the terms when logging in.  On the *Career Planning* overview page, scroll 
+down to the *Looking For?* section, select *continue* under *Enlisted 
+Community Managers*.  There a drop-down External Link Message will appear, 
+select *continue*.  You will be redirected to the Enlisted Community 
+Management page on the NPC website.  Lastly, on the left panel under 
+Community Mangers, select *Sea Shore Flow*.
+
+6.  Points of Contact:
+    a.  For specific rate/rating/Navy Enlisted Classification questions and 
+concerns, Sailors should contact their respective community manager or 
+detailer.
+    b.  For general career information including questions about Sea Duty 
+Incentive Pay or Voluntary Sea Duty Program, contact MyNavy Career Center
+(MNCC) contact center at 833-330-MNCC (6622) or askmncc(at)navy.mil.
+    c.  For SSF policy questions contact Mr. Craig Schauppner, OPNAV (N122),
+571-236-7897 or via e-mail at craig.schauppner(at)navy.mil.
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+8.  Released by VADM John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

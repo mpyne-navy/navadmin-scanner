@@ -1,0 +1,113 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 171409Z AUG 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+BT
+UNCLAS
+
+NAVADMIN 200/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+
+SUBJ/ACTIONS FOR ALL NAVY PERSONNEL AND NON-CLASSIFIED INTERNET PROTOCOL 
+ROUTER NETWORK (NIPRNet) NETWORK, WEB, AND APPLICATION OWNERS AS DEPARTMENT 
+OF DEFENSE CHANGES THE CERTIFICATES ON THE COMMON ACCESS CARD//
+
+
+REF/A/HSPD-12/POTUS/27AUG04//
+
+REF/B/FIPS201-2/NIST/28FEB17//
+
+
+NARR/REF (A) IS HOMELAND SECURITY PRESIDENTIAL DIRECTIVE 12, POLICY FOR A 
+COMMON IDENTIFICATION STANDARD FOR FEDERAL EMPLOYEES AND CONTRACTORS.  REF 
+(B) IS NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGYS FEDERAL INFORMATION 
+PROCESSING STANDARD (FIPS) 201-2, PERSONAL IDENTITY VERIFICATION OF FEDERAL 
+EMPLOYEES AND CONTRACTORS//
+
+POC/MR. BEN PLANKENHORN/CIV/OPNAV N2N6G51/WASHINGTON DC/
+TEL:  (703) 692-1896/EMAIL:  BENJAMIN.PLANKENHORN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides guidance for all Navy personnel and to Navy 
+Non-classified Internet Protocol Router Network (NIPRNet) network, web, and 
+application owners as Department of Defense (DoD) changes the certificates on 
+Common Access Card (CAC) certificate.
+
+
+2.  Background
+    a.  Per references (a) and (b), DoD is transitioning to one common 
+authentication (logon) certificate on CACs called the Personal Identity 
+Verification (PIV) Authentication.  The PIV_Auth certificate is mandated as 
+the new standard for NIPRNET network, web, and application login.  Users will 
+no longer have to choose between e-mail and identity certificates when 
+logging in.  This modification will establish continuity across federal and 
+mission partner organizations with regard to the use of DoD Public Key 
+Infrastructure (PKI) certificates.
+    b.  The planned DoD CAC end-state will reduce the CAC user certificate 
+profile to three certificates:  PIV_Auth for authentication, signature for e-
+mail/document signing, and E-mail Encryption for e-mail encryption.  The 
+Identity certificate will be removed.
+    c.  The PIV_Auth certificate is on all CACs but is not activated for Navy 
+users at issuance, thus the PIV_Auth certificate is not visible.  You do not 
+have to replace your CAC to activate this new certificate.
+
+
+3.  Action for All Navy Personnel
+    a.  As of 24 February 2018, new Navy personnel issued a CAC will have the 
+PIV_Auth certificate activated and visible.  No further action is required.
+    b.  All Navy personnel to include contractors, Foreign Liaisons/Officers 
+and REL - A NIPRNet users who have not received a new CAC since 24 February 
+2018 and/or cannot see their PIV_Auth certificate, must follow the procedures 
+on the Navy Marine Corps Internet 
+Homeport,(https://www.homeport.navy.mil/cms/preview
+/21094),
+and Information Security Online Services, (https://infosec.navy.mil /PKI/).
+These procedures will instruct users on how to activate the PIV_Auth 
+certificate via the Defense Manpower Data Center (DMDC) Real-Time Automated 
+Personal Identification Systems (RAPIDS) Self-Service website, 
+https://www.dmdc.osd.mil/self_service.
+    c.  All personnel must activate their PIV_Auth certificate no later than 
+31 January 2019.
+
+
+4.  Action for All Navy NIPRNet Network, Web, and Applications Owners.
+Owners should work to quickly shift to supporting the PIV_Auth certificate 
+and maintain their PKI login/validation mechanism.
+Owners should announce a date/time that they will transition from accepting 
+the E-mail or Identity certificates to accepting only the PIV_Auth 
+certificate.  Owners must post a transition plan on their website/application 
+by 31 January 2019 to inform users of the pending transition from supporting 
+PIV_Auth, Identity, and E-Mail Signing/Encryption certificates to PIV_Auth 
+certificate only.
+The PMW-130, SSC Pacific, and SSC Atlantic PKI teams are available to assist 
+owners in their transition away from the use of E-mail Signing and/or 
+Identity certificates, to the PIV_Auth certificate.
+
+
+5.  By 29 February 2020, All Navy NIPRNet Network, Web, and Applications must 
+only support the PIV_Auth certificate for network Cryptographic Logon (CLO) 
+and web/application CLO and/or authentication.  No waivers will be considered 
+or granted for this transition.
+
+
+6.  This NAVADMIN will remain in effect until canceled or superseded.
+
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

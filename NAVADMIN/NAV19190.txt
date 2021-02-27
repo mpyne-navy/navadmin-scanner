@@ -1,0 +1,111 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 121628Z AUG 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 190/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/CRYPTOLOGIC TECHNICIAN NETWORKS DEFENSE CYBER OPERATIONS WORKFORCE CODING//
+
+REF/A/MSG/CNO WASHINGTON DC/131828ZJUL17//
+
+REF/B/DOC/NAVPERS/132024DEC18//
+
+REF/C/DOC/NAVPERS/APR19//
+
+NARR/REF A IS NAVADMIN 174/17, REVISED NAVY ENLISTED CLASSIFICATION
+(NEC) CODE CONSTRUCT.  REF B IS NAVPERS 18068F, VOLUME I, APPENDIX B, OCCUPATIONAL FIELDS 
+AND ASSOCIATED RATINGS.  REF C IS NAVPERS 18068F, VOLUME II, NEC.//
+
+RMKS/1.  Per references (a) and (b), this NAVADMIN outlines the process to define the billet coding, 
+awarding criteria and captures a standardized medium in the cyber workforce in regards to three new 
+Navy Enlisted Classification (NEC) Codes for the Cryptologic Technician Networks (CTN) rating due to 
+varying requirements that are outside normal Navy processes, but affect Navy commands and ultimately 
+the Sailors.
+
+2.  Defense Cyber Operations Analyst (DCOA) H30A, Adversarial Pursuit Operator (APO) H31A, and Cyber 
+Threat Emulation Operator (CTEO) H32A were brought online to improve the Navy abilities to track, 
+retain and distribute skilled technicians within a critical warfare area.  As the Navy leans forward to 
+increase lethality in our Information Warfare Domain, we recognize our need to provide the necessary 
+skills to build critical talent and skillsets in the cyber workforce.  We will deliberately and efficiently 
+provide critical talent where it is most required.  To that end, the Navy will be directing rapid award of 
+these NECs to Sailors who meet the criteria and immediate alignment to billets that require this skillset.
+
+3.  Commands will work with Type Commanders (TYCOMs) to identify and code CTN billets that require 
+this skillset within Total Force Manpower Management System (TFMMS) NLT 120 days from release of 
+this message.  TYCOMs will serve as the final validation authority for billet coding in TFMMS.  TFMMS 
+remains the authoritative database to set the proper demand and properly inform Department of Navy, 
+Manpower, Personnel, Training, and Education Systems.
+
+4.  Commanding Officers will identify and request award of these NECs for Sailors currently serving at 
+their command via bulk memorandum to BUPERS-327F NLT 60 days from the release of this message.  
+Award criteria is as follows:
+    a.  Sailors who meet all requirements outlined in references (b) and (c).
+    b.  Sailors who are currently serving on a Cyber Protection Team
+(CPT) and are considered Fully Trained and Fully Qualified (FTFQ) for the Discovery and Counter 
+Infiltration (DCI) role (or the equivalent CPT Mission Element) requirement for APO-H31A.
+    c.  Sailors who are currently serving on a CPT and are considered FTFQ for the Cyber Threat Emulation 
+(CTE) role (or the equivalent CPT Mission Element) requirement Cyber Threat Analyst role for CTEO- 
+H32A.
+    d.  Sailors who are currently serving on a CPT and are considered to have met the requirements for 
+Intermediate Cyber Core either through course completion or granting of equivalency through official 
+process (i.e. United States Cyber Command Individual Training Equivalency Board) for DCOA-H30A.
+    e.  For Sailors who have met the above requirements but are no longer serving on a CPT, NEC(s) will 
+be considered on a case-by-case basis outlined in subparagraph (g).
+    f.  For any Sailors who do not meet the above requirements including missions outside the Cyber 
+Mission Force (Fleet Information Operations Center, Navy Cyber Defense Operations Center, and Cyber 
+Systems and Operations missions), the awarding of NEC(s) must include the requirements outlined in 
+H30A, H31A and H32A Navy Enlisted Manpower and Personnel Classifications and Occupational 
+Standards awarding criteria.
+    g.  Awarding of the NEC to those Sailors outlined in subparagraphs (e) and (f) will be determined by a 
+panel of Subject Matter Experts (SME) and will largely be based upon the applicability of those skills to 
+their current work.  United States Fleet Cyber Command/10th Fleet is designated as the primary 
+command to administer the SME panel and provide recommendations on all exceptions outside the 
+above awarding criteria including any training waivers through the joint qualification requirements 
+process.  BUPERS-327F will ensure that these NECs are only awarded to personnel with currently 
+relevant skillsets in these areas based on the recommendation from the panel.
+
+5.  Points of Contact:
+    a.  For community-specific eligibility and application questions, contact Enlisted Community Manager 
+(BUPERS-327F).
+    b.  For coding validation questions contact:
+        (1) CTMCM Dan Miemczewski, NAVIFOR N1, (757) 203-3411 or via email at 
+daniel.miemczewski(at)navy.mil.
+        (2) Mrs. Stacy Bowman, NAVIFOR N1, (757) 203-3312 or via email at 
+stacy.a.bowman2.civ(at)mail.mil.
+    c.  For NEC construct questions, contact:
+        (1) LT Peter McLaughlin, NEOCS Division Officer, NAVMAC,
+(901) 874-6309/DSN 882 or via e-mail at peter.mclaughlin(at)navy.mil.
+        (2) Mr. Charles Williams, NEOCS Program Manager, NAVMAC,
+(901) 874-6464/DSN 882 or via e-mail at
+charles.l.williams(at)navy.mil.
+    d.  For general questions regarding this NAVADMIN, contact:
+        (1) CTNCM Nicholous Lopez, CTN Senior Rating Advisor, OPNAV N2N6, (703) 614-8346 or via e-mail 
+at nicholous.d.lopez(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, or whichever occurs first.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for Information Warfare, 
+OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

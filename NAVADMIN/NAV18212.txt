@@ -1,0 +1,122 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 302122Z AUG 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 212/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/ORDER TO UPDATE NAVY FAMILY ACCOUNTABILITY AND ASSESSMENT SYSTEM 
+PERSONAL CONTACT INFORMATION//
+
+REF/A/DOC/OPNAV/23OCT14//
+
+AMPN/REF A IS OPNAVINST 3006.1, PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH 
+CATASTROPHIC EVENTS.//
+
+RMKS/1.  This NAVADMIN announces the semi-annual update/verification of 
+personal information in the Navy Family Accountability and Assessment System 
+(NFAAS) by all Navy military and civilian personnel that must be completed no 
+later than 30 September 2018.
+If a record has been updated in the system between 1 May 2018 to
+30 September 2018, that record is considered validated for the
+30 September 2018 deadline.  NFAAS is the system utilized by the Navy to 
+account for personnel and their families during widespread natural or man-
+made disasters.  Accurate contact information of personnel and family members 
+is required to facilitate a quick and accurate muster of personnel in 
+affected areas.  As directed in reference (a), updates of personal 
+information will be verified as current semi-annually.
+
+2.  Applicability.  This message applies to all Navy personnel, uniformed 
+(Active Duty and Reserve), Navy civilians and Outside Continental United 
+States (OCONUS) contractors in line with the
+following:
+    a.  It is required for all military personnel to update and verify 
+contact information and all categories of dependents.
+    b.  It is mandatory for non-bargaining unit civilian employees to update 
+their contact information.  Providing dependent information is voluntary but 
+highly encouraged.  Failure to provide dependent information may exclude them 
+from receiving potential benefits, if applicable.
+    c.  Bargaining unit civilian employees are highly encouraged to provide 
+their contact and dependent information on a voluntary basis, until union 
+notification and subsequent impact and implementation bargaining takes place 
+(when applicable).  Providing contact information is critical in providing 
+support to Department of the Navy civilians and their dependents during the 
+recovery period following a disaster.
+
+3.  Echelon II Commanders, Region Commanders, and Region Personnel 
+Accountability Representatives will ensure widest dissemination to all 
+subordinate, tenant commands, and detachments for action as required.  All 
+commanding officers (CO)/officers-in-charge (OIC) will ensure timely and 
+accurate updates of Navy member and family member contact information as 
+stated above.  COs/OICs will also contact the Human Resources Office to 
+request applicable union notifications.  This requirement also includes 
+OCONUS contractors (must enter associated unit identification code).  A 
+report of those commands not in compliance with this NAVADMIN will be 
+provided to the Office of the Chief of Naval Operations for review.
+
+4.  Additionally, each command will institute policies requiring personnel to 
+update their NFAAS data during check-in and check-out as standard practice.  
+Military members/dependents must also update NFAAS in any instance in which 
+they make a permanent change of address.  Civilian non-bargaining unit 
+employees must update their contact information and are highly encouraged to 
+update their dependents information on a voluntary basis whenever there is a 
+change.  Civilian bargaining unit employees are highly encouraged to update 
+their information whenever there is a change.
+
+5.  To update contact data, utilize the NFAAS site at 
+https://navyfamily.navy.mil.  Login and update member information under the 
+*My Info* tab, *Contact Information* section, and update sponsor's work 
+location information.  Update family member information under the *My Info* 
+tab, *Family Member Info* section.
+Edit member and family member information as necessary and verify as current.  
+All family members enrolled in the Exceptional Family Member Program must be 
+identified as such.
+
+6.  The NFAAS site can also be accessed from any Android, Iphone, or 
+Blackberry mobile device web browser.  Although the application uses the same 
+uniform resource locator address as the NFAAS website, when accessed via 
+mobile device, the site will be optimized to allow easy viewing and 
+navigation.
+
+7.  CO Representatives can validate contact information has been verified by 
+using the personnel tab in NFAAS and use the *Export To
+Excel* option.  Column *N* contains the date the contact information was last 
+updated.
+
+8.  A tool is available in NFAAS to allow commands to *pull* personnel into 
+their unit identification code (UIC).  This prevents information from 
+incorrectly remaining in a previous UIC and not being accounted for in the 
+current command within NFAAS.
+
+9.  Points of contact:
+    a.  NFAAS Help Desk/Space and Naval Warfare System Command at
+(866) 946-9183 or via e-mail and can be reached at nfaas(at)spawar.navy.mil.
+    b. NFAAS Program Manager, Chief Isa Grace, can be reached at
+(202) 433-4321 or via e-mail at isa.n.grace(at)navy.mil.
+
+10.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+11.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

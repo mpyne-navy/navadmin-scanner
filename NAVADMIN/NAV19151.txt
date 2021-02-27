@@ -1,0 +1,158 @@
+UNCLASSIFIED//
+ROUTINE
+R 031430Z JUL 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 151/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/SECURITY CLEARANCE CONTINUOUS EVALUATION GUIDANCE FOR TIER 3 (SECRET) 
+AND TIER 5 (TOP SECRET//SENSITIVE COMPARTMENTED INFORMATION) REINVESTIGATION 
+DEFERMENT PROCESSING//
+
+REF/A/MSG/GENADMIN/SECNAV WASHINGTON DC/16 AUG 18//
+REF/B/DOC/UNSECNAV MEMO/10 AUG 18//
+REF/C/DOC/OUSDI MEMO/27 JUL 17//
+NARR/REF A IS ALNAV 059/18 IMPLEMENTATION OF THE TIER 3 AND TIER 5 
+REINVESTIGATION DEFERMENT PROCESS.  
+REF B IS THE DEPARTMENT OF THE NAVY IMPLEMENTION MEASURES TO REDUCE THE 
+FEDERAL GOVERNMENT BACKGROUND INVESTIGATION INVENTORY IN FISCAL YEAR 2018.  
+REF C IS THE DEPARTMENT OF DEFENSE GUIDANCE FOR THE IMPLEMENTATION OF 
+MEASURES TO REDUCE THE FEDERAL GOVERNMENT BACKGROUND INVESTIGATION INVENTORY 
+IN FISCAL YEAR 2018.// 
+POC/FLOYD/CIV/OPNAV N2N6/E-MAIL:  JENNIFER.FLOYD3(AT)NAVY.MIL/
+TEL:  703-604-5564//
+
+RMKS/1.  This NAVADMIN provides amplifying guidance to reference (a), which 
+was released to address changes to security clearance background 
+investigation procedures and implement the deferment process for Tier 3 
+(Secret)/Tier 5 (Top Secret//Sensitive Compartmented Information) 
+Reinvestigations (T3R/T5R) identified in references (b) and (c) as a means of 
+reducing the background investigation backlog.  There are no changes in the 
+process of initiating initial Tier 3 and Tier 5 Investigations (T3/T5).  The 
+deferment process provides a decision matrix to determine whether a T3R/T5R 
+should be submitted as a reinvestigation in Electronic Questionnaire for 
+Investigation Processing (e-QIP) or can be submitted to Defense Manpower Data 
+Center (DMDC) for entry into the Continuous Evaluation (CE) program.
+
+2.  Joint Personnel Adjudication System (JPAS) is the current security system 
+of record.  Defense Information System for Security (DISS) is the means to 
+perform some functions to include verifying the CE enrollment date based on 
+reinvestigation deferment.
+
+3.  The deferment process for T3R/T5R requires the Command Special Security 
+Officers (SSO) or Command Security Managers (CSM) to validate the requirement 
+for a reinvestigation as previously conducted.  The SSO/CSM confirms a 
+members eligibility is still required based on the individuals position 
+sensitivity; and there are no other ongoing investigations which meet the 
+vetting requirements of the position, prior to initiating the Standard
+Form-86 (SF-86) for reinvestigation in e-QIP.
+
+4.  Once the SF-86 is submitted to the security office for review, the 
+SSO/CSM is required to review the SF-86 using the Department of Defense (DoD) 
+SF-86 Screening Matrix.  The Screening Matrix provides a list of potential 
+flags on the SF-86, and what action is to be taken for each flag.  Based on 
+the SSO/CSM review, the SF-86 is
+either:
+    a.  With flags, released in e-Qip and sent to National Background 
+Investigation Bureau (NBIB) as traditionally done for reinvestigation.
+    b.  With no flags, downloaded from e-Qip and sent to the Echelon I or II 
+SSO/CSM for enrollment in the CE program.
+    c.  With no flags and CE enrollment confirmed in DISS, no further action 
+is needed.
+
+5.  Commands submitting case files for CE enrollment are required to:
+    a.  Review the SF-86 to ensure all information is replicated in  JPAS in 
+order for the deferment to be accepted.  In the event of a matching error, 
+contact the DMDC call center at (800) 467-5526 for resolution and ensure the 
+Human Resources/Personnel system of record is accurate.
+    b.  Extract the SF-86 file from e-Qip and forward the file to the Echelon 
+I or II Security Officer.  The process for exporting SF-86 as an .xml file 
+is:
+        (1) In e-Qip, select investigation to be extracted
+        (2) Select ATTACHMENT tab
+        (3) Select the PRINTABLES radio button
+        (4) Select EXPORT SUBMISSION DATAT (XML) hyperlink
+        (5) Right click on data and SELECT ALL
+        (6) Right click and select SAVE TARGET AS .xml format
+        (7) Save subject files as:
+            LastName_FirstName_LastFourSSN.xml
+            i.e., (Smith_John_1234.xml)
+            The .xml extension should be saved as lower case.
+    c.  Submit xml file to the echelon I or II Security Office for submission 
+to DMDC for CE enrollment.
+
+6.  Echelon I and II commands must register no more than three 
+representatives who will be authorized to submit case files to DMDC for CE 
+enrollment.  Echelon I and II SSO/CSM should contact Deputy Under Security of 
+the Navy (DUSN), Security Directorate at:
+donsecurity_pers.fct(at)navy.mil to register.  Files submitted by 
+unauthorized personnel will be rejected and not enrolled into CE.
+
+7.  To submit CE enrollment files to DMDC, echelon I and II commands are 
+required to:
+    a.  Group all .xml files into a single zip file, for one weekly 
+submission.  Do not send subject files individually if there are multiples to 
+submit.
+    b.  Include the word Navy in the subject line of the email.
+    c.  Submit the .xml zip file by email each Tuesday by 1100 PST.
+    d.  Email addresses to send the encrypted zipped xml files will be 
+provided by DUSN Security Directorate when registering authorized Echelon I 
+and II users.
+
+8.  DoD personnel enrolled in CE will retain their existing eligibility.  
+Under the rules of reciprocity as mandated by the applicable policy, existing 
+eligibility remains valid until the
+individual:
+    a.  Is removed from CE
+    b.  No longer has any DOD affiliation
+    c.  Eligibility is revoked or suspended
+    d.  CE enrollment dates prior to August 2018 are not valid as they were 
+part of the CE test program.  For members with prior CE dates, submit 
+reinvestigations as per references (b) and (c).
+
+9.  SSO/CSM are advised to communicate CE enrollment to the employee; and to 
+advise the employee to maintain a copy of the SF-86.
+
+10.  Based on frequently asked questions, the following information is 
+provided.
+    a.  ALNAV 059/18 deferment policy and guidance only applies to T3R/T5Rs.
+    b. The CE enrollment date will be used as the investigation date once 
+enrolled into CE deferment.
+    c.  Employees will remain in CE deferment until one of the conditions in 
+paragraph 8 above is met.
+    d.  Currently the CE enrollment date is only available in DISS.
+    e.  Personnel enrolled in CE do not receive a new eligibility date; they 
+retain their existing eligibility.
+    f.  There is no separate guidance regarding established control programs.  
+All reinvestigations should be processed as per ALNAV 059/18, and existing 
+eligibility remains as stated above.
+    g.  Until otherwise directed, submit any required reinvestigations for 
+members enrolled in CE as warranted by the level of clearance eligibility 
+required.  Use the last closed investigation date or CE enrollment date, 
+whichever is later, to determine reinvestigation periodicity requirements.
+
+11.  References and applicable documents identified in the NAVADMIN may be 
+downloaded from the DUSN Security portal at:
+https://portal.secnav.navy.mil/orgs/DUSNP/Security-Directorate/
+Personnel-Security/SitePages/Home.aspx
+
+12.  Direct any questions to the point of contact, Ms. Jennifer Floyd, (703) 
+604-5564 or jennifer.floyd3(at)navy.mil.
+
+13.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,62 @@
+UNCLASSIFIED//
+ROUTINE
+R 211958Z AUG 14 PSN 526402K19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 191/14
+
+SUBJ/SUBJ/FY-15 GRADUATE EDUCATION VOUCHER PROGRAM// 
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+REF/A/DOC/OPNAV/26FEB13//
+AMPN/REF A IS OPNAVINST 1520.37B, GRADUATE EDUCATION VOUCHER PROGRAM.//
+
+RMKS/1.  This NAVADMIN provides details on the Graduate Education Voucher 
+(GEV) program and guidance for FY-15 program application.
+Eligibility, obligated service requirements, subspecialty utilization tour, 
+and authorized program benefits are prescribed in ref (a).
+
+2.  GEV funding is authorized only for off-duty study in master*s degree 
+programs which meet the requirements of at least one approved Navy 
+subspecialty code as verified by Naval Postgraduate School (NPS).  For FY-15, 
+120 GEV quotas for select unrestricted line officers are planned, subject to 
+funding availability.
+    a.  Quotas are apportioned as follows:
+        Aviation officers - 49
+        Submarine officers - 27
+        Surface Warfare officers * 42
+        SPECWAR/EOD officers * 2
+    b.  FY-15 Quotas by area of study, subspecialty for area of study, and 
+warfare area are:
+Chemistry (4201P/G)            AV 1  SUB  0 SURFACE 1  SPECWAR/EOD 0
+Computer Science (6203P/G)     AV 4  SUB  3 SURFACE 4  SPECWAR/EOD 0
+Engineering (5XXXP/G)          AV 12 SUB  5 SURFACE 8  SPECWAR/EOD 0
+English (4301P/G)              AV 1  SUB  1 SURFACE 0  SPECWAR/EOD 0
+Financial Mgmt. (3105P/G)      AV 18 SUB  8 SURFACE 16 SPECWAR/EOD 2
+History (4302P/G)              AV 1  SUB  0 SURFACE 1  SPECWAR/EOD 0
+Mathematics (4100P/G)          AV 1  SUB  1 SURFACE 1  SPECWAR/EOD 0
+Ops Analysis/Research (3211G)  AV 4  SUB  4 SURFACE 4  SPECWAR/EOD 0
+Regional Studies (2XXXP/G)     AV 7  SUB  5 SURFACE 7  SPECWAR/EOD 0
+
+3.  Application and program specifics may be found in ref (a) or at 
+https://www.navycollege.navy.mil/gev/gev_home.aspx.
+
+4.  Points of contact:
+    a.  For program specific questions contact Ms. Marjoriette Dilworth at 
+(850) 473-6064/DSN 753 or via e-mail at marjoriette.dilworth(at)navy.mil.
+    b.  For policy questions contact Dr. Cheral Cook at
+(850) 452-3671/DSN 459 or via e-mail at cheral.cook(at)navy.mil.
+
+5.  This message is canceled for record purposes on 30 September 2015.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#3270
+NNNN
+UNCLASSIFIED//
+

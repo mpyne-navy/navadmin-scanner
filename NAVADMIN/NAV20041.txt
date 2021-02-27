@@ -1,0 +1,207 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 201342Z FEB 20 MID510000952585U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 041/20
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N4/FEB//
+
+SUBJ/INSTALLATION ACCESS CONTROL:  DEFENSE BIOMETRIC IDENTIFICATION SYSTEM 
+CHANGE (CORRECTED COPY)//
+
+REF/A/DOC/DEPSECDEF/17JAN20//
+
+REF/B/DOC/DUSN/3FEB20//
+
+REF/C/DOC/DOD/23JAN14//
+
+REF/D/DOC/DOD/2JAN19//
+
+NARR/REF A IS THE DEPUTY SECRETARY OF DEFENSE MEMORANDUM, GUIDANCE FOR 
+RESUMING INTERNATIONAL MILITARY EDUCATION AND TRAINING.  REF B IS THE SENIOR 
+DIRECTOR FOR SECURITY AND INTELLIGENCE MEMORANDUM, DEFENSE BIOMETRICS 
+IDENTIFICATION SYSTEM CHANGE: EXPLICIT ACCESS REQUIRED FOR FOREIGN NATIONALS.  
+REF C IS DOD MANUAL 1000.13 VOLUME 1, DOD IDENTIFICATION CARDS:  
+IDENTIFICATION CARD LIFE -CYCLE.  REF D IS DOD MANUAL 5200.08 VOLUME 3, 
+PHYSICAL SECURITY PROGRAM: ACCESS TO DOD INSTALLATIONS.// POC/JAMES 
+JOHNSON/CNO WASHINGTON DC/N462/TEL:  703-695-5516/EMAIL:
+JAMES.A.JOHNSON4(AT)NAVY.MIL/
+POC/ERIC HAMMETT/CNO WASHINGTON DC/N462/TEL:  703-695-5521
+/EMAIL:  ERIC.HAMMETT(AT)NAVY MIL//
+
+RMKS/1.  This NAVADMIN directs Navy compliance with references (a) and (b) 
+and provides amplifying guidance on foreign national physical access to Navy 
+installations.  Effective 25 February 2020, the Defense Manpower Data Center 
+will make programming changes to the Defense Biometric Identification System
+(DBIDS) removing implicit access to all U.S. Navy installations located in 
+the Continental United States (CONUS) to include Hawaii and Guam for foreign 
+nationals and their dependents.  Foreign nationals in possession of a common 
+access card (CAC) or their dependents in possession of dependent 
+identification card will be required to be registered for explicit permission 
+in order to access a Navy installation.  As used in this NAVADMIN, the term 
+installation includes base, site, and facility.  Foreign national credentials 
+must be provisioned for explicit access to each installation for which they 
+are assigned and/or authorized access.  Adherence to the guidance and 
+timelines contained in paragraph 3 below will minimize operational impacts 
+and disruption to foreign military partners.
+
+2.  Reference (d) defines the CAC as simultaneously establishing identity, 
+fitness, and purpose for installation access.  CACs held by U.S. military, 
+Department of Defense (DoD) civilian personnel and direct support U.S.
+contractor personnel will continue to establish identity, fitness, and 
+purpose.  Per references (a) and (b), CACs with a blue stripe will establish 
+identity and fitness only.  Persons in possession of blue stripe CACs must 
+establish purpose by appropriate documentation in order to gain access to a 
+Navy installation.  Per references (a) through (d) eligible foreign 
+nationals, including International Military Students, will be issued a CAC 
+with a blue stripe.  Foreign nationals possessing a CAC with a blue stripe 
+are limited to accessing only installations where they have an official duty 
+or other authorized purpose which requires installation access.  Dependents 
+of foreign nationals, if eligible, will receive a Uniform Services 
+Identification Card (USID), DD Form 1173 that establishes identity only and 
+they are limited to accessing only installations where they have an 
+authorized purpose which requires installation access.
+
+3.  Responsibilities
+    a.  Commander, Navy Installations Command
+        (1)  No later than 25 February 2020, Navy installations and any 
+applicable installation associated sites will explicitly register foreign 
+nationals, to include International Military Students, Foreign Liaison Office 
+(FLO), Personnel Exchange Program (PEP) personnel, and their dependents, for 
+access to their assigned duty station and facilitate the process for gaining 
+access to additional Navy installations, as required.  This process will be 
+executed by each installation via the DBIDS registration workstation, in 
+coordination with tenant organizations, at each installation or site.
+        (2) Access Rosters:  Upon receipt of the access rosters from tenant 
+commands hosting foreign nationals currently enrolled in DBIDS, the Visitor 
+Control Center (VCC)/access control personnel will explicitly grant access 
+for foreign national personnel and their dependents to their assigned duty 
+station (VCC personnel should refer to page 72 of the DBIDS User Manual for 
+this process or the issued DBIDS Explicit Access Guide).  The VCC personnel 
+will notify the foreign nationals host command of any foreign nationals who 
+cannot be granted explicit access.  This may require the foreign national 
+and/or their dependents, to conduct an in-person DBIDS enrollment at the VCC 
+with supporting documentation, such as invitational travel orders.
+        (3)  Ensure all foreign nationals possessing a foreign national 
+credential are processed through the Visitor Control Process (VCP) at the VCC 
+for their first visit to the installation or issuance of a new credential.  
+Once purpose is established by completing the VCP they will be enrolled in 
+the installation/site Physical Action Control System (PACS) for subsequent 
+base entry.
+        (4)  Per reference (d), installation entry control point personnel 
+will scan all foreign national credentials when personnel enter the 
+installation /site.
+        (5) In the event that the installation/site Physical Access Control 
+System is inoperable, or an installation/site is not equipped with a PACS, 
+installations must verify foreign nationals U.S. Government issued 
+Invitational Travel Orders, certification, other official orders, or other 
+such documentation (e.g., similar to being able to provide vehicle 
+registration and insurance documentation upon request) that establishes their 
+purpose for accessing the intended installation/site.
+        (6) Ensure installations adhere to the following:
+            (a) Foreign nationals requiring access for official business to 
+more than one Navy or DoD installation must have a signed letter, or other 
+official documentation, issued by the appropriate U.S. Government Official 
+identifying the purpose for access to the other installation(s); once purpose 
+is established, foreign nationals will only be afforded access during the 
+time periods identified in the members documentation for each individual 
+location.
+            (b) Verify that unofficial/leisure travel for foreign national 
+students to other Navy installations is approved in writing by the 
+responsible International Military Student Office (IMSO) or Commanding 
+Officer (CO).  The foreign national must have the signed letter in their 
+possession and request access at the VCC.
+            (c) Per the applicable international agreement, FLOs and PEPs may 
+be granted explicit access to all Navy installations, which allows them to 
+travel with their host units in the performance of their duties, as 
+determined by the responsible contact officer or Co.  FLOs and PEPs visiting 
+installations where not assigned, will be required to report to the 
+installation VCC with a signed letter, or other official documentation, 
+issued by the designated contact officer or host CO identifying their purpose 
+for access.
+            (d) All foreign nationals on official business will carry their 
+International Travel Orders, Visitors International Stay Admission (VISA), 
+applicable international agreement, or other official documentation, on their 
+person at all times while on the installation, and will present them to 
+installation/site security forces when requested, for determining the purpose 
+for access.  PEPs and FLOs on official business will carry their 
+certification, issued pursuant to the applicable international agreement.
+         (7) The installation CO is the approval authority for all access 
+requests for that installation.  Regional commanders are encouraged to 
+establish regional processes to facilitate access to other installations 
+throughout their respective areas of responsibility.
+     b.  Tenant COs and Directors of Navy Activities.  In order to minimize 
+operational impact, adhere to the following:
+         (1) Access Rosters:  No later than 21 February 2020, the IMSO or a 
+designated officer at Navy Commands hosting foreign nationals  will develop a 
+roster of foreign nationals currently enrolled in DBIDS and assigned to their 
+respective command, schools, and training courses.  This list will be 
+submitted to the Installation Security Office for review and processing.  The 
+roster will
+identify:
+             (a) The foreign nationals full name
+             (b) Assigned command
+             (c) Start/end dates of issued orders
+             (d) The foreign nationals DoD ID number
+             (e) Dependents names (if above 18 years old - as applicable)
+             (f) Dependents DoD ID number
+             (g) Navy organizational point of contact name, phone number and 
+DoD ID number (must be a U.S. Government official/sponsor)
+             (h) Location(s) required
+         (2) Navy tenant commands responsible for hosting foreign nationals 
+in the U.S. that are tenant organizations aboard joint bases or other Service 
+installations/sites will follow with the orders, regulations, and policies of 
+the host service installation commander.
+         (3) Ensure assigned foreign nationals always have in their 
+possession CACs and/or USIDs and their U.S. Government issued Invitational 
+Travel Orders, certification, other official orders, or other such 
+documentation (e.g., similar to being able to provide vehicle registration 
+and insurance documentation upon request) that establishes their purpose for 
+accessing the intended installation/site.
+         (4) Ensure that FLOs and PEPs visiting installations where not 
+assigned, will be required to report to the installation VCC with a signed 
+letter, or other official documentation, issued by the designated contact 
+officer or host CO identifying their purpose for access.
+         (5) Ensure unofficial/leisure travel for foreign national students 
+to other Navy installations is approved in writing by the responsible IMSO or 
+CO.  The foreign national must have the signed letter in their possession and 
+request access at the VCC.
+         (6) Navy tenant commands are responsible for validating, 
+maintaining, and updating the list of their assigned foreign nationals, and 
+for ensuring their check-in/check-out processes include the installation VCC 
+to encourage enrollment upon reporting and disenrollment when detaching.
+         (7) Tenant commands will maintain lists of foreign nationals for 
+future data calls in support of installation access control.
+         (8) All foreign nationals and their authorized dependents traveling 
+to other Navy installations which they are not assigned to, are required to 
+obtain approval in writing by the host commander or contact officer and 
+encouraged to pre-register with the intended installation CO for the planned 
+visit.
+
+4.  Trusted Traveler, Escorting, And Sponsorship.  Per reference (d), Trusted 
+Traveler privilege is prohibited for foreign nationals.  Foreign nationals 
+may not escort or sponsor other persons aboard Navy installations.
+
+5.  Applicability.  This message applies to all Navy CONUS installations to 
+include Hawaii and Guam, their associated sites, and Navy owned standalone 
+facilities.  Contents of this NAVADMIN will be incorporated into the next 
+revision of OPNAVINST 5530.14 and applicable access control policies and may 
+not be waived.
+
+6.  Released by VADM R. L. Williamson, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

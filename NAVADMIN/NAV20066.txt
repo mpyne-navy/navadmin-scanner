@@ -1,0 +1,182 @@
+UNCLASSIFIED//
+ROUTINE
+R 161555Z MAR 20 MID110000473579U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 066/20 //
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/MERGER OF THE ELECTRONICS TECHNICIAN, COMMUNICATIONS (SUBMARINES) 
+SERVICE RATING INTO THE INFORMATION SYSTEMS TECHNICIAN (SUBMARINES) SERVICE 
+RATING//
+
+REF/A/GENADMIN/COMSUBFOR/111441ZJUL19//
+REF/B/DOC/COMNAVPERSCOM/24APR18//
+
+NARR/REF A IS COMSUBLANT COMSUBPAC EXORD 05-19 ITS RATING CONVERSION (U).  
+REF B IS MILPERSMAN ARTICLE 1510-030, ADVANCED ELECTRONICS FIELD, ADVANCED 
+TECHNICAL FIELD, AND NUCLEAR FIELD PROGRAMS.//
+
+RMKS//1.  This NAVADMIN announces the realignment of all electronics 
+technician, communications (Submarines) (ETR) and information systems 
+technician (Submarines) (ITS) Sailors into a single ITS service rating.  The 
+merged ratings will apply to Active-Duty, Full- Time Support (FTS) and 
+Selected Reserve (SELRES) Sailors and billets.  Sailors in the newly 
+consolidated ITS service rating will possess the foundational skills that 
+enable them to maintain shipboard networks, while pursuing mastery in either 
+a communications (ITS-COMMS) or electronic warfare (ITS-EW) specialization 
+career path.  In the future, billets for both shore and sea will be based on 
+the specialization Navy enlisted classification (NEC) codes and aligned to 
+enhance the career paths of our Sailors.
+
+2.  Realigning the ETR and ITS ratings into a single ITS service rating is in 
+direct support of Sailor 2025 and Rating Modernization initiatives.  This 
+change creates an opportunity for the submarine force to leverage a larger 
+community of skilled Sailors to maintain shipboard networks and will allow 
+skilled Sailors to pursue mastery in either an ITS-COMMS or ITS-EW 
+specialization career path.  The rating merger increases Navy undersea 
+effectiveness while enhancing Fleet ability to operate and maintain submarine 
+computer networks.
+It allows for the creation of an information warfare division onboard 
+submarines, bringing more capability (due to enhanced training and career 
+paths) in electronic warfare, computer networking, cyber operations, 
+communications and cryptography areas of expertise, while simultaneously 
+increasing Fleet readiness, sustainability and fit.
+
+3.  The merger of ETR into the ITS service rating will occur on 1 June 2020.  
+The primary personnel and billets to receive the merged rating will be all 
+ITS and ETR Sailors.  NEC codes affected by this merger are I25A, T11A, T12A, 
+T13A, T15A, T17A, T22A, T24A, T25A, T28A, T29A, T32A, T47A, 729A, 730A, 731A, 
+733A, 734A, 736A, 737A, 738A, 739A, 741A, 742A, 744A, 745A, 746A, 756A, 772B, 
+773B, 774B, 783A, 784A, 785A, 786A, 789A and 794A.  ETR Sailors and billets 
+awarded/assigned any of these codes shall be converted to the ITS service 
+rating.
+
+4.  For E-1 through E-9 Active-Duty and Reserve personnel, commands will 
+coordinate with their immediate superior in command and Non- nuclear 
+Submarine Enlisted Community Manager (BUPERS-322) in order to select which 
+career path best suits the needs of the Navy, the command and the Sailors in 
+line with reference (a).  The merger of the service ratings will require 
+Sailors who were previously designated as ETR to convert their rating badge 
+to the existing ITS rating badge no later than 1 March 2021.  ETR Sailors who 
+transfer to the Fleet Reserve or to the retired list before 1 June 2020 may 
+continue to wear the ETR rating badge.  Sailors who, prior to 1 June 2019, 
+have received approval for retirement are exempt from this merger.
+
+5.  While the shipboard networking knowledge base will be shared, these 
+career paths will be distinct, each managed by separate training pipelines 
+and NEC codes.  All ITS Sailors will become specialists in either ITS-COMMS 
+or ITS-EW and each path will have its own rating examinations as well as 
+advancement quotas.  Rating exams and quotas will be managed by separate 
+enlisted management codes.  In order to ensure that all ITS Sailors maintain 
+the same IT foundational knowledge, the shipboard networking exam bank will 
+be identical across both career paths.
+
+6.  In an effort to fully represent the community focus on the job- specific 
+knowledge required to execute the ITS ratings career paths of communications 
+and electronic warfare, two ITS advancement exams will be administered for 
+the E-5, E-6 and E-7 paygrades.  The following exam rates will be selected 
+for the ITS job-specific specializations when ordering exams:  IRM for the 
+ITS Communications content and IEW for the ITS electronic warfare content.  
+Following is the Navy-wide examination administration schedule:
+
+    a.  E-7 (Active-Duty/FTS):
+        (1) Last Separate ITS and ETR Exams - January 2020.
+        (2) First IRM and IEW Job-Specific Career Path Exams January 2021.
+    b.  E-7 (SELRES):
+        (1) Last Separate ITS and ETR Exams  February 2020.
+        (2) First IRM and IEW Job-Specific Career Path Exams February 2021.
+    c.  E-5 through E-6 (Active-Duty/FTS):
+        (1) Last Separate ITS and ETR Exams  March 2020.
+        (2) First IRM and IEW Job-Specific Career Path Exams September 2020.
+    d.  E-5 through E-6 (SELRES):
+        (1) Last Separate ITS and ETR Exams  August 2020.
+        (2)First IRM and IEW Job-Specific Career Path Exams February 2021.
+    e.  E-4 (Active-Duty/FTS):
+        (1) Last ETR Exam  March 2020.
+        (2) ITS advancements to E-4 occur in line with ITS program 
+Requirements (See paragraph 6(g) below).
+    f.  E-4 (SELRES):
+        (1) Last ETR Exam  August 2020.
+        (2) ITS advancements to E-4 occur in line with ITS program 
+Requirements (See paragraph 6(g) below).
+
+g.  As of 1 June 2020, Active-Duty, FTS and SELRES Sailors who were ETRSN and 
+converted to ITSSN will follow reference (b) guidelines for advancement to 
+E-4 with the exception of the additional 12 months of obligated service.  
+Sailors are required to have obtained the ITS NECs prior to advancement.  For 
+additional details regarding these policies, contact the applicable enlisted 
+community manager (ECM) in line with paragraph 10 below.
+
+7.  Following is the E-7, E-8 and E-9 Selection Board schedule:
+ a.  E-9 (Active-Duty):
+     (1) Last Separate ITS and ETR Boards  April 2020 (fiscal year (FY) 2021 
+Board).
+     (2) First IRM and IEW Job-Specific Career Path Boards April 2021 (FY-22 
+Board).
+ b.  E-8 (Active-Duty):
+     (1) Last Separate ITS and ETR Boards  April 2020 (FY-21 Board).
+     (2) First IRM and IEW Job-Specific Career Path Boards April 2021 (FY-22 
+Boards).
+ c.  E-8/9 (FTS/SELRES):
+     (1) Last Separate ITS and ETR Boards  March 2020 (FY-21 Board).
+     (2) First IRM and IEW Job-Specific Career Path Boards March 2021 (FY-22 
+Board).
+ d.  E-7 (Active-Duty):
+     (1) Last Separate ITS and ETR Boards  June 2020 (FY-21 Board).
+     (2) First IRM and IEW Job-Specific Career Path Boards  June
+2021 (FY-22 Board).
+ e.  E-7 (FTS/SELRES):
+     (1) Last Separate ITS and ETR Boards  May 2020 (FY-21 Board).
+     (2) First IRM and IEW Job-Specific Career Path Boards  May
+2021 (FY-22 Board).
+
+8.  Starting FY-21, Commander, Navy Recruiting Command (CNRC) will recruit 
+only into the merged ITS service rating.  All new accession recruits will 
+attend ITS *A* school.  Beginning 1 June 2020, all new accession students 
+will attend the new ITS *A* pipelines, which will train them on either ITS-
+COMMS or ITS-EW.
+
+9.  This NAVADMIN does not modify any previous guidance concerning early 
+separation, Fleet Reserve, conversion packages or career waypoints (C-Way) 
+quotas.  C-Way quota requests dated prior to 1 October 2020 shall be 
+submitted in line with guidance for the separate ETR and ITS service ratings.  
+C-Way quota requests dated 1 October 2020 or later will be submitted in line 
+with guidance for the ITS rating.  ETR Sailors will only be eligible to 
+reenlist for an ITS selective reenlistment bonus (SRB) upon completion of the 
+job qualification requirement conversion package and awarding of an ITS NEC 
+code.  SRB payments for applicable ETR/ITS Sailors will continue to be paid 
+after the 1 June 2020 conversion date.
+
+10.  Points of contact during the merger are as follows:
+      a.  ECM:
+      (1) LT Rafael Byron, BUPERS-322, at (901) 874-2081/DSN 882 or 
+via e-mail rafael.m.byron(at)navy.mil.
+     (2) ETRCS Jimmy Long, BUPERS-322, (901) 874-2819/DSN 882 or 
+via e-mail jimmy.r.long(at)navy.mil.
+      (3) ISCM Nick Ferguson, Reserve ECM (BUPERS-352),
+(901) 874-4508/DSN 882 or via e-mail nicholas.ferguson(at)navy.mil.
+      (4) PSC Angela Hutton, BUPERS-352, (901) 874-3761/DSN 882 or 
+via e-mail angela.r.hutton(at)navy.mil.
+     b.  Enlisted Submarine Detailers:
+      (1) ETRC Lucas Shepard, Submarine ETR Detailer at (901) 874-3619/
+DSN 882, or via e-mail sub_nav(at)navy.mil.
+      (2) ITS1 Anthony Tavarez, Submarine ITS Detailer at (901) 874-3652/
+DSN 882, or via e-mail sub_nav(at)navy.mil.
+
+11.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

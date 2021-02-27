@@ -1,0 +1,112 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 031546Z APR 20 MID110000550427U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 098/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/APR//
+
+SUBJ/PROCEDURES FOR NAVY ENTITIES TO CONTRIBUTE ADDITIVELY MANUFACTURED PARTS 
+OR SERVICES IN RESPONSE TO COVID-19//
+
+REF/A/PUBLIC LAW/CONGRESS/23NOV1988//
+
+REF/B/REG/OSD/NOV2017//
+
+REF/C/MEMO/ASN RDA/31MAR2020//
+
+NARR/REF A IS 42 U.S. CODE 5121, STAFFORD ACT.  REF B IS DOD FINANCIAL 
+MANAGEMENT REGULATION, VOL. 2 B (CHAPTER 9).  REF C IS A MEMORANDUM FROM ASN 
+RDA GUIDANCE FOR PROVIDING SUPPORT DURING THE NATIONAL EMERGENCY.//
+
+RMKS/1.  This NAVADMIN provides guidance for Navy organizations wishing to 
+contribute to COVID-19 response/relief efforts using Additive Manufacturing 
+(AM).  The steps outlined below are designed to ensure the Navy remains 
+aligned with Federal Emergency Management Agency (FEMA) initiatives being 
+coordinated with the Department of Defense via the recently created Joint 
+Acquisition Task Force (JATF).  The intent is not to stifle grass-roots 
+efforts at the local level, but rather to ensure Navy capabilities are used 
+to address the most pressing needs and are in keeping with the provisions set 
+forth in references
+(a) through (c).
+
+2.  Units wishing to respond to a local need should follow the steps below:
+    a.  First contact your SYSCOM POC (contact info included below) to verify 
+there is no higher priority tasking.  If the request to manufacture did not 
+come through FEMA channels, SYSCOM leads will compile requests and forward to 
+JATF for review and presentation to FEMA for approval.
+    b.  If there are no higher priority SYSCOM tasks and the request came via 
+FEMA channels or was granted FEMA authorization via the process described 
+above, units may support the request provided:
+        (1) The unit follows proper acquisition authorities per references 
+(a) and (b).  Per reference (a), only FEMA requirements are authorized for 
+reimbursement.
+        (2) The Technical Data Package for the component has been approved by 
+the FDA or relevant approval authority, when required.
+        (3) Units provide a report to navy_am_covid19@navy.mil (SYSCOM POCs 
+are able to provide reports template), so that Navy leadership can stay 
+abreast of current efforts.
+
+3.  Units who have not received a direct request but who wish to offer 
+assistance may lend support by following the steps below:
+    a.  Contact your SYSCOM POC to verify they have a current inventory of 
+your manufacturing capability and to inquire about FEMA/JATF/DON priority 
+tasking.  If no such tasking exists units may proceed to step b.
+    b.  Visit the America Makes COVID-19 website, https://www.americamakes.us 
+/statement-on-covid-19/, and click on the manufacturers icon to submit 
+details regarding your manufacturing capability. America Makes, has been 
+funded to liaise between the DOD, the Food and Drug Administration (FDA), the 
+Department of Veterans Affairs (VA), the National Institute of Health (NIH), 
+and the broader AM industrial community and will act as a match-maker between 
+those with needs and those with resources.
+    c.  If units are matched with a request and they provide parts or 
+services they shall provide a report to navy_am_covid19@navy.mil.
+
+4.  To check for components that have already been granted FDA approval or to 
+submit designs for FDA approval, visit the America Makes website https 
+://www.americamakes.us/statement-on-covid-19/.  The site will then direct 
+users to the NIH repository.  Approved Navy parts can also be found at https 
+://www.jtdi.mil/group/AM_AMCOVID19. Access to JTDI is limited to those with 
+an account and Common Access Card (CAC).
+
+5.  At any time the Navy may direct all capability to support emerging 
+FEMA/JATF requirements which are deemed a national priority.  In such cases 
+units should be prepared to pivot from previous tasking.
+
+6.  For Navy organizations OCONUS, medical components, to include PPE, shall 
+be cleared through the relevant host nation authorities for approval prior to 
+distribution. FDA approval does not imply international approval.
+
+7.  Any Navy organization receiving solicitation from private industry shall 
+direct such requests to the following FEMA link.
+https://www.fema.gov/coronavirus/how-to-help
+
+8.  For questions, please contact your SYSCOM POC:
+    a.  NAVSEA     Ben Bouffard, benjamin.bouffard@navy.mil
+    b.  NAVAIR     Liz McMichael, elizabeth.mcmichael@navy.mil;
+                   Alan Pentz, alan.pentz@navy.mil
+    c.  NAVWAR     Jess Fuller, jessica.l.fuller@navy.mil
+    d.  NAVFAC     Todd Jonas, todd.jonas@navy.mil
+    e.  NAVSUP     John Ballou, john.ballou1@navy.mil
+    f.  OPNAV N4   CAPT Xavier Lugo, manuel.x.lugo@navy.mil;
+                   CDR Patrick Veith, patrick.veith@navy.mil
+
+9.  Released by Vice Admiral Ricky L. Williamson, N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

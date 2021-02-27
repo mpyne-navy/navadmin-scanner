@@ -1,0 +1,207 @@
+UNCLASSIFIED
+ROUTINE
+R 031159Z AUG 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 178/15
+
+MSGID/GENADMIN CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/PHYSICAL READINESS PROGRAM POLICY CHANGES//
+
+REF/A/MSG/SECNAV WASHINGTON DC/121505ZJUN15//
+REF/B/DOC/OPNAV/11JUL11//
+REF/C/DOC/DODI/5NOV02//
+NARR/REF A IS ALNAV 050/15, DEPARTMENT OF THE NAVY TALENT MANAGEMENT 
+INITIATIVES.  REF B IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.
+REF C IS DODINST 1308.3, DOD PHYSICAL FITNESS AND BODY FAT PROGRAMS 
+PROCEDURES.
+
+RMKS/1.  This NAVADMIN enumerates changes to the Physical Readiness Program 
+(PRP) as announced in reference (a).  Physical Fitness Assessments (PFAs) 
+should be designed and implemented to assess an individual Sailors health and 
+mission readiness.  The current PFA model enforces maximum body fat 
+percentages and minimum physical readiness scores, but falls short on 
+evaluating a Sailors overall health, and does not adequately reflect the 
+challenges unique to sea duty and the increasingly technical nature of our 
+jobs.  The intent of these changes is to strike a better balance between 
+health and physical readiness.
+
+2.  Amplifying instructions for Cycle 2 2015 (1 July 2015 to 31 December 
+2015):  Cycle 2 2015 will continue to be administered in accordance with 
+reference (b) with the following changes:
+    a.  Physical Activity Risk Factor Questionnaire (PARFQ):  The PARFQ 
+process is unchanged.  All Sailors will complete a PARFQ as outlined in 
+reference (b).
+    b.  Body Composition Assessment (BCA):  Changes to the BCA are as 
+follows:
+        (1) BCA measurements taken in Cycle 2 2015 will be recorded for 
+monitoring purposes only using the current methodology and BCA standards 
+outlined in reference (b).
+        (2) All BCA data will continue to be recorded in the Physical
+Readiness Information Management System (PRIMS), regardless of outcome.
+        (3) BCA measurements exceeding current standards, as outlined in 
+reference (b), during Cycle 2 2015 ONLY will not count as a Physical Fitness 
+Assessment (PFA) failure.  Sailors who exceed current standards shall be 
+enrolled in the Fitness Enhancement Program (FEP) and in nutritional 
+counseling.
+    c.  Physical Readiness Test (PRT):  The PRT will continue to be 
+administered in accordance with reference (b).  PRT failures incurred during 
+Cycle 2 2015 will be documented in PRIMS and count as PFA failures.  PRT 
+changes are as follows:
+        (1) All medically cleared Sailors shall participate in the PRT 
+regardless of BCA outcome.
+        (2) If a Sailor is not medically cleared to participate in the PRT, 
+this shall be annotated on Medical Waiver Form 6110/4.  A Medical Evaluation 
+Board shall be initiated if required in accordance with reference (b).
+    d.  Spot Checks:  Commanding officers will conduct PFA spot checks. BCA 
+and PRT failures incurred during a spot check will not count toward 
+administrative separation, but may result in FEP enrollment to ensure success 
+during the next official PFA.
+    e.  Fitness Enhancement Program (FEP):  The FEP will continue to be 
+administered in accordance with reference (b) or when commanding officers 
+deem it necessary.
+
+3.  Effective 1 January 2016 (Cycle 1 2016), the following changes to 
+reference (b) will go into effect:
+    a.  Physical Activity Risk Factor Questionnaire:  An updated PARFQ form 
+will better assist medical providers in assessing a Sailors overall health.  
+Details will be provided via SEPCOR.
+    b.  Body Composition Assessment (BCA) Methodology:  The new method for 
+measuring BCA will consist of a three-step process.  A Sailor who is 
+medically cleared to participate in the PRT shall do so regardless of his or 
+her BCA results under any of the three steps discussed below.
+        (1) Step 1:  Apply the current height/weight tables per reference (b) 
+to a Sailor.  If the Sailor is within height/weight standards, he or she will 
+pass the BCA, steps 2 and 3 will not apply, and he or she will not be 
+required to enroll in FEP.  If the Sailor does not meet the height/weight 
+standard, proceed to step 2.
+        (2) Step 2:  Apply a single-site abdominal circumference measurement.  
+Scientific evidence indicates that individuals are at increased risk for 
+health problems such as diabetes, heart disease, and cancer if their abdomen 
+exceeds a certain circumference.  Thus, a single-site abdominal circumference 
+measurement will assist in identifying Sailors who are at risk for health 
+problems.  A Sailor will pass the BCA if abdominal circumference is less than 
+or equal to 39.0 inches for males and less than or equal to 35.5 inches for 
+females.  If the Sailor exceeds the abdominal circumference measurement, 
+proceed to step 3.
+        (3) Step 3:  If the Sailor exceeds the height/weight screen of step 1 
+and the abdominal circumference measurement screen of step 2, a body 
+circumference measurement shall be conducted.  Apply the body circumference 
+measurement technique to determine body fat percentage per reference (b).  
+The Sailor will pass the BCA by meeting the Department of Defense (DoD) 
+maximum allowable body fat limit of less than or equal to 26 percent for 
+males or DoD maximum body fat limit of less than or equal to 36 percent for 
+females outlined in reference (c).  The Sailor will fail the BCA only if the 
+Sailor does not meet any of the standards employed in steps 1, 2, or 3 and 
+shall be evaluated by a medical provider, enrolled in FEP, and provided 
+nutritional counseling.  All Sailors who are medically cleared, regardless of 
+BCA results, shall take the PRT.  A BCA failure will constitute an overall 
+PFA failure for the cycle regardless of PRT results.
+    c.  The Body Circumference Technique currently employed under reference 
+(b) will continue to be used to determine body fat percentage.  The new Body 
+Fat Standards will be graduated by age, reflecting a more realistic approach 
+in accordance with DoD guidance, which is consistent with the American 
+Medical Association and American Council on Exercise Standards.  This 
+approach will allow more Sailors to participate in the PRT portion of the 
+PFA. New Navy Body Fat Percentage Standards based on a graduated scale that 
+increases with a Sailors age:
+        (1) Males:  18-21 = 22 percent, 22-29 = 23 percent, 
+30-39 = 24 percent, 40+ = 26 percent.
+        (2) Females:  18-21 = 33 percent, 22-29 = 34 percent, 
+30-39 = 35 percent, 40+ = 36 percent.
+Any Sailor who exceeds the Navy’s updated graduated body fat standards set 
+forth above shall be enrolled in FEP.
+        (3) The Physical Readiness Program Operating Guides will be updated 
+and Command Fitness Leaders will be trained on how to accurately conduct the 
+single site abdominal circumference measurement.
+        (4) In summary, effective 1 January 2016, a Sailor will have three 
+options regarding BCA measurement:  height/weight screening, single-site 
+abdominal circumference measurement, and the body circumference measurement.
+    d.  Physical Readiness Test (PRT):  The PRT will continue to be 
+administered in accordance with reference (b).  All Sailors cleared by their 
+medical providers through the Physical Health Assessment (PHA) and PARFQ 
+processes shall take the PRT, regardless of BCA outcome.
+    e.  Fitness Enhancement Program (FEP):  Sailors shall be enrolled in FEP 
+for any of the following reasons:
+        (1) Exceeding the updated graduated Navy Body Fat Standards; or
+        (2) Failing any portion of the PRT. Sailors enrolled in FEP due to 
+BCA failure shall also be enrolled in nutritional counseling.  All Sailors 
+enrolled in FEP will be required to participate in a mock PFA every 30 days.  
+Failures incurred during a mock PFA will not count as official failures.  A 
+Sailor will be disenrolled from FEP when he or she passes the PRT and is 
+within the new Navy BCA standards.
+    f.  PFA Failure Determination for Administrative Separation Processing:  
+Effective 1 January 2016, all PFA (BCA or PRT) failures in the most recent 3-
+year period will be reset to one failure.  A Sailors most recent failure will 
+carry over to Cycle 1 2016.  Note: A Cycle 2 2015 BCA failure will not count 
+as a carry-over failure, but a PRT failure incurred in Cycle 2 2015 will 
+count as a carry-over failure.
+    g.  Administrative Separation Policy Guidance:
+        (1) Effective 1 January 2016, a Sailor who fails two PFA cycles in 
+the most recent 3-year period shall be processed for administrative 
+separation.  Failing either the BCA or the PRT will constitute a PFA failure 
+for the cycle in which it is incurred.
+        (2) Effective immediately, a Sailor subject to an approved or pending 
+administrative separation due to multiple PFA (BCA or PRT) failures, who has 
+not yet been separated, shall be offered the opportunity to be retained.  A 
+Sailor who desires to separate from the Navy will continue processing for 
+administrative separation.  A Sailor who desires to be retained must notify 
+his or her commanding officer, be medically cleared to participate in the 
+PRT, and pass either a mock or the official PRT before 1 December 2015.  All 
+mock PFA data shall be recorded in PRIMS under the FEP tab in each Sailors 
+profile.  A Sailor who does not meet present Navy BCA requirements as 
+outlined in reference (b)  must be cleared by his or her medical provider to 
+participate in the Cycle 2 2015 PRT.
+            (a) If the Sailor is not medically cleared to participate in the 
+PRT, this shall be annotated on Medical Waiver Form 6110/4. A Medical 
+Evaluation Board shall be initiated if required in accordance with reference 
+(b).  If a Sailor failed the Cycle 1 2015 BCA, the Sailor shall be 
+automatically enrolled in FEP.
+            (b) During FEP, the Sailor shall participate in a mock PFA
+every 30 days.  The deadline to pass either a mock or the official
+PRT is 1 December 2015.
+            (c) If a Sailor does not pass either a mock or the official PRT 
+by 1 December 2015, the failure will be recorded in PRIMS.  If a Sailor who 
+was pending administrative separation as of 1 July 2015 does not pass either 
+a mock or the official PRT by 1 December 2015, he or she will continue to be 
+processed for administrative separation.  A Sailor who fails any portion of 
+the PRT during Cycle 2 2015 will incur a failure for the PFA, and the failure 
+will count toward administrative separation.  The current Navy administrative 
+separation standard of three failures in the most recent four-year period 
+will continue in effect through 31 December 2015.
+            (d) Effective 1 January 2016, all PFA failures in the most
+recent 3-year period will be reset to one failure.
+
+4.  Future Planned Changes:
+    a.  Developing a Navy-wide Registered Dietician (RD) utilization plan;
+    b.  Enhancing SHIPSHAPE and encouraging approved civilian diet programs;
+    c.  Establishing Go for Green healthy-eating ashore and at sea;
+    d.  Providing more support for post-partum Sailors to re-attain or exceed 
+previous fitness goals;
+    e.  Wearable-fitness device studies to monitor physical output and rest;
+    f.  Enhance Physical Readiness Test; and
+    g.  Fitness awards for Sailors who score outstanding.
+
+5.  In the long-term, the Navy strives to move away from PFA testing as a 
+calculation of BCA maximums and PRT minimums, to a more realistic measure of 
+health, fitness, and mission readiness.  To do this, the Navy will 
+incorporate methods of assessing sleep patterns, activity, nutrition, and 
+genetic risk factors.
+
+6.  For questions, please contact the Physical Readiness Program Help Desk at 
+(901) 874-2210/DSN 882 or via e-mail at navyprt(at)navy.mil. Physical 
+Readiness Program polices, operating guides and FAQs can be found on the NPC 
+21st Century Sailor web page http://www.npc.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx.
+
+7.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

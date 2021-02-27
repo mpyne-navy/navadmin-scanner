@@ -1,0 +1,107 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 262025Z FEB 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 045/19
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/FEB//
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 VERSION 1803 TO NMCI UPDATE 1//
+
+REF/A/GENADMIN/181636ZJAN19//
+
+NARR/REF A IS THE INITIAL NAVADMIN ADVISORY FOR DEPLOYMENT//
+POC/WIN10 COORDINATION CENTER/CIV/PMW-205/-/EMAIL:
+WIN10COORDINATIO.FCT(AT)NAVY.MIL/TEL:  (202) 685-0471//
+
+RMKS/1.  This NAVADMIN is the second in a series on the Navy Marine Corps 
+Intranet (NMCI) Secret Internet Protocol Routing Network
+(SIPRNet) and
+Non-Classified Internet Protocol Routing Network (NIPRNet) transition to 
+Windows 10 (WIN10) version 1803 (v1803).  It outlines current status and 
+efforts being taken to resolve remaining challenges.  This evolution was 
+extensively coordinated with U.S.
+Fleet Cyber Command (FCC)/Commander, U.S. TENTH Fleet (C10F), the Program 
+Executive Office for Enterprise Information Systems (PEO EIS), and Echelon II 
+Chief Information Officers (CIOs).  Continued maximum effort is necessary by 
+leadership at all commands to get the Navy to 100 percent WIN10 v1803 for all 
+NMCI seats by 31 March 2019 in order to improve cyber security, promote 
+standardization across the Naval Enterprise Network, and comply with 
+Department of Defense mandates.
+
+2.  As of 24 February 2019, status for NIPRNet is at 31.3 percent and for 
+SIPRNet is at 19.1 percent complete.  Challenges being addressed
+:
+    a.  Green Shutdowns:  A Green Shutdown is a means to ensure that large 
+updates can successfully download during off-hours, minimizing impact to 
+productivity.  Nightly Green Shutdowns are the key to success as they enable 
+gradual receipt of required pre-load packages and proper update installation.  
+Those seats that conducted Green Shutdowns have experienced a WIN10 v1803 
+update success rate of over
+99 percent.  However, many seats still await Green Shutdown.  CIOs and 
+Contract Technical Representatives (CTRs) must be proactive in ensuring their 
+command personnel expeditiously execute Green Shutdowns.  Additionally, in 
+order to assist CIOs and ensure compliance, FCC/C10F directed forced 
+shutdowns commencing 14 February 2019.  All machines not rebooted within a 7-
+day period will automatically restart.  This is critical to seat readiness 
+and there are no waivers to this requirement. Details on how to conduct Green 
+Shutdowns are listed in para 3.
+    b.  Mandatory McAfee Security Modules and Reboots:  These enable update 
+of key security features to protect user workstations and data.  WIN10 v1803 
+update requires multiple dependent McAfee security modules.  Some users may 
+require varying numbers of McAfee -related reboots.  Users receiving prompts 
+to reboot their workstations shall comply per NMCI User Awareness Bulletin.
+
+3.  Individual User Responsibilities
+    a.  End of Day Actions.  All users shall restart their seats nightly 
+selecting Green Shutdown.  Users will need to execute a Green Shutdown by 
+clicking the Windows logo from the desktop bar, selecting Shut down or 
+Restart, and selecting Yes when prompted to perform a Green Shutdown.  Please 
+note that Green Shutdowns are usually quick when done regularly and time-
+consuming when not done as a best practice.  Once each seat receives all 
+required preload packages, the user will receive a notification that the
+WIN10 v1803 update is ready for installation.  Users will then need to 
+execute another Green Shutdown which will manage the reboot cycle necessary 
+to complete the installation overnight.
+    b.  Protection of Personal Data.  Users should back up any personal data 
+on their seats by utilizing their personal H:  drive or contacting their 
+Information Technician support staff for alternate backup methods if data 
+backup exceeds H:  drive capacity.
+    c.  Network Connection.  Users must ensure that individual machines are 
+plugged in and physically connected to the NMCI network when scheduled for 
+migration.  WIN10 v1803 update cannot be completed via NMCI Enterprise WiFi 
+or Remote Access Service connection.
+    d.  XPS Viewer.  Microsoft has retired XPS Viewer and it is not supported 
+in WIN10 v1803.  Users are advised to check if they retain files in XPS 
+format and convert to PDF before migration.
+    e.  Users in Restricted Access/Controlled Access Areas are recommended to 
+preload seats by Digital Video Disk in accordance with instruction provided 
+separate correspondence.
+
+4.  The NMCI Service Desk has established top-level end user support directly 
+for WIN10 v1803 that can be accessed by dialing (866) 843
+-6624 and selecting Option 3 from the option prompt.  Users experiencing 
+failed rollovers due to technical issues will be contacted by the service 
+desk with required actions prior to the next attempted update.
+
+5.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+
+

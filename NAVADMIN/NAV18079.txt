@@ -1,0 +1,77 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 301649Z MAR 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 079/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/ACADEMIC YEAR 2018-2019 SELECTEES FOR THE NAVAL POSTGRADUATE SCHOOL 
+ENLISTED CYBER MASTERS DEGREE PROGRAM//
+
+REF/A/MSG/CNO WASHINGTON DC/041752ZOCT17//
+
+AMPN/REF A IS NAVADMIN 246/17, ENLISTED CYBER MASTERS DEGREE OPPORTUNITY AT 
+NAVAL POSTGRADUATE SCHOOL.//
+
+RMKS/1.  This NAVADMIN announces selectees for the 2018-2019 Naval 
+Postgraduate School (NPS) Master of Science in Applied Cyber Operations 
+(MACO) Program.  Congratulations to the following
+selectees:
+Name (Last, First MI)         Rate              Parent Command
+Arnell, Alexander H           CTN1(IW/SW)       Navy Information
+                                                Operations Command
+                                                Hawaii
+Bofman, Wesley G              CTNC(IW/AW)       Navy Information
+                                                Operations Command
+                                                Texas
+Bullock, Cassondra C          CTN1(IW)          Navy Information
+                                                Operations Command
+                                                Georgia
+Maniego, Fernando L           IT1(IW/SW/AW)     Navy Information
+                                                Operations Command
+                                                Yokosuka
+Verkempinck, Jean-Mark S      IT1(IW/SW/AW)     Naval Computer and
+                                                Telecommunications
+                                                Station San Diego
+
+2.  Program dates:  There will be two start dates for this academic year.  
+CTNC Bofman and IT1 Maniego will report 17 September 2018 with instruction 
+commencing 24 September 2018.  CTN1 Arnell, CTN1 Bullock, and IT1 Verkempinck 
+will report 25 March 2019 with instruction commencing 1 April 2019.
+
+3.  General information about NPS can be found online at www.nps.edu.
+
+4.  Graduates of the MACO program will earn the H07A Navy Enlisted 
+Classification (previously 2770-Applied Cyber Operations Master) and should 
+expect to serve in a utilization tour immediately following graduation.  
+Further utilization for program graduates will be appropriately balanced with 
+other priorities such as career progression, sea/shore tour rotation, etc.
+
+5.  Point of contact is Mr. Curtis Bogetto who can be reached at
+(703) 604-6289/DSN 664 or via email at curtis.bogetto(at)navy.mil.
+
+6.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,128 @@
+UNCLASSIFIED//
+ROUTINE
+R 211340Z JAN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 015/16 (Corrected Copy)
+
+SUBJ/INSIDER THREAT TO CYBER SECURITY RANDOM COUNTERINTELLIGENCE POLYGRAPH 
+PROGRAM//
+
+REF/A/DOC/TITLE 10, SEC 1564A//
+REF/B/DOC/DODD 5210.48/APR15//
+REF/C/DOC/DODI 5210.91/OCT13//
+REF/D/DOC/SECNAV M-5239.1/NOV05//
+REF/E/DOC/NATIONAL INSIDER THREAT POLICY/NOV12//
+REF/F/MSG/CNO WASHINGTON DC/132027ZDEC13//
+NARR/Reference (a) is U.S. code, armed forces, general military law, and 
+counterintelligence polygraph program.  Reference (b) is the Department of 
+Defense directive on the Department of Defense polygraph program.  Reference 
+(c) is the Department of Defense instruction on polygraph and credibility 
+assessment procedures.  Reference (d) is the Secretary of the Navy, 
+Department of the Navy information assurance program manual.  Reference (e) 
+is the national insider threat policy.  Reference (f) is NAVADMIN 319/13 
+regarding insider threat to cyber security.//
+
+RMKS/1.  This NAVADMIN announces the Navy-specific Random Counterintelligence 
+Polygraph Program for privileged users and higher-risk personnel.  This 
+program is designed to mitigate and deter the potential insider threat to 
+classified information, systems, and networks.  The Navy’s legal authority 
+for this action is listed in references (a), (b) and (c).
+
+2.  Definitions.  Reference (d) defines privileged users as individuals who 
+have access to system control, monitoring, or administration functions (e.g., 
+system administrator, information assurance officer, system programmers, 
+etc.).  Reference (e) defines insider threat as a person who will use her/his 
+authorized access, wittingly or unwittingly, to do harm to the security of 
+the United States (U.S.).  This threat can include damage to the U.S. through 
+espionage, terrorism, unauthorized disclosure of national security 
+information, or through the loss or degradation of departmental resources or 
+capabilities.
+
+3.  Applicability.  In accordance with references (a) and (c), the following 
+privileged users are subject to the Navys Random Counterintelligence 
+Polygraph Program:
+    a.  Those whose duties involve access to Top Secret information.
+    b.  Those whose duties involve a Special Access Program under Executive 
+Order 12958, as amended.
+    c.  Those whose duties involve the creation, use, or handling of 
+classified information related to sensitive intelligence or operational 
+activities.
+
+4.  Guidance.  Recent high-profile unauthorized disclosures of classified 
+information involving U.S. service members, civilians, and contractors 
+highlights the need to implement this Random Counterintelligence Polygraph 
+Program.  The Random Counterintelligence Polygraph Program for privileged 
+users is an additional tool to mitigate and deter the insider threat posed by 
+higher-risk individuals who have elevated access and privileges to classified 
+information, networks, and systems.  Insider threats directly imperil our 
+warfighting effectiveness and degrade our readiness.  This is an all-hands 
+effort.  Commanders are to ensure compliance with the Navy’s Random 
+Counterintelligence Polygraph Program for privileged users.  The Deputy Chief 
+of Naval Operations for Information Dominance (OPNAV N2/N6) will publish 
+additional guidance regarding the implementation and execution of this 
+program.
+    a.  The Deputy Chief of Naval Operations for Information Dominance (OPNAV 
+N2/N6) will manage, oversee and coordinate the activities of the Random 
+Counterintelligence Polygraph Program to include selection, notification, 
+scheduling, and reporting of results to the appropriate authority.
+    b.  OPNAV N2/N6 will select privileged users from the Total Workforce 
+Management System (TWMS) Information Assurance Workforce Module.  TWMS is the 
+system of record for documenting privileged users.  OPNAV N2/N6 will select 
+higher-risk individuals in coordination and collaboration with Navy commands 
+based on a risk management approach.
+    c.  Privileged users and higher-risk individuals will be entered into a 
+software program that will generate a monthly list of randomly selected 
+individuals for counterintelligence polygraph examinations.
+    d.  OPNAV N2/N6 will provide the randomly generated list of individuals 
+to the Naval Criminal Investigative Service (NCIS) Office of Polygraph 
+Services.
+    e.  NCIS will contact each privileged users or higher-risk individuals 
+Special Security Officer (SSO) or Command Security Manager (CSM) to inform 
+them of the polygraph requirement and coordinate scheduling.  NCIS will 
+conduct counterintelligence polygraph examinations in accordance with 
+reference (c).
+    f.  Upon completion of counterintelligence polygraph examinations, NCIS 
+will note the results in appropriate security and investigative databases.
+    g.  Polygraph examination results indicative of counterintelligence 
+threats or criminal conduct will be resolved in accordance with NCIS 
+counterintelligence and law enforcement policy and procedures.
+    h.  OPNAV N2/N6 will notify commands of all counterintelligence polygraph 
+examination results indicative of behavior that causes doubt regarding a 
+privileged users loyalty, judgment, honesty or reliability as it relates to 
+maintaining eligibility to access classified systems or data.
+
+5.  Reference (f) outlined several actions designed to reduce threats to 
+classified or sensitive information from insiders.  Effectively implementing 
+the Random Counterintelligence Polygraph Program will reduce the risk from 
+insider threats.
+
+6.  The Director, Navy Staff serves as the overall OPNAV lead for Navy 
+Insider Threat.  OPNAV N2/N6 continues to lead a focused effort to ensure the 
+security of our classified and sensitive information, networks, and systems.  
+The Insider Threat to Cyber Security (ITCS/OPNAV N2/N6IP2) office is charged 
+with coordinating the Navy’s Random Counterintelligence Polygraph Program for 
+privileged users.  ITCS will work closely with the Judge Advocate General of 
+the Navy to ensure the program complies with applicable statutes, 
+regulations, and directives.  The Naval Criminal Investigative Service will 
+conduct the Random Counterintelligence Polygraph Examinations in accordance 
+with reference (b).
+
+7.  For more information on the Navy’s Random Counterintelligence Polygraph 
+Program for privileged users, please contact Mrs. Jennifer Floyd, OPNAV 
+N2/N6, (703) 604-5799; or Mr. Robert Winston, OPNAV N2/N6, (703) 604-5735.
+DSN:  664.
+
+8.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+9.  Released by Vice Admiral Ted N. Branch, Deputy Chief of Naval Operations 
+for Information Dominance, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

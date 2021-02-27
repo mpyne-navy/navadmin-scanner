@@ -1,0 +1,71 @@
+UNCLASSIFIED//
+ROUTINE
+R 062204Z DEC 19 MID510000783122U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 279/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/PUBLICATION OF BUPERSINST 1610.10E (EVALMAN)//
+
+REF/A/DOC/NAVPERSCOM/01OCT18//
+REF/B/DOC/DOD/10JUL17//
+NARR/REF A IS MILPERSMAN 1610-015, DOCUMENTATION ON FITNESS REPORTS AND 
+PERFORMANCE EVALUATIONS FOR FAILURE TO MAINTAIN DEPLOYABILITY OR INDIVIDUAL 
+MEDICAL READINESS.  
+REF B IS SENATE REPORT 115-125 ACCOMPANYING S. 1519 OF THE FY-18 NATIONAL 
+DEFENSE AUTHORIZATION ACT.//
+
+RMKS/1.  This NAVADMIN announces the publication of BUPERSINST 1610.10E, Navy 
+Performance Evaluation System (EVALMAN).
+
+2.  Summary of Changes:  This revision incorporates policy guidance contained 
+in NAVADMINs 141/17, 304/17, and 193/19.  In addition, the following new 
+guidance applies with the updated instruction:
+    a.  Incorporating reference (a) guidance when a member willfully does not 
+meet deployability standards and authorizing the submission of a Special 
+Report when a member willfully does not meet deployability standards.
+    b.  Requiring reports for Navy reservists who perform active-duty periods 
+that are greater than 90 days and prohibiting reports for Navy reservists who 
+perform active-duty periods that are less than 90 days.
+    c.  Assigning September 30 as the periodic report date for Chief Warrant 
+Officer-1.
+    d.  Prohibiting delegation of reports on members in the grades of E5 
+through E9, including members frocked to E5, below the grade of lieutenant 
+designated department heads.
+    e.  Prohibiting reporting seniors, raters and senior raters from 
+evaluating members who have filed an accusation of sexual misconduct against 
+the reporting senior, rater or senior rater while an investigation is pending 
+to reflect the requirements of reference (b).
+    f.  Incorporating changes to flag officer reporting requirements, 
+including changes to blocks 14-15 (Period of Report Table 19-1), requiring 
+submission 15 days sooner and changing the verbiage for blocks 10-13 
+(Occasion of Report) to read, Special Reports will be selected for Concurrent 
+or Operational Commander report.
+    g.  Adding billet specific language to the instruction requiring 
+reporting seniors evaluating Navy Installation Commanding Officers
+(CO) to document in block 41 (comments on performance) their performance in 
+managing family and unaccompanied housing programs.
+Additionally, reporting seniors evaluating Naval Facilities Engineering 
+Command COs are required to document in block 41 (comments on performance) 
+their performance in facility management of family and unaccompanied housing 
+and enforcement of Public Private Venture business agreements.
+
+3.  For questions concerning these policy changes contact the MyNavy Career 
+Center at (833) 833-6622 or via email at askmncc(at)navy.mil.
+
+4.  Released by VADM John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,156 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 011955Z AUG 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 176/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/2019 MERITORIOUS ADVANCEMENT PROGRAM SEASON TWO AND AUTOMATION UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/081549ZFEB19//
+
+REF/B/MSG/CNO WASHINGTON DC/201604ZDEC18//
+
+NARR/REF A IS NAVADMIN 031/19, 2019 MERITORIOUS ADVANCEMENT PROGRAM.
+REF B IS NAVADMIN 313/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+BUSINESS RULES.//
+
+RMKS/1.  This NAVADMIN provides guidance for the 2019 Meritorious Advancement 
+Program (MAP) Season Two from 1 September through
+31 October 2019 for Active-Duty, Full-Time Support and Canvasser Recruiter 
+Service Members and contains the new automation process for MAP nominations 
+within the web version of Navy Standard Integrated Personnel System (NSIPS).
+
+2.  2019 MAP Season Two Guidance.  Continuing from 2019 MAP Season One, the 
+following initiatives remain in effect:  10 percent of the total fiscal year 
+2019 advancement quotas have been allocated to
+2019 MAP Season Two, alignment with the Navy-wide advancement exam cycle, 
+elimination of the redistribution season, approval to use E-4 quotas to 
+advance any E-1 through E-3 Service Members to the next higher pay grade on a 
+one-for-one basis and meritoriously advancing Service Members who are in a 
+frocked status.  The controlled rating process will be eliminated for 2019 
+MAP Season Two due to minimal impacts to community health.  For additional 
+guidance regarding MAP eligibility, quota substitutions, professional 
+apprenticeship career track Service Members and Recruiter of the Quarter 
+Program please visit MyNavy Portal (MNP) at
+https://www.mnp.navy.mil/group/advancement-and-promotion/a-enlisted-
+advancement-resources-and-links then select the *Websites* tab in the blue 
+banner, select *MAP* and then select the *2019 MAP Season Two Info Sheet* 
+tab.
+
+3.  MAP Automation Process.  In support of Sailor 2025, MAP is transitioning 
+from a manual submission process to an automated process within NSIPS.  This 
+iteration covers the Active Component and a future system update will cover 
+the Reserve Component.
+
+4.  NSIPS Web Afloat Users.  Commands without access to NSIPS must submit 
+their MAP nomination request via e-mail directly to their immediate superior 
+in command (ISIC), type commander (TYCOM) or budget submitting office 
+(BSO)/echelon II command using the Meritorious Certification Letter (MCL).  
+The letter must be signed by the commanding officer and should address any 
+exceptions to policy (ETP) and/or additional quotas requested.  Sample MCLs 
+and detailed information regarding the NSIPS web afloat user process can be 
+found via MNP at the *MAP* tab and then select the *Meritorious Certification 
+Letter (MCL) Template* and *Offline Process*.
+
+5.  MAP Automation Changes.  MAP enhancements will have a significant impact 
+to the advancement process and polices as outlined in reference (a).  The 
+following changes will be implemented on 1 September 2019:
+    a.  Quota usage, modifications and distribution will be managed within 
+the NSIPS environment.  BSO and command quotas have been uploaded into NSIPS 
+and can be found under the quota summary report tab.  Quotas can also be 
+found via MNP at the *MAP* tab and then select the *MAP Quotas*.
+    b.  The current paper MCL process will be replaced by an eligibility and 
+nomination list in NSIPS.  Commands are now required to submit their MAP 
+advancement through NSIPS and are no longer permitted to submit paper MCLs to 
+the Navy Personnel Command, Enlisted Advancement Branch.  Commands without 
+access to NSIPS should submit their MCLs via e-mail to their ISIC as detailed 
+in paragraph 4.  The system will use authoritative data to determine 
+eligibility.  However, commands are still required to locally validate that 
+MAP candidates have completed the professional military knowledge eligibility 
+examination requirement by 1 September 2019 as outlined in reference (b).
+    c.  Additional quotas can be requested using the quota request option.  
+Commands must contact their BSO to determine timeline for additional quota 
+requests.  All commands are authorized to request quotas from their 
+BSO/echelon II command, via their ISIC and TYCOM, whether or not command 
+quotas are authorized.
+    d.  The system will automatically determine if an ETP is required, using 
+predetermined criteria.  Service Members in ratings requiring security 
+clearances and rates/pay grades requiring time in rate (TIR) waivers will be 
+automatically routed for adjudication.
+The request will be routed through the ISIC, TYCOM and BSO/echelon II command 
+using a hierarchical workflow.  However, nuclear-trained Service Members must 
+have an E-5 TIR date of 1 July 2017 or earlier to be eligible for advancement 
+to E-6 during 2019 MAP Season Two.
+NSIPS will not automatically generate an ETP for nuclear-trained Service 
+Members who do not have sufficient TIR.  If a command desires to advance a 
+nuclear-trained Service Members not meeting the TIR requirement, the ETP must 
+be routed to Director, Military Personnel Plans and Policy via Nuclear 
+Program Manager.
+    e.  The MAP hierarchy structure in NSIPS provides the routing workflow 
+between senior and subordinate commands within each respective chain of 
+command and also establishes security requirements when determining system 
+access.  Commands are highly encouraged to validate the accuracy of their 
+command hierarchy using the unit identification code (UIC) hierarchy tab 
+within NSIPS and submit all inquiries and change requests via e-mail to 
+altn_map(at)navy.mil.
+    f.   NSIPS web afloat users are required to follow the
+procedures outlined in paragraph 5c to request additional quotas and 
+paragraph 5d for ETP guidance.
+
+6.  Account Access and Roles.  Commands with access to NSIPS are directed to 
+set up their MAP user roles in preparation for 2019 MAP Season Two, which 
+will commence 1 September 2019.  Commands with allocated MAP quotas are 
+required to have the command reviewer and command reporting senior user roles 
+established by 31 August 2019.
+ISICs, TYCOMs and BSO/echelon II commands must also designate a command 
+reviewer and command reporting senior to support subordinate command MAP 
+advancement requests as delineated in the MAP hierarchy structure in NSIPS.  
+For account access, initiate the System Authorization Access Request Navy 
+(SAAR-N) form from the NSIPS menu, *New Users* link.  The title, command 
+reporting senior is not meant to be the commanding officer.  Rather, the role 
+must be filled by an
+E-7 or above (or the civilian equivalent), who completes a SAAR-N form and 
+Appointment/Termination Record-Authorized Signature (DD Form 577).  The 
+remaining user roles only require the completion of the SAAR-N form.  
+Additional information regarding user roles and access requirements can be 
+found via MNP at the *MAP NSIPS User
+Guide* tab.
+
+7.  Tutorials.  Training modules for MAP are posted on the NSIPS main page 
+beneath the training section.  These tutorials include topics associated with 
+user roles and detailed procedures to perform various MAP tasks.
+
+8.  MAP Website.  Example forms, frequently asked questions and points of 
+contact for each BSO/echelon II command and list of parent and subordinate 
+UICs can be downloaded via MNP at the *MAP* tab.
+
+9.  The point of contact is MyNavy Career Center (MNCC) at
+(833) 330-6622 or via e-mail at askmncc(at)navy.mil.
+
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first.
+
+11.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

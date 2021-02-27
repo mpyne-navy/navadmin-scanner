@@ -1,0 +1,119 @@
+UNCLASSIFIED
+ROUTINE
+R 141556Z JUL 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 160/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/ACTIVE AND RESERVE COMPONENT LIMITED DUTY OFFICER OFF-RAMP INITIATIVE 
+GUIDANCE//
+
+REF/A/DOC/CHNAVPERS/6FEB14/NOTAL//
+REF/B/DOC/OPNAV/24DEC05//
+REF/C/DOC/BUPERS/17SEP07//
+NARR/REF A IS CHIEF OF NAVAL PERSONNEL DECISION MEMORANDUM ON LIMITED DUTY 
+OFFICER AND CHIEF WARRANT OFFICER SUSTAINABILITY INITIATIVE.  
+REF B IS OPNAV INSTRUCTION 1210.5, LATERAL TRANSFER/REDESIGNATION AND 
+AUGMENTATION OF OFFICERS IN THE NAVY.
+REF C IS BUPERSINST 1001.39F, ADMINISTRATIVE PROCEDURES FOR NAVY 
+RESERVISTS.//
+
+RMKS/1.  This NAVADMIN announces the ongoing limited duty officer (LDO) and 
+chief warrant officer (CWO) sustainability initiative (OSI) which commenced 
+in July 2010.  The Chief of Naval Personnel has established off-ramp 
+opportunities for specific LDO communities identified in reference (a).  OSI 
+off-ramps encourage LDOs in the Information Warfare Community (IWC) and 
+Supply Corps to lateral transfer/re-designate into their restricted line (RL) 
+and staff corps counterpart designators, establishing clear career 
+progression and promotion opportunity congruent with the needs of the Navy.
+
+2.  Beginning in FY-17, there will be zero funded control grade (O4-O6) 
+billets for LDOs in the IWC and Supply Corps.  The desired end state is to 
+create stable RL and staff corps communities with the accession of LDOs that 
+transition to their RL and staff counterpart designators through off-ramps 
+per paragraph 3 of this NAVADMIN.  To provide maximum promotion opportunities 
+for IWC and Supply LDOs, the following active and reserve component LDO 
+designators are identified for off-ramp to corresponding RL/staff 
+designators:
+
+    FROM LDO DESIGNATOR (DES)                      TO RL/STAFF DES
+    6510  Supply LDO                              3100 - Supply
+    6800  Oceanography (OCEANO) LDO               1800  OCEANO
+    6810  Information Warfare (IW) LDO            1810  IW
+    6820/6825  Information Professional (IP) LDO  1820/1825  IP
+    6830/6835  Intelligence (INTEL) LDO           1830/1835  INTEL
+
+3.  Off-ramps will be executed in one of two ways:
+    a.  Active component IWC and Supply lieutenant LDOs may voluntarily apply 
+for redesignation via the semi-annual lateral transfer and redesignation 
+board.  LDOs with four to eight years of commissioned service (YCS) are best 
+suited due to career timing considerations.  All applicants must be within 
+six months of completing a baccalaureate degree and meet all other 
+eligibility requirements outlined in reference (b).
+    b.  Active Component IWC and Supply lieutenant commanders, commanders, 
+and captain LDOs may voluntarily apply for redesignation without board action 
+(WOBA) to their counterpart RL/staff designator, per reference (a).  LDOs in 
+this category are encouraged to take advantage of WOBA eligibility to 
+maximize future promotion opportunity.  Applicants for WOBA must meet 
+eligibility requirements for lateral transfer outlined in reference (b), as 
+well as any community specific requirements outlined in statutory promotion 
+briefs, convening orders, and program authorizations.  LDOs interested in 
+WOBA should contact their respective officer community manager (listed in 
+paragraph 6) for further information.
+
+4.  For the most up-to-date lateral transfer application process, visit the 
+Enlisted Boards Branch (PERS-803) website at
+http://www.public.navy.mil/bupers-
+npc/boards/administrative/transferredesignation/pages/default.aspx.
+
+5.  Reserve component IWC LDOs are encouraged to voluntarily apply for 
+redesignation via the established change of designator process outlined in 
+reference (c).  LDOs with four to eight YCS are best suited due to career 
+timing considerations.  IWC reserve redesignation is continuous throughout 
+the year and does not culminate in a specific board.  Reserve applicants must 
+possess a baccalaureate degree, meet eligibility requirements in reference 
+(c), as well as any community specific requirements outlined in statutory 
+promotion briefs, convening orders, and program authorizations.
+
+6.  Points of contact
+    a.  LDO career path and policy:  CAPT Bill Johnson, at (901)874-3042/DSN 
+882 or via e-mail at william.r.johnson11(at)navy.mil.
+    b.  IWC community managers are:
+        1) OCEANO  CDR Christi Montgomery, at (901)874-2461/DSN 882
+           or via e-mail at christi.montgomery(at)navy.mil.
+        2) IW  LCDR Seth Lawrence, at (901)874-3123/DSN 882 or via
+           e-mail at lemuel.lawrence(at)navy.mil.
+        3) IP  CDR Tracy Hines, at (901)874-2846/DSN 882 or via
+           e-mail at tracy.hines(at)navy.mil.
+        4) INTEL  CDR James Scarcelli, at (901)874-3426/DSN 882, or
+           via e-mail at james.scarcelli(at)navy.mil.
+        5) IWC Reserve  Patricia Pifer, at (901)874-2976/DSN 882 or
+           via e-mail at patricia.pifer(at)navy.mil.
+    c.  Supply Corps community managers are:
+        1) CDR Cielo Almanza, at (901)874-3189/DSN 882 or via e-mail
+           at cielo.almanza(at)navy.mil.
+        2) Beth Schudel, at (901)874-3133/DSN 882 or via e-mail at
+           beth.schudel(at)navy.mil.
+    d.  For lateral transfer application and eligibility questions contact:
+        1) CWO4 Mitch Allen, at (901)874-3170/DSN 882 or via e-mail
+           at mitchell.d.allen(at)navy.mil.
+        2) Linda Coffield, at (901)874-3171/DSN 882 or via e-mail at
+           linda.coffield(at)navy.mil.
+
+7.  File this NAVADMIN per reference (b).
+
+8.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

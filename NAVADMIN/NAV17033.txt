@@ -1,0 +1,129 @@
+UNCLASSIFIED
+ROUTINE
+R 141800Z FEB 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 033/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-18 COMMAND MASTER CHIEF SELECTION BOARD RESULTS//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for assignment as Command Master Chief from the Command 
+Master Chief selection board, which convened 30 January 2017:
+
+NAME (LAST FIRST MI)       RATE    PARENT COMMAND
+Baker, Eric M              ETCM    SSN 722 KEY WEST
+Bell, Jaye J               GMCM    DDG 110 LAWRENCE
+Bethel, Lamar              HMCM    NBHCL ASU BR
+Blalock, William B         EMCM    DDG 53 J P JONES
+Boucher, Teri A            ADCM    HSC 15
+Boyles, Daniel L           SBCM    NAVSPECWAR
+Bradsher, Steven A         HMCM    SSBN 737 KENTUCKY GOLD
+Campbell, David T          ITCM    NAVNETWARCOM
+Carr, Larry D Jr           ICCM    CSCS DAHLGREN VA
+Clark, William L           MACM    CNR SOUTHEAST
+Crumpton, Keith L          AFCM    CVN 74 J STENNIS
+Daniel, Helen E            EQCM    NCTC GULFPORT MS
+Davis, Mike B              SBCM    NAVSPECWAR
+Diego, Francisco J         LSCM    NAVSUP FLC SD ND
+Douglas, Jeremy E          MMNCM   CVN 78 FORD PCU
+Egan, Thomas J             SOCM    NAVSPECWAR
+Elliott, Tyrone R          STSCM   COMSUBRON 21
+Forbes, Ronald S Jr        SOCM    NAVSPECWAR
+Foreman, Matthew D         SOCM    NAVSPECWAR
+Grant, James W III         EMNCM   COMPACFLT
+Gray, Donavon M            ABCM    CVN 72 LINCOLN
+Gruber, Justin D           MMACM   SSN 711 SAN FRANCISCO
+Gutierrez, Carlos R        LSCM    CG 53 MOBILE BAY
+Hafer, Jeanette M          ITCM    COMNAVPERSCOM MILL
+Hairston, Demetric M       MMCM    RTC GREAT LAKES
+Hansen, David A            SOCM    NAVSPECWAR
+Hendricks, Steven J        MMACM   SSGN 729 GEORGIA BLUE
+Herring, Lafrederick O     ETRCM   SSN 789 INDIANA
+Holler, Jeremiah J         FCCM    SMWDC DET LCRK
+Huntimer, James M          SOCM    NAVSPECWAR
+Hysell, Charles W III      FCCM    ATG NORFOLK
+Ibanez, Philip R           EODCM   EODMU 2
+Jackson, Shalonda K        AFCM    FRC SE
+Jurgens, Brian T           EODCM   EODMU 12
+Kinnaman, Eric M           AVCM    CVN 75 H TRUMAN
+Knight, Katherine A        MACM    FFC AT FP
+Knudsen, Michael K         EODCM   EODMU 5
+Lashley, Matthew R         QMCM    AFLTRAGRUMP P H
+Lee, Aaron                 MMACM   SSGN 726 OHIO GOLD
+Linzy, Jay T               SOCM    NAVSPECWAR
+Martinez, Frederick J      UCCM    CENSEABEESFACENG
+Meadvin, David B           ETVCM   SLC GROTON CT
+Meek, Richard E            CTRCM   CCSG 15
+Morris, Brian T            CTRCM   ATG SAN DIEGO
+Moses, Richard J           MMACM   SLC DET SDIEGO
+Mulhern, Brian M           SOCM    NAVSPECWAR
+Ortega, Jason R            ENCM    COMNAVSURFPAC
+Perryman, Kevin W          LSCM    CNAP SEA COMP
+Pojar, David J             MMACM   SSN 715 BUFFALO
+Propst, Joel M             FTCM    SSBN 740 RHODE ISLAND
+Quick, Michael E           MMWCM   NOPF WHIDBEY IS
+Rains, Arcolia S           MACM    CVN 71 T ROOSEVELT
+Rape, Hugh J               OSCM    COMNAVPERSCOM MILL
+Rauch, Steven              MMACM   SSBN 731 ALABAMA
+Roberts, Lloyd B           NCCM    NRD ST LOUIS
+Robinson, Ventura C        NCCM    LHD 7 IWO JIMA
+Roth, Kurt M               BMCM    LPD 24 ARLINGTON
+Schecter, Matthew J        ETVCM   SSN 754 TOPEKA
+Smith, William J           MACM    NAS PNSCOLA SECD
+Stansberry, Alfred C III   EODCM   EODMU 2
+Steimer, Marcus A          ETRCM   SUBTRAFAC NORVA
+Sterrett, Joseph C         SOCM    NAVSPECWAR
+Thomason, Christopher M    SOCM    NAVSPECWAR
+Valentine, Scott M         NDCM    1ST MAR RDR BN
+Vonderau, Anthony M        EODCM   EOD TRA EVAL U 2
+Walters, Paul M            STSCM   SSN 22 CONNECTICUT
+Washington, Benjamin       OSCM    CG 52 BUNKER HILL
+Westmoreland, Jarmine H    MMCM    ATG NORFOLK
+Wickelhaus, Robert W       SBCM    NAVSPECWAR
+Wicker, Jeffrey S          AVCM    SBT TWELVE
+Williams, Joshua D         MMACM   SSN 768 HARTFORD
+Willingham, Pamela Y       AVCM    VP 30
+Wood, Anna N               HMCM    1DENBN 1MLG
+Zentz, Stephen D           NDCM    COMNAVPERSCOM MILL
+
+2.  Congratulations to the following Full Time Support (FTS)/Selected Reserve 
+(SELRES) members who have been selected for assignment as Command Master 
+Chief:
+
+NAME (LAST FIRST MI)       RATE    PARENT COMMAND
+Barbier, Kristie A         CTTCM   NIFR REGION MW
+Buyok, Jeremy T            AMCM    COMTACSUPWING
+Carter, Frederick C JR     AFCM    CNATTU WI WA
+Martini, Jeffrey M         SOCM    NAVSPECWAR
+Powell, Walter L           ENCM    NR NAVBEACHGRU TWO
+Richards, Robert W         EQCM    NAVCARGOBN EIGHT
+Saville, Lori M            EQCM    SEVENTH NCR
+Witters, Jeremiah J        BMCM    CORIVRON 11
+
+3.  Active Component point of contact is CMDCM(SW/EXW/AW) James Osborne, 
+NAVPERSCOM PERS-40FF at 901-874-4560; DSN 882-4560; e-mail at 
+james.w.osborne1(at)navy.mil.  SELRES POC is YNCS(AW) Christopher Reid, 
+COMNAVRESFOR at 757-322-2258; e-mail at Christopher.t.Reid(at)navy.mil.  FTS 
+POC is YNCM(SW) Jeffrey Sliker,
+NAVPERSCOM PERS-4012C at 901-874-3257; DSN 882-3257, e-mail at 
+Jeffrey.Sliker(at)navy.mil.
+
+4.  Selectees should contact their respective POC soonest to discuss 
+detailing opportunities.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

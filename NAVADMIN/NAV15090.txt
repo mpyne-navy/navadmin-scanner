@@ -1,0 +1,96 @@
+UNCLASSIFIED/
+ROUTINE
+R 211259Z APR 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 090/15
+
+SUBJ/PERSONNEL CASUALTY REPORTING//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+REF/A/DOC/DOD/8JAN08//
+REF/B/DOC/COMNAVPERSCOM/4OCT12//
+NARR/REFERENCE A IS DEPARTMENT OF DEFENSE INSTRUCTION 1300.18, DEPARTMENT OF 
+DEFENSE (DOD) PERSONNEL CASUALTY MATTERS, POLICIES, AND PROCEDURES. REFERENCE 
+B IS MILPERSMAN ARTICLE 1770-030, PERSONNEL CASUALTY REPORT PROCEDURES.//
+
+RMKS/1.  Effective immediately, Personnel Casualty Reports (PCR) shall be 
+submitted to the Navy Service Casualty Office (PERS-13), using the internet-
+based, common access card-enabled Defense Casualty Information Processing 
+System (DCIPS).  Use of this system complies with current personally 
+identifiable information protection directives, reduces associated 
+administrative duties and allows commands safe, fingertip access to a pre-
+formatted report containing all the PCR required elements to expedite 
+casualty handling.
+
+2.  Process.  Commands shall log into DCIPS at any of the following URLs: 
+https://dcsa.hrc.army.mil/pcr, https://dcsb.hrc.army.mil/pcr,
+https://dcsc.hrc.army.mil/pcr, or https://dcsd.hrc.army.mil/pcr, and enter 
+required data via the form-based menus within the DCIPS portal.  A step by 
+step guide is available on the Navy Personnel Command (NPC) website, Navy 
+Casualty at http://www.public.navy.mil/bupers-
+npc/support/casualty/Pages/default2.aspx.  In addition to completing the PCR, 
+commands should also attach the most current page 2 and Servicemembers Group 
+Life Insurance designations to the PCR.  The DCIPS portal has a user-friendly 
+file attachment function to accomplish this and these two documents are 
+essential for timely next of kin notification, claims processing and other 
+associated functions.
+    a.  Bandwidth limitations.  Should a reportable casualty occur during a 
+time of limited or no bandwidth availability, the command should submit a 
+voice report of the casualty concurrent with the required operations report 
+to their ISIC or operational commander. Commanders should subsequently enter 
+the report into DCIPS via the process previously described.
+    b.  Encrypted email.  As an emergency capability only, commands may send 
+an encrypted e-mail with pertinent reporting information to the 
+mill_navcas_duty@navy.mil inbox.  Report should include reporting command 
+information, and required fields identified in the DCIPS reporting guide 
+(page 5).  Additionally, commands may attach necessary documents to the e-
+mail.  As this is a backup capability, using this method may result in a 
+delayed response.
+
+3.  Receiving reports.  Commands and watch stations requiring unfettered 
+access to casualty reports should submit a *by name* fully completed System 
+Authorization Access Request (SAAR-N) (OPNAV 5239/14) to 
+mill_navydcips@navy.mil for consideration. Direct recipients of current 
+reports will not be automatically included in the DCIPS distribution and must 
+submit SAARs for continued access.
+
+4.  Reportable Casualties.  Commands should strive to submit PCRs within four 
+hours, but not more than 12 hours per reference (a), for the following;
+    a.  Confirmation of a Sailor death (both active and reserve);
+    b.  Very serious illness or injury (VSI) or serious illness or injury 
+(SI).  Per reference (b), article 1770-230, the report should contain a 
+statement regarding *bedside travel medically warranted/not warranted*, as 
+determined by a military medical officer at a military treatment facility 
+(MTF).  Receipt of the initial PCR will trigger the applicable MTF to take 
+required action in the event of hospitalization in a non-military medical 
+facility.  Terminally ill Sailors shall be documented as VSI, with 
+appropriate comments in the remarks section.
+    c.  Long term illness.  Commands are encouraged to generate a PCR in 
+cases of long term illness.  Assistance organizations such as Navy Safe 
+Harbor, who monitor PCR message traffic, may be alerted to situations where 
+they may potentially assist Sailors.
+    d.  Duty-status whereabouts unknown (DUSTWUN).  See reference (b), 
+article 1770-020 for proper use of this category.
+    e.  Active-duty dependent deaths should also be reported.
+
+5.  Points of contact:
+    a.  Emergent reporting assistance numbers are listed on the previously 
+mentioned NPC Navy Casualty website.
+    b.  General questions may be directed to Mr. Al Gorski at (901)
+874-4559/DSN 882, or via e-mail alan.gorski(at)navy.mil, or through the NPC 
+Customer Service Center at 1-866-U-ASK-NPC (866-827-5672).
+
+6.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

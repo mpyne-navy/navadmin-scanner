@@ -1,0 +1,114 @@
+UNCLASSIFIED//
+ROUTINE
+R 111158Z SEP 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 211/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS - PHASE THREE//
+
+REF/A/MSG/CNO WASHINGTON DC/171240ZJUL19//
+REF/B/MSG/CNO WASHINGTON DC/061834ZAUG19//
+REF/C/MSG/CNO WASHINGTON DC/061749ZAUG19//
+NARR/REF A IS NAVADMIN 161/19 PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS.  
+REF B IS NAVADMIN 183/19 PERMANENT CHANGE OF STATION IMPORVEMENTS PHASE TWO.  
+REF C IS NAVADMIN 184/19 - GOVERNMENT TRAVEL CHARGE CARD USE DURING PERMANENT 
+CHANGE OF STATION TRAVEL.//
+
+RMKS/1.  This NAVADMIN announces Phase Three of permanent change of station 
+(PCS) move improvements offered through MyPCS Mobile.
+Reference (a) announced plans to improve the PCS experience for Sailors and 
+their families.  Included in the initial Phase was the launch of MyPCS 
+Mobile, which provides Sailors a personalized PCS checklist on a mobile-
+enabled website accessible on personal government mobile devices, tablets, 
+laptops and desktops.
+Reference (b) announced Phase Two which included the rollout of Lean Orders 
+and the PCS Entitlements Calculator.  Reference (c) announced the optional 
+use of the government travel charge card during PCS travel for a pilot 
+population.
+
+2.  MyPCS Travel Voucher.  Phase Three introduces a fully automated and 
+electronic travel voucher capability for Sailors available on personal and 
+government mobile devices, tablets, laptops and desktops.  During a move, 
+Sailors can upload images of receipts using their mobile device, complete a 
+user-friendly travel voucher prepopulated with basic information available 
+from their record, electronically sign the travel voucher and make it 
+available electronically to their Command Pay and Personnel Administrator
+(CPPA) for review and release for payment by the Travel Processing Center 
+(TPC).  The following capabilities are now available on MyPCS Mobile:
+    a.  Sailors will be able to:
+        (1) Create a travel voucher for member only, member and dependents, 
+or dependents only
+        (2) Review and edit personal information
+        (3) Enter the travel itinerary
+        (4) Add expense(s) for reimbursement (to include the images of 
+supporting documentation (e.g. receipts) uploaded from a mobile device)
+        (5) Print and save the travel voucher
+        (6) Acknowledge the voucher via electronic signature and 
+electronically submit to their CPPA.
+    b.  The CPPA, using their desktop, will be able to:
+        (1) View a command list of pending travel vouchers
+        (2) View a travel voucher under a Travel Voucher Wizard including:
+            (a) Pertinent Sailor information
+            (b) Travel/payment information
+            (c) Dependent voucher
+            (d) Travel itinerary
+            (e) Reimbursement items and supporting documentation
+            (f) Sailor acknowledgment
+        (3) Approve a travel voucher as the Approving Official
+        (4) Recycle a travel voucher - send back to the Sailor for correction
+        (5) Print and save the travel voucher
+        (6) Upload the approved travel voucher into the Transaction Online 
+Processing System (TOPS) for processing at the TPC.
+Ultimately, with a future capability release, the CPPA will be able to 
+forward electronically the approved voucher to the TPC within the integrated 
+Navy Personnel and Pay (NP2) system itself.
+
+3.  Similar to the other components of MyPCS Mobile, the MyPCS Mobile Travel 
+Voucher can be accessed using any mobile device.  With this new capability, 
+Sailors can now navigate the PCS move experience via their mobile browser 
+using commercial-grade Multi- Factor Authentication (MFA) credentialing, 
+which enables CAC-free access.  MyPCS Mobile Travel Voucher completes the 
+end-to-end support this tool provides Active Duty Sailors and their families 
+during the PCS move process and is a significant addition to a growing 
+toolbox that empowers Sailors with the information and resources needed to 
+improve how they navigate Navy career and life events like a PCS move.
+
+4.  As MyPCS mobile capability expands, the options to access appropriate 
+online resources for Sailors and command representatives also expand.  CPPAs 
+who function as the Approving Official for travel vouchers should acquaint 
+themselves with all available training resources.  The 
+agency/command/activity granting the CPPAs Travel Vouchers or Sub voucher 
+approving authority (Departmental Accountable Official) shall be documented 
+using the Appointment/Termination Record Authorized Signature (DD Form 577).
+CPPAs, using their desktop, can access the MyPCS training material under the 
+MyPCS User Productivity Kit (UPK) from the following locations:
+
+    a.  The Navy App Locker:  https://www.applocker.navy.mil
+    b.  MyNavy Portal (MNP):  https://www.mnp.navy.mil
+
+5.  Sailors are encouraged to review these new features in MyPCS Mobile or 
+MNP regardless of transient status. Sailors and families are also encouraged 
+to download the MyNavy Family application to find authoritative information 
+to assist in navigating various aspects of military life.  Go to the Navy 
+application locker at https://www.applocker.navy.mil.
+
+6.  Contact MyNavy Career Center (MNCC) for any issues or to provide feedback 
+at 833-330-MNCC/6622 or via e-mail at ask MNCC(at)navy.mil.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

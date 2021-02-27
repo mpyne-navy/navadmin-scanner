@@ -1,0 +1,95 @@
+UNCLASSIFIED//
+ROUTINE
+R 141858Z JAN 20 MID110000300748U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+CMC WASHINGTON DC
+CMC C FOUR WASHINGTON DC
+COMDT COGARD WASHINGTON DC
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 008/20
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/FISCAL YEAR 2019 COPERNICUS AWARD WINNERS ANNOUNCEMENT//
+
+REF/A/MSG/CNO WASHINGTON DC/011720Z AUG 19// POC/QUINN/CIV/AFCEA EDUCATIONAL 
+FOUNDATION/-/TEL: (703) 631-6147/EMAIL:  EDFOUNDATION(AT)AFCEA.ORG//
+
+AMPN/REF A IS NAVADMIN 175/19, FISCAL YEAR 2019 COPERNICUS AWARD NOMINATION//
+
+RMKS/1.  The Chief of Naval Operations is pleased to announce and 
+congratulate the fiscal year 2019 Copernicus Award winners.  The Copernicus 
+Award recognizes individual contributions to Naval Warfare in the disciplines 
+of Command, Control, Communications, Computers, and Intelligence (C4I), 
+Information Systems or Information Warfare (IW).  The Armed Forces 
+Communications and Electronics Association (AFCEA) and the U.S. Naval 
+Institute (USNI) have selected the following Copernicus Award winners for 
+fiscal year 2019:
+
+    a.  LTJG Jeffrey A. Baez, USN
+USS Princeton (CG 59)
+    b.  IT1 Patrick J. Berger, USN
+USS Somerset (LPD 25)
+    c.  Mr. Jay M. Blalock, USN
+Naval Surface Warfare Center, Dahlgren Division
+    d.  LT Katherine A. Bray, USN
+Navy Information Operations Command, Hawaii
+    e.  LCDR Kasey A. Brehme, USN
+Naval Computer and Telecommunications Station, San Diego
+    f.  LT Derrick R. Campbell, USCG
+USCG Telecommunication and Information Systems Command
+    g.  LT Brian J. Caplan, USN
+United States Indo-Pacific Command, Joint Intelligence Operations Center
+    h.  Capt Victor G. Castro, USMC
+Marine Corps Tactical Systems Support Activity
+    i.  ITC Jonathan E. Fehling, USN
+Naval Special Warfare Development Group
+    j.  LTJG Lucas R. Foppe, USN
+Navy Information Operations Command, Hawaii
+    k.  IT1 Andrew W. Freil, USN
+USS Abraham Lincoln (CVN 72)
+    l.  Maj Tim J. Garcia, USMC
+Joint Force Headquarters, Department of Defense Information Network
+    m.  Mr. Benjamin E. Haugh, USCG
+Telecommunication and Information Systems Command
+    n.  MSgt Travis E. Hollingshead, USMC United States Marine Corps Forces 
+Cyberspace Command
+    o.  IT1 Andrew L. Leaf, USN
+USS Benfold (DDG 65)
+    p.  Sgt Conor T. McAuliffe, USMC
+Marine Cryptologic Support Battalion
+    q.  ITCS Zachary A. Mollette, USN
+Center for Information Warfare Training
+    r.  Capt Benjamin N. Opel, USMC
+9th Communication Battalion, I Marine Expeditionary Force Information Group
+    s.  Capt Michael A. Rogers, USMC
+Tactical Air Control Squadron Eleven
+    t.  LCDR Thomas A. Sapp, USCG
+United States Coast Guard Operations Systems Center
+    u.  Mr. David P. Scott, USN
+Naval Special Warfare Group Ten
+    v.  ITC Erick L. Tiernan, USN
+USS Boxer (LHD 4)
+    w.  Capt Caleb Y. Wu, USMC
+Marine Corps Tactical Systems Support Activity
+
+2.  All Copernicus Award winners will receive an invitation from AFCEA and 
+USNI inviting them, their spouse/guest, and their Commanding Officer to 
+attend an awards reception and presentation ceremony held 2 March 2020 at the 
+AFCEA/USNI WEST 2020 conference in San Diego, CA at the San Diego Convention 
+Center.  If awardees are unable to attend the WEST 2020 conference, the 
+awards will be presented 2-4 June 2020 at the AFCEA TechNet Cyber Symposium 
+in Baltimore, MD at the Baltimore Convention Center.
+
+3.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

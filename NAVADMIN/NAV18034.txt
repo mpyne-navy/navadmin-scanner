@@ -1,0 +1,130 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 152101Z FEB 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 034/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB 18//
+
+SUBJ/FY-19 COMMAND MASTER CHIEF SENIOR ENLISTED LEADERSHIP BOARD RESULTS//
+
+REF/A/DOC/CNO/4 APR 2012//
+
+AMPN/OPNAVINST 1306.2H, COMMAND SENIOR ENLISTED LEADERSHIP PROGRAM//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for assignment as Command Master Chief from the Command 
+Senior Enlisted Leadership board, which convened 29 January 2018:
+NAME (LAST FIRST MI)          RATE        PARENT COMMAND
+ANDERSON, LEONARD             MMWCM       SSN 762 COLUMBUS
+ASKEW, STEVEN A               NDCM        NSW
+BABER, PAUL L                 SOCM        NSW
+BEATTY, MICHAEL C             MMACM       NSSC BANGOR
+BECK, JOHN C                  UCCM        NMCB 11
+BRITTENUM, VERONICA L         HMCM        NBHC B CHASE
+BROWN, JASON L                DCCM        LSD 43 FT MCHENR
+CLARKE, NORMAN W              MMACM       SSN 779 NEW MEXI
+COLEMAN, KATHRYN P            HMCM        NHCL PATUXENT
+COLLINS, MATTHEW D            SBCM        NSW
+CONNOLLY, LANCE M             FCCM        DDG 119 PCD NORF
+COOK, JESSE C                 ETRCM       NAVSUBSCOL GROT
+CUSTODIO, DENNIS B            HMCM        NBHCL EVERETT
+DAMICO, EDWARD C              MMACM       NSUBSUPF NLON CT
+DAVIS, MARK T                 SBCM        NSW
+DICKERSON, DERYCK J           SOCM        NSW
+DIZON, BERNARD H              ABCM        COMFAIRFWD
+DOEBLER, BRIAN C              MMACM       SSGN 729 BLUE CR
+FORD, NEIL R                  ETVCM       SSGN 728 BLUE CR
+FOREHAND, CRAIG R             MMACM       SSN 769 TOLEDO
+FRANCO, ANTHONY L             SOCM        NSW
+GIBBS, KEVIN M                LSSCM       SUBLANT TRNG&EVA
+GILREATH, A S                 CTTCM       COMNAVAIRPAC
+HARGROVE, MERCEDES N          HMCM        DC CD&I
+HELGESEN, ADAM J              SOCM        NSW
+HERNANDEZ, JULIO E            STSCM       SSN 773 CHEYENNE
+HILDEBRAND, JOSEPH T          SOCM        NSW
+HILL, JASON P                 SOCM        NSW
+HOWELL, THOMAS D              PSCM        NSH PEARL HARBOR
+HUNT, MICHAEL R               NDCM        NSW
+JACKSON, BRETT A              ETVCM       NAVAL L & EC
+JEFFERS, RAQUEL C             UCCM        NCHB 1
+JOHNSON, AARON D              EODCM       EODMU 11
+JOHNSON, ALLEN D              CUCM        NMCB 4
+KENEFIC, MICHAEL D JR         NDCM        NSW
+KING, JEFFREY H               NDCM        NSW
+KLOEPFER, DANIEL S            MMACM       SSN 775 TEXAS
+KUTSCH, JASON A               FCCM        CVN 78 FORD
+KWIECINSKI, MATTHEW A         ITSCM       SSN 752 PASADENA
+LAUBE, DANIEL J               NDCM        NSW
+LEWIS, DAVID J                MMACM       SSN 720 PITTSBGH
+LOHRKE, KEVIN R               ISCM        NIMITZ OPINT DC
+LUGO, MIGUEL A                HMCM        COMTHIRDFLEET
+MARCUS, DAVID W               MMNCM       CVN 71 T ROOSEVE
+MAYO, JUSTIN P                EODCM       EOD TRA/EVAL U 1
+MCCRORY, PAUL R               STSCM       NAVAL ACAD
+MESSINA, NICHOLAS             FTCM        CNAVPERSCOM MILL
+NANKIVEL, BOE A               SOCM        NSW
+NUANEZ, SHON R                AZCM        CNATTU WI WA
+OWENS, ARMON D                ETVCM       SSN 725 HELENA
+PIERICK, ANTHONY P            NDCM        NSW
+POSTUPACK, DAVID A            SBCM        NSW
+REED, ROBERT A                SOCM        NSW
+REEVES, KENNETH R             SOCM        NSW
+RIVERA, SAMUAL J JR           MNCM        SLCDET SD FLT TT
+SANDEEN, DAVID W              ITCM        NATO NCIA NORVA
+SEQUIRA, DAVID J              AFCM        HSM 41
+SHAW, NEIL C                  SOCM        NSW
+SILVEIRA, JOSEPH M            FCCM        SW-RMC
+SNYDER, DANIEL A              SBCM        NSW
+SODHI, RAJPAUL S              STSCM       SSN 780 MO
+STURGILL, JOSHUA A            FTCM        NAVSUBSCOL GROT
+THIBODEAUX, JASON P           HMCM        CNAVPERSCOM MILL
+THOMASON, ASHLEY L            HMCM        BUMED DET MILL
+TORRES, PETER E               HMCM        3RD MAW CPEN
+WATKINS, ADRIAN D             MTCM        SSBN 733 GOLD CR
+WEST, PATRICK C               SOCM        NSW
+WILLIAMS, LARRY E             FTCM        NSSC PH
+
+2.  Congratulations to the following Full Time Support (FTS)/Selected Reserve 
+(SELRES) members selected for assignment as Command Master Chief:
+NAME (LAST FIRST MI)          RATE        PARENT COMMAND
+GREENWELL, JAMES              MMCM        NOSC LOUISVILLE
+HOSKISON, GEORGE              ITCM        NR COMMSEVENTHFLEET
+HULICK, JOHN                  LSCM        NR COMNAVFOR KOREA
+KINLOCH, SHARON Y             NCCM        CNRC MILL TN
+OLSEN, ERIC A                 ISCM        NR NSW IWC 18
+POWELL, REBECCA L             ITCM        COMUSNAVCENT BAHRAIN
+RIVO, RODERICK Q              AVCM        NR USPACOM DET 701
+SCHENKELBERG, SHAUN M         OSCM        NOSC KITSAP
+STEWART, JUMONT L             ASCM        CNAFR NORVA
+
+3.  AC POC is CMDCM(SW/AW) James W. Osborne, NAVPERSCOM PERS-40FF at 901-874-
+4560; DSN 882-4560; email james.w.osborne1(at)navy.mil.
+SELRES POC is YNC Derrick Farrell, COMNAVRESFOR at 757-322-2432; email 
+derrick.farrell(at)navy.mil.  FTS POC is YNCM Jeffrey Sliker, NAVPERSCOM 
+PERS-4012C at 901-874-3257; DSN 882-3257, email Jeffrey.Sliker(at)navy.mil.
+
+4.  Selectees should contact their respective POC soonest to discuss 
+detailing opportunities.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

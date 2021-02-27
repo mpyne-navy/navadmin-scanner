@@ -1,0 +1,142 @@
+UNCLASSIFIED//
+ROUTINE
+R 081342Z SEP 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 213/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/FY-16 GENERAL MILITARY TRAINING SCHEDULE//
+
+REF/A/DOC/OPNAV/YYMMMDD//
+AMPN/REF A IS OPNAVINST 1500.22H, GENERAL MILITARY TRAINING PROGRAM//
+
+RMKS/1.  This NAVADMIN announces a significant change to the General Military 
+Training (GMT) program for Fiscal Year (FY) 2016, and should be read in its 
+entirety.  In May of this year, Secretary Mabus announced that he would be 
+ending GMT as we know it.  In response, we greatly reduced the standardized 
+annual requirements for FY-16 GMT and completely redesigned the GMT program 
+framework to empower local leadership to tailor many training topics to the 
+needs of their Sailors.  This new program framework differentiates between 
+those training lessons that require standardized annual delivery to all 
+uniformed personnel, and those that allow more flexible delivery.  Reference 
+(a) provides more information.
+
+2.  The first component in this new framework is Standardized Core Training 
+(SCT).  It is limited primarily to those topics which are mandated by higher 
+authority for annual delivery to all uniformed personnel.  A few support 
+topics are retained as annual requirements due to their direct ties to other 
+annual training requirements. These lessons will be delivered using 
+standardized training materials.  A portion will require face-to-face 
+delivery while the rest will allow completion by each individual.
+
+3.  The second component has been named Navy Command-Assigned Readiness-
+Enhancement (CARE) training.  This is a flexible, locally-run training 
+program, operating within a minimal framework, which ensures coverage of key 
+topics to enhance individual and command readiness.  It allows multiple 
+options for topic delivery, including Navy-wide directed training (e.g., 
+Bystander Intervention to the Fleet), use of locally-generated or 
+standardized products, and multiple training venues (e.g., Safety Stand-
+downs, Command Indoc, ISIC Workshops, etc.).  Navy CARE training will allow 
+command triads to prioritize and customize training delivery and is further 
+divided into two sub-components.  A portion of the training is tied to the 
+platforms deployment cycle with a minimal biennial completion requirement.  
+This allows commands to tailor the delivery schedule to coincide with periods 
+where it may be most impactful and relevant.  The remainder of the topics in 
+the Navy CARE portion of GMT allow for complete command discretion in 
+determining when the training is necessary, the most effective training 
+delivery method, the training content to be used, and the required audience.
+Standardized training products will remain available and accessible on the 
+GMT Web page for those commands desiring to use them.
+
+4.  The following lessons are included in the SCT program and are mandatory 
+for FY-16:
+    a.  These topics require face-to-face, instructor led sessions provided 
+at the command level.  Commands must utilize senior leadership to deliver 
+this training.  Commands are encouraged to leverage local subject matter 
+experts and collateral duty officers to compliment the standardized training 
+content:
+        (1) Sexual Assault Prevention and Response (SAPR) Awareness
+            (a) Department of Defense (DoD) has directed that commands 
+deliver Sexual Harassment training, when practicable, at the same time as 
+SAPR training.
+            (b) To support this directive, commands should plan to deliver 
+the Equal Opportunity/Sexual Harassment/Grievance Procedures (EO/SH) training 
+in conjunction with SAPR.
+            (c) If coincident delivery is not practicable, separate EO/SH 
+training delivery is still required under this category.
+        (2) Suicide Prevention
+    b.  These topics are also required for FY-16, utilizing standardized 
+training products.  They may be completed face-to-face (where an available 
+lesson format supports) or through individual completion of the courses 
+listed on the GMT Web page:
+        (1) Combating Trafficking in Persons (CTIP) General Awareness
+        (2) Antiterrorism Level I Awareness
+        (3) Cyber Security Awareness
+        (4) Counterintelligence Awareness and Reporting
+        (5) Operations Security
+        (6) Privacy and Personally Identifiable Information
+        (7) Records Management
+
+5.  The following lessons are part of the Navy CARE training program for 
+FY-16:
+    a.  This list of topics must be delivered once per deployment cycle and 
+may utilize locally-developed training resources or standardized content as 
+desired.  For those commands in which a deployment cycle is either not 
+applicable or would exceed two years between deployments, these topics must 
+be delivered once every two years (biennially):
+        (1) Alcohol, Drugs, and Tobacco Awareness
+        (2) Stress Management
+        (3) Domestic Violence Prevention and Reporting
+        (4) Sexual Health and Responsibility
+    b.  This list of topics should be delivered to the appropriate audience 
+at an appropriate periodicity as determined by the command triad.  Delivery 
+may include locally-generated content or utilize standardized products as 
+desired.  There is no minimum periodicity associated with these topics, but 
+commands are encouraged to exercise this flexibility to ensure the right 
+people receive training as necessary:
+        (1) Physical Readiness
+        (2) Hazing Policy and Prevention
+        (3) Personal Financial Management
+        (4) Operational Risk Management
+        (5) Energy Policy
+
+6.  Taken as a whole, this new approach results in more than a 40 percent 
+reduction in the yearly mandatory GMT delivery requirements. We continue to 
+work with DoD and Secretary of the Navy to update relevant instructions, 
+pursue additional consolidation, and provide more effective and efficient 
+training options.  One such initiative is the creation of mobile applications 
+that may be loaded onto personal electronic devices (e.g., smart phones, 
+tablets, etc.) and used to complete certain GMT lessons at a more convenient 
+time.  We expect the first mobile apps to become available later this year 
+and will provide download information via the GMT Web page.
+
+7.  The Navy’s official GMT Web page remains the best resource for 
+information related to the GMT program.  It is updated regularly and remains 
+the primary resource for any changes to related training requirements or 
+revised training availability.  To access this web page, go to Navy Knowledge 
+Online (NKO) at https://www.nko.navy.mil. Once logged into NKO, select the 
+GMT option under the Personal Development menu item to access the Navys GMT 
+page.
+
+8.  Individually-completed web-based training is automatically recorded and 
+tracked in the individuals electronic training jacket. Command-delivered 
+training completion is recorded in the Fleet Management and Planning System 
+(FLTMPS) via the learning event completion form.  Detailed instructions are 
+available online at https://ntmpsweb.ncdc.navy.mil/fltmps, by contacting the 
+support office at (866-438-2898), and posted on the NKO GMT page.  Send 
+questions or feedback via e-mail to gmt.distribution(at)navy.mil.
+
+9.  This NAVADMIN is canceled for record purposes on 30 September 2016.
+
+10.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,47 @@
+UNCLASSIFIED//
+ROUTINE
+R 101946Z SEP 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 210/19
+
+PASS TO OFFICE CODES:
+CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+
+SUBJ/DEPARTMENT OF DEFENSE SECURE ACCESS FILE EXCHANGE// 
+
+REF/A/GENADMIN/211659ZNOV18// 
+REF/B/GENADMIN/131455ZMAR19// NARR/REF A IS NAVADMIN 283/18 ON LOSS OF AMRDEC 
+SAFE.  REF B IS NAVADMIN 063/19 UPDATE ON AVAILABLE SECURE FILE EXCHANGE// 
+POC/AUGELLI/CAPT/OPNAV N2N6G/EMAIL:  VINCENT.A.AUGELLI(AT)NAVY.MIL// RMKS/1.  
+As a follow-up to references (a) and (b), this NAVADMIN serves as 
+notification of a new Department of Defense (DoD) enterprise Secure Access 
+File Exchange (SAFE) capability.  DoD SAFE is available at 
+https://safe.apps.mil and offers a no-cost, enterprise-wide method of 
+securely transferring large files.  This is the general use replacement for 
+the Army Aviation and Missile Research Development and Engineering Center 
+(AMRDEC) SAFE website.
+2.  Features include online exchange of data files (up to 8 GB) between DoD, 
+other governmental, and civilian agencies.  The service offers encryption 
+capability for sensitive information to include For Official Use Only (FOUO), 
+Personally Identifiable Information
+(PII) and Protected Health Information (PHI).  DoD SAFE is approved for 
+unclassified data exchange only.
+3.  Alternative methods of information exchange outlined in reference
+(a) remain valid options, except for the discontinued Army Research 
+Laboratory Safe Access File Exchange (ARL SAFE).  Commercial information 
+technology service alternatives are not authorized.  All parties are 
+encouraged to exercise the best practice of sharing links rather than large 
+files when practical.  Chief Information Officers and security managers are 
+responsible to ensure all practices comply with regulations governing PII/PHI 
+and other content.
+4.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.// BT
+#0001
+NNNN
+UNCLASSIFIED//

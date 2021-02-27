@@ -1,0 +1,68 @@
+UNCLASSIFIED//
+ROUTINE
+R 232038Z MAR 20 MID110000511310U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 082/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/NAVY TRANSITION ASSISTANCE PROGRAM POLICY UPDATE FOR COVID-19//
+
+REF/A/DOC/OPNAV/24AUG16//
+REF/B/MSG/301316ZSEP19//
+
+NARR/REF A IS OPNAVINST 1900.2C. 
+REF B IS NAVADMIN 223/19.//
+
+RMKS/1.  This NAVADMIN announces the immediate suspension of all Navy 
+Transition Assistance Program (TAP) in-person classes listed in references 
+(a) and (b) until further notice in order to minimize the risk of exposure to 
+COVID-19.  Commanders must continue to ensure transitioning Service Members 
+are prepared to reintegrate into the civilian community, especially in the 
+challenging times we face.
+    a.  Service Members with upcoming separation dates, who are unable to 
+reschedule TAP attendance for a later date, must complete TAP via Joint 
+Knowledge Online (JKO) (https://jkodirect.jten.mil).
+Details on the TAP virtual curriculum are available at 
+https://webdm.dmdc.osd.mil/dodtap/virtual_curriculum.html
+    b.  Initial Self-Assessment Counseling, Pre-Separation Counseling and 
+Capstone sessions are still required and may be conducted in-person using 
+proper social-distancing protocol or telephonically by command career 
+counselors or TAP managers.
+    c.  Service Members with sufficient time remaining prior to their 
+separation or retirement date should reschedule the TAP course for a later 
+date.  The Navy understands this may not meet the 365- days prior to 
+separation start time or 90-days prior to separation Capstone requirement.  
+However, Service Members must make every effort to complete all TAP 
+requirements prior to separation.
+    d.  Please continue to document JKO course completions and all eForm data 
+in line with standard procedures listed in reference (b).
+    e.  Reserve Component Service Members on Active-Duty orders greater than 
+179 days must adhere to paragraphs (a) and (b).
+Mobilized Reservists who are within 60 days of redeployment and/or 
+demobilization must complete TAP classes via JKO.  JKO completion 
+certificates should be presented to Expeditionary Combat Readiness Center 
+(ECRC) upon arrival.  ECRC will document JKO course completions via eForm and 
+complete all TAP requirements.
+    f.  For additional information or questions, the Navy TAP point of 
+contact is Mr. Tom Albert, Family Readiness Branch, at (901) 874- 4254/
+DSN 882 or via e-mail at tom.albert(at)navy.mil.
+
+2.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+3.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

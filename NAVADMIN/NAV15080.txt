@@ -1,0 +1,124 @@
+UNCLASSIFIED//
+ROUTINE
+R 062003Z APR 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 080/15
+
+SUBJ/AMPLIFYING GUIDANCE FOR UNIT AWARDS SUBMISSIONS// 
+
+MSGID/GENADMIN/CNO WASHINGTON DC/APR//
+REF/A/DOC/SECNAVINST 1650.1H/22AUG2006//
+NARR/REF A IS THE NAVY AND MARINE CORPS AWARDS MANUAL//
+
+RMKS/1.  The purpose of this NAVADMIN is to enhance consistency across the 
+Department of the Navy (DON) by providing amplifying guidance for 
+originating, endorsing, and processing recommendations to assist awarding 
+authorities in recognizing deserving units with an appropriate award.  The 
+basic eligibility and criteria contained in reference (a) remains unchanged.
+
+2.  The following guidance, timelines and best practices for unit awards are 
+provided to facilitate a smooth process for final disposition.
+    a.  Recommendations shall be initiated no later than 60 days following 
+the completion of the period of service for which the award is being 
+recommended.  Any recommendation not submitted in a timely manner must be 
+accompanied with a letter signed by the commander providing justification for 
+tardiness.
+    b.  A complete and properly documented award recommendation (The Office 
+of Naval Operations (OPNAV) Form 1650/14) must be initiated and submitted to 
+the next Commander in the reporting chain.
+Echelon II Navy Department Awards Web Service (NDAWS) administrators will 
+ensure the data from the OPNAV 1650/14 is uploaded to NDAWS prior to 
+forwarding to the Chief of Naval Operations (Director, Navy Staff (DNS)-35).
+    c.  Errors or missing information in the submitted recommendation 
+adversely affect processing and adjudication.   Endorsing Commanders have the 
+responsibility to return the award submission to the originator if it is not 
+submitted in accordance with reference (a) and this NAVADMIN.  
+Common errors observed include:
+        (1) Unit nominations being originated by the Commanding Officer of 
+the unit.  Commands cannot originate recommendations for themselves.
+Recommendations must be submitted by the Immediate Superior in the Chain of 
+Command (ISIC).
+        (2) Incorrect cited unit.  The cited unit's name listed in Block 6 
+should match Standard Navy Distribution List (SNDL) naming conventions.  The 
+SNDL can be accessed through the SECNAV/OPNAV directives website at 
+http://doni.daps.dla.mil/sndl.aspx.  Commonly used unit acronyms and 
+abbreviations in NDAWS can also be found at https://awards.navy.mil for those 
+units not listed in the SNDL (task forces, newly formed units, foreign units, 
+etc.).  All others should be listed as appropriate.
+            (a) The cited unit name must be consistent throughout the Summary 
+of Action (SOA) and citation.
+            (b) Meritorious dates in the SOA and proposed citation must match 
+the date indicated in Block 17.
+            (c) The actions of the participating commands must reasonably be 
+referenced in the SOA.  Conversely, any unit mentioned in the SOA must be 
+included in the participating command supplemental.
+        (3) Missing or incomplete Block 5.  List of participating commands 
+supplemental - participating command lists are either missing or incomplete.
+            (a) Block P1 - cited unit must be the same as Block 6 of OPNAV 
+Form 1650/14.
+            (b) Block P3 - cited unit action date/meritorious period must be 
+the same as Block 17 of OPNAV Form 1650/14.
+            (c) Blocks 1-33, participating command dates - dates of 
+attachment to the cited unit being recommended must be included.
+Each participating command must have a merit start/end date even if it 
+matches Block P3.
+            (d) Participating command components - each participating command 
+must be identified using the appropriate component.  The code ?other? is only 
+used for foreign militaries.
+        (4) OPNAV Form 1650/14 Block 12 - previously approved unit awards may 
+be located using the reporting consolidated search function in NDAWS and on 
+the public website.  For the cited unit and any participating command listed, 
+the originating command must identify any previous unit award(s) that have 
+been approved or are pending recommendation.
+        (5) OPNAV Form 1650/14 Block 18b/c - awards without
+        Originator signature or date will be returned without action.
+        (6) OPNAV Form 1650/14 Block 19 - awards not signed or dated by 
+appropriate endorsee will be returned without action.
+        (7) An estimated total number of personnel (Officer, Enlisted, U.S. 
+Civilians, other U.S. Armed Forces, or Foreign
+Militaries) who would be eligible to participate in the award if approved 
+must be included with the recommendation.  If applicable the following must 
+also be included:
+            (a) A by-name list to include rank, full name, Component and a 
+minimum of the last four of the Social Security Number for other Department 
+of Defense (DoD) service personnel.
+            (b) Total number of civilians, a by-name list, certification that 
+they played a key role in the achievement for which the award is being 
+recommended, and a statement that they are United States citizens and DON 
+employees.  Neither contractors nor foreign nationals are eligible.
+            (c) For reserve units, include an endorsement by the active 
+component command the unit regularly reports to/mobilizes with.  Also include 
+an endorsement by the commander under whom the service or act was performed, 
+if it is other than the active command to which the unit is regularly 
+assigned.
+            (d) Recommendations for units of friendly foreign nations or any 
+recommendation that includes participation of units of friendly foreign 
+nations require specific concurrence.  Originators shall coordinate with the 
+appropriate United States Embassy to obtain concurrence for any unit and or 
+individual.  For those recommendations that list Foreign Service personnel by 
+name, the originator must also coordinate with the Naval Criminal 
+Investigative Service (NCIS) to conduct a counterintelligence check.  Both 
+the concurrence and NCIS response letters expire six months from the date 
+signed and each must accompany the award recommendation.  Participating 
+commands that the United States Embassy has non-concurred with will not be 
+included in any approved award.  In addition, the Secretary of the Navy will 
+not process recommendations for foreign cited units if the United States 
+Embassy non-concurs.
+
+3.  Point of Contact is Mr. Mark Newman, DNS-35, at (202) 685-1770 or via 
+e-mail at mark.newman1(at)navy.mil
+
+4.  This NAVADMIN will remain in effect until superseded or cancelled.
+
+5.  Released by Vice Admiral S. H. Swift, Director, Navy Staff.//
+
+BT
+#4969
+NNNN
+UNCLASSIFIED//
+
+

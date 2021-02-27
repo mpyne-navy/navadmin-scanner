@@ -1,0 +1,79 @@
+UNCLASSIFIED
+ROUTINE
+R 161633Z MAY 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+CMC WASHINGTON DC
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 120/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/RANSOMWARE WARNING MESSAGE//
+
+REF/A/MSG/FLEETCYBERCOM/132055ZMAY17//
+AMPN/Fleet Cyber Advisory SER-003-2017//
+POC/BATTLE WATCH CAPTAIN/-/FLTCYBERCOM/-/COMM: 240-373-1477;
+NSTS:  962-2314; SIPRNET ADDRESS:  C10F_BWC.FCT(AT)NAVY.SMIL.MIL//
+
+RMKS/1.  Per reference (a), the Navy is tracking reporting on ransomware 
+known as WannaCry affecting multiple global governments, businesses, 
+universities, and people.  Ransomware is a type of malicious software that 
+infects a computer and restricts users' access until a ransom is paid to 
+unlock the device.  For the WannaCry infection, the malware use phishing as 
+its initial infection vector, luring unsuspecting users to click on infected 
+email attachments and links in email to launch the attack.  Once activated, 
+the WannaCry ransomware spreads on the network via an unpatched Microsoft 
+vulnerability.  Unpatched or out-of-date systems are particularly vulnerable 
+to ransomware.  If a single user on a network of unpatched systems becomes 
+infected, then the whole network is at risk.
+
+2.  User awareness and vigilance are the most important means to ensure 
+network security against cyber threats.  To increase the collective defense 
+across Department of the Navy networks, all employees must take the following 
+actions:
+a.  Do not click on links or download files in emails unless you verify they 
+are intended for you.  Do not open email from unknown senders. 
+b.  If users encounter suspicious files or files from an unverified or 
+unknown entity, do not attempt to open the files.  Contact your Information 
+Assurance Manager (IAM) for further guidance.
+c.  Digitally sign your emails as well as verify emails sent to you are 
+digitally signed prior to reading them.  These actions directly contribute to 
+email security.
+d.  Personnel accessing webmail or dropbox-like services from a Navy network 
+host are reminded of the inherent risk associated with this action. Extra 
+individual vigilance must be exercised to ensure risk mitigation.
+
+3.  To protect your personal devices from this and other attacks, keep your 
+operating systems, applications, and anti-virus signatures up-to-date.  
+Microsoft auto-update and anti-virus auto-update are key to staying abreast 
+of the threat.  Microsoft released a patch (MS17-010) in March addressing the 
+vulnerability exploited by the WannaCry ransomware.  Users should further be 
+aware the phishing attempts described in paragraphs 2a and 2b are also 
+directed at personal devices and accounts.  Additionally, it is a computer 
+security best practice to regularly backup your personal data to an off-line 
+device or cloud based storage in case of computer attack or failure.
+
+4.  Navy users can download free anti-virus software at 
+https://infosec.navy.mil/main/home?p=5-1
+
+5.  The Department of Homeland Security previously released information on 
+best practices to address ransomware.  That information is available on their 
+website at https://www.us-cert.gov/security-publications/Ransomware.
+
+6.  The workforce should be aware that this and any malicious software can 
+and frequently morphs - don't let your guard down.
+
+7.  If you suspect your Navy device is infected, contact your local IAM or 
+the Fleet Cyber Command Battle Watch Captain for further assistance.
+
+8.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,194 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 021355Z OCT 14 PSN 923373K27
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+BT
+UNCLAS
+
+NAVADMIN 227/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/
+
+SUBJ/CHIEF OF NAVAL OPERATIONS INTEGRATED VULNERABILITY ASSESSMENT, CRITICAL 
+INFRASTRUCTURE PROGRAM ASSESSMENT, AND MISSION ASSURANCE
+ASSESSMENT-NAVY(PILOT) SCHEDULE FOR SELECT NAVY COMMANDS DURING FISCAL YEAR 
+2015//
+
+REF/A/DOC/DODI 2000.16/31OCT2006//
+
+REF/B/DOC/OPNAVINST 3300.53C/26MAY2009//
+
+REF/C/DOC/DEPT OF DEFENSE VULNERABILITY ASSESSMENT BENCHMARKS /1JAN2013//
+
+REF/D/DOC/DODI 3020.45/21APR2008//
+
+REF/E/DOC/DODI(DRAFT)/22APR2014//
+
+NARR/REF A IS DEPARTMENT OF DEFENSE (DOD) ANTITERRORISM STANDARDS.
+REF B IS THE NAVY ANTITERRORISM PROGRAM.  REF C IS THE DOD VULNERABILITY 
+ASSESSMENT BENCHMARKS.  REF D IS THE DCIP MANAGEMENT GUIDE FOR ALL DOD 
+ACTIVITIES.  REF E IS THE DRAFT DOD MISSION ASSURANCE ASSESSMENT GUIDE.
+POC/CDR A. L. SCHREIBER/CNO WASHINGTON DC/N462/LOC: ARLINGTON, VA/
+TEL: (703) 695-5526, ANDREA.SCHREIBER(AT)NAVY.MIL AND MR ERIC HAMMETT/ OPNAV 
+N46/ LOC: ARLINGTON, VA/ TEL: (703) 695-5521, ERIC.HAMMETT(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN promulgates the list of Navy commands scheduled to 
+receive a Chief of Naval Operations Integrated Vulnerability Assessment 
+(CNOIVA), Critical Infrastructure Program
+(CIP) Assessment, or Mission Assurance Assessment-Navy (Pilot) (MAA
+-N(P)) during Fiscal Year 2015 (FY15).
+
+2.  These assessments help prevent and/or reduce the impact of a terrorist 
+attack and assist Commanding Officers in meeting their antiterrorism and 
+force protection (AT/FP) responsibilities.
+    a.  IAW Ref A, para 2, Navy commands requiring an antiterrorism
+    program will undergo a higher headquarters integrated
+    vulnerability
+    assessment every three years.
+    b.  Certain Navy commands have been selected to receive CIP
+    assessments based on critical missions and assets.
+    c.  Since DoD and Navy are replacing integrated vulnerability and
+    CIP assessments with multi-functional MAA-N in the near future,
+    Navy
+    will conduct MAA-N(P) at two Navy commands.  The MAA-N(P)
+    assessments will be preceded by an MAA-N(P) Pre-Site Survey (PSS)
+    which is critical to the development of the command and tenant
+    missions decomposition process.
+
+3.  FY15 Assessment schedule by date, location and type:
+6-10 Oct 2014    NAVSUPPACT Bahrain                CIP
+17-21 Nov 2014   NAS Whidbey Island                CNOIVA
+17-21 Nov 2014   NAVSTA Guantanamo                 CIP
+1-12 Dec 2014    NAVBASE Kitsap                    CNOIVA
+1-12 Dec 2014    Port Of Jebel Ali                 CIP
+1-12 Dec 2014    Port Of Fujairah                  CIP
+8-12 Dec 2014    NAS Key West                      MAA-N(P) PSS
+26-30 Jan 2015   NAVSUPPFAC Diego Garcia           CIP
+2-13 Feb 2015    JBPHH Pearl Harbor                CNOIVA-CIP
+23-27 Feb 2015   NAS Key West                      MAA-N(P)
+2-6 Mar 2015     NAVSTA Everett                    CNOIVA
+9-13 Mar 2015    FAIRECONRON THREE DET Travis AFB  CIP
+20-24 Apr 2015   NAS Oceana                        CNOIVA-CIP
+4-15 May 2015    NAVBASE Guam                      CIP
+4-8 May 2015     NAVHOSP Pensacola                 CNOIVA
+18-22 May 2015   NAVBASE Coronado                  CNOIVA
+1-5 Jun 2015     NAVSUPPACT Hampton Roads          MAA-N(P) PSS
+8-12 Jun 2015    NAVSUPPACT Bethesda               CNOIVA-CIP
+15-20 Jun 2015   Washington Navy Yard              CIP
+13-17 Jul 2015   JBAB Washington DC                CNOIVA-CIP
+20-31 Jul 2015   NCTAMS PAC DET Puget Sound        CIP
+10-15 Aug 2015   NAVSUPPACT Hampton Roads          MAA-N(P)
+10-21 Aug 2015   NAVCOMTELSTA Jacksonville         CIP
+7-11 Sep 2015    NAF El Centro                     CNOIVA
+
+4.  Conduct of Assessments:
+    a.  Commands scheduled for CNOIVA, CIP or MAA-N(P) Assessments
+    have received or will receive a letter 60-90 days prior to the on
+    -site assessment date identifying specific information and
+    logistics
+    support required for the Assessment Team.
+    b.  At a minimum, each team requires:
+        (1) Working space with 24 hour access, a LAN or DSL cable
+        connection with Internet access and storage for a small
+        quantity of
+        confidential classified material.
+        (2) Hardcopies of the Antiterrorism (AT) Plan; Plans for
+        Response to Use of Weapons of Mass Destruction; Disaster
+        Preparedness Plan; previous Joint Security Integrated
+        Vulnerability
+        Assessments and CNOIVA reports; Security Department post or
+        guard
+        force orders and Standard Operating Procedures; and a Base
+        Map that
+        delineates buildings and streets.
+        (3) A 15-passenger van for a windshield tour.
+        (4) An in-brief on the first day of the Assessment for the
+        team to provide the Installation Commanding Officer and staff
+        an
+        overview.
+        (5) Access to personnel responsible for the following
+        functional areas:  anti-terrorist operations, security
+        operations,
+        structural engineering, infrastructure engineering, and
+        operational
+        readiness.
+        (6) If a CIP Assessment is scheduled, provide contact
+        information for the Defense Critical Infrastructure POC.
+        (7) An out-brief for the Installation Commanding Officer and
+        staff.  The out-brief will present options for the
+        Installation
+        Commanding Officer to consider in pursuing improvements to
+        force
+        protection and to formulating budget submissions.
+    c.  The formal Assessment Report will be forwarded to the Command
+    within 90 days of completion.  The report will list findings,
+    including vulnerabilities, dependencies, single points of failure
+    ,
+    and remediation/mitigation recommendations.
+
+5.  Background:
+    a.  CNOIVA
+        (1) Using a vulnerability-based assessment, the CNOIVA
+        determines a command*s ability to deter and/or respond to
+        terrorist
+        incidents.
+        (2) The CNOIVA evaluates the consequences of terrorist acts
+        in terms of a command's ability to accomplish its
+        mission.  Vulnerability-based assessment methodology reviews
+        site
+        -specific characteristics, mission, threat analyses, security
+        plans,
+        procedures, threat and disaster response capabilities, and
+        other
+        specific command concerns.
+        (3) IAW Ref B, Naval Criminal Investigative Service (NCIS)
+        Security Training, Assessment and Assistance Teams (STAAT)
+        conduct
+        the CNOIVA assessments using Ref C.
+    b.  CIP
+        (1) The CIP assesses a command*s ability to support mission
+        requirements and identify supporting infrastructure
+        vulnerabilities
+        (e.g., electric power, communications, fuels, transportation)
+        and
+        dependencies.
+        (2) The CIP reviews site-specific characteristics, mission
+        and infrastructure plans, projects, procedures and response
+        capabilities.
+        (3) The Mission Assurance Division (MAD) at Naval Surface
+        Warfare Center Dahlgren Division conducts CIP assessment
+        using Refs
+        D and E.
+    c.  MAA-N Pilot (P)
+        (1) MAA-N(P) is Navy*s approach to the proposed Joint Chiefs
+        of Staff Joint Mission Assurance Assessment.
+        (2) The MAA-N(P) combines several assessments into a single
+        assessment and minimizes operational and logistical impacts
+        to the
+        Command, reduces cost, and maximizes effectiveness of the
+        Assessment
+        Team via information-sharing and identification of
+        vulnerabilities
+        and mitigation strategies across multiple program areas to
+        include
+        critical infrastructure, anti-terrorism, emergency management
+        ,
+        physical security and cyber operations.
+        (3) NCIS STAAT and MAD will conduct the MAA-N(P) using Refs D
+        and E.
+
+6.  Any changes to the schedule in para. 3 must be coordinated with message 
+POCs.
+
+7.  Released by VADM P. H. Cullom, N4.//
+
+BT
+#5055
+NNNN
+

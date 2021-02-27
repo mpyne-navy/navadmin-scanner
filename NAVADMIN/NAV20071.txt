@@ -1,0 +1,92 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 181759Z MAR 20 MID110000486943U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 071/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/PHYSICAL READINESS POLICY UPDATE//
+
+REF/A/DOC/OPNAV/11JUL11//
+
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.
+
+RMKS/1.  This NAVADMIN announces immediate suspension of the Navy physical 
+readiness program physical fitness assessment (PFA) for Cycle 1, 2020 to 
+minimize the risk from COVID-19 to Sailors and adhere to social distancing 
+requirements.  All personnel will be excused from participation in Cycle 1, 
+2020, including those who have already completed the PFA.
+
+2.  Suspension includes both the official Body Composition Assessment and 
+Physical Readiness Test components of the PFA.
+    a.  All official PFA records affected by this policy will be updated by 
+the Physical Readiness Program office.  The Physical Readiness Program office 
+will work with Bureau of Naval Personnel (BUPERS) On-line to *EXCUSE* all 
+Service Members in the Physical Readiness Information Management System 
+(PRIMS) for Cycle 1, 2020.
+Commands that have already begun or completed the official PFA testing should 
+stop immediately and take no further action in PRIMS.
+Commands that have not started the PFA should not enter any data in PRIMS for 
+Cycle 1 2020.
+    b.  All Navy commands are directed to immediately suspend all organized 
+or group physical training (PT) (i.e. Command, Department or Division PT and 
+the Fitness Enhancement Program) until further notice.
+    c.  Exceptions to paragraph 2.a and 2.b for accessions missions (e.g. 
+recruit training) and unit mission training requirements may be granted by 
+the appropriate Echelon II commander with authority to delegate to the first 
+flag officer in the chain of command.
+
+3.  Enlisted Service Members with a Soft End of Active Obligated Service 
+before 30 July 2020 who are ineligible for retention or cannot submit a 
+Career Waypoint (C-WAY) application due to adverse evaluations as a result of 
+past PFA failure history and desire to stay Navy are authorized an extension 
+to regain eligibility with command endorsement as follows:
+     a.  Requested extension length should be of sufficient duration to allow 
+for processing of a future special evaluation and application in C-WAY (if 
+applicable), but must not exceed 30 September 2020.
+     b.  Because this is an exception to policy, this action will not require 
+a C-WAY quota (if applicable).
+     c.  Once the Service Member successfully passes the official Cycle 2, 
+2020 PFA and has retention eligibility restored from the Commanding Officer 
+(CO), the Service Member can submit their reenlistment/extension request 
+directly to their CO, or BUPERS Enlisted Community Manager for enlisted 
+Service Members who must use C-WAY.  For Nuclear-trained Service Members, all 
+requests must be submitted via their CO to Deputy Chief of Naval Operations 
+Nuclear Program Manager.  In all cases, PRIMS results must show the Cycle 2,
+2020 results.
+
+4.  Officers who may be impacted by this NAVADMIN should contact the Officer 
+Performance and Separations Branch.
+
+5.  Points of Contact.
+    a.  Physical Readiness Program.  AMCS Eric Anderson, Physical Fitness 
+Branch, at (901)-874-4376, DSN 882 or via email at eric.anderson(at)navy.mil.
+    b.  Personnel Issues.  MyNavy Career Center, 1-833-330-6622 or via e-mail 
+at askmncc(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

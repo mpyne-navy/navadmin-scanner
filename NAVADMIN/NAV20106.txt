@@ -1,0 +1,175 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 101828Z APR 20 MID110000571500U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 106/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/UPDATED CYBER INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE 
+TRANSITION IMPLEMENTATION PLAN//
+
+REF/A/NAVADMIN 003/19/08JAN19//
+
+REF/B/LTR/OPM/1AUG16/FCWAA//
+
+REF/C/DOC/NIST SPECIAL PUB 800-181/AUG17//
+
+REF/D/DOC/DCWF//
+
+REF/E/DOC/DoDD 8140.01/11AUG15//
+
+REF/F/DOC/DoDM 8570.01/19DEC05//
+
+REF/G/DOC/SECNAVINST 5239.20A/10FEB16//
+
+REF/H/DOC/SECNAV M-5239.2/JUN16//
+
+REF/I/LTR/DOD CIO/2JUL18//
+
+REF/J/LTR/OPNAV N2N6/29SEP17//
+
+NARR/ REF (A) IS THE Q2FY19 NAVADMIN INTIATING THE NAVY TRANSITION TO THE 
+SECRETARY OF THE NAVY (SECNAV) QUALIFICIATON PROGRAM.  REF(B) IS AN OFFICE OF 
+PERSONNEL MANAGEMENT LETTER OUTLINING AND PROVIDING IMPLEMENTATION GUIDANCE 
+FOR THE FEDERAL CYBERSECURITY WORKFORCE ASSESSMENT ACT OF 2015; REF (C) IS 
+THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY SPECIAL PUBLICATION 800-
+181 NATIONAL INITIATIVE FOR CYBERSECURITY EDUCATION CYBERSECURITY WORKFORCE 
+FRAMEWORK AND OUTLINES 54 CYBER WORK ROLES, THEIR ASSOCIATED TASKS AND 
+REQUIRED KNOWLEDGE, SKILLS, AND ABILITIES; REF (D) IS THE DEPARTMENT OF 
+DEFENSE (DOD) CYBER WORKFORCE FRAMEWORK AND BUILDS ON THE NATIONAL INSTITUTE 
+OF STANDARDS AND TECHNOLOGY SP 800-181 AND ADDRESSES UNIQUE DOD MISSIONS AND 
+TASKS, DIRECTING THAT THESE CODES BE APPLIED TO MEMBERS OF THE DEFENSE 
+CYBERSECURITY WORKFORCE; REF (E) IS THE DoDD 8140.01 CYBERSPACE WORKFORCE 
+MANAGEMENT, DATED 11 AUGUST 2015, AND SUPERSEDES REF (F) AND BEGINS THE 
+TRANSITION PROCESS FROM THE INFORMATION ASSURANCE WORKFORCE TOWARD A MUCH 
+BROADER CYBER WORKFORCE POPULATION; REF (F) IS THE DOD 8570.01M, 
+CYBERSECURITY WORKFORCE IMPROVEMENT PROGRAM, DATED 19 DECEMBER 2005; REF (G) 
+IS THE SECNAVINST 5239.20A, DEPARTMENT OF THE NAVY (DON) CYBERSPACE 
+INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE MANAGEMENT AND 
+QUALIFICATION, DATED 10 FEBRUARY 2016; REF (H) IS THE SECNAV M -5239.2, DON 
+CYBERSPACE INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE MANAGEMENT AND 
+QUALIFICATION MANUAL, DATED 27 JUNE 2016; REF (G) AND (H) PROVIDES 
+IMPLEMENTATION AND QUALIFICATION GUIDANCE FOR THE DON CYBER INFORMATION 
+TECHNOLOGY/CYBERSECURITY WORKFORCE; REF (I) IS THE 2 JULY 2018 DOD CHIEF 
+INFORMATION OFFICER (CIO) WAIVER FROM THE REQUIREMENTS OF THE DOD 8570.01M 
+GRANTING THE NAVY PERMISSION TO IMPLEMENT THE SECNAV M-5239.2; REF (J) IS AN 
+OPNAV LETTER ON NAVY CREDENTIALING OPPORTUNITIES ON-LINE GUIDANCE FOR 
+APPROVING NAVY CYBERSECURITY WORKFORCE VOUCHERS.// POC/VIEIRA/CIV/OPNAV 
+N2N6G11/TEL:  703-695-7809/DSN:  225-7809
+/EMAIL:  MICHAEL.VIEIRA(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN updates reference (a) to amend timelines for 
+transitioning to a new Cyber Workforce (CWF) framework due to delays in key 
+elements of Phase I (paragraphs 3.b., 3.e., and 3.i.) and to delay the 
+commencement of Phase II.  Phase II implementation will be announced via a 
+future NAVADMIN.
+
+2.  The Navy implementation process for transitioning to a new CWF management 
+and qualification framework (references (b) through (g) germane) is outlined 
+in reference (h).  This transition does not include the cyber effects and 
+intelligence (cyber) workforce elements.  The contractor workforce remains 
+governed by reference (f).  Organizations are encouraged to adopt a measured 
+approach if proceeding ahead of the Department of the Navy (DON) enterprise, 
+understanding alignment with updated Department of Defense (DoD) policy may 
+result in additional cost.
+
+3.  The Navy will transition from reference (f) to reference (g) in three 
+phases.  Below is the status of Phase I:
+    a.  OPNAV N2N6 develop and implement a formal process communicating 
+implementation details, status, and required changes, including regularly 
+scheduled in-progress reviews on transition progress - Complete.
+    b.  Outline procedures for assessing employee proficiency levels  
+Partially complete.
+        (1) Draft language developed; estimate updated SECNAV policy in 
+Q4FY20.
+    c.  Establish an OPNAV N2N6G1 and the Office of Civilian Human Resources
+(OCHR) transition working group addressing Human Resource issues, including 
+union notifications for both the National Capital Region and local bargaining 
+units  Partially complete.
+        (1) Established Human Resources (HR) working group.
+        (2) Developed draft union notification letters; awaiting finalized 
+qualification requirements.
+        (3) Organizations with questions pertaining to employee qualification 
+non-compliance and applicable adverse actions are advised to consult with 
+local HR.
+    d.  Update and publish an integrated Cybersecurity (CS) Workforce (CSWF) 
+Management Oversight Compliance Committee/Training, Education, and 
+Certification Advisory Team Charter - Complete.
+    e.  Evaluate and validate qualification requirements including 
+foundational, residential, and continuing education.  This includes 
+clarifying experience and using personnel qualification standards for 
+civilian employees  In progress.
+        (1) Navy foundational qualification requirements need to be updated 
+based on recent DoD qualification reviews to ensure Navy is not increasing 
+the qualification gap with the future DoD workforce qualification program.  
+DoD estimates approving qualifications matrices in FY21.  Phase II initiation 
+requires updated qualification requirements for Cyber Information Technology
+(IT) and CS work.
+        (2) Organizations are encouraged to communicate to the CWF the 
+importance of employees maintaining currently held industry certifications 
+while the Cyber IT and CS transitions are in progress.
+        (3) Navy experience pilot is complete; awaiting DoD review and 
+approval of experience as a foundational qualification option.
+        (4) Recommending changing the current 40 hours of Cyber IT/CSWF 
+continuing education units; estimate updated Secretary of the Navy (SECNAV) 
+policy in Q4FY20.
+    f.  Monitor manpower offices completion and reconciliation of military 
+billet coding in the Total Force Manpower Management System (TFMMS) - 
+Complete.
+    g.  Monitor OCHR completion of civilian billet coding in the Defense 
+Civilian Personnel Data System (DCPDS) and reconcile in TFMMS  Complete.
+        (1) Per reference (k), Navy command submissions to Manpower and 
+Reserve Affairs (MRA) Total Force Integration (TFI) received by March 2019 
+were reviewed and, once approved, forwarded to OCHR for update within the 
+DCPDS.  In collaboration, OCHR and Department of Defense Human Resource 
+Activity (DODHRA) Defense Manpower Data Center (DMDC) completed the 
+processing of all requested updates as of 17 May 2019.
+    h.  Staff updates and drafts SECNAV and OPNAV Cyber IT/CSWF policy, as 
+needed, to support workforce management  In progress.
+        (1) Updates to SECNAV CWF policy have been developed and submitted 
+for review and approval.  Estimate updated policy in Q4FY20.  Interim changes 
+affecting position descriptions, proficiencies levels, and continuing 
+education requirements will be released prior to a full SECNAV policy update.
+    i.  Identifying funding, validating functionality, and reviewing business 
+rules for the Total Workforce Management Service (TWMS) CSWF module  In 
+progress.
+        (1) TWMS CSWF module is not funded in FY20.
+        (2) While awaiting funding, efforts continue to identify module 
+requirements and refine business rules based on evolving DoD requirements.  
+Organizations shall not interpret scores as steady state of readiness until 
+all changes are finalized.
+    j.  Reference (j) remains in effect throughout the transition period and 
+will be re-evaluated during program sustainment - Complete.
+
+5.  Progress will be communicated via policy guidance, executive briefs, 
+NAVADMINs, Semi-annual Cybersecurity Symposium briefs, and monthly action 
+officer level CWF synchronizations.
+
+6.  Program Managers must continue to monitor the CWF and provide Command 
+CSWF updates to the command manpower or personnel subject matter experts for 
+inclusion into authoritative data sources.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+
+

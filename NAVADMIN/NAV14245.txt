@@ -1,0 +1,638 @@
+
+
+
+-----OFFICIAL INFORMATION DISPATCH FOLLOWS-----
+RTTUZYUW RHOIAAA0001 2902220-UUUU--RHSSSUU.
+ZNR UUUUU
+R 172213Z OCT 14
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 245/14
+
+SUBJ/COMMAND ADVANCEMENT PROGRAM UPDATE
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+REF/A/DOC/BUPERS/2NOV07//
+REF/B/DOC/OPNAV/5FEB09//
+REF/C/MSG/CNO WASHINGTON DC/152001Z/15MAY14//
+NARR/REF A IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.  REF B IS
+OPNAVINST 1430.4B, NAVY RECRUITER MERITORIOUS ADVANCEMENT PROGRAMS.
+REF C IS NAVADMIN 114/14, ADVANCEMENT POLICY UPDATE.//
+
+RMKS/1.  The Command Advancement Program (CAP) and the Navy
+Recruiter Meritorious Advancement Program (NRMAP) are intended to
+reward sustained superior performance, providing command triads
+further opportunities to advance their top Sailors.  The changes
+outlined in this NAVADMIN are based on Fleet feedback and are
+intended to strengthen these programs to ensure continued success
+and viability.
+
+2.  As part of our performance-based initiative and to better align
+the CAP with advancement cycles, the following changes have been
+made effective 1 October 2014 for active component (AC) and reserve
+component (RC) commands Navy-wide.
+    a.  An Annual CAP NAVADMIN will be released listing eligible
+command UICs and maximum quotas.  Quota limitations are outlined in
+reference (a).
+    b.  CAP Validation.
+        (1) Commands will forward their CAP certification letter
+(copy to ISIC) to Enlisted Career Administration/Enlisted Boards
+(PERS-81) with their CAP selects listed in accordance with
+reference (a).
+        (2)  PERS-81 will review the record(s) of the selected
+Sailor(s) and validate the CAP letter.  If there are no
+discrepancies PERS-81 will inform the command that the CAP quota(s)
+are executable.
+        (3)  If discrepancies are discovered, PERS-81 will
+invalidate the CAP letter and notify the command of the reason(s)
+for invalidation.  Commands would then be able to correct the
+discrepancy or identify new CAP candidates(s).
+    c.  Effective dates.  The effective date of validated CAP
+candidates will be as follows:  Time-in-rate (TIR):  1 July
+(of current year) rate-of-rate (DOR):  Date of CO*s signature on
+CAP certification letter between 1 July - 30 September
+(of current year).  CAPs will not be executed until the CO has
+received authorization from PERS-81 (DOR will be retroactive to the
+CO*s signature on CAP certification letter, but no earlier than
+1 July).  If operational commitments preclude a command from
+submitting their CAP certification prior to the deadline, the
+command shall forward the CAP certification letter with
+justification to their ISIC for endorsement and further processing
+through PERS-81.
+    d.  Pay, Personnel and Benefits Branch (PERS-2) will be the sole
+source to effect validated CAP advancements based on PERS-81*s
+validation.
+    e.  CAP Sailor*s Navy-wide advancement exam will be invalidated.
+    f.  COs may waive up to 12 months of the required TIR for E5
+Sailors who have received a promotion recommendation of
+*Early Promote* on the most recent observed periodic evaluation.
+    g.  All ratings/paygrades (E3-E5) are eligible for CAP.  Future
+CAP NAVADMINs may close ratings for CAP consideration due to the
+health of the community as directed by the Chief of Naval Personnel
+(CNP).
+
+3.  Revised CAP timeline.
+    a.  30 September 2014, current CAP policy outlined in
+reference (a), ended per reference (c).  In accordance with
+reference (c), commands were to submit their 2014 Annual CAP Report
+to PERS-81, in accordance with reference (a), NLT 15 October 2014.
+Quotas from the current CAP will not carry-over into the new CAP
+period.
+    b.  1 October 2014, CAP shifted from a calendar year program to
+a fiscal year (FY) program.
+    c.  The period of observance for FY-15 CAP began 1 October 2014
+and ends 30 September 2015.
+    d.  The FY-15 CAP season will commence 1 July 2015 and end
+30 September 2015.  This is the only time period commands can
+request and effect CAP advancements.
+    e.  All FY-15 CAP letters must be received by PERS-81 by the
+30 September 2015 deadline.  Any letters received after this
+deadline will be invalidated and the command will not be able to
+advance their Sailors unless delayed reporting is approved in
+accordance with paragraph 2c of this message.
+
+4.  Command CAP quotas.  The table below list AC and full time
+support commands, by UIC, authorized to utilize CAP along with their
+approved number of quotas.  Commands will not CAP beyond the
+maximum authorized quota limits per the table below.  Validation
+letters submitted will be invalidated for the following:
+    a.  Exceeding maximum authorized CAP quotas per table below.
+    b.  Exceeding maximum authorized E6 quotas per table below.
+    c.  Exceeding maximum authorized E5 quotas per table below.
+Commands are authorized to substitute E4 quotas for unused E5 or E6
+quotas.  E5 quotas may be substituted for unused E6 quotas.  For
+example, UIC 0381A is authorized a maximum of 4 CAPs total with a
+maximum of (1) E6 CAP and (2) E5 CAPs, with all remaining CAPs for
+E4s including those not used for E5 or E6.  No command will exceed
+their maximum authorized number of CAPs in the first column.
+UIC	 MAX 	 MAX 	 MAX	    UIC	    MAX   MAX 	  MAX
+	 Auth	 E6	 E5		   Auth	   E6	  E5
+00090	1	1	1	0107A	1	1	1
+01024	2	1	1	0116A	1	1	1
+0118A	1	1	1	0124A	1	1	1
+0130A	1	1	1	0131A	1	1	1
+0132A	1	1	1	0135A	1	1	1
+0172A	1	1	1	03365	5	1	2
+03368	29	2	6	03369	30	2	6
+0381A	4	1	2	05840	6	1	2
+07207	4	1	2	0763A	9	2	2
+08321	5	1	2	08842	2	1	1
+08943	2	1	2	08971	2	1	2
+08973	2	1	2	08988	2	1	2
+09015	3	1	2	09032	2	1	2
+09053	3	1	2	09061	3	1	2
+09063	2	1	2	09070	2	1	2
+09076	2	1	2	09084	3	1	2
+09086	3	1	2	09092	3	1	2
+09113	3	1	2	09131	1	1	1
+09162	2	1	2	09163	3	1	2
+09164	3	1	2	09167	1	1	1
+09172	2	1	2	09199	2	1	2
+09200	2	1	2	09205	3	1	2
+09209	3	1	2	09221	3	1	2
+09223	2	1	2	09229	3	1	2
+09244	3	1	2	09261	1	1	1
+09281	3	1	2	09289	2	1	2
+09295	3	1	2	09324	2	1	2
+09364	2	1	2	09372	3	1	2
+09458	2	1	2	09459	2	1	2
+09463	2	1	2	09465	2	1	2
+09467	2	1	2	09473	3	1	2
+09477	2	1	2	09478	2	1	2
+09488	3	1	2	09526	2	1	2
+09558	2	1	2	09560	3	1	2
+09561	3	1	2	09569	1	1	1
+09600	3	1	2	09604	3	1	2
+09610	3	1	2	09615	2	1	2
+09618	3	1	2	09623	3	1	2
+09630	2	1	2	09632	3	1	2
+09637	2	1	2	09639	2	1	2
+09644	3	1	2	09661	3	1	2
+09665	3	1	2	09674	3	1	2
+09678	3	1	2	09706	3	1	2
+09717	3	1	2	09718	3	1	2
+09721	1	1	1	09722	1	1	1
+09723	2	1	1	09731	1	1	1
+09732	1	1	1	09733	1	1	1
+09734	1	1	1	09736	1	1	1
+09738	1	1	1	09742	1	1	1
+09745	1	1	1	09748	1	1	1
+09774	3	1	2	09807	2	1	1
+09812	2	1	1	09815	1	1	1
+09846	2	1	2	09848	3	1	2
+09855	3	1	2	09884	3	1	2
+09886	3	1	2	09922	2	1	2
+09930	5	1	2	09934	3	1	2
+09943	2	1	2	09950	3	1	2
+09951	3	1	2	09954	2	1	2
+09963	2	1	2	09969	2	1	2
+09970	2	1	2	09971	2	1	2
+09973	2	1	2	09985	2	1	2
+09988	3	1	2	09989	2	1	2
+09996	2	1	2	20001	2	1	2
+20002	2	1	2	20010	2	1	2
+20034	2	1	2	20037	2	1	2
+20038	2	1	2	20079	2	1	2
+20080	2	1	2	20103	10	1	2
+20121	2	1	2	20181	2	1	2
+20182	2	1	2	20635	2	1	2
+20811	2	1	2	20825	2	1	2
+20826	2	1	2	20832	2	1	2
+20865	2	1	2	20882	2	1	2
+20887	2	1	2	20993	30	2	6
+20994	2	1	2	20996	2	1	2
+21001	2	1	2	21024	2	1	2
+21029	2	1	2	21030	2	1	2
+21100	2	1	2	21101	2	1	2
+21102	2	1	2	21218	3	1	2
+21247	30	2	6	21297	27	2	6
+21302	2	1	2	21312	2	1	2
+21313	3	1	2	21345	4	1	2
+21346	4	1	2	21367	2	1	2
+21387	4	1	2	21388	4	1	2
+21389	4	1	2	21400	3	1	2
+21404	2	1	1	21411	2	1	2
+21412	31	2	6	21413	2	1	2
+21422	3	1	2	21427	2	1	1
+21428	4	1	2	21429	4	1	2
+21447	4	1	2	21449	4	1	2
+21450	4	1	2	21451	4	1	2
+21452	3	1	2	21453	2	1	1
+21454	2	1	1	21456	2	1	1
+21457	2	1	1	21462	2	1	2
+21463	2	1	2	21464	2	1	2
+21465	2	1	2	21466	2	1	2
+21487	3	1	2	21530	3	1	2
+21531	3	1	2	21533	11	2	4
+21560	11	2	4	21562	3	1	2
+21605	2	1	2	21623	4	1	2
+21624	4	1	2	21625	4	1	2
+21639	3	1	2	21640	3	1	2
+21656	4	1	2	21657	4	1	2
+21658	4	1	2	21660	3	1	2
+21684	4	1	2	21685	3	1	2
+21686	3	1	2	21687	3	1	2
+21690	2	1	2	21691	2	1	2
+21692	2	1	2	21693	2	1	2
+21700	11	2	4	21761	2	1	2
+21762	2	1	2	21763	2	1	2
+21764	2	1	2	21806	2	1	2
+21807	2	1	2	21808	11	2	4
+21816	2	1	2	21817	2	1	2
+21820	3	1	2	21821	3	1	2
+21822	3	1	2	21823	3	1	2
+21824	3	1	2	21825	3	1	2
+21827	4	1	2	21828	4	1	2
+21829	4	1	2	21830	4	1	2
+21831	2	1	2	21832	2	1	2
+21833	3	1	2	21834	2	1	2
+21847	30	2	6	21852	4	1	2
+21853	30	2	6	21859	2	1	2
+21879	11	2	4	21880	4	1	2
+21901	2	1	1	21902	2	1	1
+21923	3	1	2	21925	1	1	1
+21926	1	1	1	21927	1	1	1
+21928	1	1	1	21929	1	1	1
+21931	1	1	1	21932	1	1	1
+21940	3	1	2	21941	3	1	2
+21942	3	1	2	21943	3	1	2
+21944	3	1	2	21945	3	1	2
+21946	3	1	2	21947	3	1	2
+21948	3	1	2	21949	3	1	2
+21950	3	1	2	21951	3	1	2
+21952	3	1	2	21953	3	1	2
+21954	3	1	2	21955	3	1	2
+21956	3	1	2	21958	4	1	2
+21959	4	1	2	22143	1	1	1
+22144	1	1	1	22145	1	1	1
+22146	1	1	1	22147	1	1	1
+22178	30	2	6	22202	11	2	4
+22992	3	1	2	22993	3	1	2
+22994	3	1	2	22995	3	1	2
+22996	3	1	2	22997	3	1	2
+22999	3	1	2	23013	2	1	2
+23027	11	2	4	23028	2	1	2
+23145	3	1	2	23146	3	1	2
+23147	3	1	2	23148	3	1	2
+23149	3	1	2	23150	3	1	2
+23151	3	1	2	23152	3	1	2
+23153	3	1	2	23154	3	1	2
+23155	3	1	2	23156	1	1	1
+23159	2	1	2	23160	3	1	2
+23161	3	1	2	23162	3	1	2
+23163	3	1	2	23164	3	1	2
+23165	3	1	2	23166	3	1	2
+23168	4	1	2	23170	30	2	6
+23171	10	1	2	23172	2	1	2
+23180	4	1	2 	23181	4	1	2
+23182	2	1	2	23183	2	1	2
+23189	2	1	2	23190	2	1	2
+27150	2	1	2	27151	1	1	1
+27152	1	1	1	30002	2	1	2
+30041	1	1	1	3012A	4	1	2
+3013A	4	1	2	3014A	4	1	2
+3015A	4	1	2	3016A	1	1	1
+30121	2	1	1	30180	1	1	1
+30215	2	1	2	30250	1	1	1
+30265	1	1	1	30579	2	1	1
+30665	1	1	1	30667	1	1	1
+30671	5	1	2	30682	1	1	1
+30929	2	1	2	3107B	1	1	1
+3109A	2	1	1	31053	1	1	1
+31055	1	1	1	31179	2	1	1
+3131A	1	1	1	31625	1	1	1
+31778	1	1	1	31831	1	1	1
+31937	1	1	1	31947	1	1	1
+31948	1	1	1	31950	1	1	1
+31952	1	1	1	31960	1	1	1
+31968	2	1	2	3218A	2	1	1
+32211	1	1	1	32219	3	1	2
+32232	1	1	1	32242	1	1	1
+3226B	1	1	1	32275	1	1	1
+3234A	1	1	1	32374	1	1	1
+32389	1	1	1	32421	4	1	2
+32686	1	1	1	32688	1	1	1
+32689	1	1	1	32818	1	1	1
+32902	1	1	1	32998	1	1	1
+32999	1	1	1	3349A	5	1	2
+3371B	5	1	2	34122	1	1	1
+34123	1	1	1	3456B	1	1	1
+34645	1	1	1	3479B	1	1	1
+3480B	2	1	1	3521B	3	1	2
+3541B	1	1	1	35431	1	1	1
+35450	1	1	1	35456	1	1	1
+35477	1	1	1	35624	5	1	2
+3583A	1	1	1	35947	2	1	1
+35953	2	1	2	35954	2	1	2
+35955	2	1	2	35956	2	1	2
+35957	2	1	2	35958	2	1	2
+35959	2	1	2	35960	2	1	2
+3656A	1	1	1	36561	1	1	1
+3695A	1	1	1	3712A	1	1	1
+3743A	1	1	1	3744A	1	1	1
+3746A	2	1	1	3811A	1	1	1
+38325	1	1	1	3824A	1	1	1
+3825A	2	1	1	3826A	2	1	1
+39324	1	1	1	39355	2	1	2
+39356	2	1	2	39491	1	1	1
+39501	1	1	1	39570	1	1	1
+39571	1	1	1	39575	1	1	1
+39579	1	1	1	39580	1	1	1
+39586	4	1	2	39588	4	1	2
+39589	2	1	2	39590	2	1	2
+39591	2	1	2	39592	2	1	2
+39593	1	1	1	39594	1	1	1
+39789	1	1	1	39791	1	1	1
+39793	1	1	1	39795	1	1	1
+39803	1	1	1	39846	1	1	1
+39900	2	1	2	39901	2	1	1
+39966	2	1	1	39969	1	1	1
+40058	1	1	1	40075	3	1	2
+40159	2	1	1	40160	2	1	1
+40167	2	1	1	40171	2	1	1
+40172	2	1	1	40278	2	1	1
+40298	2	1	1	40366	1	1	1
+40378	1	1	1	40382	2	1	1
+40384	1	1	1	40385	2	1	2
+40386	2	1	1	40400	1	1	1
+40408	1	1	1	40420	1	1	1
+40458	2	1	1	40459	2	1	1
+40460	2	1	1	40461	2	1	1
+40494	1	1	1	40495	1	1	1
+40504	2	1	1	40511	1	1	1
+40512	1	1	1	40513	1	1	1
+40514	1	1	1	40522	1	1	1
+40526	1	1	1	40549	1	1	1
+40550	1	1	1	40551	1	1	1
+40560	1	1	1	40623	2	1	1
+40671	4	1	2	4068A	2	1	2
+41047	1	1	1	41052	1	1	1
+41055	1	1	1	41057	1	1	1
+41058	1	1	1	41063	1	1	1
+41064	1	1	1	41065	1	1	1
+41083	1	1	1	41087	1	1	1
+41342	1	1	1	41411	1	1	1
+41580	2	1	2	41581	2	1	2
+41627	1	1	1	41628	1	1	1
+41629	1	1	1	41649	1	1	1
+41654	1	1	1	41718	2	1	2
+41915	1	1	1	41975	1	1	1
+41979	1	1	1	42043	2	1	2
+42065	4	1	2	42221	3	1	2
+42255	2	1	2	42256	2	1	2
+42270	2	1	2	42298	1	1	1
+42300	3	1	2	42320	1	1	1
+42412	3	1	2	42415	3	1	2
+42459	2	1	1	42545	1	1	1
+42685	1	1	1	42687	1	1	1
+42688	1	1	1	42689	1	1	1
+42690	1	1	1	42692	1	1	1
+42693	1	1	1	42694	1	1	1
+42696	1	1	1	42697	1	1	1
+42716	1	1	1	42838	2	1	2
+42914	1	1	1	42916	1	1	1
+4312A	1	1	1	4323A	1	1	1
+4348A	1	1	1	4350A	1	1	1
+4352A	1	1	1	4353A	1	1	1
+4354A	1	1	1	43457	2	1	2
+43504	2	1	1	43542	1	1	1
+43665	1	1	1	43670	1	1	1
+43707	1	1	1	43743	2	1	1
+4395A	1	1	1	43973	2	1	1
+44275	1	1	1	44392	3	1	2
+44422	2	1	2	44423	2	1	2
+44564	1	1	1	44565	1	1	1
+44573	1	1	1	44575	1	1	1
+44577	1	1	1	44578	1	1	1
+44594	1	1	1	44640	1	1	1
+44884	2	1	2	44902	1	1	1
+44920	1	1	1	44921	1	1	1
+44923	1	1	1	44924	1	1	1
+44925	1	1	1	44939	1	1	1
+44941	1	1	1	45069	1	1	1
+45087	1	1	1	4509A	2	1	1
+45193	1	1	1	45228	2	1	2
+45229	2	1	2	45230	2	1	2
+45231	2	1	2	45232	2	1	2
+45233	2	1	2	45234	2	1	2
+45235	2	1	2	45242	1	1	1
+45254	1	1	1	45255	9	1	2
+45411	2	1	2	45472	4	1	2
+45592	2	1	2	45670	2	1	2
+45671	2	1	2	45675	1	1	1
+45702	1	1	1	45940	1	1	1
+46025	1	1	1	46078	1	1	1
+46079	1	1	1	4608A	6	1	2
+4617A	1	1	1	46272	1	1	1
+46404	1	1	1	46501	1	1	1
+46612	1	1	1	46622	1	1	1
+46623	2	1	1	46731	1	1	1
+46836	1	1	1	46962	2	1	1
+46963	2	1	2	46964	3	1	2
+46965	1	1	1	46966	2	1	1
+46967	2	1	2	46968	1	1	1
+46985	2	1	2	46987	1	1	1
+46989	1	1	1	46990	1	1	1
+47057	1	1	1	47114	1	1	1
+47118	1	1	1	47125	1	1	1
+47128	1	1	1	47301	1	1	1
+47367	1	1	1	47368	1	1	1
+47418	1	1	1	47419	1	1	1
+47420	1	1	1	47421	1	1	1
+47438	1	1	1	47499	1	1	1
+47516	1	1	1	47673	1	1	1
+47677	1	1	1	47681	2	1	1
+47684	1	1	1	47685	1	1	1
+47790	1	1	1	47868	1	1	1
+47889	1	1	1	47898	8	1	2
+47911	1	1	1	48086	1	1	1
+48087	1	1	1	48094	1	1	1
+48139	2	1	2	48517	1	1	1
+48547	1	1	1	48549	1	1	1
+48550	2	1	2	48566	3	1	2
+48569	3	1	2	48579	3	1	2
+48581	2	1	2	48582	2	1	2
+48583	2	1	2	48584	2	1	2
+48585	2	1	2	48586	2	1	2
+48765	1	1	1 	49136	1	1	1
+49342	1	1	1	49343	1	1	1
+49388	1	1	1	49423	1	1	1
+49660	3	1	2	49770	1	1	1
+49974	1	1	1	49978	1	1	1
+50076	1	1	1	50106	1	1	1
+50107	1	1	1	50126	2	1	2
+50152	1	1	1	50167	1	1	1
+50168	1	1	1	50204	1	1	1
+50205	1	1	1	50206	1	1	1
+50207	1	1	1	50208	1	1	1
+50209	1	1	1	50232	1	1	1
+50285	1	1	1	50444	1	1	1
+50452	1	1	1	50454	1	1	1
+50455	1	1	1	50457	1	1	1
+50458	1	1	1	50461	2	1	1
+50471	1	1	1	50518	1	1	1
+51595	1	1	1	51601	1	1	1
+51602	1	1	1	51603	1	1	1
+51604	1	1	1	51605	1	1	1
+52450	2	1	1	52451	2	1	1
+52739	1	1	1	52811	1	1	1
+52839	1	1	1	52841	1	1	1
+52861	1	1	1	52876	3	1	2
+52895	2	1	2	52947	2	1	2
+52961	4	1	2	53150	1	1	1
+53210	3	1	2	53211	2	1	2
+53212	1	1	1	53511	1	1	1
+53806	2	1	2	53807	2	1	2
+53808	2	1	1	53811	2	1	2
+53815	3	1	2	53827	5	1	2
+53855	2	1	2	53856	2	1	2
+53870	2	1	2	53889	1	1	1
+53910	2	1	1	53911	2	1	1
+53915	3	1	2	53921	2	1	1
+53991	1	1	1	55101	6	1	2
+55103	6	1	2	55114	6	1	2
+55115	6	1	2	55132	3	1	2
+55134	2	1	1	55135	2	1	1
+55140	2	1	2	55141	3	1	2
+55142	3	1	2	55145	3	1	2
+55146	3	1	2	55147	3	1	2
+55149	3	1	2	55150	3	1	2
+55151	3	1	2	55152	3	1	2
+55154	4	1	2	55201	6	1	2
+55205	2	1	1	55207	2	1	1
+55208	1	1	1	55210	1	1	1
+55211	2	1	1	55217	1	1	1
+55218	3	1	2	55238	2	1	1
+55269	1	1	1	55281	1	1	1
+55297	1	1	1	55301	1	1	1
+55308	1	1	1	55321	1	1	1
+55322	1	1	1	55333	1	1	1
+55336	1	1	1	55337	1	1	1
+55338	1	1	1	55352	1	1	1
+55353	1	1	1	55447	2	1	1
+55451	6	1	2	55455	1	1	1
+55457	2	1	2	55466	1	1	1
+55468	1	1	1	55477	1	1	1
+55528	1	1	1	55540	1	1	1
+55542	2	1	1	55568	2	1	2
+55569	2	1	1	55597	2	1	2
+55598	2	1	1	55617	2	1	2
+55619	1	1	1	55620	1	1	1
+55621	2	1	1	55622	1	1	1
+55623	1	1	1	55637	1	1	1
+55645	1	1	1	55684	3	1	2
+55685	3	1	2	55686	3	1	2
+55687	3	1	2	55688	3	1	2
+55699	1	1	1	55700	1	1	1
+55701	1	1	1	55725	1	1	1
+55771	1	1	1	55775	1	1	1
+55777	2	1	2	55778	2	1	2
+55780	1	1	1	55813	1	1	1
+55823	1	1	1	55834	1	1	1
+55854	1	1	1	55886	1	1	1
+55887	2	1	2	55889	1	1	1
+57024	3	1	2	57042	1	1	1
+57078	2	1	1	57079	2	1	1
+57080	1	1	1	57098	1	1	1
+57106	1	1	1	57107	2	1	1
+57108	1	1	1	58128	2	1	1
+58129	2	1	1	58587	2	1	2
+58588	2	1	2	58892	1	1	1
+60007	1	1	1	60051	1	1	1
+60053	1	1	1	60054	1	1	1
+60268	8	8	8 Note 1	60485	25	2	6
+60503	2	1	1	60505	2	1	1
+62307	1	1	1	62410	6	6	6 Note 1
+62411	1	1	1	62416	9	9	9 Note 1
+62419	8	8	8 Note 1	62425	7	7	7 Note 1
+62429	6	6	6 Note 1	62430	8	8	8 Note 1
+62431	8	8	8 Note 1	62437	8	8	8 Note 1
+62435	7	7	7 Note 1	62438	6	6	6 Note 1
+62439	9	9	9 Note 1	62422	7	7	7 Note 1
+62441	9	9	9 Note 1	62442	7	7	7 Note 1
+62443	6	6	6 Note 1	62444	5	5	5 Note 1
+62445	7	7	7 Note 1	62446	6	6	6 Note 1
+62447	8	8	8 Note 1	62448	9	9	9 Note 1
+62449	6	6	6 Note 1	62958	1	1	1
+62959	1	1	1	62960	1	1	1
+62961	1	1	1	62962	1	1	1
+62963	1	1	1	62964	1	1	1
+62965	1	1	1	62966	1	1	1
+62967	1	1	1	63047	1	1	1
+63122	1	1	1	63911	1	1	1
+63922	2	1	2	63923	2	1	2
+63925	3	1	2	63934	2	1	2
+64495	1	1	1	65117	1	1	1
+65183	3	1	2	65185	3	1	2
+65275	1	1	1	65375	1	1	1
+65456	1	1	1	65871	1	1	1
+65902	1	1	1	66190	1	1	1
+66715	9	9	9	66756	1	1	1
+66772	1	1	1	66777	1	1	1
+66846	1	1	1	66972	8	8	8 Note 1
+67002	1	1	1	67102	1	1	1
+67360	2	1	1	67366	1	1	1
+67371	3	1	2	67372	3	1	2
+67373	3	1	2	67374	3	1	2
+67375	3	1	2	67376	3	1	2
+67408	1	1	1	67436	2	1	2
+67446	2	1	2	67448	3	1	2
+67596	7	7	7 Note 1	67562	1	1	1
+67677	1	1	1	67698	1	1	1
+67699	1	1	1	67837	1	1	1
+67853	1	1	1	67857	1	1	1
+67858	1	1	1	67859	1	1	1
+67867	1	1	1	67906	1	1	1
+67907	1	1	1	67910	1	1	1
+67911	1	1	1	67912	1	1	1
+67913	1	1	1	67930	1	1	1
+68011	8	8	8 Note 1	68283	1	1	1
+68288	1	1	1	68401	9	9	9 Note 1
+68406	1	1	1	68407	1	1	1
+68408	2	1	2	68743	2	1	1
+68757	1	1	1	69012	1	1	1
+69326	1	1	1	69335	1	1	1
+69336	1	1	1	69337	1	1	1
+69338	1	1	1	69339	1	1	1
+69340	1	1	1	69983	1	1	1
+80035	1	1	1	80040	1	1	1
+81125	1	1	1	81203	1	1	1
+82215	1	1	1	82216	1	1	1
+82218	1	1	1	82219	1	1	1
+82630	2	1	2	89653	1	1	1
+89654	1	1	1	89655	1	1	1
+T1120	2	1	1
+
+    Note 1.  These UICs are authorized to utilize one CAP quota for
+a reserve Sailor filling a canvasser recruiter (CANREC) billet
+provided the total authorized quotas are not exceeded.
+
+5.  Type 2 or 4 commands not listed above must submit a request for
+quota determination via their ISIC to PERS-81 prior to the
+30 September 2015 deadline in order to ensure there is sufficient
+time for adjudication and if approved, a subsequent CAP submission.
+
+6.  SELRES CAP.  For FY-15, there will be a CAP moratorium for the
+SELRES due to strength reductions and changes in force structure
+resulting in multiple over-manned rates.  This has negatively
+impacted advancement opportunity resulting in enlisted community
+health challenges.
+
+7.  Advancement Manual.  Reference (a) is expected to be updated and
+released prior to the end of CY-14 and will include the revised CAP
+policy in detail.  Command leadership is responsible for ensuring
+all Sailors, Educational Services Officers, and Command Career
+Counselors are made aware of these updates.
+
+8.  Director, Military Personnel Plans and Policy (N13) is the
+determining authority for CAP; any deviations from this new policy
+or request for exceptions to policy will be submitted to OPNAV N13
+through PERS-81.
+
+9.  Points of contact:
+    a.  Navy Personnel Command Customer Service Center (NPC CSC),
+at 1-866-u-ask-npc (1-866-827-5672) or via e-mail at
+uasknpc(at)navy.mil.
+    b.  General examination questions, e-mail
+sfly_exam_questions(at)navy.mil.
+    c.  General advancement questions, e-mail
+sfly_navy_advancement(at)navy.mil or 850-473-6148, DSN 753.
+
+10.  Additional information on changes to reference (a), and
+frequently asked questions may also be found at
+http://www.public.navy.mil/bupers-npc/career/enlistedcareeradmin.
+
+11.  This NAVADMIN will remain in effect until reference (a) has
+been revised in its entirety.
+
+12.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

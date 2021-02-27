@@ -1,0 +1,225 @@
+UNCLASSIFIED//
+ROUTINE
+R 101338Z MAY 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 108/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/UNIVERSAL TRAINING PRECAUTIONS TO REDUCE THE RISK OF EXERCISE- RELATED 
+COLLAPSE AND DEATH//
+
+REF/A/DOC/OPNAV/11JUL11//
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.//
+
+RMKS/1.  This NAVADMIN alerts all personnel of the importance of universal 
+training precautions (UTP) to reduce the risk of exercise- related collapse 
+and death and directs modifications to reference (a), the procedures for 
+conducting the Navy Physical Readiness Test (PRT).  Tragically, in the past 
+year, four Sailors have passed away during seemingly normal physical fitness 
+exercise.  One loss is too many and it is critical that every Sailor 
+understands the risk factors for exercise-related death and the strategies to 
+minimize those risks.  Commanders and key leadership personnel, including 
+Command Fitness Leaders (CFL), must foster an exercise culture that promotes 
+these UTPs, recognizes the early signs of distress and permits prompt 
+termination of exertional activity when clear signs of distress are present.
+
+2.  Risk factors associated with exercise-related collapse and death can be 
+personal, environmental or external.  Personal risk factors include lack of 
+appropriate environmental or exercise acclimatization, dehydration, recent or 
+current illness, accumulated fatigue, poor baseline conditioning, a 
+predisposing or underlying cardiac condition, exercise-induced asthma, sickle 
+cell trait (SCT), excess body fat (BMI > 30) and prior poor PRT performance.
+Excessive motivation, is equally important to recognize as a risk factor, as 
+an individual can push to work hard, while ignoring the onset of physical 
+signs and symptoms of distress.  Environmental or external risk factors 
+include:  exercise at altitude, high ambient temperature and humidity and 
+dietary supplements containing stimulants to include thermogenic and energy 
+shots or drinks.
+
+3.  It is critically important to recognize an emergency during training 
+evolutions, with a timely and accurate response.  Some syndromes can result 
+in rapid collapse while others may slowly evolve to an initial conscious 
+collapse.  Understanding the syndromes that can lead to exercise-related 
+collapse can assist in guiding treatment.
+    a.  Sudden Cardiac Arrest (SCA).  SCA from cardiovascular collapse is 
+generally abrupt with an immediate loss of consciousness, sometimes with 
+brief seizure-like movements.  After confirming a lack of responsiveness and 
+absence of a pulse, it is critical to begin high-quality cardiopulmonary 
+resuscitation (CPR), deploy an Automated Electronic Defibrillator (AED) and 
+activate Emergency Medical Services (EMS).
+    b.  Exertional Collapse Associated with SCT (ECAST).  An ECAST victim may 
+have been a front runner, or off to a strong start, but will be noted 
+somewhere before the collapse as slowing down, falling behind and struggling.  
+They begin to lose smooth coordination, they evolve into an awkward running 
+posture and gait, with legs that may look wooden or wobbly.  The victim may 
+complain of progressive weakness, pain, cramping or shortness of breath.  
+Distinct from the cramping of exercise associated muscle cramping, in ECAST, 
+there is generally no visible muscle twitching and the muscles do not "lock 
+up."  The pain of muscle cramping is generally excruciating, whereas the 
+predominate symptom of ECAST is weakness over pain.  The ECAST victim will 
+initially be mentally clear, before the onset of confusion and loss of 
+consciousness.
+    c.  Exertional Heat Stroke.  Heat stroke can have a similar progression 
+to ECAST, but the hallmark that defines heat stroke is not only an elevated 
+temperature, but an altered mental status.
+    d.  Continued exertional effort in both ECAST and heat stroke will 
+eventually lead to collapse, that in the absence of prompt intervention can 
+be life threatening.
+
+4.  All personnel present during a training evolution or PRT can encourage 
+good performance, but should also be on guard for signs that a participant is 
+struggling and be ready to terminate the evolution.  The Navys PRT portion of 
+the Physical Fitness Assessment (PFA) is intended as a measure of long-term 
+health and wellness  not of individual athletic prowess.  No one should risk 
+their life by pushing through life-threatening conditions during a PRT.  At 
+the first sign of distress, conduct an initial evaluation on the participant 
+and determine whether to call EMS for rapid transport to a capable medical 
+facility.  Service Members who report signs of distress described above shall 
+seek immediate medical attention and must be evaluated by a medical provider 
+prior to returning to exercise.
+
+5.  Effective immediately, commanding officers (CO) and officers-in- charge 
+(OIC) are encouraged to exercise a liberal Bad Day makeup PRT policy for 
+those impacted by any signs of distress, and allow the individual to 
+prioritize health safety over a score by authorizing a Bad Day makeup PRT 
+prior to failing or completing the event.  In line with reference (a) 
+enclosure (2), the following guidelines pertain to Sailors who:
+    a.  Do not complete any portion of the PRT, fail or demonstrate any early 
+signs of exercise distress.  These Sailors are authorized, at CO or OIC 
+discretion, a Bad Day makeup PRT and are required to be screened by medical.  
+Sailors must be cleared by medical to participate in the Bad Day makeup PRT.
+    b.  Are medically cleared. They must conduct the Bad Day makeup PRT 
+within 7 days from medical clearance, within 45 days of the BCA date and 
+within the current Navy PFA cycle.
+    c.  Participate, but do not complete the Bad Day makeup PRT.
+They must be screened by medical again, and if medically cleared (no medical 
+waiver), the Sailor will receive a failure for the PRT and will be enrolled 
+in Fitness Enhancement Program (FEP).
+    d.  Participate in the Bad Day makeup PRT.  They will have only their 
+final PRT scores entered in PRIMS.  CFLs are no longer required to enter 
+initial PRT scores in PRIMS (e.g., 59:59) for Bad Day makeup PRT 
+participation.
+
+6.  The following UTP must be applied to all fitness tests or other training 
+evolutions that are expected to require at least moderate exertion (heavy 
+breathing but able to talk in full sentences, sweating within a few minutes 
+of start):
+    a.  Allow acclimatization, outside of the new accession training 
+environment, giving 2 to 4 weeks, to adapt to a warmer environment or higher 
+altitude.  The wet bulb globe temperature (WGBT) is the gold standard to 
+measure environmental heat stress at
+https://www.hprc-online.org/articles/wet-bulb-globe-temperature-
+devices-measure-heat-stress.  Commands may rely on heat stress meters to 
+provide WBGT information when available.
+    b.  Ensure progressive and graduated increases in exercise duration and 
+intensity to the greatest extent possible in the training environment.
+    c.  Adhere to current guidelines for hydration, promote water consumption 
+when thirsty and to maintain clear or light-yellow urine color as described 
+at https://www.hprc- online.org/articles/hydration-basics.
+    d.  Follow DoD guidelines for rest-work cycles as described at
+https://home.army.mil/lee/application/files/3615/3808/9560/H20-
+Consumption-Table.pdf.
+    e.  Prior to and during exercise, avoid stimulants, alcohol, energy shots 
+or drinks, antihistamines, diuretics, pre-workout products, weight loss and 
+performance enhancing supplements.
+    f.  After PFA testing, participants should be observed for no less than 
+10 minutes post exertion, during an active cool down period.
+    g.  At the early signs of distress, provide prompt medical attention, and 
+when deemed necessary, transfer to an appropriate level of medical care.
+
+7.  Our Sailors are expected to maintain a high level of fitness, as part of 
+military readiness.  Failure to do so puts the individual and unit at risk.  
+We must all embrace this culture of fitness while still safely applying UTP.  
+To minimize the risk of injury, we should all limit our activity to light 
+exercise the day before a graded event.  If a Sailor reports poor 
+conditioning before an event with high exertion, efforts should be made to 
+provide time to acclimate to an appropriate level of exercise before the 
+evolution.
+A meaningful FEP, as outlined in reference (a), using the recommended spot 
+checks, is intended to do this.
+
+8.  All personnel with SCT should review the video in para 13 below.
+SCT is common, present in 1 per 10-12 African Americans, 1 per 183 
+Hispanic/Latinos and 1 per 625 Caucasians.  Because SCT disproportionately 
+affects African Americans, any African American who does not know their 
+sickle cell status should engage with medical to determine their status and 
+understand the risk.
+
+9.  To ensure safe conduct of physical training:
+    a.  All CFLs, first responders, corpsmen, recruit division commanders and 
+supervisors should watch the first responder videos listed in para 13 below.  
+CFLs must understand the predisposing conditions that are risk factors for 
+exercise-related injuries.
+    b.  All medical treatment facility providers should watch the provider 
+video listed in para 13 below.
+    c.  All PRT evolutions shall be monitored by personnel trained in CPR.
+    d.  All training evolutions (e.g., command physical training, FEP, Sailor 
+360, etc) involving at least moderate exercise shall occur within the 
+Emergency Medical Service (base or 911) response area of an ambulance 
+equipped with a defibrillator, oxygen and hydration.
+    e.  Activities conducting high-risk training involving physical exertion 
+shall incorporate SCA, ECAST and heat stroke signs, symptoms, prevention and 
+response protocol, including UTP, into Core Unique Instructor Training and 
+instructor sustainment programs.
+
+10.  ECAST Treatment.  Though formal treatment guidelines have not been 
+developed, National Collegiate Athletic Association (NCAA) and National 
+Athletic Training Association (NATA) recommend the
+following:
+    a.  Removal from activity upon demonstration of distress
+    b.  Administer high flow oxygen
+    c.  Transport to an emergency department in an EMS vehicle (ideally 
+Advanced Life Support capable) with emergency communication to alert 
+providers about the potential of a profound metabolic collapse event.
+
+11.  Return to training.  Medical providers should follow evidence- based 
+guidelines that exist for rhabdomyolysis and exertional heat injury.  
+Currently, there are no guidelines for SCT-related injury.
+Generally, the following criteria must be met:  the individual should have no 
+symptoms (muscle ache, fatigue, etc) normal organ function as measured by 
+laboratory markers, and a review by a medical professional to include 
+counseling on progressive return to exercise and application of the UTP.
+
+12.  Reference (a) and CFL training will be updated to incorporate these risk 
+factors and outline procedures for preparation, intervention and return to 
+exercise.  In the interim, and until the Physical Activity Risk Factor 
+Questionnaire can also be updated, CFLs must add SCT as a risk factor to ask 
+PRT participants about prior to beginning each PRT.
+
+13.  Videos and other training resources are available on the Uniformed 
+Services Universitys Consortium for Health and Military Performance (CHAMP) 
+website.
+    a.  Videos for the warfighter with SCT, first responders, and sickle cell 
+awareness for medical personnel can be found at https://www.hprc-
+online.org/articles/sickle-cell-trait-awareness.
+    b.  Guidance on heat injury prevention and treatment can be found at 
+https://www.hprc-online.org/articles/heat-illness-
+prevention-treatment-and-recovery.
+    c.  Guidance on supplements are available through the Department of 
+Defense Dietary Supplement Resource https://www.opss.org.
+
+14.  Points of contact:
+    a.  OPNAV N17 Policy:  AMCS Eric Anderson, (901)874-2210 or via e-mail at 
+eric.anderson(at)navy.mil.
+    b.  BUMED:  CAPT Marc Franzos, (703) 681-9085 or via email at 
+marc.a.franzos.mil(at)mail.mil
+
+15.  This message was developed in coordination with the Surgeon General of 
+the Navy, Vice Admiral F. Faison and Bureau of Medicine and Surgery Staff.
+
+16.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

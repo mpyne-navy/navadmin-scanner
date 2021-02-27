@@ -1,0 +1,160 @@
+RTTUZYUW RUEWMCS0000 2171314-UUUU--RUCRNAD.
+ZNR UUUUU
+R 051314Z AUG 13
+FM CNO WASHINGTON DC//
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 194/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUL//
+
+SUBJ/2013-2014 NAVY INFLUENZA VACCINATION AND REPORTING POLICY//
+
+REF/A/DOC/ASD(HA)/21JUN2013//
+REF/B/DOC/CNO/18SEP2009//
+REF/C/DOC/CNO/22JUL2005// 
+REF/D/MEMO/ASD(HA)/04APR2008//
+REF/E/DOC/32 CFR PART 199/10DEC2009//
+NARR/REF A IS ASSISTANT SECRETARY OF DEFENSE (HEALTH AFFAIRS)
+(ASD(HA)) GUIDANCE FOR THE USE OF INFLUENZA VACCINE FOR THE
+2013-2014 INFLUENZA SEASON. REF B IS OPNAVINST 3500.41,
+PANDEMIC INFLUENZA (PI) POLICY. REF C IS OPNAVINST 3440.17,
+NAVY INSTALLATION EMERGENCY MANAGEMENT PROGRAM. REF D IS
+ASSSISTANT SECRETARY OF DEFENSE FOR HEALTH AFFAIRS MEMO,
+MANDATING DEPARTMENT OF DEFENSE (DOD) CIVILIAN HEALTHCARE
+WORKER INFLUENZA IMMUNIZATIONS. REF E IS 32 CFR PART 199.21,
+CIVILIAN HEALTH AND MEDICAL PROGRAM OF THE UNIFORMED SERVICES
+(CHAMPUS)/TRICARE: INCLUSION OF RETAIL NETWORK PHARMACIES AS
+AUTHORIZED TRICARE PROVIDERS FOR THE ADMINISTRATION OF
+TRICARE COVERED VACCINES.//
+POC/LCDR PATRICIA SKINNER/LOC: WASH DC/(703)571-2952/EMAIL:
+PATRICIA.SKINNER(AT)NAVY.MIL//
+
+Rmks/1. Influenza or "flu" has the potential to adversely
+impact Navy force readiness and mission execution. Influenza
+results in more than 25 million reported cases, 150,000
+hospitalizations for serious complications and approximately
+24,000 deaths each year in the United States.
+
+2. The following influenza vaccination and reporting policy
+is promulgated: 
+A. Influenza Prevention. Vaccination is the primary method
+to reduce risk of influenza by enhancing force immunity.
+Maintaining a clean work environment, good hygiene practices,
+and managing workforce exposure (e.g., social distancing,
+tele-working, sick leave, etc.) are effective methods to
+reduce the risk of spreading influenza.
+B. Influenza Vaccine. Both injectable and intranasal
+vaccines will be available for the 2013-2014 influenza seasons.
+C. Influenza Vaccine Priority. Defense Logistics Agency (DLA)
+acknowledges that Navy ships are part of vaccine priority
+one for the 2013-2014 influenza seasons.
+D. Influenza Vaccine Requisitions. The Navy on-line Vaccine
+Information and Logistics System (VIALS) is the requisition
+system tool for seasonal and emerging influenza vaccines.
+VIALS is used to individually track requisitioned vaccines
+via milstrip and simplifies vaccine requisitions to enable
+electronic tracking of vaccine orders from requisition to
+receipt. The VIALS web site is common access card (CAC)
+enabled. Please visit:
+https://gov_only.nmlc.med.navy.mil/int_code03/vials/.
+E. Influenza Vaccine Ordering. Navy influenza vaccine is
+batch-ordered by Naval Medical Logistics Command (NMLC)
+from the DLA using command requirements in Navy VIALS. Navy
+influenza vaccine is centrally funded vice individual Navy
+command funded.
+F. Influenza Vaccine Exercise.
+(1) Previous influenza seasons have been used to exercise
+and evaluate mass vaccination scenarios during a pandemic
+event. These coordinated mass vaccination campaigns provided
+rapid and efficient vaccinations to protect the maximum
+number of susceptible persons. Based on lessons learned,
+process improvements have been made to delivery and reporting
+procedures.
+(2) PI exercises will be conducted per OPNAVINST 3500.41
+Pandemic Influenza Policy. Per Ref B, section 5(c), Navy
+commands will exercise plans biennially in coordination with
+appropriate higher headquarters/Combatant Commander. The Navy
+Lessons Learned System (NLLS) will be utilized to capture all
+PI exercise feedback. 
+G. Influenza Vaccination Compliance.
+(1) Navy military personnel. The seasonal influenza vaccination
+is mandatory for all DoD uniformed personnel who are not
+medically or administratively exempt per Refs A and B. Any
+refusal to receive the influenza vaccine will constitute a
+failure to obey a lawful order and may be punishable under the
+Uniform Code of Military Justice (UCMJ) and/or result in
+administrative action. Prior to receiving the influenza vaccine,
+Navy Active/Reserve Component personnel shall have access to
+healthcare providers to discuss objections or concerns with
+influenza vaccination. Commands should consult with the servicing
+staff judge advocate for additional guidance on influenza
+vaccination non-compliance.
+(2) Navy civilian personnel. Mandatory influenza vaccination is a
+condition of employment for all civilian health care workers
+providing direct patient care in DoD medical treatment facilities
+(MTF) per Ref D. Influenza vaccination is mandatory for all
+civilians where it is written in their position description as a
+condition of employment. Other Navy civilian personnel are highly
+encouraged to receive influenza vaccinations.
+(3) Any Tricare beneficiary (dependents). Ref E authorizes retail
+network pharmacies to administer the seasonal influenza vaccine.
+Tricare beneficiaries may receive influenza vaccination with no
+co-pay at a retail network pharmacy offering vaccines. Beneficiaries
+are encouraged to contact the pharmacy regarding age restrictions as
+some pharmacies do not administer the flu vaccine to individuals
+less than 18 years of age. 
+H. Influenza Vaccination Reporting. Active and Reserve Component
+Navy force vaccination administration compliance will be monitored
+via the Medical Readiness Reporting System (MRRS). Designated
+command personnel will access MRRS to track their personnel to
+ensure compliance.
+(1) Commands will request unit code identification based access to
+MRRS by submitting a system access authorization form available at:
+https://mrrs.sscno.nmci.navy.mil/mrrs/secure/welcome.m (note:
+MRRS web address is case sensitive). POC/MRRS program office/email:
+mrrspo(at)navy.mil/(901) 874-4682/DSN: 882-4682.
+(2) Commands must ensure that documentation of influenza vaccine
+administration is coded to accurately reflect the type of vaccine
+given whether injectable or nasal.  
+(3) Afloat units will enter influenza immunizations into the Shipboard
+Automated Medical System (SAMS)/Theater Medical Information Program
+(TMIP) for subsequent transfer to MRRS. 
+(4) All personnel who receive the vaccination from a retail network
+pharmacy must provide documentation of vaccination to the command no
+later than the next business day to ensure compliance is appropriately
+recorded in MRRS.
+I. Navy Goals and Performance Standards.
+(1) All Navy operational units and MTFs will administer the 2013-2014
+flu vaccination to meet 90 percent vaccination by 16 Decemeber 2013 
+for Active and Reserve Component, and 100 percent vaccine access total for 
+Navy family (includes dependents, other beneficiaries and DON civilians). 
+Active coordination between command leadership, public affairs officers, and 
+medical personnel is necessary to achieve success.
+(2) Influenza vaccination performance standards. The following metrics
+will be monitored:
+- Navy VIALS reports 100 percent of shipped vaccine delivered to Fleet
+and Navy units by 1 December 2013.
+- MRRS reports 90 percent of Active and Reserve Component vaccinated by 16 
+December 2013.
+(3) All units that receive flu vaccine shipments have 72 hours
+(three working days) to document, administer, and report vaccination
+from time of adequate vaccine receipt. Navy Reserve Component units
+have one drill weekend to document, administer, and report vaccination
+from time of vaccine receipt. The clock begins when the vaccine is
+approved for administration. Unit situation reports are required if
+vaccine shipments are delayed. If shipments arrive with temperature
+sensors in an alarmed status, suspend vaccine (per cold chain protocol)
+in your reefer. Return the sensor along with the appropriate paperwork
+to DLA for approval or disapproval to use the vaccine. Commands will
+coordinate with the servicing MTF to align command-wide vaccinations
+with Navy vaccination goals. Medical personnel at servicing MTFs will
+expeditiously report vaccinations in MRRS.
+
+3. Released by Vice Admiral R. W. Hunt, Director, Navy Staff.//
+BT
+#0000
+NNNN
+

@@ -1,0 +1,105 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 022207Z APR 20 MID110000547729U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 097/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/COMMON ACCESS CARD ISSUANCE POLICY UPDATE FOR COVID-19//
+
+REF/A/VID/DCMO VIRTUAL TOWN HALL/DCMO/16MAR20//
+
+REF/B/DOC/DODM 1000.13 VOL 1/OSD P&R/14DEC17//
+
+NARR/REF A IS THE BROADCAST OF THE DOD CHIEF MANAGEMENT OFFICER TOWN HALL ON 
+COVID-19.  REF B IS OUSD P&R POLICY FOR THE ELIGIBILITY AND ISSUANCE OF A CAC 
+TO DOD PERSONNEL.//
+
+RMKS/1.  This NAVADMIN announces and provides temporary guidance for Navy 
+personnel who require Common Access Card Identification
+(CAC)/(ID) services during the COVID-19 emergency in accordance with 
+reference (a).
+    a.  To maximize force health protection and ensure continuity of 
+operations, all Navy Real-Time Automated Personnel Identification System 
+(RAPIDS) sites will only accept customers who have made CAC online 
+appointments.  Priority support will be provided to those with time sensitive 
+situations (e.g. active-duty Service Members whose CAC has been lost/stolen 
+or is expiring within the next 60 days, ID card issuance for newly retired 
+members, dependents with cards expiring within the next 30 days and CAC PIN 
+resets).  If unable to schedule an appointment, customers will be serviced 
+via a controlled walk-in process for CAC PIN resets only.  Navy RAPIDS sites 
+shall screen customers before entry in line with the Center for Disease 
+Control and Navy guidance.  All customers are expected to complete a self-
+screening questionnaire before accessing the RAPIDS facility.  The screening 
+questionnaire will be prominently posted at the entrance to each facility.  
+Those currently sick or who have been in close personal contact with someone 
+diagnosed with COVID-19, or those who have recently traveled (internationally 
+or domestically outside their local area) will be denied entry.
+    b.  To check the operating status of a RAPIDS site and schedule an 
+appointment, go to the RAPIDS Appointment Scheduler at https://rapids-
+appointments.dmdc.osd.mil.  Additional site specific information will be 
+provided for each location as well as the status of alternate locations.
+    c.  Personnel must provide proof of identity documentation and have a 
+valid verified DEERS record in accordance with reference (b).
+    d.  Personnel issued a new CAC must logon to a government furnished 
+workstation via a wired network in order to cache their new Public Key 
+Infrastructure (PKI) credentials.  Network access to support telework through 
+the workstation will not be available until this action is completed.  
+Impacted personnel should follow local guidance for locations to connect to 
+the network for required log in action.
+
+2.  If you or a family member have a dependent or retiree ID card please be 
+aware that your benefits (medical, dental, etc.) will remain in effect as 
+long as your military sponsor is entitled to benefits.  For example, the 
+family of a married E-6 with an end of active obligated service date of 
+January 2022 is authorized Department of Defense (DoD) benefits until that 
+date, regardless of the status of their ID card(s).
+
+3.  In preparation for a situation in which users are unable to report to a 
+RAPIDS site for CAC reissuance, DoD is developing an online technical 
+solution that will allow users with soon-to-expire PKI certificates to load 
+new PKI certificates that will be valid for up to 1 year.  The technical 
+solution will not be available to personnel with expired PKI certificates.  
+Expect additional information about this capability and other ID card policy 
+updates to be promulgated soon.
+
+4.  Primary points of contact are:
+    a.  General ID card services inquires:  MyNavy Career Center, 1-
+833-330-6622 or via e-mail at askmncc(at)navy.mil.
+    b.  CAC certificate issues:
+        (1) CAPT Susan BryerJoyner, OPNAV (N2N6G5), 571-256-8422 or via email 
+at susan.bryerjoyner1(at)navy.mil
+        (2) Mr. Mike Johnson, OPNAV (N2N6G5), email at 
+william.m.johnson1(at)navy.mil
+    c.  DEERS/RAPIDS issues:
+        (1) Tracy Wilder, Navy Personnel Command, Pay and Personnel Support 
+Branch (PERS-2), 901-874-3425 or via e-mail at tracy.wilder(at)navy.mil.
+        (2) Lawanda Bing, Navy Personnel Command (PERS-2),
+901-874-3467 or via email at lawanda.bing(at)navy.mil
+
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

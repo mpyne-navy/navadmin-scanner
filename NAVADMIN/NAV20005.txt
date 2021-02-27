@@ -1,0 +1,140 @@
+RTTUZYUW RHOIAAA0001 0091542-UUUU--RHSSSUU
+ZNR UUUUU
+R 091540Z JAN 20 MID510000870692U
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS
+
+NAVADMIN 005/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/2020 MERITORIOUS ADVANCEMENT PROGRAM SEASON ONE AND SEASON TWO//
+
+ REF/A/MSG/CNO WASHINGTON DC/011955ZAUG19// REF/B/MSG/CNO WASHINGTON
+DC/201604ZDEC18// NARR/REF A IS NAVADMIN 176/19, 2019 MERITORIOUS
+ADVANCEMENT PROGRAM SEASON TWO AND AUTOMATION UPDATE.  
+REF B IS NAVADMIN
+313/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM BUSINESS RULES.//
+
+RMKS/1.  This NAVADMIN updates reference (a) and announces the policy and
+guidance for calendar year (CY) 2020 Meritorious Advancement Program
+(MAP) for Active-Duty and Full-Time Support Sailors.  Supporting Sailor
+2025, MAP is intended to empower commanding officers (CO) and their command
+triads to identify and advance the most talented, experienced and proficient
+Sailors within their commands based on demonstrated performance and ability.
+
+2.  CY20 MAP Season One window is from 1 March through 30 April 2020.
+Season Two window will be from 1 September through 15 October 2020.  For
+additional guidance regarding MAP eligibility, quota substitutions,
+professional apprenticeship career track Service Members and Recruiter of
+the Quarter Program please visit MyNavy Portal (MNP) at
+https://www.mnp.navy.noclick_mil/group/advancement-and-promotion/a-enlisted-
+advancement-resources-and-links then select the *Website* tab in the blue
+banner, select *MAP* and then select the 2020 MAP Season Info Sheet tab.
+
+3.  MAP will account for approximately 20 percent of total advancements in
+CY20 with roughly half of the available quotas allocated for each season.
+All unused quotas for each season will be returned to Enlisted Plans and
+Policies Branch (OPNAV N132) no later than the last day of the respective
+MAP season.  Returned quotas will then be factored into the current
+Navy-Wide Advancement Exam (NWAE) cycle.  Additionally, we are maintaining
+the two- season framework that aligns the MAP with the NWAE to emphasize the
+intent of MAP in identifying and rewarding high-performing,
+technically-proficient Sailors.  COs are authorized to use E4 quotas to
+advance any E1 through E3 Service Member to the next higher paygrade on a
+one-for-one basis and also to meritoriously advance Sailors who are in a
+frocked status.
+
+4.  The updated MAP changes for CY20 were made in partnership with Navy
+leadership and the MAP strategic working group, comprised of senior enlisted
+leaders across the Fleet.  The strategic working group applied the lessons
+learned from CY19 and Sailor feedback to ensure command triads have as much
+latitude and flexibility as possible.  New changes for the CY20 MAP include:
+    a.  Shortening the MAP seasons.  Due to the successful implementation of
+MAP automation in Navy Standard Integrated Personnel System (NSIPS), and in
+response to the desire of the Fleet to ensure MAP quotas are executed
+efficiently, the time allotted for commands to approve MAP candidates will
+be reduced from 60 to 45 days starting with CY20 MAP Season Two.
+    b.  Canvasser Recruiter (CANREC) nominations.  CANREC Sailors will no
+longer be advanced under the Active Component MAP.  For CANREC nominations
+guidance and submission requirements, please visit
+https://www.public.navy.noclick_mil/nrh/Pages/default.aspx for the FY20
+Selective Reserve MAP ALNAVRES Message.  Select the *Sailor tab* in the blue
+banner, then select the *Instructions/Guidance/Messages tab* and then select
+the *All Navy Reserve Force Message* tab and then select ALNAVRESFOR 2020.
+
+5.  Community Health.  Although MAP has not adversely impacted community
+health, we recognize some ratings had lower NWAE opportunity as compared to
+MAP.  We will continue to explore ways in which MAP can be tailored for
+specific ratings of interest.
+
+6.  Commands are required to submit their MAP advancement through NSIPS.
+Commands without access to NSIPS should submit their Meritorious
+Certification Letters (MCL) via e-mail to their Immediate Superior in
+Command (ISIC) as detailed in paragraph 6a before the last day of the 
+respective MAP season.  The system will use authoritative data to determine 
+eligibility.
+However, commands are still required to locally validate that MAP candidates
+have successfully completed the professional military knowledge eligibility
+examination requirement prior to the first day of the MAP season as outlined
+in reference (b).
+    a.  NSIPS Web Afloat Users.  Commands without access to NSIPS must
+submit their MAP nomination request via e-mail directly to their ISIC, type
+commander (TYCOM) or budget submitting office (BSO)/echelon II command using
+the MCL.  The letter must be signed by the CO and should address any
+exceptions to policy (ETP) and/or additional quotas requested.  Sample MCLs
+and detailed information regarding the NSIPS web afloat user process can be
+found via MyNavy Portal (MNP) at the *MAP* tab and then select the
+*Meritorious Certification Letter (MCL) Template* and *Offline Process*.
+    b.  Quota usage, modifications and distribution will be managed within
+the NSIPS environment.  BSO and command quotas will be uploaded into NSIPS
+on 15 February 2020 and can be found under the quota summary report tab.
+Quotas can also be found via MNP at the *MAP* tab and then select the *MAP
+Quotas*.
+    c.  Additional quotas can be requested using the quota request option.
+Commands must contact their BSO to determine timeline for additional quota
+requests.  All commands are authorized to request quotas from their
+BSO/echelon II command, via their ISIC and TYCOM, whether or not command
+quotas are authorized.
+    d.  The system will automatically determine if an ETP is required, using
+predetermined criteria.  Service Members in ratings requiring security
+clearances and rates/pay grades requiring time in rate (TIR) waivers will be
+automatically routed for adjudication.  The request will be routed through
+the ISIC, TYCOM and BSO/echelon II command using a hierarchical workflow.
+    e.  Nuclear-trained Service Members.  NSIPS will not automatically
+generate an ETP.  If a command desires to advance a nuclear-trained Service
+Member not meeting the TIR, an ETP must be routed to Director, Military
+Personnel Plans and Policy (OPNAV N13) via Nuclear Program Manager (OPNAV
+N33) (E-5 TIR date of 1 January 2018 or earlier to be eligible for
+advancement to E-6 during CY20 MAP Season One.  Nuclear-trained Service
+Members must have an E-5 TIR date of 1 July 2018 or earlier to be eligible
+for advancement to E-6 during CY20 MAP Season Two).
+7.  MAP Quotas.  The number of MAP quotas by UIC will be posted on 15
+February 2020 and can be found on MNP Portal at
+https://www.mnp.navy.noclick_mil/group/advancement-and-promotion/a-enlisted-
+advancement-resources-and-links, then select the *Websites* tab in the blue
+banner.
+
+8.  Example forms and frequently asked questions can be downloaded via
+MyNavy Portal at https://www.mnp.navy.noclick_mil/group/advancement-
+and-promotion/a-enlisted-advancement-resources-and-links, then select the
+*Websites* tab in the blue banner.  The list of points of contact for each
+BSO/echelon II command and list of parent and subordinate UICs can also be
+found on this website.
+
+9.  Point of contact is MyNavy Career Center (MNCC) at (833) 330-6622 or via 
+email at askmncc(at)navy.mil.
+
+10.  This NAVADMIN will remain in effect until superseded or canceled,
+whichever comes first.
+
+11.  Released by Vice Admiral John B. Nowell, Jr, N1.// BT
+
+#0001
+NNNN
+UNCLASSIFIED//
+
+

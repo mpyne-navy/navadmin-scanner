@@ -1,0 +1,63 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 082133Z SEP 16
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CMC WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 198/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/SEP//
+
+SUBJ/GUIDANCE FOR CONDUCTING A FINANCIAL IMPROVEMENT AND AUDIT READINESS 
+(FIAR)VERIFICATION AND REPORTING OF ALL DEPARTMENT OF THE NAVY UNITS HAVING 
+REPORTING CUSTODY OF AIRCRAFT, ENGINES AND MODULES//
+
+REF/A/DOC/DODINST 5000.64/19MAY2011//
+
+AMPN/REF A IS DOD INSTRUCTION FOR ACCOUNTABILITY AND MANAGEMENT OF DOD 
+EQUIPMENT AND OTHER ACCOUNTABLE PROPERTY//
+
+RMKS/1.  In support of the 2016 Financial Improvement and Audit Readiness 
+(FIAR), an inventory data validation of the DECKPLATE system must be 
+conducted by all units of the Department of Navy (DON).  Units are 
+responsible for conducting a 100% physical inventory of aircraft (class 3 to 
+class 5), engines, and uninstalled modules IAW reference (a).  All findings 
+shall be reported to OPNAV N980L via email to the following address:
+OPNAV_N98_inventory_records or OPNAV_N98_inventory_records.fct @navy.mil.
+
+2.  The physical inventory is to be conducted beginning from release of this 
+message and must be concluded by 14 September 2016.  All certified inventory 
+count sheets, to include findings must be submitted by 14 September 2016.
+
+3.  The inventory will only be conducted on those aircraft, engines, and 
+modules that are part of the active and inactive inventory only.  Aircraft, 
+engines, and modules that are stricken from the inventory shall not be 
+inventoried.
+
+4.  All procedures and documents for conducting the physical inventory of 
+aircraft, engines, and uninstalled modules can be downloaded from 
+https://prdwebserv9.navair.navy.mil
+/physicalinventory.cfm.  Procedures were posted as Adobe Acrobat files on 1 
+September 2016, 0800 EST.
+
+5.  Any clarification or exceptions to this guidance shall be directed to Mr. 
+James Foreman, james.w.foreman@navy.mil,703-693-6531 DSN 223-6531 or Mr. Mac 
+Talbert, mac.talbert.ctr@navy.mil, 703-695-8511 DSN 225-8511 from the Office 
+of Director, Air Warfare, Logistics & Readiness branch, OPNAV N980L.
+
+6.  Release authorized by Mr. Brian J. Persons, Vice Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

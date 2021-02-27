@@ -1,0 +1,98 @@
+UNCLASSIFIED//
+ROUTINE
+R 281336Z OCT 14 PSN 919925H35
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 250/14
+
+SUBJ/NAVY CYBERSECURITY WORKFORCE CREDENTIALS
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/SEP//
+REF/A/DOC/DONCIO/28FEB11//
+REF/B/DOC/DONCIO/8FEB12//
+REF/C/DOC/SECNAVI 1543.2/30NOV12//
+REF/D/DOC/SECNAV M-5239.2/MAY2009//
+REF/E/DOC/DODD 8570.01/15AUG04//
+REF/F/DOC/DODI 8500.01/14MAR14//
+NARR/ REF A IS DON CIO MEMO, GUIDANCE FOR CIVILIAN CYBERSECURITY /INFORMATION 
+ASSURANCE WORKFORCE COMMERCIAL CERTIFICATION COMPLIANCE PROCESS. REF B IS DON 
+CIO MEMO, GUIDANCE FOR CYBERSECURITY WORKFORCE OPERATING SYSTEM/COMPUTING 
+ENVIRONMENT CERTIFICATION COMPLIANCE PROCESS. REF C IS SECRETARY OF THE NAVY 
+INSTRUCTION, CYBERSPACE /INFORMATION TECHNOLOGY WORKFORCE CONTINUOUS 
+LEARNING. REF D IS DEPARTMENT OF THE NAVY, INFORMATION ASSURANCE (IA) 
+WORKFORCE MANAGEMENT MANUAL. REF E IS DEPARTMENT OF DEFENSE DIRECTIVE, IA 
+TRAINING, CERTIFICATION AND WORKFORCE MANAGEMENT. REF F IS DEPARTMENT OF 
+DEFENSE INSTRUCTION, CYBERSECURITY.
+
+RMKS/1. In accordance with references A, B and C, all Navy Cybersecurity 
+Workforce (CSWF) personnel (active duty, reserve, civilian, and contractor) 
+are required to hold valid cybersecurity baseline credentials and complete 40 
+hours of continuing education units (CEUs) each calendar year. Failure to 
+complete this annual requirement and maintain the appropriate credential for 
+a cybersecurity position places the employee at risk for removal from the 
+CSWF position requiring credentials. Expired commercial certifications are a 
+demonstration of non-compliance with prescribed DoD and SECNAV policies in 
+references A through F.
+
+2. Scope and Applicability. This NAVADMIN applies to all designated Navy CSWF 
+personnel assigned to CSWF positions for six months or more. In accordance 
+with references C and D, personnel may complete a combination of position 
+relevant training, education, experiential learning, and commercial 
+certification activities to fulfill the 40 -hour annual CEU requirement. 
+Department of the Navy Chief Information Officer (DON CIO) conferences, and 
+courses via Federal Virtual Training Environment (FedVTE), Skillport, and 
+Navy Knowledge Online (NKO) are examples of activities that may qualify for 
+continuing education units. To assist personnel with maintaining valid 
+commercial certifications, CSWF personnel may continue to request vouchers 
+from Navy Credentialing Opportunites On-line (COOL) to fund the annual 
+continuing education and/or maintenance fees.
+Navy COOL will not pay for any recertifying activities for an expired 
+certification. Further information is available at the Navy COOL website 
+https://www.cool.navy.mil//
+
+3. CSWF personnel who fail to complete the aforementioned requirements are 
+not qualified to serve in CSWF positions, negatively impact Command 
+readiness, and weaken the Navy*s overall security posture.
+
+4.  Commanders and Command Information Officers are directed to comply with 
+references C and D for remediation of the stated workforce deficiencies no 
+later than 31 March 2015.
+
+5. All official requests for a one-time waiver from the above credential 
+requirements must be addressed to the Department of the Navy Deputy Chief 
+Information Officer (Navy) (DDCIO(N))and endorsed by a Flag Officer or SES at 
+the Echelon II level. Waiver request templates can be found at: 
+https://usff.portal.navy.mil/sites/cyberfor/cswf/default.aspx. Each employee 
+waiver request must include an Individual Development Plan with significant 
+milestones that specify the respective training, education, and certification 
+activities to be completed under the direction of a qualified CSWF 
+supervisor. All waiver requests are to be submitted no later than 31 December 
+2014, and shall not extend beyond 31 March 2015. To facilitate tracking, the 
+Navy Cybersecurity Workforce Management Office (NAVIDFOR N13) will 
+consolidate all Echelon II CSWF personnel information and list of personnel 
+requiring a waiver due to failure to hold a valid cybersecurity credential.  
+CSWF personnel who fail to acquire and maintain cybersecurity credentials in 
+accordance with the prescribed requirements in the waiver request package 
+could be subject to personnel actions. DDCIO(N) waiver approvals do not alter 
+any requirements levied by the baseline credentials certificate granting 
+authorities.
+
+6. Points of contact are as follows:
+Policy - Ms. Brooke Zimmerman (at) (571) 256-8521 or 
+brooke.zimmerman(at)navy.mil; Navy Cybersecurity Workforce Management Office 
+- Mr. Mike Knight (at)(757) 203-3135 or henry.knight(at)navy.mil; 
+Training - Mr. Daniel Harrington (at) (757) 203-3307 or 
+daniel.harrington(at)navy.mil; Navy Cool - Mr. Keith Boring (at) (850) 452-
+6683 or keith.boring @navy.mil.//
+
+7. This NAVADMIN will remain in effect until cancelled or superseded.
+
+8. Released by VADM Ted N. Branch, OPNAV N2N6.//
+
+BT
+#1970
+NNNN
+UNCLASSIFIED//

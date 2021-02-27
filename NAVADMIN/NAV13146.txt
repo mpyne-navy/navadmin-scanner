@@ -1,0 +1,63 @@
+RTTUZYUW RUEWMCS0000 1491621-UUUU--RUCRNAD.
+ZNR UUUUU
+R 291621Z MAY 13
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+NAVADMIN 146/13
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/MAY//
+SUBJ/ELIMINATION OF THE DEPARTMENT OF DEFENSE (DOD) VEHICLE DECAL PROGRAM//
+REF/A/DOC/ASN/18MAR2011//
+REF/B/DOC/ASN/20JUL2011//
+REF/C/DOC/DOD/20SEP2010//
+REF/D/DOC/DOD/19MAY2010//
+
+NARR/REF A IS ASSISTANT SECNAV (ENERGY, INSTALLATIONS, AND ENVIRONMENT) VEHICLE DECAL 
+MEMO OF 18 MARCH 2011.  REF B IS ASSISTANT SECNAV (ENERGY, INSTALLATIONS, AND 
+ENVIRONMENT) VEHICLE DECAL MEMO OF 20 JULY 2011.  REF C IS DTM 09-012 INTERIM POLICY 
+GUIDANCE FOR DOD PHYSICAL ACCESS CONTROL.  REF D IS DODI 5200.8 CH 1 SECURITY OF DOD 
+INSTALLATIONS AND RESOURCES.//
+
+RMKS/1.  This NAVADMIN promulgates Navy policy eliminating the requirement for vehicle decals (DD 
+FORM 2220) for base access, effective 1 July 2013. 
+
+2.  Background:  Refs A through D state access to property and installations shall be accomplished by 
+vetting personal identity information to determine the eligibility of an individual requesting and 
+requiring access to Department of Defense facilities, thereby eliminating the decal (DD FORM 2220) 
+requirement for access.  Ref A further states that vehicles on a Navy installation must continue to be 
+licensed, registered, inspected, and insured in accordance with state and local laws.  Rental vehicles are 
+considered privately-owned vehicles for purposes of base entry and access control.  The vehicle rental 
+contract will suffice as proper licensing, registration, and proof of insurance for base access. 
+
+3.  Implementation:  CNIC will provide an implementation plan via a NAVSHORE message for decal 
+elimination to include the following:
+    A.  Concept of Operations (CONOPS):  Activity parking plans; motorcycle safety training (that is not 
+dependant on display of the decal); barment control; enforcement of state licensing, registration, 
+insurance, and safety requirements through random anti-terrorism measures; CLEOC registration 
+process ensuring compliance with the Clean Air Act, etc.
+    B.  A standard communications package will includes FAQs, briefing cards, and other associated 
+communication products for installations to provide information to tenant activities in preparation for 
+decal elimination.  CNIC PAO will coordinate with CHINFO AND Region PAOs to disseminate.
+    C.  A POA&M defining the phased implementation.
+
+4.  Points of Contact:
+
+    A.  OPNAV N462: CDR A. Schreiber, DSN 314-225-5526, COM 703-695-5526, Email: 
+andrea.schreiber(at)navy.mil.
+
+    B.  CNIC N3AT HPD: M. Reid/GS-15 DSN 288-4784 OR COM: 202-433-4784/Email: 
+michael.a.reid1(at)navy.mil.
+
+    C.  CNIC N3AT APMLE/AO: T. White/GS13 DSN 288-0766 OR COMM 202-433-0766/Email: 
+timothy.g.white2(at)navy.mil.
+
+    D.  CNIC PAO:  CAPT E. Buclatin/DSN 325-0867 OR COMM 202-685-0867/EMAIL:  
+ed.buclatin(at)navy.mil.
+
+5.  Released by Vice Admiral P. H. Cullom, OPNAV N4//
+BT
+#0000
+NNNN
+

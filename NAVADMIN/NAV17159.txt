@@ -1,0 +1,121 @@
+UNCLASSIFIED
+ROUTINE
+R 301517Z JUN 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 159/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC//JUN//
+
+SUBJ/PERMANENT CHANGE OF STATION ORDERS LETTER OF INTENT//
+
+RMKS/1.  This NAVADMIN announces new processes to help Sailors awaiting 
+permanent change of station (PCS) orders coordinate a PCS move earlier.
+
+2.  Our current fiscal environment has contributed to PCS funding shortfalls 
+and resulted in significantly compressed orders lead time.  This compressed 
+lead time adds uncertainty and stress and impacts all aspects of the already 
+difficult task of executing a PCS move.  In an effort to mitigate the impact 
+of short notice release of orders, BUPERS and NAVSUP have worked some 
+innovative processes that will allow expansion of use of Letters of Intent 
+(LOIs) in order to enable greater flexibility and to reduce the stress 
+associated with a PCS move.
+
+3.  Starting 5 July 2017, Navy Personnel Command (NPC) will begin issuing 
+LOIs for most PCS moves.  These LOIs will allow advance scheduling of movers.  
+Additionally, Sailors will be able to complete operational (sea duty) 
+screening, update security clearances, take permissive Temporary Duty (TDY) 
+for residence hunting, and begin the entitlement counseling and application 
+processes for the movement of HHG.  Because an LOI does not contain a line of 
+accounting, it cannot be used to issue tickets, receive advanced military 
+and/or travel pay, ship Household Goods (HHG) and Privately Owned Vehicles 
+(POV), place HHG and POV in storage, or used to reimburse for a personally 
+procured move (PPM).  Previously, LOIs were only able to be issued for 
+overseas moves, and could not be used to schedule moves.
+
+4.  Upon receipt of the LOI, Sailors should access the Defense Personal 
+Property System (DPS) at www.move.mil.  For detailed instructions on 
+completing the online HHG move application in the DPS, Sailors are encouraged 
+to visit https://www.navsup.navy.mil/household/.  Once an account is 
+established and when asked if in receipt of hard copy orders, select yes.  If 
+not in receipt of funded PCS orders, enter "NAVYLOI" as the PCS order number.  
+The LOI and supporting documents, e.g., a signed DD 1299 (Application for 
+Shipment and/or Storage of Personal Property) and DD 1797 (Personal Property 
+Counseling Checklist), must be digitally scanned and uploaded into DPS.  
+Acknowledgement of receipt of the application will be sent to the email 
+address provided in the application.  Scheduling of the move may be completed 
+with this information.
+
+5.  When funding is received and PCS orders are issued, NPC will provide the 
+HHG Offices with a copy of the members PCS orders.  The HHG Offices will 
+upload the official orders in DPS and send the moving request to industry, 
+which allows the move to be executed. The Sailor will be notified via email 
+of name and contact information for the assigned moving company.  The moving 
+company will contact the Sailor to schedule a pre-move survey and coordinate 
+the final packing and pick up dates.
+
+6.  NAVSUP will collaborate with other Services to support Navy members who 
+use non-Navy Personal Property.  Sailors may email questions to 
+householdgoods@navy.mil or call 1-855-HHG-MOVE (444-6683) for assistance.
+
+7.  The following types of orders will not be eligible for LOIs: Temporary 
+Limited Duty (TLD), Home Port Changes, Pre Commission units, Expeditionary 
+Combat Readiness Center (ECRC), Afghanistan-Pakistan (AFPAK) Hands, 
+pregnancies, accessions, retirements, and separations.  These types of orders 
+have defined release timelines well in advance, making an LOI unnecessary.
+
+8.  Commander Navy Installations Command (CNIC) provides the following 
+reminders to facilitate other aspects of PCS move planning:
+    a.  In line with CNICINST 11103.5, Navy Housing Eligibility, Assignment 
+and Termination Criteria,  Sailors applying for Navy family housing are 
+placed/positioned on the housing waitlist according to the date of detachment 
+from the members prior permanent duty station based on their PCS orders, 
+provided that a housing application is submitted within 30 days of the 
+reporting date.  Advance applications will be accepted.  However, placement 
+on the list will not occur until the member reports to the gaining command.  
+This ensures Navy family housing waitlists are independent of orders receipt 
+date.
+    b.  The Housing Early Assistance Tool (HEAT) allows Sailors and families 
+to contact Housing Service Centers at multiple Navy installations before they 
+receive their PCS orders.  Sailors can search and apply for housing Navy-
+wide.  HEAT can be accessed at www.cnic.navy.mil/HEAT.  The website is 
+available online 24/7 with no CAC requirement.
+    c.  MilitaryChildCare.com provides a single, online gateway for families 
+to access military-operated or military-subsidized childcare options 
+worldwide across all Services.  The site enables families to create a 
+household profile, conduct childcare searches, submit and manage requests for 
+care anytime and from anywhere. Families may remain on a preferred programs 
+waitlist even after being offered care or enrolling in another program.  Due 
+to the standardized request process and waitlist management tools, the DoD 
+site offers a more streamlined approach for finding care, requesting care, 
+and providing Anticipated Placement Time (APT) estimates. This allows 
+families to submit requests for care at programs with an APT that most 
+closely fulfills their needs.  Since APT estimates may change, families are 
+advised to review all their options on a regular basis and submit requests 
+for all DoD child care options that may meet their requirements.  For 
+example, there may be another child development center or in-home provider 
+(Family Child Care/Child Development Home) with a shorter placement time.  
+The site also has an interactive map feature to determine if program 
+locations are within the familys preferred geographic area.
+
+9.  It is incumbent on Personnel Support Detachment transfer clerks and 
+Command Pay Personnel Administrators to become familiar with this NAVADMIN 
+and ensure transferring Sailors are promptly notified of receipt of LOI.
+
+10.  For assistance or further information, contact The Navy Personnel 
+Customer Service Center at 1(866) U-Ask-NPC (827-5672), DSN 882-5672/Email:  
+UASKNPC(AT)NAVY.MIL.
+
+11.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

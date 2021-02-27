@@ -1,0 +1,81 @@
+RTTUZYUW RUEWMCS0080 0991807-UUUU--RUCRNAD
+ZNR UUUUU
+R 091807Z APR 14 PSN 523464H24
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N2N6//
+BT
+UNCLAS//
+
+NAVADMIN 080/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/APR//
+
+SUBJ/NAVY SYSTEMS CONTINUING TO OPERATE WITH WINDOWS XP OR OLDER OPERATING 
+SYSTEMS//
+
+REF/A/MSG/CNO/312035ZMAY13//
+REF B/DOC/DISA/WINDOWS XP STIG V6 R1.31/24JAN14//
+NARR/REF A IS NAVADMIN 151/13 MORATORIUM ON MICROSOFT WINDOWS XP AND ALL 
+PRIOR VERSIONS OF MICROSOFT OPERATING SYSTEMS.  REF B IS WINDOWS XP SECURITY 
+TECHNICAL IMPLEMENTATION GUIDE V6 RELEASE 1.31.//
+
+RMKS/1.  This NAVADMIN provides additional Navy-specific policy and direction 
+for all Navy ashore and afloat systems/applications that continue to use 
+Windows XP and older Operating Systems (OS) and associated applications.  
+This is a coordinated OPNAV/Fleet Cyber Command message.
+
+2.  Ref A directed ashore program managers to migrate all systems and 
+applications to Microsoft Windows 7 (MS WIN 7) or newer versions of MS OS no 
+later than 31 December 2013 and prohibited ashore program and system managers 
+from negotiating support contracts with vendors for MS Windows XP and older 
+OS.  Ref A mandate to migrate to WIN 7 remains in effect.  Effective 8 April 
+2014, Microsoft ceases support for Windows XP, Microsoft Office 2003 and 
+applications prior to the release of WIN 7 OS.  Subsequently, all non-WIN 7 
+OS compatible or compliant IT systems and applications adversely impact the 
+U.S. Navy and DoD cyber security posture.
+
+3.  Navy has negotiated an agreement with Microsoft to provide extended 
+vendor customer support to non-WIN 7 compliant ashore systems from 8 April 
+2014 to 14 April 2015.  This extended support is available only to systems 
+that have received Deputy Chief Information Officer (Navy) (DDCIO(N))-
+approved waivers and have submitted an associated Plan of Action and 
+Milestones (POA&M) for migration.  The cost of extended support will be 
+allocated among system owners who require it.  
+
+4.  Any system owner whose environment continues to use Windows XP OS, 
+Microsoft Office 2003, or older MS platforms, and who has not received an 
+approved DDCIO(N) waiver, shall submit a Resource Sponsor-approved waiver 
+request and WIN 7 migration POA&M to DDCIO(N) no later than 2 May 2014 IAW 
+ref A.  Any system or application that has not received a DDCIO(N)-approved 
+waiver with a POA&M is subject to disconnection on 9 May 2014.
+
+5.  After 8 April 2014, non-WIN 7 compatible systems and applications will be 
+categorized as having Category I vulnerabilities per ref B.  In coordination 
+with OPNAV, FCC will provide additional guidance for non-compliant system 
+owners operating under a current Authorization to Operate if the CAT I 
+weakness was discovered after original authorization and cannot be corrected 
+within 30 days.  This guidance will outline the Interim Authorization to 
+Operate process.
+
+6.  Mitigations outlined in para 3 and 5 above do not abrogate the 
+responsibility of system owners to migrate to WIN 7 as soon as possible.  
+
+7.  Eradication of WIN XP for afloat capabilities and associated timelines 
+will be addressed SEPCOR.  However, stipulations of para 5 regarding CAT I 
+vulnerabilities in non-compliant systems are germane to both ashore and 
+afloat environments. 
+
+8.  Points of contact are Mr. Joseph Walker at (571) 256-8523/DSN:  223 or 
+joe.t.walker(at)navy.mil and Ms. Brooke Zimmerman at (571) 256-8521/DSN:  223 
+or brooke.zimmerman(at)navy.mil.// 
+
+9.  This NAVADMIN will remain in effect until cancelled or superseded. 
+
+10.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations, 
+Information Dominance, OPNAV N2N6.//
+
+BT
+#2108
+NNNN
+

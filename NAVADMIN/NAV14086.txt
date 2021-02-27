@@ -1,0 +1,303 @@
+RTTUZYUW RUEWMCS0086 1041742-UUUU--RUCRNAD
+ZNR UUUUU
+R 141742Z APR 14 PSN 144546K24
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01160//
+
+NAVADMIN 086/14 
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
+
+SUBJ/SELECTED RESERVE SELECTIVE REENLISTMENT BONUS (SRB) PROGRAM// 
+
+REF/A/MSG/CNO WASHINGTON DC/N1/062041ZAUG13//
+REF/B/DOC/DOD/12MAR13//
+REF/C/DOC/TITLE 37 U.S.C.// 
+REF/D/DOC/COMNAVRESFOR/5JUN12/NOTAL//
+REF/E/DOC/COMNAVPERSCOM/24APR13/NOTAL//
+REF/F/DOC/COMNAVPERSCOM/10JAN14/NOTAL//
+REF/G/DOC/COMNAVRESFOR/3MAR14/NOTAL//
+REF/H/DOC/DOD/7SEP10//
+NARR/REF A IS NAVADMIN 197/13, REENLISTMENT BONUS ELIGIBILITY FOR DRILLING 
+SELECTED RESERVE PERSONNEL.  REF B IS DEPARTMENT OF DEFENSE INSTRUCTION 
+1304.31, ENLISTED BONUS PROGRAM.  REF C IS SECTION 331 OF TITLE 37, U.S.C., 
+CHAPTER 5, SUB-CHAPTER II, PAY AND ALLOWANCES OF THE UNIFORMED SERVICES.  REF 
+D IS NAVY RESERVE PERSONNEL MANUAL 1001.5, SECTION 1100-010 - RESERVE 
+INCENTIVE AND 1100-020 - RESERVE ENLISTED INCENTIVE.  REF E IS MILPERSMAN 
+1160-030, CERTAIN ENLISTMENTS AND REENLISTMENT UNDER CONTINUOUS SERVICE 
+CONDITIONS.  REF F IS NAVPERS 18068F, NAVY ENLISTED OCCUPATIONAL STANDARDS 
+(NEOCS) MANUAL, VOLUME II.  REF G IS COMNAVRESFORINST 1780.1C MONTGOMERY GI 
+BILL - SELECTED RESERVE CHAPTER 1606 BASIC AND KICKER PROGRAM POLICY 
+GUIDANCE.  REF H IS DEPARTMENT OF DEFENSE 7000.14-R, FINANCIAL MANAGEMENT 
+REGULATIONS, VOLUME 7A.//
+
+RMKS/1.  This NAVADMIN supersedes ref (a), and incorporates significant bonus 
+program changes per ref (b) and ref (c).  
+
+2.  Selective Reenlistment Bonus (SRB) program details. 
+    a.  Initial and anniversary payments. 
+        (1) All bonuses authorized by this NAVADMIN will be paid in 
+installments, less taxes.  The initial payment will equal 50 percent of the 
+total bonus amount.  Anniversary payments will be the remaining 50 percent of 
+the total bonus amount, divided equally over the remainder of the obligation 
+(either two or five years).
+        (2) Eligibility for anniversary payments is contingent upon the 
+member maintaining satisfactory participation per ref (d), in the designated 
+rating and/or Navy Enlisted Classification (NEC) for each year of the bonus 
+contract.
+    b.  SRB Program eligibility.     
+        (1) A Sailor's reenlistment date must fall within the fiscal year 
+(FY) of their current End of Obligated Service (EOS), except for those who 
+obligate service (OBLISERV) in support of mobilizations.  Sailors who have or 
+had, an EOS in the current FY who extended their enlistment beyond 30 
+September to incur required OBLISERV for mobilization orders, may reenlist 
+for SRB under this NAVADMIN provided the new contract end date exceeds 
+member's previous EOS as extended.  The Sailor's Navy Reserve Activity (NRA) 
+must submit copies of mobilization orders and NAVPERS 1070/621 authorizing 
+extension of contract as supporting documentation to application procedures 
+in paragraph 3. 
+        (2) Sailors must have less than 20 years total federal military 
+service as calculated from their pay entry base date (PEBD)on the date of the 
+qualifying reenlistment.
+        (3) Sailors must complete the period of obligation for which this SRB 
+is offered prior to 24 years of federal military service.  Per ref (b), bonus 
+payments cannot be made beyond 24 years of service.  
+        (4) Sailors with greater than 18 years of service from PEBD are 
+limited to a 3-year SRB.  
+        (5) Extensions are not authorized to gain eligibility for this SRB.            
+        (6) Sailors currently serving under a contractual obligation for any 
+prior bonus must be within 45 days of completing that obligation prior to 
+reenlisting to qualify for this SRB.
+        (7) Per ref (b), bonuses for reenlistment (exclusive of prior-service 
+affiliation and enlistment bonuses) shall not exceed $80,000 in a career.  
+Sailors are encouraged to maximize their SRB by reenlisting for the greater 
+period of obligation, as long as their career total combined SRB payments do 
+not exceed $80,000.  Ref (d), section 1100-010 and 1100-020 updates will be 
+promulgated separate correspondence.
+    c.  Rating conversion.  Current Selected Reserve (SELRES) Sailors who are 
+approved for change of rating to a bonus eligible rating listed in paragraph 
+6 may be eligible for a reenlistment bonus as follows: 
+        (1) Change of rating approved via direct conversion. 
+            (a) Sailors approved for a change of rating and whose EOS 
+conforms to paragraph 2.b.(1), may reenlist immediately upon change of rating 
+approval to qualify for a reenlistment bonus. 
+            (b) The initial bonus payment shall be processed and paid after 
+reenlistment, immediately after Commander, Naval Recruiting Command (N11), 
+receives the bonus application and the rating change is reflected in the Navy 
+Standard Integrated Personnel System (NSIPS).
+        (2) Change of rating approved via successful competition or 
+concurrent change of rating. 
+            (a) Sailors who successfully complete rating conversion 
+requirements and whose EOS conforms to paragraph 2.b.(1), may reenlist for a 
+reenlistment bonus.  Sailors must meet skill qualification prior to payment 
+of the SRB for a member transferring into a designated military skill.
+            (b)    Sailors who have successfully completed the change of 
+rating requirements, but whose EOS does not conform to paragraph 2.b.(1), are 
+not eligible for a reenlistment bonus.
+            (c)    The initial bonus payment shall be processed and paid to 
+Sailors in this category only after completing all requirements to 
+permanently affect the change of rating.
+            (d) All other basic eligibility criteria contained in ref (b) 
+remain in effect. 
+
+3.  Eligibility determination and bonus application procedures.  NRAs shall 
+determine bonus eligibility in accordance with ref (b), ref (d) and this 
+message.  Ref (b) and this NAVADMIN supersedes ref (d) where conflicts exist.
+    a.    Complete bonus written agreements in the Reserve Bonus Application 
+Module (RBAM).  This is the only authorized method to complete enlisted bonus 
+written agreements.  RBAM can be accessed via the Navy Reserve Homeport at 
+https://private.navyreserve.navy.mil/cnrfc/n-codes/n1/cnrfc_n112/rbam.  For 
+questions, contact Commander, Navy Reserve Forces Command (COMNAVRESFORCOM) 
+(N11) incentive program specialists via e-mail at 
+CNRFC_bonus_shop(at)navy.mil or telephone at (757) 322-2646/2644/3637 DSN 
+262. 
+    b.  Scan and submit all required documents listed on the CNRFC (N112) 
+Enlisted Incentives Homeport as a single (multiple page) PDF file to 
+COMNAVRESFORCOM (N11) via RBAM.  Missing documents will delay bonus payment 
+processing.  If unable to scan documents, e-mail the address above for 
+guidance.
+
+4.  Zone eligibility criteria.  
+    a.  Zone A - Sailors with up to 8 years service from PEBD.  Sailors in 
+Zone A are eligible to reenlist if they have completed their enlistment 
+program's required obligation, regardless of the time remaining on their 
+initial military service obligation (MSO).  Specifically, upon completion of 
+New Accession Trainee's (NAT) six year SELRES obligation, NAT Sailors are 
+eligible to reenlist provided the length of the new contract exceeds their 
+MSO and current EOS.
+    b.  Zone B - Sailors with more than 8 years and up to 14 years service 
+from PEBD. 
+    c.  Zone C - Sailors with more than 14 years and up to 20 years service 
+from PEBD.  
+
+5.  Bonus tiers, obligation and payment amounts.
+     Tier        Obligation     Total      Initial     Anniversary
+     1           6 Year         $15,000    $7,500      5 of $1,500
+     1           3 Year         $7,500     $3,750      2 of $1,875
+     2           6 Year         $10,000    $5,000      5 of $1,000
+     2           3 Year         $5,000     $2,500      2 of $1,250
+     3           6 Year         $7,500     $3,750      5 of $750
+     3           3 Year         $3,000     $1,500      2 of $750
+
+6.  Bonus eligible ratings, rates, NECs and zones.  Numbers in each 
+zone column indicate the tier (see paragraph 5 above for 6 year and 
+3 year reenlistment tier amounts).  Read across five columns:  
+rating/rate, NEC and zone (A, B or C) to determine SRB tier.
+Rating/Rate   NEC   Zone A  Zone B      Zone C
+Any          9566     1       1           3
+Any          9570     2       1           3
+Any          90LS     3       3         3
+Any          9598     3       3         3
+Any          9501     3       3         3
+AE, AM       8342     3       3         3
+AE, AM       8318     3       3         3
+AE, AM       8800     3       3         3
+AE, AM       8341     3       3         3
+AW           7835     1       1         2
+AW           7807     2       2         3
+AWF          8252     2       2         3
+AWF          8289     3       3         3
+AWF          8209     3       3         3
+AWO          7841     1       1         2
+AWO2         Any      3       3         3
+AWO3         Any      3       3         None
+AWS          7886     1       1         1
+AWS3         Any      1       1         None
+AT           6725     3       3         3
+BM           0160     3       3         3
+BM           0164     3       3         3
+BM            0169     3       3         3
+CS            3529     3       3         3
+CTI           9ARB     2       2         3
+CTI           9PES     2       2         3
+CTI           9RUS     2       2         3
+CTI3          Any      3       3         None
+CTR           9138     2       2         3
+CTT           9141     3       3         3
+EN            4308     3       3         3
+EN            4313     3       3         3
+EN            4303     3       3         3
+EOD           5339     1       1         1
+EOD           5335     1       1         1
+EOD2          Any      3       3         3
+ET            14RO     3       3         3
+ET            14NO     3       3         3
+ET            1420     3       3         3
+ET            9605     3       3         3
+ET            1678     3       3         3
+ET            1460     3       3         3
+FC2           Any      2       2         3
+GM            0814     3       3         3
+GM            9536     2       2         3
+HM            8427     2       2         3
+HM            8410     2       2         3
+HM            8489     3       3         3
+HM            8541     3       3         3
+HM            8506     3       3         3
+HM            8408     3       3         3
+HM            8482     3       3         3
+HM            8466     3       3         3
+HM            8432     3       3         3
+HM            8452     3       3         3
+HM            8483     3       3         3
+HM            8485     3       3         3
+HT            4955     3       3         3
+IS            3912     3       3         3
+IS            3923     3       3         3
+IT            2779     2       1         3
+IT            2791     2       1         3
+LN2           Any      3       3         3
+MC            8143     1       1         2
+MC            8147     1       1         2
+MC2           Any      3       3         3
+MC3           Any      2       2         None
+MN3           Any      2       2         None
+ND            Any      1       1         1
+OS            0336     2       2         3
+OS            0342     3       3         3
+SB            Any      1       1         1
+SO            Any      1       1         1
+STG3          Any      3       3         None 
+
+Note 1:  Where "Any" is listed in the "Rating/Rate" column, any rating/rate, 
+who also holds the required NEC per the "NEC" column, is eligible. 
+Note 2:  Where multiple ratings are listed in the "Rating" column, any of 
+those ratings, who also holds the required NEC per the "NEC" column, is 
+eligible.
+Note 3:  Where "Any" is listed in the "NEC" column, ratings/rates in the 
+"Rating/Rate" column, holding any Rating Series NEC, is eligible.  NEC 0000, 
+Defense Grouping NECs, Conversion Series NECs, or other Special Series NECs 
+not classified as Ratings Series NECs, are ineligible.  See ref (f) for 
+definitions of defense grouping, conversion series and other special series 
+NECs.
+Note 4:  Where a member qualifies for multiple tiers, the highest tier 
+applies.  For example, a GM with NEC 0814 and 9536 in Zone B would qualify 
+for tier 2 "GM 9536".
+Note 5:  NECs must be listed in either the primary NEC or secondary NEC 
+position in NSIPS before bonus payment can be made.
+
+7.  Sailors serving in the ratings, rates and/or NECs listed in paragraph 6 
+may also apply for the Montgomery GI Bill - Selected Reserve kicker program 
+provided they meet eligibility criteria contained in ref (g). 
+
+8.  Repayment.  Repayment policy is governed by refs (c), (d), and (h), which 
+collectively determine when repayment of the unearned portion of a bonus is 
+required, not required but left to Secretarial discretion, or prohibited.  
+Ref (c) requires repayment with certain exceptions.  As a general rule, 
+repayment of any unearned portion of a bonus will be sought for failure to a 
+complete the terms of the SRB obligation or meet required performance and 
+discipline standards. 
+    a.    Repayment will not be sought when a member fails to complete an SRB 
+contract in the following circumstances IAW with the complete policy cited 
+for each circumstance:
+        (1) Death, not due to misconduct, IAW ref (h), Table 2-1, Rule 1;
+        (2) Injury or illness, not due to misconduct, under specified 
+conditions, resulting in separation or retirement for disability IAW ref (h), 
+Table 2-1, Rule 2;
+        (3) Completion of the contract is prevented by the Navy due to force 
+management actions per ref (h), Table 2-1, Rules 5, 6 and 7.
+    b.  Repayment is at the discretion of the Secretarial process when a 
+member fails to complete an SRB contract in the circumstances below, IAW with 
+the complete policy cited for each circumstance.  Note that repayment action 
+will be initiated for these circumstances, until and unless the Secretarial 
+process waives or remits recoupment:
+        (1) Separation for medical reasons not covered by paragraph 14.a.2, 
+IAW ref (h) Table 2-1, Rule 3;
+        (2) Medical reasons preclude completion of SRB contract, but member 
+is not separated and continues in another capacity IAW ref (h) Table 2-1, 
+Rule 4;
+        (3) The Secretarial process determines that recoupment is contrary to 
+a personnel policy or management objective, against equity or good 
+conscience, or contrary to the best interest of the United States per ref 
+(h).
+    c.  Repayment is required for any other situation not covered by 
+paragraph 8.a or 8.b.
+    d.  Per ref (b), Sailors must maintain normal skill progression as 
+determined by their unit commanding officer (CO).  Sailors who fail to 
+maintain normal skill progression may have their SRB terminated and any 
+unearned amount of the SRB processed for repayment.  COs shall notify CNRFC 
+(N11) via the Echelon IV and Echelon V chain of command if a member in 
+receipt of an SRB paid under this NAVADMIN fails to meet normal skill 
+progression, and recommend bonus termination.  The unit CO shall include 
+supporting documentation.  Examples of supporting documentation can include, 
+but are not limited to:  documented failure to qualify for billet-related 
+skills or watch stations, not recommended for retention or not recommended 
+for advancement on an evaluation.  CNRFC (N11) is the final authority for 
+adjudication of failure to meet normal skillprogression determinations.
+
+9.  Point of contact is  Mr. Jim Johnson, CNRFC (N1C21), at (757) 322-2245 or 
+via e-mail at james.p.johnson(at)navy.mil.  
+
+10.  This message will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+11.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#6692
+NNNN
+UNCLASSIFIED//
+

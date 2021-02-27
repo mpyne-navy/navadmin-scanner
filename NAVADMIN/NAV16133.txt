@@ -1,0 +1,67 @@
+UNCLASSIFIED
+ROUTINE
+R 081501Z JUN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 133/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/IMPLEMENTATION OF RETIREMENTS AND SEPARATIONS FUNCTIONALITY WITHIN NAVY 
+STANDARD INTEGRATED PERSONNEL SYSTEM OVERVIEW//
+
+RMKS/1.  This NAVADMIN announces the phased deployment of retirements and 
+separations (R and S) functionality within Navy Standard Integrated Personnel 
+System (NSIPS).  The phased deployment will consist of two increments:
+    a.  Increment one will allow the member to initiate the request 
+electronically via the NSIPS self-service, route the request through chain of 
+command for review and recommendation, and then electronically route to Navy 
+Personnel Command for approval.  It will also provide transparency on the 
+status of the members retirement and separation package.  Once approved, the 
+retirement or separation orders will be generated within NSIPS.  Increment 
+one is scheduled to be implemented in June 2016.
+    b.  Increment two will allow the Personnel Support Detachment (PSD) and 
+service member the ability to electronically complete and route the 
+Certificate of Release or Discharge from Active Duty (DD-214) form, and for 
+the data to be sent electronically to Defense Manpower Data Center.  It will 
+also create the members checklist to track tasks associated with completing R 
+and S processes.  Increment two is scheduled to be implemented in September 
+2016.
+
+2.  R and S is the first end-to-end personnel process to be re- engineered 
+into NSIPS PeopleSoft 9.2 environment.  This will integrate the R and S for 
+active and reserve personnel for both officers and enlisted Sailors in NSIPS.  
+With the implementation of the R and S functionality within NSIPS, the system 
+will provide the fleet with electronic routing for personnel separation and 
+retirement processes.
+
+3.  NSIPS-Web functional implementation will begin in June 2016 with the 
+commands supported by PSD Gulfport, PSD Little Creek, and PSD Memphis.  Upon 
+completion of satisfactory implementation of increments one and two at the 
+initial sites, a phased roll-out will follow for all other commands supported 
+by PSDs.  NSIPS Web-Afloat implementation timeline is dependent on the ship 
+modernization process and will be completed in about 24 months after initial 
+roll-out.  A future NAVADMIN, PayPers Newsletter, User Productivity Kit
+(UPK-Training materials) and Whats New For You article on NSIPS splash page 
+will provide detailed guidance on account establishment and management 
+including the implementation plan and user roles and responsibilities.
+
+4.  Points of contact are Mr. Mike Majeskie, Enlisted 
+Retirements/Separations/Fleet Reserve (PERS-836), who can be reached at (901) 
+874-3246/DSN 882, or via e-mail at mike.majeskie(at)navy.mil and LCDR Jason 
+Grose, Officer Retirements/Separations/Fleet Reserve (PERS-836) at (901)874-
+3180/DSN 882, or via e-mail at jason.grose(at)navy.mil.
+
+5.  Released by Vice Admiral R. P. Burke, N1. //
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

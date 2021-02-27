@@ -1,0 +1,118 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 181636Z JAN 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 013/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 VERSION 1803 TO NMCI//
+
+REF/A/LTR/DOD CIO/20NOV15//
+
+REF/B/LTR/DEPSECDEF/8JAN18//
+POC/WIN10 COORDINATION CENTER/CIV/PMW-205/-/EMAIL:  
+WIN10COORDINATIO.FCT(AT)NAVY.MIL/TEL: (202)685-0471//
+
+NARR/REF A IS THE DEPARTMENT OF DEFENSE (DOD) CHIEF INFORMATION OFFICER (CIO) 
+MEMORANDUM, MIGRATION TO MICROSOFT WINDOWS 10 (WIN10) SECURE HOST BASELINE.  
+REF B IS THE DEPUTY SECRETARY OF DEFENSE MEMORANDUM PROMULGATING DEADLINE FOR 
+MIGRATING OFFICE INFORMATION TECHNOLOGY WORKSTATIONS TO THE DOD MICROSOFT 
+WIN10 SHB.
+
+RMKS/1.  This NAVADMIN announces the rollout of WIN10 version 1803 (v1803) to 
+the Navy Marine Corps Intranet (NMCI) Secret Internet Protocol Routing 
+Network (SIPRNet) and Non-Classified Internet Protocol Routing Network 
+(NIPRNet) enterprise.  It outlines the migration plan and the user 
+responsibilities for the rollout, which have been extensively coordinated 
+with Fleet Cyber Command (FCC)/Commander TENTH Fleet (C10F) and Echelon 2 
+CIOs.  Implementation on OCONUS Navy Enterprise Network, Excepted Networks, 
+and Information Technology for the 21st century will be addressed separately.  
+Leadership engagement is critical to ensure the upgrades to WIN10 v1803 occur 
+on time to improve cyber security and comply with the DoD mandate.
+
+2.  Extensive lessons learned from the previous WIN10 upgrade were solicited 
+and used to ensure process improvement and to minimize impact to users and 
+system administrators for this WIN10 v1803 upgrade.  Early adoption rollouts 
+are in progress and have been used to identify and eliminate issues that may 
+affect the broader rollout.  FCC/C10F will issue orders to initiate 
+enterprise seat updates.  The seats to be upgraded have been selected and 
+prioritized by Echelon 2 CIOs to minimize impacts to mission and key 
+leadership.  The preload packages are being distributed via various redundant 
+efforts and will be completed prior to the seats starting the upgrade to 
+minimize impact to network performance.  When an individual seat has received 
+all preloads and passed a pre-flight check, it will receive an execution 
+package and start the migration at the user initiated Green Shutdown.  The 
+average time that a seat will be unavailable is approximately three to five 
+hours.
+
+3.  Participants of each rollout will receive tailored user instructions 
+prior to the start date.  It is important for participants to read and follow 
+these instructions as specific actions will be required.  Early lessons 
+learned are that any deviation from the instructions resulted in delay in 
+completing the upgrade and extended user down time.  More information and 
+guidance on the WIN10 v1803 update can be found on the NMCI Homeport at 
+https://www.homeport.navy.mil/management/windows10 to include a webinar 
+presentation, helpful hints, frequently asked questions, and specific issue 
+guidelines.
+
+4.  CIOs and Contract Technical Representatives (CTRs) are responsible for 
+tracking the readiness and completion of migration for their commands to 
+ensure that planned seat migrations remain on track.  CIOs and CTRs must 
+ensure that users are informed of the importance of maintaining the seat in a 
+healthy state and they do not delay the migration.
+
+5.  Individual User Responsibilities
+    a.  End of Day Actions.  Once each seat receives all required preload 
+packages, the user will receive a notification that the WIN 10 v1803 update 
+is ready for installation.  At the end of the day users will need to execute 
+a Green Shutdown by clicking the Windows logo from the desktop bar and 
+selecting Shut Down, and selecting Yes when prompted to perform a Green 
+Shutdown.  This will manage the reboot cycle necessary to complete the update 
+overnight.  All users shall restart their seats nightly, including those who 
+traditionally take their unclassified laptops home.  Please note that Green 
+Shutdowns are usually quick when done regularly and time-consuming when not 
+done as a best practice.
+    b.  Protection of Personal Data.  Users should back up any personal data 
+on their seats by utilizing their personal H: drive or contacting their 
+Information Technician support staff for alternate backup methods if data 
+backup exceeds H: drive capacity.
+    c.  Network Connection.  Users must ensure that individual machines are 
+plugged in and physically connected to the NMCI network when scheduled for 
+migration.  Migration cannot be completed via NMCI Enterprise WiFi or Remote 
+Access Service connection.
+    d.  XPS Viewer.  Microsoft has retired XPS Viewer and it is not supported 
+in WIN10 v1803.  Users are advised to check if they retain files in XPS 
+format and convert to PDF before migration.
+    e.  Users in Restricted Access/Controlled Access Areas are recommended to 
+preload seats by Digital Video Disk in accordance with instruction provided 
+Separate Correspondence.
+
+6.  The NMCI Service Desk has established top-level end user support directly 
+for WIN10 v1803 that can be accessed by dialing (866) 843-6624 and selecting 
+Option 3 from the option prompt.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.
+
+BT
+#0001
+NNNN
+
+
+

@@ -1,0 +1,168 @@
+UNCLASSIFIED//
+ROUTINE
+R 081550Z JAN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+NAVADMIN 003/19
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/CYBER INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE TRANSITION TO 
+SECNAVINST 5239.20A//
+
+REF/A/LTR/OPM/01AUG16/FCWAA//
+REF/B/DOC/NIST SPECIAL PUB 800-181/AUG17//
+REF/C/DOC/DCWF//
+REF/D/DOC/DoDD 8140.01/11AUG15//
+REF/E/DOC/DoDM 8570.01/19DEC05//
+REF/F/DOC/SECNAVINST 5239.20A/10FEB16//
+REF/G/DOC/SECNAV M-5239.2/JUN16//
+REF/H/LTR/DOD CIO/02JUL18//
+REF/I/LTR/OPNAV N2N6/29SEP17//
+
+NARR/REF(A) IS AN OFFICE OF PERSONNEL MANAGEMENT LETTER OUTLINING AND 
+PROVIDING IMPLEMENTATION GUIDANCE FOR THE FEDERAL CYBERSECURITY WORKFORCE 
+ASSESSMENT ACT OF 2015; 
+REF (B) IS THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY SPECIAL 
+PUBLICATION 800-181 NATIONAL INITIATIVE FOR CYBERSECURITY EDUCATION 
+CYBERSECURITY WORKFORCE FRAMEWORK AND OUTLINES 54 CYBER WORK ROLES, THEIR 
+ASSOCIATED TASKS AND REQUIRED KNOWLEDGE, SKILLS, AND ABILITIES; 
+REF (C) IS THE DEPARTMENT OF DEFENSE CYBER WORKFORCE FRAMEWORK AND BUILDS ON 
+THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY SP 800-181 AND ADDRESSES 
+UNIQUE DOD MISSIONS AND TASKS, DIRECTING THAT THESE CODES BE APPLIED TO 
+MEMBERS OF THE DEFENSE CYBERSECURITY WORKFORCE; 
+REF (D) IS THE DoDD 8140.01 CYBERSPACE WORKFORCE MANAGEMENT 11 AUGUST
+2015 AND SUPERSEDES REF (E) AND BEGINS THE TRANSITION PROCESS FROM THE 
+INFORMATION ASSURANCE WORKFORCE TOWARD A MUCH BROADER CYBER WORKFORCE 
+POPULATION; 
+REF (E) IS THE DOD 8570.01 CYBERSECURITY WORKFORCE IMPROVEMENT PROGRAM DATED 
+DECEMBER 2005; 
+REF (F) IS THE SECNAVINST 5239.20A, DEPARTMENT OF THE NAVY CYBERSPACE 
+INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE MANAGEMENT AND 
+QUALIFICATION, 10 FEBRUARY 2016; 
+REF (G) IS THE JUNE 2016 SECNAV M-5239.2 DEPARTMENT OF NAVY CYBERSPACE 
+INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE MANAGEMENT AND 
+QUALIFICATION MANUAL; 
+REF (F) AND (G) PROVIDES IMPLEMENTATION AND QUALIFICATION GUIDANCE FOR THE 
+DEPARTMENT OF THE NAVY CYBER INFORMATION TECHNOLOGY/CYBERSECURITY WORKFORCE; 
+REF (H) IS THE 2 JULY 2018 DOD CIO WAIVER FROM THE REQUIREMENTS OF THE DOD 
+8570.01M GRANTING THE NAVY PERMISSION TO IMPLEMENT THE SECNAV M-5239.2; 
+REF (I) IS AN OPNAV LETTER ON NAVY CREDENTIALING OPPORTUNITIES ON-LINE 
+GUIDANCE FOR APPROVING NAVY CYBERSECURITY WORKFORCE VOUCHERS.// 
+POC/VIEIRA/CIV/OPNAV N2N6G11/-/TEL:  (703) 695-7809/DSN:  225-7809/
+EMAIL:  MICHAEL.VIEIRA(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN outlines the Navy’s implementation process and 
+timelines for transitioning to a new Cybersecurity Workforce (CSWF) framework 
+(references a through f germane) as outlined in reference (g).  The 
+Department of the Navy obtained a Department of Defense(DoD) Office of the 
+Chief Information Officer waiver from the DoDM 8570.01 requirements for 
+military and civilians, reference (h), allowing implementation of the Cyber 
+Information Technology /Cybersecurity Workforce (Cyber IT/CSWF) management 
+and qualification program detailed in references (f) and (g).  The Navy will 
+transition from reference (e) to reference (f) in three phases over an 18-
+month time period.  The contractor workforce remains governed by DoDM 8570.01 
+(reference (e)).
+
+2.  The Navy will employ a three-phased transition approach.  Phase I 
+includes actions necessary to establish the transition foundation.  Many of 
+these actions are ongoing.  Phase I will be completed by Fiscal Year (FY) 
+2019, fourth quarter.  Phase II begins in the fourth quarter FY 2019 and will 
+conclude fourth quarter FY 2020.  Phase III includes sustainment and 
+continuous improvement actions that will continue for the program lifecycle.  
+The phasing plan does not preclude commands from moving to sustainment 
+faster.
+
+3.  This transition will generate lessons-learned and implementation actions 
+that differ from references (f) and (g).  Interim execution guidance will be 
+issued by Director, Navy Cybersecurity Division (OPNAV N2N6G) and formalized 
+via revisions of references (f) and (g).  Copies of program execution 
+documents and templates assisting commands in setting up and maintaining 
+their Cyber IT/CSWF qualification programs will be available in the reference 
+section of the U.S. Naval Information Forces (NAVIFOR) CSWF home page at:
+https://usff.navy.deps.mil/sites/navifor/manpower/cswf/sitepages
+/home.aspx.  A common access card, using the e-mail credential, is required 
+to access this site.
+
+4.  Phase I.  Cyber Workforce (OPNAV N2N6G1) will lead Phase I actions in 
+consultation with NAVIFOR (Office of Primary Responsibility), Echelon II and 
+III CSWF Program Managers, Office of Chief Human Resources (OCHR), and Deputy 
+Chief of Naval Operations for Manpower, Personnel, Training and Education.  
+Key actions include but may not be limited to the following:
+    a.  OPNAV N2N6G1 develops and implements a formal process communicating 
+implementation details, status, and required changes, including a regularly 
+scheduled in progress reviews on transition progress.
+    b.  Outline procedures for assessing employee proficiency levels.
+    c.  Establish an OPNAV N2N6G1 and OCHR transition working group 
+addressing Human Resource issues including union notifications for both the 
+National Capital Region and local bargaining units.
+    d.  Update and publish an integrated CSWF Management Oversight Compliance 
+Committee/Training, Education, and Certification Advisory Team charter.
+    e.  Evaluate and validate qualification requirements including 
+foundational, residential, and continuing education.  This includes 
+clarifying experience and using personnel qualification standards for 
+civilian employees.
+    f.  Monitor Manpower offices completion and reconciliation of military 
+billet coding in the Total Force Manpower Management System (TFMMS).
+    g.  Monitor OCHR completion of civilian billet coding in the Defense 
+Civilian Personnel Data System and reconcile in TFMMS.
+    h.  Staff updates and draft SECNAV and OPNAV Cyber IT/CSWF policy as 
+needed to support workforce management.
+    i. Identify funding, validate functionality and review business rules for 
+the Total Workforce Management System (TWMS) CSWF module.
+    j.  Reference (i) remains in effect throughout the transition period and 
+will be reevaluated during program sustainment.
+
+5.  Phase II.  This phase is required for all Navy commands with Cyber 
+IT/CSWF personnel.  Key actions include but may not be limited to the 
+following:
+    a.  Ensure Cyber IT/CSWF cyber work role codes in Total Workforce 
+Management System (TWMS) are the same as the Cyber work roles code in TFMMS.
+    b.  Update civilian Cyber IT/CSWF position descriptions including the 
+work role assignment and the condition of employment statement found in 
+reference (g) Chapter 3 b (g) 1.  Use templates found at NAVIFOR web page for 
+minimum mandatory language.
+    c. Commands notify employees, in writing, that they are in the Cyber 
+IT/CSWF.  Assign them a work role and provide employees with a list of 
+foundational and residential qualification requirements found in appendix 4 
+of reference (g).
+    d.  Enter and validate personnel qualifications in TWMS.  Determine 
+individual qualification status and implement process to qualify personnel 
+not later than one year after the employee is notified by human resources 
+that they are a member of the Cyber IT/CSWF.
+Maintain and revise qualification information as required in TWMS.
+    e.  Update individual development plans for personnel that do not meet 
+the qualification requirements with a qualification plan and date.  Employees 
+failing to meet qualification standards are subject to local policies and 
+administrative procedures.
+    f.  NAVIFOR analyzes TWMS data, identify gaps, and significant trends.  
+Formulate corrective courses of action and recommendations.
+
+6.  Phase III.  Execute SECNAV M-5239.2 and related OPNAV issuances.
+    a.  Ensure all new Cyber IT/CSWF billets are properly coded in TFMMS and 
+TWMS.  Ensure changes to billet coding are made as necessary.
+    b.  Ensure TWMS data is updated and maintained accurately depicting 
+qualification status of all personnel assigned to Cyber IT /CSWF billets.
+    c.  Ensure Cyber IT/CSWF personnel meet continuous learning requirements.
+    d.  When new systems or software is deployed ensure personnel assigned to 
+Cyber IT and CSWF billets complete new or revised training and on the job 
+qualification, as necessary.
+    e.  Ensure personnel newly assigned to Cyber IT/CSWF billets complete 
+qualification in accordance with the Secretary of the Navy and Office of the 
+Chief of Naval Operations policy.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

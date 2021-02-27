@@ -1,0 +1,84 @@
+RTTUZYUW RUEWMCS0133 1601821-UUUU--RUCRNAD
+ZNR UUUUU
+R 091821Z JUN 14
+FM CNO WASHINGTON DC//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//
+BT
+UNCLAS//
+NAVADMIN 133/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/JUN//
+
+SUBJ/2013 ADMIRAL STAN ARTHUR AWARDS ANNOUNCEMENT//
+
+REF/A/MSG/CNO WASHINGTON DC/R 271528Z FEB 14//
+AMPN/REF A IS ADMIRAL STAN ARTHUR AWARD CALL FOR 2013 NOMINATIONS MESSAGE.//
+POC/CAPT BRUCE MILLER/N413M/ARLINGTON, VA/TEL: (703) 695-4861/EMAIL: 
+BRUCE.M.MILLER1(AT)NAVY.MIL//
+
+RMKS/1.  A Flag/SES panel reviewed candidate nominations and selected the 
+2013 Admiral Stan Arthur Award winners IAW ref A.  This award recognizes 
+military and civilian logisticians who epitomize excellence in logistics 
+planning and execution.  I am pleased to announce the 2013 Admiral Stan 
+Arthur Award winners:
+    A.  The Military Logistician of the Year is LtCol David S. Phillips, 
+USMC, assigned to Naval Air Systems Command.  As H-53 Assistant Program 
+Manager for Logistics, he played a critical role in beta testing NAVAIR's 
+maintenance and supply chain management analysis tool.  This data analysis 
+tool collected and fused data from nineteen Navy and Defense Logistics Agency 
+databases and provided trending data, measuring current reliability against 
+baseline data.  LtCol Phillips' Critical Process Improvement efforts resulted 
+in a projected 30 percent reduction in critical component lead time for H-53E 
+main gearbox housing and more than 40 percent reduction in lead time for main 
+rotor shafts.  Additionally, use of age exploration on the H-53E main gearbox 
+resulted in an increase in the service life of this asset from 2000 to 2400 
+hours and a savings of 3.5 million dollars per year in aviation depot level 
+repair.  LtCol Phillips' efforts over the last year provided tangible results 
+and improved joint logistics readiness of United States forces.
+    B.  The Civilian Logistician of the Year is Mr. Mark D. Dexter assigned 
+to United States Pacific Fleet.  Mr. Dexter, as the Logistics Lead for 
+Financial Improvement Audit Readiness, conceived and spearheaded the 
+development of an integrated plan to improve the United States Pacific 
+Fleet's performance in the Military Standard Requisitioning and Issues 
+Procedures audit program.  Mr. Dexter's superior dedication, organizational 
+skills, and technical ability allowed United States Pacific Fleet Financial 
+Improvement Audit Readiness scores to improve from 22.8 to 97.2 percent in 
+less than a year, allowing assertion two months early.  Mr. Dexter led the 
+effort in solving the document retention problem facing ships and submarines 
+by rapidly creating a compact scanning and retention system using commercial 
+off the shelf components and software.  Mr. Dexter's efforts reduced 
+shipboard workload, improved audit responsiveness, and contributed 
+significantly to a positive financial audit readiness report to the United 
+States Congress.  Mr. Dexter's efforts over the last year provided tangible 
+results and have improved Navy's logistics readiness. 
+    C.  The Logistics Team of the Year is the Naval Aviation Excess Inventory 
+Team from Naval Supply Systems Command.  The Naval Aviation Excess Inventory 
+Team developed a first of its kind process to maximize use of existing Navy 
+Working Capital Fund excess inventory at Naval Air Stations in direct support 
+of the Chief of Naval Operations strategic mandate to "Be Ready."  Through 
+collaboration across multiple echelons and commands, the team conducted a 
+detailed analysis of multiple logistics procedures used to process referrals 
+and subsequently developed a workable automated Navy Enterprise Resource 
+Planning procedure that was implemented at 21 Naval Air Stations around the 
+globe.  During the period March to December 2013, the automated process 
+developed by the team filled 107,000 requisitions valued at 390 million 
+dollars.  Furthermore, the team developed, tested, and implemented a program 
+for the Defense Logistics Agency to refer other Services' back orders against 
+the excess Navy stock resulting in readiness improvement to the Joint 
+Warfighter.
+
+2.  An awards ceremony, via video teleconference, with ADM Arthur (ret) and 
+the winning members' commands is scheduled for 2 July 2014.  The OPNAV POC 
+will contact winning commands to make arrangements for the ceremony.
+
+3.  My heartiest congratulations to the winners!  Your superlative 
+achievements resulted in substantial and quantifiable benefits to the United 
+States Navy and enhanced the logistics profession.  BRAVO ZULU!
+
+4.  Released by VADM P. H. Cullom, OPNAV N4.//
+
+BT
+#0133
+NNNN
+

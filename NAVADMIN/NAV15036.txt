@@ -1,0 +1,99 @@
+UNCLASSIFIED/
+ROUTINE
+R 062052Z FEB 15 PSN 626485H31
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 036/15
+
+SUBJ/FISCAL YEAR 2015 ANNUAL CYBER SECURITY AND INFORMATION SYSTEM
+SECURITY AWARENESS TRAINING CORRECTED COPY
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/FEB//
+REF/A/DOC/SECNAV M-5239.2/MAY2009//
+REF/B/DOC/DODD 8570.01/23APR07//
+REF/C/DOC/DODI 8500.2/06FEB03//
+REF/D/DOC/SECNAVINST 5239.3B/17JUN09//
+NARR/Reference (a) is Department of the Navy (DON) Information Assurance (IA) 
+Workforce Management Manual.  Reference (b) is Department of Defense (DoD) 
+Directive, IA Training, Certification and Workforce Management.  Reference 
+(c) is DoD Instruction, IA Implementation Plan.  Reference (d) is Secretary 
+of the Navy Instruction, DON Information Assurance Policy.
+POC/ZIMMERMAN/CIV/OPNAV N2N6BC/-/TEL:  (571) 256-8521/EMAIL:  
+BROOKE.ZIMMERMAN(AT)NAVY.MIL// POC/HARRINGTON/CIV/OPNAV N2N6BC/-/TEL:  (757) 
+203-3307/EMAIL:  DANIEL.HARRINGTON(AT)NAVY.MIL//
+POC/KNIGHT/CIV/OPNAV N2N6/-/TEL:  (757)203-3135/EMAIL: 
+HENRY.KNIGHT(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN is a coordinated Office of the Chief of Naval 
+Operations (OPNAV)/Navy Information Dominance Forces (NAVIDFOR) message that 
+provides Navy-wide direction regarding the fiscal year 2015 (FY15) cyber 
+security (CS) awareness training requirement for all Navy personnel as set 
+forth in references (a) through (d).  Proper network discipline is critical 
+to maintaining the security and integrity of Navy networks and failure to 
+accomplish annual training introduces unnecessary operational risk.
+
+2.  All DON and intelligence community military (per the General Military 
+Training Schedule (NAVADMIN 202/14)), civilians, and contractors with access 
+to unclassified and secret networks shall satisfy the FY15 training 
+requirement by completing one of the following:  Cyber Awareness Challenge 
+(CAC) version 2 (v2), CAC Intelligence Community (IC) v2, or IC-Intelligence 
+System Security Awareness (ISSA) v5.
+
+3.  The Office of the Director of National Intelligence (ODNI) requires 
+intelligence personnel with access to Joint Worldwide Intelligence 
+Communications System or directly supporting the Office of Naval Intelligence 
+or Director of Naval Intelligence initiatives to complete either the IC-ISSA 
+v5 or CAC IC v2 for the intelligence community to satisfy the FY15 
+requirement.
+
+4.  Authorized methods for training delivery:
+    a.  Total Workforce Management Service (TWMS), 
+https://twms.navy.mil/selfservice/login.asp;
+    b.  Navy e-Learning (NEL) via the Navy Knowledge Online (NKO) portal; or
+    c.  Other approved training sources, such as general military
+    lectures and Defense Information Systems Agency (DISA) Digital
+    Video Discs.
+
+5.  Deploying commands shall make every effort to complete the training prior 
+to deployment.  Afloat commands with limited bandwidth may access the annual 
+training from the ship's Navy e-Learning afloat (AILE) application hosted on 
+the Navy Information/Application Product Suite (NIAPS) server, eliminating 
+the need to reach back to shore hosted NEL websites.  If the CAC v2, CAC IC 
+v2, or IC-ISSA v5 courses are not available via AILE, the ship's NIAPS 
+administrator shall update all AILE Learning Management System Publication 
+and the weekly Navy Training Management and Planning System Afloat (NAFL) 
+amendments.  Commands may order CS awareness training compact discs from DISA 
+via, http://iasecontent.disa.mil/eta/products_order_form.pdf.
+
+6.  CS awareness training is an individual responsibility.  However, 
+Commanders and Commanding Officers are accountable for 100 percent completion 
+of training.  Echelon II command information assurance managers (IAM) and 
+training officers are responsible for tracking and reporting compliance to 
+meet annual Federal Information Security Management Act (FISMA) requirements.
+
+7.  Command training officers shall validate training via the TWMS or fleet 
+training management and planning system, 
+https://ntmpsweb.ncdc.navy.mil/Fltmps/ authoritative database.  Training 
+officers shall manually input training not completed via TWMS, NEL, or AILE.  
+Report discrepancies to the Navy Training Management Planning System 
+Operational Support office at ntmps.support(AT)navy.mil or 1-866-438-2898/DSN 
+922-1867.
+
+8.  All personnel shall complete training by 31 July 2015 in order to 
+facilitate annual FISMA reporting requirements.  Echelon II training officers 
+are responsible for rolling up data for their respective area of 
+responsibility.  The command IAM shall disable the accounts of users who fail 
+to complete training until the training is completed.
+
+9.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+10.  Released by Vice Admiral Ted N. Branch, OPNAV N2N6.
+
+BT
+#8199
+NNNN
+UNCLASSIFIED//

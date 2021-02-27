@@ -1,0 +1,141 @@
+UNCLASSIFIED//
+ROUTINE
+R 271415Z SEP 19 MID510000633284U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 220/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/ELECTRONIC SUBMISSION OF LETTERS TO PROMOTION AND SELECTION BOARDS 
+THROUGH MYNAVY PORTAL//
+
+REF/A/DOC/SECNAV WASHINGTON DC/28MAR19//
+AMPN/REF A IS SECNAVINST 1420.3, Department of the Navy Commissioned Officer 
+Promotion Program.//
+
+RMKS/1.  This NAVADMIN announces the introduction of a new application known 
+as Electronic Submission of Selection Board Documents (ESSBD) that is 
+accessible through MyNavy Portal (MNP).
+ESSBD provides the capability for board eligible candidates to submit pre-
+formatted letters to the board (LTBs) online, directly to the president of 
+the board for which they are under consideration, as authorized by reference 
+(a) and various board-specific naval messages (NAVADMIN).  This application 
+is a MyNavy HR transformation and Sailor 2025 initiative designed to improve 
+personnel programs and give Sailors more control and ownership over their 
+careers.
+
+2.  Overview.  ESSBD improves the speed, transparency and confidence of 
+receipt over current LTB submission methods, such as hard copy and e-mail 
+submitted letters and related attachments.  ESSBD provides board candidates 
+with the capability to electronically submit LTBs in a standard, consistent 
+format, with or without attachments and will allow the candidate to see (for 
+content and clarity) exactly what will be delivered and presented to the 
+board.
+Previous means of submitting LTBs (USPS, e-mail, FEDEX, etc.) will remain, 
+but ESSBD will become the preferred method of submission.
+
+3.  Initial rollout.  ESSBD will be available for limited use for the 
+following administrative boards through the remainder of calendar year 2019:
+
+Board #                      Board Title
+21500 - HR Community Command and Milestone Board (convene:  16OCT19)
+21045 - Active Aviation Major Command (convene:  21OCT19)
+21046 - FTS/Reserve Aviation Major Command (convene:  21OCT19)
+21085 - Surface Major Command (convene:  28OCT19)
+21431 - Surface Early Command Screen (convene:  28OCT19)
+21721 - Public Affairs Milestone Screen (convene:  5NOV19)
+21323 - Foreign Area Officer Milestone Screen (convene:  7NOV19)
+21255 - Naval Special Warfare CO/XO Screen (convene:  9DEC19)
+21256 - Naval Special Warfare Dept Head (convene:  9DEC19)
+21426 - IWC O-4 MS/XO/OIC (convene:  9DEC19)
+21726 - EOD CO/XO/DH (convene: 16DEC19)
+
+4.  Beginning 1 January 2020, ESSBD will be available for all promotion, 
+advancement and selection boards.
+
+5.  Application-driven boards.  Submissions for programs (boards) requiring 
+an application (Limited Duty Officer/Chief Warrant Officer (LDO/CWO), Lateral 
+Transfer, educational programs, etc.) will not be submitted using ESSBD.  
+Guidance contained in the specific NAVADMIN for these programs will address 
+board correspondence.
+
+6.  Submission of LTBs via ESSBD.  To utilize ESSBD, candidates must access 
+document services through MNP at https://www.mnp.navy.mil/group/my-record or 
+the BOL main menu.  From the BOL main menu, select "Navy Personnel Command 
+Document Services," Start Process, Selection Board and LTB.  On-screen 
+instructions will direct the submitter thereafter.  Submissions should be 
+prepared with attachments (if applicable), prior to initiating their LTB.  
+There is no save and return function between BOL sessions.  Submitters will 
+receive an e-mail confirmation regarding the status of their submitted LTB.
+SubmissiFhon and subsequent receipt acknowledgement for LTBs submitted via 
+ESSBD or other means does not constitute confirmation of eligibility for the 
+boards to which LTBs are submitted.  If required, a full visual user guide is 
+available at https://www.mnp.navy.mil/group/advancement-and-promotion.
+    a.  Deadlines.  LTBs submitted to statutory officer promotion boards must 
+be received by Navy Personnel Command not later than 2359 (central time) 10 
+days prior to the convening date of the respective board.  Generally, 
+administrative boards will follow, at a minimum, the statutory officer 
+deadlines.  Deadlines for submission to other boards will be listed in the 
+convening announcement for those boards.  In either case, if the board for 
+which you are attempting to submit a LTB cannot be found in the ESSBD drop 
+down menu, the deadline for submission to that board has passed.  Submitters 
+are cautioned to not wait until the deadline date to submit LTBs via ESSBD or 
+other available avenues.
+        (1) Navy Personnel Command Document Services is hosted on BOL and 
+this system periodically undergoes maintenance that may interrupt your 
+ability to submit LTBs through ESSBD.  If this happens and you are able to 
+wait until the completion of the outage, usually by the following day, you 
+may attempt to resubmit via ESSBD.
+Otherwise, submit your LTB via the cscselboard(at)navy.mil mailbox account, 
+which is capable of receiving encrypted correspondence in accordance with DoD 
+policy.
+        (2) If sending a board package from a non-NMCI network (bumed.mil, 
+eu.navy.mil, etc.), please visit https://dod411.gds.disa.mil to download the 
+required mailbox certificate.  To download the cert (please note, you must be 
+using MS Outlook with a CAC reader, including activclient software and have 
+internet explorer or netscape 7.x), go to https://dod411gds.disa.mil, type 
+cscselboard(at)navy.mil in the e- mail address field, then click search.  
+Click the bupers link under last name.  Click on the link download 
+certificate(s) as vcard.  Click software certificate for 
+cscselboard(at)navy.mil.
+Click the open button for the file download pop-up.  The certificate will 
+then open.  Click save and close.  The certificate is then saved to the 
+profile and can be used to send encrypted e-mail.
+    b.  Attachments.  ESSBD attachments must be in .pdf format and must not 
+contain classified information, including any markings regarding the same.  
+LTBs and attachments containing such markings will not be presented to the 
+board and may subject the submitter to disciplinary action.
+    c.  Multiple submissions.  Multiple LTBs to the same board will be 
+accepted.  Duplicate submissions, using ESSBD or other available avenues, are 
+discouraged.
+    d.  Receipt acknowledgement.  ESSBD submitters will receive an e-mail 
+confirmation sent to their e-mail address of record that exists within BOL.  
+Submitters should validate their e-mail address by selecting update info on 
+the left side of the BOL main menu.
+Update Info must be selected to save any changes that are made.
+
+7.  Policy for LTBs.  There is no requirement to submit LTBs to any board.  
+LTBs should only be utilized to clarify official military records or to add 
+information that is missing and/or not filed within official military records 
+(e.g., letters of recommendations, missing evaluations, fitness reports, 
+awards, etc.).  Submitting information already present within official 
+military records is not required.
+
+8.  For questions related to ESSBD and ESSBD submissions contact the MyNavy 
+Career Center by calling 1-833-330-MNCC (1-833-330-6622/DSN: 882-6622).
+
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

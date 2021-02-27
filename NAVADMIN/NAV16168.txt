@@ -1,0 +1,97 @@
+UNCLASSIFIED
+ROUTINE
+R 291317Z JUL 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 168/16 CORRECTED COPY
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY SECRET INTERNET PROTOCOL 
+ROUTER NETWORKS, WEB SERVERS, WEB SITES, AND PORTALS UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/051443ZFEB16//
+REF/B/MEMO/DDCIO(NAVY)/26FEB16/NOTAL//
+NARR/REF A IS NAVADMIN 028/16, PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY 
+NONSECURE INTERNET PROTOCOL ROUTER NETWORK AND SECRET INTERNET PROTOCOL 
+ROUTER NETWORK.  REF B IS DDCIO(N) AMPLIFYING GUIDANCE TO NAVADMIN 028/16.//
+POC/MR. BEN PLANKENHORN/CIV/OPNAV N2N6BC/WASHINGTON DC/TEL:  703-692-1896/
+EMAIL:  BENJAMIN.PLANKENHORN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides updated guidance to SECRET Internet Protocol 
+Router Network (SIPRNet) Department of Defense (DoD) Public
+Key Infrastructure (PKI) Cryptographic Log-on (CLO) enforcement deadlines 
+promulgated in references (a) and (b).  This NAVADMIN applies to all Navy 
+owned, operated, and controlled SECRET networks, web servers, web sites, and 
+portals.
+
+2.  Immediate action.  General end user and privileged accounts must
+meet the following requirements:
+    a. Tactical and Non-Tactical:
+        (1) Fleet Cyber Command/Commander TENTH Fleet (FCC/C10F)
+        shall enforce PKI CLO on all SECRET Navy and Marine Corps
+        Intranet(NMCI) and OCONUS Navy Enterprise Network (ONE-Net) accounts
+        by 31 July 2016.  This includes all end user, Windows system
+        administrator, and developer accounts with the exception of
+        accounts that have no technical solution.  Exceptions are limited to
+        network devices, service accounts, Windows limitations (joining
+        devices to the network), and functional/group accounts (currently
+        limited by DoD PKI infrastructure until 31 October 2016) or accounts
+        that have Deputy Chief of Naval Operations for Information Warfare
+        (OPNAV N2N6) approved waivers.
+        (2) Owners and Program Owners of all other SECRET tactical
+        and Non-Tactical networks including networks connected to the
+        Secret Defense Research Engineering Network (SDREN) will enforce PKI
+        CLO by 31 July 2016.  This includes all end user, Windows system
+        administrator, and developer accounts with the exception of
+        accounts that have no technical solution.  Exceptions are limited to
+        network devices, service accounts, Windows limitations (joining
+        devices to the network), and functional/group accounts (currently
+        limited by DoD PKI infrastructure until 31 October 2016) or accounts
+        that have OPNAV N2N6 approved waivers.  All stand-alone networks not
+        PKI CLO compliant must also submit a waiver request.
+        (3) PKI CLO enforcement on SECRET Research, Development,
+        Testing, and Evaluation standalone networks is held in
+        Abeyance pending guidance from DoD Chief Information Office (CIO) and
+        Joint Staff.
+        (4) Afloat SECRET Networks:  Commands with Integrated
+        Shipboard Network System/Common Personal Computer Operating
+        System Environment (ISNS/COMPOSE) will enforce PKI CLO upon
+        installation of Navy Certificate Validation Infrastructure (NCVI)
+        with the exception of functional/group accounts (currently limited by 
+        DoD PKI infrastructure until 31 October 2016).  Platforms with
+        Consolidated Afloat Networks and Enterprise Services (CANES) upgrades
+        must enforce PKI CLO as the upgrades include a Validation
+        Authority (Validation Server/PKI server) that enables PKI CLO upon
+        installation with the exception of functional/group accounts
+        (currently limited by DoD PKI infrastructure until 31 October
+        2016).
+        (5) Owners of all SECRET tactical websites and portals will
+        enforce PKI authentication (National Security Service (NSS)
+        token based) no later than 31 August 2016.
+        (6) Accounts not in compliance by applicable deadlines will
+        be disabled.
+
+3.  PKI CLO Waiver request guidance.
+    a. Waiver requests will only be accepted from Echelon II Commands
+    for approval/disapproval by OPNAV N2N6.
+    b. All PKI waiver request package requirements and forms for
+    individual accounts, networks, and portals, as well as approved
+    waivers and a Frequently Asked Questions (FAQ) document for
+    additional assistance are posted at:
+
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/PKI/default.
+
+4.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+5.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

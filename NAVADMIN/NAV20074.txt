@@ -1,0 +1,255 @@
+UNCLASSIFIED//
+ROUTINE
+R 192309Z MAR 20 MID110000495015U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 074/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS OUTBREAK 
+UPDATE 2//
+
+REF/A/NAVADMIN/OPNAV/122210ZMAR20//
+REF/B/NAVADMIN/OPNAV/142000ZMAR20//
+
+NARR/REF A IS NAVADMIN 064/20, NAVY MITIGATION MEASURES IN RESPONSE TO 
+CORONAVIRUS OUTBREAK FOR OVERSEAS TRAVEL.  
+REF B IS NAVADMIN 065/20, NAVY MITIGATION MEASURES IN RESPONSE TO 
+CORONAVIRUS OUTBREAK UPDATE 1 FOR DOMESTIC TRAVEL.// 
+POC/RADM KARL THOMAS/OPNAV N3N5B/703-692- 
+9291/KARL.O.THOMAS1(AT)NAVY.MIL/ RADM JEFFREY JABLON/OPNAV N13/703-
+604- 5040/JEFFREY.JABLON(AT)NAVY.MIL/ RADM GAYLE SHAFFER/OPNAV 
+N093B/703-681-5201/GAYLE.D.
+SHAFFER2(AT)MED.NAVY.MIL//
+
+RMKS/1.  This NAVADMIN supersedes references (a) and (b) guidance and 
+provides additional information concerning Permanent Change of Station 
+(PCS) of Navy civilians, travel for official training, personal leave 
+for Navy civilians, delegation of exception authority and regular 
+reporting requirements.
+
+2.  PCS.  The following paragraph is updated to provide clarification 
+for Navy civilians who are under PCS orders.  Replace paragraph 3.A. 
+of reference (b) with the following:
+Quote
+    3.A.  Permanent Change of Station (PCS).  All Department of the 
+Navy civilian employees, whose transportation is government funded 
+will stop movement.  Navy commands may continue civilian hiring 
+actions, but may only onboard civilian employees in the local 
+commuting area.  Service Members and dependents under PCS orders who 
+have not yet initiated travel will adhere to the following guidance.
+Unquote
+
+3.  Travel for official training.  The following paragraph is updated 
+to provide clarification for Service Members and Navy civilians who 
+are under PCS or Temporary Duty (TAD/TDY) orders and attending 
+training and/or schools.  Replace paragraph 3.C.2 of reference (b) 
+with the following:
+Quote
+    3.C.2.  Service Members and Navy civilians currently under PCS or 
+TAD/TDY orders and attending training and/or schools will complete 
+their current training and/or school.  For those on TAD/TDY orders, 
+Service Members and Navy civilians are directed to contact the command 
+that issued the orders for returning instructions/guidance.  Navy 
+civilians executing PCS orders are directed to contact the command 
+that issued the orders for further guidance.  Service Members 
+executing PCS orders are directed to contact Navy Personnel Command 
+for guidance and potential orders modification.  Once the current 
+school/training is complete, Service Members should expect to take one 
+of the following actions:  (1) Return to their previous Permanent Duty 
+Station (PDS), (2) Remain at the school/training site if prudent for 
+health protection, (3) If the next school/training is in the same 
+location and the course is still being offered, continue training.  
+Reevaluate after school/training completion, (4) Proceed to the 
+ultimate PDS.
+Decisions will be based on force health protection considerations.
+Throughout the process Service Members should consult with their 
+affected command (current, losing or future) as well as their detailer 
+where applicable.
+Unquote
+
+4.  Personal Leave and Liberty.  The following paragraph is updated to 
+provide clarification on leave policy for Navy civilians.
+Replace paragraph 3.D. of reference (b) with the following:
+Quote
+    3.D.  Personal Leave and Liberty.  For Service Members, Commanding 
+Officers (CO) and officers in charge may authorize local leave IAW 
+command policy.  Leave or personal travel outside of the local area, 
+as defined by Commanding Officers and officers in charge, requires an 
+exception as outlined in paragraph 3.E.  For those Service Members 
+currently on leave, COs or officers in charge are delegated authority 
+to terminate leave early or allow completion of leave as authorized 
+based on location, duration and risk to Service Member.  For Navy 
+civilians, approval or denial of civilian annual leave requests will 
+be based on mission requirements.  While intended travel outside the 
+local commuting area may be considered in determining impact to 
+mission requirements, leave requests for Navy civilians cannot be 
+denied solely because an employee is travelling outside of the local 
+commuting area.  In line with reference (e) paragraph 3(b) Navy 
+civilian employees are strongly encouraged to avoid personal leave 
+outside of the local area.
+Unquote
+
+5.  Exception Authority.
+    5.A. The following paragraph provides updated delegation of 
+authority in reference (a) to approve or deny stop movement exceptions 
+for Service Members.  Replace paragraph 3.E.2.b. of reference (a) with 
+the following:
+Quote
+    3.E.2.b.  Authority to approve or deny stop movement exceptions 
+for uniformed Service Members in the case of:  (1) Official travel in 
+paragraph 3.B. and (2) Official training, not associated with a PCS, 
+in paragraph 3.C. and (3) Leave requests that include travel outside 
+of the local area in paragraph 3.D, is delegated to the echelon 2 
+commander.  The echelon 2 commander may further delegate exception 
+authority, but no lower than the first flag officer or Senior 
+Executive Service (SES) in the chain of command of the Service Member.  
+Those who are granted an exception will comply with the echelon 2 
+guidance concerning pre- and post- travel screening and reception 
+procedures.
+Unquote
+    5.B.  The following paragraph provides updated delegation of 
+authority in reference (b) to approve or deny stop movement exceptions 
+for both Service Members and Navy civilians.  Replace paragraph 3.E.2. 
+and add paragraph 3.E.3. of reference (b) with the
+following:
+Quote
+    3.E.2.  Exceptions for travel not associated with PCS.
+        3.E.2.a.  Authority to approve or deny stop movement 
+exceptions for both Service Members and Navy civilians in the case
+of:  (1) Official travel in paragraph 3.B., and (2) Official training, 
+not associated with a PCS, in paragraph 3.C. is delegated to the 
+echelon 2 commander.  The echelon 2 commander may further delegate 
+exception authority, but no lower than the first flag officer or SES 
+in the Service Member or chain of command of the Navy civilian.  Those 
+who are granted an exception will comply with the echelon 2 guidance 
+concerning pre- and post- travel screening and reception procedures.
+        3.E.2.b.  Authority to approve or deny stop movement 
+exceptions for Service Members for leave requests that include travel 
+outside of the local area in paragraph 3.D is delegated to the echelon 
+2 commander.  The echelon 2 commander may further delegate exception 
+authority, but no lower than the first flag officer or SES in the 
+chain of command of the Service Member.  Those who are granted an 
+exception will comply with the echelon 2 guidance concerning pre- and 
+post- travel screening and reception procedures.
+    3.E.3.  Exceptions for PCS of Navy civilians.  Authority to 
+approve or deny exceptions of the PCS of Navy civilians from outside 
+the local commuting area in paragraph 3.A. is delegated to the echelon 
+2 commander.  The echelon 2 commander may further delegate exception 
+authority, but no lower than the first flag officer or SES in the 
+chain of command of the command or activity performing the hiring 
+action.  Those who are granted an exception will comply with the 
+echelon 2 guidance concerning pre- and post- travel screening and 
+reception procedures.
+Unquote
+
+6.  Entitlements.  The following paragraph provides additional 
+information on entitlements associated with a Restriction of Movement 
+(ROM).  Add the following as paragraph 3.J. to reference
+(a) and as paragraph 3.H. to reference (b):
+Quote
+    3.J. or 3.H. Entitlements.  Changes to entitlements associated 
+with a Restriction of Movement (ROM) have been approved and put in 
+place by DOD.  The entitlements include, but are not limited to per 
+diem for Service Members and dependents directed to ROM after arrival 
+at a duty station after a PCS move and the implementation of Hardship 
+Duty Pay (HDP)  ROM for members who incur unreimbursed lodging 
+expenses when directed to ROM at their PDS.  Additionally, the Pay and 
+Personnel Management Branch (PERS-2) has released Pay and Personnel 
+Information Bulletin (PPIB) 20-5 and 20-6 which provided Navy Pay 
+Offices with information regarding recent Joint Travel Regulation 
+(JTR) changes regarding self-isolation and establishment of HDP-ROM.  
+Eligibility for entitlements varies based on individual circumstances.  
+If you have questions about entitlements, please contact the MyNavy 
+career center (1-833-330-
+6622) or via e-mail at askmncc(at)navy.mil.
+Unquote
+
+7.  Reporting requirements.  The following paragraph provides 
+additional reporting requirements.  As the COVID-19 situation unfolds 
+and more of our personnel contract the virus, we are expanding 
+reporting requirements to better understand the impact and recovery 
+amongst the force.  Replace paragraph 4. of references (a) and (b) 
+with the following amplified guidance in its entirety:
+Quote
+
+4.  Regular Reporting.  For CONUS commands, ensure your point of 
+contacts (POC) submit accurate and timely COVID-19 daily reports and 
+CCIRs to USFFC, with an information copy to the local installation 
+commander, for consolidation and subsequent reporting to OPNAV.  For 
+OCONUS commands, ensure your POCs submit accurate and timely COVID-
+19 daily reports and CCIRs to the Navy Component Command/echelon 2 
+command, with an information copy to the local installation commander, 
+for consolidation and subsequent reporting to OPNAV.
+Given potential rapid escalation of case numbers and impact on 
+readiness, additional reporting is required.  Navy commands will 
+report the following through their chain of command and via OPREP 
+where appropriate:
+    4.A.  COVID-19 daily reports.  COVID-19 Case Information broken 
+out by Active-Duty, DON Civilian, Military Family Members and Navy 
+Contractors as follows:
+        4.A.1.  Active-Duty:  Total Persons Under Investigation 
+(PUI)/Positive Cases/Positive Cases in Home Isolation/Positive Cases 
+in Hospital/Positive Cases Recovering Post-Hospitalization/Positive 
+Cases Returned to Work/Deaths,
+        4.A.2.  Civilian:  Total PUI/Total Positive Cases/Positive 
+Cases in Home Isolation/Positive Cases in Hospital/Positive Cases 
+Recovering Post-Hospitalization/Positive Cases Returned to 
+Work/Deaths,
+        4.A.3.  Family Members:  Total PUI/Total Positive 
+Cases/Positive Cases in Home Isolation/Positive Cases in 
+Hospital/Positive Cases Recovering Post-Hospitalization/Deaths,
+        4.A.4.  DoN Contractors:  Total PUI/Total Positive 
+Cases/Positive Cases in Home Isolation/Positive Cases in 
+Hospital/Positive Cases Recovering Post-Hospitalization/Deaths.
+    4.B.  CCIRs.  For COVID-19 Active-Duty Service Members and Navy 
+civilians only (in accordance with HIPAA and the Privacy Act):
+        4.B.1.  Date individual identified as infected
+        4.B.2.  Date individual admitted to hospital (if applicable)
+        4.B.3.  Is individual in ICU?
+        4.B.4.  Is individual on a ventilator?
+        4.B.5.  Date individual is discharged
+        4.B.6.  Date individual recovers
+    4.C.  The death of a Navy Service Member, Navy civilian, Navy 
+contractor, or family member due to COVID-19.
+    4.D.  Any shortage of medical personal protective equipment
+(PPE) or test kits.
+    4.E.  Significant or newsworthy installation or facility closures.
+    4.F.  Unit or installation is unable to meet isolation 
+requirements.
+    4.G.  Unit or installation is unable to meet operational 
+requirements.
+    4.H.  Any local or regional change in health protection condition 
+(HPCON).
+Unquote
+
+8.  As the COVID-19 situation continues to evolve, Commander feedback 
+is an important part of issuing revised or additional guidance.  It is 
+virtually impossible to address all specific cases or situations.  
+However, Commanders have the latitude to adjust direction based upon 
+their unique situation.  For example, a unit that has been at sea for 
+14 days with no COVID-19 cases may make the decision to relax social 
+distancing requirements until they pull into port.
+
+9.  POCs.  Service Members with questions regarding this guidance 
+should contact the MyNavy Career Center at 1-833-330-6622 or via 
+e-mail at askmncc(at)navy.mil.  Detailers are ready to support all 
+order modifications and commands should work with their placement 
+officers.  Navy civilians with questions regarding this guidance 
+should contact their supervisory chain of command.
+
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,75 @@
+UNCLASSIFIED
+ROUTINE
+R 011200Z DEC 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N3N5//
+INFO CNO WASHINGTON DC//N3N5//
+
+NAVADMIN 291/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N3N5/DEC//
+
+SUBJ/ACADEMIC YEAR (AY) 2018-19 POLITICO-MILITARY MASTERS (PMM) DEGREE 
+PROGRAM SELECTION BOARD RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/311437ZJUL17//
+AMPN/Reference (A) is the PMM Degree program Call for Applications NAVADMIN 
+185/17//
+
+RMKS/1.  Per reference (a), this NAVADMIN announces the AY2018-19 PMM degree 
+program selection board results.  All selections for AY18-19 are for the one-
+year PMM degree program.  The two year PMM degree is not funded in AY2018-19.
+
+2.  Congratulations to the following officers on their selection. Primary and 
+alternate selectees are listed in alphabetical order.
+
+    a.  PMM Primary Selectees:
+        NAME                    RANK     DESIG
+        Castro, Katherine M.    LT       1120
+        Daprato, Richard J.     LT       1110
+        Fulks, James E.         LCDR     1120
+        Grady, Nicholas W.      LT       1110
+        Kim, Samuel S.T.        LCDR     1710
+        Lahnala, Kimberly R.    LT       1710
+        Moore, James J.         LCDR     1310
+        Shannon, Thomas M.      LT       1320
+    b.  PMM Alternate Selectees:
+        NAME                    RANK     DESIG
+        Blaschke, Brian K.      LCDR     1310
+        Brock, Janka M.         LT       1810
+        Carrier, Colby A.       LT       1310
+        Dewitt, Benjamin C.     LCDR     1830
+        Frazier, Nicholas J.    CDR      1320
+        Jeremiah, Ameian        LCDR     1110
+        Lawrence, Andrew J.     LCDR     1120
+        Macneil, Benjamin S.    LT       1130
+        Myers, Matthew D.       CDR      1140
+        Shopland, Andrew J.     LT       1110
+        Smith, Dustin T.        LCDR     1110
+        Tran, Tin T.            LCDR     1110
+        Voght, Tobler T.        LT       1310
+        Walls, Kenneth C.       LT       1130
+
+3.  Primary selectees must accept or decline program assignment NLT 14 
+calendar days from the date of this NAVADMIN.  Make written notification of 
+acceptance or declination via email to the NAVPERSCOM POC listed below with a 
+copy to respective community detailers and to the OPNAV N3/N5 POC listed 
+below.
+
+4.  POINT(S) OF CONTACT:
+    a.  NAVPERSCOM: PERS-440_submit.fct(at)navy.mil.
+    b.  OPNAV: LCDR Kori Levy-Minzie, N515; DSN 222-4781;
+Comm (571) 256-4781; Email: kori.levyminzie(at)navy.mil.
+
+5.  Released by Vice Admiral A. L. Lewis, Deputy Chief of Naval Operations 
+for Operations Plans and Strategy (N3/N5).//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,30 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 181819Z SEP 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+BT
+UNCLAS
+NAVADMIN 223/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N00/SEP//
+
+SUBJ/CNO CHANGE OF COMMAND//
+
+RMKS/1.  At 1412L today, Admiral John Richardson relieved
+Admiral Jonathan Greenert as the Chief of Naval Operations.
+
+2.  All current orders and directives remain in effect until
+further notice.
+
+3.  Released by ADM J. M. Richardson, Chief of Naval Operations.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

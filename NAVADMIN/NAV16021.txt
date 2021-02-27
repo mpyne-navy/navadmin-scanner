@@ -1,0 +1,235 @@
+UNCLASSIFIED//
+ROUTINE
+R 011830Z FEB 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 021/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/SEP//
+
+SUBJ/INFORMATION TECHNOLOGY PROCUREMENT REQUEST APPROVAL PROCESS FISCAL YEAR 
+2016 GUIDANCE//
+
+REF/A/MSG/CNO WASHINGTON DC/ 181709ZAUG14//
+REF/B/MSG/COMSPAWARSYSCOM SAN DIEGO CA/012023ZDEC11//
+REF/C/LTR/CNO WASHINGTON DC/17SEP13//
+REF/D/LTR/CNO WASHINGTON DC/23APR14//
+REF/E/LTR/CNO WASHINGTON DC/26FEB15//
+REF/F/LTR/DON CIO WASHINGTON DC/15MAY15//
+REF/G/LTR/DON CIO WASHINGTON DC/20JUL15//
+REF/H/LTR/CNO WASHINGTON DC/15MAY13//
+NARR/REF A IS NAVADMIN 177/14. REF B ESTABLISHES INFORMATION TECHNOLOGY 
+ACQUISITION APPROVAL PROCESS.  REF C DIRECTS THE USE OF THE NAVY INFORMATION 
+DOMINANCE APPROVAL SYSTEM (NAV IDAS) INFORMATION TECHNOLOGY PROCUREMENT 
+REQUEST PROCESS TO TRACK MULTIFUNCTION DEVICES PROCUREMENTS AND WAIVER 
+REQUESTS.  REF D DIRECTS THE MANDATORY USE OF NAV IDAS TO TRACK ENTERPRISE 
+LICENSE AGREEMENT SOFTWARE.  REF E IS THE NAVY PORTAL/WEBSITE STRATEGY.  REF 
+F IS THE UPDATED GUIDANCE FOR ACQUIRING COMMERCIAL CLOUD SERVICES IN THE 
+DEPARTMENT OF THE NAVY.  REF G IS APPROVALS/WAIVERS FOR OBLIGATION OF FUNDS 
+FOR DATA SERVERS AND CENTERS.  REF H IS THE DESIGNATION OF COMNAVAIRSYSCOM AS 
+THE HELP DESK CONSOLIDATION LEAD//
+
+RMKS/1.  This NAVADMIN replaces reference (a), guidance for the Information 
+Technology Procurement Request (ITPR) and approval process.
+
+2.  Information Technology Acquisition Approval Process (ITAAP) ensures 
+effective and efficient expenditure of funding to acquire Information 
+Technology (IT) capabilities, prevent duplicate investments, provide 
+visibility on all Navy IT related expenditures, and ultimately achieve 
+strategic sourcing for IT procurement.  Procurement actions for IT may not be 
+initiated without an ITPR approval.  Command Contracting Officers and 
+Purchasing Agents including those operating at Fleet Logistic Centers will 
+not obligate government funds without an approved ITPR control number 
+included with the procurement documents.
+
+3.  Once an ITPR has been submitted, each reviewer in the workflow will have 
+a total of ten business days to take action on the ITPR.  The reviewer will 
+receive notification to act on the request or it will automatically cancel at 
+the end of the 10th business day.  Customer Service Representatives (CSRs) 
+must ensure minimum delays in the workflow process including the setting of 
+proxy reviewers if the assigned reviewer is not available.
+
+4.  All Programs of Record (POR), including Defense Business System requests 
+are required to utilize the systems subject matter expert exemption Speed 
+Pass.  In addition all PORs and Non PORs are encouraged to submit annual 
+Spend Plan requests; an approved spend plan eliminates submitting subsequent 
+requests during the fiscal year.
+
+5.  The following IT procurement guidance for FY-16 applies to all IT assets 
+including hardware, software, maintenance, contract support, 
+telecommunication services, and back office IT that supports tactical 
+programs reported in the Program Budget Information System-IT (PBIS-IT) and 
+resourced with the Navy appropriated funds.  ITPRs shall be properly scoped 
+for the required need, and shall not be segmented to avoid the IT dollar 
+thresholds or IT oversight and governance.
+    a.  IT assets $25,000 or less, including assets purchased via the 
+Government Credit Card program are exempt from this process and do not 
+require the submission of an ITPR.  All exempt requests will be reported 
+quarterly.  All Echelon II commands will be required to submit an 
+organization $25,000 or less quarterly report to Deputy Department of the 
+Navy Chief Information Officer Navy (DDCIO (N)).  Restrictions to the $25,000 
+threshold can be found in paragraph 6.  For ITPRs less than $500,000 the 
+Echelon II Command Information Officer (Echelon II CIO) retains discretion to 
+set a local approval threshold amount for assigned Echelon III and below 
+commands.  ITPRs $500,000 or greater will route to the DDCIO (N) for 
+approval.  ITPRs submitted for $20 million or greater require Chief of Naval 
+Operations (N80) staff review. N80 will in coordination with DDCIO (N) 
+recommend final approval or disapproval.  If further review is required, N80 
+will present the request to the Resources Requirement Review Board (R3B) for 
+a final procurement decision.
+    b.  Procurement requests must be submitted electronically via Navy 
+Information Dominance Approval System (NAV IDAS) for:
+        (1) Business mission area programs certified and approved by the 
+Defense Business Council/Investment Review Board and non-programs of record 
+software, hardware, maintenance, and support services.
+        (2) Fleet/OCONUS network centric IT assets (i.e. consolidated afloat 
+network enterprise services and
+One-Net including all support service contracts regardless of contract value.
+        (3) Next Generation (NGEN) program management and network IT 
+infrastructure only.
+        (4) Cryptologic (UNCLASSIFIED) IT systems including support service 
+contracts regardless of contract value.
+        (5) IT assets procured using Military Intelligence Program (MIP) and 
+National Intelligence Programs funds.
+        (6) IT for industrial/base operating support (i.e., heating, 
+ventilation, air conditioning, perimeter security, and anti-terrorism force 
+protection) including all support service contracts regardless of contract 
+value.
+        (7) Ashore excepted network infrastructure assets including all 
+support service contracts regardless of contract value.
+        (8) Commercial off the shelf (COTS) and Government modified off the 
+shelf (GOTS) software.
+        (9) Telecommunications, commercially supported handheld wireless 
+communication devices, non-tactical radios, and telecommunication service 
+support contracts regardless of contract value.
+        (10) Back office IT that supports oversight and program management 
+operations of Program Executive Office, Program Manager Warfare or Program 
+Manager Air and Weapon Systems support (i.e., portals, hardware, and software 
+tools, engineering services, financial management, installation, and support 
+service contracts regardless of contract value).
+        (11) Research, Development, Test, and Evaluation laboratory network 
+infrastructure that supports weapon system replication, trainers, ranges, and 
+simulators, including all service and staff support contracts regardless of 
+contract value.
+        (12) Small Business Innovative Research pilots/proofs of concept if 
+funding source is in PBIS IT.
+        (13) Bureau of Medicine and Surgery, IT assets procured using Defense 
+Health Agency funds and shipboard IT assets that support Fleet Force Health 
+Protection operations, including all staff and service support contracts 
+regardless of contract value.
+    c.  In alignment with Department of the Navy (DoN)
+Multi-Function Devices (MFD) policy, Echelon II Command Information Officers 
+must continue to use Defense Logistics Agency (DLA) services for printing 
+purchases.  If DLA cannot satisfy the printing requirements, a waiver request 
+and Business Case Analysis (BCA) that includes a justification for deviating 
+from using DLAs printing services recommendations must be submitted through 
+NAV IDAS by the requestor.  Exception to using DLA or requesting an MFD 
+waiver exists if you are requesting print services for NGEN.  All print 
+services requests for NGEN must be submitted via your NGEN command 
+representative. There is no requirement to submit an ITPRs for NGEN print 
+services.
+    d.  Commands shall continue to submit an ITPR for all software and 
+maintenance products procured from any DoN Enterprise License Agreement 
+(ELA), and Enterprise Software Initiative (ESI)- this includes all PORs.  
+There are no exceptions or approval alternatives no matter the source of 
+funding or core products that have been funded by the enterprise (e.g. oracle 
+core products).  If a DoN ELA/ESI cannot satisfy the requirements, an 
+automated waiver request that includes a justification for deviating from 
+using DoN ELA must be submitted through NAV IDAS.  Catalog products, Blanket 
+Purchase Agreement (BPA) software products, and core products centrally 
+funded and paid annually must have ITPRs submitted within NAV IDAS. Software 
+vendors will not initiate procurement actions without ITPR approval.
+    e.  Commands must submit an ITPR with detailed justification for the 
+procurement or sustainment of portals, websites, and web presence that are 
+considered a collaboration or information sharing IT environment used to 
+enhance operational or business mission areas.  All portal submissions will 
+be reviewed and adjudicated by DDCIO (N) regardless of the total cost.
+    f.  Commands must submit an ITPR with a BCA and Engineering   Analysis 
+for every Commercial Cloud Computing Services (CCCS) request.  All CCCS 
+requests will be reviewed and adjudicated by DDCIO (N).  Negotiations between 
+commands and vendors is not authorized.
+    g.  To ensure data center and server hardware transactions are compliant 
+with the National Defense Authorization Act FY-12 section 2867 waiver review 
+and approvals, all requests must be submitted through NAV IDAS, this includes 
+all PORs, including major automated information systems, defense business 
+systems, and supporting back office IT.  There are no exceptions or approval 
+alternatives.
+    h.  Commands must submit an ITPR with detailed justification for the 
+procurement of new Navy IT help desks or upgrades (technology refresh and 
+software/hardware updates) to existing help desks that are on track to be 
+consolidated into the Navy Enterprise help desk.  All help desk submissions 
+will be reviewed and adjudicated by DDCIO (N).  This includes all PORs, no 
+exceptions or approval alternatives.
+    i.  Commands must submit an ITPR for the procurement of all WiFi 
+connections.  All WiFi connections must be configurable and secured in 
+accordance with the Navy’s mobility policy.
+    j.  Commands acting as Executive Agents for Department of Defense (DoD) 
+programs using non-Navy budget to procure IT hardware, software, maintenance, 
+support, or telecommunications in support of other DoD components or non-DoD 
+agency programs may submit an ITPR for tracking purposes.  Expenditures for 
+such requests will not be reported in the IT expenditure reporting summary.
+
+6.  The following restrictions apply to the $25,000 exemption threshold and 
+therefore require ITPR approval:
+    a.  All requests for MFD/DLA print services.
+    b.  All requests for software/maintenance products using any DoN ELA/ESI.
+    c.  All requests for procurement/maintenance support of portals, 
+websites, and web presences.
+    d.  All requests for commercial cloud computing services.
+    e.  All requests for Data Center and server hardware/software waiver 
+reviews and approvals.
+    f.  All requests for FY-16 approved Defense Business Systems.
+    g.  All requests for new Navy IT Help Desks or upgrades, (technology 
+refresh and software/hardware updates).
+    h.  All requests for new COTS and GOTS applications not registered in the 
+DoN Applications Database Management System and not approved for use by the 
+assigned Functional Area Manager.
+    i.  All requests for contract support services that will exceed the 
+$25,000 threshold over the course of the contract (includes option years).
+
+7.  The following are exempt from the ITPR process:
+    a.  Weapons and Platform IT designated systems not reported in PBIS-IT 
+(e.g., command, control, computer, communications, intelligence, 
+surveillance, and reconnaissance (C4ISR).
+    b.  Consumables, (e.g., batteries and power supplies, surge protectors, 
+paper, toner, ink, compact disc, digital video disc media)
+    c.  Peripherals (e.g. Smart Card/CAC readers and sleds, computer monitors 
+or televisions used for display purposes, mouse, keyboard, joysticks, 
+trackballs, computer microphones, speakers or headsets)
+    d.  NGEN priced and un-priced contract line item numbers not associated 
+with NGEN program management.
+    e.  Consumable spare parts for computers (e.g. motherboards, removable 
+internal/external disk drives, memory cards).
+    f.  Personnel IT training and subscriptions not reported in the IT 
+budget.
+
+8.  Organizational responsibilities:
+    a.  Echelon II CIOs and budget submitting offices: reference    and 
+incorporate revised policy contained in this NAVADMIN into local regulations 
+and standard operating procedures.
+    b.  Assigned Type Commander (TYCOM):  NAV IDAS Command Managers must 
+assist afloat command users with ITPR submissions and are responsible for 
+ensuring the ITPRs they approve for their command and their subordinate 
+commands are complete and acceptable.  Pacific Fleet and United States Fleet 
+Forces Command CSRs will support TYCOM and afloat command users with ITPR 
+submissions as required.
+    c.  Command CSRs:  Responsible for modifying and validating streamlined 
+workflows, assisting new and existing users aligned to their command in the 
+creation of NAV IDAS accounts, ITPR requests, answer general questions about 
+the process/tool and communicate new guidance and policy affecting the ITPR 
+process.
+
+8.  Point of contact is Mr. Michael Cricchio, OPNAV N2N6BC1 at (571) 256-8510 
+or email:  michael.cricchio1(at)navy.mil.
+
+9.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations for 
+Information Dominance, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

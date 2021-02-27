@@ -1,0 +1,62 @@
+UNCLASSIFIED//
+ROUTINE
+R 131316Z MAR 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 062/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC//N2N6/MAR//
+
+SUBJ/ACADEMIC YEAR 2019-2020 SELECTEES FOR THE NAVAL POSTGRADUATE SCHOOL 
+ENLISTED CYBER MASTER'S DEGREE PROGRAM//
+
+REF/A/MSG/CNO WASHINGTON DC/111807ZOCT18//
+
+AMPN/REF A IS NAVADMIN 253/18, ENLISTED CYBER MASTER'S DEGREE OPPORTUNITY AT 
+NAVAL POSTGRADUATE SCHOOL.//
+
+RMKS/1.  This NAVADMIN announces selectees for the 2019-2020 Naval 
+Postgraduate School (NPS) Master of Science in Applied Cyber Operations 
+(MACO) Program.
+
+Name (Last, First MI)	    Rate	Parent Command
+Drew, Sasha K	            ITC(IW/SW)	USS Green Bay (LPD 20)
+Heinen, Charles W           CTN1(IW/SG) Cyber Defense Activity SIXTY-FOUR
+Rodriguezreyes, Carlos O    ITC(IW/SW)	Naval Computer and 
+Telecommunications Area Master Station Atlantic
+Rosario, Hector M           IT1(IW/SW)	Navy Reserve Forces Command
+Sauerbier, Jason R          IT1(IW)	NATO Alliance Ground Surveillance Force
+
+2.  Program dates:  There will be two start dates for this academic year.  
+ITC Rodriguezreyes, IT1 Rosario, and IT1 Sauerbier will report 23 September 
+2019 with instruction commencing 30 September 2019.  ITC Drew and CTN1 Heinen 
+will report 23 March 2020 with instruction commencing 30 March 2020.
+
+3.  Graduates of the MACO program will earn the H07A NEC (Applied Cyber 
+Operations Master) and should expect to serve in a utilization tour 
+immediately following graduation.  Further utilization for program graduates 
+will be appropriately balanced with other priorities such as career 
+progression, sea/shore tour rotation, etc.
+
+4.  Point of contact is Mr. Curtis Bogetto at (703) 604-6289/DSN 664 or via 
+e-mail:  curtis.bogetto(at)navy.mil.
+
+5.  My thanks to those stellar Sailors who applied for this program, and 
+congratulations to those who were selected.
+
+6.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,36 @@
+UNCLASSIFIED//
+ROUTINE
+R 091639Z OCT 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 238/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/NAVY SPECIAL WARFARE OFFICER CONTINUATION PAY UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/241541ZNOV99//
+REF/B/MSG/CNO WASHINGTON DC/131408ZJUL01//
+NARR/REF A IS NAVADMIN 321/99, NAVAL SPECIAL WARFARE OFFICER CONTINUATION PAY 
+(SPECWAROCP).  REF B IS NAVADMIN 175/01, CHANGES TO NAVAL SPECIAL WARFARE 
+OFFICER CONTINUATION PAY (SPECWAROCP) PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces the update to the Naval Special Warfare 
+Officer Continuation Pay (SPECWAROCP) program for qualified Naval Special 
+Warfare (NSW) officers with 1130 or 1137 designator and supersedes reference 
+(a) and reference (b).  For more information on requesting SPECWAROCP and 
+eligibility criteria see OPNAVINST 7220.16A.
+
+2.  Point of contact is the Naval Special Warfare Officer Community Manager 
+at (703) 604-5008 or via e-mail at SEAL_OCM(at)navy.mil.
+
+3.  Released by Vice Admiral W. F. Moran, N1.
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

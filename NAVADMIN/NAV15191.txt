@@ -1,0 +1,63 @@
+UNCLASSIFIED//
+ROUTINE
+R 141628Z AUG 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 191/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/AUG//
+
+SUBJ/OFFICE OF PERSONNEL MANAGEMENT (OPM) DATA BREACH:  DECKPLATE TRAINING 
+FOR NAVY SAILORS//
+
+REF/A/MSG/ALNAV052/15//
+REF/B/MSG/ALNAV056/15//
+NARR/ REF A IS ALNAV 52/15 OFFICE OF PERSONNEL MANAGEMENT DATA BREACH. REF B 
+IS ALNAV 56/15 OFFICE OF PERSONNEL MANAGEMENT DATA BREACH  LIST OF AFFECTED 
+PERSONNEL GROWS.//
+POC/MS. BROOKE ZIMMERMAN/CIV/OPNAV N2N6BC/WASHINGTON DC/TEL:571-256 
+8521/EMAIL:BROOKE.ZIMMERMAN@NAVY.MIL//
+
+    1.  This NAVADMIN points to specific resources to assist in training Navy 
+Sailors to respond to the recent Office of Personnel Management (OPM) data 
+breach.
+
+    2.  Background:  As detailed in references (a) and (b), OPM has announced 
+two breaches of their databases affecting an estimated total of 25.5 million 
+current and former federal employees.  This includes active and reserve 
+military and civilian personnel.  Exposed personal information includes SSNs, 
+residency and educational history, health and medical information, employment 
+history, marital status, foreign travels, information about children and 
+other relatives as well as personal friends and business acquaintances, 
+financial history, criminal and non-criminal court cases, and passport 
+information.  Spouses or cohabitants of affected personnel may also be 
+impacted. Official notifications to affected personnel will be sent via U.S. 
+Postal Service beginning in September and may take months to be completed.
+
+    3.  The Secretary of the Navy has established a portal 
+(http://www.secnav.navy.mil/OPMBreachDON/Pages/default.aspx) to consolidate 
+the latest information for all Navy personnel.  This site is designed as a 
+one-stop shop for information and resources.  It includes a commanders 
+toolkit and has been updated to include training materials specifically 
+designed for deck-plate training of Sailors on what it means to them.  An 
+information trifold card and graphics designed for printing or posting in 
+work spaces have also been added.  The portal is updated as new/additional 
+information becomes available.
+
+    4.  Your personal information was likely compromised.  Do not wait to 
+take steps to protect yourself or your personnel.  Be vigilant about the 
+security of your personal information, set up fraud alerts on your accounts, 
+be aware of phishing scams, and report all suspected attempts to solicit 
+personal and work-related information to your commander, security manager and 
+Naval Criminal Investigative Service. 
+
+    5.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations, 
+Information Dominance, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,76 @@
+UNCLASSIFIED
+ROUTINE
+R 211851Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 179/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N8/JUL//
+
+SUBJ/FISCAL YEAR 2018 PROJECTED SHIP INACTIVATION SCHEDULE
+
+REF/A/DOC/OPNAVINST 4770.5H/20140424//
+REF/B/DOC/OPNAVINST 5400.44A/20111013//
+REF/C/DOC/OPNAVINST 5441.1/20140911//
+NARR/REF A IS NAVY ORGANIZATION CHANGE MANUAL (NOCM) FOR SUBMITTING 
+ORGANIZATIONAL CHANGE REQUESTS (OCR) TO INCLUDE SHIP DECOMMISSIONINGS OR 
+INACTIVATION.  REF B IS OPNAV POLICY AND GUIDANCE FOR THE INACTIVATION, 
+RETIREMENT, AND DISPOSITION OF U.S. NAVAL VESSELS.//
+
+RMKS/1.  This NAVADMIN shall be read in its entirety to ensure all 
+stakeholders in the ship inactivation process are aware of the projected 
+retirement schedule for the upcoming fiscal year (FY) 2018, respective 
+responsibilities and necessary follow-up actions.  Ship retirement decisions 
+reflected in paragraph 2 below align with the presidents budget for 2018 or 
+subsequent execution year decision made by leadership.
+
+2. To facilitate fleet planning efforts to conduct decommissioning continuous 
+maintenance availability (CMAV), the projected schedule for inactivating 
+battle force and non-battle force U.S. naval vessels in fy18 is promulgated 
+as follows:
+
+SHIP NAME		      INACTIVATION DATE        POST CMAV STATUS
+USS PONCE                     14 Oct 2017	       Dismantlement
+(AFSB(I) 15)
+USNS LAWRENCE H GIANELLA      1 Aug 2018	       Interagency Transfer
+(T-AOT 1125)					       (Maritime Administration)
+
+3. Per ref (a), Fleet Commanders shall submit an organizational change 
+request for commissioned USS ships and per reference (b), military sealift 
+command shall submit a naval message (within 90 days of the event) for USNS 
+ships, to formally notify the Office of the Chief of Naval Operations (OPNAV) 
+of a ships decommission or end of service.  Submit revisions due to 
+operational schedule changes per references (a) and (b).  It is the 
+responsibility of Commander, U.S. Fleet Forces Command and Commander, U.S. 
+Pacific Fleet in coordination with their respective TYCOM to ensure the 
+appropriate lower echelon commands are notified of any changes in the ship 
+inactivation schedules, as well as the OPNAV shipbuilding conversion, Navy 
+(SCN) Manager OPNAV N805, and respective OPNAV resource sponsors.
+
+4. Adjustments to paragraph 2 ship inactivation that cross the current fiscal 
+year must be coordinated with OPNAV N805 due to reporting requirements that 
+Navy must inform congress on execution year force structure changes that 
+differ from what congress authorized/appropriated and signed into law by the 
+president.  OPNAV shall promulgate changes to the inactivation fiscal year as 
+required.
+
+5. The ships Commanding Officer, Masters, or Immediate Superior in Command, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning ceremony) announcing the ships official retirement date 
+and a brief history of the significant events in the life of the ship per 
+reference (b).  The Naval History and Heritage Command and Naval Vessel 
+Register Custodian, shall be included as info addressees.
+
+6. Point of contact is Barbara Lewis, OPNAV(N805), at (703) 614-2253/DSN 224-
+225, Barbara.lewis1(at)navy.mil//
+
+7. Released by VADM W. K. LESCHER, DCNO, N8.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

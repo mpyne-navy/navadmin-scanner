@@ -1,0 +1,54 @@
+UNCLASSIFIED//
+ROUTINE
+R 111536Z FEB 19
+FM CNO WASHINGTON DC//DNS//
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 033/19
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//DNS//
+
+SUBJ/DEPARTMENT OF THE NAVY ISSUANCES (DONI) WEBSITE AND NAVAL FORMS ONLINE 
+(NFOL)//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS//
+REF/A/OPNAVINST 5215.17A
+REF/B/SECNAVINST 5215.1E
+REF/C/SECNAV MANUAL 5213.1
+NARR/REF A IS THE NAVY DIRECTIVES MANAGEMENT PROGRAM INSTRUCTION OF
+26 MAY 2016.  REF B IS THE SECRETARY OF THE NAVY DIRECTIVES POLICY 
+INSTRUCTION OF 28 OCTOBER 2014 WITH CHANGE TRANSMITTAL 2 OF 27 JULY 2018.  
+REF C IS DEPARTMENT OF THE NAVY FORMS MANAGEMENT MANUAL OF DECEMBER 2005.//
+
+RMKS/1.  Per references (a) and (b), the official electronic repository of 
+Secretary of the Navy (SECNAV) directives and Office of the Chief of Naval 
+Operations (OPNAV) directives is the Department of the Navy Issuances (DONI) 
+website.  Per reference (c), Naval Forms Online (NFOL) is the official 
+Department of the Navy (DON) repository for all DON forms.
+
+2.  Due to the closure of the Defense Logistics Agency (DLA) datacenter in 
+Philadelphia, PA, where the old DONI and NFOL servers resided, the former 
+DONI website (http://doni.documentservices.dla.mil/) and NFOL website
+(https://navalforms.documentservices.dla.mil/web/public/home) have been 
+decommissioned.
+
+3.  The URL to the new public DONI Web site is 
+https://www.secnav.navy.mil/doni, and as of 25 January 2019, is live and 
+operational.
+
+4.  As of 25 January 2019, DON forms will be temporarily hosted, for up to 1 
+year, on DLA's Forms OnLine (FOL) at 
+https://forms.documentservices.dla.mil/order/.  Users having issues with the 
+site using Internet Explorer should use Google Chrome instead.
+
+5.  Released by Ms. Steffanie B. Easter, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

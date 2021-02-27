@@ -1,0 +1,53 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 101408Z AUG 20 MID510001593720U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+CMC WASHINGTON DC
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 224/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC/N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/AUG//
+
+SUBJ/ESTABLISHMENT OF NAVY FOREIGN MATERIEL PROGRAM DISTRIBUTION LIST FOR 
+FORMAL CORRESPONDENCE//
+
+RMKS/1.  The Navy Foreign Materiel Program (NFMP) mission is to enhance 
+survivability, lethality, and force protection of the U.S. Navy through 
+analysis, testing, evaluation, and documentation of foreign materiel through 
+Scientific and Technical Intelligence.  NFMP assesses capabilities and 
+vulnerabilities, and the evaluation of operational performance against U.S.
+systems and countermeasures (Research, Development, Test and Evaluation).
+
+2.  To better serve our Navy community, NFMP is creating a Navy-wide 
+distribution list for NFMP communication with Navy stakeholders for formal 
+correspondence.
+
+3.  To be included on the NFMP distribution list, please provide your name, 
+Secret Internet Protocol Router (SIPR) network and Joint Worldwide 
+Intelligence Communications Systems (JWICS) e-mail, and a brief justification 
+paragraph to OPNAV N2N6 NFMP Requirements Manager, SIPR:  NIA-
+X_NFMP(at)navy.smil.mil;
+JWICS:  fmacollect(at)nmic.ic.gov.
+
+4.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

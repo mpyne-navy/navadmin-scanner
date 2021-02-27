@@ -1,0 +1,43 @@
+UNCLASSIFIED
+ROUTINE
+R 051522Z APR 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 081/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/FY18 NAVY OLMSTED SCHOLAR PROGRAM SELECTION RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/111520ZFEB16//
+AMPN/REF A IS NAVADMIN 034/16, FY-18 OLMSTED SCHOLAR PROGRAM.//
+
+RMKS/1.  Congratulations to the following Navy Olmsted Scholar nominees for 
+being selected by the Olmsted Foundation for the FY-18 Olmsted Scholar 
+Program.  FY-18 Navy Olmsted Scholar selectees are listed in alphabetical 
+order.
+
+NAME                  RANK    DESIG
+Bogdanowicz, William  LT      1320
+Pappas, John          LT      1110
+Putko, Christopher    LT      1830
+Sault, Karl           LCDR    1120
+Smith, Zachary        LT      1310
+
+2.  As directed in reference (a), FY-18 Olmsted Scholar program selectees 
+should provide current information to Ms. Elise McGuire, NETPDC, at (850) 
+473-6064/DSN 753, or via e-mail at elise.mcguire(at)navy.mil.
+
+3.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,111 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 171240Z JUL 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 161/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS//
+
+RMKS/1.  This NAVADMIN provides Sailors and their families with information 
+to assist in planning and executing their Permanent Change of Station (PCS) 
+moves and provides information regarding upcoming improvements to the PCS 
+process and introduction of new tools.
+
+2.  Sailors can reduce out-of-pocket expenses during a PCS move by taking 
+advantage of the travel entitlements available to them in advance of their 
+move.  Travel advances are designed to assist Sailors with PCS travel 
+expenses.  This includes funding assistance for mileage, meals and lodging.  
+If you are about to make a PCS move, talk to your Command Pay and Personnel 
+Administrator (CPPA) to help you decide if a travel advance is the right 
+thing for you and your family.  Special consideration should be given to 
+those moving to an overseas duty station or to a location with a higher than 
+average cost of living.
+
+3.  Spouse Licensure Reimbursement allows spouses to have certain employment 
+licenses or certification costs reimbursed up to $500 when necessary as a 
+result of a PCS move.  See NAVADMIN 134/19 for more information.
+
+4.  Additional PCS move improvements are coming in three phases:
+    a.  Phase One (July 2019).
+        (1) MyPCS Mobile is a mobile-enabled website accessible on personal 
+and work mobile devices, tablets, laptops and desktops.
+Available now, this tool provides additional flexibility and access to a 
+personalized checklist tailored for an individual Sailors PCS move as well as 
+the ability to opt-in and immediately get on the waitlist for government 
+housing and childcare services at their new duty station for those Sailors 
+under Active Duty PCS orders.
+Sailors can generate their checklist online at any time and tasks are listed 
+chronologically to improve the overall experience for Sailors and their 
+dependents.  If a Sailor does not have a set of Active Duty PCS orders 
+presently, they can still explore the functionality of the checklist through 
+an on-line demonstration of the capability on MyPCS Mobile.
+        (2) Sailors will be able to login to MyPCS Mobile at any time through 
+the Navy App Locker at https://www.applocker.navy.mil or MyNavy Portal (MNP) 
+website at https://my.navy.mil.  MNP will have quick links available on the 
+homepage Sailors can use to login to MyPCS Mobile and save the website as a 
+favorite on the browser of their choice.  By downloading the Navy App Locker 
+for either Android or Apple devices, Sailors can quickly access the MyPCS 
+Mobile and other Navy-sponsored content.  Sailors can access the MyPCS Mobile 
+website without a Common Access Card (CAC), using commercial grade Multi-
+Factor Authentication (MFA) credentials for security.
+        (3) To set up CAC-free access, log into MNP on a CAC-enabled machine.  
+Your name should appear at the top of the page.  Click on your name, select 
+my account, then select the instructions for CAC- free setup.  Follow the 
+steps for either Apple iOS or Google Android to authenticate your identity 
+under the instructions tab.  NOTE:
+This is a one-time event and allows the user to establish their secure MFA 
+account to log into the CAC-less applications or websites.  The mobile device 
+of the user must have access to either WiFi or cellular data services to 
+complete the process.
+        (4) PCS Entitlements Calculator is a tool to assist Sailors budget 
+for travel-related PCS expenses and it will be available on MNP with a 
+release date outlined in an upcoming NAVADMIN.
+    b.  Phase Two (August 2019)
+        (1) A new format for PCS orders called lean orders will be released 
+in early August and available in MyPCS Mobile and on MNP for Sailors on 
+Active Duty PCS orders.  This is a streamlined, simplified and plain language 
+orders format, providing Sailors and their families everything they need to 
+know to execute a move on a few screens on a mobile device.  The full text 
+orders will also be available.
+        (2) In early August, some Sailors who have a government travel charge 
+card (GTCC) will have the option to participate in a pilot program to use the 
+GTCC for all PCS related travel expenses (in lieu of obtaining a travel 
+advance).  Specifics on this new option will be outlined in an upcoming 
+NAVADMIN.
+    c.  Phase Three (September 2019).  Sailors will be able to complete a 
+fully electronic travel voucher using MyPCS Mobile on their mobile device.  
+Sailors will be able to upload receipts, complete a voucher that has been 
+prepopulated with basic information, electronically sign and provide it to 
+their CPPA for final processing.
+
+5.  These initiatives are just the beginning to Navy fielding a modernized 
+PCS move process that makes the overall customer experience better for 
+Sailors and their families.
+
+6.  Contact MyNavy Career Center at 833-330-MNCC/6622 or via e-mail at 
+askMNCC(at)navy.mil with any issues or to provide feedback.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

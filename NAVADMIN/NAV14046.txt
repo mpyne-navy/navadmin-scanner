@@ -1,0 +1,129 @@
+RTTUZYUW RUEWMCS0000 0591843-UUUU--RUCRNAD
+ZNR UUUUU
+R 281843Z FEB 14
+FM CNO WASHINGTON DC//DNS//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//DNS//
+BT
+UNCLAS//05000//
+NAVADMIN 046/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/FEB//
+
+SUBJ/OPNAV DIRECTIVES, FORMS AND INFORMATION MANAGEMENT CONTROL PROGRAMS//
+
+REF/A/TITLE 44 U.S.C. SECTION 35//
+REF/B/TITLE 5 U.S.C. SECTION 552//
+REF/C/32 C.F.R. TITLE 32, SUBTITLE A, CHAPTER VI, SUBCHAPTER A, 
+PART 700, SUBPART A, SECTION 700.106// 
+REF/D/OMB Directive M-10-06//
+REF/E/DOC/OPNAV/13JUN2005//
+REF/F/DOC/SECNAV/1DEC2005//
+REF/G/DOC/SECNAV/1DEC2005//
+NARR/REF A IS TITLE 44 U.S.C. SECTION 35, PAPERWORK REDUCTION ACT. 
+REF B IS TITLE 5 U.S.C. SECTION 552 FREEDOM OF INFORMATION ACT. REF C IS 32 
+C.F.R. TITLE 32, SUBTITLE A, CHAPTER VI, SUBCHAPTER A, PART 700, SUBPART A, 
+SECTION 700.106, NAVY REGULATIONS - CONTROL OF ADMINISTRATIVE REQUIREMENTS. 
+REF D IS OMB DIRECTIVE M-10-06, OPEN GOVERNMENT DIRECTIVE. REF E IS OPNAVINST 
+5215.17, NAVY DIRECTIVES ISSUANCE SYSTEM. REF F IS SECNAV M-5213.1, 
+DEPARTMENT OF THE NAVY FORMS MANAGEMENT MANUAL. REF G IS SECNAV M-5214.1, 
+DEPARTMENT OF THE NAVY INFORMATION REQUIREMENTS (REPORTS) MANUAL. 
+
+RMKS/1.  Director, Navy Staff - Directives, Forms and Information Management 
+Control Branch (DNS-15) was established in the interest of references (a) 
+through (d).  Policy contained within calls for transparency and efficiency 
+in government through management of policy, forms and information 
+collections.  Adherence to these programs is mandatory. 
+
+2.  Directives Management:  Directives establish policy, define roles and 
+responsibilities and provide authority for forms and information collections.  
+In accordance with reference (e) directives should, but are not limited to:
+
+a. be essential to the effective administration or operation of activities 
+concerned;
+b. have the widest distribution and availability;
+c. not duplicate directives from higher authority;
+d. not establish undue administrative burden; and
+e. abide by required style and formatting requirements.
+
+OPNAV directives are formally published on the Department of the Navy 
+Issuances Web site http://doni.documentservices.dla.mil and questions about 
+Office of the Chief of Naval Operations (OPNAV) directives may be sent to 
+sn_op_directives@navy.mil.  Commands that originate and or sponsor directives 
+shall have personnel complete the following directives training modules on 
+Navy Knowledge Online https://www.nko.navy.mil DOR-END-1.0 (Essentials for 
+Navy Directives) and DOR-SDFSC-1.0 (Specific Directives Formatting and 
+Special Cases).
+
+3.  Forms Management:  Forms are the most efficient method to transmit like 
+data in both human and machine readable formats.  Forms should never be 
+issued as "templates" or "formats", shall be reviewed against the legal 
+requirements for data collected, and must contain proper classification 
+markings and supersession statements.  In accordance with reference (f) forms 
+should, but are not limited to:
+
+a. contain neutral non-offensive language;
+b. be created in keeping with needs for assistive technology (508 
+compliance);
+c. not duplicate higher level forms;
+d. have clear and logical layouts;
+e. be linked to at least one authorizing document; and
+f. abide by all requirements on collection and use of controlled and 
+sensitive information.
+
+All forms within the Department of the Navy (DON) are to be formally 
+published on the Naval Forms OnLine Web site 
+htps://navalforms.documentservices.dla.mil/web/public/home and questions 
+about DON forms may be sent to opnav.donforms.dns51@navy.mil.  Commands that 
+originate and or sponsor forms shall have personnel complete the following 
+forms training modules on Navy Knowledge Online https://www.nko.navy.mil DOR-
+GFMGFUT-1.0 (General Forms Management, General Forms User Training) and DOR-
+GFMFMOT-1.0 (General Forms Management, Forms Management Officer Training).
+
+4.  Information Management Control:  Information Management Control has been 
+historically called "Reports Control" in the Navy.  The name "Reports 
+Control" is misleading as this program is the umbrella program for 
+information management and is concerned with the establishment of information 
+requirements and the evaluation of the human and material cost associated 
+with each information collection activity.  Information requirements fall 
+into one of two categories; authorized and unauthorized.  Authorized 
+collections may be exempt, excepted and symbolized.  Exempt and excepted 
+information requirements are those that align with predetermined elements 
+defined in reference (g) and are not immediately required to go through cost-
+to-benefit analysis.  Symbolized collections are required to go thorough 
+cost-to-benefit analysis and if approved are assigned a control number and 
+are approved for up to three years.  In accordance with reference (g) 
+information requirements should, but are not limited to:
+
+a. be reviewed by a subject matter expert to ensure compliance with all 
+statutory requirements;
+b. be identified in the command's information collections index;
+c. not duplicate another information requirement in the DON, DoD or 
+Federal government;
+d. only collect information that meets current active requirements;
+e. be established with a minimum of impact; and
+f. be linked to at least one authorizing document.
+
+5.  DNS-15 is working to maintain accurate and up to date OPNAV directives, 
+forms and information requirements indexes.  In keeping with this aim, a 
+comprehensive review of all directives older than 5 years as well as a zero-
+based review of all OPNAV forms are currently underway.
+
+6.  In order to enhance enterprise awareness of requirements on directives, 
+forms and information collections, DNS-15 will be providing a series of 
+training and information sessions using Defense Connect Online 
+https://www.dco.dod.mil/content/connect/meetings/en/log_in.html virtual 
+meeting room platform.  Training announcement memorandums will be sent to all 
+echelon 1 and 2 commands for further dissemination to subordinate commands.  
+
+7.  Overview material about these programs may be downloaded from 
+https://doni.documentservices.dla.mil/General%20Items/DNS-
+15%20Programs%20Overview.pdf.  This information is intended for widest 
+distribution and is relevant to all Naval personnel.
+
+8. Released by Vice Admiral S. H. Swift, Director, Navy Staff.//
+
+BT 
+#0000
+NNNN
+

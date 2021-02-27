@@ -1,0 +1,119 @@
+UNCLASSIFIED
+ROUTINE
+R 041710Z JUN 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 140/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/MODIFICATION OF THE NAVY CYBER WARRANT OFFICER PROGRAM//
+
+REF/A/DOC/OPNAV/14DEC09//
+REF/B/MSG/CNO WASHINGTON DC/N1/071628ZOCT13//
+REF/C/MSG/CNO WASHINGTON DC/N1/101548ZAUG16//
+REF/D/DOC/SECNAV/14APR08//
+NARR/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.  
+REF B IS NAVADMIN 259/13, CHANGE TO THE CYBER WARRANT OFFICER COMMISSIONING 
+PROGRAM.
+REF C IS NAVADMIN 177/16, CHANGE TO THE CYBER WARRANT OFFICER COMMISSIONING 
+PROGRAM.  
+REF D IS SECNAVINST 1412.8B, REGULATIONS TO GOVERN THE PROMOTION AND 
+CONTINUATION OF LIMITED DUTY OFFICERS (LDOS) AND CHIEF WARRANT OFFICERS 
+(CWOS) SERVING ON THE ACTIVE-DUTY LIST (ADL) AND RESERVE ACTIVE-STATUS LIST 
+(RASL) IN THE U.S. NAVY.//
+
+RMKS/1.  This NAVADMIN announces the implementation of warrant officer-1 
+(WO1) pay grade (W-1) for cyber warrant officers, and solicits applications 
+for the FY-19 and FY-20 WO1 Cyber Warrant Selection Boards, updates Cyber 
+Warrant Officer career progression and provides eligibility requirements for 
+WO1 and chief warrant officer-2 (CWO2).  Where conflicts with reference (a) 
+exist, this NAVADMIN takes precedence.  This NAVADMIN cancels references (b) 
+and (c), and provides updates to cyber warrant officer program eligibility 
+criteria and career paths.
+
+2.  The cyber warrant officer program was established in 2010 to meet the 
+increasing demand for officers with specific proven cyber focused skills and 
+abilities.  Paygrade W-1 and associated career progression opportunity is now 
+approved for Sailors who have this critical skill and meet the accession 
+eligibility criteria below.
+
+3.  To be eligible, all applicants applying for appointment as a cyber WO1 or 
+CWO2 must be in the Cryptologic Technician Networks (CTN) rating and possess 
+at least one of the following Interactive On-Net (ION) Operator Naval 
+enlisted classifications (NEC):  H13A, H14A, H15A, or H16A (previously 9308, 
+9326, 9327, or 9328 respectively) as well as meet the additional criteria 
+below:
+    a.  Cyber WO1 eligibility:  CTN E-5 and above with time in service (TIS) 
+between 6 and 12 years.
+    b.  Cyber CWO2 eligibility:  As announced in the annual Limited Duty 
+Officer (LDO)/Chief Warrant Officer (CWO) in-service procurement board (ISPB) 
+NAVADMIN in line with reference (a) and associated eligibility criteria.
+
+4.  Cyber Warrant Officer Career Progression
+    a.  WO1.  Officers appointed as cyber WO1 shall incur a 6-year service 
+obligation from date of appointment, shall serve a minimum time in grade of 3 
+years.  WO1 must complete a minimum of 12 years of TIS prior to promotion and 
+commissioning to CWO2.
+    b.  CWO2.  Officers appointed as cyber CWO2 shall continue career 
+progression in line with reference (d).  Subsequent progression to cyber 
+chief warrant officer-3 (CWO3) through chief warrant officer-5 (CWO5) will 
+continue to be governed by reference (d).
+
+5.  Cyber WO1 application and selection process:
+    a.  FY-19 and FY-20 WO1 selections will be made via a special 
+administrative board chaired by Bureau of Naval Personnel, Officer Community 
+Management Branch (BUPERS-3) with a convening date no earlier than 30 days 
+from release of this NAVADMIN, but not later than 1 September 2018 with three 
+selects to be appointed to WO1 in FY19 and three selects to be appointed to 
+WO1 in FY20.
+    b.  WO1 applicants who meet criteria prescribed in paragraph 3 of this 
+NAVADMIN and are seeking consideration for selection and appointment to WO1 
+in FY-19 and FY-20 must submit applications to the point of contact 
+identified in subparagraph 6c below no later than 30 days following release 
+of this NAVADMIN using the following
+criteria:
+        (1) Application and Interview Appraisal forms are available for 
+download at http://www.public.navy.mil/bupers-
+npc/boards/administrative/ldo_cwo/Pages/default.aspx.  Only the current 
+version of the Interview Appraisal Sheet (NAVCRUIT 1131/5 Rev 02-2017) will 
+be accepted.
+        (2) Three interview appraisals conducted by Information Warfare 
+Community (IWC) officers must be included, and applicants are highly 
+encouraged to attain appraisals from IWC officers serving in the pay grades 
+of O-4 and above, or as cyber CWO3 and above.  The potential block on 
+interview appraisals must be marked for WO1 candidates.
+        (3) Commanding officer (CO) or officer in charge (OIC) endorsement 
+must contain the following statement:  *Applicant meets requirements of this 
+NAVADMIN, the physical fitness standards of OPNAVINT 6110.1J, has __ years __ 
+months of active documented experience while holding the following ION 
+NEC(s): (9308/H13A, 9326/H14A, 9327/H15A, or 9328/H16A)* as appropriate.
+
+5.  Additional cyber warrant officer program updates will be contained in 
+future LDO/CWO ISPB NAVADMINs in line with reference (a).
+
+6.  Points of contact:
+    a.  For application and eligibility questions contact CWO5 Hector 
+Sandoval at (901) 874-2464/DSN 882, or e-mail at hector.sandoval(at)navy.mil, 
+or Mr. Mitchell Allen at (901)874-3044/DSN 882, or-e-mail at 
+mitchell.allen(at)navy.mil.
+    b.  For cyber warrant officer program questions contact CDR Lemuel 
+Lawrence at (901) 874-3123/DSN 882, or e-mail at lemuel.lawrence(at)navy.mil.
+    c.  Submit FY-19 and FY-20 WO1 applications and associated questions to 
+Mr. Christopher Leigh at (901) 874-3391/DSN 882, or e- mail at 
+christopher.leigh(at)navy.mil.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

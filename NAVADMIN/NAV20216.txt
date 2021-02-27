@@ -1,0 +1,57 @@
+UNCLASSIFIED//
+ROUTINE
+R 301205Z JUL 20 MID510001523459U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 216/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM DUE DATE EXTENSION//
+
+REF/A/MSG/CNO WASHINGTON DC/161157ZJUL20//
+REF/B/MSG/CNO WASHINGTON DC/111943ZJUN20//
+NARR/REF A IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY 
+EXAM REVISED BUSINESS RULES.  
+REF B IS NAVADMIN 167/20, SEPTEMBER 2020 (CYCLE 107) NAVY-WIDE ADVANCEMENT 
+EXAMINATIONS FOR SELECTED RESERVE E-4 THROUGH E-6 PETTY OFFICERS//
+
+RMKS/1.  This NAVADMIN amends references (a) and (b) by modifying the 
+Professional Military Knowledge Eligibility Exam (PMK-EE) due date 
+requirement for Navy-Wide Advancement Examination (NWAE) Cycles 248 and 107. 
+The revised deadline is now 31 August 2020.
+
+2.  Due to technical issues, which may have hindered Sailors ability to be 
+marked as PMK-EE complete in the Fleet Management and Planning System 
+(FLTMPS), all E4-E6 candidates, who are required to complete PMK-EE in order 
+to participate in the Cycle 248 Active Duty and Full Time Support NWAE, and 
+the Cycle 107 Selected Reserve NWAE, are granted a PMK-EE due date extension 
+to 31 August 2020.  As a reminder, PMK-EE is only required to be completed 
+once per paygrade, not every cycle.
+
+3.  For additional information about PMK-EE, go to the MyNavy Portal
+(MNP) at https://my.navy.mil, select Career & Life Events, Advancement and 
+Promotion page, then scroll down and click on the PMK-EE link.  There you can 
+download PMK-EE Smart Sheet detailed supplemental guidance.
+
+4.  For questions about PMK-EE that are not answered by visiting MNP, contact 
+the MyNavy Career Center Help Desk at 1-833-330-6622, or via email at 
+askmncc(at)navy.mil.
+
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

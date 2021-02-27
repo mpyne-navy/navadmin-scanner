@@ -1,0 +1,72 @@
+UNCLASSIFIED
+ROUTINE
+R 051308Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 160/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FY-18 GRADUATE EDUCATION VOUCHER PROGRAM//
+
+REF/A/DOC/OPNAV/26FEB13//
+
+AMPN/REF A IS OPNAVINST 1520.37B, GRADUATE EDUCATION VOUCHER PROGRAM.//
+
+RMKS/1.  This NAVADMIN provides details on the Graduate Education Voucher 
+(GEV) Program and guidance for FY-18 program application. Eligibility, 
+obligated service requirements, subspecialty utilization tour, and authorized 
+program benefits are prescribed in reference (a).  Where information differs 
+between this NAVADMIN and reference (a), this NAVADMIN takes precedence.
+
+2.  GEV funding is authorized for off-duty study in masters degree programs 
+which meet the requirements of at least one approved Navy subspecialty code 
+as verified by Naval Postgraduate School.  For FY-18, 32 GEV quotas for 
+select unrestricted line officers are planned, subject to funding 
+availability, and all quotas must be allocated by 27 July 2018.
+    a.  Quotas are apportioned as follows:
+        Aviation officers - 10
+        Submarine officers - 8
+        Surface Warfare officers  10
+        SPECWAR/EOD officers  4
+    b.  FY-18 Quotas by area of study, subspecialty for area of study, and 
+warfare area are: 
+
+Computer Network Operations and Technology (6209P/G)
+                      AV 0   SUB 1   SURFACE 0   SPECWAR/EOD 0
+Cyber Systems and Operations (6208P/G)
+                      AV 0   SUB 0   SURFACE 1   SPECWAR/EOD 0
+Engineering (5XXXP/G)
+                      AV 3   SUB 2   SURFACE 2   SPECWAR/EOD 0
+Financial Management (3105P/G)
+                      AV 5   SUB 2   SURFACE 5   SPECWAR/EOD 2
+OPS Research Analysis (3211G)
+                      AV 0   SUB 1   SURFACE 0   SPECWAR/EOD 0
+Regional/National Security Studies (2XXXP/G)
+                      AV 2   SUB 2   SURFACE 2   SPECWAR/EOD 2
+
+3.  Travel funding considerations will only be made for distance learning 
+programs that have 20 percent or less mandated university main campus 
+residency requirements.  International travel will not be funded.  
+Application and program specifics may be found in reference (a) and at
+http://www.navycollege.navy.mil/resources/gev.htm
+
+4.  Points of contact:
+    a.  For program specific questions, contact Mr. Bryan Gromer at
+(850)473-6061/DSN 753, or e-mail at bryan.gromer(at)navy.mil.
+    b.  For policy questions, contact Dr. Cheral Cook at
+(850)452-3671/DSN 459, or via e-mail at cheral.cook(at)navy.mil.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

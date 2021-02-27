@@ -1,0 +1,285 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 281926Z APR 20 MID110000623965U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 123/20
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/EFFECTIVE USE OF REMOTE WORK OPTIONS UPDATE//
+
+REF/A/NAVADMIN/OPNAV/172159ZMAR20//
+
+REF/B/NAVADMIN/OPNAV/022018ZAPR20//
+
+REF/C/EXORD/FCC/201950ZMAR20//
+
+REF/D/MEMO/DOD CIO/13APR20//
+
+NARR/REF A IS NAVADMIN 068/20, EFFECTIVE USE OF REMOTE WORK OPTIONS.  REF B 
+IS NAVADMIN 093/20, DOD COMMERCIAL VIRTUAL REMOTE COLLABORATION ENVIRONMENT 
+(CORRECTED COPY).  REF C IS FCC EXORD 20-021, EFFECTIVE USE OF REMOTE WORK 
+OPTIONS.  REF D IS DOD CHIEF INFORMATION OFFICER MEMO ON AUTHORIZED TELEWORK 
+CAPABILITIES AND GUIDANCE.// POC/ERIC MCCARTNEY/CAPT/OPNAV N2N6G32/EMAIL:  
+ERIC.S.MCCARTNEY(AT)NAVY.MIL
+/TEL:  571-256-8399/DSN 312-260-8399//
+
+RMKS/1.  This NAVADMIN cancels reference (a) and provides updated remote 
+working guidance.  We continue to refine our remote work capabilities and 
+capacity to meet our mission requirements.  Please stay cyber safe and 
+vigilant.  This is a joint OPNAV N2N6 and Fleet Cyber Command/C10F message.
+
+2.  As of 20 April, more than 680,000 Navy users have been sent invitations 
+to leverage the DoD Commercial Virtual Environment (CVR) introduced in 
+reference (b).  If not in receipt of an invitation, perform the following 
+steps:
+    a.  Go to:  https://milconnect.dmdc.osd.mil/milconnect/
+    b.  Click Update work contact info (GAL)
+    c.  Select CAC tab and log in
+    d.  Select MIL, CIV, or CTR tab, as applicable
+    e.  Under Personnel Status, edit BOTH of the following drop down menus
+        (1) Duty Organization
+        (2) Duty Sub Organization
+NOTE:  There are over 2,000 Navy organizations listed in MilConnect.  You 
+will need to find and select your specific organization in the list.
+    f.  Under Personnel Email Addresses, ensure it is the correct .mil email 
+address
+    g.  Click Submit button
+NOTE:  Updating this information will make remaining Navy users eligible to 
+receive a CVR invitation within 48 hours.  The invitation will come from 
+info(at)email.cvr.mil, with subject line (TEAMS GENERATED) Welcome to DODs 
+Commercial Virtual Remote Environment.  Ensure to check the Junk Mail folder 
+as well.  Instructions for activating CVR accounts are in reference (b).
+
+3.  Remote Work Best Practices
+    a.  Security remains paramount - continue to follow all security 
+guidelines in paragraph 7.  Do not allow the adversary to exploit our systems 
+and collect information that could be used against us.
+    b.  Be vigilant in considering whether the information you are preparing 
+to transmit is Controlled Unclassified Information (CUI).  If so, adhere to 
+requirements outlined in paragraph 7(b).  More information on CUI can be 
+found on the second portal link in paragraph 8.a.(1), Deputy Department of 
+Navy Chief Information Officer, Navy (DDCIO(N)) Corona Virus Disease (COVID)-
+19 page.
+    c.  Do not stream video while connected remotely or onsite; bandwidth is 
+limited and must be used efficiently.
+    d.  Continue to read Navy/Marine Corps Intranet (NMCI) or OCONUS Navy 
+Enterprise Network (ONE-Net) bulletins as they contain critical information.  
+COVID-19 and remote work-related bulletins are posted on the
+DDCIO(N) portal link located in paragraph 8.
+
+4.  The Joint Force Headquarters for Department of Defense Information 
+Networks
+(JFHQ-DODIN) and Commander, TENTH Fleet (C10F) continue to block most 
+streaming media websites to maximize operational bandwidth available for 
+COVID-19 response remote work.  Echelon II commands consolidate any exception 
+requests and submit in accordance with reference (c).  Submit exemption 
+requests
+at:  
+https://intelshare.intelink.gov/sites/fcc/N3/_layouts/15/start.aspx#/Lists
+/Streaming%20Video_Social%20Media%20Exemptions
+
+5.  Remote Access Guidance
+    a.  Utilize remote work options in the following prioritized order to 
+facilitate maximum access for all users.
+        (1) Mobikey and Enhanced Virtual Desktop (EVD)
+        (2) Mobile devices with Blackberry Unified Endpoint Management (UEM)
+        (3) Outlook Web Access (OWA)
+            (a) Users with government laptops should access email via OWA 
+vice Remote Access Server (RAS), whenever possible, to reduce the RAS 
+connection load.  Users can download/upload files from OWA when using 
+Internet Explorer (IE).
+            (b) Users without government laptops accessing OWA utilizing a 
+personal device with a CAC reader will ensure it is in accordance with 
+security measures outlined in paragraph 7.a.
+        (4) RAS on government laptops
+            (a) Connect to RAS through one of the available gateways 
+(Norfolk, San Diego, Hawaii, Jacksonville, and Bremerton).
+            (b) If accessing the network via RAS:  reboot your computer prior 
+to each session, access NMCI or ONE-Net as appropriate, complete required 
+activities, and then terminate your RAS session.
+            (c) If your RAS connection hangs up and never gets past securing 
+connection, the Virtual Adapter may not be properly loading.  Contact the 
+NMCI Help Desk for assistance.
+
+6.  Collaboration Services.
+    a.  Per reference (d), unauthorized cloud and collaboration capabilities 
+place DoD information at risk and are not authorized to conduct internal DoD 
+business.  Navy users shall use only approved collaboration tools, as 
+outlined below.
+        (1) DoD CVR is the Navy preferred unclassified collaboration tool 
+during this period.  After the crisis, the CVR environment will be shut down 
+and all data in it will be permanently deleted.  Reference (b) provides 
+further details about CVR capabilities, onboarding, restrictions, and 
+support.
+        (2) Defense Collaboration Service
+            (a) Virtual meetings at https://conference.apps.mil
+            (b) Real-time chat at https://chat.apps.mil/client
+        (3) Defense Information Systems Agency (DISA) Global Video Services 
+(fee for some services)
+        (4) Secure Access File Exchange at https://safe.apps.mil for secure 
+and /or large file transfers.
+        (5) Intelink offers collaborative capabilities including file storage 
+and web-based collaboration at https://www.intelink.gov.
+        (6) DoD and Navy SharePoint portals may be used for collaboration and 
+file sharing, including Milsuite at https://www.milsuite.mil.
+    b.  All Navy organizations are prohibited from establishing vendor 
+agreements or contracts for the use of new collaboration tools during the 
+COVID
+-19 crisis.  Government personnel may not task a contractor to procure any 
+collaboration tools or services on behalf of the government.  If an industry 
+partner hosts a meeting using commercial collaboration tools, government 
+personnel may participate using those tools.
+    c.  Contractors are authorized to use commercially procured collaboration 
+tools on contractor networks.  Do not process or store sensitive information, 
+including but not limited to Controlled Technical Information (CTI), 
+Personally Identifiable Information (PII), or Health Insurance Portability 
+and Accountability Act (HIPAA), unless contractually required to do so.  
+Collaborative tools on contractor networks are not to be used as a work 
+around to facilitate remote work for government personnel.
+    d.  The Naval Postgraduate School, Naval War College, and United States 
+Naval Academy may continue to use existing commercially procured 
+collaboration tools on Navy Higher Education Networks (NHENs).
+    e.  When using non-DoD approved collaboration tools with external 
+entities, such as industry partners, do not discuss, process, or transmit 
+sensitive information, including but not limited to CTI, PII, or HIPAA.
+
+7.  Security.  When working remotely, it is important to maintain physical, 
+information, and cyber security to prevent our adversaries from being able to 
+exploit our systems and collect information that could be used against us.  
+Steps that you should take to protect information and reduce the risk of 
+exploitation while teleworking are outlined below.
+    a.  Physical Security
+        (1) Do not use any CAC readers or CAC-enabled devices with government 
+furnished equipment if they are personally procured OR have been plugged into 
+personal devices.
+        (2) While not prohibited by policy, it is prudent to avoid connecting 
+government furnished peripheral devices to personal devices.  Individual 
+commands may determine if government issued peripherals connected to personal 
+devices will be dedicated to supporting teleworking requirements or may 
+return to government only use.
+        (3) Do not attach any personal device to a government issued device.
+        (4) Do not leave your CAC in the reader when you are away from your 
+device.
+        (5) Use a strong, secure, private password on your personal device 
+and have PIN, fingerprint, or facial recognition enabled to further protect 
+your devices from unwanted physical access.
+        (6) Shield your screen from anyone who does not have a need to know 
+the information.
+        (7) Do not connect thumb drives to government-issued computers.
+    b.  Information Security
+        (1) Digitally sign emails requiring message integrity, verification 
+of sender identity (non-repudiation), or attachments.
+        (2) Digitally encrypt emails and data-at-rest that contain CUI, PII, 
+HIPAA, or all other sensitive information that should be protected against 
+unauthorized access.
+        (3) When you receive an alert that intended recipient(s) do not have 
+a certificate for encryption, there are three corrective actions:
+            (a) Refresh the email address by deleting the identified 
+addressee and use the Global Address List (GAL) to select the address of the 
+intended recipient(s).  If the alert is received a second time, remove the 
+individual(s) from the distribution and send the email without them.
+            (b) Send the identified individual a signed, encrypted email and 
+request a signed, encrypted response.  This should provide you with the 
+required certificates to include them in future encrypted email exchanges.
+            (c) Add the recipients certificates from the Global Directory 
+Service, https://dod411.gds.disa.mil/ (CAC required).
+        (4) For users on OWA, Transport Layer Security (TLS) 1.2 must be 
+enabled to support encryption.  The instructions to set this up are available 
+on the NMCI Homeport at https://www.homeport.navy.mil/support/articles/ie-
+enable-tls/.
+        (5) CUI is unclassified information that requires safeguarding or 
+dissemination controls required by law, Federal regulation, and Government-
+wide policy.  The CUI Program replaces existing agency markings like For 
+Official Use Only (FOUO) and Sensitive But Unclassified (SBU).  Under the 
+DON/Navy Policy heading on the home page of the second link in paragraph 
+8.a.(1) is information on identifying different categories of unclassified 
+information as well as additional requirements and restrictions on handling.
+            (a) Do not save sensitive information including CUI, PII, and 
+HIPAA to your personal device.
+            (b) Do not auto-forward official email to commercial or private 
+domains (e.g., Gmail, Yahoo, etc.).
+            (c) Do not auto forward your office phone to an off-site number 
+unless directed to do so by your command.
+            (d) Use only approved file sharing solutions.  See the Effective 
+Use of Remote Work Option and DON CIO Telework Reference Guide links under 
+the DON /Navy Policy heading on the home page of the second link in  
+paragraph 8.a.(1).
+    c.  Cybersecurity
+        (1) Install and use a DoD-recommended anti-virus solution on your 
+personal devices.  All DoD members have free access to a 1-year subscription 
+to McAfee antivirus software.  More information on the McAfee software can be 
+found at https://patches.csd.disa.mil/Metadata.aspx?id=79775.
+        (2) Secure home Wi-Fi routers by using Wi-Fi Protected Access (WPA) 2 
+or WPA3 security, password protecting your router with a strong secure 
+password, and enabling encryption.
+        (3) Do not click links or open file attachments from unknown 
+accounts.  If unsure of the legitimacy of an email, verify with the sender by 
+phone before proceeding.
+        (4) Utilize private browsing when possible and delete browsing 
+history, cookies, and cache after each session to avoid compromising 
+credentials.
+        (5) Patching and updates.  NMCI and ONE-Net assets being used for 
+telework should be connected to the network on a regular basis to receive 
+patches and updates to key software components using one of the following
+methods:
+            (a) Bring the asset back to regular place of work weekly, or at a 
+minimum every two weeks, and plug directly into NMCI or ONE-Net.  Reboot 
+machine to ensure it looks for and applies all available patches and updates.
+            (b) If unable to return to regular place of work due to Health 
+Protection Condition (HPCON) or other limiting factors, log into the NMCI RAS 
+sites at Norfolk, San Diego, or Jacksonville (not Pearl Harbor) or applicable 
+ONE-Net RAS site.  For NMCI, click start, then software distribution, then 
+patch connect to pull available patches and apply them to your asset.  To see 
+progress of patching, click on the small up arrow icon in the system tray 
+near the clock, then right-click on the blue Radia icon and choose show 
+console.  This software update will run in the background until complete.  If 
+possible, leave the machine connected to the RAS for at least four hours to 
+receive all applicable updates, and be sure to reboot once disconnected from 
+the RAS.  Please limit this to once per week, and to off hours (overnight) or 
+weekends.  Fleet Cyber Command may block access to RAS patching during normal 
+working hours to minimize impact to remote work.
+
+8.  Resources
+    a.  References in this NAVADMIN, Remote Work information, a one-page 
+guide to Navy Telework Capabilities, and links to additional remote work 
+guidance are located on:
+        (1) DDCIO(N) portal (CAC required) at https://portal.secnav.navy.mil 
+/orgs/OPNAV/N2N6/DDCION/SitePages/Home.aspx and 
+https://portal.secnav.navy.mil /orgs/OPNAV/N2N6/DDCION/SitePages/COVID-
+19.aspx
+        (2) DoN CIO site (Publicly Releasable Content) at
+https://www.doncio.navy.mil/ContentView.aspx?id=13279
+    b.  If you need to purchase your own CAC reader, https://milcac.us/tweaks 
+lists the best types of CAC readers for your personal computer operating 
+system.
+
+9.  Help Desks.  The NMCI and ONE-Net Help Desks are still the best avenue 
+for help for individual users, along with seeking support with local 
+representatives, such as NMCI assistant contract technical representatives 
+(ACTRs).  For help with DoD CVR, see reference (d).
+
+10.  Request widest dissemination.  This NAVADMIN will remain in effect until 
+cancelled or superseded.
+
+11.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

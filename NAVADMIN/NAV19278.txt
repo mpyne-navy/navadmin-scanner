@@ -1,0 +1,80 @@
+UNCLASSIFIED//
+ROUTINE
+R 051708Z DEC 19 MID510000776997U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 278/19
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//N9/N98//
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/NOV//
+
+SUBJ/INTRODUCTION OF NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY
+(NGA) AERONAUTICAL CONTENT EXPLOITATION SYSTEM (ACES), ELECTRONIC INSTRUMENT 
+PROCEDURES LIBRARY (E-IPL) AND EXTENSION OF JEPPESEN MILITARY CONTRACT 
+SERVICE (JMCS)//
+
+REF/A/CNAF M-3710.7/YMD: 20181030
+AMPN/Ref A is NATOPS General Flight and Operating Instructions Manual.// 
+POC/Daniel Pugh/CDR/OPNAV/LOC:  N980M/
+TEL:  (703) 695-2630; DSN:  224-2630//
+
+RMKS/1.  This NAVADMIN is applicable to all DON flying organizations and 
+activities that use DoD FLIP and Jeppesen Military Contract Service (JMCS) 
+products.
+
+2.  The NGA Aeronautical Content Exploitation System (ACES) is a graphics-
+based web application designed to provide DOD customers with immediate access 
+to a worldwide aeronautical data repository to include the Electronic 
+Instrument Procedures Library.  ACES provides users access to multiple 
+geospatial intelligence and aeronautical information data bases (e.g., 
+Automated Air Facility Information File (AAFIF), Digital Aeronautical Flight 
+Information File (DAFIF), Intel Imagery, Aeronautical Information 
+Publications (AIP) and Flight Information Publications (FLIP)).
+
+3.  ACES features a worldwide library of instrument procedures, translated 
+into English and delivered in a standardized format.
+NGA's E-IPL is now accessible via ACES and NGA's AERO app, but is not yet 
+approved for operational use.  Further guidance will be provided when the 
+E-IPL is authorized for use.
+
+4.  All mission planners, terminal procedure designers and Naval aircrew are 
+directed to begin reviewing and familiarizing themselves with ACES and E-IPL.  
+A comprehensive user's guide is accessible in the ACES "help" tab.
+
+5.  Disseminate to user level.  Users will need to create an account on the 
+NGA ACES website at:  https://aerodata.nga.mil/AeroBrowser/, from a CAC-
+enabled NIPRNET computer.  Upon account creation, users may access ACES via a 
+username and password from any computer on the World Wide Web at 
+https://aerodata.leidos.com/index.html.  Users can find the ACES users guide 
+under the "help" tab.
+
+6.  Users should report any ACES issues directly to NGA via the feedback 
+button located in the upper right corner of the ACES homepage.
+
+7.  Due to ACES and E-IPL not being suitable for operational use the JMCS 
+contract has been extended through 29 FEB 2020.  Jeppesen products will 
+continue to be available to all Navy and Marine Corps aircrew through the 
+Jeppesen website and Electronic Flight Bag (EFB) applications, Foreflight and 
+Flightdeck Pro.  As the National Geospatial-Intelligence Agency (NGA) 
+transitions to E-IPL, Jeppesen products will no longer be available through 
+the ACES website, but will continue to be available to DOD aircrew directly 
+through the Jeppesen web site at:  https://www.jeppesen.com/elink/.  Users 
+are required to create an account on the Jeppesen website at:  http://www 
+.jeppesen.com/aviation/military/echarts-online-registration.jsp.
+
+8.  The OPNAV N9 POC for this message is CDR Daniel Pugh; 
+COM: (703)695-2630; DSN: 224-2630.
+
+9.  Released by VADM J. W. Kilby, DCNO, Warfighting Requirements and 
+Capabilities (N9)//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

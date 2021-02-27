@@ -1,0 +1,101 @@
+UNCLASSIFIED//
+ROUTINE
+R 121852Z DEC 19 MID510000802112U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 292/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/FISCAL YEAR 2020 CYBERSECURITY AWARENESS CHALLENGE//
+
+REF/A/MSG/CNO WASHINGTON DC/221554ZOCT18//
+REF/B/DOC/SECNAVINST 5239.3C/2MAY16//
+REF/C/MSG/CNO WASHINGTON DC/131254ZAUG19/
+NARR/REF A IS NAVADMIN 256/18 PROVIDING GUIDANCE FOR THE FISCAL YEAR 2019 
+(FY19) CYBERSECURITY AWARENESS TRAINING.  
+REF B IS THE SECRETARY NAVY INSTRUCTION DEPARTMENT OF THE NAVY (DON) 
+CYBERSECURITY POLICY WHICH ESTABLISHES DON POLICY FOR CYBERSECURITY.  
+REF C IS NAVADMIN 191/19, FY20 GENERAL MILITARY TRAINING REQUIREMENTS// 
+POC/COTTERELL/CIV/OPNAV N2N6G11/TEL:  (703) 695-1858/E-MAIL:  
+DAWN.COTTERELL(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN supersedes reference (a) and provides guidance for the 
+Fiscal Year 2020 Cybersecurity Awareness Challenge (CAC) training 
+requirement.  The current approved version of the training is CAC 2020.
+
+2.  Per references (b) and (c), Navy personnel, civilians, and contractors 
+with access to unclassified or classified networks must complete the 
+Department of Defense (DoD) employee version of CAC by 30 September 2020.  
+Note, CAC 2020 incorporates the Intelligence Community (IC) version of 
+awareness training.  There is no longer a requirement to complete a separate 
+IC version of the training.
+
+3.  Personnel who completed CAC 2019 after 30 September 2019 but before CAC 
+2020 was available shall receive credit for their annual FY20 training.
+
+4.  Authorized methods for training delivery:
+    a.  Commands can elect to complete CAC training using instructor-led 
+delivery.  A command designated cyber security professional such as the 
+Information Systems Security Manager (ISSM) or Cybersecurity Workforce 
+Program Manager (CSWF-PM) must provide the instruction.
+    b.  Total Workforce Management Service (TWMS), https://twms.navy.mil 
+/selfservice/login.asp;
+    c.  Navy e-Learning (NEL), https://learning.nel.navy.mil; (Note:  The My 
+Navy Portal, https://www.mnp.navy.mil/group/general-skills-training/gmt
+(redirects users to the NEL link));
+    d.  Defense Information Systems Agency (DISA) website, https://cyber.mil 
+/training/cyber-awareness-challenge/;
+    e.  Other approved training sources, DISA Digital Video Discs (DVDs).
+
+5.  Ships can access the annual training from the NEL application hosted on 
+the Navy Information/Application Product Suite (NIAPS) server, eliminating 
+the need to reach back to shore hosted NEL websites.  The CAC 2020 course is 
+available via the NEL Afloat Learning Management System Pub Amendment 112 for 
+download by the NIAPS Administrator using the normal manual NIAPS distance 
+support update process.  If unable to download Learning Management System Pub 
+Amendment 112, ships can request a DVD with these files to be mailed by 
+submitting a support request to Navy 311.  Additionally, CAC 2020 is 
+available for pre-order from DISA.  To pre-order, download and submit a DoD 
+Information Assurance Training and Awareness Product order form from 
+https://cyber.mil/cyber-training/content-delivery-options/.
+
+6.  Although CAC training is an individual responsibility, commanders and 
+commanding officers are accountable for 100 percent completion of their 
+personnel.  Training officers are responsible for ensuring their personnel 
+complete and properly document the required training.
+
+7.  Command training officers must validate training via TWMS or Fleet 
+Training Management and Planning System (FLTMPS)
+(https://ntmpsweb.ncdc.navy.mil/fltmps/) authoritative databases.
+Training officers will manually record training completed via the DISA 
+website, DISA DVDs, or instructor-led.  Manually record training in FLTMPS 
+using the Learning Event Completion Form.  Report any discrepancies to the 
+Navy Training Management Planning System Operational Support office at 
+ntmps.support(AT)navy.mil or 1-866-438-2898/DSN 922-1867.
+
+8.  The ISSM is responsible for reporting compliance to meet Federal 
+Information Security Modernization Act of 2014 requirements.  Command ISSMs 
+will disable accounts of users who do not complete training by 30 September 
+2020 and provide non-compliance list to the Echelon II training officer for 
+consolidation and final reporting to Naval Information Forces (NAVIFOR) N13 
+at Navy Cyber Security Work Force (CSWF) Program Helpline.  POC for NAVIFOR 
+N13 is Daniel Harrington, daniel.harrington(AT)navy.mil.
+
+9.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+10.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6//.
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

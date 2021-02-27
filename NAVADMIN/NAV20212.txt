@@ -1,0 +1,70 @@
+UNCLASSIFIED//
+ROUTINE
+R 241734Z JUL 20 MID510001488207U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 212/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/JUL//
+
+SUBJ/2020 DOD OPERATIONS SECURITY CAMPAIGN REQUIREMENTS//
+
+REF/A/MEMO/SECDEF/20JUL20//
+NARR/REF A IS REINFORCING OPERATIONS SECURITY AND THE IMPORTANCE OF 
+PREVENTING UNAUTHORIZED DISCLOSURES//
+
+RMKS/1.  All Navy military, civilian, and on-site contractor personnel must 
+complete Operations Security (OPSEC) training no later than 15 September 
+2020.  Echelon II commands send reports of completion to Director of Navy 
+Staff (DNS) POC no later than 15 September 2020.
+
+2.  Required Training.  Center for the Development of Security Excellence 
+(CDSE) OPSEC Training required by reference (a):
+    a.  OPSEC Awareness
+    b.  Unauthorized Disclosure of Classified Information for DoD and 
+Industry
+    c.  Insider Threat Awareness
+    d.  Introduction to Information Security
+
+3.  Training is available without login or password at 
+https://securityawareness.usalearning.gov/2020-dod-security-stand-down
+
+4.  In lieu of two of the CDSE training courses, Insider Threat Awareness and 
+Introduction to Information Security, the equivalent Navy eLearning courses 
+DON -CIAR-1.0-NCIS Counterintelligence and Insider Threat Awareness and 
+Reporting Training and CSCS-COM-M02-118-CAI-v1-Information Security are 
+acceptable.  Both courses are available on Navy eLearning 
+(https://learning.nel.navy.mil/ELIAASv2p/) with CAC login.  Use your email 
+certificate when accessing the Navy eLearning website.
+
+5.  This is a new training requirement.  Courses completed prior to 20 July 
+2020 do not fulfill this requirement.  If operational commitments prevent an 
+organization from completing training online, notification shall be sent to 
+the Echelon II commander via the chain of command.
+
+6.  Proper OPSEC is critical to protecting our forces, ensuring our mission 
+success, and implementing the National Defense Strategy.  Poor OPSEC may lead 
+to unnecessary loss of life and mission failure and can mean the difference 
+between our winning and losing as we face great power competitors.  Sound 
+OPSEC practices are critical to enhancing the Nation's safety, prosperity, 
+and competitiveness.
+
+7.  Questions or feedback should be sent via e-mail to CAPT James Toczko at 
+james.toczko(AT)navy.mil.
+
+8.  This NAVADMIN will remain in effect until 31 December 2020.
+
+9.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

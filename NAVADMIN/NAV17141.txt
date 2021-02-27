@@ -1,0 +1,88 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 051654Z SEP 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 141/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/PHYSICAL READINESS PROGRAM POLICY CHANGES (CORRECTED COPY)//
+
+REF/A/DOC/OPNAV/11JUL11//
+
+REF/B/DOC/NAVPERS/APR17//
+
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.
+REF B IS NAVPERS 15839I, MANUAL OF NAVY OFFICER MANPOWER AND PERSONNEL 
+CLASSIFICATIONS.//
+
+RMKS/1.  This NAVADMIN outlines new policies and initiatives to the Physical 
+Readiness Program and continues our efforts to strike a better balance 
+between physical readiness and mission accomplishment while reducing 
+administrative distractions.  This correction clarifies that the changes of 
+paragraph 3 are effective immediately.
+
+2.  The following changes are effective 1 January 2018:
+    a.  Sailors who pass the body composition assessment (BCA), are within 
+the Navy age-graduated body fat standards, and score an overall excellent low 
+or better (with no single event lower than good low) on the physical 
+readiness test (PRT) will be exempt from participation in the following PRT 
+cycle.  The first cycle for which Sailors can be exempt is cycle 2018-1, 
+based upon performance during the cycle 2017-2 PRT.  All Sailors, regardless 
+of PRT performance, will still be required to participate in the BCA each 
+cycle.
+        (1) For cycle 2018-1, Physical Readiness Information Management 
+System (PRIMS) will allow command fitness leaders (CFL) the ability to assign 
+a non-participation status of validated for those Sailors who earn the 
+incentive during cycle 2017-2.
+        (2) If a Sailor is validated from taking the PRT, but fails the BCA, 
+the Sailor is required to participate in the PRT if medically cleared.
+    b.  Elliptical will no longer be authorized as an alternate cardio device 
+beginning with cycle 2018-1 due to the low number of Sailors (4 percent) who 
+use them during a PRT and the increasing cost to maintain PRT-compliant 
+ellipticals.  While the 1.5 mile run/walk remains the service standard, 
+commanding officers (CO) may authorize the use of approved stationary bikes, 
+treadmill or the swim as alternate cardio.  Navy fitness facilities will 
+continue to provide ellipticals for training, but will now be free to 
+modernize equipment.
+
+3.  The following change is effective immediately:  Based on data from 
+recently completed Navy medical studies and consistent with recent changes to 
+maternity leave policy, post-partum Sailors are now exempt from participating 
+in the physical fitness assessment
+(PFA) for 6 months following their maternity leave.  This change reflects an 
+increase to the Navy maternity leave policy being increased to 84 days 
+following the birth of a child.  After completion of the 6 month period, the 
+Sailor will then be required to participate in the following PFA cycle (i.e., 
+if the pregnancy status ends during cycle 1, Sailors would not be expected to 
+participate in an official command PFA until cycle 2).  Pregnant and post-
+partum Sailors are not required to complete a Physical Activity Risk Factor 
+Questionnaire while in the pregnancy status.  Their PFA participation status 
+in PRIMS should be reflected as pregnant for all stages of the pregnancy and 
+post-partum periods.
+
+4.  CFLS must review the operating guides of the Physical Readiness Program 
+for additional information.  Additional information can be found on the 
+website:  http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,103 @@
+UNCLASSIFIED//
+ROUTINE
+R 131254Z AUG 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 191/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/FY-20 GENERAL MILITARY TRAINING REQUIREMENTS//
+
+REF/A/MSG/SECNAV WASHINGTON DC/121505ZJUN15//
+REF/B/MSG/CNO WASHINGTON DC/191539ZJUL16//
+NARR/REF A IS ALNAV 050/15, DEPARTMENT OF THE NAVY TALENT MANAGEMENT 
+INITIATIVES.  
+REF B IS NAVADMIN 161/16, US NAVY FINANCIAL LITERACY EDUCATION IMPLEMENTATION 
+PLAN.//
+
+RMKS/1.  This NAVADMIN announces the outlines for General Military Training 
+(GMT) requirements for Fiscal Year (FY-20).  The Navy has minimized the 
+number of mandatory GMT training topics to empower commanders with the 
+ability to decide what training their personnel should receive and how often 
+they should receive it.  Commanding Officers should review the Command 
+Discretion GMT list to determine the frequency and method of additional 
+training appropriate for their command.
+
+2.  FY-20 Mandatory GMT Requirements
+    a.  Mandatory GMT is training that must be completed by all military 
+personnel during the FY
+    b.  The following mandatory GMT is required to be completed in FY-20:
+
+        (1) Sexual Assault Prevention and Response (SAPR) Awareness
+        (2) Cyber Awareness Challenge
+        (3) Counterintelligence Awareness and Reporting
+        (4) Privacy Act
+        (5) Suicide Prevention
+
+    c.  Personnel with less than 3 years of time-in-service must also 
+complete Antiterrorism Level 1 training.  For personnel with greater than 3 
+years of time-in-service, Antiterrorism Level 1 periodicity is now a 
+triennial requirement and will be mandated for all hands in FY-22.
+    d.  Commands may now elect to complete Cyber Awareness Challenge training 
+using instructor-led and/or computer-based methods.
+
+3.  FY-20 Command Discretion GMT
+    a.  Command Discretion GMT is not required at any specified periodicity.  
+Commanding Officers should train their personnel at a time and place that 
+best meets the needs of their command.
+    b.  Consistent with reference (a), commanding officers may assign the 
+following topics at their discretion:
+        (1) Alcohol, Drugs and Tobacco Awareness
+        (2) Combating Trafficking in Persons
+        (3) Domestic Violence Prevention and Reporting
+        (4) Electromagnetic Warfare
+        (5) Energy Policy
+        (6) Equal Opportunity, Harassment and Resolution Options
+        (7) Hazing Policy and Prevention
+        (8) Operational Risk Management
+        (9) Operations Security
+        (10) Personal Financial Management
+        (11) Records Management
+        (12) Sexual Health and Responsibility
+        (13) Stress Management
+        (14) Traumatic Brain Injury
+
+    c.  Financial Management training does not have a mandatory periodicity 
+but is required at career touchpoints, in line with reference (b).
+
+4.  Additional Information
+    a.  Detailed requirements for each topic are listed on the GMT webpage 
+and should be reviewed thoroughly by commands prior to assigning training.  
+The webpage provides topic-specific information such as:
+(1) instructor and documentation requirements
+(2) training in combined military-civilian sessions
+(3) links to instructor guides and other training products
+    b.  GMT webpage
+        (1) Go to My Navy Portal at https://my.navy.mil.
+        (2) Once logged in, select *Career and Life Events* at the top of the 
+page, then select *Training, Education, and
+Qualifications* from the drop-down menu
+        (3) On the following page, select *Training* on the left of the page, 
+then select *GMT* from the drop-down menu
+
+5.  GMT questions or feedback should be sent via e-mail to 
+gmt.distribution(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or 30 September 
+2020, whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

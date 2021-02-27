@@ -1,0 +1,186 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 021911Z SEP 20 MID200000067445U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+CMC WASHINGTON DC 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 243/20 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC/N2N6// 
+INFO CNO WASHINGTON DC//N2N6// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/U.S. NAVY COUNTERINTELLIGENCE ACTIVITIES IN SUPPORT OF NAVY COMMANDS, 
+FLEETS, AND BASES, STATIONS AND INSTALLATIONS// 
+ 
+REF/A/DOC/ONI/FITDON/2019// 
+REF/B/DOC/US CODE TITLE 50/2011// 
+REF/C/DOC/EO 12333/2008// 
+REF/D/DOC/SECNAV/SECNAVINST 3850.2E/2017// 
+REF/E/DOC/USDI/DODD 5240.02/2015// 
+REF/F/DOC/SECNAV/SECNAVINST 5430.107A/2019// 
+REF/G/DOC/CNO/OPNAVINST 5450.353A/2019// 
+REF/H/DOC/CJCS/CJCSI 3241.01A/2013// 
+REF/I/DOC/USDI/DODI 5240.10/2020// 
+REF/J/DOC/USDI/S-DODI 5240.17/2014// 
+ 
+NARR/REF A IS THE FOREIGN INTELLIGENCE THREAT TO DEPARTMENT OF NAVY (FIT DON) 
+ANNUAL PUBLICATION.   
+REF B IS UNITED STATES CODE, TITLE 50 WAR AND NATIONAL DEFENSE.   
+REF C IS AN EXECUTIVE ORDER GOVERNING UNITED STATES INTELLIGENCE ACTIVITIES.   
+REF D IS SECRETARY OF THE NAVY INSTRUCTION ON DEPARTMENT OF THE 
+NAVY COUNTERINTELLIGENCE WHICH PROVIDES POLICY AND DEFINES SPECIFIC 
+RESPONSIBILITIES FOR COUNTERINTELLIGENCE IN THE NAVY.   
+REF E IS DEPARTMENT OF DEFENSE DIRECTIVE ON COUNTERINTELLIGENCE, WHICH 
+PROVIDES POLICY AND ASSIGNS RESPONSIBILITIES FOR CONDUCTING CI ACTIVITIES IN 
+THE DEPARTMENT OF DEFENSE.   
+REF F IS SECRETARY OF THE NAVY INSTRUCTION ON THE MISSION AND FUNCTIONS OF 
+THE NAVAL CRIMINAL INVESTIGATIVE SERVICE.   
+REF G IS THE NAVY INSTRUCTION ON THE MISSION, FUNCTIONS, AND TASKS OF THE 
+NAVAL INTELLIGENCE ACTIVITY.   
+REF H IS THE CHAIRMAN OF THE JOINT CHIEFS OF STAFF INSTRUCTION ON 
+COUNTERINTELLIGENCE SUPPORT.   
+REF I IS THE DEPARTMENT OF DEFENSE INSTRUCTION ON THE COUNTERINTELLIGENCE IN 
+THE DOD COMPONENTS.   
+REF J IS THE DEPARTMENT OF DEFENSE INSTRUCTION ON COUNTERINTELLIGENCE 
+COLLECTION ACTIVITIES.// 
+ 
+RMKS/1.  Per reference (a), the U.S. Navy is a key target for Foreign 
+Intelligence Entities (FIEs) collection efforts to steal our significant 
+technical advantage over our competitors and degrade our strategic lethal 
+overmatch of our adversaries.  DON counterintelligence (CI) components (U.S. 
+Navy CI, U.S. Marine Corps (USMC) CI and Naval Criminal Investigation Service 
+(NCIS)) and the Intelligence Community (IC) conduct CI activities to identify 
+FIE efforts to target sensitive and classified information pertaining to 
+Department of the Navy (DON) technology, plans, order of battle, 
+capabilities, and intentions. 
+ 
+2.  Authority.  Per references (b) through (d), the commanders and heads of 
+the intelligence and CI elements of the Navy will:  (1) collect (including 
+through clandestine means), produce, analyze and disseminate defense and 
+defense-related intelligence and CI to support departmental requirements, 
+and, as appropriate, national requirements; (2) conduct CI activities; (3) 
+monitor the development, procurement and management of intelligence systems 
+and equipment; and (4) conduct military intelligence liaison 
+relationships.  Specifically, Secretary of the Navy (SECNAV) has authorized 
+Navy CI personnel to conduct authorized CI activities on behalf of the 
+command to which they are assigned under the authority, direction, and 
+control of the Director of Naval Intelligence (DNI).  Activities include:  CI 
+Analysis and Production (CI A&P), CI Collection Activities (CCA), CI 
+Functional Services (CIFS), and support to NCIS CI Investigations and NCIS 
+Advanced Offensive CI Operations (OFCO). 
+ 
+3.  Responsibility and Tasks.  Per references (d) and (e), CI activities will 
+be undertaken as part of an integrated DOD and national effort.  The Navy 
+will integrate CI activities into all operations, programs, systems, 
+exercises, plans, doctrine, strategies, policies, and architectures to 
+detect, identify, assess, exploit, and deny FIE and their insiders targeting 
+or exploiting DON information, personnel, operations and other 
+activities.  Navy CI elements will conduct CI A&P; CIFS; CCA; and support to 
+NCIS Advanced CI Operations and NCIS CI Investigations.  Per references (d) 
+and (f), NCIS is identified as the Military Department Counterintelligence 
+Organization (MDCO) and in that role, they are the sole DON CI component 
+authorized to conduct CI Investigations of DON personnel. 
+ 
+4.  Coordination.  Per reference (g), the Naval Intelligence Activity (NIA) 
+serves as the Executive Agent and Functional Manager for Navy CI and Human 
+Intelligence (HUMINT).  The Navy CI Coordinating Authority (NCICA) under the 
+authority, direction, and control of the DNI will coordinate, deconflict and 
+synchronize CI activities executed by U.S. Navy CI personnel or on behalf of 
+the Service.  Per reference (h), if expressly stated in a Secretary of 
+Defense (SECDEF) approved plan or order, the Combatant Commander assumes and 
+exercises Operational Control over CI forces assigned or attached.  Where 
+there is no SECDEF approved plan or order being executed, CI elements and 
+activities remain under the command and control of the Service.  In all 
+instances, both the U.S. Navy CICA and the affected Combatant Command CICA 
+should be part of the coordination, deconfliction and synchronization of 
+Service CI activities.  All U.S. Navy CI Inquiries, also called CI Incident 
+Assessments (CIIAs), will be coordinated and deconflicted with NCIS before 
+initiating to determine the MDCO level of interest in opening an 
+investigation on the basis of the initial information.  If there is 
+insufficient grounds to open an investigation, a CI Inquiry will be initiated 
+to determine if there is a foreign nexus.  If during the conduct of the CI 
+Inquiry information of a criminal nature is discovered, the CI Inquiry will 
+be halted and the information immediately provided to NCIS.  All information 
+identified during the conduct of U.S. Navy CI activities found to be of an 
+investigative nature will be passed to NCIS via the Secret Intranet Protocol 
+Router Network (SIPR) Consolidated Law Enforcement Operations Center 
+(SCLEOC). 
+ 
+5.  CI Support.  All Navy CI support activities in support of Navy commands 
+will be conducted as per reference (d) and coordinated through the 
+NCICA.  Requests for CI support should be coordinated with Fleet N2X 
+components and concerned organization Commanders to ensure the capability is 
+employed under the appropriate command and CI authorities.  Due to the 
+dynamic nature of CI activities, requests for CI support will require NIA 
+validation.  Support requests will not be used as augmentation for Maritime 
+Operations Centers or Maritime Intelligence Operations Centers, numbered 
+Fleet staffs or to off-set/compensate for permanently assigned personnel, 
+individual augmentation shortfalls, or Global Force Management Request for 
+Forces. 
+ 
+6.  CI Analysis and Production (CI A&P).  The U.S. Navy will develop analytic 
+products to address the threat posed by espionage, international terrorism, 
+subversion, sabotage, assassination, and covert activities.  This includes 
+other activities that have a FIE nexus.  CI analysis enhances the 
+understanding of the intentions of an FIE, foreign security service, an 
+international terrorist entity, or other foreign actors and provides 
+indications of their limitations, plans, and warning intentions.  CI A&P also 
+supports other CI functions of CIFS, CCA, CI Investigations and CI as well as 
+support to U.S. Navy foreign intelligence activities.  This includes, but is 
+not limited to, analysis for offensive CI operations, investigative lead 
+development, threats to personnel and property, threats to the security of 
+DON forces and operations, and foreign intelligence collection against DoD 
+technology, information systems, and infrastructure. 
+ 
+7.  CI Functional Services (CIFS).  CIFS are CI activities conducted to 
+support the four DOD CI missions and that enable one or more of the other CI 
+functions.  Per reference (i), CIFS include, but are not limited to:  (1) CI 
+Awareness and Reporting briefings; (2) support to arms control and other 
+international treaties; (3) support to antiterrorism and force protection; 
+(4) support to military operations and training exercises; (5) support to war 
+planning; (6) support to foreign visitor programs; (7) CI inquiries (also 
+known as CIIAs); (8) liaison and collection activities not associated with 
+CCA; (9) CI training; (10) CI surveillance and surveillance detection; (11) 
+CI insider threat identification and mitigation efforts; (12) CI support to 
+OPSEC programs; (13) CI support to HUMINT collection, asset validation, and 
+enabling activities; (14) CI support to research, development, and 
+acquisition to include support to Supply Chain Risk Management; (15) CI 
+support to counter-proliferation and countering weapons of mass destruction; 
+(16) CI support to critical infrastructure protection; (17) CI support to 
+security programs; (18) CI support to the Military Accessions Vital to the 
+National Interest Program; (19) CI support to foreign award nominations; (20) 
+CI support in the screening of contract linguist personnel, and local 
+national personnel hired by DoD in overseas locations; and (21) CI support to 
+cyber operations.  Specialized technical CIFS of Polygraph and credibility 
+assessment support, and Technical Surveillance Countermeasures can only be 
+conducted by NCIS. Route requests for specialized technical CIFS support with 
+local NCIS Field Office and coordinate through NCICA. 
+ 
+8.  CI Collection Activities (CCA).  U.S. Navy CI elements conduct CCA to 
+acquire information about the capabilities, intentions and activities of FIE 
+and their insiders who engage in espionage, terrorism, sabotage, subversion, 
+and clandestine intelligence activities directed against the United States, 
+DOD and the DON.  Per reference (j), CCA includes Military CI Collection, CI 
+Questioning of Enemy Prisoners of War and Detainees, CI Debriefs, CI Liaison, 
+Open Source and Media Exploitation, and CI Collection in Cyberspace. 
+ 
+9.  The U.S. Navy executes CI as a Service responsibility and a function of 
+command, not unlike Operational Security (OPSEC) or force protection.  Navy 
+CI Agents are a force multiplier for the DON, working closely with Marine 
+Corps CI Agents, and freeing up NCIS limited assets to focus on executing 
+advanced CI Operations and CI Investigations for which NCIS has unique 
+authorities and placement to perform. 
+ 
+10.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

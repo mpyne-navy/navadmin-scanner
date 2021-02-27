@@ -1,0 +1,74 @@
+UNCLASSIFIED
+ROUTINE
+R 132034Z JUL 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 169/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/2018 ANNUAL DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER AWARD CALL 
+FOR NOMINATIONS//
+
+REF/A/DOC/DOD IT ENVIRONMENT WAY FORWARD/25JUN18//
+REF/B/DOC/2018 ANNUAL DOD CIO AWARDS GUIDANCE/25JUN18//
+NARR/REF A IS DEPARTMENT OF DEFENSE(DOD)INFORMATION TECHNOLOGY ENVIRONMENT, 
+WAY FORWARD TO TOMORROWS STRATEGIC LANDSCAPE.
+REF B PROVIDES DOD CHIEF INFORMATION OFFICERS (CIO) OVERVIEW AND GUIDANCE FOR 
+THE 2018 DOD CIO AWARDS PROGRAM.
+
+RMKS/1.  Department of Defense Chief Information Officer (DoD CIO) has 
+announced the 2018 DoD CIO awards program call for nominations.  This annual 
+event, now in its 18th year, recognizes individuals and teams within the DoD 
+Information Technology (IT) Community for outstanding achievement in 
+delivering forward-leaning, strategically impactful IT capabilities and IT 
+management practices.  Awards will recognize achievement for advancing and 
+actualizing the goals and objectives set forth in reference (a), the DoD IT 
+Environment Way Forward strategy.  It is one of the highest honors 
+acknowledging the IT community’s contributions.
+
+2.  Nominations will be evaluated on outstanding achievement in one or more 
+of the six critical areas:  relevance to CIO strategic goals; mission impact; 
+innovation; improved information delivery and dissemination; management 
+efficiency and effectiveness (better, faster, cheaper); magnitude of cost 
+savings or avoidance; and broad user base.  Beginning in 2018, DoD CIO awards 
+will also include two new and specific award categories for excellence in 
+implementing electronic records management and excellence in Information and 
+Communications Technology (ICT) accessibility for persons with disabilities.  
+These specific awards have their own nomination format and evaluation 
+criteria.  One winning individual or team will be named for each special 
+award.  Nominations must be completed and submitted in Microsoft Word format 
+as per reference (b), the 2018 Annual DoD CIO awards guidance sheet and 
+nomination template.
+
+3.  Please submit your best achiever nominations for individual and team 
+efforts to Ms. Michele Boswell, email: shirley.boswell(at)navy.mil no later 
+than 1 August 2018 for processing as DoD CIO has granted the Navy an 
+extension for nomination submission of 17 August 2018.
+The evaluation criteria have been revised to align with today's technological 
+environments and management approaches and will focus emphasis on the 
+information environment mission area.  Nominations received after 1 August 
+2018 will not be considered and those submitted directly to DoD CIO will be 
+rejected by the DoD CIO.
+
+4.  The DoD CIO Awards Ceremony is scheduled for 1100 EST on Thursday, 29 
+November 2018, in the Pentagon Auditorium room BH650.
+
+5.  My point of contact is Mr. Joe Salazar, OPNAV N2N6G3.  He can be reached 
+via Comm:  (571) 256-8248 or email:  joseph.a.salazar1(at)navy.mil.
+
+6.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

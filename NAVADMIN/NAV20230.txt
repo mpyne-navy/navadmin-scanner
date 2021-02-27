@@ -1,0 +1,84 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 141411Z AUG 20 MID510001625721U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 230/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/2020 MERITORIOUS ADVANCEMENT PROGRAM SEASON TWO//
+
+REF/A/MSG/CNO WASHINGTON DC/ 091540ZJAN20//
+REF/B/MSG/CNO WASHINGTON DC/ 161157ZJUL20//
+
+NARR/REF A IS NAVADMIN 005/20, 2020 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
+ONE AND SEASON TWO.  
+REF B IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.//
+
+RMKS/1.  This NAVADMIN updates reference (a) and announces the policy and 
+guidance for calendar year (CY) 2020 Season Two Meritorious Advancement 
+Program (MAP) for Active and Full-Time Support Sailors.  As announced in 
+reference (a), due to the successful implementation of the MAP automation in 
+Navy Standard Integrated Personnel System (NSIPS) and Fleet feedback, the 
+time allocated for commands to approve MAP candidates during CY-20 MAP Season 
+Two is reduced from 60 to 45 days, beginning from 1 September through 15 
+October 2020.
+
+2.  MAP will account for approximately 20-percent of total advancements in 
+CY-20 with roughly half of the available quotas allocated for each season.  
+All unused quotas will be factored into the Navy-wide advancement exam (NWAE) 
+cycle.  We are maintaining the two-season framework that aligns the MAP with 
+the NWAE to emphasize the intent of MAP in selecting and rewarding the right 
+Sailors.
+
+3.  Commands are required to submit their MAP advancement through NSIPS.  
+Commands without access to NSIPS should submit their meritorious 
+certification letters (MCL) via e-mail to their immediate superior in command 
+(ISIC) as outlined in reference (a).
+The system will use authoritative data to determine eligibility.
+However, commands are still required to locally validate that MAP candidates 
+have successfully completed the professional military knowledge eligibility 
+examination (PMK-EE) requirement prior to the first day of the MAP season in 
+accordance with reference (b).
+
+4.  MAP Quotas.  MAP quotas by unit identification code (UIC) will be posted 
+on MyNavy Portal at https://www.mnp.navy.mil/group/advancement-and-
+promotion/a-enlisted- advancement-resources-and-links, then select the 
+*Websites* tab in the blue banner.
+
+5.  MAP Website.  Example forms and frequently asked questions can be 
+downloaded via MyNavy Portal at https://www.mnp.navy.mil/group/advancement-
+and-promotion/a-enlisted-advancement-resources-and-links, then select the 
+*Websites* tab in the blue banner.  The list of points of contact for each 
+BSO/echelon II command and list of parent and subordinate UICs can also be 
+found on this website.
+
+6.  Point of contact is MyNavy Career Center (MNCC) at (833) 330-
+6622 or via email at askmncc(at)navy.mil.
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first.
+
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

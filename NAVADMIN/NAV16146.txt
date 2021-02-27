@@ -1,0 +1,62 @@
+UNCLASSIFIED
+ROUTINE
+R 211358Z JUN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC/DNS//
+
+NAVADMIN 146/16
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/DNS/JUN//
+
+SUBJ/ABSENTEE VOTER REGISTRATION AND 2016 PROGRAM GUIDANCE//
+
+REF A/DOC/OPNAV/05FEB16//
+REF B/DOC/DOD/13SEP12//
+NARR/REF A IS OPNAVINST 1742.1C, NAVY VOTING ASSISTANCE PROGRAM AND REF B IS 
+DODI 1000.04, FEDERAL VOTING ASSISTANCE PROGRAM.//
+
+RMKS/1.  Voters:
+    a.  27 June - 4 July is Armed Forces Voter Week. With the 9 November 
+general election right around the corner, now is the time to register to vote 
+Absentee by completing the Federal Post Card Application (FPCA) at:  
+http://www.fvap.gov.
+    b.  In-person assistance can be found through your Command Voting 
+Assistance Officer (VAO), at your local Installation Voting Assistance Office 
+(IVAO), or by emailing vote(at)navy.mil. A listing for current IVAO locations 
+and contact information can be found at http://www.fvap.gov/info/contact/iva-
+offices.
+
+2.  Voting Assistance Officers:
+    a.  Are encouraged to increase voter awareness through targeted awareness 
+and marketing campaigns.  Suggested activities include, but are not limited 
+to:  registration drives, advertising in local military media, and plan of 
+the day notices.
+    b.  Voting Information Management System (VIMS): As of 31 May 2016, 
+registration in VIMS is no longer required due to recent updates made to the 
+Federal Voting Assistance Program (FVAP) portal.
+    c.  FVAP Portal:  Every VAO is required to register for, maintain current 
+information in, and log quarterly metrics on the FVAP portal at 
+https://www.fvap.gov/portal/login/welcome.html.
+    d.  VAOs must distribute FPCAs to all members of their Command by either 
+electronic or hard copy means, no later than 15 July 2016.
+    e.  The Voting Action Plan outlines specific guidance to support the Navy 
+Voting Assistance Program throughout 2016 and can be found at 
+http://www.fvap.gov/vao/guidance/html.
+
+3.  Commanding Officers:  ensure members in your Command know who your VAO is 
+and where they are physically located.
+
+4.  Point of contact is LT Kristin Hope at kristin.hope(at)navy.mil or 
+(202)433-4000.
+
+5.  Released by VADM R. L. THOMAS, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

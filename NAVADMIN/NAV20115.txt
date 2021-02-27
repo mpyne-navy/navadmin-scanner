@@ -1,0 +1,311 @@
+UNCLASSIFIED// 
+ 
+ROUTINE 
+ 
+R 211617Z APR 20 MID510001140651U 
+ 
+FM CNO WASHINGTON DC 
+ 
+TO NAVADMIN 
+ 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+ 
+BT 
+UNCLAS 
+
+NAVADMIN 115/20 
+
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+SECNAV WASHINGTON DC//CNO// 
+CNO WASHINGTON DC//N1// 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/APR// 
+ 
+SUBJ/UPDATE TO NAVY COVID-19 REPORTING REQUIREMENTS// 
+ 
+REF/A/OPNAVINST F3100.6J CH-3/31MAY16// 
+ 
+REF/B/NAVADMIN/OPNAV/212007ZMAR20// 
+ 
+REF/C/NAVADMIN/OPNAV/171541ZAPR20// 
+ 
+REF/D/DOC/BUMED/27MAR20// 
+ 
+NARR/REF A IS OPNAVINST F3100.6J, SPECIAL INCIDENT REPORTING PROCEDURES. REF 
+B IS NAVADMIN 080/20, NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK (UPDATE 3). REF C NAVADMIN 113/20 RESTRICTION OF MOVEMENT (ROM) 
+GUIDANCE UPDATED. REF D IS BUMED RETURN TO WORK GUIDANCE.// 
+POC/RDML GREG HUFFMAN /OPNAV N31/703-692-8545/GREGORY.C.HUFFMAN1(AT)NAVY.MIL/ 
+OPNAV COVID RESPONSE CELL/703-571-2822/ OPNAV_COVID_RESPONSE 
+_CELL(AT)NAVY.(SMIL.)MIL 
+ 
+RMKS/1.  This message supersedes reporting guidance in ref (b) para 4, and 
+supplements reporting guidance in ref (a) for COVID-19 reporting only. 
+ 
+2. This NAVADMIN provides updated reporting guidance while the Navy continues 
+to operate in a COVID-19 environment. All OPREP-3 messages sent related to 
+COVID-19, will be reported as detailed in paragraph 4, and must include CNO 
+WASHINGTON DC as an action addee as well as all addees required in ref (b) 
+and required by Echelon 2 and 3 commanders. This message supersedes the 
+reporting guidance in ref (b). The reporting guidance is significantly 
+enhanced to better understand COVID-19 positive, suspect COVID-19 cases, 
+and command actions at sea. 
+ 
+3. APPLICABILITY. This message applies to all Navy units responsible for 
+service members, both active duty and reservists, and Navy civilian 
+employees. 
+ 
+4. DEFINITIONS.  To maintain uniformity and consistency of reports, the 
+following definitions are provided. 
+ 
+4.A. Person under investigation (PUI): Anyone suspected of COVID-19, being 
+monitored for COVID-19 without diagnosis by a health care provider or in 
+close contact with a positive tested individual. 
+ 
+4.B. POSITIVE CASE: a positive COVID-19 test or diagnosis of COVID-19 by a 
+healthcare provider. 
+ 
+4.C. RECOVERED: A previously reported COVID-19 positive case that is no 
+longer positive IAW CDC or OPNAV guidelines. 
+ 
+4.D. RESTRICTION OF MOVEMENT (ROM):  ROM guidance is updated in Ref (c). 
+ 
+5. COVID-19 REPORTING. Guidance below is for reporting to OPNAV directly from 
+all Navy Echelon 2 and below commands. Reporting guidance provided by Fleet 
+Commanders to subordinate commands is unchanged by this guidance. Paragraph 
+5.a. is for the Fleet Commander reports to OPNAV. Paragraph 5.b. provides 
+OPNAV CCIR reporting guidance, definitions and guidance for all command 
+reports. Paragraph 5.c. provides a reporting template and required 
+information descriptions to capture required information. For CONUS commands, 
+ensure points of contact (POC) continue to submit accurate and timely COVID-
+19 reports to USFFC and OPNAV, with an information copy to the local 
+installation commander. For OCONUS commands, ensure POCs submit accurate and 
+timely COVID-19 daily reports to Navy Component Command/Echelon 2 Commander 
+and OPNAV, with an information copy to the local installation commander. 
+Given potential rapid escalation of case numbers and impact on readiness 
+(especially underway), additional reporting is required. Navy commands will 
+report the following through the chain of command and OPREP-3 ensuring both 
+CNO Washington DC and appropriate Echelon 2 commanders are included: 
+ 
+5.A. Fleet Update Reporting.  USFFC, COMNAVEUR/AF, COMNAVCENT, COMNAVSOUTH 
+will report to OPNAV by 1500Q daily and COMPACFLT will report by 0100Q daily 
+with the following information by Active-Duty, DON, Civilian, Military Family 
+Member and Navy Contractors. Civilian employee authorized dependents overseas 
+are counted in the dependents category.  Midshipmen, drilling and mobilized 
+reserves and coalition forces are included in the Active-Duty category. 
+ 
+5.A.1. Current Active Positive Cases/Total Currently Hospitalized/Total in 
+ROM/Total Recovered/Total Deaths/Current total Persons Under Investigation 
+(PUI). 
+ 
+5.A.2. Reporting the historical total number of cases is not required and is 
+assumed to equal active cases plus recovered cases plus deaths. If this is 
+not the case, highlight with a detailed explanation (e.g. Sailor previously 
+reported as recovered but subsequently had a positive COVID-19 test 
+(relapsed)). 
+ 
+5.A.3. Review past reports prior to submission. Any anomalies must include a 
+detailed explanation (e.g. Starting on (date), one case was reported as a 
+military dependent, this case is actually a government civilian and has been 
+moved to that category for tracking, effective (date)).  Do not resubmit past 
+data, provide the correction going forward. 
+ 
+5.B. CCIRs. READ REPORTING REQUIREMENTS CAREFULLY AS THEY HAVE BEEN UPDATED 
+SIGNIFICANTLY. 
+ 
+5.B.1. All commands will send OPREP-3 series messages to CNO Washington DC 
+and parent Echelon 2 commands for all Military (Active and Reserve) and 
+civilian (in accordance with HIPAA and the Privacy Act) members who test 
+positive for COVID-19. 
+ 
+5.B.2. Each OPREP-3 will be formatted and contain the information in 
+paragraph 4.C at a minimum, and each command will provide updates VIA OPREP-3 
+as information changes. 
+ 
+5.B.3. OPREP-3 updates are required for each change in status (e.g. admitted 
+to or discharged from the hospital, placed in or discharged from the ICU, 
+placed on a ventilator or removed from the ventilator). 
+ 
+5.B.4. Ensure the original OPREP-3 date time group is included in the 
+references. 
+ 
+5.B.5. The OPREP-3 will be closed (FINAL) with the report of the individual 
+as recovered from COVID-19. 
+ 
+5.B.6. Multiple individuals may be reported on a single message with a 
+separate paragraph for each individual containing required information. 
+ 
+5.B.7. Commands with embarked detachments or subordinate commands shall be 
+the reporting command for all embarked commands, clearly delineating the 
+individual's home command. 
+ 
+5.B.8. If information is unknown for the initial OPREP, list as UNKNOWN and 
+update within 48 hours.  When reporting the time, use the actual time zone 
+designation vice "L" indicating local time. 
+ 
+5.C. Template. The following template is provided as the body of the message 
+with example entries for clarification only. If multiple Sailors are being 
+reported in a single message, each sailor (or civilian) will have a separate 
+paragraph. 
+FM USS NAVY COMMAND 
+TO CNO WASHINGTON DC 
+INFO additional addees as directed by ref A 
+UNCLAS SECINFO/U/- // 
+ 
+MSGID/OPREP-3NB,USMTF,2020/USS NAVY COMMAND /011B// 
+ 
+REF/A/DOC/CNO/31MAY16// 
+ 
+REF/B/DOC/CPF/20MAR19// 
+ 
+REF/C/MSG/CPF/121110ZAPR18// 
+ 
+REF/D/VOX/ NAVY COMMAND /160415ZAPR20// 
+ 
+REF/E/VOX/ NAVY COMMAND /160423ZAPR20// 
+ 
+REF/F/MSG/ NAVY COMMAND /170400ZAPR20// 
+ 
+REF/G/MSG/ NAVY COMMAND /180400ZAPR20// 
+ 
+NARR/REF A IS OPNAVINST F3100.6J. REF B IS COMPACFLT OPORD 201 CH1. 
+REF C IS PACADMIN 005/18 PERSONNEL INCIDENT REPORTING REQUIREMENTS 
+SUPPLEMENTAL GUIDANCE. REF D IS INITIAL VOICE REPORT TO ISIC. REF E 
+IS INITIAL VOICE REPORT TO CNSP COVID COORDINATION CELL. REF F INITIAL 
+SITREP. REF G IS NAVY COMMAND UPDATED SITREP.// 
+FLAGWORD/NAVY BLUE/-// 
+TIMELOC/190400ZAPR20/HOMEPORT, STATE/UPDATE// 
+GENTEXT/INCIDENT IDENTIFICATION AND DETAILS/ 
+ 
+1. COMMAND/UIC: USS NAVY COMMAND /NNNNN 
+ 
+1.A. COMMAND LOCATION: [e.g. EVERETT, WA, USA] 
+Note: Command?s location: Port, City, State, Country or At Sea in [Geographic 
+COCOMAOR].  Multi-crew ships report on-crew or off-crew.  When underway, 
+SSBN’S report only At Sea vice any other geographic information. 
+ 
+1.B. FLEET CONCENTRATION AREA AND NAVY REGION:  [e.g. PACNORTHWEST, CNRNW] 
+ 
+2. DOD ID NUMBER: NNNNNNNNNN 
+ 
+2.A. RATE/RANK: [e.g. RSSN/E-3] 
+ 
+2.B. AGE: NN 
+ 
+2.C. GENDER: M/F 
+ 
+3. DATE INDIVIDUAL WAS DIAGNOSED COVID-19: [e.g. 15APR20] 
+ 
+3.A. TYPE OF DIAGNOSIS:  [e.g. POSITIVE COVID-19 TEST] 
+Note. Type of diagnosis: Positive COVID-19 Test or Diagnosis by a health care 
+provider without a positive COVID-19 test. 
+ 
+3.B. DATE OF COVID-19 TESTING: [e.g. 1700T, 15APR20] 
+ 
+3.C. TESTING RESULTS: [e.g. POSITIVE 2000T, 15APR20] 
+ 
+4. REASON FOR PUI/CASE STATUS: [e.g. MEMBER TRANSFERRED TO MADIGAN ARMY 
+MEDICAL CENTER ON JOINT BASE LEWIS-MCCHORD (JBLM), PLACED IN ICU AND PLACED 
+ON VENTILATOR.] 
+ 
+4.A. ISOLATION BERTHING LOCATION: HOSPITAL (ICU IF APPLICABLE) OR 
+HOME/BARRACKS. 
+ 
+4.B. ISOLATION START DATE: [e.g. 2000T, 15APR20] 
+ 
+4.C. DESCRIPTION OF SYMPTOMS EXHIBITED: [e.g. FEVER OF 104.9, FULL BODY 
+ACHES, SHAKES.] 
+ 
+4.D. DATE INDIVIDUAL ADMITTED TO HOSPITAL AND HOSPITAL NAME: [e.g. 2230T, 
+16APR AT MADIGAN ARMY MEDICAL CENTER ON JOINT BASE LEWIS-MCCHORD.] 
+ 
+4.E. WHETHER OR NOT INDIVIDUAL REQUIRED TREATMENT IN ICU OR RELEASED FROM 
+ICU: [e.g. YES. SERVICE MEMBER WAS PLACED IN ICU AT 0500T, 18APR20.] 
+ 
+4.F. WHETHER OR NOT INDIVIDUAL WAS PLACED ON VENTILATOR OR REMOVED FROM A 
+VENTILATOR: [e.g. YES. SERVICE MEMBER PLACED ON VENTILATOR AT 0500T, 
+18APR20.] 
+ 
+4.G. DATE INDIVIDUAL DISCHARGED FROM THE HOSPITAL: 
+ 
+4.H. DATE INDIVIDUAL RECOVERED: 
+ 
+5. 14 DAY TRAVEL HISTORY: 
+ 
+6. COMMANDERS ASSESSMENT: [e.g. COMPREHENSIVE TIMELINE BELOW. MEMBER LAST 
+ONBOARD 13APR20. WHILE OFF DUTY, MEMBER REMAINED AT HIS BARRACKS ONLY GOING 
+OUT FOR ESSENTIAL ITEMS. MEMBER DISPLAYED SYMPTOMS ON 15APR20. AT 1630L, 
+15APR20 MEMBER ADMITTED TO ER AT PROVIDENCE HOSPITAL IN EVERETT, WA. MEMBER 
+TESTED POSITIVE AT 2000L, MEMBER WAS EVALUATED AS STABLE AND DISCHARGED AT 
+2245L, 15APR20.MEMBER WAS ISOLATED IN BLDG 2028 NAVSTA EVERETT, WA. AT 1000, 
+16APR20, MEMBERS SYMPTOMS INCREASED AND TRANSPORTED TO PROVIDENCE HOSPITAL. 
+MEMBER WAS PROVIDED MEDICATION AND STABILIZED. MEMBER WAS DISCHARGED 
+AROUND 1300L, 16APR20. BASED ON FURTHER MEDICAL ASSESSMENT MEMBER WAS 
+TRANSPORTED AND ADMITTED TO MADIGAN ARMY MEDICAL CENTER ON JOINT 
+BASELEWIS-MCCHORD (JBLM) AT 2230L, 16APR20. AT 0500L, 18APR20, 
+MEMBER TRANSFERRED TO ICU AND PLACED ON VENTILATOR AT MADIGAN ARMY 
+MEDICAL CENTER. COMMAND ASSESSES CONTACT ON 13APR20 WITH FOUR 
+SAILORS WITHIN SIX FEET OR LESS FOR GREATER THAN TEN MINUTES: 
+HM2,GSM3, CSSN, CSSN. IT1 DROVE MEMBER TO PROVIDENCE ER THE EVENING 
+OF 15APR. SAME HM2 MENTIONED ABOVE, DROVE MEMBER FROM PROVIDENCE 
+TO BARRACKS THE EVENING OF 15APR20. AS OF 0900L, 18APR20, 
+ALL FIVE SAILORS REPORT NO SYMPTOMS.] 
+Note. Include how many additional members have been exposed (Contact, large 
+gatherings, etc.) 
+ 
+7. IMMEDIATE AND SECOND ORDER IMPACTS TO READINESS: [e.g. ROM OF 1 OF 2 
+GENERAL CORPSMAN, 1 OF 1 MESS DECK MASTER-AT-ARMS, 1 OF 12 FOOD SERVICE 
+ATTENDANTS, 2 OF 13 CULINARY SPECIALIST. ABLE TO CONTINUE CURRENT MISSION.] 
+ 
+8. MEDIA INTEREST: YES 
+ 
+9. FOR UNDERWAY UNITS ONLY (N/A for inport units) 
+ 
+9.A. 14 DAY TRAVEL SUMMARY: 
+ 
+9.B. TOTAL NUMBER OF CLOSE CONTACT PERSONNEL: 
+ 
+9.C. TOTAL NUMBER OF CLOSE CONTACT PERSONNEL AT WATCH / WORK STATION: 
+ 
+9.D. TOTAL NUMBER OF CLOSE CONTACT PERSONNEL DUE TO BERTHING CONFIGURATION: 
+ 
+9.E. DUTY / WATCH ROTATION: (E.g. 3 sections) 
+ 
+9.F. MITIGATION MEASURES PUT IN PLACE: 
+ 
+9.G. ACTIONS FOR INDIVIDUALS IN CLOSE CONTACT: 
+ 
+9.H. MEDEVAC / DEBARK INTENTIONS: 
+ 
+10. PRE-UNDERWAY ISOLATION / QUARANTINE INFORMATION FOR THE INDIVIDUAL (n/a 
+for inport units): 
+ 
+10.A. ISOLATION LOCATION: 
+ 
+10.B. QUARANTINE START DATE: 
+ 
+10.C. QUARANTINE STOP DATE: 
+ 
+10.D. ANY SPECIFIC QUARANTINE GUIDANCE PROVIDED TO THE INDIVIDUAL: 
+ 
+11. ANY SHORTAGE OF MEDICAL PPE OR TEST KITS FOR ASSIGNED UNITS OR COMMANDS: 
+ 
+12. SUMMARY UPDATE OF COVID-19 CASES ONBOARD: [e.g. 1 ACTIVE CASE ONBOARD.] 
+Note: Update on ships COVID-19 cases: (i.e. 15-total positives, 7-active, 
+8-recovered, no hospitalizations, DTG of related initial OPREP-3 messages and 
+updates.) 
+ 
+13. POC: [e.g. CDR SAILOR/XO/(NNN)NNN-NNNN/XO(AT)UNIT.NAVY.MIL] 
+ 
+14. For questions on reporting requirements, contact OPNAV Battle Watch 
+Captain at 703-692-9284 or BWC.PTGN(AT)NAVY.MIL. 
+ 
+15. RELEASED BY VADM P. G. SAWYER, DEPUTY CHIEF OF NAVAL OPERATIONS FOR 
+OPERATIONS, PLANS AND STRATEGY, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN
+UNCLASSIFIED//

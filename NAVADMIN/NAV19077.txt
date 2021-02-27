@@ -1,0 +1,89 @@
+UNCLASSIFIED//
+ROUTINE
+R 011603Z APR 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 077/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/COMPILE TO COMBAT IN 24 HOURS REQUIREMENT FOR HIGH RISK ESCALATIONS AND 
+IT PROCUREMENT REQUESTS//
+
+REF/A/NAVADMIN 315/18/R 212224Z DEC 18//
+REF/B/LTR/DDSISO(N)/01FEB19//
+REF/C/DOC/CNO WASHINGTON DC/N2N6/19OCT18//
+REF/D/DOC/SPAWAR SAN DIEGO CA/14SEP18//
+REF/E/MTG/INFORMATION ASSURANCE TECHNICAL ADVISORY BOARD/19SEP18//
+NARR/REF A IS NAVADMIN 315/18, TRANSFORMING OUR END-TO-END INFORMATION 
+ENVIRONMENT COMPILE TO COMBAT IN 24 HOURS (C2C24) IMPLEMENTATION FRAMEWORK.
+REF B IS THE EMAIL TO ALL NAVY ECHELON II CIO AND ASN(RDA) DISTRIBUTION 
+GIVING ADVANCED NOTICE OF REQUIREMENT FOR C2C24 POAMS WITH HRE SUBMISSION 
+BEGINNING 1 APRIL 2019.
+REF C IS THE NAVY INFORMATION TECHNOLOGY PROCUREMENT REQUEST POLICY.
+REF D IS THE SPAWAR C2C24 IMPLEMENTATION STANDARD, DOCUMENTS APPLICATION AND 
+SYSTEM DEVELOPMENT REQUIREMENTS FOR APPLICATION /CONTENT OWNERS TO TRANSITION 
+TO MODERN CLOUD-BASED CONTAINERIZED SOFTWARE SOLUTIONS FOR NAVY SYSTEMS 
+SUPPORTING WARFIGHTING, BUSINESS, NAVY INTELLIGENCE, AND ENTERPRISE 
+INFORMATION ENVIRONMENT MISSION AREAS, AND MANDATES DATA STANDARDIZATION VIA 
+THE EXTENSIBLE MARKUP LANGUAGE
+(XML) STANDARD.
+REF E WAS THE INFORMATION ASSURANCE TECHNICAL ADVISORY BOARD (IA TAB) 
+DECISION ON ADOPTION OF EXTENSIBLE MARKUP LANGUAGE (XML) AS THE NAVY DATA 
+STANDARD.// POC/GURLEY/DP 2210-04/OPNAV N2N6G5/E-MAIL:
+STEPHEN.R.GURLEY1(AT)NAVY.MIL/
+TEL: 571-256-8522/DSN: 260-8522//
+POC/KELLEY/GS-15/OPNAV N2N6G5/E-MAIL: PETER.KELLEY(AT)NAVY.MIL/
+TEL: 571-256-8509/DSN: 260-8509//
+POC/WALKER/GG-15/OPNAV N2N6G32/E-MAIL: JOSEPH.T.WALKER(AT)NAVY.MIL/
+TEL: 571-256-8543/DSN: 260-8543//
+
+RMKS/1.  This NAVADMIN updates submission requirements for the Navy High Risk 
+Escalation (HRE) and Information Technology (IT) procurement processes 
+effective 1 April 2019.
+
+2.  HRE Submission Changes:  All systems submitting HRE requests must provide 
+their system, application, or portal Plan of Action and Milestones (POAMs) as 
+directed in references (a) and (b).  Systems, applications and portals that 
+do not have a C2C24 POAM will not be considered by the HRE Advisory Group 
+(HREAG).  This is an important step in modernizing systems, applications, and 
+portals to eliminate Cybersecurity vulnerabilities in legacy systems.  By 
+applying resources to modernizing these systems, applications, and portals, 
+we speed secure capability delivery and eliminate current cybersecurity 
+threats.
+    a.  All systems, applications, and portals, including those being 
+decommissioned with no replacement within two years, must be reported to 
+ensure effective architecture and resource planning.
+For systems that are being decommissioned, documentation submitted must show 
+funding is not continuing on the legacy system beyond the two-year transition 
+period.
+    b.  If a system, application, or portal within the C2C24 scope is being 
+replaced with a newer version or another system, application or portal, and 
+the fielding plan is within two years, then the C2C24 transition POAM will 
+reflect compliance with the references (d) and
+(e) for that replacement.
+
+3.  The requirement to provide a C2C24 POAM does not apply to circuits or 
+ONE-NET/NMCI/CANES network transport infrastructure (i.e., switches, routers, 
+or network appliances like Palo Alto, InfoBlox for DNS).  It does apply to 
+all servers hosting applications or content on those networks.
+
+4.  Information Technology Procurement Request (ITPR) Submission
+Changes:  ITPRs in support of IT systems, applications, and portals without 
+completed C2C24 POAMs will be disapproved at all approval levels.
+
+5.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

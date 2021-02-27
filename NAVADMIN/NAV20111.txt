@@ -1,0 +1,342 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 161426Z APR 20 MID110000587035U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 111/20
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/FY-21 NAVY RESERVE E8 AND E9 ADVANCEMENT SELECTION BOARDS RESULTS//
+
+REF/A/DOC/BUPERS/19SEP2018//
+
+AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.//
+
+RMKS/1.  Congratulations to the following personnel who have been selected 
+for advancement to senior and master chief petty officer by the FY-21 Navy 
+Reserve E8 and E9 selection boards.  Strong competition between qualified 
+professionals is one of the strengths of our Navy and your selection speaks 
+highly of your abilities.
+
+2.  This NAVADMIN is not authorization for advancement.  Specific dates of 
+advancement will be published by Commanding Officer, Naval Education and 
+Training Professional Development Center Pensacola, FL.  Personnel listed 
+below may be frocked in accordance with reference (a) if qualified.
+
+3.  Members are directed to verify their select status via BUPERS Online.  
+The selection list is in alphabetical order by rate within competitive 
+category.  Read each line from left to right, name and numerical order of 
+advancement.  Categories of advancement are selected reservist and full time 
+support.
+                  Selected Reservist Master Chief
+            ABCM - Master Chief Aviation Boatswains Mate
+Morales Jessi     001
+             AFCM - Master Chief Aircraft Maintenanceman
+Hansen Matthe     001         Wickline Phil     002
+                AGCM - Master Chief Aerographers Mate
+Cappellino Ri     001
+         AVCM - Master Chief Avionics Maintenance Technician
+Jameson Dougl     001         Kornelius Bri     002
+                 AWCM - Master Chief Naval Aircrewman
+Martelle Ange     001
+                 BMCM - Master Chief Boatswains Mate
+Johnson Micha     001         Meade Frankli     002
+                    CMDCM - Command Master Chief
+Baney Sean Co     001         Kohm Benjamin     003
+Macleod Dunca     002
+              CSCM - Master Chief Culinary Specialist
+Baird Dexter      001
+      CTICM - Master Chief Cryptologic Technician Interpretive
+Voyles Jarom      001
+        CTTCM - Master Chief Cryptologic Technician Technical
+Newbill Harol     001
+                 CUCM - Master Chief Constructionman
+Hamilton Dani     002         Marino Jason      001
+               EMCM - Master Chief Electricians Mate
+Wyngaarden Da     001
+                    ENCM - Master Chief Engineman
+Pona Samuel D     001         Quinones Walt     002
+                  EQCM - Master Chief Equipmentman
+Brown Kevin       002         Seaman Daniel     001
+                FCCM - Master Chief Fire Controlman
+Gammill Micha     001
+                 GMCM - Master Chief Gunners Mate
+Miles Daniel      002         Rohde William     001
+               HMCM - Master Chief Hospital Corpsman
+Axsom Gerald      002         Greene Jonath     001
+          HTCM - Master Chief Hull Maintenance Technician
+Shopoff Chris     001
+             ISCM - Master Chief Intelligence Specialist
+Bocek Jonatha     003         Ford Jason Er     001
+Moore Raymond     002
+         ITCM - Master Chief Information Systems Technician
+Cornejo Gabri     003         Gerdel Vernon     002
+Jenkins Betsy     001
+              LSCM - Master Chief Logistics Specialist
+Acquilano Dan     001         Akins James M     002
+Liss Timothy      003         Talley Carlos     004
+                 MACM - Master Chief Master At Arms
+Cussen David      005         Dyke Steven J     001
+Keatts Jamie      002         Tortorice Day     004
+Tyson Tanya M     003
+        MCCM - Master Chief Mass Communications Specialist
+Lovelady Will     001
+             OSCM - Master Chief Operations Specialist
+Gunsel Keith      001         Wagner Nichol     002
+              PSCM - Master Chief Personnel Specialist
+Bartreau Mary     001
+                 QMCM  - Master Chief Quartermaster
+Warden David      001
+         SBCM - Master Chief Special Warfare Boat Operator
+Everitt Andre     001
+      SOCM - Master Chief Special Warfare Operator
+Pereira Mario     001
+      STSCM - Master Chief Sonar Technician Submarine
+Bryant Emary      001
+      UCCM - Master Chief Utilitiesman
+Fink Christop     003         Williams Timo     002
+Zasloff Ronal     001
+                   Selected Reservist Senior Chief
+   ABHCS - Senior Chief Aviation Boatswains Mate Aircraft Handling
+Nance Zachary     003         Razi Ali Reza     001
+Tinsley Willi     002
+             ACCS - Senior Chief Air Traffic Controller
+Edwards Felis     001
+           ADCS - Senior Chief Aviation Machinists Mate
+Bandrich Hira     001
+           AECS - Senior Chief Aviation Electricians Mate
+Davis Joshua      001         Herrmann Jere     002
+          AMCS - Senior Chief Aviation Structural Mechanic
+Putz John Law     002         Reinig Robert     001
+        ATCS - Senior Chief Aviation Electronics Technician
+Seifert Josep     001
+           AWFCS - Senior Chief Naval Aircrewmen Mechanical
+Berthiaume Ro     001         Cook Benjamin     002
+Hayes Robert      003         Morgan Peter      004
+           AWOCS - Senior Chief Naval Aircrewmen Operator
+Berg Jonathan     001         Chavira Cesar     002
+Perry Christo     003
+                 BMCS - Senior Chief Boatswains Mate
+Benbow Robert     006         Cardenas Mari     017
+Curtis Ryan J     020         Dahlke Kyle W     018
+Dalhouse Lisa     007         Desta Samson      015
+Gaither Hanna     014         Green Joshua      011
+Horst Jeremy      009         Hosmer Wayne      012
+Junkins Cliff     003         Layne John La     004
+Lebron Juvent     005         Reneau Shaun      002
+Rink Thomas J     010         Smith James L     016
+Tatum Scott A     019         Wagner Adam D     013
+Wessling Vale     001         Whyte Justin      008
+            CECS - Senior Chief Construction Electrician
+Ceccoli John      003         Humble Kevin      002
+Nowak Edmund      001
+              CMCS - Senior Chief Construction Mechanic
+Garcia Christ     002         Lambert Kevin     001
+Sabik John Ch     003
+               CSCS - Senior Chief Culinary Specialist
+Collado Orinz     002         Rangeltinoco      001
+Saari Randy L     003
+      CTICS - Senior Chief Cryptologic Technician Interpretive
+Gustafson Tra     001
+        CTTCS - Senior Chief Cryptologic Technician Technical
+Butler Travis     002         Moran Brendan     001
+                CUCS - Senior Chief Constructionman
+Labrada Ferna     002         Muniz Christo     005
+Robinson Holl     006         Salmon Thomas     003
+Sigler Amber      004         Tandy John Cl     001
+               DCCS - Senior Chief Damage Controlman
+Mcmaster Dani     001
+               EMCS - Senior Chief Electricians Mate
+Antrim Alexan     001         Penaflor Mich     002
+Zaworski Josh     003
+                    ENCS - Senior Chief Engineman
+Bundy Dennis      004         Goughenour An     005
+Harris Kristo     007         Lovell Brando     008
+Reist Jesse L     006         Rowe Lance Cl     003
+Sanchez Migue     001         Whiteker Zach     002
+               EOCS - Senior Chief Equipment Operator
+Bistrek Tolan     003         Gorman Jeremy     008
+Hagg Arthur A     001         Hebb Michael      006
+Jagodzinski A     005         Littlefield W     002
+Tackabury Jay     007         Wilbur Jeffre     004
+     EODCS - Senior Chief Explosive Ordnance Disposal Technician
+Miller Zachar     001
+             ETCS - Senior Chief Electronic Technician
+Dudek John St     001         Weuste Chad A     004
+Witherington      003         Woods Latica      002
+                FCCS - Senior Chief Fire Controlman
+Morris Garet      001
+                 GMCS - Senior Chief Gunners Mate
+Codling Jerem     001         Parra Dionici     004
+Schad Jennife     002         Schexnayder K     003
+               HMCS - Senior Chief Hospital Corpsman
+Avitia Alionz     018         Burke Kaitlin     012
+Erickson Roge     017         Francisco Sam     005
+Gadberry Cary     015         Gunn Daniel D     006
+Howard Marcha     009         Johnson Amy L     004
+Linville Char     003         Mantanona Jen     011
+Mazmanian Nic     010         Miles Molly S     002
+Miller Sean D     016         Moore Sarah M     008
+Norris Megan      007         Simmscolon Ja     013
+Spencer Cyren     001         Verest Michae     014
+           HTCS - Senior Chief Hull Maintenance Technician
+Balsman Justi     002         Birkey David      001
+Emge Ryan Ell     003
+            ISCS - Senior Chief Intelligence Specialist
+Alder Mary Ka     008         Bertsch Ian M     007
+Clabo Ronald      002         Covey Jamie M     003
+Hobbs Michell     001         Howland Travi     006
+Mills Kevin D     004         Ross Michael      005
+         ITCS - Senior Chief Information Systems Technician
+Acosta Gabrie     006         Aliceacabrera     012
+Baird Terence     005         Cox Cory Kenn     011
+Griffin Charl     008         Heckman Tyler     009
+Holland Betha     010         Mckay Andrew      013
+Medina Brigha     001         Selvaratnam R     004
+Taylor James      007         Williams Timo     002
+Wolford Derek     003
+              LSCS - Senior Chief Logistics Specialist
+Alfing Joshua     014         Delarosa Geor     012
+Ebert Shawnda     002         Hasse Andrew      009
+Losier Joseph     004         Marko Tia Noe     013
+Moore Travis      008         Robinson Roac     010
+Stuckey Veron     006         Tobin Nicolas     011
+Wilson Alfred     007         Wolthuis Stev     003
+Wooten John T     001         York Brian Th     005
+                 MACS - Senior Chief Master At Arms
+Baraz Daniel      001         Bishop Mark A     002
+Bryant Joshua     016         Coats Jerald      004
+Coleman James     006         Ebersole Bret     010
+Ellis Nichola     014         Elston Christ     013
+Frenette Alle     005         Hamon Jeremia     009
+Hratko Thomas     007         Kembel Scott      003
+Peterson Mega     011         Skeberis Luis     012
+Velez Michael     008         Workman Jonat     015
+        MCCS - Senior Chief Mass Communications Specialist
+Klein Meagan      003         Oday Michael      002
+Wyman Wendy C     001
+                MMCS - Senior Chief Machinists Mate
+Adams Jason S     001
+                    MNCS - Senior Chief Mineman
+Creadick Just     001
+                   NDCS - Senior Chief Navy Diver
+Kirby Ryan Ed     001         Shafer James      002
+              OSCS - Senior Chief Operations Specialist
+Bijarro Georg     002         Carroll Linds     003
+Cervantes Yad     006         Lerch Nathan      004
+Roseman Eric      005         Stangler Sall     007
+Vanover Benja     001
+         PRCS - Senior Chief Aircrew Survival Equipmentman
+Johnson Rober     001         Watt Justin S     002
+              PSCS - Senior Chief Personnel Specialist
+Hoopes Deanna     001
+                 QMCS - Senior Chief Quartermaster
+Asato Hiroshi     002         Duenas Daniel     001
+          SBCS - Senior Chief Special Warfare Boat Operator
+Rawls Austin      002         Sarantos Pete     001
+            SOCS - Senior Chief Special Warfare Operator
+Bly Derrick S     001
+                   UTCS - Senior Chief Utilitiesman
+Bloomberg Ric     003         Moore Anthony     002
+Perez Leano B     001         Risner Brando     004
+                     YNCS - Senior Chief Yeoman
+Hartung Erich     002         Krick Jeremia     004
+Perry Jennife     001         Wade Taimesha     003
+                   Full Time Support Master Chief
+               AOCM - Master Chief Aviation Ordnanceman
+Sevigny Danie     001
+      ASCM - Master Chief Aviation Support Equipment Technician
+Gonzalez Adri     001
+           AWFCM - Master Chief Naval Aircrewman Mechanical
+Clark David W     001         Herring Paul      002
+                    CMDCM - Command Master Chief
+Butler Justin     003         Crossland Don     002
+Ridder Ernest     001
+                DCCM - Master Chief Damage Controlman
+Marquis Russe     001
+                EMCM - Master Chief Electricians Mate
+Gildelatorrer     001
+              ETCM - Master Chief Electronic Technician
+Baumert Richa     001
+                HMCM - Master Chief Hospital Corpsman
+Abdulsalam Ti     001         Payton Damari     002
+Taylor Blair      003
+         ITCM - Master Chief Information Systems Technician
+Harrison Char     001
+              LSCM - Master Chief Logistics Specialist
+Aiken Sacoyia     003         Demumbra Sofi     001
+Nicholson Ser     002
+           NCCM - Master Chief Navy Counselor (Recruiter)
+Allen Bert Wa     001         King Casey Ra     002
+              PSCM - Master Chief Personnel Specialist
+Adams Clyde N     001         Maher Nikita      002
+Mckenzie Kurt     004         Serrano Micha     003
+                      YNCM - Master Chief Yeoman
+Axson Dana Ma     004         Bray Kimberly     005
+Brennick Matt     002         Lang Michelle     001
+Summerbell Eb     003
+                   Full Time Support Senior Chief
+             ADCS - Senior Chief Aviation Machinists Mate
+Cooper Bryant     002         Roy Scott Ray     003
+Tarkowski Bra     001         Vamos Jesse D     004
+              AOCS - Senior Chief Aviation Ordnanceman
+Evans Tyrone      001
+         ATCS - Senior Chief Aviation Electronics Technician
+Hilst James W     001
+          AWFCS - Senior Chief Naval Aircrewmen Mechanical
+Dodd Jason Al     001         Gregory Raymo     002
+Leiser Lawren     005         Mccoy Michael     003
+Ragan Joe Smi     004
+     AZCS - Senior Chief Aviation Maintenance Administrationman
+Bryant Jocely     001
+                DCCS - Senior Chief Damage Controlman
+Stigall Charl     001         Thippanya Ano     002
+                EMCS - Senior Chief Electricians Mate
+Dean Matthew      001         Timm Joseph L     002
+              ETCS - Senior Chief Electronic Technician
+Carroll Roger     001
+                HMCS - Senior Chief Hospital Corpsman
+Cheek Christo     005         Jameson Calis     003
+Leija Armando     007         Mcmillan Thom     006
+Twitty Shella     001         Villareal Mar     002
+Welch Nicole      004
+         ITCS - Senior Chief Information Systems Technician
+Brunson Jenny     001         Randall Dane      002
+              LSCS - Senior Chief Logistics Specialist
+Freeman Samue     006         Henry Anthony     005
+Hightower Jeh     004         Mclawrence Po     002
+Schiltz Erik      001         Shue Roger Da     003
+           NCCS - Senior Chief Navy Counselor (Recruiter)
+Armijo Marlen     002         Moreno Sidney     001
+           NCCS - Senior Chief Navy Counselor (Counselor)
+Rivas Melody      001
+         PRCS - Senior Chief Aircrew Survival Equipmentman
+Dees Michael      001
+              PSCS - Senior Chief Personnel Specialist
+Bergeronconwa     003         Crites Aracel     001
+Housden Eric      002
+                      YNCS - Senior Chief Yeoman
+Boyd Raymond      001         Dobar Rebecca     004
+Fiorucci Ange     006         Lemons Mark E     003
+Livingston Na     002         Newton Marie      005
+
+4.  Released By Vice Admiral John B. Nowell Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

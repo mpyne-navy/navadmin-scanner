@@ -1,0 +1,102 @@
+UNCLASSIFIED//
+ROUTINE
+R 031453Z JUL 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 152/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/DISCONTINUE HARDCOPY FINGERPRINT SUBMISSIONS FOR BACKGROUND 
+INVESTIGATIONS//
+
+REF/A/DOC/DUSN/01AUG16//
+NARR/REF A IS UNDER SECRETARY OF THE NAVY LETTER OF 1 AUGUST 2016 WHICH 
+REQUIRED IMPLEMENTATION OF SECURE WEB FINGERPRINT TRANSMISSION PLUS 
+ENROLLMENT IN THE DEPARTMENT OF THE NAVY.// POC/FLOYD/CIV/OPNAV N2N6/E-MAIL:  
+JENNIFER.FLOYD3(AT)NAVY.MIL/
+TEL:  703-604-5564//
+
+RMKS/1.  While progress has been made, National Background Investigation 
+Bureau (NBIB) reports that a backlog of background investigations continues 
+to challenge the Services, including Navy.  Several factors have been 
+identified in the background investigation process which contributes to the 
+backlog, to include submission of hardcopy fingerprints for investigations 
+conducted by NBIB.  Failure to provide NBIB with fingerprints electronically 
+results in a significant delay in processing of the background investigation.
+
+2.  Per reference (a), electronic fingerprints are required to be submitted 
+through Secure Web Fingerprint Transmission Plus (SWFT PLUS).
+
+3.  Effective immediately, all Navy commands are hereby instructed to comply 
+with the following:
+    a.  Discontinue all hardcopy fingerprint submissions to the NBIB.
+    b.  Electronic fingerprints are to be submitted through SWFT PLUS to 
+support Federal Bureau of Investigations (FBI) fingerprint searches.  
+Submission of electronic fingerprints through SWFT PLUS improves efficiency, 
+timeliness of results, and quality of the print.  When electronic capture is 
+not possible, contact usnavybib.fc(at)navy.mil.
+
+4.  Reference (a) directs Navy Echelon I and II command security personnel to 
+register as SWFT PLUS site administrators, and to then register and manage 
+user accounts for subordinate commands.
+    a.  Commands without SWFT PLUS capability should consult with their 
+Security Office chain-of-command to obtain guidance from their cognizant 
+Echelon I or II command.
+    b.  Echelon I and II commands are to contact the Deputy Under Secretary 
+of the Navy (DUSN) Security Directorate at donsecurity_pers.fct(at)navy.mil 
+for additional information.
+
+5.  To assist commands who do not currently have SWFT PLUS access, OPNAV 
+N2N6/NIA SI3 (BIB Branch) developed a consolidated list of electronic 
+fingerprint locations by region capable of capturing and submitting 
+fingerprints via SWFT PLUS.  Contact OPNAV N2N6/NIA SI3 (BIB Branch) via 
+email at usnavybib.fct(at)navy.mil for a copy of the SWFT PLUS location list.
+    a.  When electronic capture and submission via SWFT PLUS is not possible, 
+email OPNAV N2N6/NIA SI3 (BIB Branch) with specific details of issues 
+preventing use of SWFT PLUS.  Include the command Security Office chain-of-
+command points of contact information in the email.
+    b.  Once commands establish SWFT PLUS connectivity, email OPNAV N2N6/NIA 
+SI3 (BIB Branch) with the command name, address, POC name, and phone number.  
+Additionally, report to OPNAV N2N6/NIA SI3 (BIB
+Branch) any concerns with your command immediate transition to electronic 
+fingerprint submissions.
+
+6.  Defense Manpower Data Center (DMDC) Personnel Security/Assurance
+(PSA) https://psa.dmdc.osd.mil/psawebdocs/docPage.jsp?p=SWFT
+provides information on SWFT PLUS access, and a list of the supported 
+devices.  When using the information on this site, commands are advised:
+    a.  Commands must coordinate SWFT PLUS access through their Echelon I or 
+II command, vice directly with DMDC.
+    b.  DON specific SWFT PLUS guidance is available on the DUSN Security 
+Directorate Portal at https://portal.secnav.navy.mil/orgs
+/DUSNP/Security-Directorate/Personnel-Security/SitePages/Home.aspx
+    c.  When purchasing a fingerprint scanner, the scanner must be on both 
+the DMDC SWFT PLUS Supported Device List and the FBI certified product list.  
+The fingerprint scanner must also be authorized for use on the Department of 
+Defense or DON network, (i.e., Navy and Marine Corps Intranet, ONE-NET, 
+etc.), where the device will be connected.
+
+7.  NBIB continues to accept hard copy print submissions from Navy, but they 
+are sending a monthly report of all hard copy prints submitted from Navy to 
+OPNAV N2N6/NIA SI3 (BIB Branch) to assist with transitioning to electronic 
+fingerprint submissions.
+
+8.  Direct any questions to the point of contact, Ms. Jennifer Floyd,
+(703) 604-5564 or jennifer.floyd3(at)navy.mil.
+
+9.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

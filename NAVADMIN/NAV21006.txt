@@ -1,0 +1,80 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 132106Z JAN 21 MID200000548782U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 006/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/DEFENSE-IN-DEPTH FUNCTIONAL IMPLEMENTATION ARCHITECTURE (DFIA) AFLOAT 
+INHERITANCE MODEL (AIM) FOR RISK MANAGEMENT FRAMEWORK (RMF)//
+
+REF/A/DOC/DFIA/8MAR18//
+
+REF/B/DOC/NAVSYSCOM/19SEP17//
+
+NARR/REF A IS THE INFORMATION ASSURANCE (IA) TECHNICAL AUTHORITY (TA) 
+DEFENSE-IN -DEPTH FUNCTIONAL IMPLEMENTATION ARCHITECTURE STANDARD (IATA-STD-
+004-DFIA) V4.0.  REF B IS THE IA TA NAVAL SYSTEMS COMMAND ENCLAVE PROCESS 
+V1.0.
+POC/BROOKE ZIMMERMAN/GS-15/N2N6D6/EMAIL:  BROOKE.ZIMMERMAN(AT)NAVY.MIL/TEL:  
+571 -256-8521// TECHNICAL POC/MEGAN CANE/NH-4/EMAIL:  
+MEGAN.CANE(AT)NAVY.MIL/TEL:  202-781 -3835//
+
+1.  This NAVADMIN authorizes use of the Defense-in-Depth Functional 
+Implementation Architecture (DFIA) security framework while executing the 
+Risk Management Framework (RMF) for afloat systems, as outlined in references 
+(a) and (b), to reduce the workload for RMF documentation by enhancing 
+opportunities for reciprocity and enabling transparency for authorized 
+systems, as well as minimizing total cost.  To date, security inheritance in 
+risk management has been ad hoc, site specific, and manual.  Implementation 
+of DFIA utilizing an Afloat Inheritance Model (AIM) will provide a set of 
+common inheritable controls for authorization and accreditation of Navy 
+Afloat systems.
+
+2.  Applicable to all Navy systems fielded on ships and submarines, this 
+approach enables system owners to focus on addressing the technical and non -
+technical controls for which they are responsible and have the authority to 
+implement.
+
+3.  Common inherited security controls are a means for connected systems to 
+satisfy established security requirements through parent/child relationships 
+with Common Control Providers (CCP).  The CCP is responsible and accountable 
+for ensuring these controls are properly assessed and their compliance is 
+maintained.
+
+4.  During the RMF process, system owners are to utilize AIM in a risk-
+balanced, cost-effective manner in determining the security requirements at 
+each defensive layer in afloat platforms and be included in the initial 
+platform security architecture.  Future updates to reference (a) and AIM will 
+provide additional inheritable controls and address future requirements, such 
+as Navys Integrated Network Operation Command and Controls System (INOCCS).
+
+5.  References (a) and (b) and other relevant documents are located at:
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/RMF/SitePages
+/Inheritance%20Models.aspx
+
+6.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+7.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

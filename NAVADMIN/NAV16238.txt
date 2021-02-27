@@ -1,0 +1,140 @@
+UNCLASSIFIED
+ROUTINE
+R 241300Z OCT 16
+FM COMUSFLTFORCOM NORFOLK VA
+TO NAVADMIN
+INFO ZEN/SECDEF WASHINGTON DC
+ZEN/JOINT STAFF WASHINGTON DC
+ZEN/CNO WASHINGTON DC
+ZEN/CMC WASHINGTON DC
+ZEN/CDR USPACOM HONOLULU HI
+ZEN/CDR USEUCOM VAIHINGEN GE
+ZEN/CDR USAFRICOM STUTTGART GE
+ZEN/CDR USCENTCOM MACDILL AFB FL
+ZEN/CDR USNORTHCOM PETERSON AFB CO
+ZEN/CDR USSOUTHCOM MIAMI FL
+ZEN/CDR USSOCOM MACDILL AFB FL
+ZEN/CDR USTRANSCOM SCOTT AFB IL
+ZEN/CDR USSTRATCOM OFFUTT AFB NE
+ZEN/DIRSSP WASHINGTON DC
+ZEN/DARPA ARLINGTON VA
+ZEN/DCMA HQ ALEXANDRIA VA
+ZEN/DFAS HQ ARLINGTON VA
+ZEN/DIA WASHINGTON DC
+ZEN/DLA FT BELVOIR VA
+ZEN/DTRA ALEX WASHINGTON DC
+ZEN/NGA WASHINGTON DC
+ZEN/MDA WASHINGTON DC
+ZEN/NSA FT GEORGE G MEADE MD
+ZEN/USCENTCOM COMMAND CENTER MACDILL AFB FL
+ZEN/COMUSFLTFORCOM NORFOLK VA
+BT
+UNCLAS
+
+
+NAVADMIN 238/16
+
+
+SUBJ/EXERCISE-EXERCISE-EXERCISE ORDER TO ACCOUNT FOR THE JOINT CHIEFS OF 
+STAFF EXERCISE POSITIVE RESPONSE 17-1//
+
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+REF/A/DOC/JSAP/J-1A 00267-15/02NOV2015//
+REF/B/DOC/OPNAVINST 3006.1/01MAR2011//
+REF/C/DOC/DODINST 3001.02/03MAY2010//
+REF/D/DOC/DODINST 1015.15/20MAR2008//
+REF/E/DOC/NAVSOP-1000/12DEC2002//
+REF/F/MSG/PTC WASHINGTON DC/171821ZMAR09//
+REF/G/MSG/PTC WASHINGTON DC/171846ZMAR09//
+
+NARR/REF A IS JOINT STAFF ACTION PROCESSING FORM/J-1A 00267-15 DIRECTING THE 
+INITIATION OF PERSONNEL ACCOUNTABILITY FOR NATURAL OR MANMADE DISASTERS 
+EXERCISE POSITIVE RESPONSE 17-1. 
+REF B IS OPNAVINST 3006.1, PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH 
+CATASTROPHIC EVENTS, NAVY PERSONNEL ACCOUNTABILITY POLICY.  
+REF C IS DODINST 3001.02, PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH 
+NATURAL OR MAN-MADE DISASTERS.  
+REF D IS DODINST 1015.15, PROCEDURES AND SUPPORT FOR NON-FEDERALENTITIES 
+AUTHORIZED TO OPERATE ON DOD INSTALLATIONS (ENCL 4).  
+REF E IS FINANCIAL MANAGEMENT POLICY MANUAL.
+REF F IS ALARACT 070/2009, CONUS EVACUATION ALLOWANCES.  
+REF G IS ALARACT 071/2009, NONCOMBATANT EVACUATION ORDER/OCONUS EVACUATION 
+ALLOWANCES.//
+
+RMKS/1.  This order to account applies to all Navy active duty/reserve (and 
+dependents), DON civilian employees, NAF employees, and NEX employees within 
+the established geographic area of interest (GAOI) designated in paragraph 2. 
+Echelon II commanders and all regional commanders shall ensure widest 
+dissemination to all subordinate and tenant commands and detachments for 
+immediate action upon receipt.
+
+2.  The following geographic area of interest (GAOI) has been established for 
+the personnel accountability event in conjunction with positive response 
+17-1:
+A. The District of Columbia.
+B. The following counties and cities within the state of Virginia:
+Fairfax County, Fairfax City, Falls Church City, Arlington County, and 
+Alexandria City.
+
+3.  All commands are expected to:
+A.  Muster and account for all affected Navy active duty/reserve (and 
+dependents), DON civilian employees, NAF employees, and NEX employees in the 
+GAOI immediately.  All individuals/sponsors in the affected GAOI will receive 
+notification from NFAAS via text/email to muster themselves and dependents in 
+Navy Family Accountability and Assessment System (NFAAS).  Commanding 
+officers (COS) and/or Commanding officers Representatives (CORSS) will ensure 
+widest dissemination of requirement for individual/sponsor muster in NFAAS.  
+In conjunction with individual/sponsor muster, COS/CORS will determine 
+accurate status and whereabouts of their personnel and muster and account for 
+them at home, work, telework, evacuated, or displaced location, or not in the 
+GAOI with specified circumstance (deployed, TDY/TAD/IA, on leave, 
+separated/retired, transferred, UA/deserter, other).
+B.  COS and/or CORS utilize the Navy Family Accountability and Assessment 
+System (NFAAS) support site at https://navyfamily.navy.mil to account for 
+each individual required to be mustered per refs b and c.  Commands shall 
+direct members to individually muster in NFAAS immediately.
+C.  If NFAAS is not available, commands are to report the status of Personnel 
+accountability (pa) to the affected Region Operations Center (ROC) or direct 
+chain of command.
+D.  Do not delay reporting on personnel until all information is Complete.  
+Report and account mustering information when obtained including the posting 
+of amplifying data in the notes area on the Individual's accounting line.
+
+4.  All individuals/sponsors are expected to:
+A.  Muster themselves and applicable dependents in NFAAS via 
+https://navyfamily.navy.mil.
+B.  If unable to access NFAAS individuals/sponsors should contact their 
+command mustering officer or supervisor to check in (muster).
+C.  Individuals/sponsors will provide command representatives with Current 
+residence, displaced location, or not in the GAOI with specified circumstance 
+(deployed, TDY/TAD/IA, on leave, separated/retired, transferred, UA/deserter, 
+other).
+D.  Family members can log on to NFAAS at
+https://navyfamily.navy.mil and check in (muster) on the Navy Family Members 
+site.  If unable to log on to NFAAS, call the NFAAS help desk at 
+866-946-9183.
+
+5.  There will not be a needs assessment conducted for this exercise.
+
+6.  For command personnel accountability questions or concerns,
+Contact the POCs below and or your chain of command (read as
+Location/phone/email):
+A.  CNR Naval District Washington/202-685-8035/tamarah.ware(at)navy.mil or 
+202-433-6862/denver.peters(at)navy.mil or 
+202-685-5967/john.motichka(at)navy.mil.
+B.  CNIC NLD PA POC/202-433-9360/vincent.webster(at)navy.mil or
+202-433-0226/cnic.n36.bwc(at)navy.mil.
+C.  USFF NA PA POC/757-836-8442/jarrett.l.heller(at)navy.mil.
+D.  NFAAS help desk/866-946-9183/nfaas(at)spawar.navy.mil.
+E.  USFFC BWC/757-836-5397/5398/5359/bwc.ffc(at)navy.mil.
+
+7.   Exercise, exercise, exercise.
+
+8.   Released by a. H. Gonzalez, Jr., SES, Director, Fleet Personnel
+Development and Allocation, USFF N1//
+
+BT
+#9626
+NNNN
+UNCLASSIFIED//

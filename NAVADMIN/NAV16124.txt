@@ -1,0 +1,85 @@
+UNCLASSIFIED
+ROUTINE
+R 261653Z MAY 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 124/16
+
+MSGID/GENADMIN CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/PHYSICAL READINESS PROGRAM UPDATE #3.  PHYSICAL READINESS INFORMATION 
+MANAGEMENT SYSTEM//
+
+REF/A/DOC/OPNAV/11JUL11//
+REF/B/MSG/CNO WASHINGTON DC/031159ZAUG15//
+REF/C/MSG/CNO WASHINGTON DC/091538ZMAR16//
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.  REF B IS 
+NAVADMIN 178/15, PHYSICAL READINESS PROGRAM POLICY CHANGES.  REF C IS 
+NAVADMIN 061/16, IMPLEMENTATION OF PHYSICAL READINESS PROGRAM POLICY CHANGES 
+UPDATE #2.//
+
+RMKS/1.  The Navy has been working hard to implement changes as part of the 
+new physical fitness assessment (PFA) policy per references (a) through (c).  
+This NAVADMIN outlines and clarifies changes to the Physical Readiness 
+Information Management System (PRIMS), the official database for PFA data, 
+and provides direction for its use effective Cycle 1, 2016.
+
+2.  The PRIMS is being reprogrammed to reflect changes within the Physical 
+Readiness Program, to facilitate the capture of all PFA data and to ensure 
+the security and integrity of the database. PRIMS functionality is being 
+updated using a phased approach.  The first phase is planned for release at 
+the beginning of Cycle 2, 2016.  This phase will give CFLs the ability to 
+enter PFA data and allow Sailors to view their PFA data.  Changes include:
+    a.  Physical readiness test (PRT) performance categories.
+    b.  Abdominal circumference measurements to the body composition 
+assessment.
+    c.  Graduated body fat percentages by age.
+    d.  Command fitness leader (CFL) recertification requirements.
+
+3.  For Cycle 1, 2016:
+    a.  Sailors should continue to complete a paper copy of the Physical 
+Activity Risk Factor Questionnaire (PARFQ) (NAVPERS Form 6110/3).  CFLs 
+should retain paper copies for a minimum of five years.  The requirement to 
+enter PARFQs into PRIMS is rescinded for Cycle 1, 2016 only.  However, 
+entering PARFQs for Cycle 1, 2016 is strongly encouraged.
+    b.  It is the responsibility of individual Sailors to obtain medical 
+clearance for participation in the PRT.  Completed PARFQ and medical 
+waiver/clearance forms are required to be turned into your CFL.  The new 
+PARFQ and medical clearance/waiver forms are available for download at 
+http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx.
+
+4.  CFLs must ensure all PFA score sheets are maintained in hard copy for 
+future input into PRIMS.  Official PFA score sheets must be retained at the 
+command for a period of five years.  CFLs should not place any Sailors 
+transferring from their command into a transfer status in PRIMS until their 
+PFA data is entered into the system. CFLs must provide all transferring 
+Sailors with copies of their score sheets or a signed Navy Memorandum 
+containing their PFA information.  Sailors are responsible for providing the 
+score sheets or Navy memorandum to the CFL at their next duty station.
+
+5.  The remaining phases will increase CFLs ability to generate different 
+reports, Fitness Enhancement Program functionality and planned for completion 
+prior to the end of FY-16.
+
+6.  CFLs are strongly encouraged to visit the Navys Physical Readiness 
+Program website at http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx for updates 
+during this phased roll-out of PRIMS.
+
+7.  Point of contact is Mr. William G. Moore, N170B, and can be reached at 
+(901) 874-2210/DSN 882 or via e-mail at PRIMS(at)navy.mil.
+
+8.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

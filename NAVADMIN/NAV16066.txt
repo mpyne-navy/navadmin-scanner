@@ -1,0 +1,107 @@
+
+RTTUZYUW RHOIAAA0001 0772045-UUUU--RHSSSUU.
+ZNR UUUUU
+R 172044Z MAR 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 066/16
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/DNS/MAR//
+
+SUBJ/NAVY AUDIT DOCUMENT RETENTION GUIDANCE//
+
+REF/A/LTR/ASN (FM&C)/08 DEC 2015
+REF/B/LTR/DASN (FO)/29 JAN 15//
+NARR/REF A IS ASN (Financial Management & Comptroller) Financial
+Management Policy Letter 16-01 on Delegation of Authority to Appoint
+Accountable Officials.  REF B IS DASN (FINANCIAL OPERATIONS) MEMO
+ON REVISED DOCUMENT RETENTION REQUIREMENTS TO SUPPORT DEPARTMENT OF
+THE NAVY FINANCIAL STATEMENT AUDITS.//
+POC/MURRAY TYNCH/CAPT/00011/WASHINGTON DC/(703) 693-4444//
+RMKS/1.  Take refs (a) through (b) forac.
+
+2.  As outlined in ref (b), this NAVADMIN provides updated guidance
+and information on the Navy's document requirements related to
+financial statement audits. This NAVADMIN may be followed by
+subsequent NAVADMINs with additional guidance on document requirements.
+In the interim, commands must ensure that Sailors, Civilians, and
+Contractors adhere to documentation requirements outlined in refs (a)
+through (b) and in this NAVADMIN.
+
+3.  Congress mandated that the DoD have auditable financial statements
+in place by 30 SEP 2017. An Independent Public Auditor (IPA) performed
+an audit on the Navy in the form of the FY2015 Schedule of Budgetary
+Activity (SBA), to determine if the SBA was fairly stated. The IPA
+issued 220 notices of findings and recommendations (NFR) based on the
+Navy's internal control environment. The IPA determined the Navy could
+not consistently provide documented evidence of financial events. As a
+result of the issues identified, the IPA could not issue an audit
+opinion due to the lack of evidence required.
+
+4.  Common problems the IPA identified with Navy financial
+documentation included:
+
+    a.  Lack of or incomplete evidence of approval for transactions
+(i.e. authorization of approval, DD577).
+
+    b.  Lack of or incorrect evidence of receipt and acceptance.
+
+    c.  Lack of or incomplete evidence of contractual agreements and
+related contract documents (i.e. contract and/or funding documents).
+
+    d.  Lack of or incomplete evidence to support that payments were
+made for a valid reason.
+
+    e.  Lack of or incomplete evidence of funding authority.
+
+5.  From an audit perspective if there is no evidence of a financial
+event, the auditor cannot validate if the transaction was properly
+approved by the appropriate official and /or the transaction was
+properly executed. The primary audit finding determined that Navy
+requires a renewed focus on retaining the correct documents for the
+required duration per refs (a) through ref (b).
+
+6. To ensure the Navy achieves full auditability per Congressional
+mandate, DASN (FO) issued the policy contained in ref (b).  To comply
+with that policy, all commands are directed to take the following
+actions within 60 days and report/provide evidence of completion.
+
+    a.  Per refs (a) through (b) all commands retain the requisite
+financial documents as outlined in the Key Supporting Document (KSD)
+Matrix. The KSD matrix can be found at
+https://arc.portal.navy.mil/sites/collab/FMO5Specific/arcperm/ARC%20Permanent
+%20File%20Respository/Forms/Quick.aspx.
+
+    b.  IAW ref (b) each command must be able to retrieve all
+auditable documents. It is highly recommended each command establish
+a standardized naming convention that includes the fiscal year,
+document number (if applicable) and system and/or business process
+to increase efficiency.
+
+    c.  Commands are required to properly complete and maintain
+written authorization in accordance with ref (b) in the
+form of a DD577.
+
+    d.  Within 180 days, Budget Submitting Offices shall utilize
+Command Evaluation or Manager's Internal Control (MIC) program to
+establish ongoing reviews of command compliance with document
+retention requirements.
+
+7.  Be prepared to have spot checks performed on your Commands
+document retention practices at a later date. Following 180 days,
+the DASN (FO) Evaluation, Prioritization, Remediation (EPR) Program
+will perform procedures to validate that commands document retention
+practices comply with refs (a) through (b).
+
+8. Commands should direct submissions and inquiries to Ms. LeAnne
+Mason at leanne.mason(at)navy.mil.
+
+9. Released by Vice Admiral R. L. Thomas, Director, Navy Staff.//
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,150 @@
+UNCLASSIFIED//
+ROUTINE
+R 311828Z JAN 19
+FM CNO WASHINGTON DC//N3N5//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N3N5//
+BT
+UNCLAS
+
+NAVADMIN 024/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N3N5//
+INFO CNO WASHINGTON DC//N2N6//
+UNSECNAV//ASN(RDA)//
+
+SUBJ/DEFENSE INDUSTRIAL BASE INCIDENT REPORTING REQUIREMENTS//
+
+REF/A/DOC/CNO/22DEC2009//
+REF/B/DOC/ASN(RD&A)/28SEP2018//
+REF/C/DOC/DFARS/21DEC2018//
+REF/D/DOC/CNO/CCIR LIST, NOTAL (S)//
+NARR/Ref A IS OPNAVINST F3100.6J, Special Incident Reporting (OPREP-3 
+Pinnacle, OPREP-3 Navy Blue and OPREP-3 Navy Unit Sitrep) Procedures.  
+Ref B is an ASN(RD&A) policy memo promulgating guidance about DIB 
+Cybersecurity requirements.
+Ref C is DFARS clause 252.204-7012.  Ref D is the Chief of Naval Operations 
+Commander's critical information requirements.//
+
+RMKS/1.  This NAVADMIN provides additional reporting guidance when Defense 
+Industrial Base (DIB) networks that contain Controlled Unclassified 
+Information (CUI) have been attacked or compromised.
+This NAVADMIN is effective immediately and shall remain in effect until the 
+release of a revision to reference (a).
+
+2.  Background.  DIB Networks and the CUI on them are vulnerable to external 
+attack.  Malicious actors have demonstrated the ability to gain access to 
+contractor and vendor networks for the purpose of extracting CUI.  Immediate 
+reporting to cognizant activities is imperative to close the breach and 
+inform leadership of the scope of the incident.
+
+3.  Specific Reporting Instructions.  Cybersecurity incidents and attacks on 
+Navy programmatic acquisition equities will be reported to senior Naval 
+leadership via OPREP NAVY BLUE message.  Report criteria:  Attacks on USN 
+contractor and vendor networks that result in the unauthorized access and 
+acquisition of CUI.  Voice reports shall be made to the CNO Battle Watch team 
+((703) 692-9284) in accordance with the guidelines in reference (a), chapter 
+2, section 8, paragraph 2.
+
+4.  Reporting Process.  Upon notification of a cybersecurity incident from 
+the Defense Cyber Crimes Center (DC3), the Navy Damage Assessment Management 
+Office (DAMO) shall submit the OPREP-3.  In addition to the commands listed 
+on the message template in paragraph 6, DAMO may include any command that is 
+deemed relevant.
+The report must be generated within three business days of notification from 
+the DC3.  DAMO should not delay due to lack of details.  DAMO will issue a 
+close-out report upon completion of the final assessment.
+
+5.  Report Content.  Timely and accurate reporting of cybersecurity incidents 
+is critical to the response process.  In general, voice and record message 
+reports shall address the following (if known):
+    (1) What Happened (Including date of incident and method of discovery)
+    (2) Actions Taken (Describe what has been done to-date)
+    (3) Actions Planned
+    (4) DC3 Incident Collection Number (DAMO/DC3 Case ID)
+    (5) Comments
+    (6) Contact Information
+    (7) Remarks (As Necessary)
+
+6.  OPREP Record Message Example
+ACTION Addresses:
+   CNO WASHINGTON DC
+   USCYBERCOM FT GEORGE MEADE MD
+   COMFLTCYBERCOM FT GEORGE MEADE MD
+   COMTENTHFLT
+   DIRNAVCRIMSERV QUANTICO VA
+   DOD CYBER CRIME CENTER DC3 LINTHICUM MD Applicable Geographical Combatant 
+Commands (only include combatant commands if the incident has an immediate 
+operational impact):
+   HQ USNORTHCOM
+   HQ USSOUTHCOM MIAMI FL
+   HQ USPACOM
+   HQ USCENTCOM MACDILL AFB FL
+   HQ USEUCOM VAIHINGEN GE
+Applicable Functional Combatant Commands:
+   HQ USSOCOM MACDILL FB FL
+   USTRANSCOM
+   USSTRATCOM OFFUTT AFB NE
+Applicable Navy Component Commanders:
+   COMUSFLTFORCOM
+   COMPACFLT PEARL HARBOR HI//FCC//
+   COMUSNAVEUR COMUSNAVAF NAPLES IT
+   COMUSNAVCENT
+   COMUSNAVSOUTH
+TYPE COMMANDER:
+OTHER OPERATIONAL AND ADMINISTRATIVE COMMANDERS INFO Addresses:
+   SECNAV WASHINGTON DC
+   ASSTSECNAV RDA WASHINGTON DC
+   ONI WASHINGTON DC
+   CHINFO WASHINGTON DC//00//
+   NAVNETWARCOM SUFFOLK VA
+   NCDOC NORFOLK VA
+   MARFORCYBER
+   CHAIN OF COMMAND
+Additional addresses to be considered:
+NAVY JAG WASHINGTON DC
+Message Body:
+SECRET//NOFORN
+
+SUBJ/DIB CYBERSECURITY INCIDENT REPORT
+
+MSGID/OPREP-3/-/001//
+FLAGWORD/NAVY BLUE/-/001//
+
+REF/A/TEL/REPORTING COMMAND/DTG//
+
+AMPN/FOLLOWUP REPORT (OR INITIAL REPORT ? AS APPLICABLE)// 
+TIMELOC/DDTTTTZMMMYYYY/LOCATION/FOLLOWUP//
+GENTEXT/INCIDENT IDENTIFICATION AND DETAILS/TITLE OF INCIDENT// WHAT 
+HAPPENED:
+ACTIONS TAKEN:
+ACTIONS PLANNED:
+DC3 INCIDENT COLLECTION NUMBER:
+COMMENTS:
+CONTACT INFORMATION:
+REMARKS:
+
+DECL/ORIG: JCD122.1/15A/DATE: DDMMYYYY
+
+7.  Related reporting requirements.  All incidents involving loss or 
+compromise of controlled unclassified, sensitive or classified information 
+from a Defense Industrial Base contract partner is required to be reported by 
+the contractor to the DoD via DIBNet (https://dibnet.dod.mil/).  Reporting to 
+the DIBNet is a contractual obligation of the contractor, per reference (c).  
+The OPREP-3 report is required in addition to the contractor’s report to 
+notify key stakeholders within the Navy.
+
+8.  Points of contact:  Mr. Andrej Stare (571) 256-8284, 
+andrej.stare1(AT)navy.mil; LT Justin McCarthy, justin.s.mccarthy(at)navy.mil, 
+(571) 256-8279;or LCDR Joseph Owmby, joseph.owmby(AT)navy.mil, (703) 692-
+8883.
+
+9.  Released by RADM Stuart B. Munsch, Assistant Deputy Chief of Naval 
+Operations for Operations, Plans and Strategy (N3/N5B).//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

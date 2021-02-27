@@ -1,0 +1,166 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 151741Z APR 20 MID110000584670U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 108/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/SELECTIVE REENLISTMENT BONUS PROGRAM UPDATE APRIL 2020//
+
+REF/A/MSG/CNO WASHINGTON DC/021614ZDEC19//
+
+REF/B/DOC/OPNAV/1APR19//
+
+REF/C/DOC/COMNAVPERSCOM/2AUG18//
+
+NARR/REF A IS NAVADMIN 272/19, SELECTIVE REENLISTMENT BONUS AND PAY FOR 
+PERFORMANCE PILOT UPDATE DECEMBER 2020.  REF B IS OPNAVINST 1160.8B, 
+SELECTIVE REENLISTMENT BONUS PROGRAM.  REF C IS MILPERSMAN ARTICLE 1306-604, 
+ACTIVE OBLIGATED SERVICE (OBLISERV) FOR SERVICE SCHOOLS.//
+
+RMKS/1.  This NAVADMIN announces revised selective reenlistment bonus (SRB) 
+policy for Active Component (AC) and Full-Time Support (FTS), superseding 
+reference (a).
+
+2.  Sailors must now reenlist within 365-days of their end of active 
+obligated service (EAOS) (as opposed to 270-days required in reference (a)), 
+except in the case of Nuclear-trained Sailors who can reenlist at any point 
+in the reenlistment zone, per guidance in reference (b).
+
+3.  The pay for performance program continues its pilot as part of Sailor 
+2025 and the overall talent management process for the Navy.
+Eligibility and submission requirements are as follows:
+    a.  To be eligible, Sailors must:
+        (1) Be in the EM, EN, GSM, MM(SW), DC, HT, MR, CSS or AWS rating.
+        (2) Have received two Early Promotes (EPs) in block 45 of their three 
+most recent periodic evaluations.  Block 8 may indicate REGULAR, FROCKED or 
+SELECTED.  Block 10 must be checked for periodic.  No transfer, concurrent or 
+special evaluations will apply.  Evaluations are not limited to performance 
+documented in the last three years.  The intent is to evaluate the last three 
+periodic evaluations, regardless of how far back in a career that may go, so 
+as not to limit eligibility to only those who have served at a single duty 
+station for at least three years.
+        (3) Have not received Non-Judicial Punishment within the last three 
+years.
+        (4) Have not failed any part of the physical fitness assessment in 
+the last three years.
+    b.  Commands must submit a NAVPERS 1306/7, Enlisted Personnel Action 
+Request, requesting the SRB kicker, signed copies of the evaluations of the 
+Sailor and a printout of their physical readiness information management 
+system data to BUPERS-328 once their pre- certification has been submitted.  
+This requirement is only for those who fall under the provisions of this 
+paragraph.
+    c.  Award ceiling cap values under $100,000 will be raised by
+$5,000 for Sailors eligible for the performance kicker.  Award ceiling caps 
+will not be adjusted over $100,000 under these provisions.
+
+4.  SRB Submission Requirements
+    a.  Commands are required to submit SRB reenlistment requests to the 
+Enlisted Community Support Branch (BUPERS-328) via Officer Personnel 
+Information System (OPINS) or Navy Standard Integrated Personnel System 
+(NSIPS) 35 to 120 days in advance of the requested reenlistment date of the 
+Sailor.  Requests submitted less than 35 days prior to the requested 
+reenlistment date will be rejected.  However, commands may contact BUPERS-328 
+for waiver eligibility evaluation and procedural assistance.  Sailors must 
+have an approved SRB request before reenlisting.  The servicing personnel 
+office is responsible for verifying the reenlistment, posting the contract, 
+releasing the first payment and verifying the master military pay account.  
+Commands shall immediately notify the Military Pay and Compensation Policy 
+Branch (OPNAV N130) when a Sailor fails to maintain eligibility in the skill 
+for which SRB was paid (e.g., loss of security clearance, medical 
+disqualification, loss of eligible Navy Enlisted Classification (NEC), 
+misconduct) or when a Sailor has an approved separation with a remaining SRB 
+contract obligation.
+    b.  Career Waypoints-Reenlistment (C-WAY-REEN).  Commands are authorized 
+to submit SRB reenlistment requests prior to a Sailor receiving a C-WAY-REEN 
+quota.  However, the member must have a final C-WAY-REEN approval prior to 
+reenlistment.
+    c.  Sailors with approved SRB requests who do not reenlist on the date or 
+for the term specified in the SRB approval message must have their command 
+contact BUPERS-328 to initiate a reenlistment cancellation to avoid placing 
+Sailors in an overpaid status.
+
+5.  Acceptance of a NEC-specific SRB contract indicates an agreement between 
+the Sailor and the Navy to use those NEC skills to meet Fleet readiness 
+requirements.  In subsequent tours, a Sailor must be willing to be detailed 
+during the normal projected rotation date window to an available billet 
+within the SRB contracted NEC, consistent with sea-shore flow requirements.  
+Lateral conversions must follow reference (b), subparagraph 16d.
+
+6.  Reference (b), paragraph 16f, provides OBLISERV to Train (OTT) guidance.  
+Submit OTT requests to the BUPERS-328 extension desk by submitting an 
+Electronic Personnel Action Request (ePar) via My Navy Portal (MNP), or by 
+submitting a 1306/7 via email to askmncc@navy.mil.  Sailors should retain a 
+copy of the authorization message until reenlistment.  Use code 1CC for OTT 
+SRB request in OPINS or NSIPS.  Additionally, school OBLISERV requirements 
+are provided in reference (c).  OBLISERV will be determined based on course 
+length as provided in paragraph 3b of reference (c).
+Paragraph 3c(1) no longer applies.
+
+7.  In keeping with Department of Defense (DoD) policy, Sailors who accepted 
+an enlistment bonus for extended enlistment (EBEE), as reflected on their 
+Enlisted Bonus Payment Checklist (NAVCRUIT 1133/52, Enlistment Guarantees, 
+New Accession Training Program Enlistment Guarantee or Professional 
+Apprenticeship Career Track Program Enlistment Guarantees), are not 
+authorized to use this inoperative extension time in the SRB calculation.  
+Sailors who have inoperative extension time through a 5- or 6-year obligation 
+program may continue to have up to 24 months of inoperative extension time 
+count towards the SRB calculation provided the reenlistment results in a new 
+EAOS that is at least 24 months day-for-day past their current extended EAOS.  
+This calculation is performed automatically by BUPERS-328.  Local commands 
+are not authorized to cancel or change extensions for the purpose of 
+immediate SRB reenlistments.  Commands must verify and annotate on the 
+precertification request whether any inoperative extension time noted is part 
+of an EBEE contract.
+
+8.  Repayment policy is governed by Section 373 of Title 37, U.S.
+Code, DoD Financial Management Regulation (FMR) Chapter 2, Volume 7A and 
+reference (b), which collectively determine when repayment of the unearned 
+portion of a bonus is required or not required but left to Secretarial 
+discretion or prohibited.  Section 373 of Title 37, U.S. Code requires 
+repayment with certain exceptions.  As a general rule, repayment of any 
+unearned portion of a bonus will be sought.
+
+9.  Sailors who have reenlisted and have not received their SRB payment or 
+who have questions concerning the taxation of their SRB and annual 
+installments should contact their servicing pay office or personnel support 
+detachment.  SRB tax information is also discussed in DoD FMR, Volume 7A, 
+Chapter 44, table 44-1, rule 5.  Questions regarding the SRB program or any 
+information regarding on-line personnel accounts should be directed to your 
+command career counselor (CCC).  For questions regarding current award levels 
+check the SRB website via MyNavy Portal at ttps://www.mnp.navy.mil/group/pay-
+and-benefits, then click on the *SRB* tab.  For technical questions or 
+clarification, CCCs, not individual Sailors, are encouraged to contact 
+BUPERS-328 at (901) 874-3215 or (901) 874-3915/DSN 882 or via e-mail at 
+mill_incen_pays(at)navy.mil or contact the SRB Help Desk at (901) 874-
+2526/DSN 882.
+
+10.  We will continue to assess retention behavior and adjust SRB award 
+levels accordingly.
+
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first.
+
+12.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

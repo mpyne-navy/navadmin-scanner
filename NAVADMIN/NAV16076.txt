@@ -1,0 +1,44 @@
+UNCLASSIFIED
+ROUTINE
+R 291722Z MAR 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 076/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/FY-17 NAVY OLMSTED SCHOLAR PROGRAM SELECTION RESULTS//
+
+REF/A/MSG/CNO WASHINGTON DC/161300ZMAR15//
+AMPN/REF A IS NAVADMIN 064/15, FY-17 OLMSTED SCHOLAR PROGRAM.//
+
+RMKS/1.  Congratulations to the following Navy Olmsted Scholar
+nominees for being selected by the Olmsted Foundation for the FY-17
+Olmsted Scholar Program.  Navy Olmsted Scholar selectees are listed
+in alphabetical order:
+
+NAME                  RANK    DESIG
+Coomes, Donald        LCDR    1120
+Dewey, Kevin          LT      1140
+Fitzmaurice, Sean     LT      1120
+Hendricks, Fred       LT      1110
+Kramer, Andrew        LT      1120
+Rogers, Justin        LT      1120
+
+2.  Per reference (a), FY-17 Olmsted Scholar program selectees should provide 
+current information to Dr. Faye Messick, NETPDTC, at (850) 473-6049/DSN 753 
+or via e-mail at faye.messick(at)navy.mil.
+
+3.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

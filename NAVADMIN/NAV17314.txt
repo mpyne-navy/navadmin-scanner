@@ -1,0 +1,114 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 271706Z DEC 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+NAVADMIN 314/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/FISCAL YEAR 2018 CYBERSECURITY AWARENESS CHALLENGE//
+
+REF/A/MSG/CNO WASHINGTON DC/101423ZNOV16//
+
+REF/B/DOC/SECNAVINST 5239.3C/2MAY16//
+
+REF/C/MSG/CNO WASHINGTON DC/281648ZAUG17//
+
+NARR/REF A IS NAVADMIN 249/16 PROVIDING GUIDANCE FOR THE FISCAL YEAR
+2017 (FY17) CYBERSECURITY AWARENESS TRAINING.  REF B IS THE SECRETARY NAVY 
+INSTRUCTION DEPARTMENT OF THE NAVY (DON) CYBERSECURITY POLICY WHICH 
+ESTABLISHES DON POLICY FOR CYBERSECURITY.  REF C IS NAVADMIN 210/17, GENERAL 
+MILITARY TRAINING REQUIREMENTS WITH NAVY CIVILIAN TRAINING GUIDANCE// 
+POC/VIEIRA/CIV/OPNAV N2N6G11/-/TEL: (703) 695-7809 /EMAIL:
+MICHAEL.VIEIRA(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN supersedes reference (a) and provides guidance for the 
+FY18 Cybersecurity Awareness training requirement.  The Defense Information 
+Systems Agency (DISA) has released Cyber Awareness Challenge 2018 (also 
+referred to as CAC version 5).
+
+2.  Per references (b) and (c), Navy personnel, civilians, and contractors 
+with access to Unclassified or Secret networks must complete the Department 
+of Defense (DoD) employee version of the Cyber Awareness Challenge (CAC).  
+Navy personnel, civilians, and contractors with access to Sensitive 
+Compartmented Information must complete the Intelligence Community (IC) 
+version of the CAC.
+
+3.  Personnel who have already completed CAC version 4, either DoD employee 
+or IC version as applicable, for FY18 General Military Training (GMT) after 1 
+October 2017 have satisfied the GMT requirement and do not have to complete 
+CAC 2018.  All remaining Navy personnel (military personnel, civilians, and 
+contractors), must complete the CAC 2018, either DoD employee or IC versions 
+as applicable, by 30 September 2018 in order to satisfy the FY18 CAC GMT 
+requirement.
+
+4.  Authorized methods for training delivery:
+    a.  Total Workforce Management Service (TWMS), 
+https://twms.navy.mil/selfservice/login.asp;
+    b.  Navy e-Learning (NEL), https://learning.nel.navy.mil
+(Note: the Navy My Navy Portal, https://www.MNP.navy.mil/group/general
+-skills-training/gmt will also redirect users to the NEL link)
+    c.  DISA Website, https://iatraining.disa.mil/eta/disa_cac2018
+/launchPage.htm
+    d.  Other approved training sources, DISA Digital Video Discs (DVDs).
+
+5.  Ships can access the annual training from the NEL application hosted on 
+the Navy Information/Application Product Suite (NIAPS) server, eliminating 
+the need to reach back to shore hosted NEL websites.  The CAC 2018 (DoD 
+employee and IC) courses are available via the NEL Afloat Learning Management 
+System Pub Amendment 112 for download by the NIAPS Administrator using the 
+normal manual NIAPS distance support update process.  If unable to download 
+Learning Management System Pub Amendment 112, ships can request a DVD with 
+these files to be mailed by submitting a support request to Navy 311.  
+Additionally, CAC 2018 (DoD employee and IC) on DVD are available from DISA.  
+To pre-order, download, and submit a DoD Information Assurance Training and 
+Awareness Product order form from 
+http://iasecontent.disa.mil/eta/products_order_form.pdf.  Include a written 
+note in the comments section to ask for "Cyber Awareness Challenge" Version 
+5.0 CDs, when available.
+
+6.  Although Cybersecurity Awareness training is an individual 
+responsibility, commanders and commanding officers are accountable for 100 
+percent certification of their personnel.  Training officers are responsible 
+for ensuring their personnel complete and properly document the required 
+training, meanwhile the Information System Security Manager (ISSM) is 
+responsible for reporting compliance to meet Federal Information Security 
+Modernization Act of 2014 requirements.
+
+7.  Command training officers must validate training via TWMS or Fleet 
+Training Management and Planning System (FLTMPS) (https:/
+/ntmpsweb.ncdc.navy.mil/Fltmps/) authoritative database.  Training officers 
+will manually record training completed via the DISA website, or DISA DVDs in 
+FLTMPS using the Learning Event Completion Form.  Report any discrepancies to 
+the Navy Training Management Planning System Operational Support office at 
+ntmps.support(AT)navy.mil or 1-866-438-2898/DSN 922-1867.
+
+8.  Echelon II training officers are responsible for maintaining a list of 
+personnel who have fulfilled the training requirement in addition to 
+compiling data in TWMS for their respective area of responsibility.  The 
+command ISSM will disable accounts of users who do not complete the training 
+by 30 September 2018.
+
+9.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+10.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

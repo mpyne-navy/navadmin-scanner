@@ -1,0 +1,124 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 142019Z AUG 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 197/18
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/AUG//
+
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 TO NMCI (UPDATE 5)//
+
+
+REF/A/LTR/DOD CIO/20NOV15//
+
+
+REF/B/LTR/DEPSECDEF/8JAN18//
+
+
+REF/C/NAVADMIN 038/18/R 202004Z FEB 18//
+
+
+REF/D/UAB/NNWC/24APR18//
+
+
+REF/E/NAVADMIN 108/18/R 031453Z MAY 18//
+
+
+REF/F/NAVADMIN 138/18/R 311325Z MAY 18//
+
+
+REF/G/NAVADMIN 166/18/R 131344Z JUL 18//
+
+
+REF/H/NAVADMIN 182/18/R 261729Z JUL 18//
+
+
+REF/I/EMAIL/WIN10 COORDINATION CENTER/3AUG18
+
+
+NARR/REF (A) IS THE DEPARTMENT OF DEFENSE (DoD) CHIEF INFORMATION OFFICER 
+(CIO) MEMORANDUM, MIGRATION TO MICROSOFT WINDOWS 10 (WIN10) SECURE HOST 
+BASELINE (SHB).  REF (B) IS DEPUTY SECRETARY OF DEFENSE (DEPSECDEF) 
+MEMORANDUM PROMULGATING DEADLINE FOR MIGRATING OFFICE INFORMATION TECHNOLOGY 
+WORKSTATIONS TO THE DOD WIN10 SHB.  REF (C) IS INITIAL NAVADMIN DETAILING 
+DEPLOYMENT OF WIN10 TO THE NAVY MARINE CORPS INTRANET (NMCI).  REF (D) IS THE 
+NAVAL NETWORK WARFARE COMMAND USER AWARENESS BULLETIN ON ENERGY SAVING DURING 
+WIN10 MIGRATION.  REF (E) IS THE FIRST NAVADMIN IN THIS SERIES OF NMCI WIN10 
+ENTERPRISE MIGRATION UPDATES.  REF (F) IS THE SECOND NAVADMIN IN THIS SERIES 
+OF NMCI WIN10 ENTERPRISE MIGRATION UPDATES.  REF (G) IS THE THIRD NAVADMIN IN 
+THIS SERIES OF NMCI WIN10 ENTERPRISE MIGRATION UPDATES.  REF (H) IS THE 
+FOURTH NAVADMIN IN THIS SERIES OF NMCI WIN10 ENTERPRISE MIGRATION UPDATES.  
+REF (I) IS AN EMAIL ANNOUNCEMENT OF WIN10 LESSONS LEARNED SUMMIT//
+
+POC/WIN10 COORDINATION CENTER/CIV/PMW-205/-/EMAIL:  
+WIN10COORDINATIO.FCT(AT)NAVY.MIL/(202) 685-0471// POC/NEN CUSTOMER ENGAGEMENT 
+MANAGERS/CIV/PMW-205/-/EMAIL:  PMW_205_NEN_CEM(AT)NAVY.MIL//
+
+
+RMKS/1.  This NAVADMIN is the fifth and final in a series of NAVADMINs 
+providing updates on the NMCI Secret Internet Protocol Routing Network 
+(SIPRNet) and Non-Classified Internet Protocol Routing Network (NIPRNet) 
+enterprise migration to WIN10 SHB. Migration to WIN10 SHB is necessary to 
+improve cybersecurity, promote standardization across the Naval Enterprise 
+Network, and comply with DoD mandates.
+
+
+2.  On 31 July 2018, all Windows 7 NMCI workstations with the exception of 
+embarkables and those supporting tactical operations were quarantined.  
+Currently, there are approximately 4,000 quarantined workstations, and they 
+will remain quarantined until they are migrated to WIN10.  The remediation 
+efforts for these workstations are ongoing initiatives; efforts are focused 
+on migrating, retiring, or replacing these workstations.
+
+
+3.  Per reference (i), PMW-205 is hosting a WIN10 Lessons Learned Summit at 
+Washington Navy Yard, Building 196 on 22 August 2018 from
+1300 to 1700.  PMW-205 is soliciting input of lessons learned, so Navy can 
+compile and analyze all available data.  Request lessons learned (both 
+successes and challenges) are provided by 17 August 2018.  Submit your 
+lessons learned to the WIN10 Coordination Center at 
+win10coordinatio.fct(at)navy.mil.
+
+
+4.  With the Microsoft Windows as a Service (WaaS) support model and the DoD 
+SHB configurations, WIN10 updates will have to be deployed every 18 months.  
+We will be modifying the testing, preparation, and deployments models for a 
+faster and less disruptive migration.  Plans are already being coordinated to 
+begin the deployment of the next version of WIN10 SHB in January 2019.  The 
+lessons learned will be incorporated in a continuous improvement model for 
+future WaaS/SHB deployments.
+
+
+5.  The senior Navy leadership would like to express their appreciation of 
+the herculean efforts all claimants have taken to reach the common goal of 
+migration to WIN10.  Thanks to your leadership and dedication across all 
+levels of the Navy we overcame numerous challenges to deploy WIN10 to the 
+worlds largest intranet.  It took all of us working together as an enterprise 
+team to achieve our WIN10 results, many of which are a first due to NMCIs 
+scope and complexity.  It was the Navys biggest test to date of enterprise 
+control!  Bravo Zulu to the entire Navy team.
+
+
+6.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

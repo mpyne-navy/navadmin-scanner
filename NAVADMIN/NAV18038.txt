@@ -1,0 +1,131 @@
+UNCLASSIFIED
+ROUTINE
+R 202004Z FEB 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+NAVADMIN 038/18
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/FEB//
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 TO NMCI//
+
+REF/A/LTR/DoD CIO/20NOV15//
+REF/B/LTR/DEPSECDEF/8JAN18//
+NARR/REF A IS THE DEPARTMENT OF DEFENSE (DoD) CHIEF INFORMATION OFFICER (CIO) 
+MEMORANDUM, MIGRATION TO MICROSOFT WINDOWS 10 SECURE HOST BASELINE.  REF B IS 
+DEPUTY SECRETARY OF DEFENSE (DEPSECDEF) MEMORANDUM, DEADLINE FOR MIGRATING 
+OFFICE INFORMATION TECHNOLOGY WORKSTATIONS TO THE DoD MICROSOFT WINDOWS 10 
+SECURE HOST BASELINE//
+POC/NEN End User Services Team/CIV/PMW-205/-/EMAIL: NEN_EndUser
+_Services@navy.mil //
+POC/NEN Customer Engagement Managers/CIV/PMW-205/-/-/EMAIL:
+PMW_205_NEN_CEM@navy.mil//
+
+RMKS/1.  This NAVADMIN is the first in a series of messages aimed at 
+communicating to commands, Navy and Marine Corps Intranet (NMCI) 
+stakeholders, and NMCI end-users Department of the Navy plans for enterprise 
+migration to Windows 10 (WIN10) Secure Host Baseline (SHB).  This migration 
+represents significant change to information systems that support day to day 
+operations across the Navy, and will require the direct engagement and 
+support of leadership at every echelon to be successful.  Leaders are 
+expected to ensure that all personnel understand and execute their individual 
+responsibilities, and raise any issues to the appropriate implementation team 
+early to ensure minimal impact to operations.
+
+2.  Per references (a) and (b), the Navy has started the deployment of the 
+WIN10 SHB operating system with a target completion date of June 2018 to the 
+NMCI Enterprise.  For OCONUS Navy Enterprise Network (ONE-Net) users, WIN10 
+SHB migrations are underway.  OCONUS enterprise deployment is being 
+coordinated through respective Theater Network Operations and Security 
+Centers (TNOSCs) for each region.  The deployment of the WIN10 Operating 
+System is necessary comply with DoD mandates, improve cyber security, and 
+promote standardization across the Naval Enterprise Network (NEN).
+
+3.  The Navy is deploying WIN10 to NMCI through three different methods to 
+meet the June 2018 target completion date.
+    a.	Seat Technical Refresh:  New machines with WIN10 pre-loaded will 
+be delivered as part of tech refresh.  The NMCI Contract Technical 
+Representative (CTR) coordinates the replacement of machines directly with 
+the user.  User data is automatically transferred as part of the technical 
+refresh process.
+    b.	In-Place Upgrade (IPU):  This is an automated push of the WIN10 
+SHB software package to each user seat.  NMCI CTRs will ensure each user is 
+notified of their install date, and automated notifications will also be 
+presented on each workstation beginning seven (7) days prior to the install 
+date.
+        (1) Though not required, it is recommended every user backup their 
+files on the C: drive and desktop by moving the files to the user profile 
+drive (H: drive) or other appropriate back up location no later than two days 
+before the installation is scheduled to start.
+        (2) The files on the computer will start decrypting two (2) days 
+before the WIN10 install is scheduled to begin.  Users will see a pop-up 
+message stating that decryption has started.  Decryption runs in the 
+background and you can continue working. IMPORTANT:  Do not power down or 
+remove the computer from the network once this process has started until the 
+entire WIN10 installation has been completed.
+        (3) Users should not cancel or stop the WIN10 upgrade process, as 
+this may severely impact computer performance and result in data loss.
+        (4) More detailed instructions will be provided of what users can 
+expect to see through the migration process through user communiques.
+    c.	Manual Re-Image process:  This is a Full Hard Drive Wipe and 
+Reload with WIN10 SHB by the DXC Field Services team and/or PMW-205s Re-Image 
+Augmentation team using DVDs.  This process may take from 24 to 36 hours to 
+complete.  Users will be notified if this process applies to their computer, 
+and will be provided instructions regarding the actions required to prepare 
+for the upgrade.  It is the responsibility of every user to ensure any files 
+saved on the local C: drive or the desktop are moved to the user profile 
+drive (H: drive) a few days before the installation is scheduled.  If the 
+files size exceeds available H: drive space, users should contact their local 
+Information Systems Technician support for individual guidance.
+
+4.  Users must be vigilant of user bulletins as the deployment schedule can 
+change.  Close coordination with the CTR and properly backing up data on a 
+regular basis is important as the WIN10 deployment starts.  Users should 
+report issues following deployment directly to the NMCI Help Desk at 1-866-
+THE-NMCI.
+
+5.  WIN10 brings a new look and feel to the user interface with many 
+enhancements and greater collaboration capabilities.  Specifically, WIN10 SHB 
+will enhance the user interface and set the stage for future unified 
+communications capabilities such as chat, desktop conferencing, collaboration 
+tools, and voice over internet protocol (VOIP).  The WIN10 SHB deployment 
+also includes an upgrade to Microsoft Office 2016 and the installation of a 
+fourth web browser, Microsoft Edge, to improve user experience by 
+implementing similar capabilities found on personally-owned devices.  As this 
+is a significant departure from the current Windows 7 environment, users are 
+highly encouraged to take the below courses in preparation for migration.  
+Copy and paste the link into a web browser for access.
+    a.	Homeport (Using Firefox Web Browser):
+        (1) WIN10 Training to learn differences in WIN10:
+https://homeport.navy.mil/training/cbt/loader/5040/go
+        (2) Microsoft Office 2016 to learn more about the Microsoft (MS)
+Word, MS PowerPoint, MS Excel:  
+https://www.homeport.navy.mil/training/office2016/
+    b.	Skillport is an NMCI E-Learning system designed to increase user 
+comfort and proficiency with NMCI tools and capabilities. Specific 
+recommended courses to support WIN10 migration include:
+        (1) Computing skills for WIN10
+        (2) Email (MS Outlook) Outlook 2016
+        (3) Office 2016 applications (MS Word, Excel, Access, and PowerPoint) 
+https://homeport.navy.mil/training/elearning/
+
+6.  Any operational concerns with the aforementioned process (applications 
+not compatible with WIN10) an implementation should be communicated to your 
+echelon II CIO/N6.  Echelon II CIO/N6 requesting to delay a WIN10 update must 
+provide U.S. Fleet Cyber Command Battle Watch Center operational impact and 
+justification.
+
+7.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

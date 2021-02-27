@@ -1,0 +1,93 @@
+UNCLASSIFIED
+ROUTINE
+R 261708Z DEC 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+CMC WASHINGTON DC
+COMDT COGARD WASHINGTON DC
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+NAVADMIN 313/17
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/FISCAL YEAR 2017 COPERNICUS AWARD WINNERS ANNOUNCEMENT//
+
+REF/A/MSG/CNO WASHINGTON DC/311317Z AUG 17//
+AMPN/REF A IS NAVADMIN 213/17, 2017 COPERNICUS AWARD SOLICITATION MESSAGE//
+POC/WILSON/LT/OPNAV N2N6C1/-/TEL:  (703) 604-6288/DSN:  664-6288
+/EMAIL:  CHRISTOPHER.WILSON(AT)NAVY.MIL//
+
+RMKS/1.  The Chief of Naval Operations is pleased to congratulate the fiscal 
+year 2017 (FY 17) Copernicus Award winners.  The Copernicus Award recognizes 
+individual contributions to Naval Warfare in the disciplines of Command, 
+Control, Communications, Computers, and Intelligence (C4I), Information 
+Systems or Information Warfare (IW).  The Armed Forces Communications and 
+Electronics Association (AFCEA) and the U.S. Naval Institute (USNI) have 
+selected the
+following Copernicus Award winners for FY 17:
+   a.  LT Daniel M. Ballance, USN
+   Navy Cyber Defense Operations Command
+   b.  LCDR Timothy W. Bierbach, USN
+   Patrol Squadron FOUR FIVE
+   c.  LT Andrew A. Blanco, USN
+   Naval Aviation Warfighting Development Center
+   d.  LT Richard G. Dobias, USN
+   Navy Information Operations Command San Diego
+   e.  Mr. Stuart L. Farlin
+   Naval Information Forces
+   f.  Mr. John C. Fincannon
+   Marine Corps Cyberspace Operations Group
+   g.  LCDR Jacob P. Galbreath, USN
+   Naval Computer and Telecommunications Station, San Diego
+   h.  Mr. Travis D. Gibson
+   U.S. Coast Guard Command, Control, and Communications Engineering
+   Center
+   I.  ITC Shaun J. Hoban, USN
+   USS MOUNT WHITNEY (LCC 20)
+   j.  LT Timothy G. Laufer, USN
+   U.S. Naval Forces Korea
+   k.  Maj Stephanie A. Mafrici, USMC
+   Marine Wing Communications Squadron 18
+   l.  ENS Craig L. McKnight, USN
+   USS FARRAGUT (DDG 99)
+   m.  LT Tyson B. Meadors, USN
+   National Security Council
+   n.  GySgt Robert M. Moore, USMC
+   Communication Training Battalion, Marine Corps Communication
+   -Electronic School
+   o.  CTT1 Michael R. Scarborough, USN
+   USS RONALD REAGAN (CVN 76)
+   p.  CWO2 Stephen J. Schmid, USCG
+   U.S. Coast Guard Aviation Logistics Center
+   q.  CTNC Mitchell A. Sheppard, USN
+   Navy Information Operations Command Hawaii
+   r.  LT Gabriella M. Smyth, USCG
+   U.S. Coast Guard Cyber Command
+   s.  CTR1 Eugene A. Stewart, USN
+   Special Reconnaissance Team ONE
+   t.  LCDR Christopher A. Weis, USN
+   U.S. Fleet Cyber Command
+   u.  CTTC Peter J. Zemore, USN
+   USS SAMPSON (DDG 102)
+
+2.  All Copernicus Award winners will receive an invitation from AFCEA and 
+USNI inviting them, their spouse/guest, and their Commanding Officer to 
+attend an awards reception and presentation ceremony held 6 February 2018 at 
+the AFCEA/USNI WEST 2018 conference in San Diego, CA at the San Diego 
+Convention Center.  If awardees are unable to attend WEST 2018, the awards 
+will be presented 15-17 May 2018 at the AFCEA Defensive Cyber Operations 
+Symposium in Baltimore, MD at the Baltimore Convention Center.
+
+3.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,54 @@
+RTTUZYUW RUEWMCS0000 2171320-UUUU--RUCRNAD.
+ZNR UUUUU
+R 051320Z AUG 13
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N1430//
+
+NAVADMIN 195/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/CHANGE TO NAVY-WIDE ADVANCEMENT EXAMINATION ANSWER SHEET FORM// 
+
+REF/A/DOC/BUPERS/2NOV07//
+REF/B/DOC/DOD/1AUG12//
+NARR/REF A IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.  REF B IS DODINST
+1000.30, REDUCTION OF SOCIAL SECURITY NUMBER (SSN) USE WITHIN THE 
+DOD.//
+
+RMKS/1.  This NAVADMIN announces immediate changes to ref (a).  The
+Navy-wide Advancement Examination (NWAE) answer sheet form, NETPDTC 
+1430/2 (REV 3-2013), has been updated and is now easily identified 
+by its green color.  The NETPDTC 1430/2 (REV 9-2000) red answer 
+sheet is hereby discontinued and shall not be used to administer 
+upcoming exam cycles 220 or 093 (and beyond).  The new, green NWAE
+answer sheets will be mailed with the individual command advancement
+exam packages.  Ref (a) provides instructions for filling out the 
+NWAE answer sheet.
+
+2.  Per ref (b), the new NWAE answer sheet is part of a larger 
+effort to eliminate the use of the Social Security Number (SSN) 
+within the Navy Enlisted Advancement System (NEAS).  The SSN will be
+replaced by the ten-digit Department of Defense Identification 
+Number (DOD ID).  Command Educational Services Officers (ESOs) can 
+access DOD ID numbers for eligible advancement candidates on NEAS 
+Website (https://neasos.cnet.navy.mil/).  The DOD ID is associated 
+with the Common Access Card and is assigned to each Sailor 
+registered in the Defense Enrollment and Eligibility Reporting 
+System.
+
+3.  For additional information, contact Mr. Tom Updike, NETPDTC N32,
+at (850)473-6132/DSN 753-6132, or via email at 
+tom.updike(at)navy.mil.
+
+4.  File this NAVADMIN with ref (a).
+
+5.  Released by Vice Admiral S. R. Van Buskirk, N1.//
+BT
+#0000
+NNNN
+

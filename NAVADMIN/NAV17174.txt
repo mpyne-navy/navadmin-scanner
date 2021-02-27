@@ -1,0 +1,118 @@
+UNCLASSIFIED
+ROUTINE
+R 131828Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 174/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/REVISED NAVY ENLISTED CLASSIFICATION CODE CONSTRUCT//
+
+REF/A/MSG/CNO WASHINGTON DC/281705ZMAR16//
+REF/B/DOC/NAVPERS/APR17//
+REF/C/DOC/NAVPERS/APR17//
+NARR/REF A IS NAVADMIN 075/16, ASSIGNMENT OF U.S. FLEET FORCES COMMAND AS 
+EXECUTIVE AGENT FOR READY, RELEVANT LEARNING.  
+REF B IS NAVPERS 18068F, VOLUME I, APPENDIX B, OCCUPATIONAL FIELDS AND
+ASSOCIATED RATINGS.  
+REF C IS NAVPERS 18068F, VOLUME II, NAVY ENLISTED CLASSIFICATIONS (NECS).//
+
+RMKS/1.  This NAVADMIN announces a revision to the Navy Enlisted 
+Classification (NEC) code construct and the realignment of rating communities 
+and career fields.  These efforts are foundational to the continued 
+development and implementation of the Ready Relevant Learning (RRL) pillar of 
+Sailor 2025 and are also fundamental to the rating modernization initiative.  
+The revised NEC construct is more logical and will allow for more efficient 
+coding as Sailors transition through the training continuum during their 
+careers.
+
+2.  As outlined in reference (a), RRL is a transformational Navy training 
+initiative that will accelerate the learning of every Sailor for faster 
+response to our rapidly changing warfighting requirements, and achieve higher 
+performance by coupling the timing and method of training delivery with the 
+actual deck plate needs of Sailors.  Block Learning (BL) revises current 
+initial training paths into separate blocks, which are distributed over time.  
+Under BL, each block of training will yield a unique NEC code.  This will 
+enable the identification of the progress of a Sailor through a training 
+pathway comprised of the blocks, which will aid in career management.
+
+3.  The revised NEC construct is designed to allow for a more logical 
+grouping of NEC codes that will be organized into 12 communities and 23 
+career fields.  The summary of these revised communities and career field may 
+be viewed at http://www.public.navy.mil/bupers-
+npc/reference/nec/Pages/default.aspx.  These revised communities and career 
+fields were developed within the rating modernization working group (WG) with 
+the active participation of all community stakeholders.  They will replace 
+the occupational fields and associated ratings listed in reference (b).  
+These communities and career fields will not only aid the rating 
+modernization effort, but they also more directly translate to civilian 
+occupations, where applicable, which will help with credentialing efforts.
+    a.  Beginning with the October 2017 publication of reference
+(b), the first letter of associated NEC code will specify the career fields.
+    b.  The second and third digits will be unique alpha-numeric identifiers 
+developed by the Navy Manpower Analysis Center.
+    c.  The fourth digit will represent the number of blocks of training 
+remaining in a BL sequence or will indicate the NEC code is not part of 
+blocked training.  For example, the current NEC code for Logistics Specialist 
+Postal Basic (NEC 2800) would become S000 under the new construct.
+
+      - 1st Digit:  S (supply career field)
+      - 2nd Digit:  0 (part of unique identifier assigned by NAVMAC)
+      - 3rd Digit:  0 (part of unique identifier assigned by NAVMAC)
+      - 4th Digit:  0 (all blocks complete)
+                    1 (1 block remaining)
+                    2 (2 blocks remaining)
+                    3 (3 blocks remaining)
+                    4 (4 blocks remaining)
+                    letters A-Z (NEC code is not associated with blocked 
+training).
+
+4.  The revised NEC construct along with the communities and career fields 
+will become part of references (b) and (c) in an upcoming Navy Enlisted 
+Occupational Classification System (NEOCS) Manual update.  Effective 
+immediately, any newly established NEC code will be created using the new NEC 
+construct.  In October 2017, the revised NEC construct will be established 
+for those NEC codes in ratings that have transitioned to BL.  Quarterly 
+updates to reference (c) will identify the NEC codes that have completed the 
+conversion to the revised construct in a crosswalk table between old and 
+revised NEC codes.  References (b) and (c) can be viewed at
+http://www.public.navy.mil/bupers-npc/reference/nec/Pages/default.aspx.
+
+5.  Another aspect of the revised NEC construct currently being developed is 
+a two-digit suffix to the NEC code which will contain additional information 
+about the skill sets of a Sailor.  This is intended to better capture the 
+proficiency, experience, and skills currency of a Sailor, which are 
+fundamental elements of the rating modernization efforts for the Navy.  
+Community stakeholders will be key participants in developing this concept 
+via the enlisted career fields sub-WG of the rating modernization effort.
+
+6.  Points of contact:
+    a.  For general RRL or BL policy questions, contact Mr. Steve Dutter, RRL 
+Program Manager, USFF, (757) 836-5223/DSN 836 or via e-mail at 
+steven.dutter(at)navy.mil.
+    b.  For NEC construct questions, contact:
+        (1) LT Peter McLaughlin, NEOCS Division Officer, NAVMAC,
+(901) 874-6309/DSN 882 or via e-mail at peter.mclaughlin(at)navy.mil.
+        (2) Mr. Charles Williams, NEOCS Program Manager, NAVMAC,
+(901) 874-6464/DSN 882 or via e-mail at charles.l.williams(at)navy.mil.
+    c.  For specific rating BL questions, contact Mr. Thomas Bonanno, 
+Learning Standard Officer, NETC N74, (757) 492-5678/DSN 492 or via e-mail at 
+thomas.j.bonanno(at)navy.mil.
+    d.  For questions about rating modernization and enlisted career fields, 
+contact CDR Case Garrison, Enlisted Community Manager Aviation, BUPERS-32, 
+(901) 874-2980/DSN 882 or via e-mail at case.w.garrison(at)navy.mil.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

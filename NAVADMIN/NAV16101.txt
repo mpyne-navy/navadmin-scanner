@@ -1,0 +1,64 @@
+UNCLASSIFIED
+ROUTINE
+R 021514Z MAY 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 101/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/MILITARY PERMANENT CHANGE OF STATION TRAVEL VOUCHER DUE WITHIN FIVE 
+WORKING DAYS//
+
+REF/A/DOC/DOD/11MAR16/NOTAL//
+REF/B/DOC/DOD/JUL14//
+REF/C/DOC/COMNAVPERSCOM/22AUG02//
+REF/D/MSG/DASN/29JAN15/NOTAL//
+NARR/REF A IS THE NOTIFICATION OF FINDINGS AND RECOMMENDATIONS OF
+MILITARY PERMANENT CHANGE OF STATION TRAVEL LIQUIDATIONS 2015-0025-FIN,
+CONTROLS OVER TRAVEL VOUCHER SUBMISSIONS ARE NOT OPERATING EFFECTIVELY.
+REF B IS DOD FMR VOLUME 9 CHAPTER 8, POLICY ON THE PROCESSING OF TRAVEL
+CLAIMS. REF C IS THE MILPERSMAN 1320-310, PERMANENT CHANGE OF STATION
+(PCS) TRANSFER ORDER ENDORSEMENTS.  REF D IS A DEPUTY ASSISTANT
+SECRETARY OF THE NAVY (FINANCIAL MANAGEMENT AND OPERATIONS) MEMORANDUM
+FOR DISTRIBUTION, REVISED DOCUMENT RETENTION REQUIREMENTS TO SUPPORT
+DEPARTMENT OF THE NAVY FINANCIAL STATEMENT AUDITS.//
+
+RMKS/1.  Reference (a) was a result of the independent public accountant 
+notification of findings and recommendations of military permanent change of 
+station (MILPCS) travel liquidations.  The auditor identified a deficiency 
+that controls over travel voucher submission were not operating effectively 
+due to travel vouchers not being submitted within five working days following 
+the Service Members reporting to their ultimate duty station and not in 
+compliance with reference (b).
+
+2.  In addition, the Navy did not provide sufficient evidence to support 
+whether the voucher was submitted within the required five working days due 
+to lack of endorsements on the orders as required in reference (c) (i.e. 
+date, time, and place of reporting).
+
+3.  Non-compliance with references (b) and (c) impact Sailors entitlements, 
+the timely recording of financial transactions, and result in overall 
+misstatement of Department of the Navy financial records.
+
+4.  Timely resolution of reference (a) requires all commands immediate 
+compliance and enforcement of MILPCS travel policies and procedures per 
+references (b) and (c) and retention of all supporting documents in 
+accordance with reference (d).
+
+5.  Point of contact is Mr. Dan Mendoza, Audit Readiness Programs, at (703) 
+604-5883/DSN 664 or via e-mail at danilo.r.mendoza(at)navy.mil.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

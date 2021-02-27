@@ -1,0 +1,123 @@
+RTTUZYUW RUEWMCS0000 0232159-UUUU--RUCRNAD
+ZNR UUUUU
+R 232159Z JAN 14 PSN 105651K18
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01300//
+
+NAVADMIN 014/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/SAILOR DEPLOYABILITY - MEDICALLY RESTRICTED SAILORS AND THE LIMITED DUTY 
+(LIMDU) PROCESS//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/251335ZAPR05//
+REF/B/DOC/SECNAV/1DEC09//
+REF/C/DOC/BUMED/10JAN05//
+REF/D/DOC/COMNAVPERSCOM/13SEP06//
+REF/E/DOC/TITLE 10 U.S.C.//
+REF/F/DOC/DOD/30SEP11//
+REF/G/DOC/COMNAVPERSCOM/5NOV04//
+NARR/REF A IS NAVADMIN 079/05, CHANGES TO THE LIMITED DUTY AND ASSIGNMENT 
+SCREENING PROCESS.  REF B IS SECNAVINST 6120.3 CH-1, PERIODIC HEALTH 
+ASSESSMENT FOR INDIVIDUAL MEDICAL READINESS.  REF C IS NAVMED P-117, CHAPTER 
+18, CHANGE 120, MEDICAL EVALUATION BOARDS.  REF D IS MILPERSMAN 1301-225, 
+OFFICER SPECIAL ASSIGNMENTS - LIMITED DUTY (LIMDU).  REF E IS CHAPTER 61 OF 
+TITLE 10, U.S.C., RETIREMENT OR SEPARATION FOR PHYSICAL DISABILITY.  REF F IS 
+DOD INSTRUCTION 1332.14 CH-3, ENLISTED ADMINISTRATIVE SEPARATIONS.  REF G IS 
+MILPERSMAN 1306-1200 THROUGH 1208, LIMITED DUTY (LIMDU), LIMITED DUTY (LIMDU) 
+AVAILABILITY PROCEDURES, ACCOUNTABILITY OF PERSONNEL ON LIMITED DUTY (LIMDU), 
+LIMITED DUTY (LIMDU) FOLLOW-UP CARE, AND DISPOSITION AND ACCOUNTABILITY OF 
+PERSONNEL UPON COMPLETION OF LIMITED DUTY (LIMDU).  
+
+Remarks/1.  This NAVADMIN establishes the concept of deployability assessment 
+as it pertains to the Limited Duty (LIMDU) Program.  
+
+2.  In order to assess a Sailor's readiness, three key pieces of information 
+Navy leadership must know are assignability, distributability, and 
+deployability of our Sailors.  
+
+3.  The Naval Audit Service recently completed a review of the LIMDU 
+population and concluded a significant portion of the active-duty service 
+members on shore with limiting medical conditions are not being accurately 
+assigned to a medically restricted status.  
+
+4.  Improvements to the LIMDU program to better assess a Sailor's 
+deployability will be identified in a new OPNAVINST 1300 series.  This 
+instruction will detail the processes of identifying medical limitations as 
+well as administrative limitations for deployability.  This process will be 
+implemented over the next two years.
+
+5.  Accordingly, a new branch entitled the Deployability Assessment Office, 
+PERS-454, was established within PERS-4 to consolidate Navy Personnel Command 
+administration of medically restricted personnel.  Any LIMDU correspondence 
+previously submitted to PERS-82 must now be submitted to PERS-454.
+6.  All commands shall:
+    a.  Thoroughly review refs (a) through (g). 
+    b.  Ensure personnel assigned to their units are "medically ready" for 
+deployment as stated in ref (b).  Individual Medical Readiness (IMR) consists 
+of six elements:  Periodic Health Assessment (PHA) and readiness labs, dental 
+readiness, medical equipment, deployment limiting conditions, post deployment 
+health assessments, and immunizations.  IMR is updated via the Medical 
+Readiness Reporting System.  
+    c.  Designate a Deployability Coordinator (E-6 or above) in writing, and 
+provide the designation letter to the supporting Military Treatment 
+Facilities (MTF) deployability coordinator.
+
+7.  All Personnel Support Detachments (PSD), Customer Services Desks, MTFs 
+and clinics shall provide the deployability coordinator's (previously 
+identified as LIMDU coordinator) contact information to PERS-454 by 28 
+February 2014.  This information shall include at a minimum the command name, 
+rank/rate, name, phone number, and e-mail address.  
+
+8.  U.S. Navy Bureau of Medicine and Surgery (BUMED) shall collaborate with 
+PERS-454 to develop Fleet-wide training objectives for the deployability 
+assessment program by 21 February 2014.
+
+9.  MTFs shall:
+    a.  Ensure that the deployability of each Sailor is assessed at each 
+health care encounter and a minimum of three times annually when completing 
+the PHA and Performance Activity Risk Factor Questionnaires (PARFQ).  The 
+disposition of Sailors should be appropriately categorized as:  no duty 
+restrictions, light duty, LIMDU, etc, at each health care encounter.  
+    b.  Enter all LIMDU cases into the Medical Board Online Tracking System 
+(MEDBOLTS) or any subsequent system which replaces MEDBOLTS and enter all 
+Integrated Disability Evaluation System (IDES) cases into the Veteran's 
+Tracking Application (VTA) for tracking purposes.
+    c.  Evaluate LIMDU Sailors at a minimum every two months as stated in ref 
+(b).  At each patient visit, a Sailor's disposition should be re-assessed for 
+the continued need for LIMDU status.
+    d.  Ensure monthly coordination/training LIMDU meetings are conducted for 
+command and PSD Deployability Coordinators.  Beginning 1 March 2014, MTF 
+Deployability Coordinators shall conduct these meetings in accordance with 
+ref (g) and resolve all issues pertaining to delays in processing LIMDU 
+personnel (i.e. 30 day re-evaluation prior to LIMDU end date, PRD adjustments 
+to Transit Monitoring Unit (TMU)).  Attendance of all MTF/PSD/Command 
+Deployability Coordinators at these meeting is mandatory.
+
+10.  Points of contact:
+    a.  Deployability Assessment Office, PERS-454, Mr. Jim Gosnell at (901) 
+874-4730/4734 (DSN 882), or via e-mail at mill_daopers-454(at)navy.mil
+    b.  Enlisted Limited Duty Placement Office, PERS-4013, CDR Kendra Bowers 
+at (901) 874-4184 (DSN 882) or via email at mill_pers4013_avails(at)navy.mil.
+    c.  BUMED (M3B1), CAPT Mary Jenkins at (703) 681-5516 (DSN 761) or via e-
+mail mary.jenkins(at)med.navy.mil. 
+    d.  TMU, BUPERS 26/PERS-2, Oversight and Compliance Branch Head, CWO4 
+Milton Key at (901) 874-4763 (DSN 882) or via e-mail at mill_TMU(at)navy.mil.
+
+11.  Unless specifically changed by this NAVADMIN, all other LIMDU program 
+policies remain in effect.  Where a specific instruction conflicts with this 
+NAVADMIN, this NAVADMIN takes precedence.  This NAVADMIN will remain in 
+effect until the revision of ref (g) and implementation of OPNAVINST 1300 
+(series). 
+
+12.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#1882
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,78 @@
+UNCLASSIFIED
+ROUTINE
+R 071941Z JUN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 132/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUN//
+
+SUBJ/NAVY DIRECTIVES MANAGEMENT PROGRAM REVISION AND REISSUANCE//
+
+REF/A/OPNAVINST 5215.17
+REF/B/OPNAVINST 5215.17A
+REF/C/OPNAV MANUAL 5215.1
+NARR/REF A IS THE NAVY DIRECTIVES ISSUANCE SYSTEM INSTRUCTION DATED 13 JUN 
+2005.
+REF B IS THE NAVY DIRECTIVES MANAGEMENT PROGRAM INSTRUCTION OF 26 MAY 2016, 
+WHICH CANCELS AND SUPERSEDES REF A.
+REF C IS THE NEW NAVY DIRECTIVES MANAGEMENT PROGRAM MANUAL OF MAY 2016.//
+
+RMKS/1.  This NAVADMIN announces the revision of reference (a) to reference 
+(b) and the issuance of reference (c).  Hence reference (a) has been 
+cancelled and superseded by reference (b) and will no longer be used.
+
+2.  References (b) and (c) contain several changes to the Navy Directives 
+Management Program.  The significant changes consist of:
+    a.  Changed authorized font of Navy directives to Times New Roman 12 to 
+be consistent with the Department of the Navy Correspondence Manual.
+    b.  Added policy for what delineates an unauthorized directive.
+    c.  Revised the criteria for what constitutes a Navy directive.
+    d.  Re-incorporated a required annual review of all current Navy 
+instructions (see paragraph 2.j. below).
+    e.  Revised the allowable age of a Navy instruction to five years and 
+incorporated an automatic cancellation of instructions.
+    f.  Re-instituted extension requests.
+    g.  Changed the Distribution block to a required Releasability and 
+distribution block.
+    h.  Added a requirement of official written appointments of the Office of 
+the Chief of Naval Operations (OPNAV) directives screening control points 
+(DSCP) and Echelon II command directives control points (directives 
+managers).  Initial appointments must be received by the OPNAV Echelon I 
+directives manager (DNS-15) within 60 days of this NAVADMIN and the 
+publication of references (b) and (c) (see paragraph 2.k. below).
+    i.  Revised OPNAV 5215/9 Clearance of Proposed Issuance to OPNAV 5215/9 
+Clearance of Proposed Directive, which must now be initiated by 
+originator/sponsor/action office and signed off by all the necessary 
+compliance adjudication reviewers and certified by the sponsor's front office 
+prior to being submitted to the command directives office for signature 
+clearance.
+    j.  Added new OPNAV 5215/40 Review of Instruction form for annual reviews 
+of instructions.
+    k.  Added new OPNAV 5215/41 Navy Directives Management Self-Assessment 
+Checklist, which must be completed by the appointed OPNAV DSCPs and Echelon 
+II directives managers and submitted to the OPNAV Echelon I directives 
+manager (DNS-15) within 30 days of the official appointment.
+
+3.  Reference (c) implements the policy set forth in reference (b). In 
+addition, it prescribes uniform standards and practices; format and outline; 
+appropriate word usage; proper capitalization, acronym and abbreviation usage 
+rules; directives processes; and definitions; and provides guidance and 
+procedures for the management, proper administration, and preparation of the 
+Navy Directives Management Program.  Reference (c) is mandatory and 
+applicable to the Chief of Naval Operations, and all commands, activities, 
+installations, ships and stations of the U.S. Navy.
+
+4.  References (b) and (c) may be accessed via Department of the Navy 
+Issuances Web site (http://doni.documentservices.dla.mil/).
+
+5.  Released by Vice Admiral R. L. Thomas, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,173 @@
+UNCLASSIFIED//
+ROUTINE
+R 301316Z SEP 19 MID510000644093U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 223/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/CHANGES TO TRANSITION ASSISTANCE PROGRAM//
+
+REF/A/DOC/H.R. 5515/13AUG18//
+REF/B/DOC/TITLE 38 U.S.C./11JUL11//
+REF/C/DOC/DOD/29FEB11//
+REF/D/DOC/OPNAV/24AUG16//
+NARR/REF A IS SEC 552 OF NATIONAL DEFENSE AUTHORIZATION ACT OF 2019, 
+IMPROVEMENTS TO TAP.  
+REF B IS THE VOW TO HIRE HEROES ACT OF 2011.
+REF C IS THE PRESIDENT OF THE UNITED STATES VETERANS EMPLOYMENT INITIATIVE.  
+REF D IS OPNAVINST 1900.2C, TRANSITION ASSISTANCE PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces improvements to the Transition Assistance 
+Program (TAP) effective 1 October 2019.  These initiatives will improve 
+Service Members preparations to transition from active-duty service, whether 
+from an initial tour, following retirement after 20 or more years, or any 
+separation after serving 180 or more days of active-duty.  In line with 
+references (a) through (c), TAP is mandatory for active and reserve personnel 
+who serve 180 or more days of consecutive active-duty and must be completed 
+prior to release and issuance of Certificate of Discharge from Active-Duty 
+(DD Form 214).
+
+2.  All command triads, command career counselors (CCC) and fleet leaders 
+must be familiar with these changes.  We owe it to our Sailors to prepare 
+them for life after the Navy.
+
+3.  Key changes include:
+    a.  Mandatory self-assessment, initial in-person counseling by command 
+career counselor and assignment into one of three pathways or tiers, 365 days 
+or more prior to separation to tailor TAP to the Sailors needs.
+    b.  Mandatory completion of pre-separation counseling conducted during 
+first day of transition class.
+    c.  Mandatory Department of Labor Employment Workshop is condensed to 1-
+day instead of 3 days.
+    d.  Completion of a 2-day track during days 4 and 5 of transition course 
+for those in Tier III (Sailors in other tiers can still attend).
+
+4.  TAP is comprised of five key components:
+    a.  Mandatory self-assessment and initial counseling to be completed 365 
+days or more prior to release from active-duty, which must include:
+        (1) Completion of a self-assessment using the Department of Defense 
+(DoD) self-assessment worksheet and counseling tool to determine the most 
+appropriate transition pathway/tier prior to commencing the transition 
+process.
+        (2) Completion of initial in-person counseling conducted by the 
+command career counselor.
+        (3) Assignment of Service Members to one of three career readiness 
+tiers (Tier I, II, or III) based on the individual preparedness to 
+successfully transition as determined by the initial counseling and self-
+assessment.  Commanders are responsible for ensuring that Sailors complete 
+the appropriate Career Readiness Standards (CRS) based on assigned tier.
+        (4) Initiation of Individual Transition Plan (ITP).
+        (5) Documentation of tier assignment and initial counseling 
+completion on Service Members Preparation Counseling Checklist (DD Form 2648) 
+via eForm in Defense Manpower and Data Center (DMDC) DoDTAP page.
+    b.  Mandatory Pre-Separation counseling to be commenced 365 days or more 
+prior to release from active-duty:
+        (1) Preferred method is group-setting during Day one of Transition 
+class at the Fleet and Family Support Center (FFSC).
+        (2) Individual Pre-Separation counseling must be completed by the 
+command transition officer for those approved to complete TAP via Joint 
+Knowledge Online (JKO).
+        (3) Completion must be documented on DD Form 2648 in DMDC DoDTAP 
+website.
+    c.  Mandatory Transition Core Curriculum Course (formerly transition 
+GPS):
+        (1) Attendance at Department of Defense Transition day (all Service 
+Members) which includes My Transition, Military Occupational Code crosswalk 
+and financial planning.
+        (2) Veterans Administration benefits and service brief for all 
+Service Members.
+        (3) Department of Labor 1-day Employment Workshop for all Service 
+Members with limited exemptions.
+    d.  Selection of 2-Day Track:  Service Members in Tier I and II may be 
+waived from participating in tracks.  Tier III assigned personnel must attend 
+at least one of the following tracks.
+        (1) My Employment
+        (2) My Education
+        (3) My Vo-tech
+        (4) My Entrepreneurship
+    e.  Mandatory Capstone event completed no later than 90 days prior to 
+release from active-duty to verify that Service Members have met their CRS 
+and received the transition services they requested.
+        (1) Preferred method is to attend a Capstone event conducted by 
+transition counselors at Navy Transition sites (FFSC) in small group (less 
+than 25) seminars.
+        (2) For those unable to attend a transition site Capstone event due 
+to operational commitments or short notice separations, a local Capstone with 
+a transition counselor (CCC or designated representative) must be conducted 
+to verify CRS.
+     f.  Service Members who have not completed a DD Form 2648 by 1 October 
+2019, must meet the new requirements.
+
+5.  Responsibilities:
+    a.  Separating personnel must report to Transition class with the 
+following required materials for their own personal use in budgeting and 
+drafting of resume:
+        (1) Their Verification of Military Education and Training report
+        (2) ITP template
+        (3) Last five Fitness/Evaluations Reports
+        (4) Most current Leave and Earnings Statement
+        (5) Current credit report
+        (6) Transcripts (Smart, Joint Service Transcripts) if applicable
+        (7) DoD self-service (DS) logon and e-benefit registration (be 
+registered with logon/password)
+    b.  Reserve Component Service Members on active-duty orders (other than 
+attendance at a service school) greater than 180 days must complete all 
+transition requirements prior to release from active-duty.  Reservists under 
+New Accession Training (NAT) orders are exempt from TAP requirements.
+        (1) Initial counseling must be completed at the Navy Operational 
+Support Center/Navy Reserve Activity within 30 days of notification of 
+mobilization, Active Duty Operational Support, or Active Duty for Training 
+orders greater than 180 days.  The supported active-duty command will ensure 
+pre-separation counseling and all TAP requirements are completed prior to the 
+end of orders greater than 180 days.
+        (2) Reserve Component Service Members on definite recall orders will 
+follow active duty TAP guidance.
+        (3) Tracking and recording of completion of TAP requirements is the 
+responsibility of the command where reservists are assigned while on active-
+duty.
+    c.  CCC/Designated transition representative must continue to ensure 
+transitioning Service Members receive initial counseling and understand all 
+TAP requirements.
+    d.  CCC/Designated transition representative must provide the transition 
+tracking report to their Commanding Officer as part of the CCC monthly 
+report.
+    e.  Commanders must ensure transitioning personnel participate in the TAP 
+as required by law.  Ensure personnel are exempt from normal duty a full 24-
+hours during each workshop/briefing day and 12-hours immediately preceding 
+attendance at the transition course.
+
+6.  Information on TAP can be found under the 21st Century Sailor tab at:  
+https://www.mnp.navy.mil/group/sailor-and-family-support
+    a.  Self-assessment worksheet and counseling tool.
+    b.  Chart of required TAP components and CRS required per each Tier.
+    c.  Additional resources.
+
+7.  Other provisions of reference (d) remain in effect.  Additional updates 
+will be provided once DoD policy guidance is released.
+
+8.  Points of contact:
+    a.  General policy questions:  Mr. Tom Albert, OPNAV N170C, 
+tom.albert(at)navy.mil, (901)874-4254/DSN 882-4254.
+    b.  Specific execution questions:  Mr. Anthony Stevens, CNIC (N91), 
+anthony.stevens1(at)navy.mil, (202)433-4541/DSN 288-4541.
+    c.  Reserve policy questions: LCDR Kari Imperatore, OCNR, 
+aldebaran.imperatore(at)navy.mil, (703)614-9844/DSN 224-9844.
+    d.  Reserve execution questions:  NCCM Kimberly Cedar, CNRFC, 
+kimberly.cedar(at)navy.mil, (757)322-5774/DSN 262-5774.
+
+9.  Released by Vice Admiral John B. Nowell Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

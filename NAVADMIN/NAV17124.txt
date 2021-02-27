@@ -1,0 +1,61 @@
+UNCLASSIFIED
+ROUTINE
+R 241251Z MAY 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 124/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1//MAY//
+
+SUBJ/ACADEMIC YEAR 2017-2018 SELECTEES FOR THE NAVAL POSTGRADUATE SCHOOL 
+ENLISTED CYBER MASTERS DEGREE PROGRAM//
+
+REF/A/MSG/CNO WASHINGTON DC/031759ZJAN17//
+AMPN/REF A IS NAVADMIN 003/17, ENLISTED CYBER MASTERS DEGREE OPPORTUNITY AT 
+NAVAL POSTGRADUATE SCHOOL.//
+
+RMKS/1.  Congratulations to the following selectees for the 2017-2018 Naval 
+Postgraduate School (NPS) Master of Science in Applied Cyber Operations 
+Program, as announced in reference (a):
+
+Name (Last, First MI)   Rate              Parent Command
+Christopher, Fidel E    IT1(IW/SW)        Navy Cyber Defense
+                                          Operations Command
+Galloway, Andrea E      IT1(IW/EXW/SW)    Navy and Marine Corps
+                                          Center for Spectrum
+                                          Operations
+Hasse, Erick D          CTN1(IW)          Navy Information
+                                          Operations Command Hawaii
+Myers, Kurt J           CTNC(IW/SW/AW)    Navy Information
+                                          Operations Command Hawaii
+Pitts, Joshua S         CTN1(IW/AW)       Navy Information
+                                          Operations Command Norfolk
+Turner, Jackie E        CTN1(IW/SG)       Navy Information
+                                          Operations Command Hawaii
+
+2.  Program dates:  There will be two start dates for this academic year.  
+CTNC Myers and IT1 Christopher will report 18 September 2017 with instruction 
+commencing 25 September 2017.  IT1 Galloway, CTN1 Hasse, CTN1 Pitts, and CTN1 
+Turner will report 26 March 2018 with instruction commencing 2 April 2018.
+
+3. General information about NPS can be found on-line at www.nps.edu.
+
+4.  Point of contact is Mr. Curtis Bogetto at (703) 604-6289/DSN 664 or via 
+e-mail at curtis.bogetto(at)navy.mil.
+
+5.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

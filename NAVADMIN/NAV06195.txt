@@ -1,0 +1,218 @@
+RAAUZYUW RUENAAA0599 1861054-UUUU--RUCRNAD.
+ZNR UUUUU ZUI RUEWMCS9636 1861210
+R 051054Z JUL 06  PSN 550395K27
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO RHMFIUU/CNO WASHINGTON DC//N1//
+RUENAAA/CNO WASHINGTON DC//N1//
+BT
+UNCLAS //N01300//
+NAVADMIN 195/06
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+SUBJ/SELECTIVE REENLISTMENT BONUS//
+GENTEXT/REMARKS/1.  TO ENSURE OPERATIONAL EFFECTIVENESS NOW AND IN
+THE FUTURE, THE NAVY MUST BOTH RETAIN THE TALENTS OF OUR SAILORS AND
+ATTRACT AND COMPETE FOR THE HIGHEST QUALITY RECRUITS POSSIBLE.
+THIS STRATEGY FOR OUR PEOPLE REQUIRES FLEXIBLE TOOLS TO ENSURE WE
+ARE ALSO RETAINING THE CORRECT NUMBER OF SAILORS WITH THE RIGHT
+SKILLS TO OPTIMIZE OUR WAR-FIGHTING CAPABILITY.  THE SELECTIVE
+REENLISTMENT BONUS (SRB) PROGRAM FOR DESIGNATED RATINGS/NAVY
+ENLISTED CLASSIFICATIONS (NECS) IS PROVIDED AS AN INCENTIVE TO MEET
+CURRENT OR FUTURE FLEET REQUIREMENTS.  SRB AWARD LEVELS ARE
+CONTINUALLY REVIEWED AND PERIODICALLY ADJUSTED AS NECESSARY IN ORDER
+TO MAINTAIN PROPER MANNING LEVELS THROUGHOUT THE FLEET.
+2.  THIS NAVADMIN AMENDS NAVADMIN 013/06 AND PROVIDES NEW AWARD
+LEVELS FOR REGULAR COMPONENT SAILORS.  INCREASED AWARD LEVELS ARE
+EFFECTIVE IMMEDIATELY AND DECREASED AWARD LEVELS WILL BECOME
+EFFECTIVE 5 AUGUST 2006.  ALL OTHER AWARD LEVELS, ELIGIBILITY
+REQUIREMENTS, NOTES AND ADMINISTRATIVE PROCEDURES DETAILED IN
+NAVADMINS 013/06, AND 155/06 REMAIN IN EFFECT EXCEPT AS NOTED IN
+PARAGRAPH 4 BELOW.
+3.  REVISED AWARD PLAN.  A "-" SYMBOL PRECEDING AN AWARD LEVEL
+INDICATES A DECREASE TO THAT AWARD LEVEL FOR THAT SPECIFIC ZONE.
+A "+" SYMBOL PRECEDING AN AWARD LEVEL FOR A SPECIFIC ZONE OR
+PRECEDING A RATING INDICATES AN INCREASE TO THAT AWARD LEVEL AND/
+OR CEILING FOR THAT SPECIFIC ZONE OR THE ADDITION OF THE RATING TO
+THE SRB AWARD PLAN.
+75,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
++DV         5326        0.0     0.0    7.5      3
++HM         8491        0.0     0.0    7.5      3
++HM         8492        0.0     0.0    7.5      3
+60,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+DV          5332       +7.5    +7.5     3.0     3
+DV          5333       +7.5    +7.5     3.0     3
+DV          5334       +7.5    +7.5     5.5     3
+DV          5335       +7.5    +7.5     5.5     3
+DV          5336        0.0    +7.5    +7.5     3
+DV          5337        0.0    +7.5    +7.5     3
++HM         8403        0.0    +7.5    +7.5     3
++HM         8427        0.0    +6.5    +6.5     3
+45,000 DOLLAR AWARD CEILING
+RATING      NEC        ZONE A  ZONE B  ZONE C  NOTES
+ABF         0000        1.0    +1.0     0.0
+ABH         0000        1.0    +1.0     0.0
+AD          0000        0.5     0.5    +1.0
+AE          0000        0.0    -0.0     0.5
+AG          7412       -0.0     0.0     0.0
+AME         0000       -0.0     0.5     0.0
+AT          6673       +1.0     0.0     0.0
+AT          8306       -0.0    -0.0    -0.0
+AVIAT       8215        0.0    -0.0     0.0
+AVIAT       8284       -0.0     1.0    +1.0
+AVIAT       9402       -2.0    -1.5     2.5
+AW          7841       -0.0    +1.5    +2.0
+AW          7846        0.0    -0.0    +1.0
+AW          7861        0.0    +1.0    +2.0
+CB          5933        0.0     0.0    +5.5
+CS          0000        0.0    +1.0     0.0
+CTI         9203       +3.0    +1.5     0.0
+CTM         9289       -0.0     0.0     0.0
+CTT         9141       +2.5    +2.0     0.0     5
+DV          5311        0.0    -0.0    -0.0
+DV          5343        5.5     4.5    -0.0
+DV          5346        0.0     0.0    -0.0
+DV          5352       +5.0    +5.0     5.0
+ETSW        0000       +4.0     0.0    +0.5     4
+ET          1428       +4.0     0.0    +0.5
+ET          1456       +4.0     0.0    +0.5
+ET          1465       +4.0     0.0    +0.5
+ET          1468       +4.0     0.0    +0.5
+ET          1510       +4.0     0.0    +0.5
+ET          1511       +4.0     0.0    +0.5
+ET          1568       +4.0     0.0    +0.5
+ET          1570       +4.0     0.0    +0.5
+ET          1571       +4.0     1.5    +0.5
+ET          1579       +4.0     0.0    +0.5
+ET          1589       +4.0     0.0    +0.5
+ET          1590       +4.0     0.5     0.5
+ET          1592       +4.0     0.5     0.5
+ET          1654       +4.0     0.0    +0.5
+ET          1685       +4.0    +1.0    +0.5
+ET          9509       +4.0    +1.0    +0.5
+ET          9606       +4.0     0.0    +0.5
+ET          9610       +4.0     1.0     1.0
+ETSS-COMM   14CM        0.0    -0.0    -0.0     2, 4, 6, 7
+ETSS-COMM   14EM        0.0    -0.0    -0.0     2, 4, 6, 7
+ETSS-COMM   14TM        0.0    -0.0     0.0     2, 4, 6, 7
+ETSS-COMM   14XXA       3.0    +2.0     0.0     2, 4, 6, 7
+FC          0000       +4.0     1.0    +1.0
+FC          1104       +4.0     1.5     2.0
+FC          1105       +4.0     3.0     2.0
+FC          1108       +4.0    -1.0    -1.0
+FC          1119       +4.0    +2.0    +1.0
+FC          1136       +4.0     2.5    +1.0
+FC          1143       +4.0    +2.0    +1.0
+FC          1144       +4.0    +2.0    +1.0
+FC          1318       +4.0     3.5     2.0
+FC          1322       +4.0    +1.0    +1.0
+FC          1331       +4.0     3.0     2.0
+FC          1332       +4.0    +1.0    +1.0
+FC          1333       +4.0    +2.5    +1.0
+FC          1334       +4.0     2.5    +1.0
+FC          1335       +4.0     3.5     2.0
+FC          1336       +4.0     3.0     2.0
+FC          1337       +4.0    +2.0    +1.0
+FC          1615       +4.0     3.5     3.5
+FC          1624       +4.0    +1.0    +1.0
+FC          1658       +4.0    +1.0    +1.0
+GSE         0000       +1.0     0.0     0.0
+GSM         0000       +1.0     0.0     0.0
+HM          8401       +0.5    +0.5     0.0     11
+HM          8404        0.0    +0.5     0.0     12
+HM          8407       -2.0     0.0     0.0
+HM          8409        0.0    -0.0    -0.0
+HM          8427       +6.5     0.0     0.0
+HM          8432       +1.0     2.0     4.5
+HM          8452        0.0     4.0    +2.5
+HM          8482       +1.5     0.0     0.0
+HM          8485        0.5     0.5    +2.0
+HM          8489       +3.5    +2.0     0.0
+HM          8506       +4.5    +3.5     1.0
+HM          8752       +1.0     1.0     1.0
+HM          8753        1.5     2.0    +3.5
+HM          8783       -0.0    -0.0     0.0
+HT          4955       +1.0     0.0     0.0
+IC          4747        2.5     1.5    +1.0
+IT          2780       -2.5    -2.0    -1.5     7
+MA          0000       -0.5    +3.0     1.0
+MM          0000       +1.0     0.0     0.0
+MN          0107       +0.5    +1.0    +0.5
+MN          0325       +0.5    +1.0    +0.5
+MN          0490       +0.5    +1.0    +0.5
+MR          0000       -0.0     0.0     0.0
+MT          33XX       +2.5    -2.5     0.0
++MU         3803       +0.5    +0.5     0.0
++MU         3814       +0.5    +0.5     0.0
+OS          0304       +0.5     0.5     0.5
+OS          0318       -1.5     1.0     0.0
+OS          0319       +0.5    +0.5     0.0
++PC         0000       +0.5     0.0     0.0
+PR          0000       -0.0     1.0    +1.0
+QM          0000       -1.0    -0.5     0.0
+SK          0000       -0.0     0.0     0.0
+STG         0000       +2.5     1.5     0.5
+STG         0416       +2.5    +3.5    +4.0
+STG         0455       +2.5     1.5    +0.5
+STG         0466       +2.5     3.5     3.5
+STG         0523       +2.5    +3.5    +3.5
+STG         0527       +2.5    +3.5    +3.5
+TM          0000       -0.0     0.5     0.5
+UT          0000       -0.0     0.0     0.0
+YNSS        0000       -1.0     0.5     0.0     4
+4.  POLICY GUIDANCE PROVIDED BY NAVADMIN 013/06 WILL REMAIN IN
+EFFECT EXCEPT AS MODIFIED BY SUBPARAGRAPHS A THROUGH H BELOW:
+    A.  REPLACE THE LAST SENTENCE OF PARAGRAPH 7F WITH THE
+FOLLOWING:  AFTER OTT APPROVAL AND WITHIN 35-120 DAYS PRIOR TO
+SCHOOL GRADUATION, THE REENLISTING SAILOR'S COMMAND MUST SUBMIT A
+REQUEST TO REENLIST FOR A SRB UNDER CODE 1CC IN THE TYPE AND CITE
+"OBLISERV TO TRAIN AND REENLIST" IN THE REMARKS SECTION ON THE
+PRECERTIFICATION.
+    B.  REPLACE THE LAST SENTENCE OF PARAGRAPH 8B WITH THE
+FOLLOWING:  A MEMBER WITH AN APPROVED PRECERTIFICATION WHO DOES NOT
+REENLIST ON THE DATE SPECIFIED ON THE PRECERTIFICATION MESSAGE MUST
+CONTACT COMNAVPERSCOM (PERS-4811F) (SRB EXECUTION SECTION AND HELP
+DESK) AND INITIATE A REENLISTMENT CANCELLATION TO AVOID PLACING THE
+MEMBER IN AN OVERPAID STATUS.
+    C.  REPLACE NOTE 3 WITH THE FOLLOWING:   SELECTED ZONE AWARD
+CEILING RAISED TO $60,000 OR $75,000.
+    D.  REPLACE NOTE 5 WITH THE FOLLOWING:   A SRB APPROVAL FOR
+CRYPTOLOGY TECHNICIAN (TECHNICAL) WILL BE CONTINGENT UPON SUBMISSION
+OF A SINGLE-SCOPE BACKGROUND INVESTIGATION (SSBI) PACKAGE.  COMMANDS
+MUST VERIFY THAT THE MEMBER HAS SUBMITTED A SSBI PACKAGE AND MAKE
+NOTE OF THIS IN THE COMMENTS SECTION OF THE PRECERTIFICATION
+REQUEST.
+    E.  DELETE NOTE 8.
+    F.  ADD THE FOLLOWING NOTE AS NOTE 11:   THE SRB FOR THE SEARCH
+AND RESCUE (SAR) MEDICAL TECHNICIAN NEC IS TIED TO AN INCUMBENT
+BILLET
+OR TO ORDERS NEGOTIATED FOR THE NEXT BILLET.  COMMANDS MUST VERIFY
+THE
+MEMBER IS CURRENTLY IN OR HAS ORDERS TO A SAR MEDICAL TECHNICIAN NEC
+BILLET
+AND ANNOTATE THIS VERIFICATION IN THE COMMENTS SECTION OF THE
+PRECERTIFICATION REQUEST.  SAR MEDICAL TECHNICIAN SRB IS INTENDED TO
+FILL NAVY REQUIREMENTS FOR SPECIFIC SKILL SETS TIED TO THESE
+BILLETS.
+    G.  ADD THE FOLLOWING NOTE AS NOTE 12:   THE SRB FOR THE FIELD
+MEDICAL SERVICE TECHNICIAN NEC APPLIES TO PERSONNEL WITH THE 8404
+PRIMARY
+NEC ONLY.  SRB ELIGIBILITY FOR HM 8404S (PRIMARY NEC ONLY) WILL
+TERMINATE
+ON 30 SEPTEMBER 2006.
+    H.  REPLACE PARAGRAPH 13 WITH THE FOLLOWING:   THE POC FOR A
+SAILOR
+WHO HAS REENLISTED AND HAS NOT RECEIVED HIS/HER SRB PAYMENT OR HAS
+QUESTIONS REGARDING THE SRB PROGRAM IS COMNAVPERSCOM (PERS-4811F),
+(901) 874-2526/DSN 882, FAX (901) 874-2623/DSN 882, OR E-MAIL
+ETC (SW/AW) MCCANN AT SCOTT.MCCANN@NAVY.MIL, PS1 (SW/AW) SADDLER AT
+YVONNE.SADDLER@NAVY.MIL, OS1 (SW) DANIELS AT
+CHRISTOPHER.P.DANIEL@NAVY.MIL.
+5.  RELEASED BY VADM J. C. HARVEY, JR., N1.//
+BT
+#0599
+
+
+NNNN
+

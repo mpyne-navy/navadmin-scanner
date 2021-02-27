@@ -1,0 +1,116 @@
+UNCLASSIFIED//
+ROUTINE
+R 251522Z APR 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 097/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/NAVY SCANNING POLICY//
+
+REF/A/TASKORD/USCYBERCOM/311857ZJAN17//
+REF/B/INST/DOD/28JUL17//
+NARR/REF (A) IS UNITED STATES CYBER COMMAND TASK ORDER 17-0019, ASSURED 
+COMPLIANCE ASSESSMENT SOLUTION (ACAS) OPERATIONAL GUIDANCE.  
+REF (B) IS DEPARTMENT OF DEFENSE (DOD) INSTRUCTION, RISK MANAGEMENT FRAMEWORK 
+(RMF) FOR DOD INFORMATION TECHNOLOGY (IT).// 
+POC/KELLEY/CIV/OPNAV N2N6G5/WASHINGTON DC/
+TEL: 571-256-8509/E-MAIL: PETER.KELLEY(AT)NAVY.MIL//
+
+RMKS/1.  This policy is applicable to all Navy commands and both acquisition 
+and non-acquisition programs, regardless of designation as Information 
+Technology (IT), Weapon System, Platform Information Technology (PIT), or 
+Control System.  U.S. Fleet Cyber Command (FLTCYBERCOM) will issue scanning 
+implementation guidance via Navy Execute Order (EXORD).
+
+2.  This policy mandates compliance with reference (a) and is issued to 
+eliminate the significant administrative burden of processing repetitive 
+waivers for specific situations.  The eight situational waivers listed in 
+paragraph 4 can be applied to all components within the Assess and 
+Authorization (AA) boundary or limited to specific components as appropriate.  
+The system must maintain a valid authorization and apply an alternate form of 
+compliance.  Acceptable alternate methods of determining and maintaining 
+cybersecurity posture are provided by the Navy Information 
+Technology/Cybersecurity Technical Advisory Board (Navy IT/CS TAB).
+
+3.  Echelon II commands will maintain oversight and Programs of Record (POR) 
+will document alternate form of compliance in the Risk Management Framework 
+(RMF) System Level Continuous Monitoring (SLCM) Plan.  The Echelon II will 
+verify annually the listing of systems (i.e., Enterprise Mission Assurance 
+Support Service (eMASS) records) with exempt components to FLTCYBERCOM and 
+Deputy Chief of Naval Operations for Information Warfare (OPNAV N2N6).
+
+4.  Effective immediately, in accordance with reference (a), an Information 
+System (IS) component may be waived from the Assured Compliance Assessment 
+Solution (ACAS) scan requirement only if one of the following criteria 
+identified below is met.
+    a.  ACAS incompatible Operating System (OS) or Internetwork OS (IOS).  
+The Security Control Assessor (SCA) will have concurred ACAS is incompatible 
+and determined an alternate method of assessing control compliance in the 
+Security Assessment Plan (SAP).
+    b.  ACAS compatible OS or IOS that only uses a non-internet protocol 
+connection (regardless of physical media).  ACAS may have been identified in 
+the SAP to assess security posture in a lab (non -operational installation) 
+but use of ACAS on fielded systems is not possible.
+    c.  Disposable systems with integrated Information Technology (IT).  The 
+Navy has a number of disposable systems that have IT built in, but the 
+systems are designed to be disposable (e.g., Missile, Torpedoes, and 
+Sonobuoys).  Only the disposable components within the AA boundary are waived 
+from ACAS.
+    d.  Research, Development, Test, and Engineering (RDTE) network Zone D 
+enclaves.
+    e.  Medical or weapons system that could potentially result in the loss 
+of life.
+    f.  Systems that have limited bandwidth where scanning negatively impacts 
+mission execution.  In this case, scanning should still be implemented to the 
+greatest extent operationally possible, such as periodically connecting to 
+local networks for scanning when not operational.  Where systems can be 
+scanned but bandwidth limitation restrict uploading and reporting, the scans 
+should be reviewed locally.  The IT/CS TAB Cybersecurity Posture Process 
+specifies scanning, documenting, and maintaining a system baseline for this 
+exemption criteria.
+    g.  Physically or Cryptographically (High Assurance Internet Protocol 
+Encrypted (HAIPE)) isolated systems.  This includes Top Secret General 
+Service (TS GENSER) systems, Radio Frequency (RF) control systems, NSA 
+approved Commercial Solution for Classified, or systems that only communicate 
+within a closed or isolated boundary.  This does not include Hypertext 
+Transfer Protocol Secure (HTTPS), Secure Socket Layer (SSL), or Virtual 
+Private Network (VPN).
+    h.  Systems that only use a Defense Switched Network (DSN) connection.
+
+5.  If one of the exemption criteria in paragraph 4 is met, the Echelon II 
+command will provide justification to the cognizant SCA and Authorizing 
+Official (AO) for analysis and approval during the RMF process, preferably 
+during Steps 1 and 2.  For example, if during the RMF SAP development, the 
+SCA determines that, based on the criteria above, ACAS is not an appropriate 
+tool for Cybersecurity posture scanning, they can provide that recommendation 
+to the AO.  Systems that meet the criteria identified above, and that have 
+received a situational waiver determination from the AO, shall document the 
+exemption approval within the eMASS record in accordance with reference (b).
+
+6.  All other situations require a full waiver from the Deputy Department of 
+the Navy, Senior Information Security Officer (Navy) (DDSISO(N)).  Echelon II 
+commands shall request an ACAS waiver in accordance with reference (a), 
+preferably during RMF Steps 1 and
+
+2.  Approvals shall be documented in the appropriate eMASS record by the 
+Echelon II.
+
+7.  This NAVADMIN will remain in effect until canceled or superseded.
+
+8.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

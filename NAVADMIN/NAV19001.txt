@@ -1,0 +1,81 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 021358Z JAN 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+CMC WASHINGTON DC
+CMC C FOUR WASHINGTON DC
+COMDT COGARD WASHINGTON DC
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 001/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/FISCAL YEAR 2018 COPERNICUS AWARD WINNERS ANNOUNCEMENT// 
+POC/GOEHRING/CIV/AFCEA EDUCATIONAL FOUNDATION/-/TEL: (703) 631-6147/EMAIL:  
+AGOEHRING(AT)AFCEA.ORG
+
+REF/A/MSG/CNO WASHINGTON DC/061158Z AUG 18//
+
+NARR/REF A IS NAVADMIN 190/18, FISCAL YEAR 2018 COPERNICUS AWARD NOMINATION//
+
+RMKS/1.  The Chief of Naval Operations is pleased to congratulate the fiscal 
+year 2018 Copernicus Award winners.  The Copernicus Award recognizes 
+individual contributions to Naval Warfare in the disciplines of Command, 
+Control, Communications, Computers, and Intelligence (C4I), Information 
+Systems or Information Warfare (IW).  The Armed Forces Communications and 
+Electronics Association (AFCEA) and the U.S. Naval Institute (USNI) have 
+selected the following Copernicus Award winners for fiscal year 2018:
+    a.  CTNC Thomas C. Adams, USN, Navy Information Operations Command 
+Georgia
+    b.  Maj Michael D. Bishoff, USMC, Marine Wing Communications Squadron 38
+    c.  IT2 James T. Fitzgerald, USCG, National Cybersecurity and 
+Communications Integration Center
+    d.  LT Tricia Ghunney-Courton, USN, Hopper Information Services Center
+    e.  LT Milton L. Gray, III, USN, U.S. Cyber Command
+    f.  IT2 Brenda C. Hansen, USN, Coastal Riverine Squadron FOUR
+    g.  LT William D. Henry, USN, Cyber Strike Activity SIXTY THREE
+    h.  LT Christopher R. Jennings, USN, U.S. 7th Fleet
+    i.  IT1 Robert D. Jones, USN, White House Communications Agency
+    j.  MSgt Chad D. Kelly, USMC, 2d Tank Battalion, 2d Marine Division
+    k.  LT Matthew S. King, USN, Navy Information Operations Command 
+Pensacola
+    l.  LT Justin S. McCarthy, USN, Office of the Chief of Naval Operations
+    m.  Mr. Steven W. McMiller, Naval Computer and Telecommunications Area 
+Master Station Atlantic
+    n.  Mr. Andrew D. Quill, Marine Corps Cyberspace Warfare Group
+    o.  ET2 Chrystopher L. Sapp, USCG, USCGC Monomoy (WPB 1326)
+    p.  Mr. Scott D. Sarama, U.S. Naval Research Laboratory
+    q.  CWO2 Jason A. Steele, USCG, Office of C4 and Sensors Capabilities
+    r.  LCDR Jason C. Vining, USN, Space and Naval Warfare Systems Command, 
+Space Field Activity
+
+2.  All Copernicus Award winners will receive an invitation from AFCEA and 
+USNI inviting them, their spouse/guest, and their Commanding Officer to 
+attend an awards reception and presentation ceremony held February 13, 2019 
+at the AFCEA/USNI WEST 2019 conference in San Diego, CA at the San Diego 
+Convention Center.  If awardees are unable to attend WEST 2019, the awards 
+will be presented May 14-16, 2019 at the AFCEA Defensive Cyber Operations 
+Symposium in Baltimore, MD at the Baltimore Convention Center.
+
+3.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

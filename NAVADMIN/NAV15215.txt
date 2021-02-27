@@ -1,0 +1,65 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 111844Z SEP 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 215/15
+
+SUBJ/NAVY CYBERSECURITY INITIAL OPERATIONAL CAPABILITY (IOC) MESSAGE//
+
+REF/A/LTR/IMPLEMENTATION PLANNING MEMO FOR NAVY CYBERSECURITY AND CYBERSAFE 
+PROGRAMS/25JUL2014//
+
+AMPN/Reference (a) is the 25 July 2014 implementation planning memo for Navy 
+Cybersecurity and CYBERSAFE programs which directed Task Force Cyber 
+Awakening (TFCA) to develop a CYBERSAFE program establishment plan.//
+
+RMKS/1.  This NAVADMIN announces the completion of Task Force Cyber Awakening 
+(TFCA) and the establishment of Navy Cybersecurity, to be executed by a new 
+division within Deputy Chief of Naval Operations for Information Dominance 
+(OPNAV N2/N6).  A Chief of Naval Operations Executive Group (CEG) declared 
+Navy Cybersecurity initial operational capability (IOC) on 25 August 2015.  
+Navy Cybersecurity will operate under a DRAFT Navy Cybersecurity Instruction, 
+distributed via separate correspondence, until staffing of the final 
+instruction is complete.
+
+2.  Background.  The Chief of Naval Operations (CNO) directed establishment 
+of TFCA in response to compromises within Navy networks, low fleet 
+cybersecurity inspection scores, and identification of warfighting platform 
+cyber vulnerabilities.  Reference (a) tasked TFCA to evaluate Navy 
+cybersecurity governance to include a broad scope of systems and processes in 
+order to provide reasonable assurance of survivability of critical platform 
+components necessary for mission success such as Navy networks and control 
+systems.  At the 25 August 2015 CEG, CNO approved the transition of Navys 
+TFCA to a newly established enduring cybersecurity organization under OPNAV 
+N2/N6, with all necessary authorities afforded the original task force 
+delegated from CNO and Assistant Secretary of the Navy (Research, Development 
+and Acquisition).  This signaled the completion of TFCAs one-year effort.
+
+3.  Navy Cybersecurity 100-Day Transition Plan.  Navy Cybersecurity is 
+executing a 100-Day Transition Plan that includes the development of charters 
+for associated senior level governing bodies, submission of documents to 
+support short-and long-range cybersecurity requirements definition and 
+funding, drafting of cybersecurity components of Navy cyber strategy and 
+policy documents, and development of a Navy-wide branding campaign to drive 
+cultural change.
+
+4.  Oversight.  The Navy Cybersecurity Executive Committee will provide 
+oversight and conduct progress reviews of Navy Cybersecurity.
+
+5.  Released by VADM Ted N. Branch, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

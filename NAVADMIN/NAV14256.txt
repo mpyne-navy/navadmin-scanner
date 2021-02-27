@@ -1,0 +1,80 @@
+UNCLASSIFIED/
+ROUTINE
+R 061724Z NOV 14 PSN 961713H27
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 256/14
+
+SUBJ/PUBLIC KEY ENFORCEMENT FOR ACCESS TO U.S. NAVY WEBSITES AND ASHORE 
+APPLICATIONS ON SIPRNET//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/NOV//
+REF/A/MSG/CNO/201511ZDEC13//
+REF/B/MSG/USCYBERCOM/231402ZJUL12//
+REF/C/DOC/DODI 8520.02/24 MAY 2011//
+REF/D/DOC/DODI 8520.03/13 MAY 2011//
+AMPN/Reference (a) is NAVADMIN 322/13, Mandatory Afloat Issuance of Secure 
+Internet Protocol Network (SIPRNet) Tokens.  Reference (b) is U.S. Cyber 
+Command (USCYBERCOM) Fragmentary Order (FRAGORD) 2 to TASKORD J3-12-0863, 
+Department of Defense (DoD) SIPRNet Public Key Infrastructure (PKI) 
+Implementation, Increment One, Phase One and Two, which directed DoD to 
+implement PKI on the SIPRNet.  Reference (c) is DoDI 8520.02, PKI and Public 
+Key Enabling (PKE).  Reference (d) is DoDI 8520.03, Identity Authentication 
+for Information Systems.// POC/Ms. Brooke Zimmerman/CIV/OPNAV N2N6BC4/-/TEL:  
+(571) 256-8521/TEL:  DSN:  260-8521/E-Mail:  brooke.zimmerman(at)navy.mil.
+
+RMKS/1.  This NAVADMIN provides Navy-specific direction to all owners of U.S. 
+Navy SIPRNet websites and ashore web-accessible applications.
+
+2.  Background.  References (a) and (b) required 100 percent issuance of 
+National Security Systems (NSS) PKI Tokens (hereafter referred to as SIPRNet 
+tokens) to all SIPRNet users and PK-enablement of all Navy-owned, operated or 
+controlled SIPRNet-connected networks, web servers and applications in 
+accordance with references (c) and (d), while maintaining the ability for 
+temporary exception users to access SIPRNet resources using username and 
+password.  Reference (b) required web servers and applications to be PK-
+enabled no later than 30 June 2013.  Department of the Navy, Deputy Chief 
+Information Officer (Navy) (DDCIO (N)) extended this date to allow afloat 
+users time to obtain their card readers, middleware and tokens.  Non-Navy 
+website and application owners started implementation of the DoD Public Key 
+Enablement mandate on 15 July 2014.  Navy users without tokens may be unable 
+to access non-Navy critical Public Key enabled websites and application 
+effective immediately.
+
+3.  Action
+a.  No later than 1 January 2015, Navy website and application owners 
+shall require hardware PKI technology (Credential Strength H) to 
+authenticate user identity, hereafter known as *PK Enforcement* on all 
+websites and applications regardless of data sensitivity level.  
+Username and password access will be maintained as secondary method to 
+facilitate access by temporary exception users.  Website and 
+application owners unable to meet the 1 January 2015 deadline may 
+request a waiver/exception from DDCIO (N).  DDCIO (N) will not grant 
+waiver/exceptions past 31 March 2015, unless there is no technical 
+solution available for a website or application, in which case the 
+waiver/exception request will provide a plan of actions and milestones 
+(POA&M) with the minimum amount of time required to procure hardware, 
+software and services required to meet the mandate.
+
+b.  Website and application owners requiring waivers/exceptions shall 
+submit the waiver/exception request, using the DDCIO(N) provided 
+template, signed by the first Flag Officer/Senior Executive Service 
+member in their chain of command directly to DDCIO (N) point of contact 
+no later than 1 December 2014.  Waiver/exception requests must provide 
+detailed reasons explaining why compliance cannot be attained within 
+the directed timeframe and include any required mitigation plans.  
+Include a POA&M for achieving website and application PK enablement 
+during the extension period.  Waiver /exception templates can be 
+downloaded from: ttps://infosec.navy.mil/PKI/siprpolicy.jsp.
+
+4.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+5.  Released by VADM Ted N. Branch, OPNAV N2N6.//
+
+BT
+#6417
+NNNN
+UNCLASSIFIED//

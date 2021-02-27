@@ -1,0 +1,49 @@
+RTTUZYUW RUEWMCS0000 2071735-UUUU--RUCRNAD.
+ZNR UUUUU
+R 261735Z JUL 13
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS//N01500//
+
+NAVADMIN 186/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC//N1/JUL//
+
+SUBJ/SELECTEES FOR ACADEMIC YEAR 2013-2014 ENLISTED CYBER MASTER'S 
+DEGREE PROGRAM AT NAVAL POSTGRADUATE SCHOOL//
+
+REF/A/MSG/CNO WASHINGTON DC/132026ZMAR13//
+AMPN/REF A IS NAVADMIN 062/13, ENLISTED CYBER MASTER'S DEGREE 
+OPPORTUNITY AT NAVAL POSTGRADUATE SCHOOL// 
+
+Rmks/1.  This NAVADMIN announces the individuals who have been 
+selected to attend the Naval Postgraduate School's Master of Science
+in Applied Cyber Operations (MACO) program (previously referred to as 
+the Master of Science and Operations; Security and Technology 
+program):   
+Name (Last, First MI)    Rate              Parent Command
+Rea, Kenneth M           CTN1(IDW)         SPAWARSYCEN PAC
+Agbedo, Chukwuemeka J    IT1(SW/AW)        INTER AMER DEF BD
+Paulenich, John D. Jr    IT1(SW)           WHITE HOUSE COMMUNICATIONS 
+                                           AGENCY
+Jimoh, Mujeeb            IT1(SW/AW)        USS FORT MCHENRY (LSD 43)
+
+2.  Program dates:  There will be two start dates for this academic 
+year.  CTN1 Rea, IT1 Paulenich, and IT1 Agbedo will start in the Fall 
+of 2013 and IT1 Jimoh will start in the Spring of 2014.  Reporting 
+date for Fall 2013 is 23 September 2013 with instruction beginning 
+30 September 2013.  Reporting date for Spring 2014 is 24 March 2014 
+with instruction beginning 31 March 2014.  
+
+3.  General information about NPS can be found on-line at www.nps.edu.
+
+4.  Point of contact is Mr. Michael Saunders at (703) 604-6292/DSN 664
+or via e-mail at michael.saunders(at)navy.mil.  
+
+5.  Released by Vice Admiral S. R. Van Buskirk, N1.//
+BT
+#0000
+NNNN
+

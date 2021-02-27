@@ -1,0 +1,45 @@
+UNCLASSIFIED//
+ROUTINE
+R 111354Z MAY 20 MID510001179582U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 138/20
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//N9/N98//
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/APR//
+
+SUBJ/CANCELLATION OF 2020 MULTI SERVICE AIR TRAFFIC CONTROL SYMPOSIUM//
+
+REF/A/NAVADMIN 0202/19//
+REF/B/DOC/JTR/YMD: 20170501//
+
+AMPN/Ref A is NAVADMIN 0202/19 announcing the 2020 Multi Service Air Traffic 
+Control Symposium.  
+Ref B is the Joint Travel Regulations.// 
+POC/Jeff Dugard/CDR/OPNAV/LOC:  N980A/TEL:  (703) 695-8534, DSN 224//
+
+RMKS/1.  Cancel reference (a).  This NAVADMIN announces the cancellation of 
+the Multi Service Air Traffic Control Symposium in Myrtle Beach, SC from 1-4 
+June 2020.
+
+2.  The event was to be held at the Sheraton Convention Center, 2101 North 
+Oak Street, Myrtle Beach, SC 29577.  Individuals should immediately cancel 
+event reservations with the hotel to ensure no costs are incurred.  All 
+travel scheduled in support of this event shall be cancelled immediately 
+through DTS or your DTS administrators.
+
+3.  This is a coordinated OPNAV (N98) and HQMC (APX) message.
+
+4.  Released by VADM J. W. Kilby, Deputy Chief of Naval Operations for 
+Warfighting Requirements and Capabilities (N9)//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

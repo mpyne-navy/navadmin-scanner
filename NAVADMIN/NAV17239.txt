@@ -1,0 +1,93 @@
+UNCLASSIFIED
+ROUTINE
+R 271320Z SEP 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 239/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/SPECIAL DUTY ASSIGNMENT PAY//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/251710ZMAY16//
+REF/B/DOC/OPNAV/29DEC06//
+REF/C/DOC/DOD/10APR09//
+NARR/REF A IS NAVADMIN 120/16, SPECIAL DUTY ASSIGNMENT PAY.  
+REF B IS OPNAVINST 1160.6B, SPECIAL DUTY ASSIGNMENT PAY (SDAP) PROGRAM.
+REF C IS DEPARTMENT OF DEFENSE INSTRUCTION 1304.27, AWARD AND ADMINISTRATION 
+OF SPECIAL DUTY ASSIGNMENT PAY.//
+
+RMKS/1.  This NAVADMIN announces a revision to the Special Duty Assignment 
+Pay (SDAP) levels for the regular component, reserve component, Full Time 
+Support and qualified selected reserve enlisted personnel on active duty and 
+supersedes reference (a).  The SDAP program enhances the ability to size and 
+stabilize our force by providing a monetary incentive to encourage enlisted 
+personnel with specific designated skills to apply their knowledge and 
+experience to uniquely challenging assignments.
+
+2.  Increases to existing levels are effective 1 October 2017.  All changes 
+to SDAP levels are shown in paragraph 6 for ease of reference.  A complete 
+list of SDAP levels, new special duty assignments (SDA), and unit 
+identification code revisions are provided at the following website:
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/SRB.aspx.  Commands are responsible to 
+ensure changes are submitted via their local servicing personnel support 
+detachments (PSD) or into the Navy Standard Integrated Personnel System.
+
+3.  Commanding officers are required to certify that Service Members meet all 
+qualifying criteria established by references (b), (c) and this NAVADMIN 
+prior to receiving SDAP.  Qualification criteria includes:  all 
+qualifications completed, including personal qualification standards and 
+under instruction watches, and assigned to and working in a billet on the 
+enlisted distribution verification process identified as an SDA of the 
+command.
+
+4.  Each Sailor is eligible for only one SDAP entitlement at a time and, 
+unless otherwise noted, commands must ensure the number of personnel 
+receiving SDAP does not exceed the number of authorized SDAP billets.
+
+5.  Commands holding SDAP billets are reminded that annual re-certification 
+required by reference (b) begins in June.  Guidance for the re-certification 
+process will be announced via separate correspondence.  Commands, via PSD if 
+applicable, are responsible for making any rate adjustments as directed by 
+this NAVADMIN.
+
+6.  Summary of changes to SDAP levels:
+Billet         Old Level    New Level    Billet Identification
+9585/9587/     SD-5         SD-6         Production Recruiter
+2187/2186
+
+7.  Additional information on SDAP is located at 
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/SRB.aspx.  However, skill specific 
+questions should be directed to the appropriate enlisted community manager, 
+which can be found on the Navy Personnel Command (NPC) website.  Commands and 
+units unable to access the listed website should contact any of the listed 
+points of contact to obtain the revised SDAP rates.  In addition, as navy 
+enlisted classification (NEC) codes change under the new NEC construct, 
+updates to the SDAP matrix will be reflected on the NPC website.
+
+8.  Points of contact:
+    a.  Program manager:  MMNCM Lucky, PERS-81, at (901) 874-3215/DSN 882, or 
+via e-mail at james.lucky1(at)navy.mil
+    b.  Non-Nuclear:  PSC Gregoire, PERS-81, at (901) 874-3260/DSN 882, or 
+via e-mail at stannie.gregoire(at)navy.mil
+    c.  Nuclear:  ETNCM Ledda, OPNAV N133D2A, at (703) 604-5492/DSN 664, or 
+via e-mail at jeremiah.ledda(at)navy.mil or bullnuke(at)navy.mil
+
+9.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+10.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

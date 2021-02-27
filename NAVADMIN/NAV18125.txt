@@ -1,0 +1,104 @@
+UNCLASSIFIED
+ROUTINE
+R 151526Z MAY 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 125/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/ENFORCEMENT OF PUBLIC KEY INFRASTRUCTURE CRYPTOGRAPHIC LOGON ON ALL NMCI 
+AND ONE-NET FUNCTIONAL NON-CLASSIFIED INTERNET PROTOCOL ROUTER AND SECRET 
+INTERNET PROTOCOL ROUTER ACCOUNTS//
+
+REF/A/GENADMIN/CNO WASHINGTON DC/N2N6/051443ZFEB16//
+REF/B/LTR/DDCIO(N)/26FEB16//
+REF/C/MSG/CNO WASHINGTON DC/N2N6/291317ZJUL16//
+REF/D/LTR/DOD USDP/18JAN17//
+REF/E/GENADMIN/NCMS WASHINGTON DC/291300ZMAR17//
+REF/F/LTR/DOD/5OCT17//
+REF/G/LTR/DOD/14APR17//
+REF/H/LTR/DOD/5OCT17//
+NARR/REF A IS NAVADMIN 028/16, PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY 
+NONSECURE INTERNET PROTOCOL ROUTER NETWORK AND SECRET INTERNET PROTOCOL 
+ROUTER NETWORK.  
+REF B IS DDCIO(N) AMPLIFYING GUIDANCE TO NAVADMIN 028/16.  
+REF C IS NAVADMIN 168/16, PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY 
+SECRET INTERNET PROTOCOL ROUTER NETWORKS, WEB SERVERS, WEB SITES, AND PORTALS 
+UPDATE.  
+REF D IS DOD MEMO, PUBLIC KEY INFRASTRUCTURE INCREMENT 2, SPIRAL 3, RELEASE 
+4, TOKEN MANAGEMENT SYSTEM ACQUISITION DECISION MEMORANDUM.  
+REF E IS ALCOM 056/17 PUBLIC KEY INFRASTRUCTURE FLEET SUPPORT.  
+REF F IS DOD MEMO, APPROVAL OF IDENTITY FEDERATION SERVICE PROVIDERS CENTRIFY 
+SERVER SUITE AND CENTRIFY PRIVILEGED SERVICE.  
+REF G is DOD MEMO, APPROVAL OF MULTI-FACTOR AUTHENTICATION ALTERNATIVES 
+RIVEST SHAMIR AND ADLEMAN AND YUBIKEY.  
+REF H IS DOD MEMO, APPROVAL OF MULTI -FACTOR AUTHENTICATION ALTERNATIVES 
+GEMALTO SAFNET ETOKEN PASS MODEL 3000// 
+POC/MR. BEN PLANKENHORN/CIV/OPNAV N2N6G51/WASHINGTON DC/TEL: (703) 692-1896/
+EMAIL:  BENJAMIN.PLANKENHORN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides updated guidance to Public Key Infrastructure 
+(PKI) Cryptographic Log-on (CLO) enforcement deadlines on Navy Marine Corps 
+Internet (NMCI) and outside continental United States Navy Enterprise Network 
+(ONE-Net) promulgated in references (a) through (c).
+
+2.  Immediate action.  Secret Internet Protocol Router (SIPR) tokens are now 
+available for functional (or group) accounts (i.e., Tactical Actions Officer, 
+Battle Watch Captain, Assistant Battle Watch Captain, Staff Duty Officer, 
+watch accounts) and the use of a PKI token is mandatory.  All NMCI and ONE-
+Net Non-classified Internet Protocol Router (NIPR) and SIPR functional 
+accounts using username and password must transition to PKI CLO or other 
+Department of Defense Chief Information officer (DoD CIO) approved forms of 
+Multi-Factor Authentication (MFA) by 29 June 2018.  PKI CLO is a mandatory 
+DoD requirement.
+
+3.  Functional Account owners need to submit the required paperwork to their 
+Information Systems Security Manager to transition their functional accounts 
+from username and password to PKI CLO.  Commands must request functional (or 
+group) account tokens through the Regional registration authority.  Reference 
+(e) provides guidance related to PKI support.  To assist with token 
+acquisition, a standard operating procedure is posted at:
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/PKI.
+
+4.  Non-Windows system accounts that are unable to utilize PKI must use 
+another DoD CIO approved form of MFA.  Per references (f) through (h), the 
+current approved MFAs that may be used are Centrify Server Suite and Centrify 
+Privileged Service; RivestShamirAdleman (RSA) SecureID tokens; YubiKey 
+Universal Two Factor tokens; and Gemalto SafeNet eToken PASS model 3000.  DoD 
+CIO is the approval authority for any other alternative means of 
+authentication.  Requests for approval of any other MFA products must be sent 
+to the DoD CIO via the Deputy Chief of Naval Operations for Information 
+Warfare (OPNAV N2N6).  Contact the message point of contact for format and 
+guidance.
+
+5.  Any NMCI and ONE-Net functional accounts that are not using PKI logon by 
+29 June 2018 will be disabled.
+
+6.  Exception request guidance.
+    a.  Request for exceptions to this NAVADMIN must be staffed via the chain 
+of command through each respective Echelon II N6/Chief Information Officers 
+Office for the Deputy Chief of Naval Operations for Information Warfare 
+(OPNAV N2N6) approval.
+    b.  Exception requests must be endorsed by the first Flag Officer or 
+Senior Executive Service in the chain of command and will only be accepted 
+from Echelon II commands for approval or disapproval by OPNAV N2N6.
+    c.  The account exception request form is posted at:
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/PKI/.
+
+7.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+8.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

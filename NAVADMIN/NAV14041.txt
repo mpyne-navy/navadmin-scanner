@@ -1,0 +1,133 @@
+RTTUZYUW RUEWMCS0000 0551651-UUUU--RUCRNAD
+ZNR UUUUU
+R 271925Z Feb 14 PSN 533436K24
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+UNCLAS//N01306//
+
+NAVADMIN 041/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-15 COMMAND MASTER CHIEF SELECTION BOARD RESULTS//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for assignment as Command Master Chief from the Command 
+Master Chief Selection Board, which convened 27 January 2014:
+
+NAME (LAST FIRST MI)   RATE        PARENT COMMAND
+Baker Cynthia A        AFCM        CVN 70 VINSON
+Baldwin Brice A        ETCM        NCTS FE YOKO
+Beachy Robert D        MACM        SR ENL ACAD
+Bowser Jeremy F        SOCM        NSW GRP 3 TRG
+Bruce Jonathan R       SOCM        SDVT ONE
+Burton Ryan P          EODCM       MCMRON 5
+Bymer Bryan S          EODCM       EODGR1
+Carter Thomas B II     EQCM        NCTC PT HUENEME
+Chelberg Christopher W AVCM        VAQ 137
+Chiasson Paul D        NDCM        NSWCEN
+Consford John R        FTCM        COMSUBPAC
+Cosgrove Steven R      FCCM        DDG 111 SPRUANCE
+Costin James W         NDCM        NDIVESALVTRACEN
+Demers Troy E          ETCM        NAVAL L & EC
+Dunn Jason R           FCCM        COMDESRON 15
+Dyal Sandra A          AOCM        NMC CONUS E DIV
+Fluent Michael C       FCCM        COMSIXTHFLT
+Gaddist Gerald E       QMCM        CVN 70 VINSON
+Galvan Ricardo V       CTTCM       CID UNIT CORRYST
+Garcia Tomas A         ETCM        NAVSUBSCOL GROT
+Gardner Jason N        SOCM        SEAL TEAM FIVE
+Gibson Joanne T        CTRCM        NIOC GEORGIA
+Guy Kevin V            OSCM        CVN 70 VINSON
+Haas Christopher S     FCCM        CVN 75 H TRUMAN
+Hall David W           EODCM       DEVGRU
+Happli Brian R         FCCM        DDG 70 HOPPER
+Harris Matthew R       MMCM        SSN 775 TEXAS
+Hentzen Robert NMN     EODCM        EOD MOB UN 3
+Herman Ronald F        ETCM        SSN 750 NPT NEWS
+Hill Davis M           AFCM        VFA 31
+Hinkle Michael E       ETCM        SSN 773 CHEYENNE
+Hodges Jason J         ETCM        COMSUBLANT
+Holliday Veronica C    NCCM        ESG 3
+Holmen Richard D       AOCM        CNAVSAFECEN NORV
+Howard John K          SOCM        SEAL TEAM EIGHT
+Hurdle Glenn E JR      LSCM        SSN 754 TOPEKA
+Ige Timothy M          SOCM        SDVT ONE
+James Timothy L        SBCM        SBT TWENTY TWO
+Jones Christopher D    ACCM        CNAVPERSCOM MILL
+Kelly Torrence L       ACCM        TACRON 22
+Key Philip S JR        GMCM        TSC GREAT LAKES
+Madott Jason M         OSCM        FLTASWTRACEN PL
+Marini Richard A       ETCM        SSN 721 CHICAGO
+Masters Leonette R     LNCM        CNAVPERSCOM MILL
+McNuckle Jimmie L JR   PSCM        LHD 4 BOXER
+Medus Michael G        AVCM        VFA 11
+Mullenhour Derek F     QMCM        CVN 73 GEO WASH
+Musselman Peter C      SOCM        SEAL TEAM TEN
+Neely Patrick L        ABCM        CVN 68 NIMITZ
+Nesser Timothy J       AZCM        VQ 1
+Newson Troy M          CSCM        NRD PHOENIX
+Palmer Frank C         EQCM        NMCB 5
+Patawaran Harlan B     HMCM        FLDMEDTNGBNCPPEN
+Pedregon Israel NMN    AFCM        CFAF IAMD ATSUGI
+Perryman John J IV     ETCM        SUBPAC TRAG&EVAL
+Reid Randall S         ETCM        SSN 783 MINN
+Ritch James A          ETCM        COMNAVAIRPAC
+Roberts James A        ITCM        FLTCYB SITE VA
+Roos Sean E            SOCM        NSW GRP TWO TRG
+Ryan Philip W III      SOCM        DEVGRU
+Sanders Anthony R      PSCM        LHD 7 IWO JIMA
+Scarff Kevin A         ETCM        NSSC KINGS BAY
+Schlosser Mark R       LSCM        NAVSUP FAC THURMT
+Schnapp Thomas C       MMCM        NMEDCEN PTSMOUTH
+Seitz Theodore R       EODCM       EODMU 11
+Sievers Vincent R      RPCM        COMUSFLTFORCOM
+Sites Russell W JR     AFCM        LOGIS INDUS OPS
+Soto Jorge L          CTTCM        NIOC NOR/IOP NVY
+Spears Duane A         CSCM        DDG 68 T SULIVN
+Stedding James W       ISCM        CSFTLANT
+Tandberg Wade M       ITSCM        SSN 698 BREMERTON
+Thomas Charles C       QMCM        AFLTRAGRUMP P H
+Ulibarri Jason M       EMCM        NPTU CHASN D MTS
+Vanterpool Vince V     PSCM        COMUSNAVCENTCOM
+Walker John H JR       ITCM        LPD 23 ANCHO
+White Kevin M          FCCM        SWOS/COLCOM NPORT
+Williams Gregory M JR  AOCM        CNAVPERSCOM MILL
+Wotus Paul C           NDCM        EOD EXP SUP ONE
+Wright Thaddeus T      CSCM        CNSSC FLD COM MG
+
+2.  Congratulations to the following Full Time Support (FTS)/Selected Reserve 
+(SELRES) members who have been selected for assignment as Command Master 
+Chief:
+
+NAME (LAST FIRST MI)    RATE        PARENT COMMAND
+Ayles Dwight A          AZCM        HM 15
+Burd Brooke F           AVCM        VR 56
+Gut Corey A             LSCM        COMCARAFLRIGTM THREE
+Rawls Jermaine L        NCCM        NAVCRUITREG EAST
+Saxon Eric C            PRCM        NALO NRLNS
+Starkey Charles E III   AFCM        VF A204
+
+3.  AC point of contact (POC) is CMDCM(SW) Brent H. Tidwell, PERS-40FF, at 
+901-874-4560; DSN 882-4560, or via e-mail at brent.tidwelnl(at)avy.mil.  
+SELRES POC is PSCS O'Neil Steer, COMNAVRESFOR at 757-322-2493 or via e-mail 
+at oneil.steer(at)navy.mil.  FTS POC is AFCM(AW/NAC) William Kruppa, PERS-
+4012C at 901-874-3257; DSN 882-3257, or via e-mail at 
+william.kruppa(at)navy.mil.
+
+4.  Selectees should contact their respective POC soonest to discuss 
+detailing opportunities.
+
+5.  This message will remain in effect until superseded or 30 September 2015, 
+Whichever occurs first.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0448
+NNNN
+UNCLASSIFIED//
+
+
+

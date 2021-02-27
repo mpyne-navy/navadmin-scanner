@@ -1,0 +1,371 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 151445Z SEP 20 MID200000130727U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 255/20 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/FY-21 ACTIVE-DUTY NAVY E9 ADVANCEMENT SELECTION BOARDS RESULTS// 
+ 
+REF/A/DOC/BUPERS/19SEP18// 
+ 
+AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.//
+ 
+GENTEXT/RMKS/1.  Congratulations to the following personnel who have 
+been selected for advancement to master chief petty officer by the 
+FY-21 Active-Duty Navy E9 Selection Boards.  Strong competition 
+between qualified professionals is one of the strengths of our Navy 
+and your selection speaks highly of your abilities. 
+ 
+2.  This NAVADMIN is not authorization for advancement.  Specific 
+dates of advancement will be published by Commanding Officer, Naval 
+Education and Training Professional Development Center Pensacola, 
+FL.  Personnel listed below may be frocked in accordance with 
+reference (a) if qualified. 
+ 
+3.  Members are directed to verify their select status via BUPERS 
+Online.  The selection list is in alphabetical order by rate within 
+competitive category.  Read each line from left to right, name, and 
+numerical order of advancement. 
+ 
+    ABCM - Master Chief Aviation Boatswains Mate 
+Barthelemy Ga     004         Bonham Mauric     003 
+Bringuezsabat     005         Gardner Jacob     009 
+Hansen Joshua     006         Hawkins Shann     008 
+Parker Alquin     010         Parker Dennis     001 
+Purham Matthe     002         Scheanwald Ti     007 
+    ACCM - Master Chief Air Traffic Controller 
+Druhl Michael     002         Nation Ronesh     004 
+Poulin Kriste     003         Ward Brian Eu     001 
+Williams Jeva     006         Wooten Michae     005 
+    AFCM - Master Chief Aircraft Maintenanceman 
+Appiahamponsa     013         Beardsley Nic     022 
+Beltrano Ian      003         Blazich John      010 
+Brickey Richa     011         Bulthuis Chri     005 
+Davis Miranda     021         Desiderio Chr     015 
+Edwards Gilmo     008         Ginez Joemar      001 
+Griffis Trace     020         Harmon Dean E     006 
+Hickey Cedric     014         Marquez Juan      025 
+Phillips Jaso     019         Pinnock Terre     024 
+Reichard Nath     004         Rothman Jonat     007 
+Schubert Jodi     017         Shellenberger     018 
+Snow Christop     012         Stuermer Just     016 
+Sullivan Josh     009         Triplett Quni     023 
+Ure Carlos Al     002 
+    AGCM - Master Chief Aerographers Mate 
+Mazzulo Antho     001 
+    AOCM - Master Chief Aviation Ordnanceman 
+Brooks Ivey L     009         Canup Sammy K     006 
+Carey Richard     010         Carrero Hiran     002 
+Catron Michae     008         Evans Edreal      001 
+Hand Bret Mat     003         Johnson Jamie     005 
+Kennemore Pat     007         Maldonado Ped     011 
+Muravez Matth     004 
+    AVCM - Master Chief Avionics Maintenance Technician 
+Briggs Christ     022         Burrous Antho     019 
+Covey Aaron B     007         Flores Crysti     020 
+Frederich Pau     004         Frost Kevin M     011 
+Gonzales Alis     008         Hauser Jason      015 
+Heredia Jorge     018         Korneli Jerem     005 
+Lowery Greg W     009         Martinez Gary     002 
+Mason Scott M     017         Mccullough Ge     012 
+Mendoza Rober     016         Payne Eric Le     006 
+Perry Christo     001         Red Brad Jose     021 
+Roberts Steve     014         Robertson Rya     003 
+Sage Richard      010         Worsham Steve     013 
+    AWFCM - Master Chief Naval Aircrewman Mechanical 
+Corcoran Broc     001         Lloyd William     002 
+    AWOCM - Master Chief Naval Aircrewman Operator 
+Mccartney Ter     001 
+    AWRCM - Master Chief Naval Aircrewman Tactical Helicopter 
+Lombardo Jerr     002          Santini Adria    001 
+    AWSCM - Master Chief Naval Aircrewman Helicopter 
+Nord Derek Jo     001 
+    AZCM - Master Chief Aviation Maintenance Administrationman 
+Ashley Lonesh     007         Barber Courtn     003 
+Calhoun Myrti     004         Idlebird Shan     001 
+Marker Gerald     005         Polk Shara Na     006 
+Young Chad Wi     002 
+    BMCM - Master Chief Boatswains Mate 
+Claiborne Sor     001 
+    CMDCM - Command Master Chief 
+Anglin Cory D     017         Antonio Allan     024 
+Banks Herbert     018         Burfict Lance     022 
+Bush Anthony      015         Byrd Jeremy K     001 
+Chester Benja     014         Clarke James      016 
+Coronado Mich     003         Duncan David      007 
+Ellison Brand     012         Hackford Aman     013 
+Halleran Jame     028         Harris Tshomb     006 
+Johnson Logan     008         Lavallais Eri     023 
+Lee Kelvin Be     029         Milo Simone C     019 
+Moise Mackens     030         Montenero Jos     005 
+Nguyen Chi Tr     011         Owens Christo     009 
+Phillips Feli     020         Reid Dreamer      026 
+Rinkavage Ste     010         Tapia Jorge       002 
+Torres Mark       025         Trouth Dalton     027 
+Valdespou Jan     004         Velez Iris Ya     021 
+    CSCM - Master Chief Culinary Specialist 
+Barnes Dusty      008         Chavira Tommy     006 
+Chiquitoguerr     003         Fogata Ritchi     001 
+Johnson Eric      002         Montgomery Co     009 
+Naranjo Antho     005         Pearson Willi     007 
+Schaeffer Dan     004         Velazco Juliu     010 
+    CSSCM - Master Chief Culinary Specialist Submarine 
+Pope David Ma     001 
+    CTICM - Master Chief Cryptologic Technician Interpretive 
+Johnson Marci     003         Phillips Kath     001 
+Pullins Zacha     004         Welker Melvin     002 
+    CTMCM - Master Chief Cryptologic Technician Maintenance 
+Hibberts John     002         Klepper Joshu     001 
+Ledonne Vince     003 
+    CTNCM - Master Chief Cryptologic Technician Networks 
+Avila Amador      002         Gaukel Jessic     005 
+Harrison Ange     001         Mandarich Jos     004 
+Ramey Charles     003 
+    CTRCM - Master Chief Cryptologic Technician Collection 
+Acevez Patric     002         Kruppenbacher     003 
+Witt Dustin R     001 
+    CTTCM - Master Chief Cryptologic Technician Technical 
+Giffing Chris     002         Kohlmann Mayr     001 
+Lear Christia     005         Romero Joe St     003 
+Saxton Matthe     004 
+    CUCM - Master Chief Constructionman 
+Cano Angel Da     004         Hoffmann Erwi     002 
+Olayo David       005         Weisenburg Ti     003 
+Wright Jeffre     001 
+    DCCM - Master Chief Damage Controlman 
+Coates Brando     001          Green Paul Aa    002 
+    EMCM - Master Chief Electricians Mate 
+Chanthavichit     001 
+    EMNCM - Master Chief Electricians Mate, Nuclear Power 
+            (Submarine) 
+Armbrister Er     002         Blankenship M     007 
+Brake Matthew     006         Gottsch Natha     003 
+Heinzeroth Cr     010         Holtmeyer Ric     004 
+Reuss Michael     005         Schulte Eric      008 
+Shaffner Jose     009         Steward Mark      011 
+Welch David A     001 
+    EMNCM - Master Chief Electricians Mate, Nuclear Power 
+            (Surface) 
+Dodge Gary Ed     002         Herrera Jaime     003 
+Moore Joshua      001 
+          ENCM - Master Chief Engineman 
+Holmes Donald     008         Lane William      007 
+Maydak Darren     006         Metzger Brian     004 
+Monn Andrew B     002         Richardson Aa     003 
+Saffa Jason M     001         Saldivar Jose     005 
+    EODCM - Master Chief Explosive Ordnance Disposal 
+                   Technician 
+Asbury Tara A     011         Bayless Rober     005 
+Bjork Seth Ev     009         Blankenship R     013 
+Cooper James      012         Gamez Xavier      008 
+Garman Timoth     003         Hatcher Taylo     001 
+Kern Peter St     002         Miller Adam G     004 
+Sangster Will     006         Walton Bryan      010 
+Weber William     007 
+         EQCM - Master Chief Equipmentman 
+Fennell Paul      001         Mcclain Crist     002 
+Perez Mario V     003 
+     ETCM - Master Chief Electronic Technician 
+Benken Edwin      011         Dodson Price      001 
+Edwards James     014         Gosart Michae     002 
+Hansen Dane C     005         Hollingsworth     007 
+Holzhauer Joh     008         Krause James      009 
+Pedersen Chri     010         Reed Matthew      012 
+Roach Nathani     006         Scruggs Sheri     013 
+Thompson Shea     015         Tyler Frederi     003 
+Williams Tami     004 
+    ETNCM - Master Chief Electronics Technician 
+             Nuclear Power (Submarine) 
+Davis Evan Ri     001         Marsland Thom     003 
+Smith Matthew     002 
+    ETNCM - Master Chief Electronics Technician 
+             Nuclear Power (Surface) 
+Geiger Matthe     002         Kahle Robert      001 
+Zimmerman Jos     003 
+    ETVCM - Master Chief Electronics Technician 
+              Submarine, Navigation 
+Baldwin Timot     005         Buckley Dexte     008 
+Daly William      002         Dassau Michae     003 
+Franklin Mart     006         Krause Chase      007 
+Skipper Travi     001         Wallis Michae     004 
+    FCACM - Master Chief Fire Controlman Aegis 
+Beale Timothy     002         Delapaz Gabri     008 
+Evjen Dylan M     006         Gabriel Eugen     007 
+Hofmann Jared     010         Horan Patrick     005 
+King Christop     009         Marcelle Paul     004 
+Stowe Cory Le     003         Wilkerson Bri     001 
+    FCCM - Master Chief Fire Controlman 
+Ashley John A     008         Bush James Me     005 
+Chastain Robe     001         Culley Arthur     004 
+Greeny Kevin      003         Jones Tony Wa     002 
+Langford Dona     006         Soto Martin       007 
+    FTCM - Master Chief Fire Control Technician 
+Cox Teruedum      001 
+             GMCM - Master Chief Gunners Mate 
+Wagner Matthe     001 
+    GSCM - Master Chief Gas Turbine System Technician 
+Evans Corey D     004         Finazzo Micha     003 
+Quezada Raymo     001         Serrana Manue     002 
+       HMCM - Master Chief Hospital Corpsman 
+Abeyta James      003         Alonso Jose L     031 
+Atkinson Mich     023         Auguste Lakei     012 
+Bankus Jill B     019         Bickerton Tim     014 
+Borjon Reymun     006         Boujie Lee Ed     026 
+Brey Christop     001         Burkholder To     010 
+Busscher Ange     013         Cebular Natal     022 
+Connolly Rand     020         Delacruz Bran     017 
+Delacruz Ryan     015         Familiar Elwi     002 
+Flores Ricard     009         Galgana Rauli     005 
+Gonzalez Fern     004         Hunley Geoffr     030 
+Lee Gerald Wa     018         Little Mark P     025 
+Mathlin Atiba     021         Matthews Mary     008 
+Mcdevitt Aman     007         Mclinko Juliu     024 
+Medina Miguel     027         Rodriguez Car     029 
+Saunders Erik     016         Woods Phillip     011 
+   HTCM - Master Chief Hull Maintenance Technician 
+Adkins Sherma     002         Borchardt Sam     003 
+Houske Jeremy     004         Mullen Joshua     001 
+    ICCM - Master Chief Interior Communications Electrician 
+David Jeremy      002         Leone Frank J     001 
+Nicholson Joh     003 
+    ISCM - Master Chief Intelligence Specialist 
+Crowe James M     004         Gillespie Aub     005 
+Hammond Carri     003         Pond Ervin Ja     001 
+Pruitt Edward     002 
+    ITCM - Master Chief Information Systems Technician 
+Bogovich Geor     010         Borden Brent      004 
+Boyson Christ     015         Corbin Drew A     014 
+Costa Brian M     002         Coston Willia     006 
+Crozier Gene      001         Dunford Arthu     011 
+Heitsman Will     013         Martinez John     012 
+Polston Kenne     007         Simpson Wyatt     009 
+Umpa Allistai     005         Vik Zechariah     003 
+Wheeler Steph     008 
+            LNCM - Master Chief Legalman 
+Garfield Tiff     001 
+    LSCM - Master Chief Logistics Specialist 
+Brooks Laking     001         Delavega Loui     002 
+Diaz Edlyne       013         Graves Moniqu     012 
+Okeiyimor Ign     003         Rigmaiden Tan     011 
+Rodriguez Lui     008         Soumphonphakd     009 
+Spaulding Geo     007         Stacy Bradley     010 
+Stevenson She     005         Treadway Char     006 
+Williams Star     004 
+    LSSCM - Master Chief Logistics Specialist Submarine 
+Hollenbeck Jo     001 
+        MACM - Master Chief Master At Arms 
+Blakely Anwar     005         Croshaw Phill     003 
+Day Brian Pat     010         Harley Gabrie     002 
+Massare Steve     009         Montgomery Ma     007 
+Reichard Josh     001         Sewell Scott      006 
+Taylor Bryan      004         Zoudlik Steph     008 
+      MMACM - Master Chief Machinists Mate 
+        Non-Nuclear, Submarine Auxillary 
+Clark Dustin      003         Hartley Darry     007 
+Henley David      004         Limehouse Jam     005 
+Marvin Dean R     008         Rhodes Daniel     002 
+Turner Nichol     001         White Jessy L     006 
+          MMCM - Master Chief Machinists Mate 
+Garza Dimas L     001 
+       MMNCM - Master Chief Machinists Mate 
+            Nuclear Power (Submarine) 
+Bermingham Pa     002         Bottoms Nicho     006 
+Johnson Roy W     003         Lee Elton G       004 
+Noury Matthew     001         Schulz Benjam     005 
+    MMNCM - Master Chief Machinists Mate 
+          Nuclear Power (Surface) 
+Goyert Devon      001         Griffin Leon      007 
+Loman Cory Ly     002         Mccarty Duane     004 
+Pierson Jason     003         Sigmon Scott      005 
+Wittig Karin      006 
+        MNCM - Master Chief Mineman 
+Bowman Gary L     001 
+      MRCM - Master Chief Machinery Repairman 
+Horney Tarah      001 
+    MTCM - Master Chief Missile Technician 
+Appel Derick      002         Hartung Joshu     003 
+Jeffcoat Gord     001         Mathews John      004 
+    MUCM - Master Chief Musician Special Band 
+Keehner Ruth      001         Loggins Greta     002 
+    MUCM - Master Chief Musician Fleet Band 
+Bonistalli Gr     001 
+    NCCM - Master Chief Navy Counselor (Recruiter) 
+Tuiel Frederi     002         Wood Dustin M     001 
+    NCCM - Master Chief Navy Counselor (Counselor) 
+Bell Marquez      003         Calicdan Rome     005 
+Mcnicol Justi     002         Messer Derek      004 
+Turner Tony D     001 
+         NDCM - Master Chief Navy Diver 
+Bell Brad Nat     007         Bourne John T     009 
+Eberle Eric A     001         Gill Christia     008 
+Heimgartner F     004         Mette Jason R     005 
+Montoya Rodri     006         Roberts Brent     003 
+    OSCM - Master Chief Operations Specialist 
+Adams Sharon      005         Beltran Juan      003 
+Criner Jonath     002         Ortiz Charles     001 
+Samuels Naris     006         Thomas Christ     004 
+    PRCM - Master Chief Aircrew Survival Equipmentman 
+Garrett Richa     002         Wassberg Clar     001 
+    PSCM - Master Chief Personnel Specialist 
+Castaneda Ari     002         Guenther Andr     003 
+Luna Kenneth      004         Mallari Adria     007 
+Millare Troy      001         Pia Richardbe     006 
+Taylor Tiberi     005 
+        QMCM - Master Chief Quartermaster 
+Benitez Justo     004         Brandes Adam      005 
+Pugel Charles     002         Robles Aurora     003 
+Rodrigueztroe     001 
+    RPCM - Master Chief Religious Program Specialist 
+Arocho Jorge      003         Grow Alan Bra     002 
+Kitson Jennif     001 
+    RSCM - Master Chief Retail Services Specialist 
+Duncan Kinyat     001 
+    SBCM - Master Chief Special Warfare Boat Operator 
+Hannock Lance     002         Haselhorst Ke     004 
+Overley John      005         Powell Nichol     003 
+Roys Charles      001 
+    SOCM - Master Chief Special Warfare Operator 
+Bertera Jonat     013         Bicondova Jos     016 
+Brightbill Ia     019         Brown John Wi     004 
+Buckley Andre     007         Carter Daniel     003 
+Gargano Jonat     002         Hogan Daniel      006 
+Huertas Julio     009         Hughes Scott      005 
+Kirkbride Dan     020         Lee Kekoa Tai     008 
+Mangini Kevin     012         Pope Kevin Mi     011 
+Smith Adam Ja     014         Stansel Jacob     015 
+Stull David K     017         Taverner Jose     018 
+Unruh Lance L     010         Yost Patrick      001 
+    STGCM - Master Chief Sonar Technician Surface 
+Zaben Joseph      001 
+    STSCM - Master Chief Sonar Technician Submarine 
+Felt Hamilton     005         Lindsey Matth     001 
+Micheli Micha     004         Newton Dougla     003 
+Purdum Christ     002 
+    TMCM - Master Chief Torpedomans Mate 
+Guidry Gabe A     002         Olivieri Bret     001 
+    UCCM - Master Chief Utilitiesman 
+Earhart Phill     001         Field Scott E     004 
+Neufeld Aaron     002         Winters Adam      003 
+    YNCM - Master Chief Yeoman 
+Maclin Richar     001 
+    YNSCM - Master Chief Yeoman Submarine 
+Clark Cassie      001 
+ 
+4.  Released By Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

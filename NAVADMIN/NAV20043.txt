@@ -1,0 +1,54 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 211956Z FEB 20 MID510000958345U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO USCYBERCOM FT GEORGE G MEADE MD
+COMFLTCYBERCOM FT GEORGE G MEADE MD
+DIRNSA FT GEORGE G MEADE MD
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 043/20
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//DNS//
+
+SUBJ/THE COMPUTER NETWORK OPERATIONS DEVELOPMENT PROGRAM (CNODP) CLASS OF 
+2023 SELECTION RESULTS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JAN//
+
+REF/A/MSG/CNO WASHINGTON DC/DNS/202000Z AUG 19//
+
+AMPN/REF A IS NAVADMIN 194/19 CALL FOR APPLICANTS FOR THE CNODP CLASS OF 
+2023// POC/WILLIAM LOVEJOY/FCC-C10F N13/TEL: (443) 634-4586 EMAIL:
+USFF_FCC_C10F_NSAH_CNODP(AT)NAVY.MIL//
+
+RMKS/1.  Congratulations to the following personnel on their selection for 
+the National Security Agency's System and Network Interdisciplinary Program 
+(SNIP) CNODP Class of 2023:
+E. J. YOUNG  LT	   SSN 791   USS DELAWARE
+J.D. RAY     PO2   CSA-63    Cyber Strike Activity SIXTY THREE
+
+2.  This program will develop a cadre of technical leaders who will improve 
+Department of Defense (DoD) Computer Network Operations (CNO) capabilities.  
+The program is tailored to each selectee to best capitalize on individual 
+expertise.  The Class of 2023 is expected to start 6 July 2020, with a RNLT 
+date of RNLT date of 20 April 2020 to allow sufficient time for inprocessing, 
+orientation, and security clearance processing.
+
+3.  Released by Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

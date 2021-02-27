@@ -1,0 +1,389 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 211445Z JUN 17
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 144/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/SELECTIVE REENLISTMENT BONUS UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/211611ZDEC16//
+
+REF/B/MSG/CNO WASHINGTON DC/121706ZOCT16//
+
+REF/C/MSG/CNO WASHINGTON DC/221403ZMAR13//
+
+REF/D/DOC/OPNAV/30JAN07//
+
+REF/E/DOC/COMNAVPERSCOM/18OCT10//
+
+NARR/REF A IS NAVADMIN 284/16, SELECTIVE REENLISTMENT BONUS UPDATE (CORRECTED 
+COPY).  REF B IS NAVADMIN 225/16, ENLISTED SUPERVISOR RETENTION PAY UPDATE 
+(CORRECTED COPY).  REF C IS NAVADMIN 070/13, NUCLEAR TRAINED SAILOR 
+APPLICATIONS TO OFFICER COMMISSIONING PROGRAMS.  REF D IS OPNAVINST 1160.8A, 
+SELECTIVE REENLISTMENT BONUS
+(SRB) PROGRAM.  REF E IS MILPERSMAN ARTICLE 1306-604, ACTIVE OBLIGATED 
+SERVICE (OBLISERV) FOR SERVICE SCHOOLSY.//
+
+RMKS/1.  This NAVADMIN announces revised Selective Reenlistment Bonus (SRB) 
+award levels and reenlistment policy for Active Component (AC) and Full-Time 
+Support (FTS).  This NAVADMIN supersedes reference (a).
+
+2.  Decreased award levels are effective 30 days after notification through 
+this NAVADMIN or posting on the Navy Personnel Command website.
+
+3.  Reenlistment requests for the following SRB award levels will be approved 
+based on quota availability.  SRB reenlistment requests must be submitted to 
+Enlisted Career Administration/Enlisted Boards
+(PERS-813) via Officer Personnel Information System (OPINS) or Navy Standard 
+Integrated Personnel System (NSIPS) 35 to 120 days in advance of the 
+requested reenlistment date for the Sailor.  Eligible Sailors desiring SRB 
+reenlistment are encouraged to work with their chain of command as early as 
+possible within their reenlistment window to maximize potential for SRB.  
+PERS-813 maintains the current list of SRB eligible ratings/skills based on 
+available quotas at the following website:  
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/pages/srb.aspx.  Addendums to the current 
+award message posted on this site provide notification of skill closures and 
+supersede the current NAVADMIN.  For those commands with limited internet 
+access, command career counselors
+(CCC) should contact PERS-813 directly for the latest updates.
+
+4.  FTS SRB award levels are as follows:
+Tier 3:
+45,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+NC          2186        0.0         1.0         0.0
+
+5.  AC SRB award levels are as follows (Note:  a * indicates a level located 
+in other sections of paragraph 5, a - indicates a reduction from previous 
+award level).
+    a.  AC SRB Award Levels:
+Tier One:
+30,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+AWS         0000        0.5         0.0         0.0        1
+CS(SS)      0000        0.5         0.0         0.0        1, 2
+CTM         9229        1.0         0.0         0.0        3
+EOD         5333        2.5        -2.0         0.0
+IT          0000        0.5         0.0         0.0        1, 3
+ITS         27XX        *           *           0.5        3, 5
+ND          5342        0.0         0.5         *
+ND          5343        0.5         0.0         0.0
+STG         0000        0.0        -1.0         0.0        1, 4
+45,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+AM          7225        0.0         2.0         0.0
+CTI         9SPA        *          -0.0         0.0        3
+CTN         0000        0.5         *           *          1, 3
+EOD         5335        4.5         *           *
+ETR(SS)     14XXA       0.0         1.0         *          2, 5, 6
+FT          13XX        0.0         0.5         *          5
+HM          8402        0.0         0.0         0.5
+MT          33XX        *           0.5         0.0        5
+ND          5342        0.0         *           0.5
+OS          0319        0.0         1.5         0.5
+SB          5352        4.0         *           *
+SO          5326        4.0         *           *
+STS         0000        *           0.5         *          1
+60,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+CTR         9149        0.0         1.5         2.0        3
+EOD         5335        *           4.5         *
+FC AEGIS    0000        3.0         *           0.0        1, 4
+HM          8403        0.0         2.5         1.5
+HM          8425        0.0         1.5         1.0
+HM          8427        3.5         0.5         0.0
+HM          8494        0.0         2.5         1.5
+IS          3913        0.0         1.0         0.5        3
+ITS         27XX        *           0.5         *          3, 5
+MMA(SS)     42XXA       *           0.5         0.0        2, 5, 6
+MMW(SS)     42XXB       *           1.5         *          2, 5, 6
+SB          539XB       6.0         *           0.0        5, 6
+SO          539XA       6.0         *           0.0        5, 6
+75,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+CTI         9520        0.0         2.5         2.5        3
+CTI         9ARB        1.5         2.0         0.0        3
+CTI         9CMN        2.0         2.0         0.0        3
+CTI         9PES        1.5         0.0         0.0        3
+CTI         9RUS        1.5         0.0         0.0        3
+CTI         9SPA        2.0         *           0.0        3
+CTN         9326/27/28  5.5         5.5         5.5        3
+CTN         0000        *           2.5         2.0        1, 3
+EOD         5335        *           *           4.5
+ET(SW)      0000        0.0         0.5         0.5        1, 2, 4
+FC          0000        0.0        -0.5         0.5        1, 4
+ITS         27XX        0.5         *           *          3
+SB          5352        *           5.5         *
+SB          539XB       *           6.0         0.0        5, 6
+SO          5323        6.5         *           *
+SO          5326        *           5.5         *
+SO          539XA       *           6.0         0.0        5, 6
+90,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+ND          5341        0.0         0.0         4.5
+SO          5323        *           6.5         *
+100,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+EMN(SS)     3354/64    -5.5         8.0         0.0        2, 7
+EMN(SW)     3384/94    -5.0        -7.0         0.0        2, 7
+EOD         5337        0.0         5.5         5.5
+ETN(SS)     3353/63    -11.0        9.0         0.0        2, 7
+ETN(SW)     3383/93     7.5        -7.5         0.0        2, 7
+MMN(ELT)(SS)3356/66    -10.0        8.0         0.0        2, 7
+MMN(ELT)(SW)3386/96    -8.5        -7.5         0.0        2, 7
+MMN(SS)     3355/65    -8.0         9.0         0.0        2, 7
+MMN(SW)     3385/95    -6.0        -7.0         0.0        2, 7
+SB          5352        *           *           6.5
+SO          5323        *           *           6.5
+SO          5326        *           *           6.5
+STS         0416S       0.0        -0.0         7.5        6
+Tier Two:
+30,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+CS(SW)      0000        0.5         0.0         0.0        1, 2
+HM          8401        1.5         *           0.0        8
+YN(SS)      0000        0.5         0.0         0.0        1, 2
+45,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+AC          0000        1.5         1.5         0.0        1, 4
+Seabee      5931        0.0         3.0         1.5
+Seabee      5932        2.0         1.0         0.0
+CTT         9135        0.0         0.5         0.0        3
+GSM         0000        0.0         0.5         0.0        1, 4
+HM          8401        *           0.5         0.0
+HM          8493        2.0         0.5         0.0
+HM          8541        0.5         1.5         0.0
+IC          0000        0.0         1.0         *          1, 4
+MMA(SS)     42XXA       1.5         *           0.0        2, 5, 6
+MMW(SS)     42XXB       2.0         *           *          2, 5, 6
+MR          4402        0.0         0.5         0.0
+MT          33XX        0.5         *           0.0        5
+60,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+Seabee      5933        0.0         0.0         3.0
+CTR         9169        1.0         1.0         0.0        3, 9
+ETV(SS)     14XXB       *           0.5         *          2, 5, 6
+75,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+FC AEGIS    0000        *           3.0         0.0        1, 4
+STG         0416        0.0         4.5         5.5        4
+STS         0000        0.5         *           *          1
+Tier Three:
+30,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+AG          7412        *           1.0         0.0        8
+AWF         8235        1.0         1.0         0.0
+AWS         7886        0.0         1.0         0.0
+AWV         8229        1.0         0.5         0.0
+CTT         0000       -0.0         0.0         0.0        1, 3
+EO          0000        0.5         0.0         0.0        1
+ETR(SS)     14XXA       *           *           0.5        2, 5, 6
+ETV(SS)     14XXB       *           *           0.5        2, 5, 6
+FT          13XX        0.0         *           0.5        5
+HM          8506        0.0         0.5         0.0
+HM          8708        0.0         0.5         0.0
+HM          8753        *           0.5         0.5
+HT          4955        1.0         0.5         0.0
+IC          0000        0.0         *           1.0        1
+MA          2005       -0.0         0.0         0.0
+MMW(SS)     42XXB       *           *           0.5        2, 5, 6
+STS         0000        *           *           0.5        1
+45,000 DOLLAR AWARD CEILING
+RATING      NEC         ZONE A      ZONE B      ZONE C     NOTES
+AG          7412        1.5         *           0.0        8
+AWO         0000        1.0         0.0         0.0        1, 4
+Seabee      5633       -0.0        -0.0         0.0
+HM          8753        0.5         *           *
+    b.  Notes
+        (1) Navy Enlisted Classification (NEC) 0000 (commonly referred to as 
+quad zero) is listed here to establish that Sailors in these ratings/career 
+fields can hold any or no NEC and still be qualified for the SRB provided 
+they meet all other applicable non- NEC related criteria.
+        (2) Subsurface or surface designation does not mean an individual 
+must be subsurface or enlisted surface warfare specialist qualified, but it 
+indicates the component of the rating in which they can reasonably be 
+expected to serve.  Training, qualifications, and previous or projected duty 
+assignments at sea will indicate the appropriate rating component.  When 
+using the force management system and the OPINS to input a SRB 
+precertification request, use the rating (with appropriate suffix 
+designation/NEC) as specified in this NAVADMIN.  For example, a surface 
+electronics technician with no NEC would submit 'ET(SW)' on precertification 
+for rating.
+        (3) A SRB approval for all CT, IS, IT, and ITS ratings will be 
+contingent upon the Service Member having a current single scope background 
+investigation (SSBI), an active SSBI or recent submission of a SSBI package.  
+Commands must verify the Service Member has a current SSBI, active SSBI, or 
+has submitted a SSBI package and make note of this in the comments section of 
+the precertification request.
+        (4) E-3 to E-6 personnel only.
+        (5) X is used as a placeholder to identify where multiple NECs within 
+a rating are eligible for a stated award level.  Service Members in the 
+specified rating that hold a NEC that includes the numbers preceding X or XX 
+are eligible for SRB.  For example, SO 539XA includes SO 5391 and SO 5392 or 
+14XX includes all subsurface electronics technician navigation NECs beginning 
+with 14.
+        (6) Letters appearing with a NEC are only for administrative use.
+        (7) Reenlistment bonuses for nuclear trained personnel:
+            (a) Reenlistment compensation for zones 1 through 3 nuclear 
+trained personnel holding a nuclear supervisor NEC shall be provided under 
+the Enlisted Supervisor Retention Pay (ESRP) Program in line with policies 
+and procedures detailed in reference (b) along with current ESRP multiples.
+            (b) SRB entitlement for eligible nuclear-trained Service Members 
+who reenlist after applying for an officer program will be held pending 
+selection results.  For nuclear trained personnel only, the date on which 
+conditional release is approved by Nuclear Propulsion Program Manager (N133) 
+as directed in reference (c) is considered the date of the application to an 
+officer program.
+        (8) E-4 to E-6 personnel only.
+        (9) E-3 to E-5 personnel only.
+
+6.  Sailors must reenlist within 90 days and in the same fiscal year as their 
+End of Active Obligated Service (OBLISERV (EAOS)), except in the following 
+cases:
+    a.  Nuclear trained Sailors.
+    b.  Sailors eligible for combat zone tax exclusion (CZTE) are authorized 
+to reenlist anytime within the same fiscal year as their EAOS.  These 
+Sailors, along with CCC must annotate in the remarks section of the 
+precertification request whether they are currently CZTE eligible or serving 
+in a qualified hazardous duty area.  A condition of approval of their 
+precertification request is that the reenlistment of the Sailor occurs in a 
+month during which CZTE qualification applies.
+    c.  Sailors who received an Early Promote in block 45 of their most 
+recent regular periodic evaluation will be allowed to reenlist early any time 
+within the fiscal year of their EAOS.  No transfer, concurrent, or special 
+evaluations will apply.  Sailors advanced within the 12 months prior to their 
+EAOS will be allowed to substitute the last regular periodic evaluation in 
+their previous pay grade.  Personnel must e-mail a signed copy of the 
+evaluation to
+PERS-81 once their precertification has been submitted.  This requirement is 
+only for those that fall under the provisions of this paragraph.
+
+7.  SRB Submission Requirements
+    a.  Commands are required to submit SRB reenlistment requests to
+PERS-813 via OPINS or NSIPS 35 to 120 days in advance of the requested 
+reenlistment date of the Sailor.  Requests submitted less than 35 days prior 
+to the requested reenlistment date will be rejected.  However, commands may 
+contact PERS-813 for waiver eligibility and procedures.  Sailors must have an 
+approved SRB request before reenlisting.  The servicing personnel office is 
+responsible for verifying the reenlistment, posting the contract, releasing 
+the first payment, and verifying the master military pay account.
+    b.  Career Waypoints - Reenlistment (C-WAY-REEN).  Commands are 
+authorized to submit SRB reenlistment requests prior to a Service Member 
+receiving a C-WAY-REEN quota.  However, the C-WAY-REEN quota request must be 
+submitted.  In these cases, the SRB request will not be processed until the 
+Service Member has received C-WAY-REEN confirmation.  SRB requests without C-
+WAY-REEN approval will be rejected in OPINS to keep the command informed of 
+potential SRB approval issues.  Once a Service Member has an approved C-WAY-
+REEN quota, the command should contact PERS-813 to clear any rejections.
+Failure to submit a SRB reenlistment request within the required 35 to 120 
+day submission window due to awaiting a C-WAY-REEN quota does not meet 
+eligibility requirements for a 35 day submission waiver.
+    c.  Sailors with approved SRB requests who do not reenlist on the date or 
+for the term specified in the precertification message must have their 
+command contact PERS-813 to initiate a reenlistment cancellation to avoid 
+placing Sailors in an overpaid status.
+    d.  To validate an inoperative extension of enlistment and expedite 
+processing of a SRB request, include the following information in the remarks 
+paragraph of the request:  term, narrative reason, authority, and execution 
+date of all inoperative extensions.  Failure to verify extension will cause 
+processing delays and may result in rejection of the request or an approval 
+at a lower amount.
+    e.  Sailors must obtain an approval for extension from PERS-813 in order 
+to minimize the potential for loss of SRB eligibility.
+    f.  For FTS SRB reenlistment requests, use one of the below listed type 
+codes:
+        (1) CODE 1RR, Immediate Reenlistment for FTS SRB.
+        (2) CODE 1RB, Broken Service Reenlistment for FTS SRB.
+        (3) CODE 1RC, OBLISERV to Train and Reenlist for FTS SRB.
+
+8.  Acceptance of a NEC-specific SRB contract indicates an agreement between 
+the Sailor and the Navy to use skills attributed to the NEC during the 
+enlistment of the Sailor to meet fleet readiness requirements.  In subsequent 
+tours, a Sailor must be willing to be detailed during the normal projected 
+rotation date window to an available billet within the SRB contracted NEC, 
+consistent with sea- shore flow requirements.  Lateral conversions must 
+follow reference (d), paragraph 12d.  Lateral conversion requests will 
+normally not be processed more than nine months before the EAOS.  Conversions 
+to a rate with a lower award level normally will not be approved.
+Personnel in a closed-loop NEC can reenlist by the NEC only.
+
+9.  Reference (d), paragraph 12e, provides OBLISERV to Train (OTT).
+guidance.  Requests are to be submitted to PERS-81 extension desk via e-mail.  
+A copy of the authorization message should be retained by the Sailor until 
+the SRB reenlistment on graduation day from the course of instruction.  Use 
+code 1CC (1RC for FTS) for OTT SRB request in OPINS or NSIPS.  Additionally, 
+OBLISERV requirements for schools are provided in reference (e).  OBLISERV 
+will be determined based on the course length as provided in paragraph 3.b. 
+of reference (e).  Paragraph 3.c.(1) no longer applies.
+
+10.  In keeping with Department of Defense (DoD) policy, personnel who 
+accepted an enlistment bonus for extended enlistment (EBEE), as reflected on 
+their Enlisted Bonus Payment Checklist (NAVCRUIT
+1133/52 (Enlistment Guarantees, New Accession Training Program Enlistment 
+Guarantee or Professional Apprenticeship Career Track Program Enlistment 
+Guarantees)), are not authorized to use this inoperative extension time in 
+the SRB calculation.  Sailors who have inoperative extension time through a 
+5-year obligation or 6-year obligation program, or as authorized in the 
+Control of Conditional Short Term Extensions NAVADMIN, may continue to have 
+up to 24 months of inoperative extension time count towards the SRB 
+calculation provided the reenlistment results in a new EAOS that is at least 
+24 months day-for-day past the current extended EAOS.  This calculation is 
+performed automatically by PERS-813.  Local commands are not authorized to 
+cancel or change extensions for the purpose of immediate SRB reenlistments.  
+Commands must verify and annotate on the precertification request whether any 
+inoperative extension time noted is part of an EBEE contract.
+
+11.  Repayment policy is governed by section 373 of Title 37 of U.S.
+Code, Chapter 2, Volume 7A, of the DoD Financial Management Regulation (FMR), 
+and reference (d), which collectively determines when repayment of the 
+unearned portion of a bonus is required or not required but left to 
+Secretarial discretion, or prohibited.  Section
+373 of Title 37 of U.S. Code requires repayment with certain exceptions.  As 
+a general rule, repayment of any unearned portion of a bonus will be sought.
+
+12.  To ensure all requirements and timelines are met, visit the following 
+SRB page of the NPC website:
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/SRB.aspx.
+
+13.  The point of contact for a Sailor who has reenlisted and has not 
+received their SRB payment, or has questions concerning the taxation of their 
+SRB and annual installments, is the servicing pay office or personnel support 
+detachment of the Sailor.  SRB tax information is also discussed in DoD FMR, 
+Volume 7A, Chapter 44, table 44-1, rule 7.  The point of contact for a Sailor 
+with questions regarding the SRB program or any information on their on- line 
+personnel account is their CCC.  For technical questions or clarification, 
+CCCs, not individual Sailors, are encouraged to contact MMNCM James Lucky, 
+PERS-813, at (901)874-3215/DSN 882 or via e-mail at james.lucky1(at)navy.mil, 
+or Mr. Francisco Palomo at (901) 874-3915/DSN 882, or via e-mail at 
+francisco.palomo(at)navy.mil, or the SRB Help Desk at (901)874-2526/DSN 882.
+
+14.  We will continue to assess retention behavior and adjust SRB award 
+levels accordingly.
+
+15.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever comes first.
+
+16.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,27 @@
+UNCLASSIFIED//
+ROUTINE
+R 221453Z AUG 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 195/19
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N00/AUG//
+
+SUBJ/CHIEF OF NAVAL OPERATIONS ASSUMPTION OF OFFICE//
+
+RMKS/1.  At 1059L today, Admiral Michael M. Gilday relieved Admiral John M. 
+Richardson as the Chief of Naval Operations.
+
+2.  All current orders and directives remain in effect until further notice.
+
+3.  Released by ADM M. M. Gilday, Chief of Naval Operations.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,68 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 071418Z AUG 20 MID510001583052U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 221/20 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/AUG// 
+ 
+SUBJ/TRANSITION TO ELECTRONIC NAVIGATIONAL CHART// 
+ 
+REF/A/PUB/IHO/1NOV00// 
+REF/B/DOC/NATO/27SEP15// 
+REF/C/PUB/NSG/1MAY20// 
+REF/D/INST/OPNAV/30SEP19// 
+ 
+NARR/REF A IS AN INTERNATIONAL HYDROGRAPHIC ORGANIZATION (IHO) PUBLICATION 
+WHICH DESCRIBES THE ELECTRONIC NAVIGATIONAL CHART (ENC) S-57 FORMAT.   
+REF B IS NORTH ATLANTIC TREATY ORGANIZATION (NATO) STANDARD AGEOP-19 DOCUMENT 
+WHICH DESCRIBES AML FOR S-57 FORMAT.  
+REF C IS NATIONAL SYSTEM FOR GEOSPATIAL INTELLIGENCE (NSG) FOUNDATION GEOINT 
+(FG) INTELLIGENCE MISSION DATA PLAN PUBLICATION WHICH LISTS THE TYPES OF 
+PRODUCTS NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA) PLANS TO PRODUCE OVER 
+THE NEXT FIVE YEARS.   
+REF D IS OPNAVINST 9420.1C-POSITIONING, NAVIGATION AND TIMING POLICY WHICH 
+DIRECTS TRANSITION FROM STANDARD NAUTICAL CHARTS TO ENC// 
+POC/BUSHNELL/CAPT/OPNAV N2N6E4/TEL:  (571) 256-8231/ 
+EMAIL:  JILLENE.BUSHNELL(AT)NAVY.MIL// 
+POC/HANAFIN/CIV/OPNAV N2N6E4/TEL:  (571) 256-8227/ 
+EMAIL:  CAROLINE.HANAFIN1(AT)NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN addresses the Navys discontinued use of the Digital 
+Nautical Chart (DNC), the submarine specific product MATT, and Tactical Ocean 
+Data (TOD) by fiscal year (FY) 2025 and its transition to the Electronic 
+Navigational Chart (ENC) (using the IHO S-57 data format standard), Submarine 
+ENC, and Additional Military Layers (AML).  The adoption of ENC enables the 
+ability to create and display AMLs which overlay additional information on 
+the navigation chart that is not available on paper or DNC. 
+ 
+2.  With this transition, AML will replace TOD 0, TOD 4, and anti-submarine 
+warfare (ASW) bathymetry products.  NGA will release limited coverage of ENC, 
+SMENC, and AML in FY20 and complete global coverage by FY24. 
+ 
+3.  Ships equipped with ENC-approved Electronic Chart Display and Information 
+System (ECDIS) software shall use ENC where and when available, and continue 
+to use DNC where and when ENC is not available.  Navy programs relying on DNC 
+for navigational or non-navigational purposes shall plan for DNC termination 
+in FY25. 
+ 
+4.  The AML data layer requirements are currently being generated and will 
+include (not all-inclusive) contour line bathymetry; environment, seabed and 
+beach; large bottom objects; maritime foundation and facilities; routes, 
+areas, and limits; and small bottom objects.  Commands should submit 
+additional requirements for any other desired information and unmet data 
+display needs as AML requirements to their Type Commander. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
+

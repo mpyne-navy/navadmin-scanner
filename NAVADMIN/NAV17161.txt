@@ -1,0 +1,155 @@
+UNCLASSIFIED
+ROUTINE
+R 051314Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC/N1//
+
+NAVADMIN 161/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/ENLISTED WOMEN IN SUBMARINES CYCLE 3 SELECTIONS//
+
+REF/A/DOC/BUMED/4FEB16//
+
+AMPN/REF A IS NAVMED P-117, MANUAL OF THE MEDICAL DEPARTMENT.//
+
+RMKS/1.  The Navy is pleased to announce the selection of the following 
+Sailors for training and assignment as the third cohort of enlisted female 
+submariners.  The interest in this program was strong, and selection was 
+highly competitive.  Consistent superior performance, operational experience, 
+and strong command endorsements were critical in breaking out these high 
+performing Sailors from their peers.  The following list of Sailors are the 
+primary selectees.
+
+2.  Congratulations to the following Sailors who were selected for assignment 
+to USS OHIO (SSGN 726) homeported in Bangor, WA:
+
+CURRENT                         CONV     CURRENT
+RATE     NAME                   RATE     COMMAND
+----     --------------         ----     -------
+YNC      BAROTT KANDIS M        YNS      JIOC PEARL HARBOR
+PSC      BOATENG CYNTHIA A      YNS      NR FISC JACKSONVILLE
+ITC      COOPER JESSICA R       ITS      CVN 68 NIMITZ
+LSC      HOLBROOK CRYSTAL A     LSS      FLC PS DET A
+HMC      MOORE CHRISTINE        HMC      USS OHIO (GOLD)
+RPC      SMITH MONICA L         YNS      2D MARINE LOGISTICS GROUP
+IT1      COLE SAKEITHA L        ITS      LPD 22 USS SAN DIEGO
+ABH1     DAVIS GLORIA           ITS      NAVAL RESERVE UNIT 4044S
+AT1      DELL SHASTA M          ETV      CVN 75 USS HARRY S TRUMAN
+CTT1     KNIGGE ASHLEY A        FT       DDG 113 USS JOHN FINN
+LS1      MINCEY SAMANTHA A      LSS      TRIDENT REFIT FACILITY
+                                         KINGS BAY
+MR2      ANTOINE VALERIE D      YNS      SOUTHWEST REGIONAL
+                                         MAINTENANCE CENTER
+DC2      BLEDSOE ELIZABETH W    MMA      NRD MINNEAPOLIS
+CTI2     BROWN DESIREE A        ITS      NIOC GA/CC
+LS2      DONELAN ANNA M         LSS      VFC 12
+YN2      GIANNAKOPOULOS OFELIA  MMW      COMSUBLANT
+HT2      GRIJALVA CELIA G       ITS      ASSAULT CRAFT UNIT 5
+ABH2     HUIZAR JESSICA M       YNS      RTC GREAT LAKES
+AO2      JORDAN NICOLE J        MMW      NAVCONBRIG CHESAPEAKE
+ET2      PETERSON MELISSA M     ETR      NAVAL STATION GREAT LAKES
+LS2      TAYLOR NOELIA M        LSS      NMCB 1
+ET3      COTE ALYSSA A          ETR      NAVAL STATION GREAT LAKES
+AE3      DUCHYNSKA VERONIKA     ETV      VAW 116
+STG3     FALLON MEGHAN K        FT       T-AGOS 19 USNS VICTORIOUS
+                                         BLUE
+FC3      GOERLING REBECCA L     FT       NAVY SURFACE WARFARE CENTER
+                                         DAHLGREN
+CM3      HENKE BARBI D          STS      COASTAL RIVERINE SQUADRON 4
+MM3      JENNINGS DENEEN G      MMW      LHD 7 USS IWO JIMA
+IC3      NORMAN ELIZABETH L     ETV      CVN 74 USS JOHN C STENNIS
+AT3      NOYCE SHELBY R         ETV      VFA 31
+CSSA     AREVALOS TRACY         CSS      NAVAL MEDICAL CENTER SAN
+                                         DIEGO
+ETSN     BROWN ERICA B          ETR      NAVAL STATION GREAT LAKES
+ETSN     DESHAZO BIKO K         ETR      NAVAL STATION GREAT LAKES
+SHSN     DIGIAVANNI DAKOTA      YNS      CVN 77 GEORGE H W BUSH
+STGSN    FORSYTH BRIANA E       STS      NOPF WHIDBEY ISLAND
+ETSN     KLEVE SAMANTHA L       ETR      NAVAL STATION GREAT LAKES
+SN       MCMILLAN HALEEMAH M    CSS      CVN 72 USS ABRAHAM LINCOLN
+MASN     MEZA JENNIFER          MMW      NAS FALLON SECURITY
+                                         DETACHMENT
+FCSN     NGUYEN ALICIA D        FT       NAVAL STATION GREAT LAKES
+DCFN     NOSKEY TAYLOR K        MMA      US NAVAL ACADEMY
+EMFN     OCONNELL RASHEL L      ETV      CVN 74 USS JOHN C STENNIS
+
+3.  Primary selectees should have completed the Report of Medical History (DD 
+Form 2807-1) and Report of Medical Examination (DD Form 2808) with Undersea 
+Medical Officer review in line with reference (a).  Any selectee with 
+outstanding medical waivers should contact the Submarine Non-Nuclear Enlisted 
+Community Manager and provide an expected timeline for completion within 30 
+days of the date time group of this message.
+
+4.  Enlisted Nuclear/Submarine Assignment Division (PERS-403) will contact 
+primary selectees within the next 30 days to arrange for transfer to Basic 
+Enlisted Submarine School to commence the submarine training pipeline.  
+Depending on the rating for which they were selected, Sailors can expect to 
+detach from their current commands from as early as Fall 2017 to as late as 
+Spring 2018.
+
+5.  Congratulations to the following Sailors also selected, who may be 
+contacted to convert to submarines if a primary selectee is unable to report 
+as assigned:
+
+CURRENT                                 CURRENT
+RATE       NAME                         COMMAND
+----       ----------------             ---------------
+ET1        PRIETO EDITH A               SUBPAC UNDERSEA WARFARE
+                                        OPERATIONS
+AS2        BOYLES MONETTE F             LPD 27 PCD SAN DIEGO
+EM2        CLESTER JOLEEN R             NOSC FARGO ND
+ABE2       RANJIT CHRISTINE D           NAS JACKSONVILLE
+HT2        WADHWANI ESPERANZA L         SOUTHWEST REGIONAL
+                                        MAINTENANCE CENTER
+YN3        BLAKE BRITTANY B             WALTER REED MEDICAL CENTER
+GSM3       HILL JULIE E                 DDG 111 USS SPRUANCE
+AM3        RHODES HANNAH N              VFA 94
+SN         ALCALA LISA M                US NAVAL ACADEMY
+AMAN       BRIGHT BRENDA C              VFA 213
+SN         MARTIN HARRIETT G            US NAVAL ACADEMY
+ABHAN      PATTERSON CARRIE L           NAVAL BASE CORONADO
+ABHAN      ROBINSON NATAKI A            CVN 69 USS EISENHOWER
+PSSN       TRUONG YEN N                 US NAVAL ACADEMY
+OSSN       VEGAGOAD HALEY M             CVN 68 USS NIMITZ
+BMSN       WILSON JAZMINE D             US NAVAL ACADEMY
+
+6.  Sailors listed in paragraph 5 may be called upon within 90 days to fill 
+an assignment on USS OHIO if a primary selectee is determined to be 
+ineligible for assignment onboard submarines.
+
+7.  The selections for nuclear-trained personnel will be made late Summer 
+2018.  Each USS OHIO crew will have two previous junior staff instructors 
+(JSI) and four prototype graduates.  These Sailors will transfer to the 
+submarine from the nuclear power training units (NPTU) in late 2018 after the 
+selections are made.  Female JSIs or Sailors in initial training interested 
+in volunteering for submarine duty should inform their chain of command.  In 
+early 2018, Nuclear Propulsion Program Manager (OPNAV (N133)) will send a 
+letter to each NPTU outlining the selection process.
+
+8.  Points of contact.  For Enlisted Women in Submarines questions, commands 
+and members can contact:
+     a.  BUPERS-32 Non-Nuclear Enlisted Community Manager
+CDR Jeremy Miller at (901) 874-2082/DSN 882 or jeremy.a.miller1(at)navy.mil.
+     b.  OPNAV (N133) Nuclear Propulsion Program Manager LCDR Christopher 
+Carter at (703) 604-5492/DSN 664 or christopher.j.carte1(at)navy.mil.
+     c.  PERS-403 Enlisted Nuclear/Submarine Assignment
+LCDR Thomas Digan at (901) 874-3626/DSN 882 thomas.e.digan(at)navy.mil.
+
+9.  Details for the Enlisted Women in Submarines Rating Conversion Cycle 4 
+will be announced separate correspondence in late Summer of 2017.
+
+10.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

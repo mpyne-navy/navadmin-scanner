@@ -1,0 +1,79 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 111747Z SEP 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 212/19
+
+PASS TO OFFICE CODES:
+CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6G3/SEP//
+
+SUBJ//ADOBE FLASH PLAYER END OF LIFE NOTICE AND IMPACT ASSESSMENT//
+
+REF/A/SECNAVINST 5230.15/10APR09//
+
+REF/B/DDCION MEMO/5000/SER N2N6BC/7U120021/27JAN17//
+
+REF/C/DON OCIO MEMO/WARNORD/01JUL19//
+
+NARR/REF A IS SECRETARY OF THE NAVY INSTRUCTION 5230.15 FOR INFORMATION 
+MANAGEMENT/INFORMATION TECHNOLOGY POLICY FOR FIELDING OF COMMERCIAL OFF THE 
+SHELF SOFTWARE.  REF B IS DEPUTY DIRECTOR CHIEF INFORMATION OFFICE (NAVY) 
+MEMORANDUM DTD 27 JAN 17 FOR UPDATED RISK MANAGEMENT FRAMEWORK IMPLEMENTATION 
+EFFICIENCY.  REF C IS DEPARTMENT OF THE NAVY DIRECTOR CHIEF INFORMATION 
+OFFICE MEMORANDUM FOR DEPARTMENT OF THE NAVY WARNING ORDER:  TRANSITION FROM 
+ADOBE FLASH DTD 1 JULY 2019.// POC/WENCE/CIV/OPNAV N2N6G33/TEL: 571-256-8513
+/EMAIL:  DEAN.E.WENCE(AT)NAVY.MIL//
+
+RMKS/1.  The purpose of this NAVADMIN is to inform the Navy that Adobe Flash 
+will no longer be supported.  Navy users must stop using Adobe Flash per 
+references (a) through (c) by 31 December 2020.
+
+2.  Adobe Flash is a multimedia software platform that many developers have 
+used to produce digital animations, 2D/3D graphics, simulations, and 
+streaming audio and video.  This digital content is then made available for 
+on-line viewing in a browser through use of the Flash Player plug-in.  Flash 
+is currently used throughout the Navy in applications and systems, such as 
+on-line training courses, technical and repair manuals, and desktop 
+applications.
+
+3.  Per Adobe, Flash Player will go end of life on 31 December 2020.  In 
+their official public announcement, Adobe stated that in collaboration with 
+their technology partners, they would stop updating and distributing the 
+Flash Player and encourage content creators to migrate any existing Flash 
+content to new open formats.  As a result, Microsoft, Google and Mozilla 
+announced that Flash Player plug-in will be disabled by default in their 
+browsers.
+
+4.  As part of a holistic approach, Deputy Director Chief Information Office 
+(Navy) will direct an impact assessment via DON Tracker to the Echelon II 
+Chief Information Office (CIO).  Each Echelon II CIO shall evaluate the scope 
+of Flash in their portfolios and provide an initial cost and resource 
+estimate to transition off of Flash.  Specific instructions will be added to 
+the tasker with the ultimate goal of fully assessing scope of impact and 
+identification of potential course of actions.
+
+5.  Reference documents are available on the following SharePoint
+link: https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC1
+/ESL/SitePages/Home.aspx
+
+6.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

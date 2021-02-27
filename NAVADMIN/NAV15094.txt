@@ -1,0 +1,95 @@
+UNCLASSIFIED/
+
+ROUTINE
+
+R 231954Z APR 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 094/15
+
+SUBJ/CYBERSAFE PROGRAM INITIAL OPERATIONAL CAPABILITY MESSAGE
+
+REF/A/LTR/IMPLEMENTATION PLANNING MEMO FOR NAVY CYBERSECURITY AND CYBERSAFE 
+PROGRAMS/25JUL2014//
+
+NARR/Reference (a) is the 25 July 2014 implementation planning memo for Navy 
+Cybersecurity and CYBERSAFE Programs which directed Task Force Cyber 
+Awakening (TFCA) to develop a CYBERSAFE Program establishment plan.
+
+RMKS/1.  This NAVADMIN provides information and guidance on the CYBERSAFE 
+Program.  The CYBERSAFE Program and CYBERSAFE Office were declared IOC on 21 
+April 2015.  CYBERSAFE Program guidance is provided in the Draft CYBERSAFE 
+Program Instruction.
+
+2.  Background.  The Chief of Naval Operations (CNO) directed establishment 
+of TFCA in response to compromises within navy networks, low fleet 
+cybersecurity inspection scores, and identification of warfighting platform 
+cyber vulnerabilities.  TFCA was formed under OPNAV N2N6 and tasked via 
+reference (a) to establish an enduring Navy CYBERSAFE Program, with a plan 
+for implementation by April 2015.  CYBERSAFE is a vital component of the 
+Navy*s comprehensive cybersecurity strategy and will provide maximum 
+reasonable assurance of survivability and resiliency of critical warfighting 
+information systems and platform information technology control system 
+components and processes.  CYBERSAFE implementation was endorsed by the TFCA 
+Executive Committee (EXCOM) on 15 April 2015 and approved by the CNO on 21 
+April 2015.  Following CNO approval, the CYBERSAFE Office was established 
+within TFCA on 22 April 2015.
+
+3.  CYBERSAFE Office.  The CYBERSAFE Office will oversee and coordinate the 
+creation of the Navy-wide CYBERSAFE Program.  The CYBERSAFE Office is led by 
+the CYBERSAFE Director, who will implement the Navy-wide CYBERSAFE Program 
+under the interim guidance contained in the Draft CYBERSAFE Program 
+Instruction.  The CYBERSAFE Director will also chair the CYBERSAFE Working 
+Group (CSWG).
+
+4.  CYBERSAFE Implementation.  The TFCA COMMANDER will oversee three phases 
+to achieve CYBERSAFE Program Full Operating Capability (FOC):
+    a.  Phase I (22 April 2015 - 15 August 2015):  Release 100-Day Plan; 
+develop CSWG charter; develop reporting mechanism for informing the CYBERSAFE 
+Office of incidents affecting CYBERSAFE components; review Field Activity 
+(Systems Commands, Program Executive Offices, US Fleet Forces Command, US 
+Pacific Fleet, US Fleet Cyber Command, Type Commanders, Military Sealift 
+Command, Commander Naval Installations Command, and Warfare Centers of 
+Excellence) developed CYBERSAFE Program implementation plans of action and 
+milestones (POA&M); conduct a 50-Day IPR with CNO.
+    b.  Phase II (15 August 2015 * 01 October 2015):  Align CYBERSAFE Office 
+to Post-TFCA cybersecurity governance construct; define relationship between 
+Field Activities for developing, reviewing, and implementing cyber readiness 
+conditions; establish a method for assessing cyber vulnerabilities and 
+establishing risk mitigations specific to CYBERSAFE; develop and approve 
+certification audit and functional audit methodologies.
+    c.  Phase III (FY 2016 * TBD):  Develop required policies for 
+maintenance, overhaul and modernization for continued operation of CYBERSAFE 
+components.
+
+5.  Tasking
+    a. The CYBERSAFE Director will convene the first meeting of the CSWG on
+7 May 2015.
+    b.  The CYBERSAFE Office will release a 100-Day Plan no later than 1 May 
+2015 outlining required tasks to achieve CYBERSAFE Program FOC.
+    c.  Field Activities shall establish CYBERSAFE Programs within their 
+scope of authority and provide CYBERSAFE points of contact (POC) to the 
+CYBERSAFE Office (CYBERSAFE Director) by 28 April 2015. Existing Command TFCA 
+POC will be utilized until an updated POC is provided.
+    d.  Field Activities shall provide a POA&M describing their 
+organization*s efforts to establish a CYBERSAFE Program to the CYBERSAFE 
+(CYBERSAFE Director) by 31 May 2015.  Specific tasking and deliverable 
+details SEPCOR.
+
+6.  CYBERSAFE Oversight.  The TFCA EXCOM will continue to provide oversight 
+and conduct progress review of the CYBERSAFE Program.
+
+7.  Released by VADM Ted N. Branch, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

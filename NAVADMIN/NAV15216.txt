@@ -1,0 +1,106 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 141502Z SEP 15
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 216/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/AUG//
+
+SUBJ/ CYBER HYGIENE AUTHORIZATION TO USE PERSONAL WEARABLE FITNESS DEVICES 
+(E.G. FITBIT, JAWBONE UP, ETC.) IN NAVY SPACES//
+
+REF/A/DOC/US Defense Intelligence Agency Ser U-15-0001/CIO-3 memo of May 
+2014//
+
+REF/B/DOC/DoDM 5200.01, Volume 3
+
+REF/C/DOC/Federal Communications Commission Office of Engineering and 
+Technology Bulletin Number 62, February 1996, Understanding the FCC 
+Regulations for Computers and Other Digital Devices
+
+REF/D/DOC/SECNAV M-5510.30
+
+AMPN/Reference (a) is the Defense Intelligence Agency (DIA) policy regarding 
+the use of personal wearable fitness devices in DIA spaces.  Reference (b) 
+sets forth information security requirements/direction for Command Security 
+Managers to follow.  Reference (c) defines the baseline for devices being 
+categorized as a Class B.  Reference (d) provides personnel security 
+requirements/direction for Command Security Managers.// POC/Ms. Brooke 
+Zimmerman/CIV/OPNAV N2N6BC4/TEL:  (571)256-8521/
+DSN:  260-8521/E-MAIL:  Brooke.Zimmerman(at)navy.mil////
+
+RMKS/1.  Consistent with references (a) and (b), Personal Wearable Fitness 
+Devices (PWFD) are hereby authorized in Navy spaces in accordance with the 
+specifications below.
+
+2.  Scope and Applicability.  This message applies to all Navy military, 
+civilian, and support contractor personnel.  Visitors not meeting the scope 
+and applicability of this message are not authorized to introduce these 
+devices in Navy spaces where collateral classified information is processed, 
+stored or discussed.
+
+3.  Discussion.
+    a.  Consistent with references (a) and (b), effective immediately, all 
+Navy personnel are hereby authorized, subject to local policy and capability 
+limitations below, to wear PWFDs (e.g., Fitbit, Jawbone Up, Nike Fuel Band, 
+etc.) in all Navy spaces where collateral classified information and 
+controlled unclassified information is processed, stored, or discussed.  This 
+authorization is applicable to Navy spaces located within the Continental 
+United States, Alaska, and Hawaii.  This authorization does not address 
+wearing PWFDs in Sensitive Compartmented Information Facilities.
+    b.  PWFDs are permitted:
+        (1) If commercially available in the United States (U.S.) or through 
+a U.S. military exchange, marketed primarily as fitness or sleep devices, and 
+designated as Federal Communication Commission (FCC) Class B digital devices 
+(denoted as FCC Class B certified, or FCC Class B exempt) as described in 
+reference (c).
+        (2) If they have Bluetooth, GPS (receive only), accelerometer, 
+altimeter, gyroscope, heart activity, vibration feature, or near field 
+communication capabilities.
+        (3) If they receive and contain vendor-supplied software updates that 
+do not add any features or capabilities prohibited below.
+    c.  PWFDs are prohibited:
+        (1) If they contain any external or conflicting hardware or software 
+modifications, including the installation of third party apps.
+        (2) If they contain cellular or Wi-Fi, photographic, video 
+capture/recording, microphone, or audio recording capabilities.
+        (3) In conjunction with USB accessories, including but not limited to 
+Bluetooth dongles and charging cables.
+        (4) From being connected to any government information systems.
+    d.  Responsibilities:
+        (1) Commands must ensure all personnel have read and understand this 
+NAVADMIN in its entirety, and must ensure personnel know PWFD electronic 
+emanations are subject to inspection and monitoring.
+        (2) Personnel who introduce PWFDs into areas where collateral 
+classified information and controlled unclassified information is processed, 
+stored, or discussed are responsible for ensuring their PWFDs meet the 
+criteria outlined above.
+	(3) Personnel who knowingly or willfully violate the requirements in 
+this NAVADMIN may be subject to a preliminary inquiry in accordance with 
+reference (b) and an incident report in the Joint Personnel Adjudication 
+System per reference (d).
+
+4.  This message was coordinated with Deputy Under Secretary of the Navy 
+(DUSN) for Policy Security as part of the Department of the Navys 
+cybersecurity/traditional security partnership for the protection of national 
+security information and information systems.
+
+5.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+6.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations, 
+Information Dominance, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

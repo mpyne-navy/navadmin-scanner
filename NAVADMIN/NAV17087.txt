@@ -1,0 +1,56 @@
+UNCLASSIFIED
+ROUTINE
+R 061658Z APR 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 087/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/NAVY KNOWLEDGE ONLINE SUNSET//
+
+RMKS/1.  With the successful launch of My Navy Portal (MNP), the Navy will 
+sunset Navy Knowledge Online (NKO) on 14 April 2017 and all NKO users will be 
+redirected to MNP at https://my.navy.mil for logon.
+
+2.  Navy e-Learning courses (also known as NKO courses) can now be found by 
+going to the MNP top navigation menu, hovering over Professional Resources 
+and clicking Navy e-Learning/Online Courses.  Electronic Training Jacket will 
+be found by hovering over My Record.  Navy e-Library resources are found at
+https://mwrdigitallibrary.navy.mil/.
+
+3.  Communities of Practice (COP), including Navy Advancement Center, General 
+Skills Training, Personnel Qualification Standards, Career Management, and 
+Learning and Development Roadmaps (LaDRs), are accessed by hovering over 
+Professional Resources or Organizations.  Users will also find a COP sitemap 
+by hovering over Organizations, selecting Communities of Practice and then 
+clicking Sitemap.
+
+4.  Navy organizations offering hyperlinks to NKO need to update and point 
+users to MNP at https://my.navy.mil.  Commands currently maintaining a COP 
+are directed to ensure their content is current and begin conducting all 
+relevant business in MNP.  Training and other helpful resources for COP site 
+administrators is available on MNP.  Hover over Support, select MNP Help, and 
+then click Administrator Tutorials.  Site administrators may also contact 
+MNP_Helpdesk(at)navy.mil for assistance.
+
+5.  More information about MNP can be found on the MNP help tab and on the 
+Navy Personnel Command Career Toolbox website at 
+http://www.public.navy.mil/bupers-npc/career/toolbox/Pages/default2.aspx
+
+6.  Point of contact is LCDR Eric Smith, OPNAV (N16), who can be reached at 
+(703) 604-5747/DSN 664 or via e-mail at eric.s.smith(at)navy.mil.
+
+7.  Released by Vice Admiral, R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

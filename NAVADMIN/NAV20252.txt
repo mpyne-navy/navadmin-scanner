@@ -1,0 +1,74 @@
+UNCLASSIFIED//
+ROUTINE
+R 111742Z SEP 20 MID200000097985U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 252/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/2020 TEMPORARY DEFERRAL OF SOCIAL SECURITY TAXES//
+
+REF/A/MEMO/PRESIDENTIAL/8AUG2020//
+NARR/REF A IS A MEMORANDUM FROM THE PRESIDENT OF THE UNITED STATES, DEFERRING 
+PAYROLL TAXES IN LIGHT OF THE ONGOING COVID-19 DISASTER.
+
+RMKS/1.  In line with reference (a), this NAVADMIN announces the temporary 
+deferral of social security (old age, survivors and disability insurance 
+(OASDI), as seen on the leave and earnings statement (LES) as *FICA-SOC 
+SECURITY*), tax withholdings through the end of the 2020 calendar year for 
+Navy members to provide relief during the coronavirus disease 2019 pandemic.  
+Collection of the deferred taxes will be taken from wages between 1 January 
+and 30 April 2021.
+
+2.  Effective September 2020 mid-month pay, the Defense Finance and 
+Accounting Service (DFAS) will temporarily defer the withholding of
+
+6.2 percent social security tax for active and reserve Sailors and midshipmen 
+if the monthly rate of basic pay is less than 8,666.66 dollars.  If the 
+monthly rate of basic pay is at or above this threshold, social security tax 
+withholding will not be affected by the temporary deferral.
+
+3.  Key facts
+    a.  The social security tax is labeled as *FICA-SOC SECURITY* on the LES 
+and is calculated as 6.2 percent of basic pay.
+    b.  This change is effective through the end of the 2020 calendar year 
+and only applies to social security tax withholding.
+Normal withholding of FICA-Social Security taxes will resume effective 1 
+January 2021.  In addition, collection of the deferred taxes will be taken 
+from wages between 1 January and 30 April 2021.
+Sailors who separate or retire in 2020 before the social security tax can be 
+collected in 2021 are still responsible for the social security tax 
+repayment.
+    c.  Personnel are not eligible to opt-out of the deferral if their basic 
+pay falls within the stated wage limits.  The deferral will happen 
+automatically.
+
+4.  Members will also receive notification from DFAS via Smartdocs.
+Additional information is available at
+https://www.dfas.mil/taxes/Social-Security-Deferral/.
+
+5.  Personnel with questions regarding the 2020 temporary deferral of social 
+security taxes are encouraged to contact their Command Financial Specialist, 
+a Personal Financial Manager at Fleet and Family Services or Military One 
+Source online at https://www.militaryonesource.mil, or contact MyNavy Career 
+Center, available 24/7, by phone at (833) 330-MNCC ((833) 330-6622) or via e-
+mail at askmncc(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

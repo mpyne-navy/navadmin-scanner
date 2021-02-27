@@ -1,0 +1,164 @@
+UNCLASSIFIED
+ROUTINE
+R 192209Z AUG 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 198/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/AUG//
+
+SUBJ/2015-2016 NAVY INFLUENZA VACCINATION AND REPORTING POLICY//
+
+REF/A/INST/DOD/02OCT2013//
+REF/B/MEMO/OASD (HA)/04APR2008//
+REF/C/DOC/32 CFR PART 199/10DEC2009//
+NARR/Ref A is DODI 6025.19 individual medical readiness addressing 
+responsibilities and procedures for monitoring and on Individual Medical 
+Readiness (IMR).  Ref B is the Assistant Secretary of Defense for Health 
+Affairs memo, mandating Department of Defense (DOD) civilian healthcare 
+worker influenza immunizations.  Ref C is 32 CFR part 199.21, civilian health 
+and medical program of the uniformed services (CHAMPUS)/TRICARE:  inclusion 
+of retail network pharmacies as authorized TRICARE providers for the 
+administration of TRICARE covered vaccines.// 
+POC/HMCM Dianne Seymour/Loc:  Wash DC/(703) 571-2949/Email: 
+dianne.seymour(at)navy.mil//
+
+RMKS/1.  Influenza or "flu" has the potential to adversely impact Navy force 
+readiness and mission execution.  Influenza results in more than 25 million 
+reported cases, 150,000 hospitalizations for serious complications and 
+approximately 24,000 deaths each year in the United States.
+
+2.  The following influenza vaccination and reporting policy is promulgated:
+    a.  Influenza Prevention.  Vaccination is the primary method to reduce 
+risk of influenza by enhancing force immunity.  Maintaining a clean work 
+environment, good hygiene practices, and managing workforce exposure (e.g., 
+social distancing, tele-working, sick leave, etc.) are effective methods to 
+reduce the risk of spreading influenza.
+    b.  Influenza Vaccine.  Both injectable and intranasal vaccines will be 
+available for the 2015-2016 influenza seasons.
+    c.  Influenza Vaccine Priority.  U.S. Navy ships and fleet assets have 
+been identified by the Defense Logistics Agency (DLA) as a vaccine priority 
+group for the 2015-2016 influenza season.
+    d.  Influenza Vaccine Requisitions.  The Navy on-line Vaccine Information 
+and Logistics System (VIALS) is the requisition system tool for seasonal 
+influenza vaccines.  VIALS is used to individually track requisitioned 
+vaccines via military standard requisitioning and issuing procedures and 
+simplify vaccine requisitions to enable electronic tracking of vaccine orders 
+from requisition to receipt. The VIALS website is Common Access Card (CAC) 
+enabled.  Please visit: Https://gov_only.nmlc.med.navy.mil/int_code03/vials/.
+    e.  Influenza Vaccine Ordering.  Navy influenza vaccine is batch-ordered 
+by Naval Medical Logistics Command (NMLC) from the DLA using command 
+requirements in Navy VIALS.  Navy influenza vaccine is centrally funded vice 
+individual Navy command funded.
+    f.  Influenza Vaccine Shipping.  Vaccine shipping schedule is 
+Monday/Friday to Outside the Contiguous United States (OCONUS) locations and 
+Monday/Tuesday/Wednesday to Contiguous United States (CONUS) locations to 
+ensure receipt on the receiving end.  DLA Troop Support Medical (DLA-TSM) 
+does not ship on holidays or weekends, over holidays, and will only ship on 
+Thursdays on a case by case basis.
+    g.  Influenza Vaccine Integrity:
+        (1) Active Duty Commands.  All shipments will arrive with temperature 
+monitors.  Monitors must be returned to the DLA-TSM cold chain office, 
+regardless of alarm status.  Temperature monitors must be shipped in 
+accordance with the provided instructions and shipping envelopes.
+            (a) No Alarm Status.  Units have 72 hours (three business working 
+days) from the time of receipt to document, administer, and report 
+vaccination.  The 72 hour (three business working days) requirement begins 
+immediately only if the temperature monitor is a no alarm upon receipt.
+            (b) Alarmed Status.  Do not administer vaccine and suspend the 
+vaccine in your refrigerator, as instructed.  Return the temperature monitor, 
+along with the completed instruction sheet, to DLA-TSM for approval or 
+disapproval to use the vaccine.  The 72 hour requirement does not begin until 
+the vaccine has been determined to be suitable for use by DLA-TSM.
+        (2) Reserve Component Commands.  All shipments will arrive with 
+temperature monitors.  Monitors must be returned to the DLA-TSM cold chain 
+office, regardless of alarm status.  Temperature monitors must be shipped in 
+accordance with the provided instructions and shipping envelope.
+            (a) No Alarm Status.  Units have one drill weekend from the time 
+of receipt to document, administer, and report vaccination. The one drill 
+weekend requirement begins immediately only if the temperature monitor is a 
+no alarm upon receipt.
+            (b) Alarmed Status.  Do not administer vaccine and suspend the 
+vaccine in your refrigerator, as instructed.  Return the temperature monitor, 
+along with the completed instruction sheet, to DLA-TSM for approval or 
+disapproval to use the vaccine.  Reserve units will have one drill weekend 
+from the time the vaccine is determined to be suitable for use by DLA-TSM.
+    h.  Influenza Vaccine Exercise.  Previous influenza seasons have been 
+used to exercise and evaluate mass vaccination scenarios.  These coordinated 
+mass vaccination campaigns provide rapid and efficient vaccinations to 
+protect the maximum number of susceptible persons. Based on lessons learned, 
+process improvements are made to delivery and reporting procedures.
+    i.  Influenza Vaccination Compliance.
+        (1) Navy Military Personnel.  The seasonal influenza vaccination is 
+mandatory for all Department of Defense (DoD) uniformed personnel who are not 
+medically or administratively exempt per reference (a).  Any refusal to 
+receive the influenza vaccine will constitute a failure to obey a lawful 
+order and may be punishable under the Uniform Code of Military Justice (UCMJ) 
+and/or result in administrative action.  Prior to receiving the influenza 
+vaccine, Navy active/reserve component personnel shall have access to 
+healthcare providers to discuss objections or concerns with influenza 
+vaccination.  Commands should consult with the servicing Staff Judge Advocate 
+General for additional guidance on influenza vaccination non-compliance.
+        (2) Navy Civilian Personnel.  Mandatory influenza vaccination is a 
+condition of employment for all civilian health care workers providing direct 
+patient care in DoD Medical Treatment Facilities (MTF), per reference (b).  
+Influenza vaccination is mandatory for all civilians where it is written in 
+their position description as a condition of employment.  Other Navy civilian 
+personnel are highly encouraged to receive influenza vaccinations.
+        (3) TRICARE Beneficiaries.  Reference (c) authorizes retail network 
+pharmacies to administer the seasonal influenza vaccine. TRICARE 
+beneficiaries may receive influenza vaccination with no co-pay at a retail 
+network pharmacy offering vaccines.  Beneficiaries are encouraged to contact 
+the pharmacy regarding age restrictions as some pharmacies do not administer 
+the flu vaccine to individuals less than 18 years of age.
+    j.  Influenza Vaccination Reporting.  Active and reserve component Navy 
+force vaccination administration compliance will be monitored via the Medical 
+Readiness Reporting System (MRRS). Designated command personnel will access 
+MRRS to track their personnel to ensure compliance.
+        (1) Commands will request unit code identification based access to 
+MRRS by submitting a system access authorization form available at:  
+https://mrrs.sscno.nmci.navy.mil/mrrs/secure/welcome.m
+(note:  MRRS web address is case sensitive).  Point Of Contact/MRRS program 
+Office/email:  mrrspo(at)navy.mil/(800) 573-4617/(504) 697-7070/DSN: 647-
+7070.
+        (2) Commands must ensure that documentation of influenza vaccine 
+administration is coded to accurately reflect the type of vaccine given 
+whether injectable or nasal.
+        (3) Afloat units will enter influenza immunizations into the 
+Shipboard Automated Medical System (SAMS)/Theater Medical Information Program 
+(TMIP) for subsequent transfer to MRRS.
+        (4) All personnel who receive the vaccination from a retail network 
+pharmacy must provide documentation of vaccination to the command not later 
+than the next duty or drill day to ensure compliance is appropriately 
+recorded in MRRS.
+        (5) Units have 72 hours (three business working days) from the time 
+of receipt to document, administer, and report vaccination. If the 72 hour 
+requirement cannot be met, unit situation reports will be submitted to the 
+respective Immediate Superior in Command (ISIC) and type commanders.  
+Situation reports are not required if the temperature monitor is in alarmed 
+status and the unit is merely awaiting disposition from DLA-TSM.
+    k.  Navy Goals and Performance Standards.
+        (1) All Navy operational units and MTFS will administer the 2015-2016 
+flu vaccination to meet 90 percent vaccination by 15 December 2015 for active 
+and reserve component, and 100 percent vaccine access total for Navy family 
+(includes dependents, other beneficiaries and department of the navy 
+civilians).  Active coordination between command leadership, public affairs 
+officers, and medical personnel is necessary to achieve success.
+        (2) Influenza Vaccination Performance Standards.  The following 
+metrics will be monitored:
+            (a) Navy VIALS reports 100 percent of shipped vaccine received on 
+board by fleet and Navy units by 1 December 2015.
+            (b) MRRS reports 90 percent of active and reserve component 
+vaccinated by 15 December 2015.  Commands will coordinate with the servicing 
+MTF to align command-wide vaccinations with Navy vaccination goals.  Medical 
+personnel at servicing MTFS will expeditiously report vaccinations in MRRS.
+
+3. Released by Vice Admiral R. R. Braun, USN.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

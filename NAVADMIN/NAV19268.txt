@@ -1,0 +1,31 @@
+UNCLASSIFIED//
+ROUTINE
+R 262200Z NOV 19 MID510000736585U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 268/19
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO//
+
+SUBJ/FLYING THE NATIONAL FLAG AT HALF-MAST IN HONOR OF ADMIRAL JAMES L. 
+HOLLOWAY III, USN (RET), 20TH CHIEF OF NAVAL OPERATIONS//
+
+RMKS/1.  Commencing today, until sunset on Monday, 2 December 2019, the 
+National Flag will be flown at half-mast on all Navy ships and stations to 
+honor Admiral James L. Holloway III, former Chief of Naval Operations.
+
+2.  On the date of his interment, the National Flag will be flown at half-
+mast from sunrise to sunset.  A separate message will be released to announce 
+the date of interment.
+
+3.  Released by Admiral Michael M. Gilday, Chief of Naval Operations.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

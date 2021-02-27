@@ -1,0 +1,89 @@
+UNCLASSIFIED//
+ROUTINE
+R 051546Z JAN 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 004/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/DOMESTIC VIOLENCE INCIDENT COUNT-CONSEQUENT COMMAND ACTIONS//
+
+REF/A/MSG/CNO WASHINGTON DC/131857ZFEB15//
+REF/B/LTR/OSD/10APR14/NOTAL//
+NARR/REF A IS NAVADMIN 037/15, DOMESTIC VIOLENCE INCIDENT COUNT-CONSEQUENT 
+COMMAND ACTIONS.  REF B IS AN UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND 
+READINESS MEMORANDUM FOR SECRETARIES OF THE MILITARY DEPARTMENTS CHAIRMAN OF 
+THE JOINT CHIEFS OF STAFF, DOMESTIC VIOLENCE INCIDENT COUNT AND CONSEQUENT 
+COMMAND ACTIONS.//
+
+RMKS/1.  This NAVADMIN provides amplifying information for reference (a) 
+regarding the Navy Domestic Violence Incident Count and Consequent Command 
+Action (DVIC-CCA) collection and reporting plan. Reference (b) directed each 
+service to develop a plan to collect and submit the number of DVIC-CCAs for 
+incidents that meet specifically defined criteria.
+
+2.  Commander Navy Installations Command (CNIC) responsibilities.  
+CNIC will:
+    a.  Direct the installation Family Advocacy Clinicians in consultations 
+with Clinical Case Staff Meetings (CCSM) to review all domestic violence 
+incidents (DVI) and assign a severity level using Department of Defense 
+Family Advocacy Program Incident Severity Scale.  Incidents that meet DVIC-
+CCA reporting criteria shall be reported to the parent command of the Service 
+Member by CCSM letter and recorded in the Navy Central Registry (NCR).
+    b.  Forward NCR reportable DVI data to Director, 21st Century Office 
+(OPNAV (N17)) quarterly (15 January, 15 April, 15 July, 15 October) and final 
+report no later than 30 November.  At a minimum, data will include: 
+
+        (1) Command Name
+        (2) Command Primary Unit Identification Code (UIC)
+        (3) Incident Report Date
+        (4) Category of Abuse/Severity
+        (5) Name of Service Member Offender
+
+3.  Echelon II responsibilities.  Echelon II commanders will establish Family 
+Advocacy Liaisons throughout their enterprises to facilitate timely reporting 
+of DVIC-CCA reports and also follow-up on missing reports if required.
+
+4.  Commanders responsibilities
+    a.  Report completed command actions for incidents that were determined 
+by Family Advocacy Program (FAP) to meet the incident severity scale criteria 
+by fiscal year via encrypted e-mail to DVIC_CCA(at)navy.mil no later than 
+five days after the command action is complete.  The report shall include: 
+
+        (1) Command Name
+        (2) Command Primary UIC
+        (3) Incident Report Date and DTG of SITREP if applicable
+        (4) Category of Abuse/Severity as notified by FAP
+        (5) Name of Service Member Offender
+        (6) Consequent Command Action
+        (7) Command Point of Contact Information 
+
+    b.  Issuing military protective order or treatment through FAP/Fleet and 
+Family Support Center is not a reportable CCA.  If the commander decides not 
+to pursue command action the CCA would be reported as "No Action Taken" in 
+the OTHER category.  No action taken is usually the result of insufficient 
+evidence for disciplinary processing or the commander made a determination 
+that no action would be taken because disciplinary or administrative action 
+was not warranted under guidance as cited in Rules for Courts-Martial 306.
+
+5.  Additional information on DVIC/CCA is available at
+http://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/familyadvocacy/Pages/default.aspx.
+
+6.  Point of contact is Mr. Aaron Wagner, DVIC-CCA Action Officer, at (901) 
+874-6969 or via e-mail at aaron.wagner(at)navy.mil.
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

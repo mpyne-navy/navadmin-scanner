@@ -1,0 +1,77 @@
+UNCLASSIFIED
+ROUTINE
+R 181220Z DEC 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 290/15
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2/N6/DEC//
+
+SUBJ/USE OF UNCLASSIFIED NAVY AND MARINE CORPS INTRANET LAPTOPS WITH EMBEDDED 
+WIRELESS//
+
+REF/A/DOC/DoD Directive 8100.02/23APR07//
+REF/B/DOC/DoDM 5200.01, Volume 3/19MAR13//
+NARR/Reference (a) is DoD Directive 8100.02, Use of Commercial Wireless 
+Devices, Services, and Technologies in the Department of Defense (DoD) Global 
+Information Grid.  Reference (b) is DoDM 5200.01, Volume 3, Change 2, DoD 
+Information Security Program:  Protection of Classified Information.//
+POC/MS. ANDI ST. JOHN/CIV/OPNAV N2/N6BC1/TEL: (571) 256-8512 
+/ANDREA.STJOHN(AT)NAVY.MIL
+
+RMKS/1.  Per references (a) and (b), this message establishes the policy for 
+acceptable use of Navy and Marine Corps Intranet (NMCI) unclassified laptops 
+with embedded Wi-Fi (802.11) capability in spaces where collateral classified 
+information is processed.
+
+2.  NMCI unclassified laptops, procured through the Next Generation 
+Enterprise Network contract, are equipped with embedded Wi-Fi technology.  
+Embedded Wi-Fi technology is provided to enable mobile networking, such as 
+telework or travel; however, it is not designed for use in DoN spaces where 
+classified information is processed.  Therefore, commands issuing NMCI 
+laptops with embedded Wi-Fi to users whose official capacity requires them to 
+work in DoN spaces where collateral classified information is processed must 
+adhere to the following additional requirements:
+    a.  Devices must be physically connected to the unclassified network 
+(i.e. via network cable or placed in docking station) before powering on.  
+Conversely, devices shall be powered off before being physically disconnected 
+from the unclassified network. Following the above standard operating 
+procedures will ensure the embedded wireless transmitter remains disabled 
+while in spaces where collateral classified information is processed.
+    b.  Disable the devices embedded wireless transmitter using the physical 
+switch (toggle switch, push-button style, or airplane mode) prior to entry 
+into, removal from docking station, or when operating within spaces where 
+collateral classified information is processed.  Users are responsible for 
+verifying the devices wireless transmitter has been disabled.
+    c.  Navy commands must include the above requirements as part of command 
+indoctrination, security orientation briefs, and annual Information Assurance 
+Training.
+    d.  Users issued devices with embedded wireless technology must be aware 
+of and acknowledge the above requirements as an addendum to the System 
+Authorization Access Request form, OPNAV 5239/14, prior to being granted 
+permission to work in spaces where collateral classified information is 
+processed.
+    e.  Above requirements must be documented in the NMCI certification and 
+accreditation baseline for specific make/model laptops to confirm that 
+procedures are in place to prevent activation of the embedded Wi-Fi 
+capability.
+
+3.  Control measures outlined above, coupled with cyber and information 
+security program coordination, will aid in mitigating risks to classified 
+information and networks from wireless technology.  This is an intermediate 
+step.  Additional measures to include wireless detection/jamming will be 
+implemented via separate correspondence.
+
+4.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+5.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations for
+Information Dominance, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

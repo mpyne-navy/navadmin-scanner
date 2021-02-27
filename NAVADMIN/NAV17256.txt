@@ -1,0 +1,78 @@
+UNCLASSIFIED
+ROUTINE
+R 241340Z OCT 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS //N01420//
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 256/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/NOTICE OF CONVENING FY-19 ACTIVE-DUTY REAR ADMIRAL (LOWER HALF) SPECIAL 
+DUTY OFFICER (PUBLIC AFFAIRS) SELECTION BOARD//
+
+RMKS/1.  The FY-19 Selection Board to recommend Navy Special Duty Officer 
+(Public Affairs) officers on the Active-Duty List serving in the grade of 
+captain for promotion to the grade of rear admiral (lower half) will be 
+convened as follows:
+
+         30 NOV 17  Special Duty Officer (Public Affairs)
+
+2.  The following lists the name, Active-Duty List number, and date
+of rank of the senior and junior officer initially eligible for
+consideration for promotion in the competitive category listed as of
+the date of this NAVADMIN.
+               Rear Admiral (lower half)
+------ Special Duty Officer (Public Affairs) (165X) ------
+Sr Initial Eligible  Derrick, A. E.             015933-50  1 SEP 15
+Jr Initial Eligible  Kent, T. S.                016045-50  1 OCT 15
+
+3.  Only eligible officers may communicate directly with a selection board.  
+Correspondence must arrive NLT than the day before the convening date of the 
+board and shall be addressed to:  President FY-19 Active Rear Admiral (lower 
+half), Special Duty Officer (Public Affairs) Promotion Selection Board, Board 
+#XXX (board number is a required field and may be found on the FY-19 
+selection board schedule located at http://www.public.navy.mil/bupers-
+npc/boards/Pages/default.aspx) 5720 Integrity Drive, Millington, TN
+38055-6300.  To check on receipt of your package, go to
+http://www.public.navy.mil/bupers-
+npc/boards/activedutyofficer/Pages/default.aspx and enter the customer 
+Service center link (check on your letter to the board) or contact the 
+Customer Service Center at (866)827-5672.  Written communication may call to 
+the attention of the board any matter concerning himself/herself that the 
+officer considers important. The written communication must be in accordance 
+with MILPERSMAN article 1420-010 and may include, as enclosures, 
+correspondence from any individual concerning the eligible officer.  
+Correspondence not originated by the eligible officer, including endorsements 
+to the officer's letter, and letters written on behalf of that officer, must 
+contain a written acknowledgement by the eligible officer that he or she 
+desires that such correspondence be presented to the board.  Correspondence 
+without such acknowledgment is considered third party correspondence and will 
+be returned.  Classified correspondence will not be accepted.
+
+4.  The cscselboard(at)navy.mil mailbox account is capable of receiving 
+encrypted correspondence IAW DoD policy.  If you are sending your board 
+package from a non NMCI network (bumed.mil, usmc.mil, etc), please visit 
+https://dod411.gds.disa.mil to download the required mailbox certificate.  To 
+download the "cert" (please note, you must be using MS outlook with a CAC 
+reader, including "activclient" software and have internet explorer or 
+Netscape 7), go to https://dod411.gds.disa.mil, type cscselboard(at)navy.mil 
+in the "e-mail address" field, then click "search."  Click the "CSC" link 
+under "last name".  Click on the link "download certificate(s) as vcard".  
+Click "software certificate for cscselboard(at)navy.mil". Click the "open" 
+button for the file download popup.  The certificate will then open.  Click 
+"save and close".  The certificate is then saved to the profile and can be 
+used to send your encrypted e-mail.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

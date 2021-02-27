@@ -1,0 +1,45 @@
+UNCLASSIFIED//
+ROUTINE
+R 251522Z NOV 19 MID510000728347U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 264/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/SENATE CONFIRMATION OF OFFICERS SELECTED BY THE FY-20 ACTIVE-DUTY NAVY 
+LIEUTENANT COMMANDER LINE BOARDS//
+
+REF/A/MSG/SECNAV WASHINGTON/231500ZAUG19//
+REF/B/DOC/SECNAV/30OCT18//
+NARR/REF A IS ALNAV 058/19, FY-20 ACTIVE-DUTY NAVY LIEUTENANT COMMANDER LINE 
+SELECTIONS.  REF B IS SECNAVINST 1420.2B, FROCKING OF COMMISSIONED 
+OFFICERS.//
+
+RMKS/1.  This NAVADMIN announces the Senate confirmed nomination of officers 
+listed in reference (a) for promotion to the grade of active-duty lieutenant 
+commander line in the U.S. Navy on 31 October 2019.
+
+2.  Frocking of officers is not authorized without specific approval from the 
+Chief of Naval Personnel.  Individual requests for frocking of officers 
+should be submitted in line with reference (b).
+
+3.  Point of contact is Mrs. Jacqueline Hoye at (901) 874-4895/DSN 882, or 
+via e-mail at jacqueline.hoye(at)navy.mil.
+
+4.  This message is canceled for record purposes on 31 October 2020.
+
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

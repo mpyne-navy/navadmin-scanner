@@ -1,0 +1,72 @@
+RTTUZYUW RUEWMCS0135 1641429-UUUU--RUCRNAD.
+ZNR UUUUU
+R 131429Z JUN 14
+FM CNO WASHINGTON DC//N2N6// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N2N6//
+PEO C4I SAN DIEGO CA//PMW170//
+COMSPAWARSYSCOM SAN DIEGO CA//FRD//
+SPAWAR ATLANTIC CHARLESTON SC//N00//
+NAVCYBERFOR NORFOLK VA//N00//
+BT
+UNCLAS//N02000// 
+
+NAVADMIN 135/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/-/JUN// 
+
+SUBJ/COMMERCIAL SATCOM - IRIDIUM USER INFORMATION// 
+
+REF/A/EMAIL/OPNAV N2N6FP31/10 JAN 14//
+AMPN/REF A SENT TO ALL NAVY BUDGET SUBMITTING OFFICES REQUESTING FUNDING 
+INFORMATION FOR NAVY COMMAND USAGE OF IRIDIUM.// 
+
+RMKS/1.  The purpose of this NAVADMIN is to provide information to all Navy 
+users of the Commercial SATCOM (Iridium) capability. 
+
+2.  The Defense Information Systems Agency (DISA) awarded a new Iridium 
+airtime contract on October 22, 2013, which is effective through October 21, 
+2018.  One significant change from the previous contract is that the DISA 
+Enhance Mobile Satellite Services program will now bill a fixed enterprise 
+cost to all Department of Defense (DoD) and Federal Government agency 
+customers.  Billing is no longer applied on a per device basis.  There are no 
+additional costs for increasing subscriptions and or usage.  The services 
+provided are global secure voice, short burst data (SBD), router-based 
+unrestricted digital interworking connectivity solution, paging, and 
+distributed tactical communication systems (DTCS -also known as Netted 
+Iridium).
+
+3.  With this new DISA contract, the services and federal partners are 
+required to program funding prior to the start of each fiscal year and pay 
+all use with a single bill payer.  Starting FY-2014, (1 October 2013) 
+individual Navy commands will no longer pay for Iridium airtime.  The airtime 
+will be resourced by OPNAV N2/N6 via a single DISA Program Designator Code 
+(PDC).  N2/N6 coordinated with the Office of Budget/Fiscal Management 
+Division and the Budget Submitting Offices (BSOs) during the President's 
+Budget (PB) FY-2015 to realign BSO Iridium resources to the N2/N6 PDC, 
+central budget line item at SPAWAR PB-2015, Program Budget Information System 
+(PBIS) Issue 71373.  Individual Navy commands must continue to maintain their 
+PDC line of accounting in order to purchase new Iridium communications 
+devices, and pay the activation fee for SBD radios, DTCS radios, and DTCS 
+networks.  The cost of equipment and activation will be the only costs for 
+users. 
+
+4.  All Navy commands utilizing Iridium to meet voice requirements must 
+acquire the Iridium 9505A handset, tamper seal, and the Iridium secure module 
+through the DISA direct order entry website for connection to the DoD 
+enhanced mobile satellite services gateway in Hawaii.  Contact the Navy 
+Iridium helpdesk for assistance.  
+https://www.disadirect.disa.mil/products/asp/welcome.asp refers.
+
+5.  Points of contact are LCDR Nicole Nigro at (571) 256-8235 or 
+nicole.nigro(at)navy.mil; Patrick Sullivan at (703) 695-7997 or 
+patrick.sullivan(at)navy.mil; Steve Lord at (571) 256-8233 or 
+stephen.lord(at)navy.mil; Tom Giese, Navy Iridium Help Desk at (843) 218-3371 
+or tom.giese(at)navy.mil.//
+
+6.  Released by Vice Admiral Ted N. Branch, Deputy Chief of Naval Operations 
+for Information Dominance, OPNAV N2N6.//
+BT
+#0000
+NNNN
+

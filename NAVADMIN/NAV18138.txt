@@ -1,0 +1,140 @@
+UNCLASSIFIED
+ROUTINE
+R 311325Z MAY 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 138/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/DEPLOYMENT OF WINDOWS 10 TO NMCI (UPDATE 2)//
+
+REF/A/LTR/DOD CIO/20NOV15//
+REF/B/LTR/DEPSECDEF/8JAN18//
+REF/C/NAVADMIN 038/18/R 202004ZFEB 18//
+REF/D/UAB/NNWC/24APR18//
+REF/E/NAVADMIN 108/18/R 031453Z MAY 18//
+NARR/REF A IS THE DEPARTMENT OF DEFENSE (DOD) CHIEF INFORMATION OFFICER (CIO) 
+MEMORANDUM, MIGRATION TO MICROSOFT WINDOWS 10 (WIN10) SECURE HOST BASELINE 
+(SHB).  
+REF B IS DEPUTY SECRETARY OF DEFENSE (DEPSECDEF) MEMORANDUM PROMULGATING 
+DEADLINE FOR MIGRATING OFFICE INFORMATION TECHNOLOGY WORKSTATIONS TO THE DOD 
+WIN10 SHB.  
+REF C IS INITIAL NAVADMIN DETAILING DEPLOYMENT OF WIN10 TO THE NAVY MARINE 
+CORPS INTRANET (NMCI).  
+REF D IS NAVAL NETWORK WARFARE COMMAND USER AWARENESS BULLETIN ON ENERGY 
+SAVING DURING WIN10 MIGRATION.  
+REF E IS THE SECOND NAVADMIN IN THIS SERIES OF NMCI WIN10 ENTERPRISE 
+MIGRATION UPDATES.//
+POC/WIN10 COORDINATION CENTER/CIV/PMW-205/-/EMAIL:
+WIN10COORDINATIO.FCT@NAVY.MIL/202-685-0471//
+POC/NEN CUSTOMER ENGAGEMENT MANAGERS/CIV/PMW-205/-/EMAIL:  
+PMW_205_NEN_CEM(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN is the third in a series of NAVADMINs providing 
+updates on the NMCI Secret Internet Protocol Routing Network (SIPRNet) and 
+Non-Classified Internet Protocol Routing Network (NIPRNet) enterprise 
+migration to WIN10 SHB due to complete by 30 June 2018.  Migration to WIN10 
+SHB is necessary to improve Cybersecurity, promote standardization across the 
+Naval Enterprise Network, and comply with the DoD mandates.  This message 
+outlines current status, efforts to resolve challenges, and timelines for 
+resolution.  Specific responsibilities required to ensure completion of the 
+transition to the WIN10 SHB for all NMCI seats by 30 June
+2018 are addressed below.  It also provides an updated plan for SIPRNet 
+rollout in spaces that are not approved for 24-7 Open Storage Secret.
+
+2.  The NMCI enterprise migration to WIN10 SHB is continuing with the NIPRNet 
+migration status at 70 percent complete and the SIPRNet migration at 37 
+percent complete.  The biggest migration challenges seen-to-date are:
+    a.  The NMCI Service Desk is experiencing much higher than expected call 
+volume which has resulted in a significant Service Desk backlog (this 
+includes email, enterprise self-service, and
+voicemail) and has impacted resolution times for users.  For expectation 
+management, the average time to resolve a trouble ticket is currently at 
+seven days.  This is due to numerous issues with the
+WIN10 upgrade and other large scale software updates.
+    b.  NIPRNet machines physically disconnected from the network at the time 
+of a scheduled In Place Upgrade (IPU) and not being upgraded on time.  Seats 
+that are not physically connected to the NMCI enterprise at the time of 
+upgrade are being reported daily to the commands CIO and Contract Technical 
+Representatives (CTR).
+    c.  Configuration management and standardization.  Each make, model, and 
+variant of computer, among other unique factors, requires its own solution to 
+be designed and implemented.  The identification and documenting of these 
+unique configurations is being compiled and issues are being resolved as 
+quickly as possible.
+
+3.  The Service Desk is working issues in the order in which they are 
+reported and prioritizes users whose machines are completely inoperable to 
+resolve first.  Manpower has been increased by the contractor so trouble 
+tickets can be cleared more quickly.
+
+4.  Command CIOs and CTRs will aggressively track the scheduled upgrades for 
+their commands and ensure planned seat migrations execute as scheduled.  
+Detailed scheduling and reporting capabilities are available to the CTRs.  
+Users receiving the IPU push must leave seats connected for five days before 
+and during the upgrade.  Stress to users the importance of maintaining the 
+scheduled migration dates for each seat and provide each user with 
+information about their
+WIN10 migration method and their scheduled upgrade date.  Remind users of 
+reference (d), direction regarding end of day actions.
+Users still on Windows 7 - select "Restart" vice Shutdown, and select No when 
+prompted for Green Shutdown.  This allows the computer to receive software 
+patches and perform standard maintenance in preparation for WIN10 migration.
+    a.  The program office has established daily Wipe and Reimage (W
+&R) coordination and collaboration meetings with all Field service locations, 
+command CTRs, and program office leadership.  Domain level meetings are held 
+daily except Wednesdays.  East Coast domain is at 1300 EDT and West Coast 
+domain is at 1600 EDT.  On Wednesdays there is an Enterprise wide 
+coordination call that is held at 1500 EDT.  Dial in information for each 
+call is:
+       (1) East Domain call is: 571-508-0000 (PIN 431238)
+       (2) West Domain call is: 571-508-0000 (PIN 443450)
+       (3) Enterprise call is: 571-508-0000 (PIN 832349)
+    b.  For seats that are not online during their scheduled IPU push, the 
+upgrade will start as soon as the computer is reconnected.  Users should plan 
+to be without that computer for 24 hours and to use another computer on the 
+network.
+
+5.  Individual User Responsibilities:
+    a.  Consult with your CTR to know when your computer is scheduled for 
+technical refresh, W&R or to receive the IPU.  Your NIPRNet computer must 
+remain plugged in via cable to the network and powered on for five days prior 
+to your upgrade date.  Disable the power saver feature so the computer 
+remains powered on.
+    b.  Plan to be without your computer for 24 hours on your scheduled date.  
+This will not affect your ability to log in to other computers and to access 
+your data on the NMCI shared drives.  If you submit a trouble ticket, with 
+current call volume it is expected to be cleared within seven days.
+    c.  Backup data on your computer to a shared drive or external hard drive 
+(if you have one) so that you can retrieve your data after your migration.  
+Contact your IT Support staff for alternate backup methods if your data 
+backup requirements exceed your share drive capacity.
+
+6.  SIPRNet Migration to WIN10 is under way via Technical Refresh and W&R.  
+The SIPRNet IPU process will begin 1 June.  Detailed planning, by machine 
+name, is in progress to account for all of the different connection methods 
+in the SIPRNet environment.
+
+7.  Any computer that has not migrated on schedule will be quarantined and 
+not allowed on the network until the upgrade is complete.  The quarantined 
+seat will have no access to network resources (email, share drive, internet).  
+Users of quarantined computers can use another computer to access their 
+information and should contact the command CTR or IT Support staff to have 
+their computer migrated to WIN10.
+
+8.  Released by VADM Jan E. Tighe, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

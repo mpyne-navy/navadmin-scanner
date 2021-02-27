@@ -1,0 +1,272 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 122237Z JUN 20 MID510001261460U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 169/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/PERMANENT CHANGE OF STATION POST STOP MOVEMENT PRIORITY PLAN//
+
+REF/A/MSG/OPNAV/122138ZJUN20//
+REF/B/DOC/OSD/22MAY20//
+REF/C/MSG/OPNAV/042027ZMAY20//
+REF/D/DOC/USFFC/USPACFLT/16AUG19//NOTAL//
+REF/E/MSG/OPNAV/221516ZDEC17//
+REF/F/MEMO/DOA/20MAY20//
+
+NARR/REF A IS NAVADMIN 168/20, NAVY MITIGATION MEASURES IN RESPONSE TO 
+CORONAVIRUS OUTBREAK UPDATE 5.  
+REF B IS SECRETARY OF DEFENSE
+(SECDEF) MEMO ON TRANSITION TO CONDITIONS-BASED PHASED APPROACH TO 
+CORONAVIRUS DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL RESTRICTIONS.
+REF C IS NAVADMIN 132/20, FORCE MANAGEMENT OPERATIONAL MITIGATION MEASURES IN 
+RESPONSE TO CORONAVIRUS OUTBREAK.  
+REF D IS U.S. FLEET FORCES COMMAND-U.S. PACIFIC FLEET NOTICE 1000, SEA DUTY 
+MANNING TARGET LEVELS.  
+REF E IS NAVADMIN 307/17, ALIGNMENT OF ENLISTMENT CONTRACTS WITH DUTY STATION 
+TOUR LENGTHS.  
+REF F IS DEPARTMENT OF THE ARMY (DOA) MEMO ON PASSPORT PROCESSING DURING 
+COVID-19 PANDEMIC.//
+
+RMKS/1.  This NAVADMIN details how Navy Personnel Command (NPC) will work to 
+eliminate the temporary backlog of five months of Sailors due to transfer as 
+locations and installations achieve the conditions outlined in reference (b).   
+There are 42,000 Sailors with Permanent Change of Station (PCS) orders 
+delayed due to COVID- 19.  As conditions allow for the easing of stop 
+movement orders, household goods (HHG) and transportation logistics will 
+initially limit the number of Sailors that can be moved at one time.
+
+2.  Until full HHG and transportation capacities are restored, NPC will 
+prioritize transfers that emphasize fleet readiness while striving for 
+contact relief in operational sea duty billets.  This will likely involve the 
+delay and/or acceleration of Estimated Dates of Departure (EDDs) of Sailors.
+
+3.  Background
+    a.  COVID-19 has created a complex challenge to how the Navy balances the 
+distribution of Sailors and maintains fleet readiness.
+Interruptions to the Navy accessions supply chain and inability to complete 
+prioritized turnover moves have contributed to an increase of operational 
+gaps at sea.  Solving this problem will require engaged leadership, 
+flexibility and patience among Sailors and commands.
+    b.  References (a) and (b) and previous guidance have forced Sailors with 
+EDDs in March, April, May and June 2020 to delay their transfer.  When 
+combined with Sailors due to detach in July 2020, transfer backlog of the 
+Navy is almost 42,000 Sailors.
+    c.  Reference (a) details that travel restrictions may be lifted or 
+relaxed incrementally by location or installation, taking into account local 
+health conditions and criteria.  These relaxations will be tracked by the 
+Office of the Under Secretary of Defense for Personnel and Readiness 
+(USD(PR)).  In areas remaining under stop movement conditions, the exemption 
+and waiver processes described in reference (a) will continue to apply.  PCS 
+orders will continue to include Restriction of Movement (ROM) periods for 
+Sailors traveling to or from these areas, to include intermediate stops.  
+Travel may be restricted even between areas which have satisfied the criteria 
+in reference (a) if the travel includes an intermediate stop (I- stop), 
+layover or airline connection in an area which remains under stop-movement.
+    d.  During the summer, the highest volume move season, U.S.
+Transportation Command (USTC) will not immediately be able to support 
+Department of Defense (DoD) and Navy demand for PCS moves.
+As a result, Navy will follow DoD criteria for lifting restrictions on travel 
+and PCS orders.  These criteria will take into account local conditions in 
+countries, states and installations based on prevailing COVID risk 
+conditions.  This means that relaxation of the global stop-movement will not 
+mean unrestricted movement to and from all locations simultaneously.  
+Eliminating the PCS backlog could extend beyond the end of calendar year 
+2020.
+    e.  The ultimate goal is for Navy to preserve its maritime superiority by 
+focusing on fleet readiness.  Once we have eliminated the COVID-created 
+backlog, NPC will return to a distribution environment where Sailors transfer 
+based on their original EDD.
+
+4.  Policy
+    a.  NPC will use every option available to maintain fleet readiness.  
+These options include prioritization of move timing based on the priority of 
+billets, incentivizing sea duty as outlined in reference (c) and adjustment 
+of EDDs.
+    b.  For the entire group of Sailors affected, even those in categories 
+exempted under reference (a), NPC will prioritize all PCS moves based on the 
+impacts of fleet readiness rather than solely on a Projected Rotation Date 
+(PRD) of the Sailor.  Those Sailors transferring to high priority units will 
+move first.  This will entail shortening shore duty tours by up to 6 months.  
+Sailors transferring from high priority units will move last.  This will 
+entail extending Sailors on sea duty by up to 6 months.  In each case, NPC 
+will work with the Service Member, gaining and losing commands to evaluate 
+potential hardships and impacts on readiness.
+        (1)  High priority units are those specifically designated 
+*operational sea duty.*  NPC will continue to work with Commander, U.S. Fleet 
+Forces Command (USFF), Commander, U.S. Pacific Fleet (CPF) and Type 
+Commanders (TYCOM) to prioritize *operational sea duty* billets over other 
+sea duty, using reference (d) and current operational requirements as 
+guidance.
+        (2)  Operational sea duty includes strategic and special operations 
+forces, Forward Deployed Naval Forces (FDNF) and Optimized Fleet Response 
+Plan (OFRP) units with a published manning date (M-date), normally 12 months 
+before the deployment date.
+        (3)  Special consideration will be given to Sailors serving in or 
+ordered to critical accession pipeline billets on shore duty (Recruit 
+Training Command, Officer Training Command, Navy Recruiting Commands, and 
+essential production support training sites).  This consideration will ensure 
+those commands continue with manning to operate with an acceptable level of 
+risk to their critical training missions and preserve the flow of accession 
+Sailors to the fleet.
+        (4)  The next group of priorities will be Sailors transferring to 
+milestone billets, OSD validated key billets, special program billets and 
+students heading to civilian or service schools (e.g., Naval War College, 
+Naval Postgraduate School, Senior Enlisted Academy).
+        (5)  The next group of priorities will be Sailors transferring 
+outside the continental U.S. (OCONUS) shore duty, Major or Numbered Fleet 
+Staffs, Combatant Commander staffs or Joint Staffs and Office of the 
+Secretary of Defense.
+        (6)  The next group of priorities will be non-operational sea duty to 
+include units that are in the maintenance phase and Pre- Commissioning.
+        (7) The final group of priorities will be all other continental U.S. 
+(CONUS) shore duty.
+    c.  NPC acknowledges that vacancies may exist at lower priority commands 
+and will work to minimize those shortfalls.
+    d.  Detailers will contact those Sailors with orders to transfer in March 
+through September 2020 to determine any economic hardships or transfer 
+limitations.  Placement officers will work with USFF, CPF and TYCOMs to 
+determine readiness impacts.  The transfer of a Sailor will be determined by 
+the priority system listed in subparagraph 4b and may be adjusted up to 6 
+months to facilitate contact relief.
+    e.  For Sailors with PRDs in October 2020 and beyond, detailers will 
+review the postings of all Sailors on higher priority units to determine if a 
+relief has been identified.  For those Sailors with a relief identified, the 
+detailer may adjust the EDD of the incumbent to match the Estimated Date of 
+Arrival (EDA) of the relief to facilitate a contact relief.  When 
+appropriate, detailers may consider moving the relief from shore duty early 
+to lessen the extension impact on the incumbent.  Those Service Members 
+without a relief identified shall have their EDD extended up to 6 months past 
+their current PRD.  The EDD may be readjusted when a relief is identified in 
+the future to minimize overlap.
+        (1)  Using information gathered from Sailors, USFF, CPF and TYCOMs, 
+NPC will issue order modifications as required.  Those modifications will 
+have a No Earlier Than (NET) or No Later Than (NLT) date on when the Service 
+Member can conduct a HHG move.
+Sailors are encouraged to use the MyPCS mobile app, available from the Navy 
+App Locker (https://www.applocker.navy.mil) to schedule and manage their HHG 
+move.
+        (2)  Sailors conducting local geographic transfers, no-cost PCS moves 
+or Personally Procured Moves (PPM), also commonly referred to as Do-It-
+Yourself (DITY) moves, are not exempt and may still be subject to an orders 
+modification.  The intent of Sailors and pursuit of these options will reduce 
+the overall demand for HHG moves by a contracted moving company, reducing 
+pressure on USTC and personal property offices.  PPM/DITY moves in particular 
+allow a Sailor to move HHG when best for the Sailor and family, even if fleet 
+readiness concerns adjust the timing of the actual detachment of the Sailor 
+from the losing command.
+    f.  In coordination with USFF and CPF, NPC may need to renegotiate 
+already-released orders to maximize readiness of operational sea duty units, 
+accession pipelines and increase the number of same geographic location and 
+no-cost moves.  For the extent of the COVID recovery, near-term readiness may 
+eclipse career progression or duty station preferences.
+    g.  In special circumstances, and with Career Management Pillar
+(PERS-4) concurrence, some Sailors may be extended 7-12 months as they await 
+a contact relief.  All efforts will be made to minimize these extensions.  A 
+new Assignment Incentive Pay to compensate those Sailors extended greater 
+than 6 months beyond their PRD has been proposed by Navy to the Assistant 
+Secretary of the Navy for Manpower and Reserve Affairs (ASN(M&RA)) and 
+approval is expected shortly.  Sailors that are in Sea Duty Incentive Pay 
+(SDIP) eligible skills and extend for 12 months or more may receive SDIP 
+instead.
+All Sailors are encouraged to consider the incentives for voluntary 
+extensions outlined in reference (c).
+    h.  To ensure NPC and gaining commands have the most accurate information 
+of projected Sailor arrivals, all enlisted orders received shall be 
+acknowledged by the losing command to their Immediate Superior in Command 
+(ISIC) with a statement of the intent of their affected Sailor to execute the 
+orders, in line with reference (e).  Commands with enlisted personnel who do 
+not intend to execute a received set of orders (i.e., separate at PRD) shall 
+notify PERS-4013 as soon as possible.  Commands shall ensure all gains and 
+losses are accounted for in Navy Standard Integrated Personnel System (NSIPS) 
+in a timely manner.
+    i.  Sailors with retirement or fleet reserve orders and enlisted 
+personnel with End of Active Obligated Service (EAOS) dates before their PRDs 
+who do not intend to re-enlist will be exempt from this direction.
+    j.  Conditions outlined in reference (a) will be achieved in stages 
+geographically.  Local restrictions will persist after the initial 
+relaxations.  NPC will take local Health Protection Conditions (HPCONs) and 
+international, state and local government policies into account when 
+determining PCS transfer timelines.  NPC may delay moves, even into an area 
+cleared for PCS movement, in the interest of fleet readiness.
+    k.  Passport and Visa Issuance.  As outlined in reference (f), Service 
+Members, DoD civilians and dependents on PCS orders to OCONUS locations 
+requiring a no-fee passport, pursuant to the foreign clearance guide, will 
+submit passport applications to their local passport acceptance facility no 
+earlier than 60 days and no later than 45 days from OCONUS departure date.  
+If a visa is also required, the passport application will be submitted no 
+earlier than 80 days and no later than 65 days before departure date.
+        (1) Failure to adhere to these timeframes increases the chance that 
+command-sponsored dependents will not receive their passport and/or visa in 
+time to travel concurrently with their DoD sponsors.
+        (2) Service Members, DoD civilians and command-sponsored dependents 
+on PCS orders to OCONUS locations with departure dates before 30 June 2020, 
+and who are traveling under one of the stop movement order exemptions 
+approved by reference (a) or have been granted an exception to policy to the 
+stop movement order, should immediately submit their passport applications if 
+they have not already done so.
+    l.  Delayed Dependent Travel (DDT).  Sailors in receipt of PCS orders 
+with a transfer date before 1 September 2020 may request DDT to the new 
+permanent duty station of up to 180 days due to coronavirus.  Sailors with a 
+transfer date before the stop movement termination date will receive up to 
+180 days delay from the termination date.  Personnel with a transfer date 
+after the termination date will receive up to 180 days from the transfer 
+date.
+        (1) Service Members with dependents in elementary or secondary school 
+(K-12) may request DDT until the end of the school year or 30 June 2021, 
+whichever occurs first.  Service Members are only entitled to one housing 
+allowance and Family Separation Allowance will not be authorized.
+        (2) Navy Personnel Command (PERS-451) will be the approval authority 
+for DDT from locations within CONUS.  Due to possible Status of Forces 
+Agreement (SOFA) concerns, Military Pay and Compensation Branch (OPNAV N130) 
+will be the approval authority for DDT from locations OCONUS.  For personnel 
+who were previously approved for DDT, PERS-451 and OPNAV N130 are authorized 
+to approve extensions related to COVID-19 on a case-by-case basis.
+
+5.  Key messages
+    a.  Sailors.  The emphasis on operational readiness and unit 
+prioritization reflects our identity as a Sea Service.  NPC must preserve the 
+readiness of the Fleet by ensuring that PCS moves are executed to maintain 
+manning at key commands.  This will result in changes to tour lengths as we 
+move Sailors to sea duty early and hold Sailors on sea duty beyond their EDD.  
+I encourage all Sailors to review the incentives outlined in reference (c) 
+and consider extending at sea or volunteering for sea duty.  I know that this 
+will induce additional hardship for some Sailors and families and I thank you 
+and them for your service and sacrifice.  Please trust that every Sailor on 
+the MyNavy HR team will work hard to minimize this impact.
+    b.  Commands.  Commanders, commanding officers, executive officers and 
+senior enlisted leaders must ensure their Sailors understand the intent of 
+this message.  Further, command leaders should engage their Sailors, discuss 
+the COVID-19 affect on the economy and encourage your best Sailors to stay 
+Navy, taking advantage of incentives in reference (c).  Your engagement and 
+recruitment of your Sailors to stay Navy makes a difference.
+
+6.  Points of Contact.  Questions regarding the changing of the EDD of a 
+Sailor should be referred to the appropriate detailer.
+Detailer contact information is available through MyNavyPortal
+(https://my.navy.mil) or by contacting the MyNavy Career Center at 
+askmncc(at)navy.mil or 1-833-330-MNCC (6622).
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

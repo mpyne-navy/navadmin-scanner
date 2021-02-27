@@ -1,0 +1,94 @@
+UNCLASSIFIED
+ROUTINE
+R 171350Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 177/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL///
+
+SUBJ/NUCLEAR TRAINED SAILOR APPLICATIONS TO OFFICER COMMISSIONING PROGRAMS 
+AND MODIFICATION TO FY-19 NUCLEAR LIMITED DUTY OFFICER IN-SERVICE PROCUREMENT 
+BOARD PROCESS//
+
+REF/A/MSG/OPNAV/221403ZMAR13//
+REF/B/DOC/OPNAV/14DEC09//
+REF/C/MSG/OPNAV/131346ZAPR17//
+AMPN/ REF A IS NAVADMIN 070/13, NUCLEAR TRAINED SAILOR APPLICATIONS TO 
+OFFICER COMMISSIONING PROGRAMS.  
+REF B IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.  
+REF C IS NAVADMIN 090/17 FY-19 ACTIVE-DUTY LIMITED DUTY OFFICER AND CHIEF 
+WARRANT OFFICER IN-SERVICE PROCUREMENT BOARDS.//
+
+RMKS/1.  This NAVADMIN supersedes reference (a) and continues the requirement 
+for Sailors assigned to a Nuclear Training Command or holding a Nuclear Navy 
+Enlisted Classification (NEC) (335X, 336X, 338X, 339X) applying to a non-
+nuclear officer commissioning program to obtain conditional release from 
+Nuclear field duty.
+
+2.  To obtain a conditional release, a Sailor must submit an Enlisted 
+Personnel Action Request (NAVPERS 1306/7) to the Nuclear Propulsion Program 
+Management Branch (OPNAV N133) via their detailer in Enlisted 
+Nuclear/Submarine Assignment Division (PERS-403). Applicants must obtain a 
+conditional release prior to submitting their application for a non-nuclear 
+officer commissioning program. All other requirements for application to 
+officer commissioning programs are listed in reference (b).
+
+3.  Officer accession boards are only to consider nuclear enlisted applicants 
+with a conditional release included in their program application with the 
+exception of those applicants listed in paragraphs 4 and 5 below.
+
+4.  Conditional releases for the Seaman to Admiral-21 Program-Nuclear Option 
+(STA-21(N)) and Nuclear Limited Duty Officer (LDO) Program are no longer 
+required.
+
+5.  Reference (c) announced the requirements for the FY-19 LDO In-service 
+Procurement Board (ISPB).  For Nuclear-trained applicants, the guidance in 
+reference (b) and reference (c) for the LDO ISPB is modified as follows:
+    a.  The requirement of reference (c), paragraph 4.b.(2) to
+obtain a conditional release for the Nuclear LDO program is cancelled by this 
+message.
+    b.  The Nuclear LDO ISPB will be convened as a separate administrative 
+board in conjunction with the Submarine Major Command Board in November 2017.
+    c.  The Nuclear LDO application must be postmarked by 1 October 2017.  
+Addendums will not be accepted.
+    d.  Applicants for the Nuclear LDO program are required to only complete 
+pages 1, 2, 6 and 10 of the Officer Program Application (OPNAV 1420/1 (Rev 
+01-08)) application.  The commanding officer/officer in charge endorsement 
+located on page 10 of OPNAV 1420/1 (Rev 01-08) must contain the following 
+statement:  "Applicant meets all requirements outlined in OPNAVINST 1420.1B, 
+NAVADMIN XXX/17 (use the NAVADMIN # for this message), and the physical 
+fitness standards of OPNAVINST 6110.1J."
+    e.  The three-person interview appraisal board with associated appraisal 
+sheets and medical documentation of color vision test are not required.
+    f.  All Nuclear LDO applicant packages will be forwarded from the 
+Enlisted Boards Branch (PERS-803) to OPNAV N133 for collating and staffing to 
+Naval Reactors for screening prior to being presented to the Nuclear LDO 
+ISPB.
+    g.  Sailors selected for Nuclear LDO will still require a separate 
+technical interview at Naval Reactors to receive a commission.  Those Sailors 
+who do not successfully complete a final technical interview will maintain 
+their enlisted status and not be commissioned as LDOs.  Technical interviews 
+will be scheduled by Nuclear Placement and Assignments (PERS-422) and 
+selectees notified via separate correspondence.
+    h.  Applications submitted prior to the release of this NAVADMIN 
+containing additional information no longer required do not need to be 
+resubmitted.
+
+6.  Point of contact is LCDR Christopher Carter, Nuclear Enlisted Program 
+Manager, N133D, at (703) 604-5493 or via e-mail at nxag_N133d(at)navy.mil.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

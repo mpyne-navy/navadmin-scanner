@@ -1,0 +1,95 @@
+UNCLASSIFIED
+ROUTINE
+R 291647Z NOV 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 261/16
+
+SUBJ/ATHOC WIDE AREA ALERT NOTIFICATION SYSTEM REGISTRATION//
+
+REF/A/DOC/CNICINST 2000.3/01NOV10//
+REF/B/DOC/DODINST 6055.17/13JAN09//
+REF/C/DOC/OPNAVINST 3440.17A/01AUG14//
+REF/D/DOC/CNICINST 3440.17/23JAN06//
+NARR/REF A is the CNIC Wide Area Alert Network instruction. References B thru 
+D establish requirements for mass warning and notification of installation 
+personnel during crises or other emergency events.//RMKS/1.  This NAVADMIN 
+promulgates guidance for individual registration on the AtHoc Wide Area Alert 
+Notification (WAAN) system. The AtHoc WAAN system provides Navy installations 
+with an effective mass warning notification system during a crisis to warn 
+affected Sailors and civilians who live and work on Navy installations.
+
+2.  Background:
+    a.  Crisis events ranging from natural disasters to the shootings at the 
+Washington Navy Yard and Chattanooga have demonstrated the requirement to 
+rapidly disseminate emergency information to personnel. In 2008, Navy 
+deployed the AtHoc WAAN system with desktop software to meet this requirement 
+at shore installations.
+    b.  The AtHoc WAAN system is installed on all Navy Marine Corps Intranet 
+(NMCI) and ONE-Net workstations and benefits the workforce by providing real-
+time emergency alerts to the base population.  User registration of contact 
+information is critical to the effectiveness of phone, e-mail, and text 
+notifications.
+    c.  REF A provides guidance, requirements, and assignment of 
+responsibilities for WAAN implementation.
+
+3.  System description:
+    a.  The AtHoc WAAN system provides Computer Desktop
+Notification System (CDNS) and Automated Telephonic Notification System 
+(ATNS) notifications.  CDNS and ATNS are deployed to NMCI and ONE-Net users 
+via the AtHoc self-service client application, which starts automatically on 
+workstations at startup.
+    b.  All users are automatically registered to receive CDNS computer 
+desktop pop-up messages at their workstation.  CDNS is Common Access Card 
+(CAC) enabled when users log into their NMCI or ONE-Net workstation.  
+Individual registration is not required in order to receive CDNS alerts.
+    c.  ATNS requires manual user registration of telephone numbers and e-
+mail addresses through the AtHoc self-service client application to receive 
+telephonic, e-mail, and text alerts.
+
+4.  All shore commands, activities, and installations are expected to:
+    a.  Ensure all assigned personnel with NMCI or ONE-Net accounts register 
+their duty phone and duty e-mail with the AtHoc self-service client 
+application, and highly encourage voluntary registration of personal contact 
+information.
+    b.  Educate all concerned on the purpose of the AtHoc WAAN system, its 
+value to mission assurance, and the benefit to individuals who work or live 
+on Navy facilities.
+    c.  Incorporate the AtHoc self-service client registration procedure 
+detailed in paragraph 5 of this message into standing installation and tenant 
+activity welcome aboard, indoctrination, and check-in and out processes.
+    d.  Apply command and supervisor leadership and influence down to the 
+deck plate level to supervise and monitor AtHoc WAAN registration.
+
+5.  AtHoc self-service client registration procedure.  NMCI and ONE-Net users 
+shall register contact information via the AtHoc self-service client using 
+the following directions:
+    a.  Right-click on the AtHoc self-service client ('Purple Globe') icon in 
+the users system tray located at the bottom right corner of the computer 
+screen.
+    b.  Select "Access self-service" from the pop up menu.
+    c.  When the AtHoc self-service client opens, select the "My
+    info" tab and update your last name, first name, and display name and 
+save.
+    d.  Select the "Devices" tab and register your duty phone and duty e-mail 
+and save.  Voluntary registration of personal contact information is highly 
+encouraged.
+    e.  This completes the registration process.
+
+6.  Please contact the Navy 311 Help Desk at 866-742-5550 (OCONUS:  809-463 
+3376, then 1-866-742-5550) for assistance with technical issues using the 
+AtHoc self-service client.
+
+7.  Point of contact is Mr. Owen McIntyre, CNIC N37 at 202-433-4728 or 
+e-mail:  owen.mcintyre(at)navy.mil.
+
+8.  Released by Vice Admiral J. G. Foggo, Director, Navy Staff
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,155 @@
+UNCLASSIFIED
+ROUTINE
+R 091453Z OCT 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 237/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/ENLISTED SUPERVISOR RETENTION PAY  UPDATE TO BONUS MULTIPLES//
+
+REF/A/MSG/CNO WASHINGTON DC/102129ZDEC12//
+REF/B/MSG/CNO WASHINGTON DC/141500ZOCT11//
+REF/C/LTR/OPNAV/9AUG13/NOTAL//
+NARR/REF A IS NAVADMIN 370/12, POLICY UPDATE TO ENLISTED SUPERVISOR RETENTION 
+PAY (ESRP) MULTIPLES.  REF B IS NAVADMIN 308/11, ENLISTED SUPERVISOR 
+RETENTION PAY PROGRAM.  REF C IS ENLISTED SUPERVISOR RETENTION PAY POLICY 
+MEMORANDUM.//
+
+RMKS/1.  This NAVADMIN supersedes references (a) and (b).
+
+2.  Summary.  Enlisted Supervisor Retention Pay (ESRP) is a targeted 
+retention pay intended to encourage the continued service of highly-trained 
+and experienced nuclear-trained Sailors and reward those who continue to 
+serve in the nuclear enlisted communitys most challenging at-sea billets.
+
+3.  Award Multiples.  Increased ESRP award levels are effective immediately.  
+The new multiples are listed below.  The changes from previous multiples are 
+shown in parentheses. 
+
+    a.  ESRP Zones 1 multiples:
+Rating        PNEC   Zone 1
+ETSS  (NUC)   3363   9.5
+EMSS  (NUC)   3364   6.0 (+1.0)
+MMSS  (NUC)   3365   7.5 (+0.5)
+ELTSS (NUC)   3366   8.0
+ETSW  (NUC)   3393   7.5 (+2.0)
+EMSW  (NUC)   3394   6.0 (+1.5)
+MMSW  (NUC)   3395   6.5 (+1.5)
+ELTSW (NUC)   3396   6.5 (+1.5)
+    b.  ESRP Zone 2 multiples:
+Rating        PNEC   Zone 2
+ETSS  (NUC)   3363   3.5 (+1.0)
+EMSS  (NUC)   3364   3.5 (+1.0)
+MMSS  (NUC)   3365   3.5 (+1.0)
+ELTSS (NUC)   3366   3.5 (+1.0)
+ETSW  (NUC)   3393   3.5 (+1.0)
+EMSW  (NUC)   3394   3.5 (+1.0)
+MMSW  (NUC)   3395   3.5 (+1.0)
+ELTSW (NUC)   3396   3.5 (+1.0)
+    c.  ESRP Zone 3 multiples:
+                      AOS        AOS        AOS
+Rating        PNEC   0-24mos  25-36mos     37+mos
+ETSS  (NUC)   3363   0.5      1.5 (+0.5)   2.5 (+1.0)
+EMSS  (NUC)   3364   0.5      1.5 (+0.5)   2.5 (+1.0)
+MMSS  (NUC)   3365   0.5      1.5 (+0.5)   2.5 (+1.0)
+ELTSS (NUC)   3366   0.5      1.5 (+0.5)   2.5 (+1.0)
+ETSW  (NUC)   3393   0.5      1.5 (+0.5)   2.5 (+1.0)
+EMSW  (NUC)   3394   0.5      1.5 (+0.5)   2.5 (+1.0)
+MMSW  (NUC)   3395   0.5      1.5 (+0.5)   2.5 (+1.0)
+ELTSW (NUC)   3396   0.5      1.5 (+0.5)   2.5 (+1.0) 
+
+    d.  No action is required from Sailors with pending reenlistment 
+requests.  The Nuclear Enlisted Program Manager (N133D) is designated as the 
+ESRP Program Manager and will reapprove all pending reenlistment requests 
+that have increased award levels.
+
+4.  Eligibility.  Only Sailors assigned an active supervisory nuclear naval 
+enlisted classification (NEC) listed in paragraph 3 are eligible to reenlist 
+for ESRP.  ESRP requests for personnel being processed for NEC removal or 
+restoration will be held in abeyance pending final resolution.  Overall ESRP 
+eligibility requirements are defined in reference (c).  In addition, to 
+encourage career progression and provide incentive for continued superior at-
+sea service, the following supplementary eligibility requirements remain in 
+place for each ESRP zone:
+    a.  ESRP Zone 1.  In addition to the requirements of reference (c), be 
+assigned an active nuclear supervisory NEC (see paragraph 3).
+    b.  ESRP Zone 2.  In addition to the requirements of reference (c), be a 
+frocked chief petty officer or in pay grade E-7, E-8, or E-9 on the date of 
+the ESRP Zone 2 reenlistment.
+    c.  ESRP Zone 3.  In addition to the requirements of reference (c);
+        (1) Be a frocked E-8 or in pay grade E-8 or E-9 on the date of the 
+ESRP Zone 3 reenlistment.
+        (2) Have successfully previously served as, be currently serving as, 
+or have accepted orders as a submarine engineering department master chief, 
+nuclear aircraft carrier (CVN) leading chief petty officer, or CVN reactor 
+department master chief.
+
+5.  Application Process.  ESRP reenlistment requests will be submitted 35-120 
+days in advance of the member's desired reenlistment date to ensure the 
+approval message is released in a timely manner.  Exceptions to this policy 
+will be approved by the ESRP program manager on an individual basis.
+    a.  Officer Personnel Information System (OPINS) Force Management System 
+is programmed to process ESRP reenlistment requests and employs the same 
+process used to request and approve selective reenlistment bonus reenlistment 
+requests.  Career counselors and personnel support detachments are familiar 
+with this program and should use it as the primary method of ESRP request 
+submission.  The ESRP request type is 3AA for Sailors on active duty and 3BB 
+for broken service requests.
+    b.  In the event OPINS is not available, the command can e-mail (scanned 
+copy of request), or mail the request directly to the ESRP program manager 
+utilizing the format found in reference (c).  If operational commitments 
+limit the ability to submit ESRP applications via this manner, commands 
+should submit the ESRP request via message to the immediate superior in 
+charge, who can submit the OPINS request.  ESRP requests sent directly to the 
+ESRP program manager by message or mail may result in a processing delay.
+    c.  E-6 and below Zone 1 Sailors not already obligated beyond 14 years of 
+service will require an approved Career Waypoints (C-WAY) reenlistment quota.  
+C-WAY submission and quota approval can be pursued in parallel with the OPINS 
+request for ESRP.
+    d.  A Sailor must be preapproved for an ESRP reenlistment.  ESRP approval 
+will not currently notify the Defense Joint Military Pay System (DJMS) of the 
+Sailor's intent to reenlist.  Until DJMS can be programmed to accept ESRP 
+reenlistment payments, manual processing is required.  Payments should post 
+to the Sailor's account within 14 days following the day the ESRP program 
+manager receives notification of reenlistment.  Initial payment will be 
+authorized as soon as the contract execution is reflected in the enlisted 
+master file (EMF).  In order to ensure prompt payment, new contracts must be 
+posted to the EMF in a timely manner.
+    e.  Personnel Support Detachments and commands should contact N133D vice 
+Defense Finance and Accounting System to resolve any payment issues.
+    f.  A Sailor with an approved pre-certification, who does not reenlist on 
+the date specified in the pre-certification message, must resubmit a request 
+to revise the reenlistment date and ESRP award amount.
+
+6.  Recoupment.  Receipt of any ESRP bonus is contingent upon the fulfillment 
+of the specific conditions of eligibility, service, and assignment of the 
+ESRP program.  A Sailor who fails to fulfill these specified conditions 
+during the period of service agreed upon shall repay the U.S. Navy any 
+unearned portion of the bonus.  Situations requiring repayment are provided 
+in reference (c).
+
+7.  Service Record Entry.  A NAVPERS 1070/613 entry acknowledging recoupment 
+policy is required to be entered into the service members record prior to 
+execution of an ESRP reenlistment; examples are provided in reference (c).
+
+8.  ESRP-eligible Sailors and their command career counselors should review 
+reference (c), which provides further program details. Reference (c) can be 
+found on the nuclear enlisted community manager 
+website:  http://www.public.navy.mil/bupers-
+npc/enlisted/community/nuclear/Pages/default.aspx.
+
+9.  Point of contact is N133D, at (703)604-5502/5491/5492/5493/DSN 664 or via 
+e-mail at nxag_n133d3(at)navy.mil or bullnuke(at)navy.mil.
+
+10.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

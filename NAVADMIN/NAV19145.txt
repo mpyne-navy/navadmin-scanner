@@ -1,0 +1,84 @@
+UNCLASSIFIED//
+ROUTINE
+R 011551Z JUL 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 145/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/MOBILIZATION DEFERMENT POLICY UPDATE FOR AFFILIATION WITH THE SELECTED 
+RESERVE//
+
+REF/A/GENADMIN/CNO N1 WASHINGTON DC/161306ZJAN07//
+REF/B/DOC/USC/9JUL52//
+REF/C/DOC/COMNAVRESFOR/19JUL18//
+NARR/REF A IS NAVADMIN 007/07, MOBILIZATION DEFERMENT POLICY FOR TRANSITION 
+FROM ACTIVE COMPONENT TO RESERVE COMPONENT. 
+REF B REF B IS TITLE 10 U.S. CODE SECTION 12302, READY RESERVE.  
+REF C IS THE NAVY RESERVE PERSONNEL MANUAL.//
+
+RMKS/1.  This NAVADMIN supersedes reference (a).  Reference (b) authorizes 
+involuntary recall of any Reservist to active service, with consideration for 
+fair treatment.  Reference (c) further promulgates mobilization deferment 
+guidance.
+
+2.  Active Component (AC) and Reserve Component (RC) Sailors continue to 
+support global operational requirements with dedication and outstanding 
+service to the Fleet and Combatant Commanders.
+
+3.  In support of veterans who choose to affiliate with the Navy Reserve (as 
+drilling Reservists in a pay status), to allow for a reasonable transition 
+period, the following involuntary mobilization deferment policy is 
+implemented upon release of this NAVADMIN.
+
+4.  Program Guidance
+    a.  All Navy Veteran (NAVET) and Other Service Veteran (OSVET) personnel, 
+to include those members of the Individual Ready Reserve, (Voluntary Training 
+Unit and Active Status Pool) who affiliate with the Navy Reserve qualify for 
+a 1-year deferment from involuntary mobilization, commencing on the Selected 
+Reserve affiliation date.
+All NAVET and OSVET personnel who affiliate within 6 months (183 days) of 
+release from Active Duty qualify for a 2-year deferment from involuntary 
+mobilization, commencing on the Selected Reserve affiliation date.  Members 
+qualify for one mobilization deferment, associated with their first Navy 
+Reserve affiliation.
+    b.  Deferments are applicable under current operational tempo and apply 
+to all Sailors who affiliate through the NAVET or OSVET program (regardless 
+of previous deployment schedule, last duty station, Navy enlisted 
+classification held or designator).  All direct Navy Reserve accessions, upon 
+transitioning to Selected Reserve status following initial training 
+period(s), remain ineligible for deferment.
+    c.  Upon transitioning, the Sailors gaining Navy Operational Support 
+Center (NOSC) will ensure a Manpower Availability Status (MAS) code of AS1 
+(for a 1-year deferment) or TS1 (for a 2-year deferment) is entered into the 
+Navy Standard Integrated Personnel System.  The NOSC will ensure NAVETS and 
+OSVETS are properly coded on the Reserve Unit Activity Document and will 
+track the total time of deferment.  Upon reaching the end of the deferment 
+period, the NOSC will remove the MAS code.  Accurate accounting of the 
+effective dates for the AS1 and TS1 MAS codes is imperative.
+    d.  Sailors may volunteer for a mobilization at any time during the 
+deferment period.  Upon signing Administrative Remarks (NAVPERS 1070/613) 
+voluntary waiver of deferment, the NOSC will remove or change the MAS code to 
+VOL (from AS1 or TS1) to reflect a volunteer status.  If the Sailor desires 
+to remove the VOL MAS code and is not currently identified for mobilization, 
+the AS1 or TS1 may be re-entered until the original 1- or 2-year deferment 
+date from affiliation has passed.
+
+5.  This policy will be maintained and updated by the Chief of Navy Reserve 
+through the Navy Reserve Personnel Manual M-1001.5.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

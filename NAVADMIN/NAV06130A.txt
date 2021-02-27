@@ -1,0 +1,532 @@
+RAAUZYUW RUENAAA0001 1241837-UUUU--RUCRNAD.
+ZNR UUUUU ZUI RUEWMCF9386 1242229
+R 041837Z MAY 06 PSN 874503K27
+FM CNO WASHINGTON DC//N1NT//
+TO NAVADMIN
+INFO RHMFIUU/CNO WASHINGTON DC//N1NT//
+RUENAAA/CNO WASHINGTON DC//N1NT//
+BT
+UNCLAS //N01306//
+SECTION 01/02
+NAVADMIN 130/06
+MSGID/GENADMIN/CNO WASHINGTON DC/N1NT/APR//
+SUBJ/SEA SHORE ROTATION (SSR) LENGTH REVISIONS//
+REF/A/MSG/CNO WASHINGTON DC/281838Z/DEC2001//
+NARR/REF A IS NAVADMIN 341/01, SSR TOUR LENGTH REVISION//
+GENTEXT/REMARKS/1.  THIS NAVADMIN ANNOUNCES NECESSARY CHANGES TO
+EXISTING SEA/SHORE TOUR LENGTHS (REF A) DUE TO CHANGES IN THE NAVY
+BILLET STRUCTURE AND INDIVIDUAL RATING SEA/SHORE BILLET RATIOS.
+THESE NEW TOUR LENGTHS ARE DESIGNED TO BETTER ALIGN PROJECTED
+PERSONNEL INVENTORIES WITH FUNDED BILLET REQUIREMENTS.  WE HAVE BEEN
+MAKING ASSIGNMENTS BASED ON A SSR THAT REFLECTS THE BILLET BASE OF
+2001 AND DOES NOT TAKE INTO ACCOUNT THE ALMOST 19.6K ENLISTED SHORE
+DUTY BILLETS THAT HAVE BEEN PROGRAMMED FOR ELIMINATION TO DATE.
+2.  THE SEA/SHORE ROTATIONS ANNOUNCED IN THIS MESSAGE APPLY TO ALL
+ACTIVE DUTY PERSONNEL AND SUPERCEDE ROTATIONS ANNOUNCED IN REF A.
+CURRENT FULL-TIME SUPPORT (FTS) SEA/SHORE ROTATION POLICY WILL
+REMAIN IN EFFECT UNTIL REALIGNMENT OF THE FTS BILLET STRUCTURE IS
+COMPLETE, ANTICIPATED IN MAR 07.
+3.  COMNAVPERSCOM WILL ADJUST PROJECTED ROTATION DATES (PRDS) BASED
+ON LENGTH OF TOUR REMAINING.  IN ORDER TO MINIMIZE TURBULENCE IN
+PERSONAL PLANNING, PRDS OF FEB 07 OR EARLIER WILL NOT BE ADJUSTED.
+COMNAVPERSCOM IS AUTHORIZED TO ADJUST A PRD TO REFLECT A SENIOR
+PAYGRADE FOR SAILORS WHO ARE ADVANCED IN GRADE DURING THEIR CURRENT
+TOUR.  THIS DECISION WILL BE MADE BASED ON OVERALL MANNING IN THE
+COMMAND, PROJECTION OF FUTURE ROTATIONS TO FILL TO THE NEW PRD, AND
+ENHANCEMENT TO THE CAREER DEVELOPMENT OF THE SAILOR AT THE NEW
+PAYGRADE.
+4.  WE ARE PREPARING FOR SOME FUNDAMENTAL CHANGES IN HOW WE DO
+BUSINESS.  NEW SHIPS AND SQUADRONS COMING ON LINE WILL REQUIRE
+DIFFERENT MANNING CONSTRUCTS FROM THOSE IN THE FLEET TODAY.  THE
+SEA/SHORE ROTATION CHANGES OUTLINED IN THIS NAVADMIN SHOULD BE
+CONSIDERED AN INTERIM STEP AS WE WORK TOWARD NEW MANNING CONSTRUCTS.
+ THE SEA/SHORE ROTATION WORKING GROUP, WHICH INCLUDES FLEET
+REPRESENTATIVES, IS EXAMINING MANY SOLUTIONS WHICH COULD INCLUDE:
+MULTI-CREWED SHIPS, OPERATIONAL/OPERATIONAL SUPPORT DEPLOYMENT
+ROTATIONS, AND NEW INCENTIVES/COMPENSATION SYSTEMS.  THEIR OBJECTIVE
+IS TO BETTER SUPPORT FLEET AND MISSION REQUIREMENTS AND TO PROVIDE
+MORE PREDICTABLE CAREER TRACKS FOR OUR SAILORS.  AN UPDATE ON THEIR
+PROGRESS WILL BE PROVIDED WITHIN THE NEXT FEW MONTHS.
+5.  CURRENT AND REVISED SEA/SHORE TOUR LENGTHS ARE AS FOLLOWS:
+                  CURRENT                 REVISED
+RATE           SEA       SHORE         SEA      SHORE
+ABCM           36        36            48        36
+ABECS          45        36            48        36
+ABEC           42        36            45        36
+ABE1           42        36            60        36
+ABE2           48        36            54        36
+ABE3           51        24            60        24
+ABEAN          51        54            60        24
+ABFCS          45        36            48        36
+ABFC           42        36            36        36
+ABF1           42        36            48        36
+ABF2           48        36            48        36
+ABF3           51        36            60        24
+ABFAN          51        24            60        24
+ABHCS          45        36            48        36
+ABHC           42        36            45        36
+ABH1           42        36            48        36
+ABH2           48        36            48        36
+ABH3           51        36            60        24
+ABHAN          51        24            60        24
+ACCM           36        60            36        60 (NOTE 1)
+ACCS           36        60            36        48 (NOTE 1)
+ACC            36        60            36        48 (NOTE 1)
+AC1            36        60            36        60 (NOTE 1)
+AC2            36        48            36        60 (NOTE 1)
+AC3            36        36            36        48 (NOTE 1)
+ACAN           36        24            36        48 (NOTE 1)
+ADCS           45        36            48        36
+ADC            42        42            42        36
+AD1            42        42            42        36
+AD2            42        36            36        36
+AD3            48        36            54        24
+ADAN           48        24            54        24
+ADCS(NAC)      36        36            36        42
+ADC(NAC)       36        36            36        48
+AD1(NAC)       45        36            36        42
+AD2(NAC)       48        36            48        36
+AD3(NAC)       48        36            54        24
+ADAN(NAC)      48        24            54        24
+AECS           36        36            36        36
+AEC            36        36            36        36
+AE1            42        36            36        36
+AE2            48        36            48        36
+AE3            48        30            48        30
+AEAN           48        24            48        24
+AECS(NAC)      36        36            36        42
+AEC(NAC)       36        36            36        48
+AE1(NAC)       36        36            36        42
+AE2(NAC)       45        36            48        36
+AE3(NAC)       48        36            54        24
+AEAN(NAC)      48        36            54        24
+AFCM           36        36            42        36
+AFCM(NAC)      36        36            36        36
+AGCM           36        36            24        48 (NOTE 2)
+AGCS           36        36            36        36 (NOTE 2)
+AGC            36        48            36        42 (NOTE 2)
+AG1            36        48            42        36 (NOTE 2)
+AG2            36        48            42        36 (NOTE 2)
+AG3            36        48            48        36 (NOTE 2)
+AGAN           36        24            48        36 (NOTE 2)
+AMCS           42        36            42        36
+AMC            42        36            36        36
+AM1            45        36            45        36
+AM2            48        36            45        36
+AM3            51        36            60        24
+AMAN           51        24            60        24
+AMEC           42        36            36        48
+AME1           45        36            50        36
+AME2           48        36            50        36
+AME3           51        36            54        24
+AMEAN          51        24            54        24
+AMEC(NAC)      36        36            36        48
+AME1(NAC)      45        36            36        42
+AME2(NAC)      48        36            48        36
+AME3(NAC)      48        36            54        24
+AMEAN(NAC)     48        24            54        24
+AMCS(NAC)      36        36            36        42
+AMC(NAC)       36        36            36        48
+AM1(NAC)       45        36            36        36
+AM2(NAC)       48        36            48        36
+AM3(NAC)       48        36            54        24
+AMAN(NAC)      48        24            54        24
+AOCM           39        36            48        36
+AOCS           45        36            48        36
+AOC            45        36            48        36
+AO1            48        36            52        36
+AO2            48        36            52        36
+AO3            51        36            60        24
+AOAN           51        24            60        24
+AOCS(NAC)      36        36            36        42
+AOC(NAC)       36        36            36        48
+AO1(NAC)       45        36            36        42
+AO2(NAC)       48        36            48        36
+AO3(NAC)       48        36            54        24
+AOAN(NAC)      48        24            54        24
+ASCM           36        36            36        36
+ASCS           36        36            36        36
+ASC            36        36            42        42
+AS1            36        39            36        45
+AS2            42        36            36        45
+AS3            48        36            45        24
+ASAN           48        24            45        24
+ATCS           36        36            36        36
+ATC            36        36            36        36
+AT1            36        36            36        36
+AT2            48        36            48        36
+AT3            48        30            48        30
+ATAN           48        24            48        24
+ATCS(NAC)      36        36            36        42
+ATC(NAC)       36        36            36        48
+AT1(NAC)       45        36            36        42
+AT2(NAC)       48        36            48        36
+AT3(NAC)       48        36            54        24
+ATAN(NAC)      48        24            54        24
+AVCM           36        36            42        36
+AVCM(NAC)      36        36            36        36
+AWCM           36        42            36        36
+AWCS           36        39            36        42
+AWC            36        36            36        48
+AW1            42        36            36        42
+AW2            48        36            48        36
+AW3            54        36            54        24
+AWAN           54        25            54        24
+AZCM           36        36            48        36
+AZCS           36        36            48        36
+AZC            36        36            36        54
+AZ1            36        36            45        36
+AZ2            42        36            45        36
+AZ3            45        36            54        36
+AZAN           48        24            54        36
+BMCM           42        36            36        36
+BMCS           42        36            36        36
+BMC            42        36            42        36
+BM1            42        36            42        36
+BM2            48        36            54        36
+BM3            60        36            60        24
+BMSN           60        24            60        24
+BUCS           36        36            36        36
+BUC            36        36            36        36
+BU1            36        36            36        36
+BU2            48        36            48        36
+BU3            54        36            60        24
+BUCN           54        24            60        24
+CECS           36        36            36        36
+CEC            36        36            36        36
+CE1            36        36            36        36
+CE2            48        36            36        36
+CE3            54        36            60        24
+CECN           54        24            60        24
+CMCS           36        36            40        36
+CMC            36        36            36        36
+CM1            36        36            48        36
+CM2            48        36            48        36
+CM3            54        36            60        24
+CMCN           54        24            60        24
+CMDCM          36        36            36        36
+CSCM           36        36            36        36
+CSCS           36        36            36        36
+CSC            36        36            36        36
+CS1            48        36            48        36
+CS2            48        36            48        36
+CS3            51        36            52        24
+CSSN           54        24            60        24
+CSCM(SS)       36        36            36        48
+CSCS(SS)       36        36            36        48
+CSC(SS)        48        36            48        36
+CS1(SS)        48        36            48        36
+CS2(SS)        54        36            48        36
+CS3(SS)        54        36            60        24
+CSSN(SS)       54        24            60        24
+CTACM          36        72            36        36 (NOTE 3)
+CTACS          36        72            36        36 (NOTE 3)
+CTAC           36        72            36        36 (NOTE 3)
+CTA1           36        36            36        36 (NOTE 3)
+CTA2           36        36            36        36 (NOTE 3)
+CTA3           36        36            36        36 (NOTE 3)
+CTASN          36        36            36        36 (NOTE 3)
+CTICM          36        72            36        36 (NOTE 3)
+CTICS          36        72            36        36 (NOTE 3)
+CTIC           36        36            36        36 (NOTE 3)
+CTI1           72        36            36        36 (NOTE 3)
+CTI2           72        36            36        36 (NOTE 3)
+CTI3           72        36            24        36 (NOTE 3)
+CTMCM          36        72            36        72 (NOTE 3)
+CTMCS          36        72            36        72 (NOTE 3)
+CTMC           36        72            36        72 (NOTE 3)
+CTM1           72        36            36        36 (NOTE 3)
+CTM2           72        36            72        36 (NOTE 3)
+CTM3           72        36            72        36 (NOTE 3)
+CTMSN          72        36            72        36 (NOTE 3)
+CTNCM          36        36            36        72 (NOTE 3)
+CTNCS          36        36            36        72 (NOTE 3)
+CTNC           36        36            36        36 (NOTE 3)
+CTN1           36        36            36        36 (NOTE 3)
+CTN2           36        36            36        36 (NOTE 3)
+CTN3           36        36            36        36 (NOTE 3)
+CTNSN          36        36            36        36 (NOTE 3)
+CTRCM          36        72            36        72 (NOTE 3)
+CTRCS          36        72            36        72 (NOTE 3)
+CTRC           72        36            72        36 (NOTE 3)
+CTR1           36        36            36        36 (NOTE 3)
+CTR2           72        36            72        36 (NOTE 3)
+CTR3           72        36            72        36 (NOTE 3)
+CTRSN          72        36            72        36 (NOTE 3)
+CTTCM          36        36            36        36 (NOTE 3)
+CTTCS          36        36            36        36 (NOTE 3)
+CTTC           36        36            36        36 (NOTE 3)
+CTT1           36        36            36        36 (NOTE 3)
+CTT2           36        36            48        36 (NOTE 3)
+CTT3           36        36            48        36 (NOTE 3)
+CTTSN          36        36            48        36 (NOTE 3)
+CUCM           36        36            36        30
+DCCM           45        36            48        36
+DCCS           45        36            36        36
+DCC            42        36            36        36
+DC1            45        36            42        36
+DC2            48        36            60        36
+DC3            60        24            60        24
+DCFN           60        24            60        24
+EACS           36        48            36        36
+EAC            36        36            36        36
+EA1            36        36            36        36
+EA2            48        36            48        36
+EA3            54        36            60        24
+EACN           54        36            60        24
+ELTCM(SS)(NUC) 36        36            36        36
+ELTCS(SS)(NUC) 36        36            36        36
+ELTC(SS)(NUC)  48        36            48        36
+ELT1(SS)(NUC)  60        36            60        36
+ELT2(SS)(NUC)  54        36            54        36
+ELT3(SS)(NUC)  54        36            54        36
+ELTCM(SW)(NUC) 36        36            36        36
+ELTCS(SW)(NUC) 36        36            36        36
+ELTC(SW)(NUC)  48        36            48        36
+ELT1(SW)(NUC)  60        36            60        36
+ELT2(SW)(NUC)  54        36            54        36
+ELT3(SW)(NUC)  54        36            54        36
+EMCM           48        36            48        36
+EMCS           48        36            48        36
+EMC            39        36            36        36
+EM1            39        36            45        36
+EM2            48        36            60        36
+EM3            60        24            60        24
+EMFN           60        24            60        24
+EMCM(SS)(NUC)  36        36            36        36
+EMCS(SS)(NUC)  36        36            36        36
+EMC(SS)(NUC)   48        36            48        36
+EM1(SS)(NUC)   60        36            60        36
+EM2(SS)(NUC)   54        36            54        36
+EM3(SS)(NUC)   54        36            54        36
+EMCM(SW)(NUC)  36        36            36        36
+EMCS(SW)(NUC)  36        36            36        36
+EMC(SW)(NUC)   48        36            48        36
+EM1(SW)(NUC)   60        36            60        36
+EM2(SW)(NUC)   54        36            54        36
+EM3(SW)(NUC)   54        36            54        36
+ENCM           48        36            48        36
+ENCS           48        36            45        36
+ENC            45        36            45        36
+EN1            45        36            60        36
+EN2            54        36            60        36
+EN3            60        24            60        24
+ENFN           60        24            60        24
+EOCS           36        36            36        36
+EOC            36        36            40        36
+EO1            36        36            48        36
+EO2            48        36            48        36
+EO3            54        36            60        24
+EOCN           54        24            60        24
+EODCM          48        36            48        36
+EODCS          48        36            48        36
+EODC           48        36            48        36
+EOD1           48        36            48        36
+EOD2           60        36            60        36
+EOD3           60        36            60        36
+EQCM           36        36            36        30
+ETCM           42        36            36        36
+ETCS           36        36            36        36
+ETC            36        36            36        42
+ET1            36        36            36        42
+ET2            39        36            39        36
+ET3            48        36            60        24
+ETSN           48        24            60        24
+ETCM(SS)(NUC)  36        36            36        36
+ETCS(SS)(NUC)  36        36            36        36
+ETC(SS)(NUC)   48        36            48        36
+ET1(SS)(NUC)   60        36            60        36
+ET2(SS)(NUC)   54        36            54        36
+ET3(SS)(NUC)   54        36            54        36
+ETCM(SW)(NUC)  36        36            36        36
+ETCS(SW)(NUC)  36        36            36        36
+ETC(SW)(NUC)   48        36            48        36
+ET1(SW)(NUC)   60        36            60        36
+ET2(SW)(NUC)   54        36            54        36
+ET3(SW)(NUC)   54        36            54        36
+ETCM(SS)(NAV)  36        36            42        36
+ETCS(SS)(NAV)  36        36            42        36
+ETC(SS)(NAV)   48        36            48        36
+ET1(SS)(NAV)   48        36            48        36
+ET2(SS)(NAV)   54        36            60        36
+ET3(SS)(NAV)   54        36            60        24
+ETSN(SS)(NAV)  54        24            60        24
+ETCM(SS)(COMM) 36        36            36        36
+ETCS(SS)(COMM) 36        36            36        36
+ETC(SS)(COMM)  48        36            42        36
+ET1(SS)(COMM)  48        36            48        36
+ET2(SS)(COMM)  54        36            48        36
+ET3(SS)(COMM)  54        36            60        24
+ETSN(SS)(COMM) 54        24            60        24
+FCCM           45        36            39        36
+FCCS           45        36            39        36
+FCC            42        36            39        36
+FC1            42        36            48        36
+FC2            45        36            60        36
+FC3            54        36            60        24
+FCSN           54        24            60        24
+FCCM(AEGIS)    45        36            39        36
+FCCS(AEGIS)    45        36            39        36
+FCC(AEGIS)     42        36            39        36
+FC1(AEGIS)     42        36            54        36
+FC2(AEGIS)     45        36            60        36
+FC3(AEGIS)     54        36            60        24
+FTCM           36        36            36        48
+FTCS           36        36            36        48
+FTC            48        36            48        36
+FT1            48        36            48        36
+FT2            48        36            48        36
+FT3            54        36            60        24
+FTSN           54        24            60        24
+GMCM           36        36            36        36
+GMCS           36        36            36        36
+GMC            42        36            36        36
+GM1            48        36            36        36
+GM2            48        36            42        36
+GM3            60        36            60        24
+GMSN           60        24            60        24
+GSCM           42        36            39        36
+GSCS           48        36            48        36
+GSEC           45        36            45        36
+GSE1           48        36            60        36
+GSE2           51        36            57        36
+GSE3           60        24            60        24
+GSEFN          60        24            60        24
+GSMC           45        36            45        36
+GSM1           51        36            51        36
+GSM2           54        36            60        36
+GSM3           60        24            60        24
+GSMFN          60        24            60        24
+HMCM(0000)     36        48            36        48
+HMCS(0000)     36        48            36        48
+HMC(0000)      36        42            36        48
+HM1(0000)      36        36            36        48
+HM2(0000)      36        36            36        48
+HM3(0000)      36        36            36        36
+HN(0000)       36        36            36        36
+HMC(8406)      48        36            48        36
+HM1(8406)      48        36            48        36
+HM2(8406)      48        36            48        36
+HM3(8406)      48        36            48        36
+HN(8406)       48        36            48        36
+HMC(8409)      36        42             0        72
+HM1(8409)      36        42            36        72
+HM2(8409)      36        42            36        72
+HM3(8409)      36        42            36        72
+HMCS(8478)     36        42            36        72
+HMC(8478)      36        42            36        72
+HM1(8478)      36        42            36        48
+HM2(8478)      36        42            36        48
+HM1(8479)      36        42            36        60
+HM2(8479)      36        42            36        60
+HM3(8479)      36        42            36        60
+HMCM(8404)     36        48            36        48
+HMCS(8404)     36        42            36        48
+HMC(8404)      36        36            36        48
+HM1(8404)      36        36            36        48
+HM2(8404)      36        36            36        48
+HM3(8404)      36        36            36        36
+HN(8404)       36        36            36        36
+HMC(8403)      60        36            60        36
+HM1(8403)      60        36            60        36
+HM1(8427)      60        36            60        36
+HM2(8427)      60        36            60        36
+HM3(8427)      60        36            60        36
+HN(8427)       60        36            60        36
+HM1(8483)      36        42            36        60
+HM2(8483)      36        42            36        60
+HM3(8483)      36        42            36        60
+HN(8483)       36        42            36        60
+HMC(8506)      36        42            36        54
+HM1(8506)      36        42            36        54
+HM2(8506)      36        42            36        54
+HM3(8506)      36        42            36        54
+HN(8506)       36        42            36        54
+HMC(8472)      36        42             0        72
+HM1(8472)      36        42             0        72
+HM2(8472)      36        42             0        72
+HM3(8472)      36        42             0        72
+HMC(8482)      36        42            36        72
+HM1(8482)      36        42            36        60
+HM2(8482)      36        42            36        60
+HM3(8482)      36        42            36        60
+HN(8482)       36        42            36        60
+HM1(8451)      36        42            36        48
+HM2(8451)      36        42            36        48
+HM3(8451)      36        42            36        48
+HN(8451)       36        42            36        48
+HMC(8452)      36        42            36        72
+HM1(8452)      36        42            36        72
+HM2(8452)      36        42            36        72
+HM3(8452)      36        42            36        72
+HN(8452)       36        42            36        72
+HM1(8492)      60        36            60        24
+HM2(8492)      60        36            60        24
+HM3(8492)      60        36            60        24
+HMCM(8492)     60        36            60        24
+HMCS(8492)     60        36            60        24
+HMC(8491)      60        36            60        24
+HM1(8491)      60        36            60        24
+HM2(8491)      60        36            60        24
+HM1(8466)      36        42            36        72
+HM2(8466)      36        42            36        72
+HM3(8466)      36        42            36        72
+HN(8466)       36        42            36        72
+HM1(8493)      48        36            36        36
+HM2(8493)      48        36            36        36
+HM3(8493)      48        36            36        36
+HMCS(8494)     48        36            48        36
+HMC(8494)      48        36            48        36
+HM1(8494)      48        36            48        36
+HM2(8494)      48        36            48        36
+HMC(8401)      36        42            36        36
+HM1(8401)      36        42            36        36
+HM2(8401)      36        42            36        36
+HM3(8401)      36        42            36        36
+HN(8401)       36        42            36        36
+HMCM(8402)     36        36            36        36
+HMCS(8402)     36        36            36        36
+HMC(8402)      36        36            36        36
+HM1(8402)      36        36            36        36
+HM2(8402)      36        36            36        36
+HMCM(8425)     36        36            36        36
+HMCS(8425)     36        36            36        36
+HMC(8425)      36        36            36        36
+HM1(8425)      36        36            36        36
+HM2(8425)      36        36            36        36
+HMC(8408)      36        42             0        72 (NOTE 4)
+HM1(8408)      36        42             0        72 (NOTE 4)
+HM2(8408)      36        42             0        72 (NOTE 4)
+HM3(8408)      36        42             0        60 (NOTE 4)
+HN(8408)       36        42             0        72 (NOTE 4)
+HMC(8416)      36        42             0        72 (NOTE 4)
+HM1(8416)      36        42            36        60 (NOTE 4)
+HM2(8416)      36        42            36        72 (NOTE 4)
+HM3(8416)      36        42             0        72 (NOTE 4)
+HM2(8485)      36        42            36        72
+HM3(8485)      36        42            36        72
+HN(8485)       36        42            36        72
+HM1(8486)      36        42             0        72 (NOTE 4)
+HM2(8486)      36        42             0        60 (NOTE 4)
+HM3(8486)      36        42             0        60 (NOTE 4)
+HN(8486)       36        42             0        72 (NOTE 4)
+HM1(8489)      36        42            36        72 (NOTE 4)
+HM2(8489)      36        42            36        72 (NOTE 4)
+HM3(8489)      36        42            36        72 (NOTE 4)
+HN(8489)       36        42            36        72 (NOTE 4)
+HM1(8496)      36        36            36        72 (NOTE 4)
+HM2(8496)      36        36            36        72 (NOTE 4)
+HMC(8503)      36        36             0        72 (NOTE 4)
+HM1(8503)      36        42            36        60 (NOTE 4)
+HM2(8503)      36        42            36        60 (NOTE 4)
+HM3(8503)      36        42            36        60 (NOTE 4)
+HMC(8505)      36        42            36        72 (NOTE 4)
+HM1(8505)      36        42            36        72 (NOTE 4)
+HM2(8505)      36        42            36        72 (NOTE 4)
+HM3(8505)      36        42            36        72 (NOTE 4)
+BT
+#0001
+
+
+NNNN
+

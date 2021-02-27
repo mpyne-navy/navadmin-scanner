@@ -1,0 +1,51 @@
+UNCLASSIFIED//
+ROUTINE
+R 301627Z JUN 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 151/15
+
+SUBJ/ACADEMIC YEAR 2015-2016 SELECTEES FOR THE NAVAL POSTGRADUATE SCHOOL 
+ENLISTED CYBER MASTER'S DEGREE PROGRAM//
+
+MSGID/GENADMIN/CNO WASHINGTON DC//N1/JUN//
+REF/A/MSG/CNO WASHINGTON DC/231506ZFEB15//
+AMPN/REF A IS NAVADMIN 042/15, ENLISTED CYBER MASTER'S DEGREE OPPORTUNITY AT 
+NAVAL POSTGRADUATE SCHOOL.//
+
+RMKS/1.  This NAVADMIN announces selectees for the 2015-2016 Naval 
+Postgraduate Schools (NPS) Masters of Science in Applied Cyber Operations 
+Program.
+Name (Last, First MI)	Rate			Parent Command
+Campbell, Shaun B	IT1(IDW/SW)		      Space and Naval Warfare Systems
+                                                Center Pacific
+Gaston, Eric W		IT1(IDW/SW)		USS LASSEN (DDG 82)
+Hodgerson, Brian L	CTNC(IDW/SW)	U.S. Fleet Cyber Command
+Labrenz, Robert A	ITCS(IDW/SW/AW)         Destroyer Squadron SEVEN
+Sebring, Eric D		IT1(IDW/SW/AW)	Navy Information Operations
+                                                Command San Diego
+
+2.  Program dates:  There will be two start dates for this academic year.  
+IT1 Campbell and IT1 Sebring will report to NPS on 21 September 2015 and 
+begin classes on 28 September 2015.  IT1 Gaston, CTNC Hodgerson, and ITCS 
+Labrenz will report to NPS on 21 March 2016 and begin classes on 28 March 
+2016.
+
+3.  General information about NPS can be found on-line at www.nps.edu.
+
+4.  Point of contact is LCDR William H. Nesbitt who can be reached at
+(703) 604-6293/DSN 664 or via e-mail at william.h.nesbitt(at)navy.mil.
+
+5.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,97 @@
+UNCLASSIFIED//
+ROUTINE
+R 281605Z JUN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 144/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUN//
+
+SUBJ/INFORMATION SYSTEMS TECHNICIAN RATING VALIDATION OF CYBERSECURITY 
+WORKFORCE COMMERCIAL ACTIVITIES FUNCTION, JOB CODES, AND APPLICABLE NAVY 
+ENLISTED CLASSIFICATION BILLET REQUIREMENTS//
+
+REF/A/LTR/ASN(MRA)/JUL 2018//
+REF/B/DOC/DCWF//
+REF/C/DOC/SECNAVINST 5239.20A/FEB 2016//
+REF/D/DOC/SECNAV M-5239.2/JUN 2016//
+REF/E/DOC/NAVPERS 18068-67H CH-76/OCT 2018//
+REF/F/DOC/OPNAVINST 1000.16L/JUN 2015//
+NARR/REF A IS DEPARTMENT OF THE NAVY MILITARY CYBERSPACE WORKFORCE CODING 
+GUIDANCE.  REF B IS THE DEPARTMENT OF DEFENSE CYBER WORKFORCE FRAMEWORK 
+(DCWF).  REF C IS THE SECNAVINST 5239.20A, DEPARTMENT OF THE NAVY CYBERSPACE 
+INFORMATION TECHNOLOGY AND CYBERSECURITY WORKFORCE (CSWF) MANAGEMENT AND 
+QUALIFICATION, 10 FEBRUARY 2016.  REF D IS THE JUNE 2016 SECNAV M-5239.2 
+DEPARTMENT OF THE NAVY CYBERSPACE INFORMATION TECHNOLOGY AND CYBERSECURITY 
+WORKFORCE MANAGEMENT AND QUALIFICATION MANUAL.  REF E IS NAVY IT RATING 
+OCCUPATIONAL STANDARDS. REF F IS THE NAVY TOTAL FORCE MANPOWER POLICIES AND 
+PROCEDURES// POC/MAYES/ITCM/OPNAV N2N6/-/TEL:  571-256-8297/
+E-MAIL:  QUINCY.L.MAYES(AT)NAVY.MIL//
+POC/HAILES/CIV/OPNAV N2N6/-/TEL:  571-256-8268/
+E-MAIL:  DON.HAILES(AT)NAVY.MIL//
+POC/RILEY/CDR/NAVIFOR/-/TEL:  757-203-3384/
+E-MAIL:  KYLE.P.RILEY1(AT)NAVY.MIL//
+POC/HARRINGTON/CIV/NAVIFOR/-/TEL:  757-203-3307/
+E-MAIL:  DANIEL.HARRINGTON(AT)NAVY.MIL
+POC/MACARTNEY/ITCM/BUPERS-32/-/TEL:  901-874-2917/
+E-MAIL:  JUSTIN.MACARTNEY(AT)NAVY.MIL//
+
+RMKS/1.  This Information Warfare Type Commanders (TYCOMs) coordinated 
+NAVADMIN mandates compliance with reference (a) and issues further guidance 
+mandating Manpower Budget Submitting Offices (BSOs) to update occupational 
+standard job codes and applicable Navy Enlisted Classification (NEC) 
+requirements within the Total Force Manpower Management System (TFMMS) for 
+the Information Systems Technician (IT) rating.
+
+2.  Background.  Per references (b) and (d), all ITs are part of the core 
+Department of Defense Cyber Workforce Framework (DCWF) in either Cyber IT or 
+Cybersecurity Workforce (CSWF).
+    a.  Reference (a) directed Navy Manpower Offices to update Commercial 
+Activities Function (CAF) codes for all Cyberspace workforce billets and 
+reconcile military billet coding in TFMMS IAW references (b) through (d).
+    b.  Reference (e), IT Rating Occupation Standards (OCCSTDs) were updated 
+in October 2018 to align with the DCWF.  Update included IT job codes and 
+work roles increasing from four to nine.  Approximately 13,640 unique IT 
+billets cited in TFMMS database are using one of the four old IT job codes.
+    c.  A review of IT billets Navy-wide conducted by Deputy Chief of Naval 
+Operations for Information Warfare (OPNAV N2N6), Bureau of Naval Personnel 
+(BUPERS-32), and Naval Information Forces (NAVIFOR) revealed a significant 
+number of NEC to OCCSTD job codes and work role discrepancies and invalid 
+Cyberspace CAF codes.
+
+3.  Crosswalk Tool.  To assist the Manpower BSOs in validating Navy -wide IT 
+manpower and training requirements, NAVIFOR created a CAF code to job code to 
+applicable NEC and crosswalk tool that lists appropriate job code to CAF 
+coding.  This was completed as a result of actions taken to complete 
+reference (a) tasking.  The crosswalk tool is available for download at the 
+NAVIFOR CSWF page at 
+https://usff.navy.deps.mil/sites/navifor/manpower/cswf/sitepages/home.aspx
+
+4.  Mandated Action.  Manpower BSOs are directed to work with applicable 
+stakeholders (Commands, TYCOMs, etc.) to complete tasking IAW reference (f).
+    a.  Step 1.  Utilizing crosswalk tool, align all IT rating billets with 
+appropriate CAF/NECs/OCCSTD job codes.
+    b.  Step 2.  Generate Manpower Change Request (MCR) to implement 
+necessary changes in TFMMS.
+
+5.  For CAF, NEC, and OCCSTD job code questions contact NAVIFOR, BUPERS-32, 
+and OPNAV N2N6 POCs.
+
+6.  Report completion of TFMMS update to NAVIFOR and OPNAV N2N6 POCs no later 
+than 90 days from release of this message.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

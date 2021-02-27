@@ -1,0 +1,123 @@
+UNCLASSIFIED//
+ROUTINE
+R 191838Z APR 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 089/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER GLOBAL TOWN HALL//
+
+REF/A/DOC/DOD CIO/09MAY2019//
+NARR/REF A IS AN E-MAIL FROM DOD CIO WHICH ANNOUNCED PLANS FOR A GLOBAL TOWN 
+HALL.// POC/WRIGHT/CDR/OPNAV N2N6/E-MAIL:  DURKE.A.WRIGHT1(AT)NAVY.MIL
+/TEL:  703-695-7468//
+POC/AUGELLI/CAPT/OPNAV N2N6/E-MAIL:  VINCENT.A.AUGELLI(AT)NAVY.MIL/
+TEL:  571-256-8422//
+
+RMKS/1.  This NAVADMIN announces the inaugural Department of Defense
+(DoD) Chief Information Officer (CIO) Global Town Hall on Friday, 17 May 
+2019, 1300-1430 Eastern Standard Time (EST).  By exception, participation is 
+required by all Echelon II N6/CIO leadership and encouraged for other 
+interested personnel.
+
+2.  Background:  The Town Hall will assemble Information Technology
+(IT) leadership from across the department in order to discuss plans for 
+Digital Modernization and recognize excellence throughout the enterprise.  
+Topics will include:
+    a.  Digital Modernization Vison
+    b.  Enterprise Cloud Strategy
+    c.  Artificial Intelligence/Joint Artificial Intelligence Center
+    d.  Command, Control, and Communications
+    e.  Cyber Landscape
+    f.  Information Technology Reform
+
+3.  Defense Information Systems Agency (DISA) will broadcast the Town Hall 
+from its Headquarters (HQ) Auditorium in Fort Meade, Maryland.  There will be 
+several viewing options for off-site
+personnel:
+    a.  CAC-enabled Live Web Link.  DISA will provide at a later date.
+    b.  Video Teleconferencing (VTC) locations within fleet concentration 
+areas.  (Reference 5.b.)
+    c.  Video will be recorded for future viewing.
+
+4.  DoD CIO will provide additional information at the following website 
+https://dodcio.defense.gov/.  Please forward event-specific questions to:  
+dodciotownhall(at)mail.mil.
+
+5.  Logistics:
+    a.  If there are questions or initiatives (individual or team) you would 
+like recognized during the Town Hall, please forward inputs to points of 
+contacts (POCs) listed above no later than 1 May 2019.
+    b.  Personnel interested in participating from DISA HQ Fort Meade, 
+Maryland, please contact DISA Mission Partner Engagement Lead, Ms.
+Marie Sakowicz, at e-mail:  marie.e.sakowicz.civ(at)mail.mil or
+Comm:  301-225-7147.
+    c.  Although a streaming video link will be available, participation is 
+strongly encouraged at designated viewing sites.
+VTCs will be established for general attendance at locations
+below:
+       (1) Fort Meade, Maryland
+           Site:    Fort Meade, NSAH, OPS 3, SITROOM (must have access to
+                    NSAH and OPS3)
+           Access:  fcc_c10f_nsah_security(at)navy.mil, Comm:
+                    240-373-3415
+           POC:     CDR Alissa Clawson, Comm:  240-373-3415,
+                    alissa.n.clawson(at)navy.mil
+       (2) National Capitol Region (Pentagon)
+           Site:    Pentagon Library and Conference Center,
+                    Conference Room M1
+           Access:  https://visitorsponsor.pfpa.mil
+           POC:     CDR Durke Wright, Comm:  703 695-7468,
+                    durke.a.wright1(at)navy.mil
+       (3) NCTAMS LANT
+           Site:    Naval Station Norfolk, Building M-51, Room 204
+           Access:  Ms. Val Jackson, 757-443-9119,
+                     valerie.jackson1(at)navy.mil
+           POC:     Mr. Tim Severn, Comm:  757-443-9240, DSN:
+                    312-646-9240, timothy.severn(at)navy.mil
+       (4) NCTAMS PAC
+           Site:    Joint Base Pearl Harbor-Hickam Wahiawa Annex,
+                    Building 500, Dan Healy Communications Center
+                   (DHCC)
+           POC:     LT Luuthuy Quan, Comm:  808-653-0093, DSN:
+                    315-450-0093
+       (5) NCTS Far East
+           Site:    Commander, Fleet Activity Yokosuka, Building 37
+           POC:     LTJG John Santos, DSN:  315-243-6731,
+                    john.a.santos(at)fe.navy.mil
+       (6) NCTS Naples
+           Site:    NSA Naples Capodichino
+           Access:  Mr. Larry Bradshaw, DSN:  314-626-6070,
+                    larry.Bradshaw(at)eu.navy.mil
+           POC:     LTJG William Thompson, DSN:  314-626-5541,
+                    william.j.thompson(at)eu.navy.mil
+       (7) NCTS San Diego
+           Site:    Naval Base Coronado, Building 1482
+           Access:  Mr. Jose Buska, Comm:  619-767-7984,
+                    nctssd_sdni_security(at)navy.mil
+           POC:     LT Deborah Franklin, Comm:  619-767-1774,
+                     deborah.i.franklin(at)navy.mil
+
+6.  Site coordinators, please forward VTC information and technical POCs 
+directly to DISA by e-mail:  dodciotownhall(at)mail.mil and the DISA 
+Technical Lead, Ms. Sharon Sellers at e-mail:  
+sharon.e.sellers2.civ(at)mail.mil or Comm:  301-225-8141.
+
+7.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

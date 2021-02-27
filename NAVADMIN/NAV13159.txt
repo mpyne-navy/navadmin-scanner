@@ -1,0 +1,94 @@
+RTTUZYUW RUEWMCS0000 1681637-UUUU--RUCRNAD.
+ZNR UUUUU
+R 171637Z JUN 13
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 159/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/JUN//
+
+SUBJ/2012 ADMIRAL STAN ARTHUR AWARDS ANNOUNCEMENT// 
+
+REF/A/MSG/CNO WASHINGTON DC/R 071502Z JAN 13// 
+
+AMPN/REF A IS ADMIRAL STAN ARTHUR AWARD CALL FOR 2012 NOMINATIONS MESSAGE.// 
+
+POC/CDR BRUCE MILLER/N413M/ARLINGTON, VA/TEL: (703) 695-4861/EMAIL: 
+BRUCE.M.MILLER1(AT)NAVY.MIL// 
+
+RMKS/1.  IRT REF A, a Flag/SES panel reviewed candidate nominations and selected the 2012 Admiral 
+Stan Arthur Award winners.  This award recognizes military and civilian logisticians who epitomize 
+excellence in logistics planning and execution.  I am pleased to announce the 2012 Admiral Stan Arthur 
+Award winners:
+    A.  The Military Logistician of the Year is CDR William J. May assigned to Defense Logistics Agency, 
+Disposition Services-Afghanistan.  As Officer-in-Charge Disposition Services - Afghanistan, CDR May led 
+four, 20-acre fixed locations, eight hub-based disposal operation sites, and 16 expeditionary disposal 
+remediation teams in every region of Afghanistan.  His sites removed over 76M pounds of excess or 
+battle damaged materials, processed over 120,000 items requiring demilitarization, and reutilized 3,500 
+line items valued over $42.5M.  Tapped by U.S. Forces - Afghanistan and 1st Theater Support Command, 
+CDR May developed and executed an excess container concept saving over $25.8M in shipping expenses 
+and projected savings of $441M over the project's life cycle.
+    B.  The Civilian Logistician of the Year is Mr. Gregory D. Butler assigned to Naval Supply Systems 
+Command, Global Logistics Support.  Mr. Butler's demand for process improvement was the catalyst for 
+his vision to establish an international team of world class logisticians and computer scientists focused 
+on transforming transportation planning as we know it.  Under the Naval Logistics Integration (NLI) 
+program, Mr. Butler conceived and developed the web-based Transportation Exploitation Tool (TET) 
+aligned to the Navy's Lifts of Opportunity Program (LOOP).  Along with his global partners, Mr. Butler 
+developed new concepts that saved the Navy more than $26M in transportation costs.  In 2012, through 
+a strategic partnership with the Office of Naval Research (ONR), Mr. Butler was awarded $18.7M in 
+science and technology funding to expand the development of TET.  When fully implemented, TET will 
+deliver the first web-based, menu-driven tool that promotes the cost-wise selection of appropriate 
+transportation modes to meet customer movement requirements.  
+    C.  The Acquisition Logistics Team of the Year is Navy's Enterprise Resource Planning (ERP) Business 
+Process Financial Information Team from Program Executive Office Enterprise Information Systems.  The 
+Navy's ERP Business Process Financial Information Team standardized Navy business processes resulting 
+in major contributions to enterprise financial audit readiness.  The team led a Service-wide effort to 
+deliver 219 sizeable work products supporting a to-the-penny reconciliation.  This was made possible 
+through innovative development and application of a quantitative drill-down methodology to tie 
+transactions from general ledger trial balance accounts down to the detailed level.  This enabled a Navy 
+first-ever unqualified opinion on the E-2D Hawkeye Program financial reports.  As the first Navy financial 
+system to undergo a Federal Information System Controls Audit Manual (FISCAM) review in support of 
+Financial Improvement Audit Readiness, the team supported a 73 percent FISCAM compliance level.  
+This is a seven-fold increase over similar Department of Defense (DoD) systems.
+    D.  The Operational Logistics Team of the Year is the Naval Air Systems Command (NAVAIR) V-22 
+Logistics Team for its exceptional Fleet focus, process innovation, and attainment of measurable results.  
+Through this team's extraordinary vision and inspirational leadership, the V-22 program developed and 
+implemented new products such as a highly detailed cost model and a cost per flight hour (CPFH) 
+metrics tracker that, when coupled with the use of transformational logistics processes such as the 
+critical item logistics review, achieved precision decision-making, requirements review, and cost 
+alignment.  By leveraging maintenance and supply solutions that align with the 2012 CNO Guidance, this 
+team has been instrumental in advancing the V-22 supportability and the NAVAIR's logistics processes.  
+The 2012 MV-22 mission capable rate increased eight percent over 2011, while the 2012 MV-22 CPFH 
+decreased six percent compared to the 2011 rate.
+    E.  The Joint Logistics Team of the Year is Military Sealift Command's (MSC's) Logistics Team.  The MSC 
+Logistics Team was pivotal in converting USS PONCE, a decommissioning 40-year old AUSTIN class 
+amphibious transport dock ship, into a forward-deployed afloat staging base.  The aggressive and 
+dedicated efforts of the team brought USS PONCE expanded capabilities, including mother ship 
+capability for stock point operations with total asset visibility and distance support business solutions.  
+By completely rehabilitating ordnance spaces and systems, the team delivered cutting-edge ordnance 
+storage, handling and safety equipment to accommodate emerging weapons technology, including the 
+SEAFOX mine neutralization system.  The team also established a comprehensive integrated logistics 
+support system to re-baseline installed and new equipment and parts sparing efforts and avoided retail 
+outfitting costs in excess of $2.5M. 
+
+2.  Award levels are $5,000 each for the Military and the Civilian Logistician of the Year and $10,000 for 
+each team award.  The award certificates and letters will be issued to the parent commands for 
+distribution.
+
+3.  A virtual award ceremony, via video teleconference, with ADM Arthur (ret), VADM Cullom, and the 
+winning member's command is scheduled for 11 July 2013.  CDR Miller will contact winning commands 
+to make arrangements for the ceremony.
+
+4.  My heartiest congratulations to the winners.  Your superlative achievements resulted in substantial 
+and quantifiable benefits to the United States Navy and enhanced the logistics profession.  BRAVO 
+ZULU!
+
+5.  Released by VADM P. H. Cullom, OPNAV N4.//
+BT
+#0000
+NNNN
+

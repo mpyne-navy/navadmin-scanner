@@ -1,0 +1,160 @@
+UNCLASSIFIED//
+ROUTINE
+R 151503Z JUL 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 157/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE FOR NUCLEAR TRAINED JUNIOR 
+STAFF INSTRUCTORS//
+
+REF/A/MSG/CNO WASHINGTON DC/101615ZDEC15//
+NARR/ REF A IS NAVADMIN 284/15, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES 
+FOR NUCLEAR TRAINED ENLISTED PERSONNEL.//
+
+RMKS/1.  This NAVADMIN announces the update to the sea and shore flow for 
+enlisted career paths for nuclear-trained Junior Staff Instructors (JSI).  
+The Nuclear Propulsion Program Manager Branch (OPNAV N133) and Navy Personnel 
+Command, Enlisted Submarine and Nuclear Power Assignments Branch (PERS-403) 
+gathered feedback from the Fleet and performed a comprehensive review of the 
+nuclear enlisted Sea Shore Flow (SSF) policy for Sailors who serve as JSI at 
+nuclear power training units.  The review identified that modifications to 
+the current SSF outlined in reference (a) are required to ensure the 
+continued success of the JSIs who represent a highly talented component of 
+the nuclear enterprise.  Specifically, more opportunity is needed for Sailors 
+to qualify as the Engineering Watch Supervisor (EWS)/Propulsion Plant Watch 
+Supervisor (PPWS) during the first sea tour, and additional time is needed 
+before the 10-year sea gate to avoid shortening the first shore tour.
+
+2.  These career path updates will increase leadership experience during the 
+first sea tour, improve chief petty officer advancement opportunity by 
+providing more time for EWS/PPWS qualifications and maintain cumulative shore 
+tour length higher than non-JSIs for an entire career.  The major 
+modifications to the JSI SSF provided in reference (a) are as follows:
+
+    a.  Lengthens the first sea tour from 40 months to 48 months.
+    b.  Maintains the first shore tour at 30 months.
+    c.  Changes the second and subsequent shore tours to 36 months by 
+removing extra time normally designated for training and qualifications.
+    d.  Updates the career milestone gates for JSIs to account for the 
+initial JSI tour.  The first gate will shift from 10 years of Active-Duty 
+service to 11 years (a Sailor should start their second sea tour prior to 
+this gate) and the second gate will shift from 17 years of Active-Duty 
+service to 17.5 years (a Sailor should start their third sea tour prior to 
+this gate).
+    e.  Factors in 1 month of nominal transfer time and leave between duty 
+stations.  Previously, the SSF did not factor in this transfer time between 
+the first shore tour and second sea tour.
+
+3.  The updated JSI SSF is displayed in paragraph 4.  The initial training 
+pipeline for all JSIs remains at a nominal length of 24 months, followed by a 
+24-month JSI tour.  Sea tours are annotated below as SEA and shore duty is 
+annotated as SHR.  All numbers in paragraph 4 are in months.  This NAVADMIN 
+modifies the SSF outlined in reference (a) for JSIs only.  The SSF discussed 
+in reference (a) for Sailors who do not serve as a JSI remains the same until 
+superseded.
+
+4.  The SSF is modified as follows for a Sailor who serves as a JSI after 
+completing a 24-month JSI tour:
+
+SEA1 SHR1 SEA2 SHR2 SEA3 SHR3 SEA4 SHR4
+48   30   40   36   40   36   40   36
+
+note:  The 1 month of transfer time between duty stations is not included in 
+the tour lengths shown above.
+
+5.  For JSIs who advance to chief petty officer during their second sea tour, 
+that tour length will normally be adjusted to allow the Sailor the ability to 
+complete the leading chief petty officer tour.
+In most cases, this will enable the Sailor to complete their engineering 
+department master chief or divisional leading chief petty officer tour during 
+their third sea tour prior to 20 years of service.
+
+6.  These policy changes require close coordination between the command, each 
+JSI and PERS-403 to facilitate a smooth transition to the new SSF.  Commands 
+are encouraged to provide a list of their JSI-served Sailors to OPNAV N133 
+via e-mail at bullnuke(at)navy.mil to ensure correct application of the 
+updated SSF.  To implement these changes, the following Projected Rotation 
+Date (PRD) adjustment guidelines are provided:
+
+    a.  Effective immediately, all new JSI sea and shore orders issued by 
+PERS-403 will comply with the tour lengths shown in paragraph 4.
+    b.  The 11-year gate and 17.5-year gate will be in effect for JSIs 
+immediately upon the release date of this NAVADMIN.  Waivers must be routed 
+if required to exceed these gates.
+    c.  To allow Sailors and their families time to plan for potential future 
+duty station changes, PRD changes should be made using the following 
+guidance:
+        (1) For JSIs on their first sea tour:
+            (a) Sailors within their Career Management System Interactive 
+Detailing (CMS-ID) negotiating windows (nominally within
+12 months of their previously established PRD) or who have follow-on shore 
+orders will maintain their current PRD (i.e., their PRD will not be shifted 
+to a later date).
+            (b) Sailors who have been onboard greater than 12 months but are 
+not yet within a CMS-ID negotiating window may request to extend their PRD to 
+48 months by routing an electronic Personnel Action Request (ePAR 1306) via 
+MyNavy Portal (MNP) that is endorsed by the command specifically requesting 
+the PRD change.
+            (c) Sailors who have been onboard less than 12 months will have 
+their PRD shifted to align to the new SSF.
+        (2) For JSIs on their first shore tour (following their first sea 
+tour), the updated 11-year gate is intended to ensure Sailors receive the 
+full shore tour:
+            (a) Sailors with shore tours less than 30 months due to 
+adjustments made to meet the 10-year gate may request to extend their PRD to 
+achieve a tour length of up to 30 months (but no later than the 11-year 
+point) by routing an ePAR 1306 via MNP that is endorsed by the command 
+specifically requesting the PRD change.
+            (b) Sailors whose previously-established PRD enabled a full 30-
+month shore tour will rotate to sea at their current PRD.
+        (3) JSIs on their second sea tour should expect to rotate at their 
+PRD.
+        (4) For JSIs on their second shore tour, the updated 17.5- year gate 
+is intended to ensure Sailors receive the full shore tour:
+            (a) Sailors with shore tours less than 36 months due to 
+adjustments made to meet the 17-year gate may request to extend their PRD to 
+achieve a tour length of up to 36 months (but no later than the 17.5-year 
+point) by routing an ePAR 1306 via MNP that is endorsed by the command 
+specifically requesting the PRD change.
+            (b) Sailors whose previously established PRD enabled a full 36-
+month shore tour will rotate to sea at their current PRD.
+
+7.  A downloadable graphic that displays the updated SSF is available on the 
+OPNAV N133 website via MNP at https://www.mnp.navy.mil/group/career-planning, 
+select the *Enlisted Community Managers* link, select the *Nuclear* tab in 
+the gray banner, then select the *CCC Toolbox* link.  Commands are encouraged 
+to download this product and post it for Sailors to review.
+
+8.  Points of contact.  For all questions and concerns, commands and Sailors 
+should contact the following individuals:
+
+    a.  Nuclear Enlisted Community Management Team
+        (1) LCDR Lacy Lodmell at (703) 604-5493/DSN 664 or 
+via e-mail at lacy.lodmell(at)navy.mil.
+        (2) MMNCM(SW) Cameron Cuskey at (703) 604-5491/DSN 664 or 
+via e-mail at bullnuke(at)navy.mil.
+        (3) EMNCS(SW/AW) Carlos Britos at (703) 604-5492/DSN 664 or 
+via e-mail at bullnuke(at)navy.mil.
+    b.  PERS-403
+        (1) CAPT John Howrey at (901) 874-3636/DSN 882 or 
+via e-mail at john.howrey(at)navy.mil.
+        (2) EMNCM(SS) Angelo Galindo at (901) 874-4696/DSN 882 or 
+via e-mail at nuclearkhaki(at)navy.mil.
+
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

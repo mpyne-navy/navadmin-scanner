@@ -1,0 +1,120 @@
+RTTUZYUW RUEWMCS0000 3581701-UUUU--RUCRNAD.
+ZNR UUUUU
+
+R 241701Z DEC 13
+
+FM CNO WASHINGTON DC//DNS//
+TO NAVADMIN
+INFO/CNO WASHINGTON DC//DNS//
+BT
+UNCLAS //N0615011
+
+NAVADMIN 331/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/DEC//
+
+SUBJ/PROPER TRANSFER OF HEALTH SERVICE TREATMENT RECORDS (STRS) OF 
+TRANSITIONING SERVICE MEMBERS TO THE VETERANS ADMINISTRATION RECORDS 
+MANAGEMENT CENTER (VARMC)//
+
+REF/A/DOC/DOD/28 OCT 10//
+REF/B/DOC/CMC WASHINGTON DC/291651Z NOV 13//
+NARR/REF A IS DODI 6040.45, SERVICE TREATMENT RECORD AND NON-SERVICE 
+TREATMENT RECORD LIFE CYCLE MANAGEMENT. REF B IS MARADMIN 637/13.//
+
+RMKS/1. This NAVADMIN announces guidelines for disposition of STRs 
+(medical and dental records) to the Veterans Administration Records 
+Management Center. Fleet Commanders, Navy Medicine Region 
+Commanders, Reserve Commanders, Commanding Officers,
+Officers-in-Charge and Navy Medical Department Officers assigned
+to Marine Corps commands must ensure compliance with the
+requirements and guidelines contained in reference (a).
+Reference (b) is MARADMIN 637/13 which contains guidance for
+Marine Corps activities.
+
+2. The Bureau of Medicine and Surgery (BUMED) has established the 
+Navy Medicine Records Activity (NMRA). NMRA will perform a Quality 
+Assurance review on STRs prior to archiving to the Veterans Affairs.
+a. Starting immediately and until 31 December 2013, the separating 
+activity that issues the DD-214, Discharge Papers and Separation 
+Documents, of all Navy and Marine Corps Service members will forward 
+STRs to Navy Medicine Records Activity (NMRA), BUMED Detachment St. 
+Louis, 4300 Goodfellow Drive Bldg 103, St. Louis, MO 63120. 
+b. Commands are still required to certify and process the STR per 
+reference (a) prior to sending to NMRA.
+
+3. Prior to forwarding the STRs to Personnel Support Detachments 
+(Navy) or Installation Personnel Administration Centers (IPAC, 
+Marine Corps) for processing and inclusion of the DD-214, or 
+appropriate discharge orders, medical department personnel shall 
+ensure all medical record documentation is collected to include 
+any "known" information printed from Composite Health Care System 1
+(CHCS) and the Armed Forces Health Longitudinal Technology 
+Application (AHLTA) (e.g., laboratory and radiology results), as 
+applicable.
+a. If a medical record cannot be located, a replacement record shall 
+be created per the guidance in the Manual of the Medical Department 
+(MANMED) Chapter 16. 
+b. If a dental record cannot be located, a replacement dental record
+will be created using the separating T2 exam. 
+c. The final step to completing an STR disposition is to place the 
+DD2963, STR Transfer or Certification form, into the STR jacket. 
+d. A non-availability letter will only be needed if a replacement 
+dental record cannot be created.  Commanders, Commanding Officers 
+and Officers-in-Charge, or their designee (E7 or above) responsible 
+for STR processing, will sign as the sender on the NAVPERS 5000/64, 
+Records Transmittal form, verifying that each STR listed contains 
+the DD2963 or non-availability letter, if applicable. 
+e. In the event additional documentation is discovered, the 
+separating activity will immediately forward it to the NMRA with 
+the DD2963. 
+
+4. Commands located in TRICARE Prime Remote service areas, to 
+include OCONUS, shall ensure that Active Duty Service Members 
+obtain copies of all civilian medical records prior to separation,
+retirement or permanent change of station. Medical record copying
+costs will be borne by the TRICARE contractor. For TRICARE 
+Overseas Prime Remote enrollees, the TRICARE contractor will 
+provide medical record translation services when requested by the 
+member. In the event a member is required to pay "out of pocket" 
+for medical records copying, they should submit a DD Form 2642, 
+TRICARE Claim Form, to the cognizant TRICARE contractor for 
+reimbursement. Medical documentation resulting from appointments 
+with civilian providers will be incorporated into the member's 
+STR per MANMED Chapter 16.
+
+5. Effective 31 December, all MTFs, Clinics, NOSCs, BASs, RASs, 
+Stations, Operational and remote forces will send all STRs to 
+NMRA at the above address.
+a. At this time a complete STR will consist of a medical record, 
+dental record, and a DD2963.  
+b. Commands will no longer be required to print AHLTA notes as 
+there is an AHLTA feature in Health Artifact and Imaging 
+Management Solution (HAIMS). Also, upon certifying the medical 
+record, all AHLTA notes must be removed from the medical record 
+prior to sending to NMRA for scanning. The facility will use the
+push button feature to send AHLTA notes to HAIMS prior to mailing
+paper STR. If a facility does not have AHLTA, the closest 
+facility with AHLTA access must be notified by the command's 
+separating medical staff that assistance is needed for this 
+feature to be executed. 
+c. If the medical record is only made up of AHLTA notes, do not 
+scan AHLTA notes. Instead, use the push button feature to transfer 
+AHLTA notes into HAIMS, and scan the DD2963 into HAIMS. 
+d. Specific guidance for changes to all future STR retirement 
+processes will be disseminated by BUMED through training and 
+policy.
+
+6. Guidance for archiving STRs is located at:
+https://max.omb.gov/community/display/DoD/Health+Information
++Management.
+
+7. BUMED points of contact are: LT Lisa Brown, (703) 681-9193,
+lisa.a.brown(AT)med.navy.mil and Ms. Freda Eastman
+(703) 681-9192, freda.eastman(AT)med.navy.mil.
+
+8. Released by Vice Admiral S. H. Swift, Director, Navy Staff.//
+BT
+#0000
+NNNN
+

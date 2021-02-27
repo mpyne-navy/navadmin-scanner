@@ -1,0 +1,209 @@
+UNCLASSIFIED
+ROUTINE
+R 242121Z AUG 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 187/16
+
+SUBJ/CORRECTED COPY GUIDANCE FOR SEPARATION HISTORY AND PHYSICAL EXAMINATION
+(SHPE) FOR DEPARTMENT OF NAVY (DON) ACTIVE/RESERVE COMPONENT SERVICE 
+MEMBERS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC//DNS/APR// GUIDANCE FOR SEPARATION HISTORY 
+AND PHYSICAL EXAMINATION (SHPE)//
+
+REF/A/DOC/DOD/ DOD INSTRUCTION 6040.46, THE SEPARATION HISTORY AND PHYSICAL
+EXAMINATION (SHPE) FOR THE DOD SEPARATION HEALTH ASSESSMENT (SHA) PROGRAM
+REF/B/DOC/MANUAL OF THE MEDICAL DEPARTMENT, CHAPTER 15
+REF/C/DOC/MANUAL OF THE MEDICAL DEPARTMENT, CHAPTER 16
+REF/D/DOC/MANUAL OF THE MEDICAL DEPARTMENT, CHAPTER 18
+REF/E/DOC/DEPARTMENT OF THE NAVY (DON) DISABILITY EVALUATION MANUAL
+REF/F/DOC/001/15 DON ALNAV GUIDANCE FOR SEPARATION HISTORY AND PHYSICAL
+EXAMINATION FOR ALL DEPARTMENT OF NAVY ACTIVE/SELECTED RESERVE SERVICE MEMBER
+REF/G/DOC/NAVADMIN 187/14, PROPER TRANSFER OF HEALTH SERVICE TREATMENT
+RECORDS (STRS) OF TRANSITIONING SERVICE MEMBERS TO THE VETERANS 
+ADMINISTRATION
+
+RMKS/1.  This NAVADMIN outlines proper guidance for the Separation History 
+and Physical Examination (SHPE) program in accordance with references (a) 
+through (g).  All Commanders, Commanding Officers, and Officers-In-Charge 
+shall ensure compliance with the requirements contained herein regarding SHPE 
+responsibilities, procedures, and information collection requirements for all 
+Sailors, to include Reserve Component (RC) members.
+
+2.  Background.  It is of paramount importance to ensure that Service Members 
+receive an accurate and valid SHPE while having an orderly transition to 
+civilian life.  This NAVADMIN serves to provide guidance on SHPE processes, 
+for the purpose of applicability, requirements, components, timing, and 
+coding of SHPE, as the SHPE is the objective basis for any Department of 
+Veterans Affairs (VA) benefits claims made by the Service member after 
+separation.
+
+3.  Applicability.  All members of the Navy preparing for release from active 
+duty must complete a comprehensive SHPE prior to their scheduled date of 
+release.  This also applies to RC members in an active duty status for 180 
+days or more, RC members separating after 180 days or more of continuous 
+service on active duty orders, or RC members separating with 30 days or more 
+of continuous service on active duty orders in support of a Contingency 
+Operation.
+
+4.  Meeting the requirements:
+   a.  Service Members will not require a SHPE if they are separating or 
+retiring after being found unfit for continued military service through the 
+disability evaluation process and have completed the examinations in that 
+process.
+   b.  As stated in reference (a), any examination completed by the following 
+means and within the required time period is sufficient:  completion of DD 
+Form 2807-1 and DD Form 2808, a termination audiogram completed within the 
+previous 6 months on DD Form 2216, laboratory testing, occupational health 
+termination examinations, or other examinations performed for any other 
+reason that meets the components of the SHPE is sufficient.  The exam must be 
+properly documented within the Armed Forces Health Longitudinal Technology 
+Application (AHLTA).  If AHLTA is not available, the SHPE is documented on 
+paper and filed in the members Service Treatment Record (STR).
+   c.  When a medical assessment is used to update a previous medical history 
+and physical examination completed on DD Form 2807-1 and DD Form 2808 or 
+electronic medical record equivalent, and a condition not previously 
+documented is discovered, the credentialed examining provider will evaluate 
+the complaint objectively within the scope of a screening physical 
+examination.  Any serious, potentially unfitting condition found requires a 
+new SHPE to be completed and referral for further evaluation and treatment of 
+the new condition, as may be clinically indicated.
+
+5.  Components of SHPE.  Prior to separation, each Service Member must 
+receive a SHPE as documented on DD Form 2807-1 and DD Form 2808.  Components 
+include:
+   a.  DD Form 2807-1, completed by Service Member, with comments on all 
+positive responses completed by the credentialed provider performing the 
+SHPE.  The provider will document if the Sailor is qualified (or suitable) 
+for separation/retirement; or, if the Sailor is unqualified (unsuitable) for 
+separation/retirement and referred into the Integrated Disability Evaluation 
+System (IDES).  The majority of Sailors who are retiring will be presumed 
+fit.
+   b.  DD Form 2808, completed by a credentialed provider and a review of 
+medical record (hard-copy and electronic) and record of significant medical 
+conditions.
+   c.  Threshold/termination audiogram with complete audiology evaluation if 
+the threshold/termination audiogram indicates a significant threshold shift 
+after the second follow-up test.
+   d.  Optional Hepatitis C testing per U.S. Centers for Disease Control 
+guidelines.
+   e.  All occupational health termination examinations required by
+   Department of Defense (DOD) policy (e.g., hearing conservation, radiation, 
+asbestos medical surveillance), to include any periodic testing required by 
+other issuances
+(e.g., HIV testing), must be completed before SHPE is conducted.
+   f.  All SHPE documentation be uploaded in AHLTA when possible and be 
+included with the Service Members STR.
+   g.  The examining health care provider must have verified credentials 
+deemed appropriate by the Military Treatment Facility (MTF) privileging 
+authority to perform such examinations as a physician, physician’s assistant, 
+or nurse practitioner.  For exams performed by contracted providers though 
+the Reserve Health Readiness Program, the providers credentials must be 
+verified according to the terms of the contract.  An Independent Duty 
+Corpsman (IDC) does not have the verified credentials deemed appropriate to 
+conduct these examinations.
+
+6.  Timing of SHPE:
+   a.  A SHPE performed up to 30 days prior to the date of separation from 
+active duty requires no further documentation.
+   b.  A SHPE performed up to 90 days prior to the date of separation from 
+active duty must be validated as current not more than 30 days prior to the 
+date of separation.  Validation is an administrative requirement, but it must 
+contain a separate entry by a credentialed provider and transcribed into the
+STR for tracking purposes.
+   c.  A DOD-performed physical examination may be accepted between 90 days 
+and up to 12 months prior to the scheduled date of separation if it meets
+SHPE minimum standards, but must still be validated by a credentialed 
+provider as current not more than 30 days prior to the date of separation.
+   d.  A SHPE performed for Service Members at an OCONUS location with a 
+servicing MTF must be conducted at the respective OCONUS MTF.  For
+Service Members in remote duty CONUS/OCONUS locations that do not have a 
+servicing MTF, the SHPE will be conducted at a CONUS fleet concentration area 
+servicing MTF prior to separation out-processing.
+   e.  When a Service Member has terminal leave, the final out-processing 
+date may be used in lieu of date of separation from active duty for timeline 
+requirements.
+   f.  Per ref (c), the STR is the property of the U.S. Government and must 
+be maintained by the medical department which has primary cognizance over the 
+care of the patient.  Proper archiving of STRs (medical and dental records) 
+is essential for effective processing of Service member Department of 
+Veterans Affairs (VA) benefit claims.  Failure to maintain STRs with the 
+Sailors and Marines medical/dental department will likely affect or delay 
+future benefits upon the members separation/retirement.  All unit Commanders, 
+Commanding Officers, and Officers-In-Charge will ensure 100 percent of their 
+Service Members have submitted their STR to their supporting medical/dental 
+department prior to the Service Members final out-processing date.
+   g.  All medical/dental departments shall have positive control of the 
+Service Members STR prior to the SHPE being validated as current 30 days or 
+less prior to any out-processing date.
+   h.  Per ref (g), a reasonable search to locate and retrieve the STR must 
+be conducted.  If prior duty stations are unknown, the responsible Navy 
+medical and dental records department shall contact NPC Customer Service 
+Center (1-866-827-5672/DSN: 882-5672, email: UASKNPC(at)navy.mil).  For any 
+medical/dental department that does not have a Service Members STR when 
+validating SHPE current 30 days or less prior to any out-processing date, the 
+responsible medical/dental department must document its reasonable search 
+efforts with NPC Customer Service Center and the Service Member in DD Form 
+2963 Block 4, per reference (g).
+
+7.  Coding of SHPE:
+   a.  All Medical Departments conducting the SHPE must utilize the ICD-10-CM 
+DoD Unique Code Diagnosis DOD0222 "Separation/Termination/Retirement
+Examination: Examination performed at the end of employment and for 
+retirement or separation" as the documented primary diagnosis.  No other ICD-
+10-CM Diagnosis DoD Unique Code is authorized, with the exception of 
+operational commands that have not had the technical refresh, or have not yet 
+been authorized by higher authority to convert to ICD-10-CM.  In these cases 
+commands will use the ICD-9-CM Diagnosis V-Code, V70.5_9, 
+Separation/Termination/Retirement Exam:  Examination performed at the end of 
+employment and for retirement or separation must be utilized as the 
+documented primary diagnosis.  No other ICD-9-CM Diagnosis V-Code is 
+authorized for SHPE documentation by these commands that have not converted 
+to ICD-10-CM.
+   b.  All ICD-10-CM DoD Unique Code Diagnosis DOD0222 coded SHPEs must be
+accompanied by Current Procedural Terminology (CPT) procedure code 99420 for
+the administrative and review process.  The ICD-10-CM Diagnosis DoD Unique
+Code, DOD0222, will not be utilized for any other documentation purposes.
+
+8.  Reporting Requirements:
+   a.  Commanders, Commanding Officers and Officers-In-Charge of Military
+Treatment Facilities, and Department Heads of Operational Medical 
+Departments, shall report the status of each separating/retiring Service 
+members SHPE in the Navy’s SHPE tracking system, as it is implemented in 
+their command. Commands which do not have organic medical assets will rely on 
+the MTF or Branch Health Clinic performing their Service members SHPE.
+   b.  Bureau of Medicine and Surgery (BUMED).  On a quarterly basis, shall 
+provide the consolidated information to Assistant Secretary of the Navy
+(Manpower and Reserve Affairs)(ASN M&RA).
+   c.  All commands will advise their qualifying Service Members at least 180
+days prior to their separation that they need to complete a SHPE.  This 
+advisement will occur on NAVPERS 1070/13 Administrative Remarks.  Attendance 
+at the Transition Assistance Program (TAP) and subsequent Transition: GPS 
+(Goals, Plans, and Success) modular curriculum is not a substitute for the 
+notification process.
+
+9.  Unit Commanders and Officers-In-Charge are directed to take all 
+appropriate actions to identify SHPE processing issues well in advance of the 
+separation of Service Members and coordinate as necessary with their 
+respective chains of command, Bureau of Naval Personnel, and BUMED to ensure 
+the requirements of this NAVADMIN are met.
+   a.  Command separation check-out sheets shall be modified to reflect the 
+requirement to complete a SHPE prior to actual separation/end of active 
+obligated service.  The medical department will annotate compliance.
+   b.  Temporary duty and terminal leave may be held in abeyance as deemed 
+necessary to facilitate completion of SHPE process prior to separation of a 
+Service Member.
+   C.  Service Members may not be retained on active duty beyond the 
+expiration of their active duty service obligation unless specifically 
+provided for by applicable law and policy.
+
+10. Released by Vice Admiral R. L. Thomas, Director, Navy Staff//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

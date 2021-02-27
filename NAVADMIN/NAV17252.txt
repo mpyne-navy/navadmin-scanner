@@ -1,0 +1,216 @@
+UNCLASSIFIED
+ROUTINE
+R 181719Z OCT 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 252/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/MARCH 2018 (CYCLE 239) NAVY-WIDE PETTY OFFICER (E4-E6) ADVANCEMENT 
+EXAMINATIONS FOR USN, FULL TIME SUPPORT, AND CANVASSER RECRUITER SAILORS//
+
+REF/A/DOC/BUPERS/2NOV07//
+REF/B/MSG/SECNAV WASHINGTON DC/052044ZMAR13//
+REF/C/MSG/CNO WASHINGTON DC/N1/252221ZJUN10//
+REF/D/MSG/CNO WASHINGTON DC/N1/131544ZDEC07//
+REF/E/MSG/CNO WASHINGTON DC/011557ZFEB17//
+NARR/REF A IS BUPERSINST 1430.16F, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS ALNAV 015/13, PERSONNEL SECURITY INVESTIGATION SUBMISSION 
+REQUIREMENTS.
+REF C IS NAVADMIN 215/10, PERFORMANCE EVALUATION AND ADVANCEMENT GUIDANCE FOR 
+INDIVIDUAL AUGMENTEE SAILORS.  
+REF D IS NAVADMIN 336/07, ADMINISTRATION OF THE NAVY-WIDE ADVANCEMENT EXAM 
+FOR SAILORS IN IRAQ, AFGHANISTAN, AND THE HORN OF AFRICA.  
+REF E IS NAVADMIN 021/17, ESTABLISHMENT OF YEOMAN (SUBMARINE), LOGISTICS 
+SPECIALIST (SUBMARINE), CULINARY SPECIALIST (SUBMARINE) AND FIRE CONTROLMAN 
+(AEGIS) SERVICE RATINGS.//
+
+RMKS/1.  This NAVADMIN announces the March 2018 (Cycle 239) Navy-wide 
+advancement examination (NWAE) for advancement in rate of U.S. Navy, Full 
+Time Support and Canvasser Recruiter Sailors.
+    a.  Exam dates are:
+        E6 - 1 March 2018
+        E5 - 8 March 2018
+        E4 - 15 March 2018
+    b.  In addition to the requirements chapter 6 of reference (a) and this 
+message, educational services officers (ESO) must follow the pre-exam 
+preparation requirements in the exam verbatim located at 
+https://prod.neas.netc.navy.mil.
+
+2.  Eligibility Requirements.  Advancement candidate eligibility requirements 
+are found in reference (a), chapter 2, with the following information 
+specific only to Cycle 239:
+    a.  The terminal eligibility date used to compute time-in-rate (TIR) is 
+1 July 2018.
+    b.  The minimum TIR date must be on or before:
+        E6 - 1 July 2015
+        E5 - 1 July 2017
+        E4 - 1 January 2018
+    c.  TIR requirements for early promote E5 Sailors can be waived by 1 year 
+with commanding officer (CO)/officer in charge approval.
+    d.  High year tenure (HYT) date or approved HYT waiver must be effective 
+1 July 2018 or later and approved prior to 1 March 2018.
+    e.  Candidates in a rating requiring a security clearance must have a 
+favorable investigation adjudication issued by the Department of Defense 
+Central Adjudication Facility and it must be reflected properly in Joint 
+Personnel Adjudication System (JPAS) prior to 1 March 2018.  If the CO of  
+grants an interim clearance, JPAS must be updated prior to 1 March 2018.  
+Refer to reference (b) for additional guidance.  Once Sailors have a 
+clearance they must maintain that clearance eligibility.  If for any reason a 
+clearance is denied or revoked, an exam is not authorized until a new 
+clearance is granted.  Rates requiring a security clearance are AC, AE, AG, 
+AO, ATI, ATO, AWF, AWO, AWR, AWS, AWV, AZ, CTI, CTM, CTN, CTR, CTT, EOD, ET, 
+FC, FCA, FT, GM, HT, IC, IS, IT, LN, MA, MC, MN, MT, ND, OS, QM, SB, SO, STG, 
+YN, and nuclear and submarine ratings.
+    f.  Change of rate must be approved and retention approvals must be 
+completed before the scheduled exam date of the candidate.  This includes 
+approvals from Navy Personnel Command and Career Waypoints (CWAY), etc.  
+Sailors under instruction in A-school for rating conversion on the scheduled 
+date of the NWAE are prohibited from taking any examination.
+    g.  Compute performance mark average (PMA) using all evaluations in the 
+current rank of the candidate with an ending date that falls within the 
+following time periods:
+        E4 exam - 1 June 2017 to 28 February 2018
+        E5 exam - 1 December 2016 to 28 February 2018
+        E6 exam - 1 March 2015 to 28 February 2018
+    h.  For additional guidance on computing PMA, refer to reference (a), 
+chapter 3.  For PMA guidance for individual augmentee (IA) Sailors refer to 
+reference (c).
+    i.  Sailors who have received a "Denied Final - Active" from CWAY and 
+have a soft end of active obligated service prior to 1 July 2018 are 
+ineligible and shall not be administered the Cycle 239 NWAE.
+    j.  Cryptologic Technician Interpretive (CTI) Sailors must achieve a 
+minimum of L2/R2 on the Defense Language Proficiency Test (DLPT) in their 
+primary language, as assigned by their CO, within 12 months of NWAE.  Any CTI 
+whose primary language DLPT is over 12 months old must receive an advancement 
+cycle participation waiver from the Navy Foreign Language Office (N13F12).
+    k.  Sailors assigned to a submarine source rating must be fully 
+qualified, in line with Submarine Qualification Designation for Enlisted 
+Members, MILPERSMAN 1220-040.
+
+3.  Exam Ordering
+    a.  Deploying commands can order exams up to 6 months prior to the 
+scheduled exam date.  Exams required prior to the TIR list opening are 
+ordered via message or in the preferred message format via e-mail to 
+sfly_N321_exam_order(at)navy.mil following the guidelines in chapter 4 and 
+figure 4-1 of reference (a).  Specify in the subject line the order request 
+is for early exams.  Ensure a point of contact (POC) is included in the 
+message.  Refer to reference (d) for IA Sailors who are pending deployment 
+to, or are deployed to and operating in a congressionally designated combat 
+zones and approved contingency operations areas.
+    b.  CTI/CTN/CTR sensitive compartmented information (SCI) exam cycle 
+opening and closing ordering dates can be found on the Navy Enlisted 
+Advancement System (NEAS) Web at https://prod.neas.netc.navy.mil.
+        (1) ESO must verify initial Active TIR eligibility lists on
+NEAS Web for exam ordering.
+        (2) Additional exams are ordered in message format via e-mail to 
+sfly_cryptologic.products(at)navy.mil or via message following the guidelines 
+of reference (a), chapter 4.  Commands should replace SHIP TO UIC on the 
+message format with their Department of Defense Activity Address Code account 
+number.  In addition, include POC, the number of exams required with full 
+name, rate, and Department of Defense Identification number.  The deadline 
+for additional orders is 3 January 2018.  The deadline for SCI substitute 
+exam orders is 4 April 2018.
+    c.  Exam ordering for non-SCI exams begins 26 November 2017. ESOs must 
+verify TIR eligibility lists on NEAS Web during the following time periods:
+        (1) Initial TIR lists will be available:
+            E6 - 26 November 2017 to 13 December 2017
+            E5 - 26 November 2017 to 1 January 2018
+            E4 - 26 November 2017 to 15 January 2018
+        (2) Additional TIR lists will be available:
+            E6 - 14 December 2017 to 24 January 2018
+            E5 - 2 January 2018 to 28 January 2018
+            E4 - 16 January 2018 to 4 February 2018
+        (3) Additional regular exams required after the TIR list has closed 
+will be considered, otherwise, substitute exams will be sent. Exams ordered 
+after the TIR lists have closed shall be ordered via message or in message 
+format via e-mail to sfly_N321_exam_order(at)navy.mil following the 
+guidelines in chapter 4 of reference (a).  Ensure a POC is included in the 
+message.
+    d.  Commands must select the appropriate exams (i.e., NCC/NCR, ATI/ATO, 
+etc.).
+    e.  Substitute exams must be kept to a minimum and require justification 
+as stipulated in chapter 4 of reference (a).
+        (1) Naval Education and Training Professional Development Center 
+(NETPDC) is the approval authority for all substitute exams. The deadline for 
+ordering non-SCI substitute examinations is 6 April 2018.
+        (2) Recent graduates of the Naval Nuclear Propulsion Program training 
+pipeline on transfer leave in route to their first at-sea assignment during 
+the E4/E5 examination date will have substitute examinations ordered for them 
+by their ultimate duty station if dates permit exam ordering before the 
+published deadline.
+    f.  ESOs must verify the examination order at the "View Previous Exam 
+Orders" link via NEAS Web within 14 days of placing the order. If 
+discrepancies are noted, contact the Exam Ordering and Discrepancies Branch 
+NETPDC (N321).
+    g.  Separate exams are given for Yeoman (Submarine) (YNS), Logistics 
+Specialist (Submarine) (LSS), Culinary Specialist (Submarine) (CSS) and Fire 
+Controlman (Aegis) (FCA) service ratings. Refer to reference (e) for the 
+establishment of these new service ratings.
+    h.  USN candidates in the following ratings are separated into the 
+following competitive groups:
+        (1) CTI
+            Group 1 - Middle East/North Africa
+            Group 2 - East/Far East
+            Group 3 - Latin/South America
+            Group 4 - Eastern Europe
+        (2) EMN, ETN, and MMN
+            Group 1 - Submarine
+            Group 2 - Surface
+            Group 3  Training
+
+4.  Exam Administration and Answer Sheet Returns
+    a.  For exam administration and answer sheet return instructions, refer 
+to the exam verbatim at https://prod.neas.netc.navy.mil.
+    b.  ESO must check the exam tote board on NEAS Web at 
+https://prod.neas.netc.navy.mil/Public/Toteboard.aspx often to ensure answer 
+sheets have been received and processed.  Answer sheets that are in error 
+will not be counted until they are processed successfully.
+    c.  Substitute examinations must be administered within seven days of 
+receipt.
+    d.  A detailed discrepancy list will be maintained on NEAS Web. For 
+guidance on correcting discrepancies, refer to reference (a), chapter 7.  In 
+addition to processing discrepancy corrections via letter or message, NETPDC 
+will also accept discrepancy corrections by encrypted e-mail.
+
+5.  Exam Results
+    a.  E4-E6 results will be provided via Bureau of Naval Personnel On-Line 
+to authorized command representatives prior to release of profile sheets.
+    b.  Commands are directed to verify the examination status verification 
+report for accuracy before frocking and/or advancement of E4-E6 candidates.
+    c.  Individual Sailors may view/download their profile sheet at
+https://prod.neas.netc.navy.mil/NEASRpts/Individual.aspx.
+
+6.  Any additional information regarding this cycle will be posted on NEAS 
+Web.
+
+7.  Points of contact:
+    a.  Navy Personnel Command Customer Service Center: 866-U-ASK-NPC or via 
+e-mail at uasknpc(at)navy.mil.
+    b.  SCI exam questions and orders:  (850) 473-5867/DSN 753 or via e-mail 
+at sfly_cryptologic.products(at)navy.mil.
+    c.  Exam orders, records, and discrepancies: (850) 473-6148/DSN 753 or 
+via e-mail at sfly_N321_exam_order(at)navy.mil, or 
+sfly_N321_discrepanc(at)navy.mil.
+
+8.  For further information such as reference (a), exam verbatim, and other 
+related documents, visit NEAS Web at https://prod.neas.netc.navy.mil.
+
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+10.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

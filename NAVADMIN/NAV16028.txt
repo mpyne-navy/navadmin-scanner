@@ -1,0 +1,109 @@
+UNCLASSIFIED
+ROUTINE
+R 051443Z FEB 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 028/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/FEB//
+
+SUBJ/PUBLIC KEY INFRASTRUCTURE ENFORCEMENT ON NAVY NONSECURE INTERNET 
+PROTOCOL ROUTER NETWORK AND SECRET INTERNET PROTOCOL ROUTER NETWORK//
+
+REF/A/MSG/CNO WASHINGTON DC/241810ZSEP13//
+REF/B/MSG/CNO WASHINGTON DC/311732ZOCT13//
+REF/C/MSG/CNO WASHINGTON DC/201511ZDEC13//
+REF/D/MSG/CNO WASHINGTON DC/061724ZNOV14//
+REF/E/MSG/CNO WASHINGTON DC/051837ZAUG15//
+REF/F/MTG/DDCIO(N)(N2N6) MS. HAITH/OSD DOD CIO MR. HALVORSEN OF 7 JAN 16//
+REF/G/PUB/NDP 1/MAR 10//
+REF/H/PUB/JP 3-0/11 AUG 11//
+REF/I/PUB/JP 1-02/8 NOV 10//
+NARR/REF A IS NAVADMIN 245/13, PUBLIC KEY ENFORCEMENT ON NAVY SIPRNET.  REF B 
+IS NAVADMIN 285/13, IMMEDIATE PUBLIC KEY ENFORCEMENT ON NAVY ASHORE SIPRNET.  
+REF C IS NAVADMIN 322/13, MANDATORY AFLOAT ISSUANCE OF SIPRNET TOKENS.  REF D 
+IS NAVADMIN 256/14, PUBLIC KEY ENFORCEMENT FOR ACCESS TO U.S.NAVY WEBSITES 
+AND ASHORE APPLICATIONS ON SIPRNET.  REF E IS NAVADMIN 183/15, THE 
+CYBERSECURITY IMPLEMENTATION PLAN PROVIDING ADDITIONAL ACCELERATION GUIDANCE 
+OF PKI HARDENING.  REF F IS THE MILITARY DEPARTMENT CHIEF INFORMATION 
+OFFICERS (CIO) MEETING WITH DOD CIO OF 7 JAN 16 MANDATING ALL ENABLED 
+ACCOUNTS BE PKI ENFORCED ON NIPRNET AND SIPRNET.  REF G IS NAVAL DOCTRINE 
+PUBLICATION 1, NAVAL WARFARE.  REF H IS JOINT PUBLICATION 3-0, JOINT 
+OPERATIONS.  REF I IS JOINT PUBLICATION 1-02 DEPARTMENT OF DEFENSE DICTIONARY 
+OF MILITARY AND ASSOCIATED TERMS.//
+POC/MR. BEN PLANKENHORN/CIV/OPNAV N2N6BC/WASHINGTON DC/TEL:  703-692-
+1896/EMAIL:  BENJAMIN.PLANKENHORN(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancel references (a) through (e), and provides 
+updated guidance to DoD Public Key Infrastructure (PKI) requirements.  Below 
+is the mandatory timeline to complete the implementation of PKI for Nonsecure 
+Internet Protocol Router Network (NIPRNet) and Secret Internet Protocol 
+Router Network (SIPRNet).  This NAVADMIN applies to all Navy owned, operated, 
+and controlled NIPRNet and SIPRNet networks, web servers, and applications.
+
+2.  Definition.  Tactical networks and systems are defined in alignment with 
+references (g) through (i).  A tactical network or system directly supports a 
+combat element or forward deployed operation whether ashore, afloat, or 
+aloft.  Non-tactical networks are business systems or systems that do not 
+directly support maintenance and training efforts associated with tactical 
+(warfighting) systems.  These systems are specifically excluded from tactical 
+network and tactical system characterization.
+
+3.  Background.  Per reference (f), DoD Chief Information Officer (CIO) 
+directed strict enforcement on the use of PKI to access all accounts on DoD 
+Information Networks.  Navy will execute DOD CIOs objective of enhancing our 
+cybersecurity posture with the following actions.
+
+4.  Immediate action.  General end user and privileged accounts must meet the 
+following requirements:
+    a.  For NIPRNet, eliminate the use of all username/password accounts, 
+non-tactical and tactical, by 29 February 2016.  Eliminate the use of 
+username/password access to PKI enabled websites by 31 May 2016.
+    b.  For SIPRNet, eliminate the use of all username/password accounts, 
+non-tactical and tactical, by 31 July 2016.
+    c.  Accounts not in compliance by applicable deadlines will be disabled.
+    d.  SIPRNet National Security Systems (NSS) tokens will be issued to new 
+personnel by all accession sources (e.g., Naval Academy, Reserve Officers 
+Training Corp) before members are transferred to operating forces or initial 
+training.  All Navy personnel will retain their SIPRNet NSS token when 
+transitioning between commands and when transitioning to a different network 
+enclave (e.g., Next Generation Network to OCONUS Navy Enterprise Navy 
+Network).  SIPRNet NSS tokens must be suspended by the losing command and 
+reactivated by the gaining command during transition.  Service members will 
+retain their token until separated from the Navy.
+
+5.  Exceptions.
+    a.  All approved PKI exceptions (waivers) are rescinded, except for 
+accounts on networks, systems, or applications that are technically unable to 
+implement a solution to provide two-factor authentication.  New exception 
+requests will only be considered for networks, systems, or applications 
+technically unable to implement a PKI solution or two-factor authentication.
+    b.  If PKI authentication or alternate two factor authentication method 
+cannot be implemented within the required deadlines, system owners must 
+submit a waiver request endorsed by the first Flag Officer in the chain of 
+command.  Echelon II exception requests must be submitted to OPNAV N2N6BC 
+using the PKI waiver template and process posted at:  
+https://infosec.navy.mil/PKI/pkipolicy.jsp and include a fully resourced Plan 
+of Action & Milestones to implement PKI.  Additionally, Echelon IIs will 
+audit approved excepted accounts every 30 days and take action as required to 
+mitigate risk to the Navy enterprise.
+    c.  Exception requests do not have to be submitted for Windows service 
+accounts (computer-to-computer accounts with passwords that provide services 
+such as active directory connector or SQL server express).
+    d.  Submarine Force commands that have not completed the Navy Certificate 
+Validation Infrastructure server installation are exempt from given timeline 
+for SIPRNet and will continue to use username/password for account access.
+
+6.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+7.  Released by VADM Ted N. Branch, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

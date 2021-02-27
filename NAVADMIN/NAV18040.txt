@@ -1,0 +1,70 @@
+UNCLASSIFIED
+ROUTINE
+R 202243Z FEB 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 040/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/FEB//
+
+SUBJ//NEW INSTRUCTION FOR CY2017 COR SUBMISSION//
+
+REF/A/DOC/OPNAVINST 5750.12/
+NARR/REF A IS CNO INSTRUCTION ON ANNUAL COMMAND OPERATIONS REPORT//
+
+RMKS/1.  Per reference (a), all Navy Echelon II and subordinate commands are 
+responsible for submitting a Command Operations Report (COR) for their unit 
+annually.  Calendar year 2017 CORs are due 1 March 2018.  This NAVADMIN 
+provides updated information on COR submission guidance and resources to 
+assist submissions as reflected in the upcoming update to OPNAVINST 5750.12.
+
+2.  CORs are one of the most important records each command creates.  They 
+are kept permanently while many other reports are not.  CORs are the Navy's 
+primary source for operational data and this information is used to support 
+the researchers, Fleet, Office of the Chief of Naval Operations, the Joint 
+Staff, and Congress.  This data is needed to understand and improve the 
+Navy's mission execution.  CORs are also a key source of information for 
+veterans needing documentation of their time in the Navy.
+
+3.  The COR shall include information about classified operations during the 
+reporting period, and be classified appropriately.  The COR cannot be vague 
+and must be descriptive.  Include documentation like Post-Deployment Briefs, 
+After Action Reports and Causality Reports.  CORs classified no higher than 
+the Secret level may be submitted using SIPRNet at: 
+NHHC_COR(AT)navy.smil.mil.  Reports classified higher than Secret are also 
+accepted.  Contact listed SIPRNet email for information about submitting Top 
+Secret and/or Sensitive Compartmented Information material.
+
+4.  Each unit shall submit their own report with only one exception: if a 
+command has fewer than 10 members, their immediate superior in charge can 
+submit on their behalf.  If a command has 10 or more members - military, 
+civilian, and/or contractor - they must submit their own report.
+
+5.  CORs should be submitted to the Naval History and Heritage Command (NHHC) 
+either electronically or using digital media.  Paper CORs are strongly 
+discouraged as they are frequently damaged by the irradiation process.
+
+6.  Reference (a), a template with guidance, and examples may be downloaded 
+from the NHHC's COR website at
+https://www.history.navy.mil/about-us/instructions-and-forms/submit-a
+-command-operations-report.html.  Calendar year 2016 submission template 
+matching OPNAVINST 5750.12K CH-1 may also be used for this year's 
+submissions.  Questions about the report should be directed to email:  
+NHHC_COR(AT)navy.mil or NHHC_COR(AT)navy.smil.mil.
+
+7.  Point of Contact is the COR Program and may be contacted at comm:
+(202) 433-9873 and email: NHHC_COR(AT)navy.mil or NHHC_COR(AT)navy.smil.mil.
+
+8.  Released by Vice Admiral K. M. Donegan, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

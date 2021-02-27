@@ -1,0 +1,179 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 192012Z JAN 21 MID200000565839U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 014/21
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/JAN//
+
+SUBJ/SARS-COV-2 VACCINE ALLOCATION AND LESSONS LEARNED//
+
+REF/A/MSG/OPNAV/161751ZDEC2020//
+
+REF/B/DOC/OPNAV/14JAN2021//
+
+NARR/REF A IS NAVADMIN 327/20 SARS-COV-2 VACCINATION AND REPORTING POLICY.
+REF B is OPNAV Vaccine Distribution and Administration Schema Version 3.3.// 
+POC/CAPT Ronald Stowe /(703)697-3791/RONALD.STOWE(AT)NAVY.MIL
+POC/BUMED COVID-19 CRISIS ACTION TEAM /(703)681-1125/EMAIL:
+USN.NCR.BUMEDFCHVA.MBX.BUMED-2019-NCOV-RESPONSE-CELL(at)MAIL.MIL//
+
+RMKS/1. The Department of the Navy began vaccinating Sailors and DON 
+Civilians on 15 December 20 for novel coronavirus SARS-CoV-2.  This NAVADMIN 
+explains the Navy vaccine allocation process and shares OPNAV and Fleet 
+identified lessons learned. Policy, administration and medical guidance for 
+vaccination is covered in reference (a). The overall Navy prioritization 
+schema for vaccine distribution is contained in reference (b).
+
+2. Vaccine Allocation Process.
+
+2.a. The Department of Defense allocation for all currently approved vaccines 
+is provided Tuesday of each week.  Approximately 28% of that allocation is 
+allotted to the Department of the Navy (USN and USMC).
+The OPNAV and Head Quarters Marine Corps COVID Cells divide the DoN share 
+based on service end-strength.
+
+2.b. The OPNAV COVID Cell recommends allocation of vaccine to Navy Military 
+Treatment Facilities (MTF) based on four factors: (1) Personnel remaining in 
+each phase/tier of reference (b); (2) Vaccine on hand at each MTF; 
+(3)Demonstrated vaccination throughput at each MTF; (4) Vaccine allocated to 
+the MTF the previous week.  The overarching goal is to keep the navy 
+geographically uniform in the vaccine schema while delivering vaccine to 
+those MTFs who can quickly vaccinate their population.
+
+2.c. Accuracy of updating the existing data systems is crucial for effective 
+OPNAV decision making.  The OPNAV COVID Cell uses daily vaccination data 
+reported by each MTF, vaccination data on each Sailor reported in the Medical 
+Readiness Reporting System (MRRS), and Defense Medical Logistics Supply 
+System (DMLSS) vaccine inventory reports for each MTF.
+
+2.d. Vaccination progress by UIC organized by reference (b) schema is 
+available for approximately 5500 Navy commands as informed by the Echelon 2 
+commanders and maintained by the OPNAV COVID Cell.  Data is posted daily at: 
+https 
+://portal.secnav.navy.mil/cop/crc/COVID/Vaccine%20Info/Forms?ALLItems.aspx
+
+2.e. The OPNAV COVID Cell transmits the updated weekly Vaccine Serial every 
+Thursday.
+
+2.f. Government civilian population and other authorized beneficiaries will 
+be included in vaccine reports in para 2.d as medical reporting data becomes 
+available from Defense Health Agency.
+
+2.g. Second doses are automatically shipped two to three weeks after the 
+shipment of the initial allocation.  Second doses are not covered or reported 
+in the OPNAV Allocation serial and are coordinated by MTF Commanders and 
+previously vaccinated units.
+
+3. Unit Prioritization.  Each MTF has been aligned to a Naval Component 
+Commander (NCC).  All other Echelon 2 commanders provide their subordinate 
+units prioritized IAW reference (b) to the NCC and segregated by the 
+supporting MTF.  NCCs consolidate inputs and provide each MTF with a 
+prioritized local list of commands.
+
+4. Fleet Vaccination Lessons Learned.  Efficiently distributing and 
+administering these vaccines is critical to force health, mission assurance 
+and a return to normalcy.  The lessons below have been effective.
+
+4.a. There is no substitute for positive Command Triad Leadership.
+
+4.a.1. Ensure Sailors understand the enormous benefits of the vaccine.
+Currently, 2 of 3 Sailors who are offered the vaccine take it.  Bring medical 
+personnel in to answer any and all questions.
+
+4.a.2. Consider conducting a survey to assess reasons for vaccine 
+declination, using results to inform electronic and TEAMS-based All-Hands 
+messaging.
+This increased the take rate at one TYCOM by 9%.
+
+4.a.3. Utilize centralized messaging to minimize confusion.  A fleet or 
+TYCOM-level vaccination cell can connect lines of communication between 
+subordinate commands and MTFs. Involve installation commanders early in the 
+process to improve efficiency and reduce confusion.
+
+4.a.4. Actively manage standby lists; have ready units on short-call to 
+improve throughput.
+
+4.b. Preparation.
+
+4.b.1. MTF coordination and communication with the supported commands ahead 
+of the vaccination shot-exercise significantly improves efficiency.
+
+4.b.2. MTFs should post or provide all required forms to ships medical teams 
+as part of the pre-coordination.  Units should arrive at the site with 
+paperwork complete.
+
+4.b.3. NCCs should provide MTFs a list daily from local commands of personnel 
+desiring the vaccine but not yet scheduled to ensure 100 percent utilization 
+of thawed vials.
+
+4.c. All hands effort.
+
+4.c.1. NCCs or TYPE Commanders assign a senior (O6 and/or senior E-9) 
+leadership team at the vaccination site to help direct traffic, manage NCC 
+priorities and ensure the next unit is on deck at the right time.  An 
+assigned senior leader at some sites has ensured steady progress of 
+vaccination while maintaining social distancing protocols.
+
+4.c.2. All available medical personnel, including waterfront corpsman 
+assigned to non-MTF staffs should be trained and employed to vaccinate 
+personnel.
+
+4.c.3. Non-medical personnel (ships force or staff) should be employed to 
+make record entries, following Health Insurance Portability Act and 
+Personally Identifying Information training.
+
+4.c.4. Schedule make up/clean up blocks of time in advance for command 
+personnel who are not able to attend the primary shot-exercise, such as 
+watchstanders.
+
+4.c.5. MTFs employing a consistent dedicated team to distribute vaccine can 
+improve efficiency and teamwork.
+
+4.c.6. Identification of stand-by personnel or units during shot-exercises is 
+critical to assure best use of the vaccine.  Having personnel on stand-by 
+will reduce the risk of lost vaccine due to vaccination time restrictions 
+after vials are opened for use.
+
+4.d. Site planning:
+
+4.d.1. NCCs publish site plans / map in advance when feasible.
+
+4.d.2. Prepare the site with clear signs, barriers and cones to support 
+traffic flow.  Consider a receiving area with a welcome desk to answer 
+questions at the beginning of the process.
+
+4.d.3. Conduct Shot-exercises as close to the Sailors work space as possible, 
+on the waterfront, headquarters, etc. Bring the shot to the Sailor.
+
+4.d.4. When employing mobile shot-exercise locations, consider establishing a 
+base camp to manage data entry at a centralized location.
+
+4.d.5. For smaller geographic areas, a dedicated operations location ensures 
+repeatable processes and efficient, consistent execution.
+
+4.e. Data entry.  Accuracy of updates provided to BUMED and entered into the 
+existing MRRS and DMLSS systems is crucial to accurate future allocation 
+decisions.
+
+5. Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

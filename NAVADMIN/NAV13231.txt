@@ -1,0 +1,59 @@
+RTTUZYUW RUEWMCS0001 2552105-UUUU--RUCRNAD
+ZNR UUUUU
+R 122105Z SEP 13
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO/CNO WASHINGTON DC//N1//
+UNCLAS//N06110//
+NAVADMIN 231/13
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// SUBJ/PHYSICAL READINESS PROGRAM POLICY 
+CHANGES// REF/A/DOC/OPNAV/11JUN11// REF/B/DOC/OPNAV/12JAN09// NARR/REF A IS OPNAVINST 
+6110.1J, PHYSICAL READINESS PROGRAM.  REF B IS OPNAVINST 6100.3, DEPLOYMENT HEALTH 
+ASSESSMENT (DHA) PROCESS.//
+
+ RMKS/1.  This NAVADMIN outlines policy changes to ref (a) that are effective upon the release of this 
+NAVADMIN.
+    a.  Sailors requiring a deployment health assessment (DHA) in the form of either a Post Deployment 
+Health Assessment (PDHA) or a Post Deployment Health Re-assessment (PDHRA), must be within 
+assessment periodicity to participate in the PFA.
+    b.  The number of days allowed for Sailors to complete the physical readiness test (PRT) after the 
+official body composition assessment (BCA) date is increased from 10 to 45 days.
+
+2.  Medical clearance.  Per ref (a), paragraph 5b; the PFA includes a medical screening, BCA, and PRT.  
+    a.  Per ref (a), enclosure (1) paragraph 4d, Sailors shall not participate in the PRT without medical 
+clearance.  New medical screening policy requires all Sailors to maintain a current PHA, which includes, 
+when required, a current DHA - either PDHA or PDHRA.  
+Sailors required to complete a DHA that are not current and those who have not completed a PHA 
+within the required periodicity are precluded from participation in the PRT portion of the PFA.  If a PFA 
+(BCA and PRT) is not completed because of a delinquent PHA or DHA, the commanding officer (CO) may 
+assign the member a "UA" status in the Physical Readiness Information Management System (PRIMS) for 
+the missed PFA.
+    b.  All personnel are required to complete their Physical Activity Risk Factor Questionnaire (PARFQ) in 
+PRIMS as a prerequisite to participate in the PFA.  The PARFQ is not valid unless the PHA and, if required, 
+the DHA are within the required periodicity.
+    c.  A "yes" response to any question on the current cycle PARFQ other than question one, requires 
+medical clearance be documented on the bottom of the PARFQ and certified by an authorized medical 
+provider unless a medical waiver is required.  If a medical waiver is required, the waiver must be issued 
+on the official PFA medical waiver/clearance (NAVMED 6110/4) and approved by the CO prior to the 
+BCA portion of the PFA.  
+    d.  A PARFQ is not required if the PRT will not be conducted (i.e.  DEP/OP, IA, TAD, etc).
+
+3.  Sailors can check the status of their PHA/DHA by logging into BUPERS on-line at 
+https://www.bol.navy.mil/ and selecting individual medical readiness status.
+
+4.  BCA scheduling requirements.  The BCA shall be completed within 45 days of, but not less than 24 
+hours prior to, participation in the PRT.  The official BCA is the first and only BCA taken during the 
+command PFA.  If the recorded PRT is not completed within 45 days of the official BCA, the CO may 
+assign a participation status of "UA"  for the PRT.  This policy applies to both active and reserve Sailors.
+5.  Above policy updates will be incorporated into the forthcoming revisions of refs (a) and (b).
+
+6.  Point of contact is Mr. Bill Moore, Director, Physical Readiness Program, N170 at (901) 874-2210/DSN 
+882, or via e-mail at navyprt(at)navy.mil.
+
+7.  Released by Vice Admiral W. F. Moran, N1//
+
+BT
+#0001
+NNNN
+

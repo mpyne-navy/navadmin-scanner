@@ -1,0 +1,54 @@
+UNCLASSIFIED
+ROUTINE
+R 291824Z FEB 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 053/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/COMMAND PASS COORDINATOR WORKLOAD DATA CAPTURE//
+
+REF/A/MSG/CNO WASHINGTON DC/231513ZFEB15//
+AMPN/REF A IS NAVADMIN 043/15, GUIDANCE FOR USING PAY AND PERSONNEL STANDARD
+OPERATING PROCEDURES//
+
+RMKS/1.  This NAVADMIN solicits leadership assistance in capturing command 
+pass coordinator (CPC) workload data associated with a Navy Manpower Analysis 
+Center (NAVMAC) manpower requirements determination study. This effort is 
+part of a broader study of requirements for the Navy’s Pay and Personnel
+Administrative Support System and Afloat Pay and Personnel Programs, and is 
+designed to improve all aspects of pay and personnel support to the fleet.
+
+2.  NAVMACs data collection strategy will incorporate remote collection of 
+CPC workload data through a virtual survey tool.  Beginning 1 March 2016,
+NAVMAC will distribute this virtual tool to the CPCs through the CPC 
+Coordinators at each Personnel Support Detachment.  The virtual data 
+collection effort will run through 25 March 2016.
+
+3.  In addition, CPC subject matter expert (SME) panels will be convened to 
+review CPC processes and workload. NAVMAC will rely on CPC coordinators to 
+distribute/manage panel schedules and to maximize SME participation.
+
+4.  As discussed in reference (a), the CPC is a vital component of Navy’s 
+overall pay and personnel services program.  The success of this data 
+collection effort depends on maximum CPC involvement.
+
+5.  Points of contact are Mr. Doyle Avant, head, manpower programs, NAVMAC at
+(901) 874-6312/DSN 882 or via e-mail at doyle.avant(at)navy.mil and
+Mr. Timothy Reeves, industrial engineer, NAVMAC at (901) 874-6321/DSN 882 or 
+via email at timothy.d.reeves(at)navy.mil.
+
+6.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

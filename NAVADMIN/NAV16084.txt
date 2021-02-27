@@ -1,0 +1,53 @@
+RTTUZYUW RHOIAAA0001 0951733-UUUU--RHSSSUU
+ZNR UUUUU
+R 041724Z APR 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 084/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/CANCELLATION OF THE GUARANTEED ASSIGNMENT RETENTION DETAILING (GUARD
+2000) PROGRAM//
+
+REF/A/DOC/COMNAVPERSCOM/30AUG11//
+REF/B/DOC/COMNAVPERSCOM/6AUG03//
+REF/C/GENADMIN/CNO WASHINGTON DC/261710ZJUL12//
+NARR/REFERENCE A IS MILPERSMAN 1306-1002, GUARANTEED ASSIGNMENT RETENTION 
+DETAILING (GUARD 2000) PROGRAM.  REFERENCE B IS MILPERSMAN 1306-1004, 
+GUARANTEED ASSIGNMENT RETENTION DETAILING (GUARD 2000) PROGRAM FOR NUCLEAR 
+TRAINED PERSONNEL.  REFERENCE C IS NAVADMIN 226/12, CHANGES IN ENLISTED
+DISTRIBUTION TO IMPROVE SEA DUTY MANNING.//
+
+RMKS/1.  This NAVADMIN announces cancellation of references (a) and (b).
+
+2.  The GUARD 2000 programs are retention tools that were established in 1998 
+and provided for two guaranteed assignments during a career.  With the Career
+Management System/Interactive Detailing (CMS/ID) business rules established 
+in reference (c) and the Optimized Fleet Response Plan, GUARD 2000 is no 
+longer applicable.  Additionally, one of the main tenants of GUARD 2000 was 
+the waiver of up to 18 months of sea duty.  This contradicts our current 
+manning initiatives such as early return to sea, Voluntary Sea Duty Program,
+and increasing use of Sea Duty Incentive Pay programs.  The primary objective
+of these programs is to minimize gaps at sea, not curtail sea tours.
+
+3.  The GUARD 2000 program does not align with current CMS/ID business rules
+and initiatives.
+
+4.  Points of contact for additional information is Navy Personnel Command
+Customer Service Center (NPC CSC), at 1-866-u-ask-npc or via e-mail at 
+uasknpc(at)navy.mil.
+
+5.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

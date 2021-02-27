@@ -1,0 +1,146 @@
+UNCLASSIFIED
+ROUTINE
+R 271438Z JUL 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+
+NAVADMIN 181/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUL//
+
+SUBJ/GUIDANCE FOR ACCESS AND ECHELON RESPONSIBILITIES FOR TRACKING SERVICE 
+TREATMENT RECORDS FOR ALL UNITED STATES NAVY ACTIVE/ SELECTED RESERVE SERVICE 
+MEMBERS(CORRECTED COPY)//
+
+REF/A/MSG/CNO WASHINGTON DC/DNS/192157Z NOV 16//
+REF/B/DOC/OSD/16 NOV 2015//
+REF/C/DOC/BUMED/10 NOV 2015//
+REF/D/MSG/SECNAV WASHINGTON DC/062126Z OCT 16//
+REF/E/DOC/CNO/1 MAR 2017//
+NARR/REFERENCE (A) IS NAVY-SPECIFIC ADMINISTRATIVE MESSAGE (NAVADMIN) 187/14, 
+PROPER TRANSFER OF HEALTH SERVICE TREATMENT RECORDS OF TRANSITIONING SERVICE 
+MEMBERS TO VETERANS ADMINISTRATION.  REFERENCE (B) IS DEPARTMENT OF DEFENSE 
+INSTRUCTION (DODI) 6040.45, DOD HEALTH RECORD LIFE CYCLE MANAGEMENT.  
+REFERENCE (C) IS MANUAL OF THE MEDICAL DEPARTMENT, CHAPTER 16.  REFERENCE (D) 
+IS DEPARTMENT OF THE NAVY MESSAGE (ALNAV) 066/16, GUIDANCE FOR ARCHIVING 
+HEALTH SERVICE TREATMENT RECORDS (STRS) FOR DEPARTMENT OF THE NAVY (DON) 
+ACTIVE/SELECTED RESERVE SERVICE MEMBERS.  REFERENCE (E) IS OPNAVINST 5400.45, 
+THE CHIEF OF NAVAL OPERATIONS GUIDANCE FOR THE STANDARD NAVY DISTRIBUTION 
+LIST.//
+
+RMKS/1.  This NAVADMIN announces the implementation of the Service Treatment 
+Record (STR) tracking tool within the Navy Standard Integrated Personnel 
+System (NSIPS) to assist commands with DON processes for the proper transfer 
+of medical and dental records, hereafter known as STRs, to the Department of 
+Veterans Affairs (VA) for transitioning Navy active and Selected Reserve 
+Service members. As such, the Office of the Under Secretary of Defense for 
+Personnel and Readiness has mandated a 45-calendar day submission timeline 
+for all services to transfer STRs to the VA.  DON shall comply with the 
+timeliness standards and make records available within 45-calendar days from 
+the separation/retirement date from active duty.  For Reserve Component 
+Service members who do not separate from service but file a VA benefits 
+claim, STRs must be available within 45-calendar days after notification of 
+pending claim.  This tracking tool will enhance the Navy enterprise ability 
+to comply with the mandates as set forth in references (a) through (d).
+
+2.  Background.  Per references (a) through (d), commanders, commanding 
+officers (CO), and officers in charge (OIC) are responsible for ensuring STRs 
+are properly and expeditiously closed out and shall ensure collaborative 
+processes exist between the medical/dental and administrative departments to 
+maintain custody of the Service member's STR.  Reference (b) requires STRs to 
+be electronically transferred to the VA within 45-calendar days of separation 
+to ensure Service member disability claims are processed within the 
+established timelines set forth by the Secretary of the Navy.  This STR 
+tracking tool is hereby implemented to leverage the personnel information 
+already contained within NSIPS and to provide an automated solution for 
+tracking and monitoring compliance.  The system will provide direct access to 
+terminal leave data, separation data by unit identification code (UIC) and 
+social security number, STR compliance performance reports, projected and 
+actual separations, Service member's last five duty stations, and service 
+member's contact information to assist with the due diligence process.
+Ensuring that Service members experience an orderly transition to civilian 
+life is of paramount importance and an important component of this transition 
+is the timely transfer of the separating or retiring Service member's STR to 
+the VA.
+
+3.  STR Tracking Tool Access Request Process.
+    a.  The intended access request process will roll out in three phases.  
+Phase one is intended to allow Echelon II and III commands, as identified in 
+reference (e), to initiate the request electronically via NSIPS self-service, 
+route the request through the chain of command for review and recommendation, 
+and then electronically submit to Navy Medicine Records Activity (NMRA) for 
+approval.  Under phase one, Echelon II and III commands will have the 
+opportunity to familiarize themselves with the tracking tool and determine 
+additional commands that will require access during phases two and three.  
+Once approved, the command will have access to data within NSIPS to identify 
+trends in compliance.
+    b.  Phases two and three will allow additional subordinate commands, as 
+directed by their respective Immediate Superior in Command, the opportunity 
+to initiate the request electronically via the NSIPS self-service, route the 
+request through their chain of command for review and recommendation, and 
+then electronically submit to NMRA for approval.  Phase two will also provide 
+the ability for commands to familiarize themselves with the tracking tool and 
+determine additional commands that will require access during phase three.  
+Once approved, the command will have access to data within NSIPS to identify 
+trends in compliance.
+    c.  The System Access Authorization Request (SAAR-N) form from each 
+requester must contain a list of UICs for which the command is requesting 
+access in the role of STR Command User only.  If additional UICs are later 
+identified under the same command, a separate SAAR-N form must be initiated 
+and routed via the chain of command for approval following steps in paragraph 
+3a.
+
+4.  User Information.  Newsletters containing useful tracking tool 
+information will be posted via a link under the User Information section of 
+the NSIPS production page titled, What's New for You. This information is 
+designed to assist commands with disseminating important information about 
+the tracking tool and to assist first time users with screenshots of initial 
+navigation steps.
+
+5.  Training.  Tutorials will be available with step-by-step instructions 
+within the main screen of the NSIPS production page for each available 
+function within the tracking tool.  Tutorials will assist first time users 
+with developing STR tracking competence and ensure the success of the system 
+at each level within the Navy enterprise.
+
+6.  Analytical Support.  Navy Medicine and NMRA will continue to provide 
+analytical support to the stakeholders with current reports until Echelon II 
+commands have received access to the system.  This will ensure all data is 
+available within the system for performance monitoring post implementation.  
+The target deadline to cease providing analytical support via the current 
+reports is 1 September 2017.
+
+7.  Responsibilities.
+    a.  All echelons must work proactively with NMRA to identify personnel 
+and/or commands that will require access to the tracking tool.
+        (1) Commanders, COs, and OICs are responsible for all aspects of the 
+STR disposition process for their units.
+        (2) Echelon II and III commands, as identified in reference(e), will 
+appoint an STR point of contact to serve as the Responsible Individual (RI) 
+and an Alternate RI (ARI) for all STR Tracking Tool matters.  The STR 
+Tracking Tool RI and/or ARI will coordinate with NMRA to communicate with all 
+units that fall under their STR purview. Echelon II and III Commanders will 
+e-mail STR RI and ARI contact information to NMRA at: 
+usn.ncr.bumedfchva.mbx.nmra-navy-str(AT)mail.mil within 30 days of release of 
+this NAVADMIN.
+    b.  Bureau of Naval Personnel (BUPERS) responsibilities.
+        (1) BUPERS shall provide NMRA with weekly separations lists until the 
+tracking tool is fully operational, with a target end date of 1 August 2017.
+        (2) Personnel Support Detachments (PSD) will continue to assist 
+commands with the verification of separations for medical treatment 
+facilities, clinics, ships, etc. within their area of responsibility (AOR).  
+Once the tracking tool is fully operational within the PSD's AOR, submission 
+of weekly separation lists will no longer be required.
+
+8.  Reporting Requirements.  Navy Medicine will continue to provide a weekly 
+report to the Office of the Under Secretary of Defense for Personnel and 
+Readiness, and separation data to the scanning contractor for processing.
+
+9.  Released by VADM J. G. FOGGO, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

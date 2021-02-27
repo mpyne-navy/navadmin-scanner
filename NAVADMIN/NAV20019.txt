@@ -1,0 +1,47 @@
+UNCLASSIFIED//
+ROUTINE
+R 241855Z JAN 20 MID110000334646U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 019/20
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//N98//
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/JAN//
+
+SUBJ/INTERIM CHANGE TO OPNAVINST 1412.11A//
+
+REF/A/DOC/OPNAV/03DEC2019//
+REF/B/DOC/OPNAV/MAY2016//
+NARR/REF A IS OPNAVINST 1412.11A PROFESSIONAL AVIATION MAINTENANCE OFFICER 
+(PAMO) QUALIFICATION AND DESIGNATION.
+REF B IS OPNAVINST M-5215.1 NAVY DIRECTIVES MANAGEMENT PROGRAM MANUAL.// 
+POC/CAPT FRANK BENNETT/CNO WASHINGTON DC/N980L/TEL: COMM (703)
+695-8464/DSN: 225-8464/EMAIL: FRANKLIN.BENNETT(AT)NAVY.MIL//
+
+RMKS/1.  Purpose.  To update reference (a) to correctly identify Commissioned 
+Officer designators eligible to attain the PAMO warfare designation.
+
+2.  Action.  Change paragraph 5 of reference (a), to read as follows:
+"Eligibility.  Commissioned Officers with designators 152X, 633X, or 733X are 
+eligible to attain a Warfare designation as a PAMO.? Delete designators 
+?734x? and ?738x? as these former designators have been combined into 733x 
+designator.
+
+3.  Cancellation.  This interim change message remains in effect until 
+changes are incorporated into an official change transmittal or re-issuance 
+of the instruction.
+
+4.  Released by VADM J. W. Kilby, Deputy Chief of Naval Operations, 
+Warfighting Requirements and Capabilities (N9).//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

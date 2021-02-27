@@ -1,0 +1,124 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 161157Z JUL 20 MID510001435194U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 201/20 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM REVISED BUSINESS 
+RULES// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/041505ZAPR18// 
+REF/B/MSG/CNO WASHINGTON DC/201604ZDEC18// 
+REF/C/MSG/CNO WASHINGTON DC/261408ZJUN19// 
+REF/D/MSG/CNO WASHINGTON DC/211828ZMAY20// 
+ 
+NARR/REF A IS NAVADMIN 085/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY 
+EXAM.   
+REF B IS NAVADMIN 313/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+BUSINESS RULES.   
+REF C IS NAVADMIN 140/19, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+APPLICATION.   
+REF D IS NAVADMIN 150/20, SEPTEMBER 2020 (CYCLE 248) NAVY-WIDE ADVANCEMENT 
+EXAMINATIONS FOR ACTIVE-DUTY AND FULL-TIME SUPPORT PETTY OFFICERS (E-4 
+THROUGH E-6). 
+ 
+RMKS/1.  This NAVADMIN cancels references (a) through (c) and announces 
+updated business rules for the Professional Military Knowledge Eligibility 
+Exam (PMK-EE). 
+ 
+2.  As part of Sailor 2025 and Rating Modernization efforts, the PMK-EE 
+provides greater emphasis on professional military knowledge and separates it 
+from rating knowledge examinations.  PMK-EE serves as an eligibility 
+requirement to take the Navy-wide advancement exam (NWAE) for advancement to 
+paygrades E-4 through E-7 or if taking the NWAE for participation in the 
+limited duty officer program. 
+ 
+3.  PMK-EE completion is also required for Prior Service Reenlistment 
+Eligibility Reserve candidates taking the NWAE in order to advance to the 
+next-higher paygrade.  Sailors who are taking the NWAE in their current 
+paygrade in order to lateral transfer or make their rate permanent in the 
+current paygrade will not need to complete the PMK-EE.  Sailors who are 
+competing for advancement through a program (i.e. the Meritorious Advancement 
+Program) that does not require them to take the NWAE to advance must 
+successfully complete PMK-EE for the next-higher paygrade prior to advancing. 
+ 
+4.  The enlisted advancement worksheet (EAW) routing and processing requires 
+additional time for Educational Services Officers to finalize advancement 
+candidate worksheets, resulting in required changes to PMK-EE completion due 
+dates.  Starting with cycle 248 (September 2020) for active-duty (AD) and 
+full-time support (FTS) advancement candidates and (in line with reference 
+(d)), cycle 108 (February 2021) for Selected Reserve (SELRES) advancement 
+candidates, the following PMK-EE completion dates are required for each 
+annual NWAE cycle administration: 
+    a.  January AD/FTS E7 NWAE cycle  prior to 1 December of the previous 
+year. 
+    b.  February SELRES E-4/5/6/7 NWAE cycle  prior to 1 January of the same 
+year. 
+    c.  March AD/FTS E-4/5/6 NWAE cycle  prior to 1 February of the same 
+year. 
+    d.  August SELRES E-4/5/6 NWAE cycle  prior to 1 July of the same year. 
+    e.  September AD/FTS E-4/5/6 NWAE cycle - prior to 1 August of the same 
+year. 
+ 
+5.  Sailors completing the PMK-EE, especially when using the mobile 
+application, are advised to complete the following actions: 
+    a.  Ensure that the completion certificate indicates a score of 80 
+percent or higher, and that the completion date on the certificate meets the 
+requirements stated in paragraph 4. 
+    b.  Save a digital copy of the PDF completion certificate to a file on 
+the mobile device or computer. 
+    c.  E-mail a digital copy of the PDF completion certificate to an 
+alternate location that is not on the mobile device. 
+    d.  Print a paper copy of the PDF completion certificate for personal 
+files. 
+    e.  Store the digital and/or paper copy of the completion certificate in 
+a location where it can be recovered if mobile device data is lost. 
+    f.  Ensure that the completion information is recorded in the Navy 
+Training Management and Planning System (NTMPS)/Electronic Training Jacket 
+(Note:  Allow 4 days after submission for completion information to be 
+updated in NTMPS.).  If information is not updated, the Sailor should provide 
+a copy of the PMK-EE completion certificate to the chain of command.  The 
+chain of command is responsible for contacting NTMPS at 
+https://ntmpsweb.ncdc.navy.mil/Fltmps/ to coordinate data entry of completion 
+information. 
+    g.  Ensure all completion data is available at an alternate site prior to 
+deleting the mobile application.  Once the mobile application is deleted from 
+the Sailors mobile device the completion information stored within the 
+application is also deleted and cannot be recovered or viewed by downloading 
+the mobile application again. 
+ 
+6.  If the EAW of a Sailor is not automatically populated with the required 
+PMK-EE completion information, the NTMPS information can be referenced and 
+entered into EAW to document individual Sailor eligibility for 
+advancement.  If completion information is available in NTMPS there is no 
+requirement for a Sailor to produce a paper completion certificate or for an 
+electronic copy of the completion certificate to be uploaded into EAW. 
+ 
+7.  For additional information about PMK-EE, go to the MyNavy Portal (MNP) at 
+https://my.navy.mil select Career and Life Events, Advancement and Promotion 
+page, then scroll down and click on the PMK-EE link.  There you can download 
+PMK-EE Smart Sheet detailed supplemental guidance. 
+ 
+8.  For questions about PMK-EE that are not answered by visiting MNP, contact 
+the MyNavy Career Center Help Desk at 1-833-330-6622, or via e-mail at 
+askmncc(at)navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+10.  Released by Vice Admiral John B. Nowell, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

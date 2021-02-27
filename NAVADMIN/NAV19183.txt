@@ -1,0 +1,93 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 061834Z AUG 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 183/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS - PHASE TWO//
+
+REF/A/GENADMIN/CNO WASHINGTON DC/171240ZJUL19//
+
+REF/B/GENADMIN/CNO WASHINGTON DC/061749ZAUG19//
+
+NARR/REF A IS NAVADMIN 161/19  PERMANENT CHANGE OF STATION MOVE IMPROVEMENTS.  
+REF B IS NAVADMIN 184/19 - GOVERNMENT TRAVEL CHARGE CARD USE DURING PERMANENT 
+CHANGE OF STATION TRAVEL.//
+
+RMKS/1.  This NAVADMIN announces the rollout of two new Permanent Change of 
+Station (PCS) planning and execution capabilities designed to improve and 
+simplify the PCS process - Lean Orders and the PCS Entitlements Calculator.  
+Reference (a) announced plans to improve the PCS experience for Sailors and 
+their families.  Included in the initial phase was the launch of MyPCS 
+Mobile, which provides Sailors a personalized PCS checklist on a mobile-
+enabled website accessible on personal and work mobile devices, tablets, 
+laptops and desktops.
+Reference (b) announced the beginning of phase two of the PCS move 
+improvements initiative with a pilot program for the optional use of the 
+government travel charge card during PCS travel.
+
+2.  Lean Orders.  Lean orders are a streamlined, simplified and plain 
+language orders format that provides Sailors and their families the essential 
+information required to execute a PCS move, all conveniently available on a 
+mobile device via MyPCS Mobile and on a desktop via MyNavy Portal (MNP).  
+Lean orders are only available for viewing by active-duty Sailors in receipt 
+of PCS orders.  Full-text legacy formatted orders will also be available on 
+the MyPCS Mobile and on MNP.  Both lean and legacy orders must be read in 
+their entirety.  An example and tutorial of lean orders is available for 
+viewing via MyPCS Mobile through the Navy App Locker at 
+https://www.applocker.navy.mil or via MNP at 
+https://www.mnp.navy.mil/group/assignment-leave-travel/mypcs.
+
+3.  PCS Entitlements Calculator.  The PCS Entitlements Calculator is a tool 
+available to assist Sailors and their supporting Command Pay and Personnel 
+Administrators (CPPA) to calculate PCS travel entitlements for planning 
+purposes.  All are encouraged to check applicable references when computing 
+estimated travel entitlements and to be mindful that travel rules and 
+entitlements are subject to change.  This tool will also prove helpful to 
+Sailors when they fill out their travel claim at their new permanent duty 
+station to ensure the claim disbursement is the correct amount.  The PCS 
+Entitlement Calculator is available at 
+https://www.mnp.navy.mil/group/assignment-leave-travel/mypcs.
+
+4.  Phase three of the PCS move improvement series introduces an automated 
+travel claim capability in MyPCS Mobile scheduled for early September.  
+Sailors will be able to complete a fully electronic travel voucher on their 
+personal mobile device.  They will be able to upload receipts, complete a 
+voucher that has been prepopulated with basic information, electronically 
+sign and provide to their CPPA for final processing.
+
+5.  All are encouraged to review these new features in MyPCS Mobile or MNP 
+even if not presently executing a PCS move.
+
+6.  Contact MyNavy Career Center for any issues or to provide feedback at 
+833-330-MNCC/6622 or via e-mail at askMNCC(at)navy.mil.
+
+7.  All Sailors and families are encouraged to download the MyNavy Family 
+application to find authoritive information to assist in navigating military 
+life.  The application can be found in the Navy application locker at 
+https://www.applocker.navy.mil.
+
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

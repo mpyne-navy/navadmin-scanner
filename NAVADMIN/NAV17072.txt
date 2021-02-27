@@ -1,0 +1,78 @@
+UNCLASSIFIED
+ROUTINE
+R 271514Z MAR 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 072/17
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/NAVY GENERAL MILITARY TRAINING OVERHAUL//
+
+REF/A/MSG/CNO WASHINGTON DC/261702ZJUL16//
+
+AMPN/REF A IS NAVADMIN 166/16, FY-17 GENERAL MILITARY TRAINING SCHEDULE.//
+
+RMKS/1.  In an effort to remove administrative distractions and improve 
+leader engagement, effective immediately, no individual shall be required to 
+log onto Navy Knowledge Online (NKO), Navy eLearning or My Navy Portal (MNP) 
+to complete annual General Military Training (GMT) mandatory training topics, 
+as specified in reference (a), with the exception of the Cyber Awareness 
+Challenge V4, (D0D-IAA-V14.0).  Additionally, all optional and discretionary
+Navy Command Assigned Readiness Enhancement GMT training topics are hereby 
+removed.
+
+2.  The Cyber Awareness Challenge V4 (DOD-IAA-V14.0) course found on NKO, 
+Navy eLearning or MNP remains the only on-line all-hands training 
+requirement.  All other topics may be completed by any means determined 
+acceptable by local commands.  Commanding officers and each level of 
+leadership shall seek to conduct GMT training at the small team level, with 
+appropriate leaders engaging Sailors in group sizes small enough to allow 
+meaningful discussion on these subjects, to include how they relate to 
+character, as part of our continuing Fleet-centered leader development.  It 
+puts training back in the hands of Sailors, eliminates passive, impersonal, 
+and ineffective approaches to training, and enables a powerful and personal 
+focus on integrity, accountability, and character through an interactive 
+learning dialogue.
+
+3.  Existing training materials will remain on NKO, Navy eLearning and MNP to 
+provide an outline to commands for conduct of local small-team leader lead 
+training.  There is no intent for commands to re-create training lesson 
+plans.  Topics such as Suicide Awareness, Equal Opportunity and Sexual 
+Harassment, and Sexual Assault Prevention and Response require a more formal 
+setting, and may benefit from supplementation by existing seminar discussion 
+material available from Chart the Course or Full Speed Ahead training while 
+other topics such as Records Management, Operations Security, and Privacy and 
+Personally Identifiable Information, for example, may be conducted at 
+quarters, all-hands calls, divisional training, etc., using a printed version 
+of existing material as springboards to elicit discussion to the point that 
+the leader is satisfied that the learning objectives are understood.
+
+4.  There is no requirement to log accomplishment of GMT training in the Navy 
+eLearning Learning Management System.  However, commands are encouraged to 
+keep local records of training completion.
+
+5.  We will continue to work to comprehensively improve GMT and all other 
+eLearning through modernized techniques that are more engaging and 
+personalized.  Additionally, you have asked for the ability to test out of 
+entire courses or materials you already know, and we will build that in as 
+this matures.
+
+6.  There is no doubt this approach will yield an even greater competitive 
+edge for the Navy.
+
+7.  Bottom line - we heard you, we fixed it, now let us get after it.
+
+8.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

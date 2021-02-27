@@ -1,0 +1,95 @@
+UNCLASSIFIED//
+ROUTINE
+R 201604Z DEC 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 313/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM BUSINESS RULES//
+
+REF/A/MSG/CNO WASHINGTON DC/041505ZAPR18//
+AMPN/REF A IS NAVADMIN 085/18, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY 
+EXAM.//
+
+RMKS/1.  This NAVADMIN establishes the business rules for the Professional 
+Military Knowledge Eligibility Exam (PMK-EE).  In line with reference (a), 
+PMK-EE was created as part of the Sailor 2025 initiative to provide greater 
+emphasis on PMK and to separate it from rating knowledge.  This is an initial 
+step toward electronic advancement exams and eventually, individually 
+tailored rating exams, unique to the Navy enlisted classifications held by a 
+Sailor.  PMK- EE will serve as an additional eligibility requirement for 
+advancement to paygrades E-4 through E-7.
+
+2.  PMK-EE is currently available via MyNavyPortal or Navy e- Learning 
+(instruction in paragraph 4).  We anticipate delivery of a PMK-EE mobile 
+application, which will allow Sailors to take the exam on a personal smart 
+phone, in July 2019.
+
+3.  Eligibility Requirements
+    a.  PMK-EE for E-4 through E-7 is now accessible to all Sailors at Navy 
+e-Learning (https://learning.nel.navy.mil).
+    b.  Active Component (AC), Full-Time Support (FTS) and Reserve Component 
+(RC) Sailors must successfully complete PMK-EE for the desired advancement 
+paygrade in order to be eligible to take the Navy Wide Advancement Exam 
+(NWAE).  PMK-EE must be completed by the first day of the month in which the 
+NWAE is administered.
+        (1) AC and FTS Sailors must successfully complete PMK-EE for the 
+desired advancement paygrade by 1 September 2019 to be eligible to advance 
+for the E-4 through E-6 NWAE (advancement cycle 244) and by 1 January 2020 to 
+be eligible to advance for the E-7 NWAE (advancement cycle 246).
+        (2) RC Sailors must successfully complete PMK-EE for the desired 
+advancement paygrade by 1 February 2020 to be eligible to advance for the E-4 
+through E-7 NWAE (advancement cycle 106).
+    c.  AC, FTS and RC Sailors must successfully complete PMK-EE for the 
+desired advancement paygrade in order to be eligible to be selected for 
+Meritorious Advancement Program.  PMK-EE must be completed by 1 September 
+2019.
+    d.  Sailors who automatically advance to E-4 upon completion of an *A* 
+school must successfully complete PMK-EE prior to advancement commencing 30 
+days after NAVADMIN announcement of the PMK-EE mobile application or 1 
+September 2019, whichever occurs last.
+    e.  To count for eligibility, PMK-EE for the next paygrade of a Sailor 
+must be completed on or after the Sailor is selected for the preceding 
+paygrade (for example, in order to complete the E-6 PMK-EE, the Sailor must 
+be selected for the E-5 paygrade).
+
+4.  PMK-EE Access.  Materials related to PMK-EE can be accessed using either 
+one of the following two methods:
+    a.  Navy e-Learning (https://learning.nel.navy.mil/):  click on the 
+*Course Catalog* tab, search for *PMK-EE* in the title column, enroll in the 
+applicable PMK-EE, click on the *My Learning* tab and launch the PMK-EE.
+    b.  MyNavy Portal (http://my.navy.mil):  click the *Career and Life 
+Events* drop-down and select *Advancement & Promotion*, select *Enlisted 
+Advancement* from the left column, click on the PMK-EE link to view the PMK-
+EE study material, from the *PMK-EE Study
+Material* page and click on the *Click here to go to Navy e-Learning to take 
+your PMK-EE* link at the top of the screen.
+    c.  The course numbers in Navy e-Learning are:
+        NETPDC-PMK-EE-SM-1.0, PMK-EE Study Material
+        NETPDC-PMK-EE-E4-1.0, PMK-EE for E-4
+        NETPDC-PMK-EE-E5-1.0, PMK-EE for E-5
+        NETPDC-PMK-EE-E6-1.0, PMK-EE for E-6
+        NETPDC-PMK-EE-E7-1.0, PMK-EE for E-7
+
+5.  PMK-EE Help Desk:  (850) 473-6014/DSN 753 or e-mail 
+sfly_pmkee_questions(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

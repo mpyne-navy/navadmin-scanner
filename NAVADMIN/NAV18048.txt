@@ -1,0 +1,139 @@
+UNCLASSIFIED
+ROUTINE
+R 282217Z FEB 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 048/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/FEB//
+
+SUBJ/GUIDANCE FOR PROCESSING NEW "V", "C", AND "R" DEVICES AUTHORIZED FOR 
+WEAR ON CERTAIN MILITARY MEDALS AND RIBBONS//
+
+REF/A/MSG/SECNAV/211924ZAUG17//
+REF/B/MSG/CNO121452ZJUN17
+REF/C/DOC/CNO/22FEB18//
+REF/D/MSG/SECNAV/031938ZJUN16//
+REF/E/DOC/SECNAV/22AUG2006//
+NARR/REF A IS ALNAV 055/17 ANNOUNCEMENT OF CHANGES TO THE "V" DEVICE AND NEW 
+DEVICES AUTHORIZED FOR WEAR ON CERTAIN MILITARY RIBBONS.
+REF B IS NAVADMIN 134/17, VALOR AWARDS AND TIMELY RECOGNITION OF VALOR.  
+REF C IS CHIEF OF NAVAL OPERATIONS DELEGATION OF COMBAT AWARD APPROVAL 
+AUTHORITY.  
+REF D IS ALNAV 041/16, COMBAT AWARDS AUTHORIZATION FOR CURRENT AND RECENTLY 
+CONCLUDED OPERATIONS.
+REF E IS SECNAVINST 1650.1H, NAVY AND MARINE CORPS AWARDS MANUAL.//
+
+RMKS/1.  This message publishes temporary procedures for processing awards 
+with the "V", "C", and "R" devices announced by reference (a).  Reference (a) 
+is the governing directive for awarding the new devices and should be 
+referenced for all specific eligibility for the Combat Conditions "C" and 
+Remote Impact "R" devices.  References (a) and (b) should both be referenced 
+for changes and processing procedures when recognizing valor and for the 
+Valor "V" device.
+
+2.  Specific delegation of authority to approve combat awards, including the 
+"V", "C", and "R" devices for O-6 and below for Navy and Marine Corps 
+Personnel, is contained in reference (c). Delegation of authority to approve 
+other awards remains as stated in reference (e).  Unless specifically 
+authorized under reference (c), Commanders and Commanding Officers do not 
+have the authority to approve combat awards or the associated "V", "C", and 
+"R" devices.
+    a.  Currently, reference (c) authorizes Commander, U.S. Fleet Forces 
+Command; Commander, U.S. Pacific Fleet; Commander, U.S. Naval Forces Europe, 
+U.S. Naval Forces Africa; Commander, U.S. Naval Forces Central Command and, 
+with limitations, Commander, U.S. Naval Forces Southern Command and 
+Commander, Naval Special Warfare Command, approval of combat awards with 
+devices.
+    b.  If approving a medal with "R" device for having remote impact on 
+operations occurring within a different Echelon II commander's area of 
+responsibility, the awarding authority will obtain concurrence from the 
+affected Echelon II commander.  Individual cases in which there is 
+disagreement as to whether the "R" is appropriate shall be forwarded to Chief 
+of Naval Operations (CNO) Awards Branch (DNS-35) for final adjudication.
+    c.  Requests for authorization of the "V", "C", and "R"  devices for 
+named operations not listed in reference (a) must be submitted to the 
+Assistant Secretary of the Navy (Manpower and Reserve Affairs) via the 
+operational chain of command and CNO.
+    d.  All recommendations for Army or Air Force awards that include a "V", 
+"C", and "R" device for Navy personnel shall be submitted to the CNO for 
+concurrence or consideration of an appropriate Navy award.  Navy personnel 
+may not accept, retain, or wear combat related awards proffered by the Army 
+or Air Force without Navy concurrence.
+
+3.  Retroactive Authorization of Devices.
+    a.  A Service Member who, on or after 7 January 2016, received any award 
+that could now be eligible for the "C" or "R" device may request 
+reconsideration.  Such requests must first be forwarded to the officer or 
+command which approved the original award, and then to the appropriate Navy 
+Component Commander as listed in subparagraph 2a above.  If the component 
+commander approves a change to the original award, the component command is 
+responsible for reissuing the award elements and updating appropriate records 
+and systems in accordance with reference (a).
+    b.  Separated or retired personnel, or the Primary Next of Kin of 
+deceased Navy personnel, may submit requests for retroactive award of the "C" 
+or "R" device directly to DNS-35 along with a copy of the previously approved 
+award and other substantiating documentation.
+
+4.  Navy Department Awards Web Service (NDAWS) Processing Procedures.
+    a.  The fill-in OPNAV Form 1650/3 has not yet been modified to allow 
+selection of the "C" and "R" devices in the Recommended Award dropdown 
+(Blocks 20 and 31).  However, all new two-letter award codes have been 
+updated in NDAWS.  Until the Form can be updated, originating commands shall 
+choose the basic award code on the Form and indicate within the Summary of 
+Action narrative which device, if any, is recommended.
+    b.  Immediately upon uploading the pending award data to NDAWS, the 
+originating command will edit the Recommended Award dropdown within the 
+disposition field in NDAWS corresponding to Block 20 with the appropriate 
+two-letter award code prior to saving the record. Then, before the form is 
+signed and dated, ensure the form's Block 20 is edited to show the correct 
+two-letter award code.
+    c.  Lower echelon commanders shall type in the appropriate two-letter  
+award code on the form in their section of Block 31 and update the 
+Recommended Award dropdown within the Endorsements field in NDAWS 
+corresponding to Block 31 with the required information.
+    d.  The Navy Personnel Master Award File (MAF) has not yet been updated 
+with the new device codes.  In the interim there will be no data file 
+transfer to update the Navy Standard Integrated Personnel System.
+    e.  Once the new codes are added to the OPNAV Form 1650/3 and the MAF, 
+DNS-35 will conduct a system data pull and take appropriate action to amend 
+the administrative records.  No action should be required by the individual 
+Sailor or by the approving command.
+
+5.  DNS will announce when all updates have been completed and when the "C" 
+and "R" devices are available in the supply system.  The devices are 
+currently available for purchase directly from commercial medal and ribbon 
+vendors.
+
+6.  Commands that do not have access to NDAWS should submit a Standard 
+Authorization Access Request (SAAR) Form to DNS-35 at 
+cno_awards.fct@navy.mil.
+
+7.  DNS-35 can be contacted at 202-685-1770, DSN 325, or 
+cno_award.fct@navy.mil.
+
+8.  Commands needing to submit a classified award nomination for CNO or 
+Secretary of the Navy approval must contact the Navy Department Board of 
+Decorations and Medals at SECNAV_awards@navy.mil or 202-685-6378 for detailed 
+procedures.
+
+9.  Except as modified by references (a) and (b), all other provisions of 
+reference (e) remain in effect.  Reference (e) will be updated with the next 
+release.
+
+10.  Visit the Navy Awards Website https://awards.navy.mil for additional 
+information.
+
+11.  Released by Vice Admiral K. M. Donegan, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

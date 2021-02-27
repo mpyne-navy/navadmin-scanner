@@ -1,0 +1,59 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 121800Z JUL 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 164/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SENATE CONFIRMATION OF OFFICERS SELECTED BY THE FY-19 NAVY ACTIVE-DUTY 
+CAPTAIN LINE, STAFF CORPS, AND FY-19 NAVY ACTIVE-DUTY COMMANDER LINE BOARDS//
+
+REF/A/DOC/SECNAV/13APR12//
+
+REF/B/MSG/SECNAV WASHINGTON/091500ZMAY18//
+
+REF/C/MSG/SECNAV WASHINGTON/071600ZMAY18//
+
+REF/D/MSG/SECNAV WASHINGTON/311500ZMAY18//
+
+NARR/REF A IS SECNAVINST 1420.2A, FROCKING OF COMMISSIONED OFFICERS.
+REF B IS ALNAV 039/18, FY-19 ACTIVE-DUTY NAVY CAPTAIN LINE SELECTIONS.  REF C 
+IS ALNAV 038/18 FY-19 NAVY ACTIVE-DUTY CAPTAIN STAFF CORPS SELECTIONS.  REF D 
+IS ALNAV 047/18, FY-19 NAVY ACTIVE- DUTY COMMANDER LINE SELECTIONS.//
+
+RMKS/1.  This NAVADMIN announces the Senate confirmed nomination of officers 
+for promotion to the grade of active-duty captain line and staff corps and 
+active-duty commander line in the U.S. Navy on
+28 June 2018.
+
+2.  Frocking of officers is not authorized without specific approval from the 
+Chief of Naval Personnel.  Individual requests for frocking of officers 
+should be submitted per reference (a).
+
+3.  Point of contact is Mrs. Jacqueline Hoye at (901) 874-4895/DSN 882, or 
+via e-mail at jacqueline.hoye(at)navy.mil.
+
+4.  This message is canceled for record purposes on 30 September 2019.
+
+5.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,205 @@
+UNCLASSIFIED//
+ROUTINE
+R 291431Z APR 20 MID510001152670U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 124/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N7//
+INFO CNO WASHINGTON DC//N7//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N7/APR//
+
+SUBJ/NAVY ANALYTIC STUDIES PROGRAM FY21 - CALL FOR STUDY TOPICS//
+
+MSGID/GENADMIN/N7/N72A//
+REF/A/DOC/CNO/CNO GUIDANCE FOR POM-22/NOTAL//
+REF/B/DOC/CNO/FRAGO 01/2019: A DESIGN FOR MAINTAINING MARITIME 
+SUPERIORITY/HTTPS://WWW.NAVY.MIL/CNO/DOCS/CNO%20FRAGO%20012019.PDF//
+
+RMKS/1.  This message solicits study topics for the FY21 Naval Analytic 
+Studies Program (NASP). Sponsors requesting CNO funding for analytic studies 
+via the NASP must submit O6/GS-15 level topic inputs to OPNAV N7 POCs no 
+later than 5 June 2020, followed by final principal-endorsed inputs NLT 26 
+June 2020.
+    a.  The list of NASP study sponsors (drawn from Echelon 1 and 2 
+organizations) is provided at paragraph 10.  Echelon 2 sponsors are 
+responsible for consolidating and forwarding any inputs from lower echelons.
+    b.  Required information for study topic submissions is provided at 
+paragraph 7.a.(1).
+    c.  OPNAV N7 POCs are provided at paragraph 12.
+
+2.  The NASP process described here represents a significant shift from the 
+FY20 process, designed to instill greater strategic focus and prioritization 
+of NASP-funded studies.  As such, this message should be reviewed in its 
+entirety.  Additionally, due to COVID-19 mitigation measures the FY21 NASP 
+process will be conducted virtually, as described below.
+
+3.  Background:  The FY21 NASP provides central funding for analytic studies 
+into research problems of strategic importance to Navy decision-makers at the 
+Echelon 1 and 2 levels.
+
+4.  Strategic Focus:  NASP study topics must be directly relevant to the 
+CNO's strategic guidance, and must generate actionable findings on timelines 
+that support key Navy decision processes.  Sponsors shall specify in their 
+topic submissions which CNO-directed strategic focus area(s) each study is 
+designed to address.
+    a.  NASP studies shall be targeted primarily at the Key Operational 
+Problems (KOPs), Key Service Problems (KSPs), and Leverage Points identified 
+in CNO Guidance for POM-22 (Ref A).  This classified document can be obtained 
+from the OPNAV N7 points of contact listed in paragraph 12.
+    b.  NASP study topics may also be derived from CNO FRAGO 01/2019: A 
+Design for Maintaining Maritime Superiority (Ref B), or may be designed to 
+support the continuing development of naval service operational concepts 
+including Distributed Maritime Operations (DMO), Expeditionary Advanced 
+Basing Operations (EABO), Littoral Operations in a Contested Environment 
+(LOCE), Operational Logistics in a Contested Maritime Environment, and naval 
+contributions to Joint warfighting concepts.
+    c.  Explicit justification of each study topic's strategic relevance is 
+necessary for a study's inclusion in the NASP, and will be a primary 
+consideration in the study's prioritization among NASP candidate studies.
+    d.  In contrast to previous years' NASP processes, the FY21 NASP build 
+will begin with a 1-to-n prioritization of study topics, rather than an 
+apportionment of NASP funds across sponsors prior to topic approval.  
+Sponsors will have the opportunity to review and comment on the 
+prioritization at the working level prior to Flag-level review and approval.
+        (1) Because this is a significant process change from FY20 and 
+previous NASP cycles, each sponsor is guaranteed that their top priority 
+study will be funded as long as it has a substantial strategic justification.
+        (2) In addition, sponsors should identify any discrete, unique 
+analytic requirements historically funded via the NASP for specific 
+consideration in the FY21 funding prioritization process.  Note that this 
+does not guarantee funding in the FY21 NASP, which will continue to be 
+predicated on strategic relevance as described above.
+    e.  Nothing here constrains sponsors' ability to fund desired analysis 
+using their own discretionary budgets.
+
+5.  Decision Relevance:  Sponsors must specify in their submissions what 
+decision points their studies are designed to support.  These decisions could 
+include program milestones, budget submissions, planning for major war games, 
+Fleet exercises and experiments, etc.  In every case, the request must 
+identify the target decision date and demonstrate the feasibility of 
+completing the requested study in time to inform the decision.
+
+6.  Resources:  The estimated funding level for the FY21 NASP is roughly $40M 
+(subject to the ongoing PB21 process), including approximately $15M budgeted 
+for studies executed by the Center for Naval Analyses (CNA), the Department 
+of the Navy's Federally Funded Research and Development Center (FFRDC).
+
+7.  Timeline:  The NASP timeline is designed to allow study execution to 
+commence on 01 October 2020 upon availability of FY21 funding.  Key 
+milestones are listed below (subject to modification due to evolving COVID-19 
+mitigation measures).  Sub-paragraphs list key actions and coordination 
+occurring after each milestone and prior to the next.
+    a.  5 June 2020 - Sponsor topic submissions (O6/GS-15 level) due to OPNAV 
+N7 POCs
+       (1) Prepare submissions using template available from POCs in 
+paragraph 12.  Essential elements of information include:
+           (A) Study topic
+           (B) Strategic focus IAW paragraph 4 above
+           (C) Decision supported by study,
+           (D) Rank order of each study relative to other submissions by same 
+sponsor
+           (E) Study classification
+           (F) Rough-order-of-magnitude cost
+           (G) Proposed analytic methodology (desired quantitative and/or 
+qualitative approach, milestones, and deliverables)
+           (H) Requested study provider(s).  Note that Government providers 
+(e.g. Warfare Development Centers) will be selected over FFRDCs, UARCs, and 
+private contractors unless specific justification is provided.  Consult POCs 
+for additional guidance.
+       (2) Upon receipt of submissions, OPNAV N72A (Navy Analytic Office) in 
+coordination with N81 will prepare an initial 1-to-n ranking (flagging each 
+sponsor's top priority as described in paragraph 4.d.(1)).  This process will 
+include an assessment of analytic provider suitability, analytic tractability 
+(the study's likelihood of producing relevant results), and proposed analytic 
+methodology.
+       (3) OPNAV N72A will coordinate with sponsor representatives (via the 
+Navy Analytic Working Group, or NAWG) to refine draft prioritization, refine 
+inputs as required, and identify and eliminate duplicative study requests.
+       (4) OPNAV N72A will obtain NAWG comments on draft prioritization prior 
+to forwarding for O8-level coordination.
+       (5) During this period, sponsors must prepare detailed Statements of 
+Work (SOW).
+    b.  26 June 2020 - Flag principal-endorsed sponsor inputs due to OPNAV N7 
+POCs
+    c.  10 July 2020 - O8-level sponsor coordination initiated by OPNAV N7
+    d.  17 July 2020 - O8-level coordination complete
+        (1) OPNAV N7 will review results of O8-level coordination and provide 
+executive guidance to the NAWG for revisions and/or additional coordination 
+via OPNAV N72A.
+    e.  10 August 2020 - O9-level sponsor coordination initiated by OPNAV N7
+        (1) Sponsor leadership will be afforded the opportunity to provide 
+executive comments and recommendations on the draft study list, including 
+facilitation of Fleet Commanders' comments.
+    f.  21 August 2020 - O9-level coordination complete
+        (1) OPNAV N7 will coordinate adjudication of any unresolved sponsor 
+comments.
+    g.  1 September 2020 - N7 approval of final study list
+        (1) OPNAV N72A will forward the approved list to sponsors, who shall 
+begin the contract development process in order to enable execution beginning 
+on 01 October 2020.
+    h.  1 October 2021 - Commence execution
+
+8.  Sponsors are responsible for all aspects of study creation, contracting, 
+SOW development, provider selection (in coordination with OPNAV N72A), and 
+study execution.  Funding will be issued to sponsors in accordance with the 
+approved FY21 NASP.  N72A will track fiscal execution and study progress 
+throughout the execution year.  Sponsors shall conduct in-progress reviews 
+(IPRs) of each study at least quarterly and shall provide copies of IPR 
+reports to OPNAV N72A.  Keep OPNAV N72A POCs apprised of scheduled IPR dates: 
+representatives from OPNAV N72A and/or OPNAV N81 may attend IPRs at N7 
+discretion.
+
+9.  Upon completion of each study, electronic copies of all study products 
+must be provided to OPNAV N72A for population of an online repository, 
+subject to any special classification requirements (approved in advance by 
+OPNAV N7).
+
+10.  Sponsor list:
+     a.  Commander U.S. Fleet Forces Command
+     b.  Commander U.S. Pacific Fleet
+     c.  Director, Navy Staff
+     d.  OPNAV N1
+     e.  OPNAV N2/N6
+     f.  OPNAV N3/N5
+     g.  OPNAV N4
+     h.  OPNAV N8
+     i.  OPNAV N9
+     j.  Commander U.S. Naval Forces Europe/U.S. Naval Forces Africa
+     k.  Commander U.S. Naval Forces Central Command
+     l.  Commander U.S. Naval Forces Southern Command
+     m.  Commander U.S. Fleet Cyber Command
+     n.  Commander U.S. Naval Special Warfare Command
+     o.  Commander U.S. Navy Reserve Force
+     p.  Assistant Secretary of the Navy (Research, Development, and
+     Acquisition)
+
+11.  Candidate Analytic Providers include Navy and other government 
+organizations that can conduct analyses (such as the Naval Warfare Centers, 
+Naval War College, Naval Postgraduate School, N81, and Naval Research 
+Laboratory), FFRDCs such as the Center for Naval Analyses (CNA), MITRE, and 
+RAND; University Affiliated Research Centers (UARCs); and private 
+contractors.
+
+12.  OPNAV N72A Points of Contact:
+     a.  (Primary) Mr. Chris Griffith:  christopher.griffit1@navy.mil;  
+christopher.griffit1@navy.smil.mil;  703-693-8714
+     b.  Mr. Carlton Hill, Branch Head, Analytic Studies: 
+carlton.hill1@navy.mil; carlton.hill1@navy.smil.mil;  703-697-5420
+     c.  CAPT Thane Clare, Director, Navy Analytic Office (OPNAV N72A):  
+thane.c.clare1@navy.mil; thane.c.clare@navy.smil.mil; 571-256-9816
+
+13. Released by VADM Stuart B. Munsch, Deputy Chief of Naval Operations for 
+Warfighting Development, N7.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,150 @@
+UNCLASSIFIED
+ROUTINE
+R 291811Z JUN 17
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 156/17
+
+MSGID/GENADMIN/DNS WASHINGTON DC/N1/XXX//
+
+SUBJ/COMPLIANCE WITH TRAVEL REQUIREMENTS//
+
+REF/A/NFR 2015-0025-FIN - UPDATED/06OCT16//
+REF/B/NFR 2015-0026-FIN - UPDATED/21OCT16//
+REF/C/NFR 2015-0027-FIN - UPDATED/19OCT16//
+REF/D/DTS EPN FY16#1/10MAR16//
+REF/E/41 CFR 301 SECTION 301-52.7//
+REF/F/DoD FMR VOLUME 9, CHAPTER 8, 080401//
+REF/G/THE NAVY DTS BUSINESS RULES (UPDATED) VER 3.1 JAN 2017//
+REF/H/DTS EPN FY17#1/2MAR17//
+REF/I/DTS EPN FY16#3/10MAR16
+REF/J/DTS EPN FY16#4/10MAR16//
+REF/K/DTS EPN FY16#5.1A/15DEC16//
+REF/L/NAVY DTS AO CHECKLIST FOR APPROVING VOUCHERS//
+NARR/REF A IS THE NOTIFICATION OF FINDING AND RECOMMENDATION (NFR) 2015-0025-
+FIN - UPDATED, CONTROLS OVER TRAVEL VOUCHER SUBMISSIONS ARE NOT OPERATING 
+EFFECTIVELY.
+REF B IS THE NFR 2015-0026-FIN - UPDATED, TRAVEL AUTHORIZATION CONTROLS ARE 
+NOT OPERATING EFFECTIVELY.
+REF C IS THE NFR 2015-0027-FIN - UPDATED, TRAVEL VOUCHERS ARE NOT PROPERLY 
+APPROVED.
+REF D IS THE DEFENSE TRAVEL SYSTEM (DTS) EXECUTION POLICY NOTICE (EPN) FY16 
+#1 - REQUIREMENT FOR BUDGET SUBMITTING OFFICES (BSO) LEAD DEFENSE TRAVEL 
+ADMINISTRATORS (LDTA) TO COMMUNICATE DTS TRAVEL VOUCHERS ARE TO BE SUBMITTED 
+WITHIN FIVE WORKING DAYS.
+REF E IS CHAPTER 41 CODE OF FEDERAL REGULATIONS [CFR] SECTION 301-52.7.
+REF F IS THE DOD FINANCIAL MANAGEMENT REGULATION [FMR], VOLUME 9, CHAPTER 8, 
+PARAGRAPH 080401.
+REF G IS THE NAVY DTS BUSINESS RULES VERSION 3.1 (JANUARY 2017).
+REF H IS DTS EPN FY17 #1 - REQUIREMENT FOR NAVY BSOS TO REVIEW NAVY DTS PMO 
+UNSUBMITTED VOUCHER REPORT AND FOLLOW ESCALATION PROTOCOL.
+REF I IS THE DTS EPN FY16 #3 - ORAL ORDER CONFIRMATION OF APPROVAL.
+REF J IS THE DTS EPN FY16 #4 - REQUIREMENT FOR BSOS TO CREATE AND MAINTAIN A 
+CENTRAL REPOSITORY OF DD577 AND ANNUAL CERTIFYING OFFICER LEGISLATION (COL) 
+TRAINING CERTIFICATES.
+REF K IS DTS EPN FY16#5.1A - REQUIREMENT FOR NAVY DTS APPROVING OFFICIALS 
+(AO) TO UTILIZE AO CHECKLIST FOR ALL VOUCHERS THEY APPROVE (WITH NAVY DTS 
+APPROVING OFFICIAL CHECKLIST).
+REF L IS THE NAVY DTS AO CHECKLIST FOR APPROVING VOUCHERS EFFECTIVE 4 OCTOBER 
+2016 VERSION 1.1//
+POC/MARK J. SULLIVAN/NAVSUPSYSCOM/NCCP/TEL: 717 557 4804/ 
+mark.j.sullivan3(at)navy.mil//
+
+RMKS/1.  During the past two years the Navy has undergone audits of its 
+financial statements.  The Independent Public Accountant (IPA) concluded that 
+the controls over travel are not operating effectively.  As per references 
+(a) through (c), the IPA identified three specific areas of non-compliance 
+including:
+    a.  Travel vouchers not being submitted within five working days of the 
+travel return date.
+    b.  Defense Travel System (DTS) travel orders were not approved prior to 
+the trip start date.
+    c.  Delegation of Authority (DOA)/DD577 was missing or incomplete.
+    d.  The IPA noted that given the large volume of travel, material 
+misstatements may occur on the financial statements and not be detected and 
+corrected.  Non-compliance with prevailing travel policy is a significant 
+impediment to the Navy achieving an audit opinion.  To measure Navy progress 
+towards defined goals, the Navy DTS Program Management Office (PMO) 
+instituted a series of metrics that provide Budget Submitting Offices (BSO) 
+travel volume reporting and results of corrective action performance 
+assessments.  Metrics are posted at the Uniform Resource Locator (url):
+https://my.navsup.navy.mil/webcenter/portal/ccpmd_dts
+    e.  You are to use these metrics to track your command's progress and 
+impact on the Navy's performance towards remediating the notifications of 
+finding and recommendation.
+
+2.  With regard to voucher submission within five working days (references 
+(d) through (f)), reporting commands and their personnel are directed to take 
+the following actions:
+    a.  Develop and implement a strategy to ensure ongoing traveler awareness 
+of this five working day requirement.
+    b.  Ensure all travelers listed on the weekly Navy DTS PMO provided 
+'return traveler list' are notified of the five working day voucher 
+submission requirement.
+    c.  Reference (g) was updated mandating that no travel mission is 
+complete until a proper travel claim/voucher is submitted by the traveler.  
+If a traveler is submitting a DD form 1351-2 to an authorized Non-DTS Entry 
+Agent (NDEA) to sign a voucher on behalf of a traveler by applying a 'T-
+entered' stamp in DTS, this form must be signed and dated by the traveler.  
+In addition, the submission date of the form by the traveler must be:
+        (1) Stamped/written legibly on the form in an available space between 
+items 20.c. and 23 and include the printed first and last name of the 
+individual who received the form.
+        (2) Indicated on supporting documentation attached to the form.  If 
+supporting documentation is submitted, it must include the first and last 
+name of the traveler, the date of submission of the form by the traveler, the 
+DTS Travel Authorization Number (TANUM), the individual's first and last 
+name/name of entity receiving the form (e.g., email inbox name), and that it 
+is for a travel claim/voucher submission.  The NDEA must then upload the form 
+and all required supporting documentation into DTS substantiating records.  
+When an authorized NDEA applies the 'T-entered' stamp on behalf of a 
+traveler; the traveler is still responsible for the voucher.
+    d.  Reference (h) established an escalation protocol for unsubmitted 
+vouchers after specified time frames that are listed on the Navy DTS PMO 
+provided 'unsubmitted voucher report'.
+
+3.  With regard to travel orders approved after start date of trip, 
+(reference (i)) commands must take the following actions:  travel 
+authorizations initially approved in DTS after the travel start date must 
+include either a justification statement, or email, for the record explaining 
+this circumstance and uploaded into the substantiating records; or the 
+approving official (AO) enters information into the "remarks" section in the 
+digital signature block when they apply the approved stamp.  Whichever method 
+is used, the documentation must include:
+
+    a.  The circumstances that prevented pre-trip approval.
+    b.  The trip start date.
+    c.  The time/date of oral/verbal approval.
+    d.  The full name of the official issuing approval.
+
+4.  With regard to incomplete or missing documentation, commands are to 
+establish and maintain a centralized repository of all BSO DTS AO DOAS/DD 
+form 577s and Certifying Officers Legislation (COL) training certificates 
+(reference (j)).  In addition, create and maintain an annual process to 
+validate that DTS AOs have completed required COL annual training, and 
+participate in Navy DTS PMO AO inspections on BSO ability to provide DTS AO 
+documentation.
+    a.  Per references (k) and (l), Navy DTS AOs will use a standard DTS 
+voucher approval checklist.
+    b.  References (a) through (d) and references (g) through (l) are 
+available at the  Naval Supply System Command (NAVSUP) consolidated card 
+program management division DTS website at:
+https://my.navsup.navy.mil/webcenter/portal/ccpmd_dts.
+
+5.  The Navy DTS PMO will be performing spot checks to monitor performance 
+and operating effectiveness of reference (d) and references (i) through (k) 
+and communicating results and deficiencies to Navy BSOS.  Navy BSOs must 
+review their results and take actions as appropriate to correct identified 
+deficiencies and report back to Navy DTS PMO in the time frame and format 
+specified.
+
+6.  Released by VADM J. G. FOGGO, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

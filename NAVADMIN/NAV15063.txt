@@ -1,0 +1,186 @@
+UNCLASSIFIED/
+ROUTINE
+R 161248Z MAR 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 063/15
+
+SUBJ/OPERATIONAL ENERGY CONSERVATION AWARDS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/MAR//
+REF/A/DOC/SECNAVINST 4101.2/05MAR2007//
+REF/B/MSG/SECNAV WASHINGTON DC/301751 OCT 09//
+REF/C/MSG/ SECNAV WASHINGTON DC/261707Z JAN 15//
+REF/D/MSG/COMUSFLTFORCOM 090900Z FEB 15//
+POC/JAMES GRIFFIN/LCDR/CNO WASHINGTON DC/N45E/TEL: (703) 695-5131//
+NARR/REF A ESTABLISHED THE SECRETARY OF THE NAVY ENERGY CONSERVATION AWARDS 
+TO RECOGNIZE NAVY AND MARINE CORPS ACTIVITIES FOR OUTSTANDING ACCOMPLISHMENTS 
+IN ENERGY CONSERVATION AND ENERGY MANAGEMENT DURING THE PRECEDING FISCAL 
+YEAR.  REF B IS SECNAV'S ENERGY MESSAGE TO THE FLEET.  REF C IS ANNUAL 
+ENVIRONMENTAL PROTECTION AND ENERGY CONSERVATION AWARD MESSAGE. REF D IS 
+SECNAV ENERGY AND WATER MANAGEMENT AWARDS GUIDANCE//
+
+RMKS/1.  This NAVADMIN announces criteria for the operational energy 
+component of the FY14 Secretary of the Navy (SECNAV) Energy Conservation 
+Awards program IAW reference (a).  Although this program has been in 
+existence for over a decade, it has taken on increased significance since 
+2009, when reference (b) announced SECNAV's Department of the Navy (DoN) 
+energy targets and established new overall goals for alternative energy use, 
+energy conservation, and efficiency.  Energy conservation (ENCON) is a 
+critical component of energy security, and is one of SECNAV's top priorities. 
+Since energy is a key enabler for our warfighting capability, ENCON directly 
+supports the tenet of warfighting first.  ENCON also provides the individual 
+ship, squadron, and expeditionary CO and the Fleet Commander an added combat 
+capability, ensuring that we can operate forward for a greater period of 
+time.  In order to be ready, we must create a warrior culture that 
+incorporates judicious energy usage into every part of how we operate on a 
+day-to-day basis.  ENCON is the first step to achieve a secure energy future 
+and promote SECNAV's goals, while aligning to the CNO*s tenets.
+
+2.  The Energy Conservation Awards Program promotes excellence in energy 
+management and energy conservation within the DoN.  These efficiency efforts 
+are integral to the development of warfighting capabilities that result in 
+choices for the operational commander.  Recognition will be given for 
+outstanding leadership in energy management; innovations in the improvement 
+of energy efficiency; and energy conserving approaches to training, daily 
+operations, and maintenance.
+
+3.  All ships, squadrons (active operational fleet squadrons attached to a 
+type wing), and expeditionary units are strongly encouraged to participate in 
+this program as an effective means of promoting innovative and efficient 
+energy management within the Navy.  The intent is to recognize achievements 
+at the unit level.  Per reference (c), categories for units eligible for 
+operational energy awards are:
+    A.  Large Ship:  crew 400 or greater
+    B.  Medium Ship:  crew size 250 to 399
+    C.  Small Ship:  crew size less than 250
+    D.  Commander, Naval Air Force Atlantic (CNAL) Aviation Squadron
+    E.  Commander, Naval Air Force, US Pacific Fleet (CNAP) Aviation Squadron
+    F.  Navy Expeditionary Unit
+
+4.  Energy Conservation Awards are based on the following criteria:
+A.	Shipboard energy conservation awards
+        (1) Total energy saved (45 possible points):  Total energy saved in 
+FY14 as calculated in barrels, compared to prior year ENCON baselines for 
+underway, not underway, and gains/losses by inventory.  The ENCON baselines 
+are a rolling three-year average with a one-year lag, and are based on Navy 
+Energy Usage Reporting System (NEURS) data.  For example, the FY14 baseline 
+years are FY13, FY12, and FY11.  Ships may view additional details, such as 
+class average baseline for FY14 and quarterly fuel reports, at the ENCON 
+website http://www.i-encon.com.  Ships should use these fuel performance 
+reports to determine total energy savings and provide a detailed description 
+of actions taken to achieve the savings identified.  Ships may use the ENCON 
+guide and checklist posted on the website as a reference.  Operational 
+savings achieved by operating more efficiently both underway and not underway 
+are primary award criteria.
+        (2) Cold iron energy saved (10 possible points):  Up to 10 points 
+will be awarded for pier side shore power (cold iron) energy savings achieved 
+by reducing hotel load demands while optimizing cold-iron support.  Provide a 
+detailed description of actions taken to achieve the savings identified.  
+Ships that are stationed at piers that do not have individual ship kw 
+metering can qualify for the full 10 pts by documenting ENCON actions taken 
+while on shore power, and providing kw load data before and after instituting 
+these measures.
+        (3) Awareness and training (20 possible points):
+            (A) ENCON standard procedures are reflected in the ship*s 
+standard operating procedures (SOP) 10 pts.
+            (B) Ship has conducted internal ENCON training or received ENCON 
+training led by the i-ENCON team or fleet representatives.  Ships must 
+present documented instances of internal or external ENCON training and are 
+awarded 5 points per instance for a maximum of 10 points.
+        (4) Innovation (25 points):
+(A) Any new ideas and innovative features that make the approach
+to ENCON unique and/or achieve technical or economic benefits, other than 
+those listed in the ENCON guide or check list will earn additional points.  
+To be eligible, initiatives must be posted to the Navy energy lessons learned 
+site at https://www.jllis.mil/navy/.
+(B) Ship has incorporated ENCON energy initiatives into publications, 
+articles, and training materials (beyond SOPs).
+        (5) Tie-breakers * if two ships earn the same number of points in 
+categories (1)-(3), the first tie-breaker goes to the ship with the higher 
+innovation grade, since creative solutions in our approach to energy usage 
+will be critical to getting the most from a new Navy-wide energy culture.
+        (6) Per reference (d), Commanders should look to those commands 
+nominated and selected for these prestigious awards when considering 
+accomplishments for the energy component grade to the Battle Efficiency *E*.
+        (7) Award submissions will be routed through TYCOMs in the chain of 
+command.  Contact TYCOM reps for award submission template.  TYCOMs will 
+recommend award winners via USFF and CPF to OPNAV N45 NLT 1 June 2015 for 
+approval and announcement by SECNAV.  The awards ceremony is tentatively 
+scheduled for October 2015.  Details and location to be provided SEPCOR.
+B.	Aviation squadron awards
+        (1) Operational efficiency (45 points):  Operational efficiency shall 
+be calculated from monthly fuel consumption and flying hours as documented in 
+the Budget OPTAR Report.  Annual squadron fuel consumption shall be 
+normalized by flight hour execution and fleet readiness training plan 
+phasing.  Points shall be allocated according to demonstrated operational 
+energy efficiency, relative to other squadrons of a given aircraft type.
+        (2) Awareness and training (30 possible points):  Squadrons shall 
+demonstrate commitment to Navy energy guidance through internal awareness and 
+training initiatives.  Publications, articles, and training material shall 
+reinforce fleet energy initiatives.  Standard operating procedures shall be 
+aligned with fleet-endorsed energy conservation best practices.
+        (3) Innovation (25 points):  Squadrons are encouraged to seek 
+innovative energy saving practices that do not impact safety, mission or 
+readiness.  Points shall be allocated for operational impact, uniqueness of 
+effort, and scalability to other aviation communities.  Innovation ideas are 
+to be submitted to http://airencon.dodlive.mil/.
+        (4) Tie-breakers * if two squadrons earn the same number of points in 
+categories (1) and (2), the first tie-breaker goes to the squadron with the 
+higher innovation grade, since creative solutions in our approach to energy 
+usage will be critical to getting the most from a new Navy-wide energy 
+culture.
+        (5) Eligibility.  All active duty Navy operational fleet squadrons 
+attached to a Type Wing are eligible for the SECNAV Aviation Energy 
+Conservation Award.  Other squadrons such as fleet replacement squadrons or 
+test and evaluation squadrons will not be considered for the award.  An award 
+application package must be submitted via the respective type wing commander 
+to receive consideration.  Each type wing commander may nominate one eligible 
+squadron from each applicable aircraft type as a SECNAV energy award 
+finalist.
+        (6) Award submissions will be routed through TYCOMS in the chain of 
+command to the CNAP Air ENCON program office.  Contact CNAL or CNAP reps for 
+award submission template.  CNAL and CNAP will recommend award winners to 
+OPNAV N45 NLT 1 June 2015 for approval and announcement by SECNAV.  The 
+awards ceremony is tentatively scheduled for October 2015.  Details and 
+location to be provided SEPCOR.
+C.	Expeditionary unit awards
+        (1) Demonstrated increased efficiency (40 points):  Increased 
+efficiency in energy utilization including, but not limited to increased 
+overall function per energy unit; increased combat capability per unit of 
+fuel; total vehicle or machine fuel savings vs previous years* usage or 
+projected usage; electricity savings vs previous year*s usage or projected 
+usage; decreased support costs; or other related energy efficiencies or 
+savings not specifically listed in this message but that are quantifiable and 
+replicable.
+        (2) Potential for duplication (30 points):  The potential of the 
+idea(s) within the DoN and DoD and the potential force-wide impact across its 
+entire scope of implementation.
+        (3) Return on investment (20 points):  The return on investment as 
+measured by the amount of resources saved vs expenditure of resources 
+required to implement the energy-saving initiative.
+        (4) Innovation (10 points):  The relative creativity/uniqueness of 
+proposed initiatives in training, policies, tactics, operational or 
+administrative procedures, organizational behavior, or other factors not 
+specifically called out in this message.
+        (5) Tie-breakers * if two units earn the same number of points in 
+categories (1)-(3), the first tie-breaker goes to the unit with the higher 
+innovation grade, since creative solutions in our approach to energy usage 
+will be critical to getting the most from a new Navy-wide energy culture.
+        (6) Eligibility.  All operational expeditionary units.
+        (7) Award submissions will be routed through Commander, Navy 
+Expeditionary Combat Command (NECC).  Contact NECC reps for award submission 
+template. NECC will recommend award winners to OPNAV N45 NLT 1 June 2015 for 
+approval and announcement by SECNAV.  The awards ceremony is tentatively 
+scheduled for October 2015.  Details and location to be provided SEPCOR.
+
+5.  Released by VADM P. H. Cullom, OPNAV N4.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

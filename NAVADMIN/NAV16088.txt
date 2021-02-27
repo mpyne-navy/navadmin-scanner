@@ -1,0 +1,37 @@
+UNCLASSIFIED//
+ROUTINE
+R 181505Z APR 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC///N1//
+
+NAVADMIN 088/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/CAREER SCHOOLS LISTING//
+
+REF/A/MSG/DCNO N1/MAR 2014//
+AMPN/REF A IS NAVADMIN 061/14, CAREER SCHOOLS LISTING.//
+
+RMKS/1.  This NAVADMIN announces that reference (a) is hereby canceled.  The 
+updated Career Schools Listing can be found on the Navy Personnel Command
+Website at http://www.public.Navy.mil/Bupers-NPC/Career/Enlistedcareeradmin/
+Pages/SRB.aspx.
+
+2.  Point of contact is HMCS(EXW/SW/FMF) Randle S. Groves, at (901) 874-
+3206/DSN 882 or via e-mail at HM_ECM(at)navy.mil.
+
+3.  This message will remain in effect until superseded or canceled.
+
+4.  Released by Vice Admiral W. F. Moran, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,222 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 282000Z JAN 21 MID600050184863U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 025/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/FISCAL YEAR 2021 ENLISTED EARLY TRANSITION PROGRAM 
+OPPORTUNITIES//
+
+REF/A/MSG/CNO WASHINGTON DC/192000ZNOV20//
+
+NARR/REF A IS NAVADMIN 307/20, MODIFICATION TO EARLY SEPARATION POLICY 
+NAVADMIN CANCELLATIONS.//
+
+RMKS/1.  This NAVADMIN supplements reference (a) by providing the 
+fiscal year (FY) 2021 enlisted early transition quotas for Active 
+Component Sailors by rating, paygrade, year group (the fiscal year the 
+Sailor joined the Navy) and Navy enlisted classification (NEC).
+
+2.  As announced in reference (a), our Navy has grown over recent 
+years and as a result, some enlisted ratings at specific paygrades 
+have become overmanned due to high retention in these ratings.  In an 
+effort to provide well-balanced enlisted ratings in support of 
+community rating health, the Navy is opening up opportunities for 
+eligible Sailors to submit requests for early separation via the 
+Enlisted Early Transition Program (EETP).
+
+3.  EETP is a quota-controlled voluntary separation program, which is 
+updated periodically to reflect opportunity.  Early separation will be 
+granted on a first-come-first-served basis until all quotas are 
+exhausted in the respective rating.
+    a.  EETP opportunities and the application process are also listed 
+on the Navy Personnel Command (NPC) website via MyNavy Portal at 
+https://my.navy.mil, then click *Quick Links* and then the *NPC* tab.  
+Once on the NPC website, navigate to the *Enlisted* dropdown, then 
+select *Community Managers* and navigate down to the *EETP* link.  FY-
+21 EETP separation opportunities are as follows:
+Rating      Pay-Grade   Year Group  Quotas      NEC Information
+AS          ALL         2012        2
+                        2013        4
+                        2014        2
+AZ          ALL         2008        5
+                        2009        3
+                        2011        2
+                        2012        3
+                        2013        10
+                        2014        5
+GSE         ALL         2013        5           NEC U07A and U55A
+                                                are not eligible.
+                        2014        5
+GSM         ALL         2013        10          NEC U07A and U12A
+                                                are not eligible.
+                        2014        3
+                        2015        4
+HM          ALL         2007        15          Eligible NECs: 0000,
+                                                L03A, L06A, L07A,
+                                                L08A, L12A, L25A,
+                                                L33A and L36A.
+                        2008        1
+                        2009        3
+                        2010        33
+                        2011        40
+                        2012        40
+                        2013        54
+                        2014        35
+                        2015        35
+                        2016        73
+                        2017        47
+EM          ALL         2011        1           NEC U35A, U36A and
+                                                U58A are not
+                                                eligible.
+                        2012        2
+                        2013        9
+                        2014        2
+BM          ALL         2012        4
+                        2013        8
+                        2014        7
+CTI
+(Middle East North Africa)
+            ALL         2007        1           NEC 9ARB and 771B
+                                                are not eligible.
+                        2008        1
+                        2009        1
+                        2010        1
+                        2011        1
+                        2012        3
+                        2013        1
+                        2014        2
+                        2015        3
+CTI
+(Latin/South America)
+            ALL         2007        1           NEC 771B is not
+                                                eligible.
+                        2008        1
+                        2009        1
+                        2010        1
+                        2011        3
+                        2012        2
+                        2013        2
+                        2014        2
+CTN         ALL         2010        3           NEC H13A, H14A, H15A,
+                                                 H16A and 771B are
+                                                 not eligible.
+                        2015        10
+                        2016        7
+MC          ALL         2011        1
+                        2012        1
+                        2013        3
+                        2014        3
+                        2015        6
+                        2016        6
+CS          ALL         2013        10
+                        2014        10
+                        2016        37
+NCCR        ALL         2007        1
+                        2008        1
+                        2009        1
+                        2010        2
+                        2011        1
+                        2012        1
+                        2013        1
+                        2014        1
+PS          ALL         2011        3
+                        2012        7
+                        2013        7
+                        2014        3
+                        2015        5
+                        2017        14
+RP          ALL         2012        3
+                        2013        5
+                        2014        4
+LS          ALL         2012        19
+                        2013        18
+                        2014        18
+YN          ALL         2013        7
+                        2014        7
+BU          ALL         2013        3           NEC B03A, B16A, B17A
+                                                and B18A are not
+                                                eligible.
+                        2014        3
+                        2015        5
+                        2016        1
+CE          ALL         2008        1           NEC B03A, B16A, B17A
+                                                and B18A are not
+                                                eligible.
+                        2010        2
+                        2011        1
+                        2013        2
+                        2014        3
+                        2015        3
+                        2016        3
+CM          ALL         2008        2           NEC B03A, B16A, B17A
+                                                and B18A are not
+                                                eligible.
+                        2013        3
+                        2014        2
+                        2015        4
+                        2016        6
+EA          ALL         2017        1           NEC B03A, B16A, B17A
+                                                and B18A are not
+                                                eligible.
+EO          ALL         2010        2           NEC B03A, B16A, B17A
+                                                and B18A are not
+                                                eligible
+                        2014        2
+                        2015        5
+                        2016        6
+SW          ALL         2012        1           NEC B03A, B16A, B17A
+                                                and B18A are not
+                                                eligible
+                        2013        2
+                        2014        2
+                        2015        3
+                        2016        4
+    b.  Sailors in the following categories will not be eligible to
+apply:
+        (1) Undermanned NECs (less than 95 percent manned).
+        (2) Under any selective reenlistment bonus obligations.
+        (3) Under obligated service (OBLISERV) for *C* school 
+training.
+        (4) Under OBLISERV for the Selective Training and Reenlistment 
+Program.
+        (5) Under OBLISERV for transfer of Post 9/11 education 
+benefits.
+        (6) Sailors in nuclear ratings.
+
+4.  The Navy remains committed to ensuring Fleet readiness by 
+providing well-trained Sailors in the right paygrade, with the right 
+skills and experience, at the right time.  Ensuring proper rating 
+health, by balancing rating paygrades, while retaining the necessary 
+knowledge, skills and experience in the Fleet is instrumental to 
+maintaining our warfighting advantage.
+
+5.  Questions and concerns regarding these policy changes may be 
+referred to MyNavy Career Center at askmncc(at)navy.mil or 1-833- 330-
+MNCC(6622).
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

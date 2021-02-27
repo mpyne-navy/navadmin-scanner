@@ -1,0 +1,188 @@
+UNCLASSIFIED//
+ROUTINE
+R 291809Z MAY 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 119/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/MAY//
+
+SUBJ/CONFERENCE ROOM VIDEO TELECONFERENCING TRANSITION TO INTERNET PROTOCOL//
+
+REF/A/DOC/DOD CIO MEMO of 27JUL17//
+REF/B/MSG/COMUSFLTFORCOM NORFOLK VA/181505Z MAY18//
+REF/C/EMAIL/FLTCYBERCOM/C10F WARNO:  ISDN-BASED VTC/PHONE SERVICE CUTOFF of 
+25APR19//
+POC/THAYER/CIV/OPNAV/N2N6/TEL: (571) 256-8255
+/EMAIL:  JAMEY.THAYER(AT)NAVY.MIL; JAMEY.THAYER(AT)NAVY.SMIL.MIL//
+POC/MITCHELL/CIV/OPNAV/N2N6/TEL: (703) 695-7460
+/EMAIL:  DARRYL.MITCHELL(AT)NAVY.MIL; DARRYL.MITCHELL(AT)NAVY.SMIL.MIL//
+
+RMKS/1.  Reference (a) is the Department of Defense (DoD) Chief Information 
+Officer (CIO) memorandum for legacy networking technologies which mandated a 
+DoD-wide transition away from Integrated Services Digital Network (ISDN) to 
+Internet Protocol (IP) by 1 September 2022.  Reference (b) is the Commander, 
+United States Fleet Forces Command (COMUSFLTFOR) message to all commands for 
+modernization of legacy technologies which explained the impact of the DoD 
+CIO memo for the Navy enterprise.  Reference (c) is Fleet Cyber Command/U.S. 
+TENTH Fleet (FCC/10th FLT) warning order for Video Teleconferencing (VTC) 
+component owners to ensure total ISDN inventory removal prior to 30 September 
+2019 to avoid mission degradation.//
+
+2.  This message provides guidance on transitioning Navy Conference Room VTC 
+suites from ISDN to IP connections and does not address related Time Division 
+Multiplexing (TDM) circuitry which will be addressed in a subsequent 
+NAVADMIN.  Most Navy shore VTC suites use ISDN connections which provide the 
+VTC network through Low Speed TDM (LSTDM) technology, which is paid through 
+users telephone service bill.  Commercial equipment manufacturers and long-
+haul network providers are phasing out ISDN services over the next two years.  
+Portions of the DoD Information Network (DODIN) infrastructure are past end 
+of life, and vendors are ending maintenance and technical support.  The Navy 
+has an undefined inventory of locally procured and operated Conference Room 
+VTC systems using ISDN technologies that must transition to IP standards.  
+The aggregation of IP and non-IP based VTC capabilities through Navy VTC 
+gateways and VTC providers, continues to challenge Conference Room VTC 
+connectivity and usability, directly leading to lost productivity and reduced 
+collaboration within the Navy enterprise.  IP transition and hardware 
+obsolescence drive the need to address hardware, network type-connection, and 
+service provider solutions.
+
+3.  In May 2019, ISDN connection contracts at the Navy ISDN VTC servicing 
+organizations will start to end.  While some extension of ISDN support 
+contracts may occur, only short term stop gaps are feasible.  Each time ISDN 
+connections are reduced at the hosting sites, the ISDN VTC capacity across 
+the Navy is reduced.  On 30 September 2019, Defense Information Systems 
+Agency (DISA) Global Video Service (GVS) will stop providing connections to 
+ISDN users.  Navy Continental United States (CONUS) and Hawaii ISDN VTC 
+service providers are currently planned to sunset per below:
+
+    a.  May 2019  Hampton Roads (4 Unclassified Lines)
+    b.  September 2019  DISA GVS ISDN (All Lines)
+    c.  May 2020  Hampton Roads (2 Secure Lines)
+    d.  June 2020  Makalapa (All Lines)
+    e.  April 2021  Hampton Roads (6 Secure Lines)
+    f.  September 2021 - Charleston (All Lines)
+    g.  April 2022  Hampton Roads (1 Allied Line)
+
+4.  It is the responsibility of each organization to ensure its VTC 
+requirements are met and current devices are converted to utilize IP 
+transport.  To comply with reference (a), all commands using ISDN VTC 
+hardware and services must transition to Video over IP as soon as practical 
+based upon expected ISDN VTC service draw down.  There is no existing 
+centrally or Mission Funded Navy VTC program and the scope of the enterprise 
+user VTC hardware and service procurement challenges are not fully known.
+
+5.  VTC Hardware and Software:  The following options are available for 
+Conference Room VTC hardware and software acquisition and life cycle support:
+    a.  CONUS Next Generation Enterprise Network (NGEN) contracted hardware 
+as a service.  Information on these solutions can be found at 
+https://homeport/services/vtc and executed through a NGEN Contract Line Item 
+Number (CLIN) 14 video request.  This includes site survey, full 
+installation, network connectivity, and lifecycle management.
+    b.  CONUS/Outside CONUS (OCONUS) Working Capital Funded Echelon III (e.g. 
+Naval Information Warfare Center Atlantic).  This includes site survey and 
+full installation.
+    c.  CONUS/OCONUS Independent Third Party (e.g. Small Business).  
+Implementation of other locally procured IP VTC hardware that is compatible 
+with GVS or NGEN requirements (refer to DODIN Approved Products List (APL)).  
+This includes site survey and full installation.
+    d.  OCONUS for IP access, utilize GVS software client offerings over 
+OCONUS Navy Enterprise Network (ONE-Net) with individually purchased, DODIN 
+APL compliant hardware and software.  This includes software (hardware and 
+software as a service to be provided in follow-on NGEN-Recompete (NGEN-R) 
+contract OCONUS).
+
+6.  VTC Connectivity/Transport:  The following options are available for VTC 
+Network and Transport as a Service:
+    a.  CONUS transition to Navy and Marine Corps Intranet (NMCI) IP VTC.  
+Information can be found at https://homeport/services/vtc and executed 
+through a NGEN CLIN 14 video request.  This includes site survey, network 
+connectivity, full installation, and lifecycle management.  As a basic 
+service, this also includes NMCI to NMCI VTC connection.  Bridging and 
+peering with non-NMCI partners is an orderable CLIN.
+    b.  OCONUS ONE-Net provides regional IP connectivity and transport to 
+OCONUS users.  This IP network supports DODIN APL compliant conference room 
+VTC equipment.  NGEN-R transition will provide the opportunity for an OCONUS 
+enterprise single solution.
+    c. CONUS/OCONUS transition to DISA GVS independent of NMCI/ONE -Net.  The 
+end user site must use existing or command procured IP transport NIPR or SIPR 
+by processing a Telecommunications Service Request (TSR) via DISAs Defense 
+Information Technology Contracting Organization (DITCO) and Naval Circuit 
+Management Office (NCMO).  Mission partners may request service by contacting 
+the Defense Information Systems Network (DISN) Customer Contact Center
+(DCCC) toll free: (844) 347-2457, commercial (614) 692-0032, or DSN 312-850-
+0032.
+    d.  Pentagon Only Transition to DISA Joint Service Provider
+(JSP) with locally or enterprise procured IP capable hardware, JSP can 
+provide network transport to the DODIN in support of either DISA GVS or NGEN 
+VTC application suites.
+
+7.  VTC Applications:  The following enterprise VTC applications are
+available:
+    a.  DISA GVS.  The GVS Web Application provides users with the 
+capabilities to register end points, initiate reservation-less ad hoc VTCs, 
+schedule future VTCs, and receive reports summarizing GVS usage.  Through the 
+use of existing or locally procured IP based hardware, DISA GVS provides a 
+full suite of on-demand video conference capabilities (NIPR/SIPR) built to 
+support conference rooms across the DoD as well as a desktop video solution.  
+For GVS -Unclassified (GVS-U), users must complete account registration at 
+https://globalvideoservices.csd.disa.mil/gvs-web; and to use GVS -Classified 
+(GVS-C) at https://globalvideoservices.csd.disa.smil.mil
+/gvs-web.
+    b.  NGEN Fixed Video Teleconference.  Through the use of existing or 
+locally procured IP based hardware (monitor with integrated camera and 
+microphone), NMCI CLIN 14 provides NMCI users the ability to initiate and 
+participate in live video teleconferences with other NMCI and non-NMCI users 
+(unclassified and classified).  Point to point can be conducted immediately; 
+multi-user VTC requires prior scheduling.  Information can be found at 
+https://homeport/services /vtc.
+
+8.  By not using an enterprise option (e.g. NGEN, GVS, or JSP), procurers of 
+VTC capability and network transport assume all responsibility for life cycle 
+management, quality of service, and processing Authority To Operate actions.  
+Connections made through NGEN, DISA, or JSP contract vehicles, inherit the 
+intrinsic cybersecurity of its respective network architectures.  Where these 
+enterprise options do not meet user needs, and command specific VTC 
+initiatives are deemed an operational imperative (e.g. USFFC consolidation 
+and standardization of a single VTC enclave interoperable with NMCI, DISA and 
+the afloat enterprise), the Risk Management Framework (RMF) scope of work is 
+not to be underestimated and should be commenced as early as feasible to 
+achieve ISDN sunset timelines.
+
+9.  Useful cases have identified other solutions to help reduce dependencies 
+on conference room VTCs to include Defense Collaboration Services (DCS), 
+SharePoint and others.  Further, NMCIs inclusion of Voice over IP, Unified 
+Capabilities (e.g. MS-O365, Skype for Business), and an orderable GVS CLIN, 
+over time, should reduce dependencies on Conference Room VTC and telephone 
+needs.  Commands should transition as few Conference Room VTCs as necessary 
+to reduce hardware buys and lifecycle costs.
+
+10.  Navy, working cooperatively with DISA, through the use of existing 
+working groups (e.g. Unified Capabilities Integrated Product Team) or senior 
+forums (e.g. DISA/Navy/USMC Drumbeat) will consider options for the removal 
+of the challenges being experienced by the Navy provider enterprise in 
+communicating efficiently with both academia and industry partners.
+
+11.  Echelon II commands will aggregate all sub-echelon command plans for 
+Conference Room VTC conversion to IP technology and provide to OPNAV N2N6 POC 
+for collection and reporting to Director, Navy Staff (DNS) on the status of 
+Conference Room IP conversions.  Follow-on reports and compliance plans are 
+required if a delay greater than 90 calendar days occurs.  Incremental 
+reports to DNS staff will include any changes in enterprise options both 
+CONUS and OCONUS as described herein.
+
+12.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

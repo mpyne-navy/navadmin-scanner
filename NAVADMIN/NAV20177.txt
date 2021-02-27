@@ -1,0 +1,79 @@
+UNCLASSIFIED//
+ROUTINE
+R 251246Z JUN 20 MID510001332025U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 177/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/DEPLOYMENT OF THE AUTOMATED NAVY DEPARTMENT AWARDS WEB SERVICE//
+
+REF/A/DOC/SECNAV/29MAY19//
+REF/B/DOC/SECNAV/16AUG19//
+
+NARR/REF A IS SECNAVINST 1650.1J DEPARTMENT OF THE NAVY AWARDS POLICY.  
+REF B IS SECNAV M-1650.1 NAVY AND MARINE CORPS AWARDS MANUAL.//
+
+RMKS/1.  A key component of the MyNavy HR transformation is delivering modern 
+human resources (HR) management technology to simplify processes and make the 
+user experience better for Sailors and commands.  This NAVADMIN announces the 
+deployment of the automated Navy Department Awards Web Service (NDAWS), which 
+is now accessible through BUPERS Online (BOL) as a part of the Navy Personnel 
+Command (NPC) Documents Services Workspace.  The automated NDAWS program will 
+enable users to electronically initiate, route, endorse and approve all 
+Personal Military Decorations (PMD) and unit award recommendations.  Once 
+approved, the signed PMD certificate/citation will be uploaded to the NDAWS 
+application and will automatically update a Sailors official military 
+personnel file (OMPF) as well as mainframe corporate data (i.e.
+Officer/Enlisted Summary Record and Performance Summary Record).
+Sailors will also be able to search the database for information regarding 
+their personal decorations, unit awards and campaign/expeditionary medals.  
+All policies that govern PMD and unit awards remain in effect in accordance 
+with references (a) and (b).
+
+2.  The NDAWS system update leverages the successful fielding of related HR 
+systems that include the electronic submission of selection board documents, 
+automated requests for name change and the online officer photograph 
+submission form, which are also part of the NPC Document Services Workspace 
+on BOL.  All of these processes are proven to be more effective, efficient 
+and reliable than their legacy predecessors, and provide considerable time 
+savings to users and the NPC staff.
+
+3.  Further contributing to Fleet readiness, commands operating in a deployed 
+environment or experiencing internet accessibility or connectivity issues may 
+utilize NDAWS without accessing the NPC Document Services Workspace on BOL.  
+To utilize this disconnected functionality, a command electronically 
+completes the OPNAV Form 1650/3 (Rev 03-20) document, digitally signs it and 
+emails it to NPC along with a copy of the signed PMD citation.  The NPC 
+Records Section then uploads the completed OPNAV Form 1650/3 document and PMD 
+certificate into the system, which automatically updates the OMPF and 
+corporate data.  This allows Fleet units that do not have the bandwidth for 
+accessing the online application to take advantage of the automation in the 
+same way as users with steady internet connectivity.
+
+4.  The new NDAWS User Guide and disconnected functionality compatible OPNAV 
+Form 1650/3 can be found via MyNavy Portal Quick Link at 
+https://my.navy.mil/quick-links.html under the *U.S. Navy Awards* tab and the 
+Navy Personnel Command website under the *NPC* tab .
+
+5.  Points of contact:
+    a.  NPC point of contact is My Navy Career Center at askmncc(at)navy.mil 
+or call 1-833-6622 or 1-901-874 6622.
+    b.  For information on BOL issues call 1-800-951-6289 or e-mail at 
+npc_it_service_desk(at)navy.mil.
+
+6.  Released by Vice Admiral, John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

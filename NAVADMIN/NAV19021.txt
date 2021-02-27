@@ -1,0 +1,59 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 291452Z JAN 19
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 021/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/FY-19 SENIOR ENLISTED CONTINUATION BOARD - PERFORMANCE-BASED BOARD FOR 
+CONTINUATION OF SENIOR ENLISTED (ACTIVE/RESERVE) PERSONNEL WITH GREATER THAN 
+19 YEARS OF SERVICE//
+
+REF/A/MSG/CNO WASHINGTON DC/031145ZJUL18//
+
+AMPN/REF A IS NAVADMIN 159/18, FY-19 SENIOR ENLISTED CONTINUATION BOARD.//
+
+RMKS/1.  Board results have been posted for individual access through BUPERS 
+online (BOL) accounts.
+BOL CODES:  S = SELECTED FOR CONTINUATION
+            N = NOT SELECTED FOR CONTINUATION
+            H = NOT SELECTED FOR CONTINUATION - IN A HOLD STATUS
+
+2.  Active Component and Full Time Support personnel not selected for 
+continuation must transfer to the Fleet Reserve or retire as applicable, 
+effective no later than 31 August 2019, unless operationally waived by the 
+Deputy Chief of Naval Personnel to remain in an active status no later than 
+30 November 2019.
+
+3.  Selected Reserve and Voluntary Training Unit personnel not selected for 
+continuation must request transfer to the Retired Reserve (with or without 
+pay) with an effective date not later than
+1 September 2019, unless operationally waived by Commander, Navy Reserve 
+Forces Command to remain in a drilling status until an approved date no later 
+than 1 December 2019.  Retired Reserve without pay refers to a non-regular 
+retired member who is in a retired status, but has not reached the age at 
+which the retiree is eligible to receive non-regular retired pay.
+
+4.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

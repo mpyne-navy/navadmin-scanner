@@ -1,0 +1,130 @@
+UNCLASSIFIED
+ROUTINE
+R 051458Z APR 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 089/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/U.S. FLEET FORCES COMMAND READY RELEVANT LEARNING EXECUTIVE AGENT 
+ANNOUNCES COMMENCEMENT OF BLOCK LEARNING//
+
+REF/A/MSG/CNO WASHINGTON DC/281705ZMAR16//
+REF/B/DOC/COMUSFLTFORCOMINST/22DEC17//
+NARR/REF A IS NAVADMIN 075/16, ASSIGNMENT OF U.S. FLEET FORCES COMMAND AS 
+EXECUTIVE AGENT FOR READY RELEVANT LEARNING.  
+REF B IS COMUSFLTFORCOMINST 1500.1, BLOCK LEARNING BLOCK ONE QUOTA AND COST-
+ORDERS MANAGEMENT.//
+
+RMKS/1.  This NAVADMIN announces the commencement of Block Learning (BL), the 
+first evolutionary stage in the transformation to Ready Relevant Learning 
+(RRL) as discussed in reference (a), and required organizational supporting 
+actions.  BL training is critical to individual and unit readiness, and the 
+individual career progression of a Sailor.
+
+2.  Background:  BL redistributes accession training over the first 
+operational tours.  The current accession training (A and C schools) is 
+modularized to build proficiency when needed based on Fleet identified and 
+validated training requirements.  The BL sequence is:
+    a.  The Sailor completes initial training at Recruit Training Command 
+("Boot Camp").
+    b.  The Sailor completes initial technical training.  The first Block of 
+technical training delivered during the accession pipeline is labeled Block 0 
+(BL0).
+    c.  The Sailor reports to their first operational unit sooner with all 
+the knowledge and skills required for the first two years on board.
+    d.  The Sailor returns to the schoolhouse for Block 1 (BL1) training 12 
+to 24 months from the date they reported to their first operational Unit for 
+2 to 5 weeks.
+    e.  The Sailor returns to the original operational unit with expanded 
+knowledge and skills.
+
+3.  Scope:  BL training went into effect in FY17.  Logistics Specialists (LS) 
+transitioned in May 2017 to the BL0 and BL1 construct.  These Sailors will 
+start returning to BL1 in May 2018. Other ratings will follow, with all 
+ratings identified for BL transitioning during FY18.  The term unit as used 
+in this message refers to the first afloat or ashore fleet assignment for a 
+Sailor.
+
+4.  Action:  All Units will ensure Sailors with BL1 training requirements 
+obtain and attend required training in line with reference (b) and paragraph 
+5 below.
+
+5.  Block 1 (BL1) Quota and Cost Orders Management:
+    a.  Training Support Centers at Hampton Roads and San Diego working with 
+unit training officers will manage the BL1 quota and cost orders process to 
+include providing the temporary additional duty (TAD) funding when cost 
+orders are required to return the Sailor to BL1 training.  This detailed step 
+by step process is contained in reference (b) which includes the Training 
+Support Center Standard Operating Procedure and Unit User's Guide which can 
+be found at: 
+https://mpte.navy.deps.mil/sites/Projects/rrl_projectoffice/ProjectD
+ocuments/BLOCK%20LEARNING%20BLOCK%20ONE%20QUOTA%20AND%20COST-
+ORDERS%20MANAGEMENT%20Instruction.pdf.
+    b.  Establishment of Unit training officer.  The primary point of contact 
+with the Training Support Centers (TSC) is the Unit Training Officer.  Units 
+without an assigned training officer billet will designate a collateral duty 
+training officer in writing to fulfill this function.  Assignment in the 
+Unit's collateral duty notice meets this requirement.
+    c.  Establishment of Unit Training Officer e-mail address. Units shall 
+establish an email address for use by their training officer by 1 May 2018 to 
+communicate requirements to the BL managers:  TSC Hampton Roads for commands 
+east of the Mississippi river and Training Support Center San Diego for 
+commands west of the Mississippi river.  The following format will be used by 
+fleet Units:  traino(at)activityshorttitle.navy.mil.  For Units that use
+NMCI/ONENET establish a functional account or functional mailbox in
+line with that systems policy for using such mail boxes.  For NMCI
+use the following format:  traino_activityshorttitle(at)navy.mil.
+For ONENET use the following format: 
+traino_activityshorttitle(at)youraor.navy.mil where "your aor" would either 
+be eu/me/fe.  For any systems/activities that cannot follow this email 
+address guidance for training officers contact the Naval Education and 
+Training Command (NETC) N34 point of contact below.
+    d.  Training Officer Tools:  Fleet Management and Planning System 
+(FLTMPS) is the primary means for monitoring BL training quota and orders 
+management by the Unit and TSCs to include requesting TAD funding.  The 
+Enterprise Navy Training Reservations System (ENTRS), a sub-component of the 
+Corporate enterprise Training
+Activity Resource System (CeTARS) is the primary means for Units to request 
+quota reservations for BL1 training courses.  FLTMPS and
+ENTRS training are available from TSC Hampton Roads and San Diego.
+    e.  Training Window.  BL1 training is targeted for 24 months after the 
+Sailor reports to their unit minus 12 months.  This window allows the 
+training officer to assess the BL1 requirement and request quotas that fit 
+well within the commands employment schedule.
+
+6.  Ready Relevant Learning Project Office Web Portal.  References
+(a) and (b) are located on the RRL Project Office Web Portal located at
+https://mpte.navy.deps.mil/sites/Projects/rrl_projectoffice/SitePage
+s/Home.aspx under the Project Quick Links - RRL Project Documents -
+Policies and Directives.  For access contact:  Jackie Thompson at
+(757) 836-6232 or via e-mail at jacqueline.m.thompso(at)navy.mil.
+Other RRL information including a BL Summary (Pie Chart) showing how each 
+rating is being addressed with respect to RRL, the rating reviews, leadership 
+briefings, and progress reports reside on this portal.
+
+7.  Points of Contact:
+    a.  USFF RRL Program Manager:  Steve Dutter, who can be reached at 
+(757) 836-5223/DSN 836 or via e-mail at steven.dutter(at)navy.mil
+    b.  NETC N34 BL POC:  ETC Richard Stalcup, who can be reached at
+(757) 492-0855/DSN 492-0855 or via e-mail at richard.stalcup(at)navy.mil
+    c.  Training Support Center BL points of contact are:
+        (1) LANT:  Melva Moore, who can be reached at (757) 492-5341/DSN 492 
+or via e-mail at melva.moore(at)navy.mil
+        (2) PAC:  John Boville, who can be reached at (619) 526-8313/DSN 526 
+or via e-mail at john.boville(at)navy.mil.
+
+8.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

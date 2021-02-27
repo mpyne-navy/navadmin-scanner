@@ -1,0 +1,82 @@
+UNCLASSIFIED//
+ROUTINE
+R 171650Z JUN 15
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 140/15
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6BC/JUN//
+
+SUBJ/NAVY IMPLEMENTATION OF DOD RISK MANAGEMENT FRAMEWORK//
+
+REF/A/DOC/DODI 8510.01/20140312//
+REF/B/DOC/DODI 8500.01/20140314//
+NARR/Reference (a) is Department of Defense Instruction 8510.01, Risk 
+Management Framework for DoD Information Technology.  Reference (b) is 
+Department of Defense Instruction 8500.01, Cybersecurity.//
+POC/MS. BROOKE ZIMMERMAN/CIV/OPNAV N2N6/WASHINGTON DC/TEL:  (571) 256-
+8521/EMAIL:  BROOKE.ZIMMERMAN(AT)NAVY.MIL//
+
+RMKS/1.  Department of Defense (DoD) has released references (a) and (b), 
+which outline new Assessment and Authorization (A&A) policies and processes 
+and replace the DoD Information Assurance Certification and Accreditation 
+Process (DIACAP) instruction.  Deputy Director Chief Information Officer 
+(Navy) has released the following timeline for a phased Navy Risk Management 
+Framework (RMF) transition.
+    a.  The first RMF transition period is from 1 August 2015 through 31 
+December 2016.  During the first RMF transition period, Echelon II commands 
+are required to use the RMF process and artifacts for at least 33 percent of 
+their information technology (IT) portfolio requiring a new 
+accreditation/authorization or renewal of an expiring accreditation.  The 
+approval durations for the first transition period are as follows:  The 
+accreditation length for a DIACAP submission will be a maximum of two years 
+and the authorization period for an RMF submission will be a maximum of three 
+years.
+    b.  The second RMF transition period is from 1 January 2016 through 30 
+April 2016.  During the second RMF transition period, Echelon II commands are 
+required to use the RMF process and artifacts for at least 50 percent of 
+their IT portfolio requiring a new accreditation/authorization or renewal of 
+an expiring accreditation.  The approval durations for the second transition 
+period are as follows:  The accreditation length for a DIACAP submission will 
+be an maximum of 1.5 years and the authorization period for a RMF submission 
+will be for a maximum of three years.
+    c.  The final RMF transition period is from 1 May 2016 through 30 
+September 2016.  During the final RMF transition period, Echelon II commands 
+are required to use the RMF process and artifacts for at least 75 percent of 
+their IT portfolio requiring a new accreditation/authorization or renewal of 
+an expiring accreditation.  The approval durations for the last transition 
+period are as follows: the accreditation length for a DIACAP submission will 
+be a maximum of 1.5 years and the authorization period for an RMF submission 
+will be a maximum of three years.
+    d.  All A&A submissions beginning 1 October 2016 will be under RMF.
+
+2.  Current Platform Information Technology (PIT) systems with an expiring 
+Interim/PIT Risk Assessment (I/PRA) will use the current DIACAP process for a 
+short term I/PRA until phase II of the RMF implementation begins in June 
+2016.  At that time, all current PIT will be reassessed and authorized under 
+RMF.
+
+3.  New non-conventional IT (e.g., weapons/control systems, internal 
+communications systems, hull, mechanical, and electrical) submissions will 
+not be accepted until phase II of the RMF implementation in June 2016.
+
+4.  Further transition guidance for non-conventional IT after phase I will be 
+provided by separate correspondence.
+
+5.  Information on the RMF process and transition can be found on the RMF 
+Knowledge Service (https://rmfks.osd.mil/login.htm) and the Federal 
+Communications Commission Operational Designated Accrediting Authority 
+(https://usff.portal.navy.mil/sites/fcc-c10f/odaa/default.aspx) websites.
+
+6.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+7.  Released by VADM Ted N. Branch, OPNAV N2/N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

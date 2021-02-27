@@ -1,0 +1,142 @@
+UNCLASSIFIED
+ROUTINE
+R 311648Z MAY 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 139/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/ANNUAL RECERTIFICATION OF SPECIAL DUTY ASSIGNMENT PAY//
+
+REF/A/DOC/OPNAV/05OCT17//
+REF/B/DOC/DOD/25SEP17//
+REF/C/MSG/CNO WASHINGTON DC/N1/121941ZAPR18//
+NARR/REF A IS OPNAVINST 1160.6C, SPECIAL DUTY ASSIGNMENT PAY (SDAP) PROGRAM.  
+REF B IS DOD INSTRUCTION 1340.26, ASSIGNMENT AND SPECIAL DUTY ASSIGNMENT PAY.  
+REF C IS NAVADMIN 093/18, SPECIAL DUTY ASSIGNMENT PAY.//
+
+RMKS/1.  This NAVADMIN announces the annual Special Duty Assignment Pay 
+(SDAP) recertification process for Fiscal Year (FY) 2018 and clarifies 
+retroactive payments and procedures.  In line with references (a) and (b), 
+commanding officers (CO) are required to annually review and certify each 
+entitlement to SDAP of the Sailor.
+This certification is to verify every Sailor who is assigned to an eligible 
+billet remains qualified to fill the billet and is receiving the correct 
+SDAP.  Certification shall commence upon the release of this NAVADMIN and 
+continue through 31 August 2018.  In line with reference (a), commands that 
+do not complete the required certification by 31 August 2018 will have the 
+SDAP of their Sailors terminated retroactive to 1 June 2018.  Back pay will 
+not be approved for commands that do not submit their recertification by the 
+deadline.
+
+2.  To verify if a Sailor is eligible and receiving the correct level of 
+SDAP, a complete list of authorized skills and pay amounts can be found at:  
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/SRB.aspx.
+
+3.  Follow these procedures to certify the SDAP report for your command:
+    a.  Obtain and print the annual SDAP report of your command.
+The annual SDAP report only pulls those Sailors that are currently drawing 
+SDAP.
+        (1) The command annual SDAP report may be obtained by sending a 
+digitally signed email to the SDAP Recertification Report help desk at 
+mill_sdap_recert(at)navy.mil.
+        (2) Annual SDAP report requesters are to include their primary unit 
+identification code (UIC) in the subject line and any required subordinate 
+UICs in the e-mail body.
+        (3) Requests can only be submitted by Command Career Management 
+System-Interactive Detailing (CMS-ID) users with the activity manning manager 
+(AMM) role.  Requester must have CMS-ID AMM access for all subordinate UICs 
+requested.  Commands with no AMM will need to submit a CMS-ID AMM access 
+request as outlined on the Navy Personnel Command (NPC) web site
+http://www.public.navy.mil/bupers-
+npc/enlisted/cmsid/Pages/default2.aspx.
+        (4) The SDAP report will be returned as an attachment either in an 
+encrypted email or via the U.S. Army Aviation and Missile Research 
+Development and Engineer Center (AMRDEC) Safe access file exchange process.  
+AMRDEC Safe will send an email form *No-Reply(at)amrdec.army.mil* with 
+specific instructions on how to access and download the file.
+    b.  Verify your command as a whole and make changes as follows:
+        (1) Add all Sailors who are eligible for SDAP, but not listed in the 
+annual SDAP report.  To add, simply handwrite or type the name, rate, 
+effective date, and level on the bottom of the Annual SDAP report.  If there 
+is not enough space, attach a list on command letterhead.
+        (2) Draw a line through any Sailor who is no longer eligible and put 
+a brief description as to why they are no longer eligible 
+(transfer/separation/loss of Navy Enlisted Classifications).
+        (3) Verify levels are in line with the most recent SDAP eligibility 
+chart on the NPC web site http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/SRB.aspx, and draw a line through listed 
+level and replace with new level as required.
+        (4) The original signature of the CO must be on each page of the 
+annual SDAP report accompanied by the following statement:
+*After review, I certify that all required additions and changes have been 
+annotated, actions required to start, stop, increase or decrease has been 
+processed via Personnel Support Detachment prior to submission of 
+recertification and all Sailors at this command are receiving the correct 
+SDAP entitlement.*  This statement can be handwritten, typed, or put on with 
+a label.  A cover letter is not required, and only recommended if the command 
+needs more space for Sailors added.
+        (5) Provide a point of contact in the top right hand corner of the 
+first page of the annual SDAP report.
+        (6) Send the SDAP report via encrypted e-mail to 
+MILL_INCEN_PAYS(at)navy.mil.  If you are having trouble sending encrypted e-
+mail, contact the Enlisted Incentive Program Department (BUPERS-328) at 
+901-874-3260/DSN 882 so that you can be added to the contact list.  E-mail 
+subject line should read:  Encryption request for UIC, POC:  name and phone 
+number and/or e-mail address.  E-mail is the preferred method, but if you 
+need to send via regular mail, please send to:
+    Navy Personnel Command
+    ATTN:  Enlisted Incentive Program Department (BUPERS-328)
+    5720 Integrity Drive
+    Millington, TN 38055-0130.
+        (7) E-mail subject line must contain:  UIC, POC:  rate, name, and 
+phone number.
+        (8) SDAP recertifications do not go to the Personnel Support 
+Detachment (PSD), only the required changes need to be submitted to PSD via 
+the transaction online processing system.
+
+4.  Each command is responsible for ensuring updates are made to the Sailors 
+record through the commands servicing PSD.  No changes will be made by NPC as 
+part of the annual recertification process.  If changes are required by the 
+BUPERS-328, then send via separate correspondence with Sailors name in 
+subject line of the e-mail.
+
+5.  Commands can check the status of their SDAP recertification at
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Pages/SRB.aspx.  Commands are strongly 
+encouraged to use this site to ensure all subordinate commands have completed 
+the recertification.  Please allow five to ten days after submission for the 
+webpage to be updated.
+
+6.  SDAP Processing Timeline:  PSDs may start the SDAP of a Sailor up to 
+eight months retroactive to the date of the SDAP memo of the command.  SDAP 
+requests that are greater than eight months must be submitted to BUPERS-328 
+and will require a letter signed by the Immediate Superior in Command of the 
+command explaining why the SDAP of the member was not processed in a timely 
+manner.  Payments will be determined by BUPERS-328.
+
+7.  Point of contact via e-mail MILL_INCEN_PAYS(at)navy.mil, at (901)874-
+3260/DSN 882.
+
+8.  This NAVADMIN will remain in effect until superseded or 1 October 2018, 
+whichever occurs first.
+
+9.  You can look forward to this cumbersome administrative requirement being 
+automated as we work towards implementation of our new personnel IT system.
+
+10.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

@@ -1,0 +1,79 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 211659Z NOV 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 283/18
+
+PASS TO OFFICE CODES:
+CNO WASHINGTON DC//N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/NOV//
+
+SUBJ/LOSS OF AMRDEC SAFE//
+POC/AUGELLI/CAPT/OPNAV N2N6G/E-MAIL: vincent.a.augelli@navy.mil//
+
+RMKS/1.  The Armys Aviation and Missile Research Development and Engineering 
+Center Safe Access File Exchange (AMRDEC SAFE) is a secure file transfer 
+website that was routinely used across all of DoD to transfer large data 
+files to include Personally Identifiable Information (PII) and Protected 
+Health Information (PHI) and For Official Use Only (FOUO) information.  The 
+Army has shut down this website for security reasons which impacts numerous 
+Navy users, especially the medical and legal communities. There currently is 
+no other existing enterprise solution to facilitate large PII file transfers.  
+N2N6 has coordinated with BUMED, JAG, and OGC to understand impact and 
+provide alternatives.
+
+2. The Defense Information Systems Agency is working on a long-term solution. 
+Further guidance will follow.
+
+3. For the near term, smaller files containing PII, PHI, and FOUO material 
+can be encrypted and sent via email.  For larger files, burning the data to 
+disk and using registered mail is the only solution that meets PII/PHI 
+criteria.  NMCI users may enable optical disk burning capability by ordering 
+the appropriate contract line item numbers (unencrypted: 6023AK_0168 and 
+6023BS_0168; encrypted:
+6023AK_0165 and 6023BS_0165).  The unencrypted option requires a NAVNETWARCOM 
+waiver.  All efforts shall be made to prioritize orders for rapid 
+implementation.  NMCI users whose workstations lack a burner should contact 
+their NMCI contractor or information technology point of contact.
+
+4. Interim solutions for unclassified, non-PII/PHI file exchange are listed 
+below.  FOUO data must be encrypted with at least AES-256 encryption. 
+Encryption can be accomplished using an option within WinZip; passwords must 
+be at least 16 characters of appropriate complexity and sent separately to 
+the intended recipient.  Details noted below are file size limitation, public 
+key infrastructure
+(PKI) capability, and non-DoD/interagency access.  Note: these tools have not 
+been engineered for high traffic across the DoD enterprise and performance 
+reliability cannot be guaranteed.
+    a.  Army Research Laboratory Safe Access File Exchange (ARL SAFE) 
+(https://safe.arl.army.mil/). Size: 2 GB; PKI: yes; interagency: yes
+    b.  Intelink SharePoint Assured File Exchange 
+(https://intelshare.intelink.gov/sites/u-safesource/SitePages/Home.aspx).  
+Size: 250 MB; PKI: yes; interagency: yes
+    c.  iNavy Portal https://portal.navy.deps.mil. Size: 250 MB; PKI: yes; 
+interagency: no.
+
+5.  Chief Information Officers and security managers are responsible to 
+ensure all practices comply with regulations governing PII/PHI and other 
+content.  Commercial IT service alternatives are not authorized.
+
+6.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

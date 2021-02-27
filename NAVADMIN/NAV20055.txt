@@ -1,0 +1,87 @@
+UNCLASSIFIED//
+ROUTINE
+R 281807Z FEB 20 MID510000997990U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 055/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC/N2N6//
+INFO CNO WASHINGTON DC/N2N6//
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/FEB//
+
+SUBJ/UPDATE TO RISK MANAGEMENT FRAMEWORK TRANSITION AFLOAT//
+
+REF/A/GENADMIN/CNO WASHINGTON DC/N2N6/231550ZAUG19//
+REF/B/DOC/DODI 8510.01/DOD/28JUL17//
+REF/C/DOC/OPNAVINST 5239.1D/CNO/18JUL18//
+REF/D/LTR/N2N6G/8U121038/29MAY18//
+REF/E/MSG/FLTCYBERCOM/101128Z AUG 17//
+REF/F/OPORD/FLTCYBERCOM/19-058//
+
+NARR/REF A IS NAVADMIN 197-19, RISK MANAGEMENT FRAMEWORK TRANSITION (RMF) 
+AFLOAT WAY AHEAD.  
+REF B IS DEPARTMENT OF DEFENSE (DOD) INSTRUCTION 8510.01, RMF FOR DOD 
+INFORMATION TECHNOLOGY (IT).  
+REF C IS CHIEF OF NAVAL OPERATIONS INSTRUCTION 5239.1D, U.S. NAVY 
+CYBERSECURITY PROGRAM.  
+REF D IS DEPARTMENT OF THE NAVY DEPUTY CHIEF INFORMATION OFFICER (NAVY) 
+MEMORANDUM WHICH DIRECTS THE TRANSITION TO RMF BY 31 DECEMBER 2020.  
+REF E IS THE FLEET CYBER COMMAND
+(FLTCYBERCOM) MESSAGE, U.S. NAVY RMF IMPLEMENTATION STRATEGY/DEFENSE 
+INFORMATION ASSURANCE CERTIFICATION AND ACCREDITATION PROCESS TO RMF BRIDGE 
+CONVERSION (RBC)-UPDATE NR 1.  
+REF F IS THE FLTCYBERCOM OPERATION ORDER 19-058 OPERATION TRITON BASTION 
+(OTB) IN SUPPORT OF CAMPAIGN FOR NAVY-WIDE TRANSITION TO RMF.//
+POC/KELLEY/CIV/OPNAV/N2N6/TEL: 571-256-8523/EMAIL: PETER.KELLEY(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancels reference (a) and provides transition 
+assistance for the afloat community to assist the Navy in converting to Risk 
+Management Framework (RMF) per references (b) and (c) by 31 December 2020.  
+This RMF transition Afloat process is intended to provide an alternative 
+solution for attaining RMF site authorizations for ships, which in turn will 
+allow for a deliberate RMF transition of the systems hosted on those ships.
+
+2.  Ships under U.S. Fleet Forces Command (USFF), Commander, U.S. Pacific 
+Fleet (COMPACFLT) and Military Sealift Command (MSC) with Defense Information 
+Assurance Certification and Accreditation Process (DIACAP) Authorizations to 
+Operate (ATO) that expire on or before 31 December 2020 are authorized to 
+pursue an Afloat RMF Bridge Conversion (RBC).  The intent of the Afloat RBC 
+is to utilize the assessed and certified risk of a full DIACAP submission, 
+and issue an RMF ATO instead of a DIACAP ATO.  The Afloat RBC ATO will be 
+issued for no more than three years.  All ships under the scope of this 
+NAVADMIN will be required to transition to full RMF on or before the 
+Authorization Termination Date (ATD) of their respective RBC.  Amplifying 
+guidance is as follows:
+    a.  Per references (d) and (e), the Package Submitting Officer (PSO) will 
+process the package for a DIACAP Certification Determination (CD) issuance 
+from the Navy Security Control Assessor for impacted ships.
+    b.  The DIACAP CD shall be no older than 180 days.
+    c.  Following the CD issuance, the PSO will process the package for an 
+Afloat RBC following reference (e).
+    d.  All DIACAP artifacts will be in compliance with reference (e).
+    e.  The DIACAP artifacts that accompanied the DIACAP submission will be 
+used to leverage Afloat RBCs.
+
+3.  Programs outside of the afloat community are eligible for additional new 
+alternate RMF transition processes, which are detailed in reference (f).
+
+4.  This NAVADMIN is retroactive and allows afloat platforms that have 
+already been granted an afloat RBC to be granted an administrative extension 
+based on the original CD and authorization date not to exceed three years of 
+original RBC.
+
+5.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+6.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

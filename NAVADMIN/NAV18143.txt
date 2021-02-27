@@ -1,0 +1,167 @@
+UNCLASSIFIED
+ROUTINE
+R 081526Z JUN 18
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 143/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/POLICY REGARDING CAREER SEA PAY ENTITLEMENT//
+
+REF/A/MSG/CNO WASHINTON DC/271715ZDEC02//
+REF/B/DOC/OPNAV/24DEC05//
+REF/C/DOC/SECNAV/14JUN16//
+NARR/REF A IS NAVADMIN 415/02, ANNUAL REVIEW OF CAREER SEA PAY ENTITLEMENT 
+FOR SHIP-BASED STAFFS AND UNITS.  REF B IS OPNAVINST 7220.14, CAREER SEA PAY 
+AND CAREER SEA PAY PREMIUM.  REF C IS SECNAVINST 5030.8C, GENERAL GUIDANCE 
+FOR THE CLASSIFICATION OF NAVAL VESSELS AND BATTLE FORCE SHIP COUNTING 
+PROCEDURES.//
+
+RMKS/1.  This NAVADMIN cancels reference (a) in its entirety and announces 
+changes to Career Sea Pay (CSP) policy as established in reference (b).  The 
+policy outlined in this NAVADMIN will be incorporated into the next update of 
+reference (b).
+
+2.  Only those vessels categorized as a Patrol Ship (PC), combatant ship, or 
+auxiliary ship in reference (c) will be eligible for designation as Category 
+A or Category B vessels for the purposes of CSP entitlement.
+
+3.  Service members serving onboard Category A vessels receive continuous 
+CSP.  The following vessels are designated Category A:
+
+    AS (SUBMARINE TENDER)
+    CG (GUIDED MISSILE CRUISER)
+    CVN (AIRCRAFT CARRIER NUCLEAR-POWERED)
+    DDG (GUIDED MISSILE DESTROYER)
+    EPF (EXPEDITIONARY FAST TRANSPORT)
+    HST (HIGH SPEED TRANSPORT)
+    LCC (COMMAND SHIP)
+    LCS (LITTORAL COMBAT SHIP)
+    LHA (AMPHIBIOUS ASSAULT SHIP GENERAL PURPOSE)
+    LHD (AMPHIBIOUS ASSAULT SHIP MULTI-PURPOSE)
+    LPD (AMPHIBIOUS TRANSPORT DOCK)
+    LSD (DOCK LANDING SHIP)
+    MCM (MINE COUNTERMEASURES SHIP)
+    PC (PATROL COASTAL)
+    SSN (SUBMARINE NUCLEAR-POWERED)
+    SSBN (BALLISTIC MISSILE SUBMARINE NUCLEAR-POWERED)
+    SSGN (GUIDED MISSILE SUBMARINE NUCLEAR-POWERED)
+    T-AE (AMMUNITION SHIPS)
+    T-AFSB (AFLOAT FORWARD STAGING BASE)
+    T-AGOS (SURVEILLANCE SHIP)
+    T-AH (HOSPITAL SHIP)
+    T-AKE (DRY CARGO/AMMUNITION)
+    T-AO (FLEET REPLENISHMENT OILER)
+    T-AOE (FAST COMBAT SUPPORT)
+    T-ARS (SALVAGE SHIP)
+    T-ATF (FLEET OCEAN TUG)
+    T-ATS (TOWING/SALVAGE/RESCUSE SHIP)
+    T-ESB (EXPEDITIONARY SEA BASE)
+    T-ESD (EXPEDITIONARY TRANSFER DOCK)
+
+4.  Designated Afloat Staffs that are permanently embarked and serving in 
+Category A vessels are the only staffs authorized to receive continuous CSP.  
+All other Afloat Staffs receive the daily CSP rate (1/30 of monthly rate) 
+only for days in which they are either underway or embarked and serving in a 
+Category A vessel.  The following Afloat Staffs, assigned to vessels of 
+Forward Deployed Naval Forces and without working spaces ashore, are 
+designated Category A:
+
+    COMSEVENTHFLT
+    CCSG 5
+
+5.  Service members serving onboard Category B vessels are eligible for the 
+daily CSP rate (1/30 of monthly rate) when the member is embarked and serving 
+in a Category B vessel that is in a port more than 50 miles from the homeport 
+of the vessel or when the vessel is underway for 8 continuous hours.  The 
+following vessels are designated Category B:
+
+    IX-21 (USS CONSTITUTION)
+    TSV (THEATER SUPPORT VESSEL)
+
+6.  Category B staff designations, listed under paragraph 10 of reference 
+(b), are abolished.  All Afloat Staffs not designated as Category A in 
+paragraph 4 shall receive the daily CSP rate only for the days in which they 
+are either underway or embarked and serving in a Category A vessel for 8 
+continuous hours.
+
+7.  Special Boats and Expeditionary Units
+    a.  Service members assigned to Special Boats and Expeditionary units 
+shall be eligible for the daily CSP rate when embarked and serving in the 
+following craft:
+
+    MKV/VI PB/CCB (PATROL BOAT)
+    RCB (RIVERINE COMMAND BOAT)
+    RPB (RIVERINE PATROL BOAT)
+    RAB (RIVERINE ASSAULT BOAT)
+    34FT PB (PATROL BOAT)
+    25FT PB (PATROL BOAT)
+    36FT NSW RHIB (NAVAL SPECIAL WARFARE RIGID HULL INFLATABLE BOAT)
+    CCH (COMBATANT CRAFT HEAVY)
+    CCM (COMBATANT CRAFT MEDIUM)
+    CCA (COASTAL ASSAULT CRAFT)
+    SOCR (SPECIAL OPERATIONS CRAFT RIVERINE)
+    MSV (MANUEVER SUPPORT VESSEL)
+    NSM (NON-STANDARD MARITIME)
+    MV (MERCHANT VESSEL)
+    T-AGSE (SUBMARINE AND SPECIAL WARFARE SUPPORT)
+    a.  Eligible personnel in this subparagraph are members permanently 
+assigned to a Special Boat Team, Coastal Riverine Squadron, or expeditionary 
+unit whose primary mission is serving in an assigned vessel.  The CSP daily 
+rate entitlement exists only when a Service member meets the criteria 
+established in both subparagraphs (1) and (2) below:
+        (1) The vessel is at sea OR in a port more than 50 miles from its 
+permanent duty station, AND
+        (2) The Service member is embarked in an eligible craft that is 
+underway and making way for at least 6 hours per 1 calendar day.
+
+8.  Landing Craft Utility
+    a.  Service members assigned to Landing Craft Utility units shall be 
+eligible for the daily CSP rate when embarked and serving in the craft under 
+the below circumstances:
+    b.  Eligible personnel in this subparagraph are members permanently 
+assigned to a Landing Craft Utility (LCU) unit whose primary mission is 
+serving in the vessel.  The daily CSP rate entitlement exists only when a 
+member meets the criteria established
+below:
+        (1) The vessel is at sea OR in a port more than 50 miles from its 
+permanent duty station, and the member is embarked in an eligible craft that 
+is underway and making way for at least 6 hours per 1 calendar day.
+    OR
+        (2) The member is onboard and underway with a LPD, LSD, LHA, or LHD 
+class ship to which the LCU is assigned for deployment or training.
+
+9.  The following policies of reference (b) are emphasized:
+    a.  The consecutive sea-duty time counter only advances while the member 
+is receiving CSP.
+    b.  Only members and staffs permanently assigned to Category A vessels 
+may receive continuous CSP for their entire tours.
+    c.  Notation of embarkation of the staff in the log of the ship and *flag 
+flying* do not replace the requirement of physical presence aboard the ship 
+in order to qualify for CSP and CSP counter credit.
+
+10.  To ensure auditability of career sea pay entitlements of the Service 
+member, sea duty time and counter must be documented using manual or 
+electronic Administrative Remarks (NAVPERS 1070/613) in Navy Standard 
+Integrated Personnel System and signed by the commanding officer or designee.  
+Copy of signed CSP NAVPERS 1070/613 must be forwarded to Commander, Navy 
+Personnel Command (COMNAVPERSCOM) Records Management and Policy Branch (PERS-
+313) for permanent document retention via e-submission.
+
+11.  Point of Contact in this matter is N130C, at (703) 604-5478/DSN 225 or 
+via e-mail at nxag_n130c(at)navy.mil.
+
+12.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

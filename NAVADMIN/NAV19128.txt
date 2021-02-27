@@ -1,0 +1,66 @@
+UNCLASSIFIED//
+ROUTINE
+R 101548Z JUN 19
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 128/19
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/OFF-RAMP GUIDANCE FOR ACTIVE COMPONENT SUBMARINE COMMUNICATIONS 
+DESIGNATOR 6290 LIMITED DUTY OFFICERS//
+
+REF/A/DOC/OPNAV/17JAN19//
+REF/B/DOC/NAVPERS/1APR19//
+REF/C/DOC/OPNAV/26JAN12//
+NARR/REF A IS OPNAVINST 1210.5B, LATERAL TRANSFER AND REDESIGNATION OF ACTIVE 
+COMPONENT OFFICERS IN THE NAVY.  
+REF B IS NAVPERS 15839I, MANUAL OF NAVY OFFICER MANPOWER AND PERSONNEL 
+CLASSIFICATIONS VOLUME I.  
+REF C IS OPNAVINST 7220.15, SUBMARINE DUTY INCENTIVE PAY PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces off-ramp guidance for Active Component 
+Submarine Communications Designator (6290) Limited Duty Officers (LDO) to the 
+Information Professional (IP) designator (1820) unrestricted line.
+    a.  After two consecutive tours (4-6 years commissioned service), 
+Submarine Communications (6290) LDOs will be eligible for redesignation to IP 
+(1820) without board action.  Reference (a), paragraph 4 provides detailed 
+application procedures.
+    b.  Beginning fiscal year 2020 (1 October 2019) approximately 38 
+submarine communications (6290) billets, lieutenant through captain, will be 
+shifted to the IP (1820) designator.  Current submarine communications (6290) 
+LDOs may continue to compete for promotion in the nuclear and submarine 
+competitive category, even though there will be zero control grade billets.
+    c.  Reference (b) has been updated to include the additional 
+qualification designator (AQD) IP officers qualified in submarine 
+communications (SV3).
+    d.  This NAVADMIN updates reference (c), adding the IP (1820) designator 
+with AQD SV3 to the list of active-duty officers eligible for continuous 
+submarine pay.  Current submarine communications
+(6290) LDOs redesignated to IP (1820) will be paid following current 
+guidelines for the submarine communications (6290) designator.
+Reference (c) is currently under revision and will contain this update upon 
+release.
+
+2.  Points of contact are CAPT Edward L. Callahan at
+(901) 874-3042/DSN 882 or via e-mail at edward.l.callahan(at)navy.mil or 
+LCDR Sammie Green at (901) 874- 3945/DSN 882 or via e-mail at 
+sammie.green(at)navy.mil.
+
+3.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+4.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

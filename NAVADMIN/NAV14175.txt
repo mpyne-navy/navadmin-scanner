@@ -1,0 +1,139 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 042002Z AUG 14 PSN 264832K25
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO ZEN/SECDEF WASHINGTON DC
+ZEN/JOINT STAFF WASHINGTON DC
+CNO WASHINGTON DC
+ZEN/CMC WASHINGTON DC
+CDR USPACOM HONOLULU HI
+ZEN/CDR USEUCOM VAIHINGEN GE
+ZEN/CDR USAFRICOM STUTTGART GE
+ZEN/CDR USCENTCOM MACDILL AFB FL
+ZEN/CDR NORTHCOM
+ZEN/CDR USSOUTHCOM MIAMI FL
+ZEN/CDR JOINT STAFF WASHINGTON DC
+ZEN/CDR USSOCOM MACDILL AFB FL
+ZEN/CDR USTRANSCOM SCOTT AFB IL
+ZEN/CDR USSTRATCOM OFFUTT AFB NE
+ZEN/DIRSSP WASHINGTON DC
+ZEN/DARPA ARLINGTON VA
+ZEN/DCMA HQ ALEXANDRIA VA
+DFAS HQ ARLINGTON VA
+ZEN/DIA WASHINGTON DC
+ZEN/DISA WASHINGTON DC
+ZEN/DLA FT BELVOIR MD
+ZEN/DTRA ALEX WASHINGTON DC
+ZEN/NGA HQ BETHESDA MD
+ZEN/MDA WASHINGTON DC
+ZEN/NSA US WASH DC
+
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+INFO RUEKJCE/CDR USEUCOM VAIHINGEN GE//J1// RUEKJCE/CDR USAFRICOM STUTTGART 
+GE//J1// RUIBAAA/CDR USCENTCOM MACDILL AFB FL//J1// RUJBAAA/CDR USSOUTHCOM 
+MIAMI FL//J1// RUIHAAA/CDR USTRANSCOM SCOTT AFB IL//J1// RUIGAAA/CDR 
+USSTRATCOM OFFUTT AFB NE//J1//
+
+SUBJ/EXERCISE-EXERCISE-EXERCISE ORDER TO ACCOUNT FOR THE NAVY FAMILY ? 
+SIMULATED DISASTER IN CONJUNCTION WITH CITADEL RUMBLE 14(CR-14)// 
+
+NAVADMIN 175/14
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// EXERCISE-EXERCISE-EXERCISE
+
+REF/A/DOC/OPNAVINST 3006.1/01MAR2011//
+
+REF/B/DOC/DODINST 3001.02/08AUG2006//
+
+REF/C/DOC/DODINST 1015.15/20MAR2008//
+
+REF/D/DOC/NAVSOP-1000/12DEC2002//
+
+REF/E/MSG/PTC WASHINGTON DC/171821ZMAR09//
+
+REF/F/MSG/PTC WASHINGTON DC/171846ZMAR09//
+
+NARR/REF A IS OPNAVINST 3006.1, PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH 
+CATASTROPHIC EVENTS, NAVY PERSONNEL ACCOUNTABILITY POLICY.  REF B IS DODINST 
+3001.02, PERSONNEL ACCOUNTABILITY IN CONJUNCTION WITH NATURAL OR MAN-MADE 
+DISASTERS. REF C IS DODINST 1015.15, PROCEDURES AND SUPPORT FOR NON-FEDERAL 
+ENTITIES AUTHORIZED TO OPERATE ON DOD INSTALLATIONS (ENCL 4).  REF D IS 
+FINANCIAL MANAGEMENT POLICY MANUAL.  REF E IS ALARACT 070/2009, CONUS 
+EVACUATION ALLOWANCES.  REF F IS ALARACT 071/2009, NONCOMBATANT EVACUATION 
+ORDER/OCONUS EVACUATION ALLOWANCES.//
+
+RMKS/1.  This message applies to all Navy personnel, uniformed and civilian.  
+Echelon II Commanders and all Regional Commanders shall ensure widest 
+dissemination to all subordinate and tenant commands and detachments for 
+immediate action upon receipt.
+
+2.  The following geographic area of interest (GAOI) has been established for 
+the simulated disaster in conjunction with CR-14:
+    a.  The following counties within the state of Washington:
+Island, Jefferson, Snohomish
+     b.  The following counties within the state of California:
+Los Angeles, Monterey, Orange, San Diego, Ventura
+
+3.  All commands are expected to:
+    a.  Muster and account for all affected personnel, including
+    applicable family members.  Commanding Officers (COs) and/or
+    Commanding Officer?s Representatives (CORs) are to determine
+    accurate status and whereabouts of their personnel and muster and
+    account for them at current residence, displaced location, or not
+    in
+    the GAOI with specified circumstance (deployed, TDY/TAD/IA, on
+    leave, separated/retired, transferred, UA/deserter, other).  In
+    doing so, an accurate accounting of all personnel in all
+    accounting
+    categories can be quickly determined.
+    b.  COs and/or CORs utilize the Navy Family Accountability and
+    Assessment System (NFAAS) support site at https:/
+    /navyfamily.navy.mil to account for each individual required to
+    be
+    reported per refs a and b.
+    c.  Individuals or family members not able to contact their
+    command can log on to NFAAS at https://navyfamily.navy.mil and
+    check
+    in (muster) on the navy family members site.  If unable to log on
+    to
+    NFAAS, call the NFAAS help desk at 866-946-9183.
+    d.  If NFAAS is not available, commands are to report the status
+    of personnel accountability (PA) to the affected Region
+    Operations
+    Center (ROC) or direct chain of command.
+    e.  Do not delay reporting on personnel until all information is
+    complete.  Report and account mustering information when obtained
+    including the posting of amplifying data in the notes area on the
+    individual?s accounting line.
+
+4.  There will not be a Needs Assessment conducted for this exercise.
+
+5.  For personnel accountability questions or concerns, contact the POCs 
+below for your chain of command (read as location/phone/email):
+    A.  NPC ECC POC/NPC.CAT.CAPTAIN(AT)NAVY.MIL OR 877-414-5358
+    B.  CNR NORTHWEST/360-396-1880/JASON.FOUTS(AT)NAVY.MIL
+    C.  CNR SOUTHWEST/619-532-3896/DONALD.A.ROBERTS(AT)NAVY.MIL.
+    D.  CNIC N14 PA POC/ 202-433-9360/ALLISON.ROSE(AT)NAVY.MIL OR
+        (202) 433-0226/CNIC.N36.BWC(AT)NAVY.MIL.
+    E.  USFFC BWC/757-836-5397/5398/5359/BWC.FFC(AT)NAVY.MIL.
+    F.  USFFC N1 PERS POC/757-836-8442/BRANDON.EDGE(AT)NAVY.MIL
+    G.  NFAAS HELP DESK/866-946-9183/NFAAS(AT)SPAWAR.NAVY.MIL.
+
+6.  EXERCISE, EXERCISE, EXERCISE
+
+7.  RELEASED BY A. H. GONZALEZ, JR., SES, DIRECTOR, FLEET
+PERSONNEL        DEVELOPMENT AND ALLOCATION, N1.//
+
+BT
+#7913
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,65 @@
+RTTUZYUW RHOIAAA0001 0101535-UUUU--RHSSSUU
+ZNR UUUUU
+R 101517Z JAN 20 MID510000875792U
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS
+
+NAVADMIN 006/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/POST 9-11 GI BILL POLICY UPDATE//
+
+REF/A/DOC/DOD/31MAY13//
+REF/B/DOC/DOD/20DEC19//
+REF/C/MSG/CNO WASHINGTON DC/021400ZAUG19//
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION 1341.13 CHANGE 1, POST 9-11 
+GI BILL.  
+REF B IS FISCAL YEAR 2020 NATIONAL DEFENSE AUTHORIZATION ACT.  
+REF C IS NAVADMIN 178/19, POST 9-11 GI BILL POLICY UPDATE.//
+
+RMKS/1.  This NAVADMIN announces a change in the Post 9-11 GI Bill transfer 
+of education benefits (TEB) eligibility announced in reference (a), allowing 
+Service Members over 16 years of service to continue eligibility and transfer 
+education benefits to their dependents.
+
+2.  Section 574 of reference (b) includes language that prohibits the 
+Department of Defense (DOD) from limiting Service Member eligibility to 
+transfer unused education benefits to family members based on a maximum 
+number of years of service in the U.S. Armed Forces.  DOD will update 
+reference (a) to reflect this change. Reference (c) is canceled effective 
+immediately.
+
+3.  Eligible Service Members who have served 6 or more years may transfer 
+their unused Post 9-11 GI Bill benefits to their eligible dependents.  
+Service Members transferring their Post 9-11 GI Bill benefits must serve an 
+additional 4-year service obligation on Active-duty or in the Selected 
+Reserve.
+
+4.  All other Post 9-11 GI Bill and TEB policies remain in effect.
+
+5.  For additional information, visit
+https://milconnect.dmdc.osd.noclick_mil/milconnect/public/goto/teb.
+
+6.  For Post 9-11 GI Bill and TEB questions, contact the following:
+    a.  Mr. Jim Johnson, Education Policy Branch, at (703)604-5256/
+DSN 664 or via e-mail at james.p.johnson(at)navy.mil.
+    b.  Active-duty and full-time support Service Members may submit
+inquiries to MyNavy Career Center at 1-833-330-6622 or via e-mail at
+askmncc(at)navy.mil.
+    c.  Selected Reserve Service Members may submit inquiries to
+Commander, Navy Reserve Forces Command, Post-9/11 GI Bill Manager,
+at 1-800-621-8853 or via e-mail at nrfc_post911gibill(at)navy.mil.6.
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

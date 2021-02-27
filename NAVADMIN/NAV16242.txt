@@ -1,0 +1,61 @@
+UNCLASSIFIED
+ROUTINE
+R 281503Z OCT 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 242/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/AIRCREWMAN RATING AND NAVY OCCUPATIONAL SPECIALTY EXPANSION AT THE 
+MASTER CHIEF PETTY OFFICER LEVEL//
+
+RMKS/1.  This NAVADMIN announces the expansion of the Naval Aircrewman (AW) 
+Rating and Navy Occupational Specialty (NOS) at the Master Chief Petty 
+Officer (MCPO) level for active component and Full-Time Support only.  Force 
+structure in the reserve component does not support this same change.
+
+2.  The Naval Aviation Enterprise Total Force cross functional team, in 
+collaboration with AW communities senior AW leadership (and their 
+Commodores), Enlisted Community Managers (ECM) and other stakeholders have 
+concluded that this change will open up advancement opportunities for Sailors 
+in critical AW/NOS communities and will lead to increased numbers of 
+platform-experienced senior enlisted on our flight lines.
+
+3.  This change is aligned with the rating modernization initiative.
+
+4.  No action is required for individual service members.
+
+5.  Enlisted Community Management Branch, BUPERS-32, will recode all AW 
+(A500/J150) MCPOs to their respective source Type/Model/Series (T/M/S) in the 
+Enlisted Master File as follows (NOS shown in parenthesis):
+    a.  AWRCM - Master Chief Naval Aircrewman Tactical Helicopter (A505)
+    b.  AWSCM - Master Chief Naval Aircrewman Helicopter (A510)
+    c.  AWOCM - Master Chief Naval Aircrewman Operator (A520)
+    d.  AWFCM - Master Chief Naval Aircrewman Mechanical (A530/J154)
+    e.  AWVCM - Master Chief Naval Aircrewman Avionics (A550)
+
+6.  Selected Reservists (SELRES) MCPOs will retain the AWCM (A500) and 
+qualified SELRES Senior Chief Petty Officers will continue to compete for 
+AWCM (A500).
+
+7.  This change is effective immediately and will be fully implemented to 
+support the FY-18 Master Chief Petty Officer Selection Board.
+
+8.  Points of contact:  Head Aviation ECM CDR Case Garrison, at (901) 874-
+2980/DSN 882, or Senior Chief Lon Vicknair, Aviation ECM Technical Advisor, 
+at (901) 874-2074/DSN 882.
+
+9.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

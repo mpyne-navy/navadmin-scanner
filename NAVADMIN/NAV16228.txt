@@ -1,0 +1,62 @@
+UNCLASSIFIED
+ROUTINE
+R 171637Z OCT 16
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+NAVADMIN 228/16
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/IMPLEMENTATION OF LIMITED DUTY SAILOR AND MARINE READINESS TRACKER 
+SYSTEM//
+
+RMKS/1.  Limited duty (LIMDU) Sailor and Marine readiness tracker system 
+(SMART) is replacing the Medical Evaluation Board System as the tracking 
+system for Temporary Limited Duty and Physical Evaluation Board referrals.  
+All commands are required to gain access.  Utilize this NAVADMIN to learn how 
+and when to gain access.
+
+2.  Deployability coordinators must complete the online LIMDU SMART computer 
+based training (CBT) course for deployability coordinators prior to obtaining 
+access to the LIMDU SMART system.  The course may be accessed at 
+https://edqtest.med.navy.mil/cbts/.
+
+3.  After completion of the CBT, deployability coordinators gain access to 
+LIMDU SMART by contacting their Patient Administration Office at their 
+commands servicing Medical Treatment Facility (MTF).  With the exception of 
+U.S. European Command (EUCOM) and U.S. Africa Command (AFRICOM) MTFs, all 
+MTFs will have completed the transition to LIMDU SMART by 30 September 2016, 
+and commands may begin requesting access.  Transition of EUCOM and AFRICOM 
+MTFs will be completed during FY-17, and commands may gain access as soon as 
+the transition is complete.  In addition to granting access to LIMDU SMART, 
+servicing MTFs can provide additional training.
+
+4.  Additional points of contact:
+   a.  LIMDU SMART Contractors, Universal Consulting Services, Inc., Mr. 
+Christopher Gambardella at (703) 591-5100 Extension 298, or via e-mail at 
+christopher.gambardella(at)universal-inc.net.
+   b.  Deployability Assessment Office, PERS-454, CDR Cynthia Sikorski at 
+(901) 874-3201/DSN 882, or via e-mail at Mill_DAOPers-454(at)navy.mil.
+   c.  Bureau of Medicine and Surgery (M3B4 Medical Readiness), Mr. Don Hall 
+at (703) 681-9215/DSN 312, or via e-mail at don.r.hall4.ctr(at)mail.mil or 
+LT Nicole Gonzalez at (703) 681-5569/DSN 312 or via e-mail at 
+nicole.k.gonzalez.mil(at)mail.mil.
+
+5.  Unless specifically addressed in this NAVADMIN, all other LIMDU program 
+policies remain unchanged.  Should a specific instruction conflict with this 
+NAVADMIN, this NAVADMIN takes precedence over existing guidance in other 
+directives.
+
+7.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
