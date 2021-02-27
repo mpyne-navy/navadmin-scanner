@@ -7,6 +7,7 @@ use File::Glob;
 
 my %navadmin_by_year;
 my %navadmin_subj;
+my @SORTED_YEARS;
 
 # Set static content directory (must be done early, before routes are defined)
 app->static->paths->[0] = app->home->child('assets');
@@ -39,9 +40,11 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
     $navadmin_subj{"$id/$twoyr"} = $subj
 }
 
+@SORTED_YEARS = reverse sort keys %navadmin_by_year;
+
 get '/' => sub {
     my $c = shift;
-    $c->render(template => 'index', years => [reverse sort keys %navadmin_by_year]);
+    $c->render(template => 'index', years => \@SORTED_YEARS);
 };
 
 get '/about' => sub {
@@ -104,7 +107,7 @@ get '/NAVADMIN' => sub {
 
     $qsrch = lc $qsrch;
     my @results;
-    for my $year (reverse sort keys %navadmin_by_year) {
+    for my $year (@SORTED_YEARS) {
         my $navadmins_for_year_ref = $navadmin_by_year{$year};
         my $two_digit_year = sprintf("%02d", $year % 100);
 
