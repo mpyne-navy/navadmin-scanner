@@ -201,7 +201,7 @@ This server has NAVADMINs on file for the following years:
 <div class="content">
 <pre>
 % my $content = Mojo::File->new($filepath)->slurp;
-<%= b($content) %>
+<%= b($content)->xml_escape %>
 </pre>
 </div>
 
