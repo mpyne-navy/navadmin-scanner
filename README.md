@@ -48,3 +48,38 @@ The resulting web server will by default run at localhost port 3000, i.e.
 directly to show off which routes are configured (`./navadmin-viewer.pl
 routes`) or test the response of a given GET request without a browser
 (`./navadmin-viewer.pl get /by-year/2019`).
+
+# Containerizing the application
+
+This repository contains a Dockerfile you can use to turn the application into
+a working container-based app.
+
+## Build
+
+To build, run
+
+    docker build --target webapp -t navadmin-viewer:latest .
+
+You can replace the `navadmin-viewer:latest` with an appropriate image name and
+image version as you wish.
+
+## Run
+
+To run a new container with the image you just built, run
+
+    docker run -P --rm -it navadmin-viewer:latest
+
+The `-P` switch allows docker to expose port 3000 in the container (where the web app
+will be expecting traffic) to a randomly-generated port that docker will choose. You
+can run `docker ps` to find out what the external port will be, or there's probably a
+better way to set the port by reading the [`docker-run`
+documentation](https://docs.docker.com/engine/reference/run/#expose-incoming-ports).
+
+`docker ps` will also tell you the name of the new container. Run `docker stop
+$name` (where $name is the name as listed by `docker ps`) to stop the
+application.
+
+Once you have a working container then getting it published and available to
+the wider world can be done using the vast array of platform services that are
+now available, including AWS, Azure, Google, [Fly](https://fly.io/) and
+probably a hundred others.
