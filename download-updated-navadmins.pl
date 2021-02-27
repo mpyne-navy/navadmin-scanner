@@ -16,8 +16,9 @@ sub read_navadmin_listing
 {
     my $dom = Mojo::DOM->new(shift);
     my $links_ref = $dom->find('a')
-        ->grep(sub { ($_->attr("href") // "") =~ qr(NAV[^/]*\.txt$)})
+        ->grep(sub { ($_->attr("href") // "") =~ qr(NAV[^/]*\.txt\??)})
         ->map(attr => 'href')
+        ->map(sub { $_ =~ s/\?ver=.*$//; $_ })   # Some links end in ?ver=<gibberish>
         ->to_array;
 
     return @{$links_ref};
@@ -29,26 +30,15 @@ sub pull_navadmin_year_links
 {
     my $ua = shift; # User agent must outlive this function
 
-    my $BASE_URL = 'https://www.public.navy.mil/bupers-npc/reference/messages/NAVADMINS/Pages/default.aspx';
+    my $cur_year = (localtime)[5] + 1900;
+    my @years = '2016'.."$cur_year";
+
+    my $BASE_URL = 'https://www.mynavyhr.navy.mil/References/Messages/NAVADMIN-';
     my $base = Mojo::URL->new($BASE_URL);
 
-    my $promise = $ua->get_p($BASE_URL)
-        ->then(sub {
-            my $tx = shift;
-            die ("Something broke: " . $tx->message)
-                if $tx->result->is_error;
-            say "Result success, looking for hyperlinks";
-            my $dom = $tx->result->dom;
-            my $links_ref = $dom->find('a')
-                ->grep(sub { ($_->attr("href") // "") =~ qr(NAVADMIN-?[0-9]*\.aspx$)})
-                ->map(attr => 'href')
-                ->to_array;
+    my @urls = map { "${BASE_URL}$_/" } (@years);
 
-            my @urls = map { $base->clone->path($_)->to_abs } (@{$links_ref});
-            return @urls;
-        });
-
-    return $promise;
+    return Mojo::Promise->new->resolve(@urls);
 }
 
 my $ua = Mojo::UserAgent->new;
@@ -66,7 +56,7 @@ pull_navadmin_year_links($ua)->then(sub {
         my @links = read_navadmin_listing($tx->result->body);
 
         my $year = (localtime(time))[5] + 1900;
-        if (-e '.has-run' && $req_url !~ /$year.aspx$/) {
+        if (-e '.has-run' && $req_url !~ /-$year\/$/) {
             return 1;
         } else {
             say "Loaded NAVADMINs for $req_url";
