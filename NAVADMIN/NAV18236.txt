@@ -1,0 +1,138 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 241332Z SEP 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 236/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/POST-9/11 GI BILL UPDATES PART 2//
+
+REF/A/DOC/OPNAV/2MAR15//
+
+REF/B/DOC/BUPERS/14SEP15//
+
+REF/C/DOC/DOD/31MAY13//
+
+REF/D/DOC/COMNAVPERS/28MAR17//
+
+REF/E/DOC/SECDEF/31AUG18//
+
+NARR/REF A IS OPNAVINST 1780.4, POST-9/11 GI BILL.  REF B IS BUPERSNOTE 1780, 
+POST-9/11 GI BILL.  REF C IS DOD INSTRUCTION 1341.13, POST-9/11 GI BILL.  REF 
+D IS MILPERSMAN ARTICLE 1160-030, ENLISTMENTS AND RE-ENLISTMENTS UNDER 
+CONTINUOUS SERVICE CONDITIONS.
+REF E IS SECRETARY OF DEFENSE DIRECTIVE-TYPE MEMORANDUM 18-006, DIRECTIVE-
+TYPE MEMORANDUM (DTM)-18-006, TRANSFERABILITY OF UNUSED
+POST-9/11 GI BILL EDUCATIONAL BENEFITS BY RECIPIENTS OF THE PURPLE HEART.
+
+RMKS/1.  This NAVADMIN announces changes to the processes in references (a) 
+and (b) for submitting a Post-9/11 GI Bill Transfer of Education Benefits 
+(TEB) request.
+
+2.  This new policy does not apply to:
+    a.  Sailors who already have an approved TEB request in Defense Manpower 
+Data Center (DMDC) milConnect.
+    b.  Sailors who wish to add a dependent to an already approved TEB 
+request or modify the months of benefits allocated to dependents.
+
+3.  Updated TEB process effective 1 October 2018:
+    a.  An online, self-service Statement of Understanding (SOU) replaces the 
+Administrative Remarks (NAVPERS 1070-613) (i.e., Page 13) pre-requisite for 
+all Selected Reserve (SELRES) Sailors and all officers in references (a) and 
+(b).
+    b.  This SOU must be completed by all Sailors prior to submitting a TEB 
+application.
+    c.  Sailors may access SOU via MyNavyPortal or by using a Common Access 
+Card via the My Education web site at 
+https://myeducation.netc.navy.mil/webta/home.
+    d.  Upon completion of the SOU, Sailors will receive a link to DMDC 
+milConnect portal to submit their TEB application.
+    e.  To ensure prompt feedback on TEB applications, Sailors should verify 
+email information when completing the SOU.
+
+4.  Enlisted Sailors must:
+    a.  Ensure at least four years remaining on current enlistment contract, 
+including authorized extensions.  Sailors with less than four years remaining 
+to their End of Active Obligated Service (EAOS) or soft EAOS must take action 
+to incur required obligated service.
+See guidance in paragraph 7.
+    b.  Check their Electronic Service Record (ESR) to ensure EAOS correctly 
+reflects eligible re-enlistment and/or extension dates.
+    c.  Complete the new SOU.
+    d.  Follow the link provided to DMDC milConnect to submit TEB 
+application.
+    e.  Submit their TEB application no more than 30 calendar days following 
+a 4-year re-enlistment or extending to incur 48 months of total obligated 
+service.
+    f.  If re-enlistment or extension does not reflect in the ESR within 25 
+days, complete the SOU and submit the TEB application in DMDC milConnect.  If 
+rejected, e-mail the appropriate point of contact in paragraph 9 when the ESR 
+reflects the correct EAOS.
+    g.  Pursuant to reference (a), in situations where communications may 
+hinder a successful TEB submission (e.g.,
+deployment) and to avoid surpassing the 30-day grace period, Sailors should 
+e-mail the appropriate point of contact in paragraph 9 in advance and request 
+their TEB request be held in a pending status until the ESR reflects the 
+correct EAOS.
+
+5.  Officers must:
+    a.  Complete the new SOU.
+    b.  Follow the link provided to DMDC milConnect to submit TEB 
+application.
+
+6.  As directed in reference (c), as of 12 July 2019, any member who has 
+greater than 16 years of service will no longer be eligible to transfer 
+education benefits to their dependents, unless they are recipients of the 
+Purple Heart pursuant to reference (e).  Take action now to avoid losing this 
+opportunity.
+
+7.  Pursuant to reference (d), enlisted Sailors no longer require permission 
+from Navy Personnel Command (PERS 811) to re-enlist more than 12 months prior 
+to their EAOS.
+
+8.  Effectively immediately, pursuant to reference (e), recipients of the 
+Purple Heart are eligible to transfer unused Post-9/11 GI Bill education 
+benefits to one or more qualifying family members, regardless of whether the 
+service member has:
+    a.  Already served six years of service in the armed forces and entered 
+into an agreement to serve at least four more years as a uniformed service 
+member.
+    b.  Already served more than 16 years of total creditable service in the 
+Military Services.
+    c.  All other TEB requirements in law, Department of Defense, and Navy 
+policy remain in effect.
+
+9.  Points of contact:
+    a.  OPNAV N127 Policy:  Mr. Jim Johnson, (703)604-5256/DSN 664 or 
+james.p.johnson(at)navy.mil.
+    b.  Active Duty and FTS Sailors may submit inquiries to My Navy Career 
+Center at 1-833-330-6622 or askmncc(at)navy.mil.
+    c.  SELRES Sailors may submit inquiries to Commander, Navy Reserve Forces 
+Command (N1C2) at 1-800-621-8853 or cnrfc_post911gibill(at)navy.mil.
+
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+11.  Released by Vice Admiral R. P. Burke, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

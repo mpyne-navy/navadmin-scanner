@@ -16,7 +16,7 @@ sub read_navadmin_listing
 {
     my $dom = Mojo::DOM->new(shift);
     my $links_ref = $dom->find('a')
-        ->grep(sub { ($_->attr("href") // "") =~ qr(NAV[^/]*\.txt\??)})
+        ->grep(sub { ($_->attr("href") // "") =~ qr([nN][aA][vV][^/]*\.txt\??)})
         ->map(attr => 'href')
         ->map(sub { $_ =~ s/\?ver=.*$//; $_ })   # Some links end in ?ver=<gibberish>
         ->to_array;
@@ -83,6 +83,8 @@ say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
 while (my $url = shift @navadmin_urls) {
     my $name = $url->to_string;
     $name =~ s(^.*/)(); # Remove everything up to last /
+    # The URL may have had lowercase chars, enforce it starting with "NAV"
+    substr $name, 0, 3, "NAV";
     $name = "NAVADMIN/$name";
 
     my $req;

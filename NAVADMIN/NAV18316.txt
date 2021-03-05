@@ -1,0 +1,188 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 272057Z DEC 18
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 316/18
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/ENLISTED ADVANCEMENT WORKSHEET//
+
+REF/A/DOC/BUPERS/19SEP18//
+
+REF/B/MSG/CNO WASHINGTON DC/N1/201604ZDEC18//
+
+REF/C/MSG/CNO WASHINGTON DC/N1/201449ZDEC18//
+
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.  REF B IS NAVADMIN 313/18, 
+PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM BUSINESS RULES.  REF C IS 
+NAVADMIN 312/18, ADVANCEMENT POLICY UPDATE.//
+
+RMKS/1.  This NAVADMIN announces the deployment and pilot of the Enlisted 
+Advancement Worksheet (EAW) within the Navy Standard Integrated Personnel 
+System (NSIPS).  This modification aligns with Sailor 2025 transformation 
+efforts to deploy modernized systems and applications that better support 
+Sailors personnel and career progression requirements.  EAW transitions the 
+manual paper advancement worksheet to an automated process that leverages 
+authoritative data and displays advancement eligibility factors for all E-4 
+through E-7 candidates.  Most importantly, this pay and personnel 
+modernization effort gives Sailors better control over their EAW and provides 
+commands with a more efficient way to validate Navy enlisted advancement 
+system (NEAS) requirements.
+    a.  Commands with access to the NSIPS web are directed to set up their 
+command EAW hierarchy by 15 January 2019 in preparation for the January 
+through March 2019 pilot followed by the full EAW implementation in June 
+2019.  The NSIPS web-afloat implementation timeline is dependent on the ship 
+modernization process and availability of afloat units to receive and deploy 
+the release package.
+    b.  Training modules for EAW are posted on the NSIPS main page beneath 
+the training section.  These tutorials include topics associated with user 
+roles and detailed procedures to perform various EAW tasks.
+    c.  Individual access to EAW and post-exam administrative comments will 
+be made available through the MyNavy Portal (MNP) advancement dashboard in 
+2019 as MNP enhancements are released.
+
+2.  Enlisted Advancement Policy Changes.  EAW enhancements will have a 
+significant impact to NEAS processes and policies as outlined in reference 
+(a).  The following NEAS changes will be implemented on
+3 June 2019:
+    a.  The current paper worksheet will be replaced by an updated worksheet 
+form within EAW.  The electronic form will automatically populate with Sailor 
+final multiple score and eligibility data from NSIPS.  Sailors will have the 
+ability to view EAW several months prior to exam administration, providing 
+additional time for validation and corrections (if needed).
+    b.  There will no longer be a requirement to enter Performance Mark 
+Average (PMA) and award points on the Exam Answer Sheet of the Sailor during 
+the exam administration.  PMA and award points of the Sailor will be system 
+calculated and transferred from EAW to NEAS along with other EAW information.
+    c.  Worksheet data cannot be modified after the EAW file is transferred 
+to NEAS, which will be the day after each exam date for the Active duty 
+component and the day after the exam month for the Reserve component.
+    d.  When communicating with Commander, Navy Personnel Command 
+(COMNAVPERSCOM), Commander, Navy Reserve Forces Command
+(COMNAVRESFORCOM) or Naval Education and Training Professional Development 
+Center (NETPDC), post-exam administrative discrepancy adjudication must be 
+accomplished within EAW using the post-exam administrative comments 
+functionality.  Commands will no longer use e-mail, messages or letters (via 
+mail or fax) to correct Sailor information in NEAS.  All post-exam 
+administrative advancement cycle communication will be visible to the Sailor, 
+servicing educational services officer (ESO)/personnel office, the command 
+and NEAS stakeholders.
+    e.  All post-administration candidate record changes in NEAS must be 
+accompanied by supporting documentation uploaded to EAW.
+    f.  In line with references (b) and (c), EAW functionality will be 
+updated prior to the release of advancement cycles 105 and 244 worksheets to 
+capture the Professional Military Knowledge Eligibility Exam (PMK-EE) 
+requirement and updates to advancement policy.
+
+3.  EAW Timeline:
+    a.  18 November 2018:  EAW deployed in NSIPS.
+    b.  14 January 2019:  All commands with access to NSIPS web must 
+establish EAW accounts in NSIPS.  Refer to
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Advancement/Pages/EAW.aspx regarding account 
+access and roles.
+    c.  January 2019:  Begin EAW pilot (January through March), worksheets 
+are released to ESOs for Reserve advancement cycle 104 and Active Duty 
+advancement cycle 243.
+    d.  3 June 2019:  E-4 through E-6 Worksheets are released to ESOs for 
+Reserve advancement cycle 105 and Active Duty advancement cycle 244.
+    e.  3 September 2019:  E-7 advancement candidate worksheets are released 
+to ESOs for Active Duty cycle 246.
+    f.  3 September 2019:  E-4 through E-6 Reserve component cycle
+105 EAW file sent to NEAS.
+    g.  6 September 2019:  Active Duty, Full-Time Support (FTS) and Canvasser 
+Recruiter (CANREC) E-6 cycle 244 EAW file sent to NEAS.
+    h.  13 September 2019:  Active Duty, FTS and CANREC E-5 cycle
+244 EAW file sent to NEAS.
+    i.  20 September 2019:  Active Duty, FTS and CANREC E-4 cycle
+244 EAW file sent to NEAS.
+
+4.  EAW Pilot.  A pilot will be conducted for advancement cycles 104 and 243.  
+The purpose of the pilot is to validate that the automated solution meets the 
+expectation of the User business needs.  Feedback from the pilot will be used 
+to assess if capability is ready for future exam cycles.  To prepare, 
+commanding officers will verify that all Sailors have access to EAW and their 
+ESO and command representatives have system access and the correct roles 
+within NSIPS to execute an advancement cycle using EAW.  During the pilot, 
+the electronic form in NSIPS can be printed and used for the manual worksheet 
+validation process.  No data will be transferred from EAW to NEAS and no 
+discrepancies will be adjudicated in EAW during the pilot phase.
+    a.  EAW pilot feedback must be provided by 1 April 2019.  An online tool 
+will be developed and promulgated at
+(http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Advancement/Pages/EAW.aspx) to capture EAW 
+pilot feedback prior to exam administrations.
+    b.  The EAW pilot phase will not include an automated capability to 
+calculate PMA with the reporting senior cumulative average (RSCA) in line 
+with reference (c).
+    c.  EAW programming will be updated prior to release of the cycles 105 
+and 244 worksheets.  Updated EAW programming will include RSCA PMA 
+calculations, the PMK-EE eligibility check and an updated worksheet form.
+
+5.  Account Access and Roles.  For account access, initiate the System Access 
+Authorization Request-Navy process for EAW from the NSIPS menu, New Users 
+link.  There are 6 EAW administrator roles for additional information please 
+visit
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Advancement/Pages/EAW.aspx.
+
+6.  EAW Routing.  Each Sailor participating in an advancement cycle will have 
+an ESO responsible for worksheet processing.  The majority of worksheets will 
+be routed from a regional or afloat ESO to a command ESO for processing.  
+Stand-alone command ESOs, such as Navy operational support center ESOs, will 
+similarly leverage EAW workflow functionality for routing worksheets to units 
+and departments and ultimately down to the Sailor for worksheet validation.
+    a.  Advancement worksheets will be established within NSIPS after 
+publication of results from the previous advancement cycle.
+Once published, worksheets will be viewable by all roles.  Early publication 
+of worksheet information allows Sailors to gather documents and take 
+corrective action in advance of the worksheet routing and verification 
+process.
+    b.  Worksheet data is not dynamic and must be manually updated by the ESO 
+prior to the exam administration date.
+    c.  Worksheet routing from the ESO to the Sailor, then back to the ESO, 
+must be completed prior to the exam administration dates.
+Command reviewers can assist Sailors with data verification and document 
+upload once the EAW has been routed to the Sailor.
+    d.  After exam administration, EAW post-exam administrative comments and 
+discrepancy adjudication functionality must be used to correct candidate 
+worksheets prior to advancement results publication.  ESOs can route post-
+exam administrative comments to COMNAVPERSCOM Human Resource Specialists and 
+NETPDC Records Administrators to ensure corrective actions are taken in line 
+with reference (a).
+
+7.  For additional information, links, or assistance:
+    a.  NSIPS Login:  https://nsipsprod-sdni.nmci.navy.mil/.
+    b.  System Issues.  Contact the NSIPS Help Desk at toll free number (877) 
+589-5991, commercial (504) 697-5442/DSN 647 or e-mail:
+nsipshelpdesk(at)navy.mil.
+    c.  Process and Policy Questions.  Contact MyNavy Career Center at (833) 
+330-MNCC/DSN 882-6622, or e-mail askmncc(at)navy.mil.
+    d.  Additional Online Information.
+http://www.public.navy.mil/bupers-
+npc/career/enlistedcareeradmin/Advancement/Pages/EAW.aspx.
+
+8.  Released by Vice Admiral R. P. Burke, N1. //
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
