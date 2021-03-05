@@ -1,0 +1,222 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 161621Z DEC 20 MID600050095538U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 328/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N7//
+INFO CNO WASHINGTON DC//N7//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N71/DEC//
+
+SUBJ/ACADEMIC YEAR 2021-2022 MULTI-BOARD RESULTS FOR FEDERAL EXECUTIVE 
+FELLOWSHIP (FEF), U.S. NAVY HUDSON FELLOWSHIP, SECRETARY OF DEFENSE EXECUTIVE 
+FELLOWS (SDEF), POLITICO-MILITARY MASTER'S (PMM), ARTHUR S. MOREAU (ASM) 
+SCHOLARSHIP, SECRETARY OF DEFENSE STRATEGIC THINKER'S PROGRAM (SD STP), AND 
+FY22 OLMSTED SCHOLARS PROGRAM.//
+
+REF/A/MSG/CNO WASHINGTON DC/212110ZJUL20//
+REF/B/MSG/CNO WASHINGTON DC/212128ZJUL20//
+REF/C/MSG/CNO WASHINGTON DC/171411ZJUN20//
+
+NARR/Ref A is the AY21-22 Federal Executive Fellowship, U.S.
+Navy Hudson Fellowship, and SECDEF Executive Fellows programs call for 
+applications NAVADMIN (205/20). Ref B is the AY21-22 Politico-Military 
+Master's, Arthur S. Moreau, and Secretary of Defense Strategic Thinker's 
+programs call for applications NAVADMIN (206/20). Ref C is the FY22 Olmsted 
+Scholars call for applications NAVADMIN (170/20).
+
+RMKS/1. Per references (a) through (c), this NAVADMIN annnounces the results 
+of the AY2021-2022 Multi-Board.
+
+2.  Congratulations to the following officers upon their selection or 
+nomination to FEF, Hudson Fellowship, SDEF, PMM, ASM, SD STP, and Olmsted 
+Scholars programs.
+a.  FEF Primary Selectees:
+    Name                   		Rank   Designator
+    Adams, Andrew J.		LCDR   1810
+    Anderson, John K.		CDR    1310
+    Bernotavicius, Christopher	CDR    1710
+    Buford, William S.		CDR    1110
+    Charles, Andrew J.		CAPT   1830
+    Giarnella, Raffaele A.		LCDR   1110
+    Harrington, Brian M.		LCDR   1110
+    Holthaus, John E.		CDR    1110
+    Mauer, Gerard M.		LCDR   1110
+    Petersen, Thomas A.		CAPT   1830
+    Smith, Michael R.		CDR    1320
+    Vardiman, Daniel P.		CDR    1830
+    Wastak, Scott A.		CAPT   1320
+b.  FEF Alternate Selectees:
+    Name                   		Rank   Designator
+    Easterday, Ryan T.		CDR    1110
+    Jones, Daniel T.			LCDR   1120
+    Klug, Andrew J.			CDR    1110
+    Knickerbocker, Michael A.		CDR    1110
+    Wanier, Grant A.			LCDR   1120
+c.  U.S. Navy Hudson Fellow Primary Nominee.
+    This is the Navy's primary nominee, with
+    final selection by the Oxford University
+    Governing Committee in February 2021:
+    Name           			Rank   Designator
+    Spillner, Brent C.		CDR    1120
+d.  U.S. Navy Hudson Fellow Alternate Nominees.
+    These are the Navy's alternate nominees,
+    with final selection by the Oxford University
+    Governing Committee in February 2021:
+    Name                   		Rank   Designator
+    Anderson, John K.		CDR    1310
+    Buford, William S.		CDR    1110
+    Charles, Andrew J.		CAPT   1830
+    Easterday, Ryan T.		CDR    1110
+e.  SDEF Primary Selectees:
+    Name                   		Rank   Designator
+    Anderson, John K.		CDR    1310
+    Charles, Andrew J.		CAPT   1830
+f.  SDEF Alternates Selectees:
+    Name                   		Rank   Designator
+    Holthaus, John E.		CDR    1110
+    Newman, Chandra S.		CDR    1310
+    Smith, Michael R.		CDR    1320
+    Uhl, Thomas J.			CDR    1310
+    Wastak, Scott A.		CAPT   1320
+g.  Politico-Military Master's Primary Selectees:
+    Name                   		Rank   Designator
+    Boyle,  Michael D.		LCDR   1320
+    Giarnella, Raffaele A.		LCDR   1110
+    McGrath, Raymond J.		LCDR   1710
+    Norris, John M.			LT     1320
+    Scott, Hunter A.		LCDR   1310
+    Smith, Lex A.			LCDR   1310
+    Spencer, Jason A.		LT     1830
+    Storrs, Albert J.			LCDR   1130
+h.  Politico-Military Master's Alternate Selectees:
+    Name                   		Rank   Designator
+    Jung, Ki S.			LT     1710
+    Kim, Hyung I.			LCDR   1110
+    Knickerbocker, Michael A.		CDR    1110
+    Nelson, Paul A.			LT     1310
+    Robbins, Joel P.			LT     1110
+    Thompson, Brian J.		LT     1310
+    Van Andel, Aaron W.		LT     1830
+i.  Arthur S. Moreau Scholarship Primary Selectee:
+    Name   			Rank   Designator
+    Buford, William S.		CDR    1110
+j.  Arthur S. Moreau Scholarship Alternates:
+    None selected.
+k.  Secretary of Defense Strategic Thinkers Primary
+    Nominees.  These are the Navy's primary
+    nomineees, with final selection by OSD in
+    January 2021:
+    Name                    		Rank   Designator
+    Agard, Holman R.		CDR    1110
+    Kim, Hyung I.			LCDR   1110
+l.  Secretary of Defense Strategic Thinkers Alternate
+    Nominees.  These are the Navy's alternate nominees,
+    with final selection by OSD in January 2021:
+    Name            			Rank   Designator
+    Norton, Sean R.			LCDR   1130
+    Scott, Hunter A.		LCDR   1310
+m.  Olmsted Scholars Program Nominees. These are
+    the Navy's FY22 nominees, with selection of five
+    finalists by the Olmsted Foundation in March
+    2021:
+    Name                    		Rank   Designator
+    Breznik, Ryan J.			LT     1130
+    Cartwright, Alia C.		LT     1110
+    Catoire, Andrew G.		LCDR   1130
+    Dowden, Matthew R.		LT     1810
+    Elsenbeck, David A.		LCDR   1110
+    Harsh, Riley J.			LT     1140
+    Keaton, Benjamin J.		LT     1130
+    Lamb, Zachary O.		LCDR   1320
+    Mencel, Christopher A.		LT     1310
+    Pena, Patrick A.			LT     1120
+    Walker, Luke A.			LT     1320
+    Woulfe, Michael A.		LT     1130
+
+3.  All primary selectees and primary nominees for the FEF, Hudson, SDEF, 
+PMM, ASM and SD STP programs must accept or decline their 
+selection/nomination NLT 14 days from the date of this NAVADMIN by email or 
+phone call to both the NAVPERSCOM and OPNAV N7 POCs listed in para 5 below, 
+with a copy to their respective detailers. OPNAV N7 will reach out to 
+alternates SEPCOR, as needed. The Olmsted Scholar program nominees must 
+accept or decline their nomination NLT 28 December 2020 by email or phone 
+call to Ms. Elise McGuire, NETCPD (para 5.d), copy to their respective 
+detailers.
+
+4.  Fellowship/Scholarship Assignment Process and Details:
+a.  FEF: OPNAV N7 will assign primary selectees to their respective host 
+institutions. Primary selectees are directed to contact the OPNAV N712 
+program team listed below to discuss details of these assignments. FEF 
+alternates are encouraged to remain flexible in the event that a primary slot 
+opens up in the coming weeks.
+b.  Hudson Fellowship: Oxford University has ultimate approval authority of 
+the AY21-22 U.S. Navy Hudson Fellow.  OPNAV N712 will forward the Curriculum 
+Vitae, biography, and research proposal for the one primary and two alternate 
+nominees directly to Oxford University,with a decision by Oxford University 
+expected in February 2021.
+c.  SDEF: The Office of the Under Secretary of Defense - Personnel and 
+Readiness (OUSD-P&R) will coordinate the assignment of all Service selectees 
+to their respective AY21-22 SDEF corporate hosts by April 2021. The list of 
+AY21-22 SDEF corporate hosts will not be finalized until Jan-Feb 2021. SDEF 
+alternates are encouraged to remain flexible in the event that a primary slot 
+opens up in the coming weeks. Direct all SDEF-related questions to the OPNAV 
+N712 program POCs listed below.
+d.  PMM/ASM: PMM and ASM selectees will choose from among the eight approved 
+universities listed in reference (b). It is strongly recommended that PMM and 
+ASM selectees apply to a minimum of three universities to increase their 
+acceptance chances.  Navy multi-board selection for the PMM or ASM programs 
+does not guarantee acceptance by a university. PMM and ASM alternates are 
+encouraged to remain flexible in the event that a primary slot opens up in 
+the coming weeks.
+e.  SD STP: After multi-board nomination, Navy SD STP nominees will provide 
+an application package to OSD via OPNAV N712.  Application package details 
+will be provided to nominees SEPCOR by OPNAV N712.
+A senior-level OSD panel will convene in January 2021 to select the Strategic 
+Thinker's Program students for AY21-22.
+f.  Olmsted Scholars: The FY22 Olmsted Navy nomineees listed in para
+
+2.m of this NAVADMIN will contact Ms. Elise McGuire, NETCPD, NLT 28 December 
+2020 to accept or decline their nomination. An Olmsted Foundation board will 
+convene in March 2021 to select up to five
+FY22 Navy Olmsted Scholars from among the multi-board nominee scholars listed 
+in para 2.m.
+
+5.  Point(s) of Contact:
+    a.  NAVPERSCOM: Outservice Education Placement and Special
+    Fellowships: LT Carson M. Burton; Comm (901) 874-3996; E-mail:
+    carson.burton(at)navy.mil
+    b.  OPNAV N712 Fellowship and Scholarship Programs Branch
+    Head: CAPT Marc D. Boran; Comm (571) 256-4784; E-mail:marc.d.boran
+    (at)navy.mil
+    c.  OPNAV N712B: Fellowship and Scholarship Programs Branch
+    Deputy:Mr. Edward Fay (CIV); Comm (571) 256-4782; E-mail: edward.
+    fay(at)navy.mil
+    d.  OPNAV N711: Olmsted Scholars/Officer Special Education
+    Programs; Ms. Elise McGuire (CIV); Comm (850) 473-6064; E-mail:
+    elise.mcguire(at)navy.mil
+    e.  OPNAV N712 Program Support: Mr. David Loneman (N712); Comm
+    (703) 695-5461; E-mail: david.r.loneman.ctr(at)navy.mil
+
+6.  Released by RADM James S. Bynum, Acting Deputy Chief of Naval Operations 
+for Warfighting Development (N7).//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

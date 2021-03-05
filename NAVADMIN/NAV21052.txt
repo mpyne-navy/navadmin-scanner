@@ -1,0 +1,101 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 032117Z MAR 21 MID200000629224U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 052/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/MAR// 
+ 
+SUBJ/PROCEDURES FOR FOREIGN VISIT REQUESTS TO U.S. NAVY COMMANDS DURING 
+COVID-19 PANDEMIC// 
+ 
+REF/A/NAVADMIN/OPNAV/241512ZAUG20// 
+REF/B/EXECUTIVE ORDER/13998/21JAN21// 
+REF/C/NAVADMIN/OPNAV/291854ZJAN21// 
+REF/D/MEMO/OSD/29DEC20// 
+REF/E/CDC ORDER/12JAN21// 
+REF/F/NAVADMIN/OPNAV/160550ZFEB21// 
+ 
+NARR/REF A IS NAVADMIN 236/20 UPDATED PROCEDURES FOR FOREIGN VISIT REQUESTS 
+TO U.S. NAVY COMMANDS DURING COVID-19 PANDEMIC. REF B IS EXECUTIVE ORDER 
+13998 PROMOTING COVID-19 SAFETY IN DOMESTIC AND INTERNATIONAL TRAVEL. 
+REF C IS NAVADMIN 026/21 DEPARTMENT OF DEFENSE COVID-19 TESTING PRIOR TO 
+OVERSEAS TRAVEL (UPDATE 1). 
+REF D IS USD P&R FORCE HEALTH PROTECTION (FHP) SUPPLEMENT 14 - DOD GUIDANCE 
+FOR PERSONNEL TRAVELING DURING THE CORONAVIRUS DISEASE 2019 PANDEMIC. 
+REF E IS CENTER FOR DISEASE CONTROL AND PREVENTION ORDER REQUIREMENT FOR 
+NEGATIVE PRE-DEPARTURE COVID-19 TEST RESULT OR DOCUMENTATION OF RECOVERY FROM 
+COVID-19 FOR ALL AIRLINE OR OTHER AIRCRAFT PASSENGERS ARRIVING INTO THE 
+UNITED STATES FROM ANY FOREIGN COUNTRY. 
+REF F IS NAVADMIN 037/21, U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL 
+GUIDANCE VERSION 4.0. 
+ 
+RMKS/1.  Reference (a) is canceled.  This NAVADMIN supersedes reference (a) 
+and provides updated references and additional procedures for foreign 
+visitors to U.S. Navy facilities based on new requirements for COVID-19 to 
+include testing prior to entry into the U.S. from a foreign country, as 
+directed by references (b) and outlined in references (c) thorugh (e). 
+ 
+2.  Foreign visits are authorized but must adhere to guidance established for 
+U.S. travel in reference (d) and the travel procedure requirements in 
+accordance with (IAW) references (b) through (f).  All foreign personnel 
+traveling from outside the U.S. to visit a U.S. Navy command will be required 
+to complete a 14 day restriction of movement (ROM) period upon arrival in the 
+U.S. Additionally, all foreign personnel traveling to the U.S. from a foreign 
+country, are required to have a negative viral COVID-19 test (molecular or 
+antigen) IAW procedures outlined for U.S. personnel in reference (b). Foreign 
+visitors must possess, and present on request, proof of a negative viral 
+COVID-19 test administered within 72 hours of embarkation for international 
+travel to the U.S.  Valid proof may be electronic or printed for commercial 
+flights. 
+ 
+3.  COVID-19 travel information for travelers entering the U.S. may be found 
+on the Department of State website 
+(https://travel.state.gov/content/travel/en/traveladvisories/ea/ 
+covid-19-information.html). 
+ 
+4.  Foreign personnel already in the U.S. in a location categorized as red in 
+either factor 1 or 2 as per MyNavyPortal travel tracker 
+(https://www.mnp.navy.mil/group/don-covid-19-travel-tracker) will be required 
+to complete a 14 day ROM period prior to visiting a U.S. Navy command outside 
+a 50 mile radius of their location. If a 14 day ROM period cannot be 
+completed, a Foreign Visit Requests (FVR) waiver will be required.  All other 
+FVRs will be processed as per normal procedures.  CNO has delegated waiver 
+approval authority to OPNAV N3/N5 for FVRs to U.S. Navy commands. 
+ 
+5.  Waivers will only be considered if requesting command provides written 
+determination that the FVR is mission essential.  Requesting commands will 
+provide the following information to the points of contact via email at least 
+seven days in advance of the visit: FVR number; name of visitor; country 
+represented; dates and purpose of visit; and, recommendation with 
+justification.  Commanding officers, officers-in-charge, or civilian 
+equivalent directors must endorse waiver request submissions. 
+ 
+6.  Travelers with valid proof of COVID-19 vaccination are currently not 
+exempt from the testing requirement nor the FVR waiver requirement, however, 
+proof of vaccination will be considered as part of mitigating factors for a 
+waiver. 
+ 
+7.  Within two days of any foreign visit, host commands will make contact 
+with the foreign visitor or embassy representative to confirm the visitor is 
+not symptomatic as per reference (f) (e.g., temperature over 100.4 degrees 
+Fahrenheit, fever, cough, breathing difficulty, loss of taste or smell).  If 
+symptomatic or confirmed COVID-19 positive, the visit must be canceled or 
+postponed. 
+ 
+8.  OPNAV N3/N5 POCs for FVR waivers are Jeff Roman at 
+jeffrey.roman(at)navy.mil and Mark Galvin at mark.galvin.ctr(at)navy.mil. 
+ 
+9.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

@@ -1,0 +1,129 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 192000Z NOV 20 MID200000398271U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 307/20 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/MODIFICATION TO EARLY SEPARATION POLICY NAVADMIN CANCELLATIONS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/131504ZDEC17// 
+REF/B/DOC/COMNAVPERSCOM/13JAN20// 
+REF/C/DOC/COMNAVPERSCOM/06JUN20// 
+REF/D/DOC/COMNAVPERCOM/06JUN20// 
+REF/E/DOC/COMNAVPERCOM/09SEP20// 
+ 
+NARR/REF A IS NAVADMIN 288/17, EARLY SEPARATION POLICY NAVADMIN 
+CANCELLATIONS.   
+REF B IS MPM 1440-011 FORCED CONVERSION.   
+REF C IS MPM 1910-108, SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT- 
+EARLY RELEASE TO FURTHER EDUCATION.   
+REF D IS MPM 1910-102, SEPARATION BY REASON OF CHANGES IN SERVICE OBLIGATION 
+(ACTIVE DUTY AND INACTIVE NAVY RESERVISTS).   
+REF E IS MPM 1830-040, TRANSFER TO FLEET RESERVE AND RELEASE FROM ACTIVE 
+DUTY  20 YEARS.// 
+ 
+RMKS/1.  This NAVADMIN modifies reference (a) by revising early 
+separation policy to offer early separation on a case-by-case basis 
+to enlisted Sailors.  Reference (a) remains in effect for officers. 
+ 
+2.  As the Navy has grown over recent years, some enlisted ratings 
+at specific paygrades have become overmanned due to high retention 
+in these ratings.  In an effort to provide well-balanced enlisted 
+ratings in support of community rating health, the Navy is opening 
+up opportunities for eligible Sailors to submit requests for early 
+separation, conversions or transfer to the Fleet Reserve. 
+ 
+3.  Voluntary early separations will be considered on a case-by-case 
+basis in the following policy areas: 
+    a.  In lieu of forced conversion.  Early separation in lieu of 
+forced conversion will be offered for Sailors with less than 12 
+months to their soft expiration of active obligated service (SEAOS). 
+As outlined in reference (b), members may request immediate 
+voluntary early separation in lieu of forced conversion or 
+administrative separation.  Requests must contain a statement of 
+understanding that any unearned bonuses will be recouped and 
+separation pay will not be authorized. 
+    b.  To pursue education opportunity.  Sailors may request an 
+early out in order to further their education.  For those who have 
+greater than 90 days of service to their SEAOS, requests must be 
+submitted to the Enlisted Separation and Performance Division (PERS- 
+832), as outlined in reference (c).  Commanding officers (COs) with 
+special courts-martial convening authority or higher serve as the 
+separating authority for education separation requests that are 
+within 90 days of the SEAOS of the Service Member. 
+    c.  Conditional release for commissioning or enlistment 
+opportunities.  Members interested in applying for a commissioning 
+program in the Navy or to another branch of service, and members 
+interested in an inter-service transfer for enlistment into another 
+branch of service, must request a conditional release from PERS-832 
+via their CO as outlined in reference (d).  COs and Sailors are 
+reminded that only the Commander, Navy Personnel Command (CNPC) can 
+approve conditional release requests. 
+    d.  Enlisted Early Transition Program (EETP).  Use of EETP is 
+hereby restored.  EETP is a quota-controlled voluntary separation 
+program.  Available quota opportunity is identified by rating, 
+paygrade, year group and navy enlisted classification.  Quotas are 
+updated periodically to reflect opportunity.  Early separation will 
+be granted on a first-come, first-serve basis until all quotas are 
+exhausted in the respective rating.  EETP opportunities and the 
+application process can be found on the Navy Personnel Command (NPC) 
+website via MyNavy Portal at https://my.navy.mil, then click *Quick 
+Links* and then the *NPC* tab.  Once on the NPC website, navigate to 
+the *Enlisted* dropdown, then select *Community Managers* and 
+navigate down to the *EETP* link.  Early separation requests will 
+not be approved for Sailors in nuclear ratings. 
+ 
+4.  Rating Conversion Opportunity.  In an effort to provide well- 
+balanced enlisted ratings and to retain talented and experienced 
+Sailors, conversion opportunities are available.  All Sailors 
+considering early out options are also highly encouraged to seek 
+conversion to other ratings for which they are eligible and 
+qualified.  Command Career Counselors and Enlisted Community 
+Managers are available resources for determining the ratings for 
+which a Sailor is best suited. 
+ 
+5.  Transfer to Fleet Reserve.  Fleet Reserve policy found in 
+reference (e) is hereby reinstated.  This policy authorizes the 
+Active Duty Enlisted Retirements Branch (PERS-836) to approve 
+agreed-upon recommendations from active component Enlisted Community 
+Managers (BUPERS-32), Reserve Enlisted Community Managers (BUPERS- 
+352), Officer and Enlisted Nuclear Programs Branch (OPNAV N133) and 
+Enlisted Distribution Division (PERS-40) for all Active Duty and 
+Full-Time Support Sailors with obligated service time remaining on 
+their enlisted contract to transfer to the Fleet Reserve. 
+    a.  BUPERS-32, BUPERS-352 and OPNAV N133 will review each early 
+separation and transfer to the Fleet Reserve request for 
+consideration on a case-by-case basis, taking into account the total 
+manning posture of the Navy, planning factors and rating health. 
+    b.  All such requests will be adjudicated by PERS-40 to ensure 
+sea and critical shore billets are not negatively impacted.  Any 
+request that would negatively affect sea duty manning will be 
+disapproved. 
+ 
+6.  Navy remains committed to ensuring Fleet readiness by providing 
+well-trained Sailors in the right paygrade with the right skills and 
+experience at the right time.  Ensuring proper rating health, by 
+balancing rating paygrades, while retaining the necessary knowledge, 
+skills and experience in the Fleet is instrumental to maintaining 
+our warfighting advantage. 
+ 
+7.  Questions and concerns regarding these policy changes may be 
+referred to MyNavy Career Center at askmncc(at)navy.mil or 1-833- 
+330-MNCC(6622). 
+ 
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

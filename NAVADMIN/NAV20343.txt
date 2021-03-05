@@ -1,0 +1,93 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 292052Z DEC 20 MID200000482432U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 343/20
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/UPDATE TO ENFORCEMENT OF THE NAVY AND MARINE CORPS INTRANET (NMCI) 
+WINDOWS 10 VERSION 1909 OPERATING SYSTEM UPGRADE//
+
+REF/A/MSG/CNO WASHINGTON DC/141556ZDEC20//
+REF/B/OPORD/FLTCYBERCOM/070227ZAUG20//
+REF/C/EXORD/FLTCYBERCOM/101530ZAUG20//
+REF/D/FRAGORD/FLTCYBERCOM/242050ZNOV20//
+REF/E/FRAGORD/FLTCYBERCOM/110030ZDEC20//
+
+NARR/REF A is NAVADMIN 322/20, ENFORCEMENT OF THE NAVY AND MARINE CORPS 
+INTRANET (NMCI) WINDOWS 10 VERSION 1909 OPERATING SYSTEM UPGRADE.  
+REF B IS FLTCYBERCOM OPORD 20-057 WHICH PROVIDES TASKING AND SEQUENCING FOR 
+THE PHASED OPERATIONAL MANEUVER OF THE NMCI ENTERPRISE NETWORKS TO WINDOWS 
+10, VERSION 1909.  
+REF C IS THE FLTCYBER EXORD DIRECTING THE EXECUTION OF PHASE 1 AS OUTLINED IN 
+REF B.  
+REF D IS THE FLTCYBER FRAGORD DIRECTING TRANSITION FROM 1909 SELF SERVICE 
+UPGRADE TO ENTERPRISE ENFORCEMENT.  
+REF E IS THE FLTCYBER FRAGORD DIRECTING QUARANTINE ACTIONS AGAINST ALL NMCI 
+SEATS INACTIVE GREATER THAN 90 DAYS.// 
+POC/PMW 205 WIN 10 COORDINATION CENTER/TEL: (703) 695-8925/E-MAIL:
+WIN10COORDINATIO.FCT(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancels reference (a) and directs additional actions 
+to complete the Navys transition to Windows 10 Version 1909 (v1909).
+
+2.  v1909 was released in November 2019 to improve the cybersecurity posture 
+of the NMCI enterprise network and enhance performance.  As reflected in real 
+world reporting, adversaries continue to probe DoD networks for 
+vulnerabilities that can be exploited for their advantage.
+    a.  As of 22 December, compliance stands at 81.6% for SIPR and 85.75% for
+    NIPR and the Navy must complete this transition without further delay.
+
+3.  All workstations that have not been upgraded to v1909 will be placed in 
+quarantine to prevent access to network resources.  These assets will remain 
+in quarantine until successfully upgraded to v1909.
+    a.  2300Z, 29 January 2021, all non-compliant SIPR workstations will be
+    placed in quarantine.
+    b.  2300Z, 26 February 2021, all non-compliant NIPR workstations will be
+    placed in quarantine.
+    c.  For workstations that are offline, commands are required to 
+immediately connect, turn on, and log-in allowing workstation to receive all 
+updates and upgrade to v1909.
+          (1)  Users must launch the Seat Health Check app found on the 
+desktop /start menu to verify if their workstation is ready to update.
+          (2)  If the workstation is ready, the app can also be used to start
+          the update.
+          (3)  A detailed user information guide is available at https
+          ://www.homeport.navy.mil/management/windows10/.
+    d.  For workstations having problems receiving updates that allow the
+    upgrade to v1909, users need to contact the NMCI helpdesk and open a 
+trouble ticket at 866-THE-NMCI (866-843-6624) or through the NMCI Homeport at 
+https://www.homeport.navy.mil/home/.
+    e.  Remediation of quarantined v1803 workstations will likely require 
+local reimaging of machines, a relatively labor and time-intensive process.  
+COVID-19 adds additional logistics challenges with a large number of 
+workstations being used in a remote, telework configuration.  It is 
+imperative that commands take early action to address these cases, taking 
+advantage of this window, and tailoring impact to local operations.
+
+4.  NMCI workstations identified as no longer required must be returned by 
+the Contract Technical Representative (CTR) to prevent the Navy from funding 
+assets no longer in active use.
+
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

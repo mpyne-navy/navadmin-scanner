@@ -1,0 +1,65 @@
+RTTUZYUW RHOIAAA0001 0471950-UUUU--RHSSSUU
+ZNR UUUUU
+R 161950Z FEB 21 MID600050270740U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 038/21
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/FEB//
+
+SUBJ/ PROCESS TO REQUEST EXCEPTION ON USE OF MASKS AND OTHER PUBLIC HEALTH MEASURES
+DURING COVID-19 PANDEMIC (CORRECTED COPY) //
+
+REF/A/SECDEF MEMO/04FEB21//
+REF/B/SECNAV MEMO/05FEB21//
+REF/C/CNO MEMO/09FEB21//
+
+NARR/REF A IS SECRETARY OF DEFENSE MEMORANDUM ON USE OF MASKS AND OTHER PUBLIC
+HEALTH MEASURES.
+REF B IS SECRETARY OF THE NAVY MEMORANDUM ON USE OF MASKS AND OTHER PUBLIC HEALTH 
+MEASURES.
+REF C IS CHIEF OF NAVAL OPERATIONS MEMORANDUM ON DELEGATION REQUEST ON USE OF MASKS 
+AND OTHER PUBLIC HEALTH MEASURES.
+
+POC/CAPT SARAH STANCATI/OPNAV N3N5L/703-692-9373/SARAH.A.STANCATI(AT)NAVY.MIL//
+
+RMKS/1.  Reference (a) requires all individuals on military installations and all individuals performing 
+official duties on behalf of the Department of Defense (DoD) from any location other than their home, 
+including outdoor shared spaces, to wear masks in accordance with the most current Center for Disease 
+Control guidelines. 
+Reference (a) also permits categorical or case-by-case exceptions to these requirements to be granted in 
+writing by DoD Component heads.
+Reference (b) delegates authority for granting exceptions to the Chief of Naval Operations, who 
+delegated authority to Deputy Chief of Naval Operations, Operations, Plans and Strategy (OPNAV 
+N3/N5) in reference (c). 
+This NAVADMIN provides procedures for requesting an exception to the use of masks and other public 
+health measures in environments other than office spaces pursuant to the authorities in references 
+(a)-(c).
+
+2.  Procedure.  A template, and associated references, for a categorical or case-by-case exception to the
+use of masks and other public health measures in environments other than office spaces is available at:
+https://portal.secnav.navy.mil/cop/crc/COVID/DocumentationandPDFTraining/Forms/AllItems.aspx.
+
+2.a.  The request should be routed via the chain of command to OPNAV N3/N5.  Submission by echelon 
+2 commands to OPNAV N3/N5 will be via the OPNAV COVID portal located at:
+https://portal.secnav.navy.mil/cop/crc/COVID/Lists/ExceptionRequests/AllItems.aspx
+The portal provides automatic notification to the staff of pending requests.  Requests will be staffed for
+decision, decisions will be posted to the portal, and the submitting official will receive an email 
+notification when it is posted.
+
+3.  OPNAV N3/N5 POCs for exception requests are CAPT Sarah Stancati at sarah.a.stancati(at)navy.mil 
+and CDR Jessica Pyle at jessica.l.pyle(at)navy.mil.  For assistance navigating or accessing the portal page, 
+please contact OPNAV_COVID_CRISIS_RESPONSE_CELL(at)navy.mil.
+
+4.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for Operations, Plans and 
+Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+

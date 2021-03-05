@@ -1,0 +1,141 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 032109Z NOV 20 MID200000317921U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CMC WASHINGTON DC
+NAVNETWARCOM SUFFOLK VA
+
+BT
+UNCLAS
+
+NAVADMIN 296/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/NOV//
+
+SUBJ/ COMMUNICATIONS SECURITY (COMSEC) MONITORING AND NOTIFICATION REPORTING 
+GUIDANCE//
+
+REF/A/INST/OPNAV/22MAY2020//
+REF/B/INST/SECNAV/9MAY2019//
+REF/C/INST/OPNAV/4APR2012//
+
+NARR/REF A IS OPNAVINST 2201.3C - NAVY COMMUNICATIONS SECURITY MONITORING OF 
+NAVY TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY SYSTEMS.  
+REF B IS SECNAVINST 3070.2A - DEPARTMENT OF THE NAVY OPERATIONS SECURITY 
+INSTRUCTION.  
+REF C IS OPNAVINST 5450.345 - MISSION, FUNCTIONS AND TASKS INSTRUCTION FOR 
+U.S. FLEET CYBER COMMAND.
+
+RMKS/1.  Communications Security (COMSEC) monitoring in the Navy is necessary 
+in order to determine the degree of security provided to telecommunications 
+and information technology (IT) systems, aid in countering their 
+vulnerability to interception, technical exploitation, human intelligence 
+threats, and other dimensions of foreign intelligence threats; and assess 
+effectiveness of Operations Security (OPSEC) measures.   Reference (a) 
+implements policy that all Navy information systems and telecommunications 
+systems, including government issued cellular devices, are subject to 
+monitoring.  This instruction can be obtained from the Department of the Navy 
+(DON) issuance webpage at https://www.secnav.navy.mil/doni/opnav.aspx and 
+should receive widest dissemination.  All hands must understand the 
+importance of practicing OPSEC and protecting critical unclassified 
+information (reference (b)) while operating on Navy communication networks 
+and devices.
+
+2.  Key elements of reference (a):
+    a.  Commanding Officers and Unit Commanders are responsible for ensuring 
+that their crews and subordinates are regularly notified that official 
+Department of Defense (DoD) telecommunications and IT systems are subject to 
+COMSEC monitoring at all times.
+    b.  Consent to monitoring must be included in orientation briefings, 
+daily bulletins or plans of the day/week, periodic training programs, and 
+communications-electronic operating instructions or similar documents.
+    c.  DoD telephones and IT systems are provided for the transmission of 
+official government information and are automatically subject to COMSEC 
+monitoring at all times.  Use of DoD telephones constitutes consent to COMSEC 
+monitoring.  Discussion and transmission of classified information over non -
+secure circuits is prohibited.
+    d.  The standard consent banner, displayed upon logon to DoD IT systems, 
+and user systems agreements (OPNAV 5239/14, System Access Authentication 
+Request (SAAR)) also serve to provide notification of, and consent to, COMSEC 
+monitoring.
+
+3.  Report criteria and timelines:
+    a.  Fleet maritime operations centers, Naval component commanders, and 
+Echelon 2 commanders will provide a report to U.S. Fleet Cyber Command
+(FLTCYBERCOM) by 1 July of even-numbered years to confirm that each 
+subordinate command is in compliance with reporting procedures.
+    b.  Subordinate Echelon 2 commanders will submit a consolidated report to 
+FLTCYBERCOM by 1 July of even-numbered years to confirm that each subordinate 
+command has complied with notification procedures.
+
+4.  For the current reporting cycle only, the due date for reporting to 
+FLTCYBERCOM has been extended to 30 November 2020.
+
+5.  Report formats and submission:
+    a.  The FLTCYBERCOM Points of Contact (POCs) identified in this message 
+have developed two forms to assist commands in preparing and submitting their 
+biennial reports.  The forms are available via email.
+    b.  The first form is the template for navy organizations to provide 
+specified information through their chain of command to their respective 
+Echelon 2 command.
+    c.  The second form is the template for fleet maritime operations 
+centers, Naval component commanders, and Echelon 2 commands to report to 
+FLTCYBERCOM.
+    d.  Fleet maritime operations centers, Naval component commanders, and 
+Echelon 2 commanders will forward completed forms by email to the FLTCYBERCOM 
+POCs.  Per reference (c), FLTCYBERCOM has been assigned responsibility for 
+COMSEC monitoring to include the aforementioned reporting requirements.
+
+6.  Commands do not need to report information relating to the following
+systems:  (1) Navy-Marine Corps Intranet (NMCI) NIPRNET and SIPRNET, (2) 
+OCONUS Navy Enterprise Network (ONE-NET) NIPRNET and SIPRNET, and (3) 
+Sensitive Compartmented Information (SCI) systems.
+
+7.  Questions regarding the forms or the information required as part of the 
+COMSEC monitoring and notification reporting requirements may be submitted to 
+the FLTCYBERCOM POCs.
+
+8.  The Echelon 2 Staff Judge Advocate or General Counsel shall review the 
+reports from their subordinate organizations for legal sufficiency.
+
+9.  OPSEC note:  OPSEC and COMSEC are mutually supportive.  While it is 
+necessary to share, discuss, email or post information while using official 
+Navy networks and platforms, the Navy also has a responsibility to protect 
+our critical information.  Our adversaries are experts in aggregating pieces 
+of unclassified information, often exploiting our mistakes or inadvertent 
+disclosures of critical information from our open and unclassified networks.  
+Proper application of OPSEC will help protect critical information while 
+maintaining essential secrecy.  By virtue of being a military professional, 
+it is all our responsibility to use the utmost care and caution to protect 
+the interests of our nation and keep our teammates safe.  Think about this 
+every time you use open systems or networks.
+
+10.  FLTCYBERCOM POCs:
+     a.  Mr. David Bailey, Counsel, telephone:  (240) 373-3394, email:
+david.l.bailey7(at)navy.mil.
+     b.  Captain Tony Miani, Fleet Judge Advocate, telephone:  (240) 373-
+3402,
+email:  wayne.a.miani(at)navy.mil.
+     c.  Lieutenant Commander Kristi Bao, Assistant Fleet Judge Advocate,
+telephone:  (240) 373-3358, email:  kristi.bao(at)navy.mil.
+     d.  Ms. Towana Ayres, Legal Compliance Specialist, telephone:
+(443) 479-3981, email:  towana.ayres(at)navy.mil.
+     e.  Mr. Cameron Payne, Legal Compliance Specialist, telephone:
+(443) 479-3868, email:  cameron.r.payne1(at)navy.mil.
+
+11.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

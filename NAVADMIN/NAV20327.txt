@@ -1,0 +1,477 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 161751Z DEC 20 MID600050095828U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 327/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/CNO/DEC//
+
+SUBJ/SARS-COV-2 VACCINATION AND REPORTING POLICY//
+
+REF/A/DOC/DHA/DHA-IPM/13DEC2020//
+REF/B/DOC/DOD/23JUL2019//
+REF/C/DOC/32 CFR PART 199.21/1DEC2016//
+REF/D/DOC/FDA/EUA/11DEC2020
+REF/E/DOC/CDC/DOC/13DEC2020
+REF/F/DOC/OUSD/12DEC2020
+REF/G/MSG/OPNAV/042056ZNOV20
+
+NARR/REF A IS THE DEFENSE HEALTH AGENCY INTERIM PROCEDURES MEMORANDUM 20-004 
+DEPARTMENT OF DEFENSE (DOD) CORONAVIRUS DISEASE 2019 (COVID-19) VACCINATION 
+PROGRAM IMPLEMENTATION PROGRAM.
+REF B IS THE DODI 6025.02 INDIVIDUAL MEDICAL READINESS ADDRESSING 
+RESPONSIBILITIES AND PROCEDURES FOR MONITORING AND ON INDIVIDUAL MEDICAL 
+READINESS.
+REF C IS 32 CFR PART 199.21, CIVILIAN HEALTH AND MEDICAL PROGRAM OF THE 
+UNIFORMED SERVICES (CHAMPUS)/TRICARE:  TRICARE PHARMACY BENEFITS PROGRAM.
+REF D IS THE FOOD AND DRUG ADMINISTRATION EMERGENCY USE AUTHORIZATION (EUA).
+REF E IS THE ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES INTERIM 
+RECOMMENDATION FOR USE OF PFIZER-BIONTECH COVID-19 VACCINE UNITED STATES, 
+DECEMBER 2020.
+REF F IS THE DEPARTMENT OF DEFENSE CORONAVIRUS-2019 VACCINATION PLAN (DOD 
+COVID-19 VACCINE PLAN).
+REF G IS THE US NAVY COVID-19 STANDARDIZED OPERATIONAL GUIDANCE VERSION 
+3.1.// 
+POC/ COVID-19 CRISIS ACTION TEAM /(703)681-1125/
+EMAIL:  USN.NCR.BUMEDFCHVA.MBX.BUMED-2019-NCOV-RESPONSE-CELL(at)MAIL.MIL.
+
+RMKS/1.  The SARS-CoV-2 virus and the disease it causes, COVID-19, has 
+disrupted Navy force mission execution and life in the United States.  The 
+shortest path to restoring normal operations, and protecting our Navy service 
+members, civilians and dependents is to efficiently vaccinate a large portion 
+of the force.  Two SARS-CoV-2 vaccines are anticipated for near term use by 
+the DoD.  Additional vaccines may be approved for future use.  The SARS-CoV-2 
+vaccine is a pandemic vaccine and the distribution and administration of it 
+will follow similar protocols established by prior influenza vaccination 
+seasons.  DoD guidance was promulgated in reference (a) and Navy guidance 
+follows and is broken into the following paragraphs.
+
+2. Policy Guidance
+    2.a. Coordination.
+    2.b. Emergency Use Authorization (EUA).
+    2.c. Recipient Awareness.
+    2.d. COVID-19 Mitigations Measures.
+    2.e. Subsequent Symptoms.
+
+3. Operational Guidance
+    3.a. Commanders Critical Information Reports (CCIRs).
+    3.b. Vaccine Planning considerations.
+    3.c. SARS-CoV-2 Vaccine Priority.
+    3.d. Adjudication.
+    3.e. Reserve Forces.
+    3.f. Navy Civilian Personnel.
+    3.g. Vaccination on the economy.
+
+4. Medical Guidance
+    4.a. Partial Sequence Completion.
+    4.b. Side Effects.
+    4.c. Co-administration guidance.
+    4.d. Single Manufacture.
+    4.e. SARS-CoV-2 Vaccine Ordering and Shipping.
+    4.f. SARS-CoV-2 Vaccine Integrity.
+    4.g. SARS-CoV-2 Vaccine Administration.
+    4.h. Personnel Administering Vaccines.
+    4.i. Pre-vaccination briefing.
+    4.j. SARS-CoV-2 Vaccination Compliance.
+    4.k. Documenting SARS-CoV-2 Vaccination.
+    4.l. Navy Goals and Performance Standards.
+    4.m. Duty in a Flight Status.
+    4.n. Dive Status, Undersea, and Special Operations.
+
+2. Policy Guidance
+
+2.a. Coordination.  Military Treatment Facilities
+(MTFs) will coordinate the execution and administration of the vaccine with 
+their supported local units.  MTFs will follow a detailed schema coordinated, 
+updated and maintained by OPNAV.  MTFs will contact each supported unit / 
+command to validate crew complement for vaccine ordering, administration, and 
+scheduling.  Timing of vaccinations for individual units will be based on the 
+vaccination schema and vaccine supplies.
+While the MTFs will schedule and execute vaccination, units should also 
+closely track and coordinate vaccination with servicing MTFs, not just the 
+first injection, but also the follow-up injection at 21 or 28 days (depending 
+on the product) based on their schedule and in order to achieve maximum 
+immunity.
+
+2.b. Emergency Use Authorization (EUA).  The current vaccines released under 
+Federal Drug Administration (FDA) EUA or Expanded Availability (EA) are 
+expected to receive full licensure in the future.  While the SARs-CoV-2 
+vaccine is released under EUA/EA guidance, vaccination is voluntary for 
+service members.  For those members that have questions or concerns about the 
+vaccine, they are encouraged to reach out to their medical providers for 
+questions.
+
+2.c. Recipient Awareness.  Administering MTF will make vaccine recipients 
+aware the FDA has authorized emergency use of the vaccine and ensure 
+recipients know potential benefits and risks and the extent such benefits and 
+risks are unknown.
+Finally, the MTF will inform recipients of available alternatives to the 
+vaccine and of the risks and benefits of the alternatives. Members receiving 
+the vaccine will be required to sign a consent form.
+
+2.d. COVID-19 Mitigation Measures.  COVID-19 mitigation measures such as 
+facemasks, physical distancing, frequent hand-washing, and ROM Sequester will 
+remain in place until a sufficient percentage of the Navy/Unit population is 
+immunized and the rate of infection reduced to no longer pose an operational 
+risk to the force.  Individuals vaccinated must still follow all the health 
+protection measures implemented for the Navy at-large.
+
+2.e. Subsequent Symptoms.  Vaccinated individuals who experience
+COVID-19 symptoms outside the expected side effects should be tested for 
+COVID-19 and follow return to work guidance per reference (g).
+
+3. Operational Guidance
+
+3.a. The following CCIRs are established specifically for vaccine reporting 
+(other COVID CCIRs remain in effect).  Make reports via OPREP-3 NAVY BLUE and 
+address all reports TO CNO WASHINGTON DC, BUMED and operational and 
+administrative chains of command.
+
+3.a.1. Adverse reaction to a dose of the vaccine.  Report if an individual 
+has a significant adverse reaction or if a large number of a vaccinated 
+population has minor symptoms and their duration and type are beyond what is 
+anticipated as described in reference (a).  Significant adverse events may 
+include, but are not limited to, anaphylaxis or anaphylactic shock or events 
+described in manufacturers package insert as contraindications to additional 
+doses of vaccines.  Information will be disseminated as any new medical data 
+is collected and verified by the FDA.
+
+3.a.2. Theft, loss or spoilage of vaccine, even a single vaccine dose.
+
+3.a.3. Vaccinated individual, regardless of the number of doses, subsequently 
+is diagnosed with COVID-19.
+
+3.a.4. Negative media or public interest in the Navys vaccination process 
+brought to the attention of commanders.  Transparent communication and 
+leadership is important to maintain confidence in and support for a robust 
+voluntary vaccination program.
+
+3.b. Vaccine Planning considerations
+
+3.b.1. Side effects are expected to be mild, but may be similar to COVID-19 
+infection as per reference (e).  Side effects for a specific vaccine will be 
+explained by the medical provider immediately prior to administering the 
+vaccine.  Consider critical watch station manning and mitigation strategies 
+when planning vaccination for operational units due to potential side 
+effects.
+
+3.b.2. Timing. Current SARS-CoV-2 vaccines are two-dose series with each 
+vaccine separated by 21 to 28 days.  Commanders must ensure second dose 
+timing is planned and operational commitments support prior to initiating the 
+sequence.
+
+3.c. SARS-CoV-2 Vaccine Priority.  The basic DOD schema is:
+Phase 1a: Healthcare and Emergency Service personnel.
+Phase 1b.1: Critical national capabilities, Strategic and National mission 
+forces, National leadership.
+Phase 1b.2: Personnel deploying OCONUS.
+Phase 1b.3: Other critical and essential support personnel.
+Note:  majority of service members will fall in this category.
+Phase 2: High-risk beneficiaries, as defined by the CDC.
+Phase 3: Healthy population beneficiaries.
+
+3.c.1. Phase 1a is expected to be complete early January 2021.
+Phase 1b.1 is expected to take through February 2021, with phase 1b.2 
+overlapping with phase 1b.1 in February.  These dates may change based on 
+vaccine production.
+
+3.c.2. Navy Component Commander (NCC) Fleet Surgeons and Naval Sea Systems 
+Command (NAVSEA) / Naval Air Systems Command (NAVAIR) Surgeons will support 
+planning by providing OPNAV with unit prioritization matched to the OSD 
+Distribution Schema.  OPNAV COVID Cell will maintain and disseminate the 
+prioritized list for NAVMEDLOGCOM distribution and MTF planning purposes.
+
+3.c.3. Navy Component Commanders (NCC) will provide OPNAV COVID Cell with 
+prioritized vaccination plans and desired timing for deploying units (Phase 
+1b.2).  The intent is to vaccinate units deploying within the next three to 
+six months, but this timeline may not fit all pre-deployment operational 
+schedules.
+
+3.c.4. An update to reference (g) will be promulgated providing amplifying 
+guidance for operational units.
+
+3.d. Reserve Forces.  Reserve forces being mobilized and in the process of 
+activation are prioritized for vaccination with their unit per current 
+mobilization policy COMNAVRESFORINST 3060.7D.  All other reserve forces are 
+Phase 3 priority and will be vaccinated according to the approved Reserve 
+Component (RC) COVID Vaccination Plan.  Navy Operational Support Centers 
+(NOSCs)/Navy Reserve Activities (NRAs) will coordinate with the nearest MTF 
+to coordinate vaccinations during a Navy Reserve Unit (NRU) drill weekend 
+where possible.  For vaccines that require two doses, second dose planning 
+with the MTF needs to be completed prior to administering the first dose.  
+NOSCs shall inform supported NRU leadership teams of all vaccination plans to 
+ensure Reserve personnel can plan appropriately for vaccination during a 
+drill weekend.  Where an MTF is not available, members should receive their 
+vaccination from a civilian or local vaccination program.  RC members will 
+provide vaccination documentation received from civilian or local vaccination 
+programs to NOSC medical staff for documentation in Medical Readiness 
+Reporting System.
+
+3.e. Navy Civilian Personnel.  SARS-CoV-2 vaccination will be available for 
+all civilian healthcare personnel and Navy civilian employees per reference 
+(a).
+
+3.f. Vaccination on the economy.  Reference (c) authorizes retail network 
+pharmacies to administer vaccines.  TRICARE beneficiaries may receive SARS-
+CoV-2 vaccinations with no co-pay at DoD MTFs and authorized retail network 
+pharmacies as per reference (a).  Beneficiaries are encouraged to contact the 
+pharmacy regarding vaccine availability.
+
+4. Medical Guidance
+
+4.a. Partial or Full Sequence Completion.  Personnel who have received 
+partial or full dosing of a COVID-19 vaccine course and develop symptoms 
+consistent with COVID-19 outside of expected side effects time period should 
+be tested for COVID-19.  If they test positive, follow ALNAV 096/20.
+
+4.b. Side Effects.  Side effects are expected to be mild, but may be similar 
+to COVID-19 infection.  Side effects for a specific vaccine will be explained 
+by the medical provider immediately prior to administering the vaccine.
+
+4.c. Co-administration guidance.  Administration of COVID vaccines with other 
+vaccines must be done in accordance with the current Advisory Council on 
+Immunization Practices (ACIP) guidelines:  https://www.cdc.gov/vaccines/ 
+hcp/acip-recs/vacc-specific/covid-19.html.
+
+4.d.  Single Manufacture.  Service members should not be given SARS-CoV-2 
+vaccines from different manufacturers.  If after one dose has been 
+administered and the series cannot be completed with the same manufacturer, 
+service members will consult with their medical provider before restarting 
+the series with a different vaccine.
+
+4.e. SARS-CoV-2 Vaccine Ordering and Shipping.  The SARS-CoV-2 vaccine is 
+centrally funded.  MTFs will order vaccine for their supported commands.
+The Vaccine Information and Logistics System (VIALS) will be used to track 
+requisitioned vaccines via Military Standard Requisitioning and Issuing 
+Procedures orders from requisition to receipt. MTFs may track and verify 
+their COVID-19 vaccine status in VIALS
+at:  https://gov_only.nmlc.med.navy.mil/int_code03/vials/.
+
+4.e.1. Commanders will ensure their unit census is reported to their 
+supporting MTF vaccine coordinator.  MTF vaccine coordinators will record the 
+unit name, UIC, count of personnel, and MTF that is responsible for providing 
+the vaccine.  Commanders with their own embedded medical personnel, who 
+routinely order annual vaccines, will coordinate with the MTF vaccine 
+coordinator and, as indicated, submit the previously described data.
+Counts will be summarized in VIALs and consolidated in a report through the 
+MTFs to NAVMEDLOGCOM vaccine coordinator as directed by BUMED. Vaccine points 
+of contact can be found at the VIALS helpdesk noted in 4.e.
+
+4.e.2. The Naval Medical Logistics Command (NAVMEDLOGCOM), consistent with 
+reference (a) and upon direction from OPNAV N3N5 and BUMED, will submit MTF 
+orders and oversee distribution of SARS-CoV-2 vaccine for all Navy and Marine 
+Corps activities.  Additional quantities required and/or changes in submitted 
+orders will be coordinated with the NAVMEDLOGCOM SARS-CoV-2 Vaccine Manager,
+DSN: (312) 343-8054 or the Vaccine Information and Logistics System (VIALS) 
+helpdesk at: usn.detrick.navmedlogcomftdmd.list.vialhelp(at)mail.mil.
+
+4.e.3.  SARS-CoV-2 Vaccine Shipping.  All MTFs will verify their correct 
+shipping address and point of contact information in VIALS to ensure prompt 
+delivery.  Shipment locations and the method of shipment is dependent upon 
+the vaccine being shipped.  Shipments will arrive to MTFs for administration 
+and, in some cases, distribution to other sites.  Future vaccines may be 
+distributed directly to afloat medical units.
+
+4.e.4. Vaccines are expected to be delivered incrementally over a period of 
+several months.
+
+4.e.5. The Pfizer vaccine has significant storage, maintenance, and 
+administration requirements.  Only select MTFs are authorized to receive the 
+vaccine.  Identified sites will receive the Pfizer vaccine and function as 
+hubs to distribute the vaccine to smaller MTFs.
+
+4.e.6. The other vaccine candidates are expected to be distributed and 
+administered similarly to the annual influenza vaccine.
+
+4.f.  SARS-CoV-2 Vaccine Integrity
+
+4.f.1. Temperature Monitors.  All SARS-CoV-2 vaccine shipments include 
+temperature monitors.  Return temperature monitors to either the Defense 
+Logistics Agency Troop Support Medical (DLA-TSM) cold chain office or the 
+Manufacturers specific vaccine management program after receipt, per the 
+included instructions.
+
+4.f.1.a. If the temperature monitor has not alarmed, the vaccine is ready for 
+immediate use.
+
+4.f.1.b. If the temperature monitor has alarmed in shipment, do not 
+administer those vaccine doses.  Segregate in an appropriate vaccine storage 
+refrigerator, label DO NOT USE, immediately return temperature monitor to 
+DLA-TSM or the manufacturer, and await DLAs disposition of the vaccine.
+
+4.f.2. Vaccine Cold Storage
+
+4.f.2.a. The Pfizer vaccine will be primarily stored within ultra-cold 
+freezers (-80C) at designated sites.  Vaccine POCs will oversee receipt, 
+storage, access, distribution, and administration of the vaccine.
+The vaccine may be shipped to external sites per reference (a).
+
+4.f.2.b. Other vaccine candidates which require storage at -20C or 2 to 8C 
+will be shipped and stored in accordance with specific vaccine policy and 
+similarly to the annual influenza vaccine.
+
+4.f.2.c. Vaccine transported from receiving MTF to another MTF storage and 
+administration is called redistribution.  Redistribution requires 
+notification of and coordination with U.S. Army Medical Materiel Agency 
+Distribution Operations Center (USAMMA-DOC) per reference (f).
+Specific cold storage and transportation conditions will be provided by 
+USAMMA DOC if not already included in reference (f).
+
+4.g.  SARS-CoV-2 Vaccine Administration
+
+4.g.1. MTFs will use the plans and exercises practiced during previous 
+influenza seasons to administer COVID-19 vaccines.  Review the Navy and 
+Marine Corps Public Health Center general standard operating procedures and 
+best practices to safely conduct a mass vaccination event.
+These documents can be found at:  https://esportal.med.navy.mil/sites/
+nmcphc/pps/wppc19/COVID-19-Toolbox.aspx.  The Seasonal Influenza Resource 
+Center available via Health.mil contains resources that can be used to assist 
+in planning.
+
+4.g.2. Maintain all COVID-19 mitigation measures during administration 
+including but not limited to, wearing masks, social distancing, frequent hand 
+washing, and limiting group size.
+
+4.h. Personnel Administering Vaccines.  Only trained and qualified medical 
+personnel, working within their scope of practice, will administer the SARS-
+CoV-2 vaccine per reference (a).  SARS-CoV-2 vaccination staff will complete 
+the CDC and manufacturer educations modules:  CDC COVID-19 Vaccine Training:  
+General Overview of Immunization Best Practices for Healthcare Professionals 
+(https://www2.cdc.gov/vaccines/ed/
+covid19/SHVA/index.asp) and the online training module provided by each 
+manufacturer for the products that will be administered.
+
+4.i. Pre-vaccination briefing.  In addition to informational material 
+provided to Service members on the vaccine, if desired, commands will 
+coordinate with their supporting MTF vaccine coordinator to provide an 
+informational brief (virtual or in-person) by a competent medical authority 
+on the benefits and risks of receiving the vaccine when notified they are 
+eligible to receive the vaccine.  Ideally, this briefing would offer the 
+opportunity for Service members to ask questions.
+
+4.j. SARS-CoV-2 Vaccination Compliance.  Pending full licensure or 
+Presidential action, the SARS-CoV-2 vaccine will be encouraged.
+Service members will be offered the vaccine in accordance with the priority 
+scheme by vaccination personnel.  Navys goal will be 100 percent contact of 
+personnel, but under the EUA they are not required, and may not be compelled 
+to receive the vaccination.
+
+4.k.  Documenting SARS-CoV-2 Vaccination.  All SARS-CoV-2 vaccinations, 
+exemptions, or declinations shall be documented in the Medical Readiness 
+Reporting System (MRRS).  While under EUA, MRRS will record individuals who 
+received a vaccine, are exempt, or who were offered the vaccine but declined 
+to receive it as having met the vaccination requirement.  If the
+SARS-CoV-2 vaccine is made a readiness requirement, MRRS readiness reporting 
+will be updated.  Active and Reserve Component Navy SARS-CoV-2 vaccination 
+administration will be monitored via MRRS.  Designated command personnel will 
+access MRRS to track their personnel.  Civilian vaccination administration 
+compliance will be monitored and tracked via AHLTA or other electronic 
+tracking.
+
+4.k.1. Shore-based commands or representatives may request access to MRRS 
+based on their unit identification code by submitting a system access 
+authorization request available at:  //mrrs.dc3n.navy.mil/mrrs
+(note:  MRRS Web address is case sensitive).  Point of contact:  MRRS program 
+office and e-mail:  mill_mrrs(at)navy.mil (800) 537-4617 /
+(504) 697-7070/ DSN: (312) 647-7070.  Ship-based commands may use Navy 
+Medicine Online (NMO) or Shipboard Non-Tactical Automated Data Processing 
+Automated Medical System (SAMS) to populate MRRS.
+
+4.k.2. MTFs must ensure that documentation of SARS-CoV-2 vaccine 
+administration is coded to accurately reflect the manufacturer of vaccine 
+given.
+
+4.k.3. All personnel who receive the vaccination from a retail network 
+pharmacy must provide documentation of vaccination no later than the next 
+work day (or next drill day for Reserve personnel) to ensure vaccination is 
+recorded in MRRS and the EHR.
+
+4.k.4. MRRS will be the record of unit vaccination status.  Senior leader 
+reports of vaccination will be developed using MRRS similar to influenza 
+vaccination reporting. Vaccination status will also be available in ADVANA.
+
+4.k.5. Commands will not report deferral or declination of the vaccine in 
+MRRS until they are given the opportunity to receive the vaccine and the 
+individual has been fully briefed on the benefits and risk of the vaccine.
+
+4.l. Navy Goals and Performance Standards
+
+4.l.1. Vaccines should be given with minimal delay.  MTFs should be prepared 
+to begin administration of vaccine within 24 hours of receipt as per 
+reference (f).  Active duty operational units have 72 hours (three business 
+days) following receipt of the vaccine to begin to administer and document 
+vaccination.  The 72-hour requirement begins immediately only if the 
+temperature monitor has not alarmed upon receipt.  If the temperature monitor 
+has alarmed, time requirement begins when the vaccine is cleared for use by 
+DLA-TSM.  If the 72-hour requirement cannot be met, unit situation reports 
+(OPREP-3 NAVY UNIT SITREP) will be submitted to OPNAV, copy to BUMED and 
+respective Type and Fleet Commanders and Immediate Superior in Command.  
+Situation reports are not required if the temperature monitor is in alarmed 
+status and the unit is awaiting disposition from DLA-TSM.
+
+4.l.2. Fleet and Echelon Two direct reports to the CNO will coordinate 
+vaccination plans for subordinate units ensuring vaccination is managed to 
+meet operational demands.
+
+4.l.3. While under EUA, commands will ensure that 100 percent of personnel 
+are offered a vaccine when the vaccine is available.  Vaccination remains 
+voluntary under an EUA.  Commands will be considered complete after all 
+personnel have been recorded in MRRS as either vaccinated or declining the 
+vaccine.
+
+4.l.4. When the vaccine is licensed, the vaccine may be required.
+If the vaccine becomes required, commands will be considered complete after 
+90 percent of personnel have been recorded in MRRS as either being vaccinated 
+or having received an exemption for the vaccine.
+
+4.l.5. SARS-CoV-2 Vaccination Performance Standards.  The following goals 
+will be monitored:
+
+4.l.5.a. Navy VIALS reports of shipment arrival date.
+
+4.l.5.b. MRRS reports 100 percent of personnel vaccinated or declined 
+vaccination.  Commands will coordinate with the servicing MTF to align 
+command-wide vaccinations with Navy vaccination goals.
+Medical personnel at servicing MTFs will promptly report vaccinations in 
+MRRS.
+
+4.m. Duty in a Flight Status.  The NATOPS Manual (CNAF M-3710.7) requires a 
+12-hour grounding period following immunizations unless otherwise specified 
+in the current Aeromedical Reference and Waiver Guide 
+(https://www.med.navy.mil/sites/nmotc/nami/arwg/Pages/
+AeromedicalReferenceandWaiverGuide.aspx).  The ARWG now includes nucleic acid 
+vaccines with a 72-hour grounding period after any dose.
+When established SARS-CoV-2 vaccine platforms with known delivery systems 
+become available, previously established grounding periods in the ARWG will 
+apply.  Navy and Marine Corps personnel in a special duty flight status may 
+volunteer for administration of any SARS-CoV-2 vaccine.
+
+4.n. Dive Status, Undersea, and Special Operations.  Immediately following 
+SARS-CoV-2 vaccination, do not conduct high-risk activities for 72-hours.  To 
+the best extent possible, the vaccination series should be completed a 
+minimum of 2 weeks prior to deployment.
+Commands may conduct vaccinations in cohorts to avoid reductions in readiness 
+due to potential side-effect impacts on an individuals ability to conduct 
+their duties.
+
+5.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

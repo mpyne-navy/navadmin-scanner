@@ -1,0 +1,75 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 291942Z DEC 20 MID200000482281U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+BT
+UNCLAS
+NAVADMIN 342/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/
+
+SUBJ/NAVY DEVELOPMENT SECURITY OPERATIONS (DEVSECOPS) GUIDANCE //
+
+REF/A/MSG/CNO WASHINGTON DC/261805ZDEC18//
+REF/B/MSG/CNO WASHINGTON DC/241507ZJAN20//
+REF/C/DOC/DODI 8510.01/DOD/28JUL17//
+
+AMPF/REF A IS NAVADMIN 315/18, TRANSFORMING OUR END-TO-END INFORMATION 
+ENVIRONMENT - COMPILE TO COMBAT IN 24 HOURS IMPLEMENTATION FRAMEWORK 
+(CORRECTED COPY).  
+REF B IS NAVADMIN 017/20 ANNOUNCING THE RAPID ASSESS AND INCORPORATE SOFTWARE 
+ENGINEERING PROCESS FOR DEVSECOPS ENVIRONMENTS.  
+REF C IS DEPARTMENT OF DEFENSE (DOD) INSTRUCTION 8510.01, RISK MANAGEMENT 
+FRAMEWORK (RMF) FOR DOD INFORMATION TECHNOLOGY (IT).// 
+POC/HUGH MCCULLOM(MICK)/CIV/CNO OPNAV N2N6D/ARLINGTON VA/TEL: 571-256-
+8260/DSN:
+260-8260/EMAIL: HUGH.MCCULLOM(AT)NAVY.MIL// POC/SCOTT HOWARD/CIV/CNO OPNAV 
+N2N6D/ARLINGTON VA/TEL: 571 256-8292/DSN:
+260-8292/EMAIL: SCOTT.R.HOWARD(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancels references (a) and (b) and announces the Rapid 
+Assess and Incorporate Software Engineering (RAISE) process is approved for 
+use in Development Security Operations (DevSecOps) environments to accelerate 
+the Risk Management Framework (RMF) process defined by reference (c).  To 
+deliver warfighting capability and improve cyber readiness for those 
+applications hosted on the Consolidated Afloat Network and Enterprise 
+Services (CANES), the Overmatch Software Armory (OSA) DEVSECOPS pipeline is 
+available for use with RAISE.  The Shore Tactical Assured Command and Control 
+(STACC) DEVSECOPS pipeline capability will come online in the summer of CY21.
+
+2.  The RAISE process streamlines and accelerates the RMF process by 
+employing automation, cyber verification tools, and Cybersecurity Tech 
+Authority -certified DevSecOps pipelines to ensure developed software is 
+secure.  Use of RAISE certifies DevSecOps environments and authorizes 
+software applications built and operated within those environments.
+
+3.  As available, specific RAISE implementation guidance for CANES, STACC and 
+other systems of record, as well as updates on new capabilities, will be 
+promulgated via Fleet Advisory Messages (FAMs).  RAISE guidance is available 
+in the RMF Process Guide and RAISE Playbook at the following location - https 
+://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/RAISE/SitePages/Home.aspx.
+
+4.  Effective January 2021, all programs with new software development starts 
+and/or software upgrades intended for use on CANES (AFLOAT) platforms 
+currently operating with Agile Core Services (ACS) are required to use this 
+approach.  Programs should review the RAISE guidance contained in the RMF 
+Process Guide and RAISE Playbook.
+
+5.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+6.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
+

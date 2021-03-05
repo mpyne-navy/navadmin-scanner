@@ -1,0 +1,78 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 231241Z DEC 20 MID200000466185U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 336/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/DEC//
+
+SUBJ//SUBMITTING MANDATORY COMMAND OPERATIONS REPORT (COR) FOR CY2019 AND 
+CY2020//
+
+REF/A/DOC/OPNAVINST 5750.12K CH-1/09JUN2014//
+
+AMPN/REF (A) IS CNO INSTRUCTION ON ANNUAL COMMAND OPERATIONS REPORT//
+
+RMKS/1.  Per reference (a), all officers in command (afloat and ashore, 
+including all task forces, groups, and units) will submit an annual Command 
+Operations Report (COR) for their unit by 1 March 2021.  Also, any CORs from 
+the previous year (CY2019) will be submitted regardless of their delinquent 
+status.
+
+2.  CORs should be submitted electronically to the Naval History and Heritage 
+Command (NHHC).  Reference (a) and a template with guidance are available on 
+the NHHC's COR website. (See https://www.history.navy.mil/about-
+us/instructions-and-forms/submit-a-command-operations-report.html).  
+Questions about the report should be directed to NHHC_COR(AT)navy.mil.
+
+3.  The COR must be classified at the level necessary to describe completely 
+the respective commands operations and actions over the last year.  CORs 
+classified no higher than the Secret level should be sent to 
+NHHC_COR(AT)navy.smil.mil.
+Reports classified higher than Secret are also accepted and welcome.  Contact 
+listed SIPRNet email for instruction.
+
+4.  Each command with a Unit Identification Code (UIC) is required to submit 
+their own report with one exception:  If a command has 25 or fewer full-time 
+employees, their ISIC can submit on their behalf.  Commands with 26 or more 
+full time employees (including military, civilian, and/or contractor) will 
+submit their own report.  ISICs are expected to ensure their subordinates 
+submit reports.  Inquiries regarding submission status may be sent to 
+NHHC_COR(AT)navy.mil.
+
+5.  CY2020 CORs will include information pertaining to activities in response 
+to COVID-19.  This information, including but not limited to, reports, 
+briefs, messages, white papers, emails, and images, will be included in the 
+COR package as supporting reports.  Narrative sections will include 
+information recounting COVID-19 preparedness, challenges, impacts on 
+operations, and command response.
+Chronology sections will include dates corresponding to preparedness 
+measures, incidents, and responses.  The classification level of this 
+information should not be the determining factor of its inclusion.
+
+6.  Point of Contact:  The COR Program may be contacted at comm: (202) 433-
+9873 and email: NHHC_COR(AT)navy.mil or NHHC_COR(AT)navy.smil.mil.
+
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

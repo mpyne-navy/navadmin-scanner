@@ -1,0 +1,179 @@
+UNCLASSIFIED//
+ROUTINE
+R 061441Z NOV 20 MID200000334193U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 300/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/IMPLEMENTATION OF EXECUTIVE ORDER ON COMBATING RACE AND SEX 
+STEREOTYPING//
+
+REF/A/EXECUTIVE ORDER/PRESIDENT/22SEP20//
+REF/B/MEMO/OMB/04SEP20//
+REF/C/MEMO/OMB/28SEP20//
+REF/D/MEMO/OPM/02OCT20//
+REF/E/MEMO/SECDEF/16OCT20//
+REF/F/MSG/SECNAV WASHINGTON DC/042137ZNOV20//
+REF/G/5 USC 4101//
+
+NARR/REF A IS THE EXECUTIVE ORDER ON COMBATING RACE AND SEX STEREOTYPING.  
+REF B IS MEMO FROM OFFICE OF MANAGEMENT AND BUDGET (OMB) ON TRAINING IN THE 
+FEDERAL GOVERNMENT. 
+REF C IS MEMO FROM OMB ENDING EMPLOYEE TRAININGS THAT USE DIVISIVE PROPAGANDA 
+TO UNDERMINE THE PRINCIPLE OF FAIR AND EQUAL TREATMENT FOR ALL.  
+REF D IS MEMO FROM OFFICE OF PERSONNEL MANAGEMENT (OPM) ON MANDATORY REVIEW 
+OF EMPLOYEE TRAINING UNDER EO 13950 OF 22 SEPTEMBER 2020.  
+REF E IS SECRETARY OF DEFENSE (SECDEF) MEMO ON IMPLEMENTATION OF EXECUTIVE 
+ORDER ON COMBATING RACE AND SEX STEREOTYPING.  
+REF F IS ALNAV 095/20, IMPLEMENTATION OF EXECUTIVE ORDER ON COMBATING RACE 
+AND SEX STEREOTYPING.  
+REF G IS TITLE 5 UNITED STATES CODE SECTION 4101 INCLUDING DEFINITION OF 
+TRAINING.//
+
+RMKS/1.  This NAVADMIN provides guidance to Navy personnel, employees and 
+commands on implementation of the Executive Order (EO) on Combating Race and 
+Sex Stereotyping as detailed in references (a) through (f).  References (e) 
+and (f) affirm the commitment of the Federal Government to the fair and equal 
+treatment of all individuals before the law and express the policy that the 
+United States will not promote race and sex stereotyping.
+
+2.  In accordance with references (a) through (e), reference (f) directs the 
+suspension of training related to diversity and inclusion.  Per reference 
+(f), effectively immediately:
+    a.  Navy will suspend all civilian personnel training relating to 
+diversity and inclusion.  Prior to resuming civilian training, it must be 
+reviewed and cleared by the OPM for compliance with the EO and certified as 
+compliant by the Secretary of the Navy.  The Assistant Secretary of the Navy 
+(Manpower and Reserve Affairs) Performing the Duty of Under Secretary of the 
+Navy (ASN (M and RA), PTDO UNSECNAV) will submit all requests for 
+preclearance of civilian training to OPM via the Under Secretary of Defense 
+for Personnel and Readiness, and certify the training.  Further guidance 
+directing the certification process for civilian training is forthcoming by 
+the Office of Civilian Human Resources.  Any expenditure by the Navy on 
+diversity and inclusion training for civilian employees must be approved in 
+advance by ASN (M and RA), PTDO UNSECNAV.
+    b.  The Navy will suspend all military training relating to diversity and 
+inclusion.  Prior to resumption of diversity and inclusion training for 
+military personnel, ASN (M and RA), PTDO UNSECNAV must certify it as 
+compliant with the EO.
+    c.  Each grant issuing organization in the Navy will review its grant 
+programs and identify programs for which, as a condition of receiving such a 
+grant, the Navy may require the recipient to certify that Federal funds will 
+not be used to promote concepts prohibited by the EO.
+
+3.  Definition of Training.  For the purposes of this NAVADMIN, the following 
+definition of training applies, adapted from reference (g).  Training is the 
+process of providing for or making available a planned, prepared and 
+coordinated program or routine of instruction, other than a formal academic 
+course, intended to improve individual and organizational performance and 
+assist in achieving the mission and performance goals of the Navy.  Training 
+may appear in a variety of formats, including the following outlined in 
+reference (d):
+    a.  Training that is conducted or led by Government employees,
+    b.  Training that is conducted or led by contractors or others,
+    c.  Live training sessions conducted in person or by any electronic 
+means, whether telephonic or video,
+    d.  Materials posted on public-facing or internal Internet or Intranet 
+sites of any Federal agency, and,
+    e.  Written or video materials or other content that have been produced 
+or procured with Federal funds and that are available to the general public 
+or that Federal employees are required or permitted to read or view.
+
+4.  Consistent with paragraphs 2 and 3 above, the following are examples of 
+types of training that must be suspended.  Please note this list is not all-
+inclusive.
+    a.  Naval Leadership and Ethics Center training relating to diversity and 
+inclusion,
+    b.  Naval Postgraduate School/U.S. Naval War College/U.S. Naval 
+Academy/Naval Reserve Officers Training Corps training relating to diversity 
+and inclusion,
+    c.  Diversity and inclusion topics which are part of training symposia or 
+conferences, often hosted by commanders and senior enlisted leaders (note  
+entire conference or symposia does not have to be cancelled  just the 
+training topics on diversity and inclusion),
+    d.  Command level training on diversity and inclusion (such as General 
+Military Training, Brown Bag lunches, etc.), and
+    e.  Diversity and inclusion presentations available on a command website.
+
+5.  This NAVADMIN does not prohibit Equal Opportunity and Equal Employment 
+Opportunity (EEO) training provided the training does not include diversity 
+and inclusion modules or components.  Permissible Equal Opportunity/EEO 
+training includes topics that focus on compliance with law and regulation.
+
+6.  Discussions that touch on diversity and inclusion are not prohibited 
+provided they do not constitute training.  Hallmarks of permissible 
+discussions include discussions which are:
+    a.  Voluntary,
+    b.  Accurately described as listening sessions to hear and share personal 
+experiences and perspectives without endorsement or judgment by supervisors 
+or the chain of command,
+    c.  Often conducted in smaller groups, with a focus on understanding 
+personal experiences rather than presenting or providing instruction on 
+concepts or policies.
+
+7.  Resumption of diversity and inclusion training.  As discussed in 
+paragraph 2, in order to resume civilian and military diversity and inclusion 
+training, the training must go through a review and certification process 
+facilitated by the Department of the Navy (DON).
+    a.  Civilian Training.  Once further information for the certification of 
+civilian training is received from higher authority, it will be promulgated 
+via separate correspondence.
+    b.  Military Training.  Office of the Chief of Naval Operations
+(N1) will promulgate procedures and guidelines to submit military training 
+certification requests to echelon II commanders via Department of the Navy 
+Tasking, Records and Consolidated Knowledge Repository (DONTRACKER) tasker.  
+A detailed checklist and all references will be included in the tasker to 
+facilitate the review of training materials.  All requests, after review and 
+certification by an O-9 or above in the chain of command, will be routed to 
+the Chief of Naval Personnel (Navy Chief Inclusion and Diversity
+Officer) for review, consolidation and routing to ASN (M and RA), PTDO 
+UNSECNAV.  To allow commands to commence gathering requisite information, 
+requests shall include the following information:
+        (1) Course name.
+        (2) Course description, syllabus, and agenda, as available.
+        (3) Whether the training is mandatory.  If so, who or what directs 
+this mandatory course.
+        (4) Approximate number of Service Members trained per session.
+        (5) Frequency of training.
+        (6) Location of training.
+        (7) Approximate cost per training session.
+        (8) In addition to above information, annotate Service representative 
+(general/flag officers serving at the grade of O-9 or above in the chain of 
+command) that reviewed and certified that the content of the military 
+diversity and inclusion training request are compliant with the EO.
+
+8.  Further guidance related to training provided by contractors is 
+forthcoming from the Office of the Assistant Secretary of the Navy (Research, 
+Development and Acquisition).
+
+9.  Sailors are our asymmetric advantage in a complex and changing 
+environment.  Optimizing the performance of our Navy team requires us all to 
+drive toward a Culture of Excellence, a culture focused on the high ideals 
+espoused in our core values of Honor, Courage and Commitment, a culture that 
+respects each of the members of our Navy team.  When Sailors feel included, 
+respected and empowered, they will be more ready to win wars, deter 
+aggression and maintain freedom of the seas.
+
+10.  For additional information, please contact RDML Putnam Browne, Director 
+of 21st Century Sailor Office, via e-mail at putnam.h.browne1@navy.mil.
+
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+12.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

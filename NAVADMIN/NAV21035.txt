@@ -1,0 +1,133 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 112237Z FEB 21 MID600050247735U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 035/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/2021 MERITORIOUS ADVANCEMENT PROGRAM SEASON ONE//
+
+REF/A/MSG/CNO WASHINGTON DC/ 091540ZJAN20//
+REF/B/MSG/CNO WASHINGTON DC/ 161157ZJUL20//
+
+NARR/REF A IS NAVADMIN 005/20, 2020 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
+ONE AND SEASON TWO.  REF B IS NAVADMIN 201/20, PROFESSIONAL MILITARY 
+KNOWLEDGE ELIGIBILITY EXAM REVISED BUSINESS RULES.//
+
+RMKS/1.  This NAVADMIN replaces reference (a) and announces the policy and 
+guidance for calendar year (CY) 2021 Season One Meritorious Advancement 
+Program (MAP) for Active and Full-Time Support Sailors.  Due to the 
+successful implementation of the MAP automation in Navy Standard Integrated 
+Personnel System (NSIPS) and positive Fleet feedback, the time allocated for 
+commands to approve MAP candidates during CY21 MAP Season One will remain 45 
+days, beginning on 1 March through 15 April 2021.
+
+2.  In order to preserve advancement opportunity via the Navy Wide 
+Advancement Exam (NWAE) and control over-manning a particular rating and 
+paygrade, MAP advancement to the BM3, ABF2, ABF1, ABH3 and ABH2 rates will be 
+controlled in line with this NAVADMIN.  The decision to control these rates 
+was made based on a variety of factors, to include low NWAE advancement 
+opportunity and proportionality of total MAP advancements in each community.  
+For details on MAP advancements in controlled rates, refer to paragraph 5 
+below.
+
+3.  MAP will account for approximately 20 percent of total advancements in 
+CY21 with roughly half of the available quotas allocated for each season.  
+All unused quotas will be factored into the NWAE cycle.  We are maintaining 
+the two-season framework that aligns the MAP with the NWAE to emphasize the 
+intent of MAP in selecting and rewarding the right Sailors.
+
+4.  MAP within NSIPS.  Commands are required to submit their MAP advancement 
+through NSIPS.  NSIPS Web Afloat users and commands without access to NSIPS 
+should refer to paragraph 4a for instructions on submitting their MAP 
+advancements.  The system will use authoritative data to determine 
+eligibility.  However, commands are still required to locally validate that 
+MAP candidates have successfully completed the Professional Military 
+Knowledge Eligibility Examination (PMK-EE) requirement prior to the first day 
+of the MAP season, as outlined in reference (b).
+    a.  NSIPS Web Afloat Users and Users Without Access to NSIPS.
+NSIPS Web Afloat users and commands without access to NSIPS must submit a MAP 
+nomination request via e-mail directly to their ISIC, type commander (TYCOM) 
+or budget submitting office (BSO)/echelon II command using the Meritorious 
+Certification Letter (MCL).  The letter must be signed by the commanding 
+officer and should address any exceptions to policy (ETP) and/or additional 
+quotas requested.
+Sample MCLs and detailed information regarding the offline process can be 
+found via MyNavy Portal (MNP) at the *MAP* tab and then select the *MCL 
+Template* and *Offline Process*.
+    b.  Quota usage, modifications and distribution will be managed within 
+the NSIPS environment.  BSO and command quotas will be uploaded into NSIPS on 
+15 February 2021 and can be found under the quota summary report tab.  Quotas 
+can also be found via MNP at the
+*MAP* tab and then select the *MAP Quotas*.
+    c.  Additional quotas can be requested using the quota request option.  
+Commands must contact their BSO to determine timeline for additional quota 
+requests.  All commands are authorized to request quotas from their 
+BSO/echelon II command, via their ISIC and TYCOM, whether or not command 
+quotas are authorized.
+    d.  The system will automatically determine if an ETP is required using 
+predetermined criteria.  Service Members in ratings requiring security 
+clearances and rates/pay grades requiring time in rate (TIR) waivers will be 
+automatically routed for adjudication.
+The request will be routed through the ISIC, TYCOM and BSO/echelon II command 
+using a hierarchical workflow.
+    e.  Nuclear-trained Service Members.  NSIPS will not automatically 
+generate an ETP.  If a command desires to advance a nuclear-trained Service 
+Member not meeting the TIR, an ETP must be routed to Director, Military 
+Personnel Plans and Policy (OPNAV N13) via Nuclear Program Manager (OPNAV 
+N133).  E-5s require a TIR date of 1 January 2019 or earlier to be eligible 
+for advancement to E-6.
+
+5.  MAP Advancements in Controlled Rates.  Commands desiring to MAP advance a 
+Sailor to ABF1, ABF2, ABH2, ABH3 or BM3 must submit a request to their BSO, 
+via their ISIC and TYCOM, using the quota request option in NSIPS.  If the 
+command does not have access to NSIPS, they should follow the procedures in 
+paragraph 4a.  BSOs will be granted MAP quotas for each rate based on the 
+proportion of the billets authorized (BA) at the lower paygrade of that rate 
+under that BSO.  If there are not enough quotas for all BSOs with BA for the 
+lower paygrade, the quotas will be allocated to the BSOs with the largest 
+amount of BA for the lower paygrade.  BSOs will be contacted by BUPERS-32 to 
+inform them of how many of their assigned quotas shall be used only for the 
+specified rates.  Commands will submit requests to the BSOs using the 
+template provided on the MAP homepage via MNP at 
+https://www.mnp.navy.mil/group/advancement-and-
+promotion/a-enlisted-advancement-resources-and-links, then select the 
+*Websites* tab in the blue banner.
+
+6.  MAP Website.  MAP Quotas by Unit Identification Code (UIC), as well as 
+example forms and frequently asked questions can be found on MNP at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/a-
+enlisted-advancement-resources-and-links, then select the *Websites* tab in 
+the blue banner.  The list of points of contact for each BSO/echelon II 
+command and list of parent and subordinate UICs can also be found on this 
+website.
+
+7.  Point of contact is MyNavy Career Center (MNCC) at (833) 330-
+6622 or via email at askmncc(at)navy.mil.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first.
+
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

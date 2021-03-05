@@ -1,0 +1,67 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 251700Z NOV 20 MID200000415039U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+UNCLAS
+NAVADMIN 311/20
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/TIMELY SUBMISSION OF E-6 EVALUATIONS IN ADVANCE OF THE CYCLE
+250 NAVY-WIDE ADVANCEMENT EXAM//
+
+REF/A/MSG/CNO WASHINGTON DC/071831ZAUG20//
+REF/B/MSG/CNO WASHINGTON DC/261748ZOCT20//
+
+NARR/REF A IS NAVADMIN 223/20 GUIDANCE FOR 2020 PERIODIC FIRST CLASS PETTY 
+OFFICER, CHIEF, AND SENIOR CHIEF EVALUATION.  
+REF B IS NAVADMIN 290/20 GUIDANCE FOR JANUARY 2021 CYCLE 250 E-7 ACTIVE DUTY 
+AND FULL-TIME SUPPORT NAVY-WIDE ADVANCEMENT EXAMINATION//
+
+RMKS/1.  This NAVADMIN announces procedures for the completion of
+E-6 evaluations in advance of the Cycle 250 Navy-Wide Advancement Exam.  Due 
+to the extension of the E-6 evaluation deadline, outlined in reference (a), 
+it is important that commands meet the established deadline and do not delay 
+in entering the relevant reporting seniors cumulative average (RSCA) 
+performance mark average (PMA) evaluation data into the enlisted advancement 
+worksheet (EAW).  Commands must complete all E-6 evaluations with required 
+signatures and process them no later than 15 December 2020.
+
+2.  Upon receipt of the completed evaluation, it is imperative that the 
+command educational services officer (ESO) upload the evaluations with the 
+RSCA value in block 43 and enter applicable RSCA PMA data into the EAW as 
+soon as possible.
+
+3.   An EAW system update in November 2020 now mandates the ESO at
+the command to validate and finalize Sailor worksheets before forwarding to 
+the servicing ESO.
+
+4.  As a reminder Professional Military Knowledge-Eligibility Exam
+(PMK-EE) remains a requirement for advancement and all Sailors must have 
+their PMK-EE completed by 1 December 2020 in order to be eligible for 
+advancement in Cycle 250, in line with reference (b).
+
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

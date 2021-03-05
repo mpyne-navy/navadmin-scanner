@@ -1,0 +1,264 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 161940Z DEC 20 MID600050096472U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 329/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/CULTURE OF EXCELLENCE SIMPLIFY AND ALIGN//
+
+REF/A/MSG/CNO WASHINGTON DC/121637ZNOV19//
+REF/B/DOC/DOD/20FEB20//
+REF/C/DOC/DOD/8MAY17//
+REF/D/MSG/COMPACFLT PEARL HARBOR HI/110156ZJUL19/NOTAL//
+REF/E/MSG/CNO WASHINGTON DC/301310ZSEP19//
+REF/F/MSG/CNO WASHINGTON DC/051546ZJAN16//
+REF/G/DOC/CNO/20MAY20//
+REF/H/DOC/SECNAV/1MAY18//
+REF/I/DOC/CNO/2OCT17//
+REF/J/DOC/CNO/24JUL17//
+REF/K/DOC/CNO/13AUG15//
+REF/L/DOC/CNO/26JUN18//
+REF/M/MSG/CNO WASHINGTON DC/101920ZDEC20//
+REF/N/MSG/CNO WASHINGTON DC/271513ZFEB20//
+REF/O/DOC/CNO/24JUN20/NOTAL//
+REF/P/DOC/CNO/AUG2019//
+REF/Q/MSG/CNO WASHINGTON DC/091538ZMAR16//
+REF/R/MSG/CNO WASHINGTON DC/181228ZJUL13//
+REF/S/DOC/CNO/14JUN16//
+REF/T/DOC/CNO/22JAN13//
+REF/U/MSG/ COMUSFLTFORCOM NORFOLK VA/271056ZAUG18/NOTAL//
+REF/V/DOC/OUSD/13AUG19/
+
+NARR/REF A IS CULTURE OF EXCELLENCE (COE) NAVADMIN 254/19.  REF B IS DODI 
+1322.31 COMMON MILITARY TRAINING (CMT); REF C IS DODI 2000.12 DOD 
+ANTITERRORISM (AT) PROGRAM.  REF D IS ONE LOVE ESCALATION WORKSHOPS PACADMIN 
+007/19.  REF E IS OPERATIONAL STRESS CONTROL (OSC) POLICY UPDATE NAVADMIN 
+222/19.  REF F IS U.S. NAVY INCLUSION AND DIVERSITY GOALS AND OBJECTIVES.  
+REF G IS DOMESTIC VIOLENCE INCIDENT COUNT-CONSEQUENT COMMAND ACTIONS NAVADMIN 
+004/16.  REF H IS SECNAVINST 5340.7A FUNDRAISING AND SOLICITATION IN SUPPORT 
+OF THE NAVY-MARINE CORPS RELIEF SOCIETY (NMCRS).  REF I IS OPNAVINST 1740.3D 
+COMMAND SPONSOR AND INDOCTRINATION (INDOC) PROGRAM.  REF J IS OPNAVINST 
+5354.1G NAVY EQUAL OPPORTUNITY PROGRAM MANUAL.  REF K IS OPNAVINST 1752.1C 
+NAVY SEXUAL ASSAULT AND RESPONSE (SAPR) PROGRAM.
+REF L IS NAVEDTRA 7542 COMMAND RESILIENCE TEAM GUIDE. REF M IS THE CULTURAL 
+CHAMPION NETWORK NAVADMIN 318/20.  REF N IS NAVY INCLUSION AND DIVERSITY 
+POLICY UPDATE NAVADMIN 051/20.  REF O IS COE GOVERNANCE BOARD CHARTER.  REF P 
+IS GUIDE 13 - COMMAND FITNESS GUIDE COMMAND/UNIT PHYSICAL TRAINING (PT) AND 
+FITNESS ENHANCEMENT PROGRAM (FEP).  REF Q IS IMPLEMENTATION OF PHYSICAL 
+READINESS PROGRAM POLICY CHANGES UPDATE #2 NAVADMIN 061/16.  REF R IS 
+IMPLEMENTATION OF NAVY SAPR PROGRAM INITIATIVES NAVADMIN 181/13.  REF S IS 
+OPNAVINST 6520.1A (OSC).  REF T IS OPNAVINST 5350.8 USE OF HAND-HELD ALCOHOL 
+DETECTION DEVICES.  REF U IS 12-STAR MESSAGE: SUICIDE PREVENTION-THERE ARE NO 
+BYSTANDERS. REF V IS DTM 19-009, FINANCIAL READINESS CMT REQUIREMENTS.
+
+RMKS/1.  Per reference (a), the Culture of Excellence Oversight Committee 
+(COE OC) has been reviewing, simplifying and aligning policies and programs 
+that are duplicative or ineffective.  This NAVADMIN provides a status report 
+on this process and implements specific policy changes as a result of this 
+work.  In September 2019, the COE Governance Board approved the COE OCs 
+recommendations regarding the 197 resilience related policies, programs, 
+practices and processes (P^4s), with only 28 to continue as-is.  Those 
+recommendations that require policy changes and guidance are identified 
+below, are effective immediately and will remain in effect until the guiding 
+instructions and references, where applicable, are
+updated:
+    a.  General Military Training (GMT).  The recent release of reference (b) 
+has limited mandatory GMT to the following and will be reflected in 
+subsequent annual GMT NAVADMINs:
+        (1) Annual:
+            (a) SAPR
+            (b) Cyber Awareness Challenge
+            (c) Counterintelligence Awareness and Reporting
+            (d) Records Management
+            (e) Suicide Prevention
+        (2) Biennial:
+            (a) Privacy Act
+        (3) Triennial:
+            (a) Anti-Terrorism (AT) Level I (Annually for first three
+years)
+    b.  Other Training:
+(1) Per references (b) and (c), Combating Trafficking in Persons training is 
+required within the first year of service.
+Additional training remains an optional GMT subject to Commanding Officers 
+discretion.
+         (2) Consolidated Training:
+                (a) Per reference (c), Active Shooter Training may be 
+consolidated into existing AT Level 1 training.
+       (b) Discretionary GMT Hazing Policy and Prevention training has been 
+combined with Equal Opportunity, Harassment and Resolution Options.
+        (3) The One Love Escalation Workshop is under review.  U.S.
+Pacific Fleet commands have master trainers available in most locations to 
+support discretionary training.  See reference (d) for details.
+        (4) Discontinued Trainings:
+                (a) Pure Praxis
+                (b) Per reference (e), OSC pre-deployment training and OSC 
+for Families
+                (c) Unit level Alcohol Aware, Course Identification Number 
+(CIN) S-501-0160 and Drug Awareness, CIN CPPD-NADAP09-010
+                (d) Alcohol, Drugs and Tobacco Awareness, discretionary GMT
+    c.  Collateral Duties:
+        (1) Echelon II and enterprise Family Advocacy Liaisons established in 
+reference (f) are no longer required.  Command- designated Family Advocacy 
+Liaisons, required in reference (g), remain a requirement.
+        (2) The Combined Federal Campaign (CFC) Coordinator should only be 
+assigned for the duration of the fundraising campaign that may include pre-
+campaign training and/or post-campaign award ceremonies.
+        (3) Per reference (h), NMCRS Active Duty Fund Drive (ADFD) 
+coordinators and key personnel should be assigned only for the duration of 
+the Secretary of the Navy ADFD.
+        (4) Per reference (i), the Command Sponsor Program Coordinator and 
+Command Indoctrination (INDOC) Program Coordinator collateral are a combined 
+collateral duty.
+        (5) Command Fitness Leader (CFL) Seminars were reduced 25% from 12 
+per year to eight per year, adding regional Fitness Coordinators to teach as 
+well.
+        (6)  Command Training Teams have been disestablished by reference (j) 
+and are no longer required.
+        (7) Per reference (k), unit SAPR Point of Contacts (POCs) are no 
+longer required.  SAPR POC duties and responsibilities shall be included in 
+the SAPR Victim Advocate (VA) responsibilities.  Commands will appoint one 
+unit SAPR VA as the primary unit SAPR VA responsible for ensuring the SAPR 
+POC responsibilities outlined in reference (k) are met.  Commands will have 
+180 days from the date of this message to transfer POC duties to the 
+appointed Unit VA.
+        (8) In alignment with best practices and, at the discretion of 
+Commanders, Echelon II and III SAPR Officers may expand their duties and 
+responsibilities to include other COE initiatives.
+    d.  Programs, practices and processes:
+        (1) CRTs will manage the conduct of Human Factors Councils (CRTHFC), 
+which will assess risk factors at the individual Sailor level.  References 
+(j), (l), and (m) provide additional guidance.
+        (2) The Force Preservation Council (FPC) pilot lessons learned will 
+be integrated into CRT guidance.  The FPC will stand down and be managed as 
+CRTHFCs in accordance with references (j) and (l).
+        (3) The Strategic Workforce Action Group was disestablished by 
+reference (n).  It was replaced by the Inclusion and Diversity Practitioners 
+Sync and convenes under the COE Working Group in accordance with reference 
+(o).
+        (4) The Strategic Workforce Council was replaced in reference
+(o) by the Inclusion and Diversity Council (IDC), comprised of senior Navy 
+leaders and key workforce stakeholders chaired by the Vice Chief of Naval 
+Operations.  The IDC convenes semi-annually opposite the Chief of Naval 
+Operations COE Governance Board in accordance with reference (n).
+        (5) Per reference (p), disenrollment from FEP no longer requires a 
+Sailor to remain in FEP until the next official Physical Fitness Assessment 
+(PFA).
+        (6) Body Composition Assessment (BCA) spot checks, introduced in 
+reference (q), remain a highly encouraged best practice.
+        (7) Barracks Roving Patrols implemented as a SAPR preventive measure 
+in references (k) and (r) are discontinued as a SAPR program; however, they 
+may be integrated into the base security programs if required by the base 
+commander.
+        (8) SAPR *first flag reports* mandated in reference (k) are no longer 
+required.  Other *first flag officer* responsibilities detailed in reference 
+(k) remain in effect.  Immediate Superiors in Command (ISICs) may require 
+additional reporting or information if needed.  Other *first flag officer* 
+responsibilities detailed in reference (k) remain in effect.
+        (9) Behavioral Health Quick Polls are no longer a program of record 
+and were replaced by the Status of Forces Survey and stress- related 
+questions in the Defense Organizational Climate Survey.
+        (10) Per reference (s), OSC Governance Board has been disestablished.
+        (11) Several competing substance abuse campaigns (e.g. *That Guy*, 
+*Keep What You Earned*, *The Domino Strategy How to Drink Responsibly*, *Who 
+Will Stand Your Watch?*, *Keep What You Earned* and *Prescription for 
+Discharge*) have been cancelled and/or consolidated.
+        (12) Reference (t), Hand-Held ADD Program, remains a commanding 
+officers discretionary program.  Reference (t) will be cancelled when 
+incorporated into OPNAVINST 5350.4E to ensure commands that use ADDs have 
+sufficient guidance.
+        (13) Urinalysis testing.  As a best practice and to reduce excessive 
+administrative burden, smaller commands (approximately 80 authorized billets 
+or less) are encouraged to join a larger commands urinalysis testing program.  
+A memorandum of understanding or memorandum of agreement shall be signed by 
+the two commanding officers in order to specify the responsibilities of each 
+command.
+For further guidance, commands should contact their Type Commander/ISIC or 
+Echelon II Alcohol and Drug Control Officer (ADCO).
+
+2.  The following 28 P^4s will continue per existing guidance:
+    a.  Training.  OSC and Suicide Prevention.  Conduct refresher training 
+PRIOR to the end of deployment as required by reference (u).
+Note: E-OSC of reference (e) is currently in PILOT phase.
+    b.  Command Discretion GMTs and other Training Opportunities:
+        (1) Combating Trafficking in Persons (CO discretion GMT)
+        (2) Applied Suicide Intervention Skills Training (ASIST)
+        (3) Operations Security (CO discretion GMT)
+        (4) Personal Financial Management (CO discretion GMT) Note:
+required at personal and professional touchpoints by reference (v)
+        (5) Stress Management (CO discretion GMT)
+        (6) safeTalk (sT) (Recommended, or a similar program, to be included 
+in Command INDOC)
+        (7) Operational Risk Management (ORM) (CO discretion GMT)
+    c.  Positional Responsibilities and Collateral Duties:
+        (1) Command Casualty Assistance Calls Officer
+        (2) Morale, Welfare, Recreation President
+        (3) Command Fitness Leaders
+        (4) Education Service Officer
+        (5) Command Safety Officer
+        (6) Sexual Assault Response Coordinator
+        (7) Alcohol and Drug Control Officer
+        (8) Suicide Prevention Coordinator
+        (9) Motorcycle Safety Representative
+    d.  Programs, Policies, Information:
+        (1) Motorcycle Safety Program
+        (2) Motorcycle Mentorship Program
+        (3) Graphic Novel Availability
+        (4) CNIC Installation SAPR Drills
+        (5) National Prisoner of War/Missing in Action
+        (6) Suicide Crisis Response Plan
+        (7) Personal Financial Management Program
+
+3.  In coordination with the Office of Civilian Human Resources, the COE OC 
+is reviewing CIVPERs P^4s to better align our civilian requirements to our 
+military requirements where feasible.
+
+4.  All future pilots require COE OC and/or Echelon 2 Commander review and 
+approval before moving forward.
+
+5.  Leaders are encouraged to reach out to any of the POCs in this message 
+and provide feedback and further recommendations to eliminate ineffective or 
+redundant resilience related P^4s.
+
+6.  The policy changes in this NAVADMIN remain in effect until superseded by 
+subsequent policy and/or formal changes to instructions.
+
+7.  POCs are CROCE, JOHN/CIV/USPACFLT/N17/DSN:315-471-3981/
+TEL:(808)471-3981/E-MAIL: JOHN.CROCE(AT)NAVY.MIL// POC/CHAUNCEY, 
+TERRY/CIV/USFFC/N1Z/DSN:312-836-0480/
+TEL:(757)836-0480/E-MAIL: TERRY.CHAUNCEY (AT)NAVY.MIL// POC/MURRAY, 
+MICHAEL/CDR/CNE-CNA/CODE/DSN:314-626-3681/
+TEL:(+39)081-568-3681/E-MAIL: MICHAEL.P.MURRAY(AT)EU.NAVY.MIL// POC/YAVORSKI, 
+THOMAS/CIV/OPNAV/N170/DSN:312-664-1094/
+TEL:(703)604-1094/E-MAIL: THOMAS.YAVORSKI(AT)NAVY.MIL// POC/OBERLEY, 
+MARK/CIV/NETC/N522/DSN:312-459-4884/
+TEL:(850)452-4884/E-MAIL: MARK.OBERLEY(AT)NAVY.MIL// POC/GRIFFEN, 
+CRYSTAL/CIV/CNIC/CODE/DSN:312-288-3161/
+TEL:(202)433-3161/E-MAIL: CRYSTAL.C.GRIFFEN(AT)NAVY.MIL//
+POC: BAKER, JERALD/MCPO/OPNAV N17/DSN: 312-882-2487/
+TEL: (901) 874-2487/E-MAIL: JERALD.D.BAKER(AT)NAVY.MIL//
+
+8.  Released By Vice Admiral John B. Nowell, Jr. N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

@@ -1,0 +1,109 @@
+UNCLASSIFIED// 
+ 
+ROUTINE 
+ 
+R 272107Z MAR 20 MID110000530450U 
+ 
+FM CNO WASHINGTON DC 
+ 
+TO NAVADMIN 
+ 
+INFO CNO WASHINGTON DC 
+ 
+BT 
+UNCLAS 
+
+NAVADMIN 092/20 
+
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/URINALYSIS POLICY UPDATE// 
+ 
+REF/A/DOC/N1/4JUN09// 
+ 
+REF/B/WEBPAGE/CDC// 
+ 
+NARR/ REF A IS OPNAVINST 5350.4D, NAVY ALCOHOL AND DRUG ABUSE 
+PREVENTION AND CONTROL.  REF B IS CENTER FOR DISEASE CONTROL (CDC) 
+COVID-19 HOW TO PROTECT YOURSELF AVAILABLE AT 
+HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/PREPARE/PREVENTION.HTML // 
+ 
+RMKS/1.  This NAVADMIN announces a temporary amendment to the Navy 
+urinalysis program to minimize Sailor exposure to Coronavirus-19 
+(COVID-19) and adhere to social distancing requirements. 
+ 
+2.  Commands will continue random urinalysis specimen collection 
+from Sailors during the COVID-19 pandemic to the greatest extent 
+possible.  Commanders and Commanding Officers may pause collection 
+and/or reduce collection percentages and numbers of days collected 
+if he/she deems it necessary to support maximum operational 
+flexibility and/or COVID-19 mitigation efforts. 
+    a.  Drug testing shall be conducted with no more than 10 people, 
+including the urinalysis program coordinator (UPC) and observer, 
+gathering for testing in one place at one time while maintaining 
+social distancing of six feet at all times while continuing to 
+follow all collection procedures outlined in reference (a). 
+    b.  All command-directed, probable cause, mishap investigations 
+and rehabilitation testing will continue in accordance with 
+reference (a). 
+    c.  Commands shall not recall individuals who are sick, 
+restricted in movement (ROM), quarantined or self-monitoring and 
+should not recall individuals who are teleworking or in a non-duty 
+status to provide a drug testing specimen. 
+    d.  Navy Drug Screening Laboratories (NDSL) will continue to 
+operate and test these specimens. 
+ 
+3.  Sailors assigned to non-Navy activities will follow the policy 
+of those activities. 
+ 
+4.  As a result of this temporary policy change, the requirement in 
+paragraph 6.a., enclosure (2) of reference (a) to provide their 
+echelon 3 commander with the reason for failing to comply with 
+reference (a) is suspended until further notice. 
+ 
+5.  Care must continue to be taken when conducting random urinalysis 
+collections.  According to the Centers for Disease Control (CDC), it 
+is not known whether non-respiratory body fluids such as urine can 
+contain the virus.  The CDC indicates interpersonal contact 
+continues to present the greatest risk of COVID-19 exposure.  Please 
+adhere to the following processes to mitigate risks to exposure 
+during urinalysis collections in line with reference (b). 
+    a.  All urinalysis specimen collection testing shall comply with 
+all current OPNAV policies and CDC Health Guidance. 
+    b.  All participants must engage in safe hygiene practices, 
+including hand washing, maintaining the six feet social distancing 
+requirement, and refraining from touching their face. 
+    c.  Administrators shall wipe down all surfaces contacted (after 
+each contact) throughout collection to include tables and door 
+handles. 
+    d.  UPCs will not handle a specimen bottle after it has been in 
+the possession/control of the Sailor.  Sailors providing a specimen 
+will tighten the lids securely to avoid cross contamination, adhere 
+labels, affix security tape on the specimen bottle and place their 
+specimen bottle in a secondary container with absorbent materials 
+under the observation and direction of the UPC.  Sailors should use 
+their own pen to sign and initial during the process.  Additionally, 
+UPCs should not handle the military identification card of the 
+Sailor. 
+    e.  Sailors, UPCs and observers must avoid personal touch and 
+wash their hands after any contact during this process.  All must 
+avoid the exchange of personal items (i.e., identification cards, 
+pens, etc.). 
+ 
+6.  For additional information or questions, the urinalysis program 
+point of contact is Ms. LaNorfeia Parker, OPNAV N170D, at (901) 874- 
+4249/DSN 882 or lanorfeia.parker(at)navy.mil. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or 
+canceled, whichever occurs first. 
+ 
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN
+UNCLASSIFIED//

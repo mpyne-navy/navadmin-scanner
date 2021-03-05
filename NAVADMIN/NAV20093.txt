@@ -1,0 +1,183 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 022018Z APR 20 MID110000547349U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 093/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC/N2N6//
+INFO CNO WASHINGTON DC/N2N6//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/APR//
+
+SUBJ/DOD COMMERCIAL VIRTUAL REMOTE (CVR) COLLABORATION ENVIRONMENT (CORRECTED 
+COPY)//
+
+REF/A/NAVADMIN/OPNAV/172220ZMAR20//
+
+REF/B/NAVADMIN/OPNAV/212007ZMAR20//
+
+REF/C/NAVADMIN/OPNAV/172220ZMAR20//
+
+REF/D/DOC/NIST/APR2010//
+
+NARR/REF A NAVADMIN 093/20.  REF B IS NAVADMIN 080/20, NAVY MITIGATION 
+MEASURES IN RESPONSE TO CORONAVIRUS OUTBREAK UPDATE 3.  REF C IS NAVADMIN 
+068/20, EFFECTIVE USE OF REMOTE WORK OPTIONS.  REF D IS NIST SP 800-122, 
+GUIDE TO PROTECTING THE CONFIDENTIALITY OF PERSONALLY IDENTIFIABLE 
+INFORMATION (PII).// POC/ERIC MCCARTNEY/CAPT/OPNAV N2N6G32/EMAIL:  
+ERIC.S.MCCARTNEY(AT)NAVY.MIL
+/TEL:  571-256-8399/DSN 312-260-8399//
+
+RMKS/1.  This NAVADMIN updates reference (a) to amplify paragraphs 5
+(onboarding) and 7 (support) in their entirety.  This NAVADMIN provides 
+policy and guidance for the use of Department of Defense (DoD) Commercial 
+Virtual Remote (CVR) environment for official business.  This is a joint 
+OPNAV N2N6, Fleet Cyber Command, and U.S. TENTH Fleet message.
+
+2.  To mitigate the spread of Coronavirus Disease 2019 (COVID-19), reference 
+(b) directed implementation of maximum telework flexibilities for shore 
+commands, consistent with command operational needs, as determined by their 
+respective leadership.  Reference (c) provided general guidance for remote 
+work using Department of the Navy (DON) Information Technology (IT).
+
+3.  Remote work capability and capacity using Remote Access Service (RAS) 
+/Virtual Private Networks (VPNs), Outlook Web Access (OWA), and other means 
+have significantly increased over the past several weeks.  More capacity is 
+needed and work continues in this area.  To further increase collaboration 
+capabilities for the workforce during maximized remote work operations, DoD 
+has established the Commercial Virtual Remote (CVR) environment.  CVR is a 
+limited, DoD-only instance of Microsoft Teams and OneDrive for Business 
+(ODfB), a communication and collaboration, cloud-based platform integrated 
+with Microsoft Office 365.  As this is only a temporary solution, any 
+critical working documents or official records created in this environment 
+must be saved to an approved alternate location (e.g., Navy/Marine Corps 
+Intranet (NMCI) / Outside Continental United States (OCONUS) Navy Enterprise 
+Network (ONE-Net) shared drive or hard drive).  All data in CVR environment 
+will be destroyed at the conclusion of the COVID-19 emergency.  The full CVR 
+rollout plan will be promulgated via separate correspondence.
+
+4.  Capabilities.
+    a.  Teams enables users to create shared workspaces for audio, video, and 
+chat.  Audio and video are currently not available when connecting via NMCI 
+or ONE-Net.
+    b.  ODfB enables limited file sharing and storage, integrated with Teams.
+    c.  CVR includes Microsoft Online (Word, PowerPoint, and Excel) for 
+online file creation and editing, eliminating the need for users to create 
+and/or edit files on non-government computers.  No other Microsoft Office 365 
+capabilities will be offered, specifically Outlook (email and calendars).
+    d.  CVR will be available from both Navy and commercial networks.  Both 
+government and personal devices may be used, including desktop and laptop 
+computers, tablets, and mobile phones.  Again, when connecting to Teams via 
+NMCI or ONE-Net, audio and video capabilities are not available.
+    e.  Per existing user agreements, data created, used, and shared within 
+CVR are subject to monitoring and applicable policy and guidelines.
+
+5.  Onboarding.
+    a.  As part of a gradual CVR rollout over the next several weeks, by 
+Command, Navy users will receive an automated email message from Microsoft 
+Teams inviting CVR account registration.  This message will contain a 
+username and temporary password.
+    b.  The email address used to reach each Navy member will be the one 
+listed in their milConnect military (MIL), civilian (CIV), or contractor 
+(CTR) profile.  Verify your e-mail address at 
+https://www.dmdc.osd.mil/milconnect
+using the below instructions.
+        (1) After signing in to this site, under I want to on the home page, 
+select Update personal contact info, which will take you to the Update and 
+View My Profile page.
+        (2) In the middle of the Update and View My Profile page is a 
+Personal heading and at least one professional heading such as MIL, CIV, or 
+CTR.  Click on the MIL, CIV, or CTR profile heading.  Those with two or more 
+professional profiles should perform this email verification for each one, as 
+separate CVR accounts will be established for each professional profile.
+        (3) Scroll to the bottom of the page and verify the Primary Personnel 
+Email address under the bolded heading Personnel Email Addresses.  This is 
+usually the navy.mil address registered on your Common Access Card (CAC).
+        (4) If the email address needs to be changed and it is greyed out, go 
+to https://www.dmdc.osd.mil/self_service, click the Sign In button on the 
+home page, and then click the Change CAC Email button under the CAC 
+Maintenance portion of the page.
+    c.  Many pilot users found it easier to complete initial account setup 
+from home using a non-VPN commercial connection vice from work while logged 
+into NMCI or ONE-Net.
+    d.  During Teams set up, a phone number is required to authenticate 
+access.  During initial setup, provide a phone number to which you have 
+immediate access.  Once initial setup is complete, recommend adding an 
+alternate number (ie. work and personal) ensuring access from both locations.  
+Add alternate authentication phone numbers via the security verification 
+page:  https://account.activedirectory.windowsazure.com
+/Proofup.aspx).
+    e.  Users may download the Teams application to their personal devices or 
+use the Teams web client with the Microsoft Edge browser.  Users on 
+government computers should use the Teams web client with the Microsoft Edge 
+browser.
+    f.  Microsoft Authenticator is available to streamline log on for 
+multiple personal devices.
+
+6.  Restrictions.
+    a.  CVR is authorized For Official Use Only (FOUO) information up to 
+Controlled Unclassified Information (CUI), except:
+        (1) CUI under the control and direction of the DoD (Controlled 
+Technical Information, Critical Infrastructure Security Information, Naval 
+Nuclear Propulsion Information, and Unclassified Controlled Nuclear 
+Information Defense);
+        (2) All data types under the Law Enforcement CUI grouping;
+        (3) All data types under Privacy data, except low confidentiality 
+impact PII (as defined in reference (d)).
+    b.  CVR is established only for the duration of the COVID-19 emergency.  
+Upon return to normal operations, the environment will be shut down and all 
+data in it will be permanently deleted.
+    c.  In the event unauthorized information is introduced to a personally 
+owned device, the device may be subject to inspection and sanitization by 
+appropriately authorized Navy personnel.
+    d.  All personnel shall use cybersecurity best practices for telework as 
+discussed in reference (b).  This includes, but is not limited to, patching 
+personal devices, using up-to-date anti-virus software, and limiting download 
+of files to personal devices.
+
+7.  Support.
+    a.  As CVR is not a service provided by NMCI or ONE-Net, users shall not 
+call Navy enterprise service desks (NMCI or ONE-Net Help Desks) for CVR-
+related issues.
+    b.  User training for the Teams/ODfB application is available at 
+https://docs.microsoft.com/en-us/microsoftteams/enduser-training.
+    c.  After accessing the CVR environment, additional training resources, 
+events, and more and available at:  https://dodtelework.sharepoint.com/sites
+/TeamsLearning.
+    d.  FAQs, troubleshooting, and other self-help documentation is available 
+at the DoD Cloud Computing Program Office (CCPO) CVR support website 
+https://www.cloud.mil/cvr.
+    e.  Commands are invited to establish local champions to help support the 
+use of this new environment.  Champions are invited to join the USN Teams 
+Champions channel to share ideas with, and seek help from, other champions.  
+Individual users are encouraged to contact these CVR champions, local N6, 
+command information officer (CIO), or knowledge management personnel first 
+for assistance or more information.
+    f.  If unable to resolve an issue locally or through the USN Teams 
+Support channel online, limited Help Desk support is available by email at 
+cvr_il2_teams.fct(at)navy.mil.  The second section of this email address is 
+INDIA LIMA TWO.  Please limit email queries to those of the highest priority.
+
+8.  Request widest dissemination.  This NAVADMIN will remain in effect until 
+cancelled or superseded.
+
+9.  Released by VADM Matthew J. Kohler, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

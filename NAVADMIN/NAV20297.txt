@@ -1,0 +1,147 @@
+UNCLASSIFIED//
+ROUTINE
+R 041411Z NOV 20 MID200000322340U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+COMNAVIFOR SUFFOLK VA
+BT
+UNCLAS
+ 
+NAVADMIN 297/20
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+INFO CNO WASHINGTON DC//N2N6//
+COMNAVIFOR SUFFOLK VA//N13//
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/NOV//
+
+SUBJ/ENLISTED CYBER MASTER OF SCIENCE DEGREE OPPORTUNITY AT NAVAL 
+POSTGRADUATE SCHOOL//
+
+REF/A/INST/OPNAV/30JAN07//
+REF/B/INST/OPNAV/07JAN15//
+
+NARR/REF A IS OPNAVINST 1160.8A, SELECTIVE REENLISTMENT BONUS PROGRAM.
+REF B IS OPNAVINST 1520.23C, GRADUATE EDUCATION.//
+
+RMKS/1.  This NAVADMIN solicits enlisted Sailor applications for enrollment 
+in the Naval Postgraduate School (NPS) 15-month Master of Science in Applied 
+Cyber Operations (MACO) program.  This opportunity is one of many efforts to 
+increase Cyber capabilities for the Navy, while building a professional Cyber 
+workforce.
+
+2.  Selectees will be assigned to Navy-funded education as full-time students 
+under permanent change of station orders to Monterey, CA, with either a 
+September 2021 or March 2022 start.  As full-time students, Sailors will be 
+required to carry a full academic load year-round.  Degree requirements 
+should be completed in 15 months.
+
+3.  This program is only available to Active Duty and Full-Time Support 
+members in the Information Systems Technician (IT) and Cryptologic 
+Technician-Networks (CTN) ratings, who meet the following criteria:
+    a.  Must possess a Bachelor of Science degree in a relevant technical 
+field including, but not limited to, computer science, electrical 
+engineering, and information or engineering technology.  The degree must have 
+been awarded by an institution of higher learning, and accredited by a 
+regional accrediting agency recognized by the U.S. Department of Education.  
+To meet NPS academic requirements, performance in technical courses, 
+including mathematics, must be exemplary.
+    b.  Must be an E6 or above eligible for continental United States shore 
+assignment between April and December 2021 for the September 2021 start, or 
+between October 2021 and June 2022 for the March 2022 start.
+    c.  Must be eligible to incur a 5-year active-duty service obligation by 
+reenlistment or extension of enlistment prior to NPS enrollment.  Selectees 
+will be required to reenlist more than 1 year earlier, if they are unable to 
+satisfy the 5-year obligated service requirement.  Pursuant to reference (a), 
+payment of the selective reenlistment bonus is not authorized for selectees 
+who reenlist for the purpose of meeting the obligated service requirement.
+    d.  Must be within Physical Fitness Assessment (PFA) standards, with no 
+PFA failures within the last 3 years.
+    e.  Must have no evaluation marks below 3.0 within the last 5 years.
+    f.  Must hold, or be eligible for, a Top Secret/Sensitive Compartmented 
+Information (TS/SCI) clearance.  Applicants without a current TS/SCI 
+clearance are still encouraged to apply, but should work with their Special 
+Security Office (SSO) to initiate the clearance request.  Orders to NPS will 
+not be issued until TS/SCI clearance is finalized.
+    g.  Must possess a conditional letter of acceptance.  To obtain a 
+conditional letter of acceptance, applicants should apply to NPS at 
+http://www.nps.edu/academics/admissions/applyonline/applynow.html.  Once 
+registered, select Applied Cyber Operations, curriculum number 336.  Upon 
+application submission, applicants must arrange for submission of official 
+transcripts to the NPS admissions office from each institution attended for 
+all undergraduate and graduate education, as well as all Sailor/Marine 
+American Council on Education Registry Transcripts, or Joint Services 
+Transcripts.  NPS applications must be submitted to NPS no later than 31 
+December 2020.  Applicants will be notified by NPS via e-mail regarding their 
+conditional acceptance.
+
+4.  Upon selection, applicants must request (via Command Career Counselor) an 
+in -rate quota in the Career Waypoints (C-WAY) system.  Those not in their C-
+WAY window should submit a special circumstance application indicating reason 
+code of other.  The career counselor will be prompted to add a note 
+indicating selection to the Master of Science in Applied Cyber Operations 
+program.  If selected via special circumstance application, this program does 
+not guarantee award of an in-rate C-WAY quota, and is not considered part of 
+a performance indicator of the individual in the C-WAY process.
+
+5.  Before submitting MACO application, applicants should contact their 
+detailer to inform of intent to apply to the program, and to obtain a letter 
+of endorsement from detailer.  Potential impact to current assignment should 
+be considered.  Failure to consult with detailer prior to applying may result 
+in withdrawal of selection.  Graduation from the program will impact follow-
+on tour, and may result in limited detailing opportunities for future 
+assignments.
+
+6.  Graduates of the MACO program will earn the H07A Navy Enlisted 
+Classification (previously 2770-Applied Cyber Operations Master), and should 
+expect to serve in a utilization tour immediately following graduation.  For 
+ITs, utilization tours shall include operational (Cyber) shore billets and 
+sea billets, when available.  Further utilization for program graduates will 
+be appropriately balanced with other priorities, such as career progression, 
+sea /shore tour rotation, etc.
+
+7.  Applicants in receipt of a letter of conditional acceptance from NPS 
+should forward a written request for MACO selection via their Commanding 
+Officer.  The nomination template is posted to the Navy Information Warfare 
+Outreach Page on milSuite at https://www.milsuite.mil/book/docs/doc-526186 
+(common access card e -mail certificate login required).  The template 
+includes additional documents which must be included for consideration.
+
+8.  The Commanding Officer endorsement should address the preparedness for 
+this significant academic opportunity, ability to work independently, 
+communication skills, potential for increased responsibilities, and any 
+special considerations regarding the applicant.
+
+9.  Applications must be sent via encrypted e-mail or DOD SAFE
+(https://safe.apps.mil/) to NAVIFOR_MACO(at)navy.mil within 2 weeks of 
+notification of conditional acceptance by NPS.
+
+10.  Prior application submissions to this program do not disqualify an 
+applicant.  However, applicants who did not receive previous conditional 
+acceptance from NPS, and have no additional academic qualifications, should 
+not apply again, as the academic standards have not changed.
+
+11.  Selection results will be disseminated via official e-mail from a 
+NAVIFOR MACO Program Officer.  Due to the highly-competitive nature of this 
+program, notification of selection via official e-mail is a binding 
+commitment which selectees must accept or decline within 5 working days of 
+receipt.
+
+12.  Instructions to sign up for education program notification are available 
+at https://www.mnp.navy.mil/group/training-education-qualifications/
+e-graduate-education-and-fellowship-programs.
+
+13.  The point of contact for this program can be contacted via e-mail at 
+NAVIFOR_MACO(at)navy.mil.
+
+14.  This message will remain in effect until superseded, or 30 June 2022, 
+whichever occurs first.
+
+15.  Released by VADM Jeffrey E. Trussler, Deputy Chief Of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

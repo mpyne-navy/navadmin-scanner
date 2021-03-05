@@ -1,0 +1,55 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 172230Z FEB 21 MID600050280963U 
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N1// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 042/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/RESCINDING IMPLEMENTATION OF EXECUTIVE ORDER ON COMBATING RACE AND SEX 
+STEREOTYPING// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/061441ZNOV20// 
+REF/B/EXECUTIVE ORDER 13985/PRESIDENT/20JAN21// 
+REF/C/MEMO/SECDEF/29JAN21// 
+REF/D/MSG/SECNAV WASHINGTON DC/162345ZFEB21// 
+ 
+NARR/REF A IS NAVADMIN 300/20 IMPLEMENTATION OF EXECUTIVE ORDER 13950 ON 
+COMBATING RACE AND SEX STEREOTYPING. 
+REF B IS EXECUTIVE ORDER 13985 ON ADVANCING RACIAL EQUITY AND SUPPORT FOR 
+UNDERSERVED COMMUNITIES THROUGH THE FEDERAL GOVERNMENT. 
+REF C IS SECDEF MEMO RESCINDING IMPLEMENTATION OF EXECUTIVE ORDER ON 
+COMBATING RACE AND SEX STEREOTYPING MEMORANDUM 
+REF D IS ALNAV 011/21 CANCELLATION OF ALNAV 095/20// 
+ 
+RMKS/1.  This NAVADMIN cancels and replaces reference (a) and provides 
+updated policy guidance on inclusion and diversity training per references 
+(b) through (d). 
+ 
+2.  Effective immediately, Navy will resume all Inclusion and Diversity (I&D) 
+training.  There is no requirement for commands to submit training for review 
+by higher authority but OPNAV N17 welcomes the submission of commands I&D 
+training syllabus or summaries to the Office of Inclusion and Diversity at 
+ALTN_USN_INCLUSION_AND_DIVERSITY(at)navy.mil for archiving purposes. 
+ 
+3.  For questions concerning updated Navy Inclusion and Diversity policy, 
+contact the OPNAV N17 Office of Inclusion and Diversity at 
+ALTN_USN_INCLUSION_AND_DIVERSITY(at)navy.mil. 
+ 
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

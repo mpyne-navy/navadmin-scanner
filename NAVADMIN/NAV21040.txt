@@ -1,0 +1,105 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 172107Z FEB 21 MID600050280775U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS
+NAVADMIN 040/21
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/FY-22 COMMAND SENIOR CHIEF SENIOR ENLISTED LEADER BOARD RESULTS// 
+ 
+REF/A/DOC/CNO/20OCT20// 
+NARR/REF A IS OPNAVINST 1306.2J, COMMAND SENIOR ENLISTED LEADER PROGRAM.// 
+ 
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for assignment as a Command Senior Chief from the Command 
+Senior Enlisted Leader Board, which convened 1 February 2021:
+ 
+NAME (LAST FIRST MI)          RATE      PARENT COMMAND 
+ABEL MATTHEW T                CSCS      DDG 52 BARRY 
+AVALLONE MICHAEL G            MMCS      MARMC NORVA 
+BARCUS KISHA L                BMCS      JNT BASE PHH TPU 
+BARMAN ADAM W                 ETCS      TOC WHIDBEY IS 
+BLANCO LAURA                  HMCS      NMTSC ENL TR EL 
+CARMAN CHRISTOPHER J          AWOCS     VP 5 
+CHARLES MILLARD G             AOCS      HSC-12 
+CHRISTOPHER CARL              RSCS      CVN 78 FORD 
+CRUZDELOSSANTOS JOSELIN J     LSCS      NCTAMS PACW HI 
+DORTRAIT ANDRE                YNCS      VFA 2 
+DUCKSWORTH GROVER             MMCS      ATG MAYPORT 
+ENGLISH RICHARD III           OSCS      CSCS UNIT DNECK 
+FELIX JESUS A                 ITSCS     CNAVPERSCOM MILL 
+FORD KIMBERLY A               BMCS      CSCS DET E NRFK 
+GALARZA TODD J                MACS      SBASE K BAY SDET 
+GARCIA JORGE A                GSCS      COMLCSRON ONE 
+GWILT DANIEL W                MNCS      LCS CREW 112 
+HALL BENJAMIN A               MNCS      MIW DIV 22 
+HARDEMON JESSICA E            OSCS      DDG 87 MASON 
+HASSLER STEVEN G              MNCS      LCS CREW 205 
+HAYLOW MATTHEW C              MACS      CFA OKI SE 
+JIMENEZ MARCUS                LSCS      LCS CREW 212 
+JOHNSON KEITH K               ABFCS     LHA 6 AMERICA 
+JOHNSON LEDEZMAN A            RSCS      LSD 46 TORTUGA 
+JULIEN JOEZETTE D             HMCS      NMRTC NE D SARAT 
+KESTNER SHAUN L               HMCS      USNMRTC ROTA 
+KHORSHED MOHAMED K            EMCS      CNSS 5 
+LOZOYA JESUS A                NCCS      CG 65 CHOSIN 
+LYNCH BRUCE A                 ADCS      VFA 34 
+MAJORS BRANDON R              HTCS      LSD 50 CARTER H 
+MARRERO GRISEL                ITCS      SOUTHCOM JIC 
+MEJIA ANDRES R                MACS      MESG-1 TEU 
+MILES SETH A                  ISCS      CUS OPCONCEN 
+MULLENBERG JASON R            NCCS      NSSC PH 
+NELSON DEREK GEORGE           NCCS      TAOC DET LA 
+NEW EDMOND C III              ADCS      LHD 6 BONHOMME R 
+PARE EDWARD BENJAMIN          MACS      NRFK NS SEC DET 
+PERRAS CHRISTOPHER M          FCACS     COMSEVENTHFLT 
+PETERSON THOMAS W             HMCS      1ST REGT 1ST DIV 
+PICKLE PHILLIPP P             BMCS      NAVBASE VC PMUGU 
+PORTER MIKENDRA R             HMCS      USNMRTC OKINAWA 
+RAMIREZ VENA S                YNCS      COMUSFLTFORCOM 
+REECE DOUGLAS M               OSCS      DDG 54 C WILBUR 
+ROSS MATTHEW E                BMCS      CVN 76 RONALD REAGAN 
+SLADE CARLOS T                MACS      NS MAYPORT SECDT 
+SMITH JACKEY J                MCCS      CNR HAWAII 
+STUBBS DENNIS M               OSCS      NRD JAX FLA 
+SWINNEY CHRISTOPHER           HMCS      LPD 28 PCD NORVA 
+TAYLOR MICHAEL J              MNCS      LCS CREW 116 
+TURNER DAWN                   MMCS      NLEC DAM NECK 
+VALLE MANUEL                  HMCS      COMDESRON 15 
+VINES TERRY L                 BMCS      CNRSW 
+VOSBURG BRYON A               AWRCS     HSM-77 
+WOLFINGER IOANA L             HMCS      LSD 50 CARTER H 
+ 
+2.  Congratulations to the following Full-Time Support (FTS)/Selected Reserve 
+(SELRES) members who have been selected for assignment as a Command Senior 
+Chief: 
+
+NAME (LAST FIRST MI)          RATE      PARENT COMMAND 
+GRASSE AMY J                  ASCS      CMSW 
+OCONNELL WILLIAM R SR         HMCS      2ND NELR 
+SIMPKINS WILLIAMS J           AWFCS     CNAFR DET MILLIN 
+STIGALL CHARLES A             DCCS      NAVRTC SUP DET 
+ 
+3.  AC POC is CMDCM(SW/AW) William P. Houlihan, NAVPERSCOM PERS-40FF at  
+901-874-4560, DSN 882-4560, email william.houlihan(at)navy.mil. 
+SELRES POC is YNCS Michelle Lang, COMNAVRESFOR at 757-322-2432, DSN 
+262-2432, email michelle.m.lang1(at)navy.mil.  FTS POC is CMDCM(FMF/AW) 
+Darryl E. Williams, NAVPERSCOM PERS-4012C at 901-874-3257, DSN 882- 3257, 
+email darryl.e.williams(at)navy.mil. 
+ 
+4.  Selectees should contact their respective POC soonest to discuss 
+detailing opportunities. 
+ 
+5.  Released by Vice Admiral John B Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

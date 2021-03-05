@@ -1,0 +1,107 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 102127Z DEC 20 MID600050071280U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 320/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNP WASHINGTON DC/N1/DEC//
+
+SUBJ/IMPLEMENTATION OF NAVY ENLISTED CLASSIFICATION CODE N33Z IDENTIFYING 
+NUCLEAR ENGINEERING WATCH SUPERVISOR AND PROPULSION PLANT WATCH SUPERVISOR 
+QUALIFICATIONS//
+
+REF/A/DOC/OPNAV/15NOV16//
+
+NARR/REF A IS OPNAVINST 1220.1E, CHANGING OR REMOVING NAVY ENLISTED 
+CLASSIFICATION CODES FOR NUCLEAR PROPULSION PLANT PERSONNEL.//
+
+RMKS/1.  This NAVADMIN announces the implementation of the N33Z Navy enlisted 
+classification (NEC) code to document qualification as an engineering watch 
+supervisor (EWS) and propulsion plant watch supervisor (PPWS).
+
+2.  N33Z is a secondary NEC that is awarded after a Sailor qualifies EWS or 
+PPWS and will be used in conjunction with the Sailors primary NEC.
+
+3.  For Sailors to be assigned the N33Z NEC, the following is
+required:
+    a.  Submit a NAVPERS 1221/6 (NEC Change Request) signed by the commanding 
+officer (CO), or reactor officer (RO) on CVNs, requesting assignment of N33Z 
+NEC and the associated effective date in YYMM format.  By direction 
+signatures are not authorized.
+    b.  The *effective date* is defined as the year and month of the Sailors 
+initial qualification of EWS or PPWS.  The effective date shall be annotated 
+in block 12 of the NAVPERS 1221/6.
+    c.  COs, or ROs on CVNs, must verify the effective date of qualification 
+prior to submitting the NAVPERS 1221/6.
+    d.  For commands with multiple Sailors who are qualified EWS or PPWS, a 
+single NAVPERS 1221/6 shall be submitted with an attached letter signed by 
+the CO, or RO on CVNs.  This letter shall identify the applicable Sailors 
+names (last name, first name, middle initial), rates/ranks, social security 
+number, and the qualification effective dates.  *REF ATTACHED* must be 
+entered in blocks 3, 4 and
+5 of the NAVPERS 1221/6.
+    e.  No other documentation is required to be submitted to Nuclear 
+Enlisted Community Manager (OPNAV N133D).
+
+4.  For all future Sailors who qualify EWS or PPWS, a NAVPERS 1221/6 shall be 
+submitted to request assignment of the N33Z NEC.  COs, or ROs on CVNs, shall 
+verify the effective date is the qualification date and annotate the 
+effective date in block 12 of the NAVPERS 1221/6.
+
+5.  Submit all N33Z NEC requests to OPNAV N133D via e-mail to 
+bullnuke(at)navy.mil.
+
+6.  The N33Z NEC will be managed during re-qualifications as
+follows:
+    a.  Sailors shall nominally requalify within 6 months of reporting 
+onboard a submarine or CVN.
+    b.  ROs on CVNs shall determine the appropriate requalification time 
+periods for personnel to qualify PPWS for those who previously qualified EWS 
+on a submarine or a Nuclear Power Training Unit.
+    c.  The removal of N33Z should be recommended by a CO when the Sailor 
+fails to requalify in the allotted time described in paragraphs 6(a) or 6(b) 
+and after failing to complete any upgrade programs.  In these cases, the CO 
+must also address the disposition of the primary NEC (NEC N1XO/N2XO or 
+N1XS/N2XS) of the Service Member.  The removal of the N33Z NEC does not 
+require removal of the supervisor NEC of the Service Member for E-6 and below 
+personnel but will result in removal of all nuclear NECs for E-7 and above.  
+COs are required to submit a NAVPERS 1221/6 requesting removal of the N33Z.
+
+7.  The removal of NEC N33Z should be recommended when the CO considers the 
+Sailor no longer suitable to carry out the duties and responsibilities 
+associated with the N33Z NEC.  In these cases, the CO must also address the 
+disposition of the primary NEC (NEC N1XO/N2XO or N1XS/N2XS) of Service 
+Members.  The removal of the N33Z NEC does not require removal of the 
+supervisor NEC of Service Members for E-6 and below personnel but will result 
+in removal of all nuclear NECs for E-7 and above.  COs are required to submit 
+a NAVPERS 1221/6 requesting removal of the N33Z.
+
+8.  Points of contact: for all questions and concerns, commands and Sailors 
+should contact OPNAV N133D at (703)604-5491/DSN 664, (703)604-5492/DSN 664, 
+or via e-mail at bullnuke(at)navy.mil.
+
+9.  This NAVADMIN will remain in effect until reference (a) is revised.
+
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

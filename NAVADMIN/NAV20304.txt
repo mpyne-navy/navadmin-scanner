@@ -1,0 +1,275 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 182104Z NOV 20 MID200000393067U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 304/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/PHYSICAL READINESS PROGRAM POLICY CHANGES  CY2021 CYCLE, PLANK AND ROWER 
+MODALITIES//
+
+REF/A/MSG/CNO WASHINGTON DC/071628ZJUL20//
+REF/B/MSG/CNO WASHINGTON DC/051654ZSEP17//
+REF/C/DOC/OPNAV/11JUL11//
+
+AMPN/REF A IS NAVADMIN 193/20, PHYSICAL READINESS PROGRAM POLICY UPDATE FOR 
+PHYSICAL FITNESS ASSESSMENT CYCLE TWO 2020 DUE TO COVID-19 MITIGATION.  
+REF B IS NAVADMIN 141/17, PHYSICAL READINESS PROGRAM POLICY CHANGES.  
+REF C IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.//
+
+RMKS/1.  This NAVADMIN provides policy updates to references (a) through (c):
+    a.  Calendar Year 2021 Physical Readiness Program.  In order to continue 
+to mitigate COVID-19 impacts to the fleet, Navy will conduct one Physical 
+Fitness Assessment (PFA) cycle in calendar year 2021 from 15 March to 15 
+September 2021, dependent upon local conditions and operational requirements.  
+Shifting the PFA cycle to March allows Navy to execute the PFA after the 
+primary influenza season, while leveraging outdoor venues as the weather 
+warms for the conduct of the test.
+        (1) Echelon II Commanders may waive the PFA cycle 2021 requirements 
+if COVID-19 conditions prevent commanders from executing safely.
+            (a) This authority may be delegated no lower than first flag 
+officer in the chain of command.
+            (b) The *DEP/OP* non-participation reason shall be used when 
+COVID-19 conditions prohibit participation in the physical readiness test 
+(PRT) and body composition assessment (BCA) per enclosure (1), paragraph 2 of 
+reference (c).
+            (c) Conducting the BCA is strongly encouraged.
+        (2) Validation.  Local conditions permitting, all Sailors must 
+participate in PFA cycle 2021 (i.e., the excellent or above validation from 
+the previous cycle does not apply).  Service Members who meet the criteria 
+for *Validation* in PFA cycle 2021 as outlined in reference (b) will be 
+exempt from participation in PFA cycle one 2022.
+        (3) A new Physical Readiness Program (PRP) Guide 15, Conduct of the 
+Physical Fitness Assessment in COVID-19 Conditions, is available on the 
+Physical Readiness Program Website 
+(https://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/Guides.aspx) and will be 
+updated as Centers for Disease Control recommendations change.
+    b.  Group Physical Fitness Training.  Effective immediately, based upon 
+local conditions, Echelon II commanders may authorize group physical training 
+(command, department, division physical training, Fitness Enhancement Program 
+and spot check BCAs).  They may delegate this authority to the first flag 
+officer in the chain of command.
+    c.  Command Fitness Leader (CFL) Certification.  While Commander, Navy 
+Installations Command has resumed teaching the CFL Course, current CFL 
+certifications are extended until 30 September 2021 due to limited course 
+availability.  Commanders may designate former CFLs who were initially 
+certified after 1 January 2016, to act as CFLs until 30 September 2021.
+    d.  Means to Regain Eligibility from PFA Failures.  Since Navy is only 
+conducting one PFA cycle during 2021, all Sailors with PFA failures, 
+including those with two or more consecutive PFA failures, may regain 
+eligibility for advancement or retention by passing a mock or official PFA.
+    e.  Fitness Modalities.  New fitness modalities are implemented to 
+improve the physical readiness of Sailors in alignment with the Culture of 
+Excellence (COE).
+        (1)  PFA cycle 2021 will incorporate the forearm plank and 2000-meter 
+row.
+        (2)  Service Members who do not meet the minimum passing score for 
+the forearm plank modality will not receive a *fail* for the 2021 cycle PRT 
+only.  However, Service Members must still pass the BCA, the push-up and 
+cardio modalities of the PRT.  Failure to do so will result in a *fail* for 
+PFA cycle 2021.
+
+2.  A study conducted by Naval Health Research Center (NHRC) developed the 
+initial forearm plank and 2000-meter row PRT performance standards, which are 
+available in PRP Guides 5 and 10.
+
+3.  The forearm plank will replace curl-ups as the abdominal muscular 
+endurance assessment.
+    a.  NHRC determined that the forearm plank is a better test of core 
+strength and abdominal muscular endurance.  The repeated spinal flexion 
+movement of the curl-up is not operationally relevant, may aggravate lower-
+back injuries and does not appropriately challenge the abdominal musculature.
+    b.  The forearm plank incorporates an isometric contraction that 
+activates the abdominal and trunk muscles mimicking the main function of the 
+abdominal musculature by acting as stabilizers for the spine.
+    c.  The forearm plank is a functional exercise required in 85 percent of 
+shipboard tasks involving pushing, pulling, lifting and carrying.  Training 
+for the forearm plank will strengthen the core, improve posture and reduce 
+the risk of sustaining lower-back injuries throughout the career of a Sailor.
+
+4.  The 2000-meter row on the Concept-2 Rower will serve as another 
+alternate-cardio option in addition to the 12-minute stationary bike, 500-
+yard/450-meter swim and 1.5-mile treadmill run.
+    a.  The 2000-meter row is a non-weight bearing, low-impact exercise, 
+which reduces impact on the legs.  More importantly, rowing provides a full-
+body cardio workout engaging 80 percent of the musculature of the body.
+    b.  Similar to the stationary bike, the Concept-2 Rower is space saving 
+and can be used on any naval vessel or installation.
+    c.  Unlike the plank, the 2000-meter row is an alternative and therefore 
+a failing grade will be marked as a failure.
+
+5.  In line with reference (c) and PRP Guides, Service Members medically 
+cleared for the Navy PFA will participate in the BCA and PRT.
+    a.  The new PRT event sequence will be as follows:
+        (1) push-ups
+        (2) forearm plank
+        (3) cardio or alternate cardio
+    b.  Unlike the curl-up event, both push-ups and the forearm plank 
+exercise require overlapping and similar muscle groups.
+        (1) During the study to develop the new forearm plank standards, 
+push-ups were conducted first and the forearm plank was conducted second.
+        (2) This sequence of events permits maximal performance on the push-
+ups and the forearm plank accounting for any residual fatigue from push-up 
+execution.
+
+6.  Proper procedures for conducting the forearm plank:
+    a.  There will be no more than eight Sailors to one CFL or Assistant 
+Command Fitness Leader (ACFL) when performing the forearm
+plank.   Additionally, each Sailor performing the forearm plank will
+have a partner who will monitor the Service Member for proper form.
+[Note:  Recruit and Officer Training Commands have the authority to determine 
+the correct monitor to recruit/candidate ratio that most effectively ensures 
+the integrity of the event given the number of recruits/candidates 
+participating and the instructor staff available.]
+    b.  CFL/ACFL will record time with a stopwatch to the nearest second and 
+will announce the start, as well as 15-second intervals.
+Cellphone stopwatches are prohibited to prevent user error.
+    c.  The forearm plank will be performed on a flat, level surface.  
+Blankets, mats or other suitable padding may be used.
+However, the Service Member must be entirely on or off the padding (i.e., 
+upper body of the Service Member cannot be on the padding with feet off).  
+The event will consist of maintaining a proper forearm plank position for the 
+maximum time allowed.
+    d.  Service Member will begin face down on the deck with elbows bent, 
+forearms flat on deck and the body in a straight line through the head, 
+shoulders, back, buttocks and legs.
+    e.  Elbows must be aligned directly below the shoulders at a 90- degree 
+angle between the forearm and upper arm.  Hands will either be in fists with 
+the pinky side of the hand touching the deck or lying flat with palms 
+touching the deck.  Forearms may be parallel or angled inward, but the hands 
+cannot be clasped together.
+    f.  Feet should be placed hip-width apart.  Hips must be lifted off the 
+deck with only the forearms, hands and toes on the deck.
+    g.  Knees are straight, pelvis in a neutral position and back flat.  The 
+back, buttocks and legs must remain straight from head to heels and must 
+remain so throughout the test.
+    h.  The head and neck should be kept neutral (face looking straight down 
+at the deck) throughout the duration of the test so that the body remains 
+straight from the head to the heels.
+    i.  Toes, forearms and fists or palms must remain in contact with the 
+deck at all times. No part of the body of the Service Member may contact a 
+vertical support surface.
+    j.  Involuntary muscle spasms (e.g., shaking, trembling or quivering) 
+resulting from maximum exertion during the exercise is anticipated and 
+permitted as long as the proper forearm plank position is maintained.
+    k.  Forearm plank event ends when:
+        (1) Maximum time for the forearm plank has elapsed or until the last 
+participant stops prior to the maximum time allowed.
+        (2) Any part of the body other than hands/fists, forearms or feet 
+touch the deck.
+        (3) Service Member lowers head to hands.
+        (4) Service Member lifts hands, forearms or feet off the deck.
+        (5) Service Member does not maintain 90 degrees at the elbow (i.e., 
+Service Member shifts weight forward or back on forearms/toes decreasing or 
+increasing the 90-degree bend).
+        (6) Service Member receives more than two corrections on form.  On 
+the third correction on form, the CFL/ACFL will stop the Service Member and 
+record the time.  This will be the official forearm plank time (score) of the 
+Service Member.
+
+7.  Proper procedures for conducting the 2000-meter alternate cardio row on 
+approved Concept-2 Rowers (Models D and E only):
+    a.  Personnel who intend to use the rower for the PRT are required to 
+train and familiarize themselves on the approved Concept-2 rower, as 
+identified in PRP Guide 10, to ensure they are meeting their goals.
+    b.  This event is a timed 2000-meter row.  The CFL/ACFL must conduct the 
+rowing test as follows:
+        (1) Obtain authorization for alternate cardio options from the 
+Commanding Officer/Officer-In-Charge for the current PFA cycle.
+        (2) Practice safety, setup, start, stop and test procedures on each 
+individual machine prior to conducting any official test.
+        (3) Ensure the Service Member has practiced on the Concept-2 rower 
+machine used for the test and is familiar with all safety requirements.
+        (4) Instruct Service Member to set damper setting of their choice on 
+the flywheel.  Service Member will not be able to adjust the damper setting 
+while conducting the test.
+        (5) Instruct Service Member to sit on rower machine.
+            (a) Adjust the footplate placements and secure feet using 
+adjustable straps.  The foot straps should be secured at the widest portion 
+of the foot to permit freedom of movement of the heel during rowing.
+            (b) The Service Member should grasp the handle with both hands 
+and place along the outer edge of the handle.  Once the Service Member begins 
+pulling on the handle, he or she should remain in constant and continuous 
+motion (to prevent inadvertent monitor cut-off, which would result in a test 
+graded as a failure) until the 2000-meter test is complete.
+        (6) The CFL/ACFL will program the rowing machine performance monitor 
+with the following items:
+            (a) From the main menu of the performance monitor, press the 
+*Select Workout* button.
+            (b) Press the *Standard List* button and then select
+*2000 m*.
+            (c) Press Change Display until the top line shows
+*2000m|0 s/m*, the third line will show the overall elapsed time
+(00:00) and the bottom line will show the projected finish time.
+        (7) The event begins when the CFL/ACFL gives the command *Start*.  
+Time starts automatically on the rowing performance monitor display when the 
+member starts rowing.  The rowing distance display counts down from *2000 m* 
+to *0 m*.
+        (8) Once Service Member reaches *0 m*, the CFL/ACFL announces and 
+records elapsed time from performance monitor rounding the time to the 
+nearest whole second (0.4 and lower, round down; 0.5 and higher, round up).
+        (9) The Service Member begins the test by pressing with their legs 
+and moving entire body away from the performance monitor.
+        (10) The rower event ends when the participant:
+            (a) Completes 2000-meters.
+            (b) Stops rowing for a period long enough that the monitor turns 
+off.
+        (11) If Service Member does not complete the rower portion of the 
+PRT, other than for injury, the time will be recorded as
+59:59 and scored as failed.  In the event the Service Member would like to 
+participate in the Bad Day PRT, Service Member must be cleared by medical 
+prior to CO approval.
+
+8.  To assist CFL/ACFLs and members participating in the Navy PFA, the new 
+standards, tutorial videos, PRP Guides and other training resources are 
+available on the Navy Physical Readiness Program website 
+(https://www.public.navy.mil/bupers-
+npc/support/21st_Century_Sailor/physical/Pages/default2.aspx).
+    a.  Videos which demonstrate the proper form and testing procedures for 
+the forearm plank and 2000-meter row for Service Members and CFLs/ACFLs will 
+also be available on the Navy Physical Readiness Program website.
+    b.  Service Members can prepare for the new PRT events by regularly 
+participating in a well-rounded physical fitness routine outlined in 
+reference (a).  The Navy Operational Fitness and Fueling System (NOFFS) 
+provides the Navy with physical fitness and nutrition information for Sailors 
+allowing the Navy to maintain peak physical readiness and reduce injury risk.  
+NOFFS workouts can be accessed via four mobile applications (NOFFS-
+Operational, Strength, Endurance and Sandbag) which can be downloaded for 
+free using your smartphone app store.  Within the NOFFS platform, planks are 
+referred to as *pillar bridges.*
+
+9.  Commander, Naval Service Training Command may delegate authority to unit 
+commanders to decide exactly when to switch to the new PRT based on their 
+accession missions.
+
+10.  For additional information, contact the Physical Readiness Program at 
+(901) 874-2210/DSN 822 or via e-mail at PRP(at)navy.mil.
+
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+12.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

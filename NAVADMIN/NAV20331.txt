@@ -1,0 +1,64 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 221441Z DEC 20 MID200000461815U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 331/20
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/NAVY SYSTEM AUTHORIZATION ACCESS REQUEST-NAVY (SAAR-N) RECIPROCITY//
+
+REF/A/MEMO/DONCIO/25FEB18//
+
+REF/B/INST/OPNAV/18JUL18//
+
+NARR/REF A IS DEPARTMENT OF NAVY CHIEF INFORMATION OFFICER MEMORANDUM FOR 
+ACCEPTBALE USE OF INFORMATION TECHNOLOGY.  
+REF B IS OPNAVINST 5239.1D - INSTRUCTION FOR U.S. NAVY CYBERSECURITY 
+PROGRAM.// 
+POC1/SUSAN BRYERJOYNER/RMDL/OPNAV/N2N6D/EMAIL: SUSAN.BRYERJOYNER1(AT)NAVY.MIL
+/TEL:  (571) 256-8422//
+POC2/BROOKE ZIMMERMAN/CIV/OPNAV/N2N6D6/EMAIL:  BROOKE.ZIMMERMAN(AT)NAVY.MIL
+/TEL:  (571) 256-8521//
+
+RMKS/1.  This NAVADMIN authorizes System Authorization Access Request-Navy 
+(SAAR-N) reciprocity between Navy commands to streamline the network access 
+process.  Per references (a) and (b), all Department of the Navy (DON) 
+Information Technology (IT) users shall have an approved SAAR-N on file prior 
+to being granted access to networks, systems or applications.  This allows 
+acceptance of a SAAR-N issued by the current command of a user to approve 
+access on another commands network, system, or application of the same or 
+lower classification level and need-to-know status.
+
+2.  Reciprocity is a mutual agreement among participating enterprises to 
+accept each others security assessments in order to reuse IT resources and to 
+accept each others assessed security posture to share capabilities.  Until a 
+central repository is established for SAAR-N forms, commands will accept 
+reciprocity at the command-level.
+
+3.  Users who require access to systems that have additional need-to-know 
+requirements or are of a higher level of security clearance than is reflected 
+in the existing SAAR-N will require additional documentation or a new SAAR-N.
+
+4.  This NAVADMIN will remain in effect until changes have been incorporated 
+into OPNAVINST 5239.1D.
+
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

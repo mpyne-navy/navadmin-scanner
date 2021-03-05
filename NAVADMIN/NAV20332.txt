@@ -1,0 +1,118 @@
+UNCLASSIFIED//
+ROUTINE
+R 211920Z DEC 20 MID200000457472U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 332/20
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/EXPANDED OPERATIONAL STRESS CONTROL//
+
+REF/A/MSG/OPNAV/301310ZSEP19//
+REF/B/DOC/OPNAV/101920ZDEC20//
+REF/C/DOC/OPNAV/24JULY17//
+REF/D/DOC/N17/26JUN18//
+REF/E/DOC/OPNAV/14JUN16//
+
+NARR/REF A IS NAVADMIN 222/19, OPERATIONAL STRESS CONTROL POLICY UPDATE.  
+REF B IS NAVADMIN 318/20, THE CULTURAL CHAMPION NETWORK.
+REF C IS OPNAVINST 5354.1G, NAVY EQUAL OPPORTUNITY PROGRAM MANUAL.
+REF D IS OPNAVINST 6520.1A, OPERATIONAL STRESS CONTROL PROGRAM (OSC).  
+REF E IS THE COMMAND RESILIENCE TEAM (CRT) GUIDE.
+
+RMKS/1.  This NAVADMIN announces the phased roll-out of the Expanded 
+Operational Stress Control (E-OSC) Program announced in reference (a).
+
+2.  Background.  In October 2019, reference (a) introduced a new approach to 
+the OSC Program called E-OSC, a peer-to-peer, primary prevention program for 
+stress mitigation.  The E-OSC Program was developed by the Naval Center for 
+Combat and Operational Stress Control in concert with the 21st Century Sailor 
+Office (OPNAV N17) and combines the principles of OSC and mind, body and 
+resilience training.
+
+3.  Purpose.  Research has shown the need for stress management and 
+optimization is more pronounced following deployment as Sailors return home 
+and reintegrate into their families and life ashore.
+The E-OSC Program is designed to inform and empower Sailors, to identify 
+signs of distress and difficulty coping within themselves and others, as well 
+as to know where to turn for help.
+
+4.  Approach.  In line with reference (b), the E-OSC Program will leverage 
+command resilience teams (CRT) and engaged deckplate leaders to provide more 
+accessible, collaborative resources and real-time assessments of unit culture 
+to promote healthy command climates and mitigate challenges from common 
+stressors like relationships, career transitions, disciplinary or legal 
+issues, performance issues and financial strain.  By adopting the principles 
+of primary prevention and human factors process, CRTs are empowered to 
+monitor, assess and provide recommendations to support and connect Sailors to 
+resources to learn and grow from the challenges they face.  This approach 
+will give CRTs greater capability and responsibility to assess the overall 
+well-being, morale and stress level of the command.
+
+5.  Implementation.  The E-OSC Program will be implemented in two phases.  In 
+line with reference (b), the executive officer or second senior officer is 
+the chairman of the CRT, tasked with enforcing these requirements.
+    a.  Phase one includes the following:
+        (1) Effective 1 January 2021, command indoctrination will include a 
+video that introduces the stress continuum and core leader functions of the 
+E-OSC Program to Sailors.  A link to the video can be found on the Culture of 
+Excellence page via MyNavy Portal at https://www.mnp.navy.mil/group/sailor-
+and-family-support under the 21st Century Sailor tab, then Culture of 
+Excellence.  This video should also be presented at command safety standdowns 
+to ensure that all hands receive this overview of the E-OSC Program.
+        (2) Additionally, short (less than 1 minute), informational videos 
+that demonstrate the E-OSC Program stress optimization strategies are 
+available to commands.  These videos may be used as an introduction to all-
+hands training, departmental or divisional training or placed on the social 
+media pages or intranet of commands.  A link to the videos can be found on 
+the Culture of Excellence page via MyNavy Portal at 
+https://www.mnp.navy.mil/group/sailor-and-family-support under the 21st 
+Century Sailor tab, then Culture of Excellence.
+        (3) In line with reference (b), all CRT members will receive an 
+overview of the E-OSC Program in the basic training for primary prevention 
+and human factors process online course available at https://erau.edu/navy-
+crt-training.  To register for training, members must enter code 8LKE79.  The 
+training is available now.
+    b.  Phase two includes the following:
+        (1) Commanders will be required to designate command E-OSC team 
+leaders (TL) (E-7 and above) and assistant team leaders (ATL)
+(E-6 and above) who will be required to complete the E-OSC trainer course.  
+The E-OSC TL and ATL shall have at least 1 year remaining at the command.  
+Navy-wide E-OSC TL and ATL training will be conducted from July through 
+December 2021.  Details on this training will be provided via separate 
+correspondence no later than May 2021.
+Once the E-OSC TL and ATL of a unit have been trained, they can begin 
+implementing the E-OSC Program at their command with support from the CRT, 
+utilizing references (c) through (e).
+        (2) No later than January 2022, commands must have established an 
+E-OSC Program.
+
+6.  Additional information and policy requirements will be provided when the 
+E-OSC Program is released for Navy-wide implementation in January 2022.  
+Reporting requirements will track frequency and effectiveness of the E-OSC 
+Program.
+
+7.  Points of contact are CAPT Michael Hall, who can be reached at
+(703) 604-1027 or via e-mail at Michael.e.hall5(at)navy.mil or Mr.
+Daryl Charles, who can be reached at (901) 874-6926/DSN 882 or via e-mail at 
+daryl.charles(at)navy.mil.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+9. Released by VADM John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+

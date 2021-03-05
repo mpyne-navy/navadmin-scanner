@@ -1,0 +1,65 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 141556Z DEC 20 MID600050082922U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 322/20
+
+MSGID/NAVDMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/ENFORCEMENT OF THE NAVY AND MARINE CORPS INTRANET (NMCI) WINDOWS 10 
+VERSION
+1909 OPERATING SYSTEM UPGRADE//
+
+REF/A/OPORD/FLTCYBERCOM/070227ZAUG20//
+REF/B/EXORD/FLTCYBERCOM/101530ZAUG20//
+REF/C/FRAGORD/FLTCYBERCOM/242050ZNOV20//
+
+NARR/REF A IS FLTCYBERCOM OPORD 20-057 WHICH PROVIDES TASKING AND SEQUENCING 
+FOR THE PHASED OPERATIONAL MANEUVER OF THE NMCI ENTERPRISE NETWORKS TO 
+WINDOWS 10, VERSION 1909.  
+REF B IS THE FLTCYBER EXORD DIRECTING THE EXECUTION OF REF A.
+REF C IS THE FLTCYBER FRAGORD DIRECTING TRANSITION FROM 1909 SELF SERVICE 
+UPGRADE TO ENTERPRISE ENFORCEMENT// 
+POC/PMW 205 WIN 10 COORDINATION CENTER/TEL: (703) 695-8925/E-MAIL:
+WIN10COORDINATIO.FCT(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN reinforces the Fleet Cyber Command (FLTCYBERCOM) 
+direction, outlined in references A-C, to upgrade Navy and Marine Corps 
+Intranet (NMCI) workstations to Windows 10 Version 1909 (v1909).  As of 
+2300z,11 December, all workstations (NIPR and SIPR) that were not upgraded to 
+v1909 and have been offline for more than 90 days will be placed in 
+quarantine preventing access to network resources.  These assets will remain 
+in quarantine until successfully upgraded to v1909.  This enforcement does 
+not apply to embarkable workstations.
+
+2.  For workstations that have been offline for more than 90 days, commands 
+are required to immediately connect, turn on, and login allowing automatic 
+placement into quarantine for updating.  Once the v1909 upgrade is complete, 
+the workstations automatically return to the network and are available for 
+use.
+
+3.  NMCI workstations identified as no longer required must be returned by 
+the Contract Technical Representative (CTR) to prevent the Navy from funding 
+assets no longer in active use.
+
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
