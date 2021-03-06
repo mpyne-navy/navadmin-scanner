@@ -4,6 +4,7 @@ use Mojolicious::Lite;
 use Mojolicious::Validator;
 
 use File::Glob;
+use List::Util qw(min);
 
 my %navadmin_by_year;
 my %navadmin_subj;
@@ -47,12 +48,29 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
 
 get '/' => sub {
     my $c = shift;
+
+    # Figure out number of NAVADMINs by year so we can render the yearly list
     my $year_counts = {
         map { ($_, scalar keys %{$navadmin_by_year{$_}}) } @SORTED_YEARS,
     };
+
+    my $latest_year = $SORTED_YEARS[0];
+    my $two_digit_year = sprintf("%02d", $latest_year % 100);
+
+    # Find the most recent messages in the current year to display them first
+    my $msg_bounds = min($year_counts->{$latest_year}, 8) - 1;
+    my @last_eight_ids = (reverse sort keys %{$navadmin_by_year{$latest_year}})[0..$msg_bounds];
+    my @last_eight = @navadmin_subj{map { "$_/$two_digit_year" } @last_eight_ids};
+    my $last_eight = [map { {
+        id    => $_,
+        twoyr => $two_digit_year,
+        subj  => $navadmin_subj{"$_/$two_digit_year"}
+    } } @last_eight_ids];
+
     $c->render(template => 'index',
-        years => \@SORTED_YEARS,
+        years       => \@SORTED_YEARS,
         year_counts => $year_counts,
+        last_eight  => $last_eight,
     );
 };
 
@@ -175,9 +193,25 @@ __DATA__
   </ul>
 </nav>
 
+<div class="content">
+
 <h1 class="title">NAVADMIN Viewer</h1>
 
-<div class="content">
+<h2>Most Recent Eight</h2>
+
+<ul>
+% for my $entry (@{$last_eight}) {
+%   my $id = $entry->{id};
+%   my $twoyr = $entry->{twoyr};
+    <li><a href="<%= url_for('serve-navadmin', { id => $id, twoyr => $twoyr }) %>">
+            <span class="tag"><%= "$id/$twoyr" =%></span>
+            <%= $entry->{subj} %>
+        </a>
+    </li>
+% }
+</ul>
+
+<h2>List of all NAVADMINs per year</h2>
 
   <table class="table is-striped is-bordered is-hoverable">
     <thead>
