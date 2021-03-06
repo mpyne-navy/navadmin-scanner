@@ -17,7 +17,7 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
     my ($twoyr, $id) = ($file =~ m/^NAVADMIN\/NAV([0-9]{2})([0-9]{3})\.txt$/);
 
     if (!($twoyr && $id)) {
-        say "Skipping $file!";
+        app->log->debug("Skipping $file!");
         next;
     }
 
