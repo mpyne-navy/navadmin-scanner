@@ -47,7 +47,13 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
 
 get '/' => sub {
     my $c = shift;
-    $c->render(template => 'index', years => \@SORTED_YEARS);
+    my $year_counts = {
+        map { ($_, scalar keys %{$navadmin_by_year{$_}}) } @SORTED_YEARS,
+    };
+    $c->render(template => 'index',
+        years => \@SORTED_YEARS,
+        year_counts => $year_counts,
+    );
 };
 
 get '/about' => sub {
@@ -171,15 +177,30 @@ __DATA__
 
 <h1 class="title">NAVADMIN Viewer</h1>
 
-This server has NAVADMINs on file for the following years:
-
 <div class="content">
-  <ul>
+
+  <table class="table is-striped is-bordered is-hoverable">
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Number of NAVADMINs</th>
+      </tr>
+    </thead>
+
+    <!-- URLs here based on format supported by 'serve-navadmin' route -->
+    <tbody>
 % for my $year (@{$years}) {
-    <li><a href="<%= url_for('list-by-year', {year => $year}) %>">Listing for <%= $year %></a>.</li>
+% my $count = $year_counts->{$year};
+      <tr>
+        <td><%= $year %></td>
+        <td><a href="<%= url_for('list-by-year', { year => $year }) %>">
+                <b><%= $count %></b> NAVADMINs on file
+            </a>
+        </td>
+      </tr>
 % }
-    <li><a href="<%= url_for('list-all') %>">All NAVADMINs</a></li>
-  </ul>
+    </tbody>
+  </table>
 </div>
 
 @@ show-navadmin.html.ep
