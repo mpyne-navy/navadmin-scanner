@@ -192,7 +192,11 @@ This server has NAVADMINs on file for the following years:
 % content_for header_meta => begin
     <meta property="og:title" content="<%= qq(NAVADMIN $id/$twoyr) %>" />
     <meta property="og:type" content="website" />
-    <!-- og:image is required but I don't have an image or logo -->
+    <meta property="og:image" content="/img/social-graph-logo.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="961" />
+    <meta property="og:image:height" content="482" />
+    <meta property="og:image:alt" content="Picture of title page of 1913 series Navy General Orders" />
     <meta property="og:url" content="<%= url_for()->to_abs %>" />
     <meta property="og:description" content="<%= $navadmin_title %>" />
     <meta property="og:locale" content="en_US" />
