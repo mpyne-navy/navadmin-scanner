@@ -294,6 +294,17 @@ This server has NAVADMINs on file for the following years:
     <link rel="stylesheet" href="/css/bulma.css">
     <link rel="icon" href="/img/Nautical_star.svg">
     <%= content 'header_meta' %>
+    <style>
+    body {
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+    }
+
+    .section {
+      flex: 1; /* Fill up all space before footer to force footer to end */
+    }
+    </style>
   </head>
   <body>
   <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
@@ -356,6 +367,15 @@ This server has NAVADMINs on file for the following years:
       <%= content %>
     </div>
   </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>This site is an <strong>UNOFFICIAL</strong> copy of the <a
+      href="https://www.mynavyhr.navy.mil/References/Messages/">U.S. Navy NAVADMIN messages site</a>.
+      It is intended as a convenience for users but you should confirm from the source reference
+      before doing anything important.
+    </div>
+  </footer>
 
   <!-- Toggle visibility of mobile menu -->
   <!-- See https://bulma.io/documentation/components/navbar/ -->
