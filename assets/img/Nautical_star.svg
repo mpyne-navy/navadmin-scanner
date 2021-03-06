@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="899" height="855" viewBox="-952.0075728 -1001 1904.0151456 1810.8260114">
+  <title>3D (Nautical) Star</title>
+  <metadata><rdf:RDF><cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>3D (Nautical) Star</dc:title>
+  </cc:Work></rdf:RDF></metadata>
+  <path d="M0,-1000L-587.7852523,809.0169944L951.0565163,-309.0169944H-951.0565163L587.7852523,809.0169944Z"/>
+  <path style="fill:#ffffff" id="Trng" d="M0,0V-909.15L-204.1168925,-280.9428004Z"/>
+  <use xlink:href="#Trng" transform="rotate(72)"/>
+  <use xlink:href="#Trng" transform="rotate(144)"/>
+  <use xlink:href="#Trng" transform="rotate(216)"/>
+  <use xlink:href="#Trng" transform="rotate(288)"/>
+</svg>

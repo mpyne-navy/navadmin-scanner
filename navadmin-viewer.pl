@@ -292,6 +292,7 @@ This server has NAVADMINs on file for the following years:
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><%= title %></title>
     <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="icon" href="/img/Nautical_star.svg">
     <%= content 'header_meta' %>
   </head>
   <body>
