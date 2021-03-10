@@ -1,0 +1,31 @@
+name: Deploy to Fly
+
+# When the action runs
+on:
+  push:
+    branches: [ master ]
+
+  # Allows the workflow to be manually triggered
+  workflow_dispatch:
+
+  # And re-run daily
+  schedule:
+    - cron: "0 2 * * 1-5"
+
+env:
+  # How fly.io knows it's the right us
+  FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+
+# What to actually do in the workflow
+jobs:
+  deploy:
+    name: Deploy Job
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out the repo to $GITHUB_WORKSPACE
+      - uses: actions/checkout@v2
+
+      # Runs the deploy, provided by fly.io
+      - uses: superfly/flyctl-actions@1.1
+        with:
+          args: "deploy"
