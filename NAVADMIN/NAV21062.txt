@@ -1,0 +1,98 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 152025Z MAR 21 MID600050377833U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 062/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N2N6//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/MAR//
+
+SUBJ/RISK MANAGEMENT FRAMEWORK STANDARD OPERATING PROCEDURES (SOP)//
+
+REF/A/DOC/DDCIO(N)/2SEP20//
+
+AMPN/REF A IS DEPARTMENT OF NAVY DEPUTY COMMAND INFORMATION OFFICER (NAVY)
+(DDCIO(N)) UNITED STATES NAVY RISK MANAGEMENT FRAMEWORK PROCESS GUIDE V3.2.
+POC:  MEGAN CANE/GS14/N2N6D6/MEGAN.CANE(AT)NAVY.MIL//
+
+RMKS/1.  This NAVADMIN updates reference (a) and will remain in effect until 
+cancelled or superseded.
+
+2.  This NAVADMIN releases the Risk Management Framework (RMF) Standard 
+Operating Procedures (SOPs) in alignment with reference (a) for RMF Step 2, 
+RMF Step 4, and RMF Step 5 and is applicable to all United States Navy (USN) 
+systems under Navy Authorizing Official (NAO) and Functional Authorizing 
+Official (FAO) authorities.
+
+3.  To standardize, streamline, automate reviews, and improve quality of 
+products used for the RMF review process, Deputy Chief of Naval Operations
+(DCNO) N2N6, in coordination with key Navy Subject Matter Experts (SME), 
+developed a series of SOPs aligned with reference (a) to be used by the Navy 
+RMF community, specifically each Package Submitting Office (PSO) and Security 
+Control Assessor (SCA).  These SOPs provide a centralized and consolidated 
+source of requirements that RMF practitioners and their respective RMF 
+projects and packages must meet to achieve an AO authorization.
+
+4.  The SOPs are comprised of a list of requirements, recommended standard 
+language for feedback to the practitioner, and references for each item.  
+Completed SOPs must be fed through the comment generator within the 
+automation tool eMASSter.  This will create a standardized report that 
+captures any findings and provides comments to the program.  If the report 
+shows no findings, it must still be provided as part of the package as it 
+moves to the next step in the review process.  Packages submitted without 
+this SOP report will not be processed in the next step of review.
+
+5.  A two-hour training session on how to utilize the SOPs will be offered to 
+the Echelon II PSOs weekly for four weeks after the release of this message.  
+Initial training sessions will be organized and hosted by the Office of the 
+Chief of Naval Operations (OPNAV) N2N6D6 after the release of this message.  
+Training will continue to be offered quarterly to train new
+personnel.    Training resources will also be available on the RMF portal at
+the link shown in paragraph 9 of this NAVADMIN.
+
+6.  SOP change requests shall be submitted to the SOP inbox:  don_rmf 
+_sops.fct(at)navy.mil.  These requests will follow an approved Configuration 
+Control Board (CCB) process with FAO, NAO, and SCA representation under the 
+cognizance of OPNAV N2N6D6.  This board will meet approximately every six 
+weeks to review requested changes or on an as needed basis for urgent 
+requests.  Changes and/or additions to the SOPs outside of this process are 
+not authorized.  RMF package reviewers shall allow a 45-day grace period 
+after the release of a new SOP for packages already under review.
+
+7.  Effective 45 days after the release of this message, every PSO must 
+require use of the Step 2 and Step 5 SOPs prior to submitting an RMF package 
+for decision.
+
+8.  Effective 45 days after the release of this message, the SCA and 
+Functional Security Control Assessor (FSCA) or their appointed liaisons must 
+use the Step
+4 SOP prior to approving a Security Assessment Plan (SAP) and/or signing a 
+Security Assessment Report (SAR).
+
+9.  The SOPs and eMASSter tool are located at:  
+https://portal.secnav.navy.mil 
+/orgs/OPNAV/N2N6/DDCION/N2N6BC4/RMF/Shared%20Documents/Forms/AllItems.aspx 
+and will be maintained on this site.
+
+10.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
