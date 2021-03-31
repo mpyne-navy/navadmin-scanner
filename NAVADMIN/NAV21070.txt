@@ -1,0 +1,98 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 311611Z MAR 21 MID200000756466U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 070/21
+
+MSGID/GENADMIN/CNO WASHINGTON DC/CNO/MAR//
+
+SUBJ/SARS-COV-2 VACCINATION AND REPORTING POLICY (UPDATE 1)//
+
+REF/A/DOC/DHA/DHA-IPM/13DEC2020//
+REF/B/DOC/DOD/23JUL2019//
+REF/C/DOC/32 CFR PART 199.21/01DEC2016//
+REF/D/DOC/FDA/EUA/11DEC2020
+REF/E/DOC/CDC/DOC/13DEC2020
+REF/F/DOC/OUSD/12DEC2020
+REF/G/MSG/OPNAV/042056ZNOV20
+REF/H/DOC/OPNAV/04MAR2021
+REF/I/MSG/OPNAV/161751ZDEC20
+
+NARR/REF A IS THE DEFENSE HEALTH AGENCY INTERIM PROCEDURES MEMORANDUM
+20-004 DEPARTMENT OF DEFENSE (DOD) CORONAVIRUS DISEASE 2019 (COVID-19) 
+VACCINATION IMPLEMENTATION PROGRAM.
+REF B IS THE DODI 6025.02 INDIVIDUAL MEDICAL READINESS ADDRESSING 
+RESPONSIBILITIES AND PROCEDURES FOR MONITORING INDIVIDUAL MEDICAL READINESS.
+REF C IS 32 CFR PART 199.21, CIVILIAN HEALTH AND MEDICAL PROGRAM OF THE 
+UNIFORMED SERVICES (CHAMPUS)/TRICARE:  TRICARE PHARMACY BENEFITS PROGRAM.
+REF D IS THE FOOD AND DRUG ADMINISTRATION EMERGENCY USE AUTHORIZATION (EUA).
+REF E IS THE ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES INTERIM 
+RECOMMENDATION FOR USE OF PFIZER-BIONTECH COVID-19 VACCINE UNITED STATES, 
+DECEMBER 2020.
+REF F IS THE DEPARTMENT OF DEFENSE CORONAVIRUS-2019 VACCINATION PLAN (DOD
+COVID-19 VACCINE PLAN).
+REF G IS THE U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL GUIDANCE VERSION 
+4.0.
+REF H IS THE UPDATED DOD AND NAVY POPULATION SCHEMA FOR VACCINATION PRIORITY 
+VERSION 3.4 
+REF I IS THE SARS-COV-2 VACCINATION AND REPORTING POLICY.// POC/ COVID-19 
+CRISIS ACTION TEAM /(703)681-1125/
+
+EMAIL:  USN.NCR.BUMEDFCHVA.MBX.BUMED-2019-NCOV-RESPONSE-CELL(AT)MAIL.MIL.
+
+RMKS/1.  This NAVADMIN updates vaccine eligibility for Service members and 
+their dependents executing an overseas permanent change of station (PCS).  
+This change is in accordance with the updated DOD Population Schema (REF H) 
+and modifies (REF I) to modify para 3.c and add para 3.g as follows:
+Change paragraph 3.c:
+Quote
+
+3.c. SARS-CoV-2 Vaccine Priority.  The basic DOD schema is:
+Tier 1a:  Healthcare and Emergency Service personnel.
+Tier 1b:  Critical national capabilities, personnel forward deployed to 
+austere locations, personnel preparing to deploy overseas, beneficiaries 75-
+years-old and above.
+Tier 1c:  Beneficiaries between 64 and 75-years-old, high-risk beneficiaries, 
+personnel deployed/TDY OCONUS for over 30 days, essential workers not 
+previously mentioned.
+Tier 2:  Healthy uniformed personnel and population beneficiaries.
+Unquote.
+Change paragraph 3.c.1:
+Quote:
+
+3.c.1. Tier 1a is nearly complete.  Tier 1b will extend through April 2021.
+Tier 1c will begin in April.  These dates are subject to change based on 
+vaccine production.
+Unquote.
+To lessen the burden on overseas MTFs, ease logistics chains regarding 
+overseas vaccine distribution, and aide Service members with navigating 
+widely disparate foreign requirements, add paragraph 3.g:
+Quote
+
+3.g. Service members and their eligible dependents will be prioritized to 
+receive the SARS-CoV-2 vaccine prior to executing an overseas PCS during the 
+overseas screening process at their affiliated MTF.  Ensure vaccination 
+timeline incorporates full immunization prior to travel.
+Unquote.
+
+2.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
