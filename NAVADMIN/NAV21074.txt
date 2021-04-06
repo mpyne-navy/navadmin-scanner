@@ -1,0 +1,113 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 061338Z APR 21 MID600050427621U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CMC WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 074/21 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/-/APR// 
+ 
+SUBJ/COMMERCIAL VIRTUAL REMOTE (CVR) TEAMS SUNSET (CORRECTED COPY)// 
+ 
+REF/A/NAVADMIN/OPNAV/161827ZMAR21// 
+REF/B/DOC/DOD CIO/26MAR2020// 
+REF/C/NAVADMIN/OPNAV/271858ZMAY20// 
+REF/D/NAVADMIN/OPNAV/281926ZAPR20// 
+REF/E/NAVADMIN/OPNAV/022018ZAPR20// 
+ 
+NARR/REF A IS NAVADMIN 063-21 ANNOUNCING THE END OF LIFE (EOL) OF COMMERCIAL 
+VIRTUAL REMOTE (CVR) TEAMS AND ADDRESSES PROTECTING CONTROLLED UNCLASSIFIED 
+INFORMATION (CUI).  
+REF B IS DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER MEMO ON TEMPORARY 
+AUTHORIZATION TO USE IMPACT LEVEL (IL) 2 CLOUD ENVIRONMENT FOR CERTAIN BASIC 
+CONTROLLED UNCLASSIFIED INFORMATION (CUI).  
+REF C IS UPDATED POLICY FOR THE USE OF EMBEDDED COMPUTER CAPABILITIES AND 
+PERIPHERALS TO SUPPORT TWO-WAY COLLABORATION.  
+REF D IS NAVADMIN 123-20, EFFECTIVE USE OF REMOTE WORK OPTIONS UPDATE.  
+REF E IS NAVADMIN 093-20, POLICY AND GUIDANCE FOR THE USE OF DOD COMMERCIAL 
+VIRTUAL REMOTE (CVR) COLLABORATION ENVIRONMENT FOR OFFICIAL BUSINESS.// 
+ 
+REMARKS/1.  This NAVADMIN announces the establishment of the FLANK SPEED 
+effort and provides initial guidance for the Navy transition from the 
+Department of Defense (DoD) Commercial Virtual Remote (CVR) to an enduring 
+Navy Microsoft (MS) Teams cloud-based solution.  The pandemic-induced rollout 
+of MS Teams in the form of the CVR not only transformed the way hundreds of 
+thousands of Department of the Navy (DON) employees work, it also 
+demonstrated that modern, commercial best practices can work for the Navy and 
+Marine Corps.  Though CVR goes away in June 2021, the need for the workforce 
+to conduct official business any time, from anywhere, and from any device 
+does not.  FLANK SPEED, the named effort and the target environment via MS 
+Teams, will deliver a CVR replacement.  A series of NAVADMINs will follow to 
+guide users through the transition ultimately to Microsoft 365 (M365), the 
+long-term Enterprise collaboration and productivity solution. 
+ 
+2.  Beginning May 2021, the Navy will start delivering phased access to MS 
+Teams in the FLANK SPEED environment to ensure continuity of collaboration 
+capabilities when CVR sunsets on 15 June. 
+    a.  Access to MS Teams will require an account in the FLANK SPEED 
+environment; it does not require the user to be migrated to O365. 
+    b.  Accounts will be provided to active CVR and NMCI O365 users first. 
+    c.  Follow-on user phasing will be coordinated with Echelon II CIOs to 
+meet mission requirements as network performance allows. 
+ 
+3.  Initial MS Teams Capabilities. 
+    a.  Creation of shared workspaces for audio, video, and chat.  The 
+initial deployment of MS Teams will not allow for audio conferencing "dial-
+in" like CVR currently supports. 
+    b.  Access from Navy Non-classified Internet Protocol Router Network 
+(NIPRnet) and commercial internet with the following stipulations: 
+        (1) Requires Common Access Card (CAC) authentication. 
+        (2) Government furnished desktops/laptops will have full 
+functionality when accessing from the NIPRnet, whether from the office or via 
+Virtual Private Network (VPN) over a commercial internet. 
+        (3) Access from commercial internet, whether by government furnished 
+or personally owned desktops/laptops, requires the use of a web browser and 
+data downloads will not be allowed. 
+    c.  Will operate in accordance with DoD Cloud Computing Security 
+Requirements Guide Impact Level 5 (IL-5).  Services with an IL-5 
+authorization are able to host DoD Controlled Unclassified Information (CUI) 
+and National Security Systems information, to include Personal Identifiable 
+Information (PII) and Protected Health Information (HIPPA). 
+    d.  Ability to communicate and collaborate with other users in the DoD 
+IL5 M365 environment (i.e. other Services, Combatant Commands, OSD, etc). 
+ 
+4.  Future MS Teams Capabilities. 
+    a.  FY21:  Audio Conferencing capability to allow for telephone dial-in 
+to Teams meetings. 
+    b.  FY22 (if approved by DoD):  Ability to communicate and collaborate 
+with non-Navy users utilizing non-DoD networks (ie. contractor network). 
+    c.  FY22 (if approved by DoD):  Access from personal mobile devices. 
+ 
+5.  Users with accounts in the FLANK SPEED environment will also have access 
+to OneDrive with 1 Terabyte of personal data storage.  Other features will 
+become available as users are transitioned from legacy networks to the FLANK 
+SPEED environment.  Additional migration details, including required user 
+actions, will be promulgated separately. 
+ 
+6.  Information and additional resources are available at 
+https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/FlankSpeed. 
+ 
+7.  Direct any questions to the following points of contact: 
+    a.  Requirements and Policy: W. Michael Johnson, (703) 330-1406, 
+william.m.johnson1(at)navy.mil 
+    b.  FLANK SPEED Objectives: Jane Tyson, (202) 685-9608, 
+jane.m.tyson1(at)navy.mil 
+    c.  M365 Technical Assistance: Bradley Punch, (843) 218-7136, 
+bradley.punch(at)navy.mil 
+    d.  Navy Champion User Assistance: Travis Larkin, (619) 309-3150, 
+travis.larkin(at)navy.mil 
+ 
+8.  This NAVADMIN will remain in effect until canceled or superseded. 
+ 
+9.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
