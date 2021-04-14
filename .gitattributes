@@ -1,0 +1,14 @@
+# Defaults for users without core.autocrlf set
+* text=auto
+
+*.txt text
+*.pl text
+*.PL text
+*.toml text
+*.svg text
+*.md text
+*.css text
+Dockerfile text
+
+*.png binary
+*.jpg binary
