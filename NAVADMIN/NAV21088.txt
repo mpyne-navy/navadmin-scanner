@@ -1,0 +1,193 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 042044Z MAY 21 MID200000824135U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 088/21
+
+MSGID/GENADMIN/CNO WASHINGTON DC/CNO/MAY//
+
+SUBJ/SARS-COV-2 VACCINATION AND REPORTING POLICY UPDATE//
+
+REF/A/DOC/DHA/DHA-IPM/13DEC2020//
+REF/B/DOC/32 CFR PART 199.21/1DEC2016//
+REF/C/MSG/OPNAV/161751ZDEC2020//
+REF/D/MSG/OPNAV/311611ZMAR2021//
+REF/E/DOC/OPNAV/22DEC2009//
+
+NARR/REF A IS THE DEFENSE HEALTH AGENCY INTERIM PROCEDURES MEMORANDUM 20-004 
+DEPARTMENT OF DEFENSE (DOD) CORONAVIRUS DISEASE 2019 (COVID-19) VACCINATION 
+PROGRAM IMPLEMENTATION PROGRAM.
+REF B IS 32 CFR PART 199.21, CIVILIAN HEALTH AND MEDICAL PROGRAM OF THE 
+UNIFORMED SERVICES (CHAMPUS)/TRICARE: TRICARE PHARMACY BENEFITS PROGRAM.
+REF C IS THE SARS-COV-2 VACCINATION AND REPORTING POLICY, VERSION 1, NAVADMIN 
+327/20.
+REF D IS THE SARS-COV-2 VACCINATION AND REPORTING POLICY, VERSION 1 (UPDATE 
+1), NAVADMIN 070/21.
+REF E IS OPNAVINST 3100.6 SERIES GUIDANCE, POLICY, AND INSTRUCTIONS FOR 
+SPECIAL INCIDENT REPORTING.
+
+RMKS/
+
+1.  References (c) and (d) are cancelled.  The SARS-CoV-2 virus and the 
+disease it causes, COVID-19, have disrupted Navy mission execution.  The most 
+effective strategy for maintaining mission capability is to vaccinate the 
+force.  This NAVADMIN lays out policy guidance for vaccination efforts and 
+subsequent reporting requirements.
+
+2.  Specific Policy Guidance.
+
+2.a. Coordination.   Military Treatment Facilities (MTFs) will coordinate
+ordering and administration of vaccines with their supported local units and 
+other eligible populations.
+
+2.b. Emergency Use Authorization (EUA).  While authorized under a Food and 
+Drug Administration (FDA) EUA or Expanded Availability (EA), the vaccination 
+is voluntary for service members.
+
+2.c. Recipient Awareness.  While under EUA/EA, MTFs will make vaccine 
+recipients aware the FDA has authorized emergency use of the vaccine and 
+ensure recipients understand the known benefits and potential risks, as well 
+as the extent to which such benefits and risks are unknown.  If the 
+prospective recipient expresses concern about receiving the vaccine, the MTF 
+will inform recipients of available alternatives and risks.
+While under EUA/EA, members receiving the vaccine will sign a consent form.
+
+2.d. Other COVID-19 Mitigation Measures.  Vaccinated personnel shall comply 
+with Centers for Disease Control and Prevention (CDC) and higher headquarters 
+COVID-19 mitigation guidance.
+
+3.  Operational Guidance.
+
+3.a. COVID-19 Vaccine Incident Reporting.  Report COVID-19 vaccine-related 
+events in accordance with standard reporting procedures identified in 
+reference (e).  Specifically, COVID-19 related events that would not normally 
+trigger an incident report (i.e. lost vaccination doses, vaccinated 
+individual subsequently diagnosed with COVID-19, adverse reaction to 
+vaccine), are no longer reportable unless the incident falls into an existing 
+category within reference (e).
+
+3.b. Timing.  Two dose series SARS-CoV-2 vaccines are separated by 21 
+(Pfizer) or 28 days (Moderna).  Commanders must ensure second dose timing is 
+planned to support operational commitments prior to initiating the sequence.  
+If operational limitations require, second doses may be administered within
+-4 to +14 days of the targeted second dose day.  Individuals should not be 
+deployed while awaiting a second dose if the vaccine, by the same 
+manufacturer, is not available at the destination.
+
+3.c. Reserve Component (RC) Forces.  Navy Operational Support Centers 
+(NOSCs)/Navy Reserve Activities (NRAs) will coordinate with the nearest MTF 
+to vaccinate Navy Reserve Members.  Where an MTF is not available, members 
+should receive their vaccination from a civilian or local vaccination 
+program.  RC members will provide vaccination documentation received from 
+civilian or local vaccination programs to NOSC medical staff for 
+documentation in the Medical Readiness Reporting System (MRRS).  NOSC plans 
+for vaccinating Reservists must account for the applicable delay between 
+doses stipulated by the vaccine manufacturer.
+
+3.d. Navy Civilian Personnel.  COVID-19 vaccinations are available for all 
+Navy civilian employees.
+
+3.e. TRICARE Beneficiaries.  COVID-19 vaccinations are available for all 
+eligible TRICARE beneficiaries.  MTFs will follow current CDC guidance for 
+vaccinating younger dependents.
+
+3.f. Vaccination on the Economy.  Reference (b) authorizes retail network 
+pharmacies to administer vaccines.  TRICARE beneficiaries may receive
+COVID-19 vaccinations with no co-pay at DoD MTFs and authorized retail 
+network pharmacies as per reference (a).
+
+4. Medical Guidance.
+
+4.a. Fully or partially vaccinated individuals who experience COVID-19 
+symptoms outside the expected side effects should be treated and isolated in 
+accordance with CDC guidance and clinical practice guidelines.
+
+4.b. Side Effects.  Medical personnel shall explain known potential side 
+effects of the vaccine to the patient prior to administering the vaccine.
+
+4.c. Choice.  If available, MTFs should be prepared to offer an alternate EUA 
+approved COVID-19 vaccine to persons who are hesitant to receive a particular 
+vaccine from one manufacturer or another.
+
+4.d. Co-Administration Guidance.  Administration of COVID-19 vaccines with 
+other vaccines must be done in accordance with the current Advisory Council 
+on Immunization Practices (ACIP) guidelines:  https://www.cdc.gov/vaccines/ 
+hcp/acip-recs/vacc-specific/covid-19.html.
+
+4.e. Personnel Administering Vaccines.  Only trained and qualified medical 
+personnel, working within their scope of practice, will administer the COVID-
+19 vaccine per reference (a).  COVID-19 vaccination staff will complete the 
+CDC and manufacturer educations modules:  CDC COVID-19 Vaccine Training:  
+General Overview of Immunization Best Practices for Healthcare Professionals
+(https://www2.cdc.gov/vaccines/ed/covid19/SHVA/index.asp) and the online 
+training module provided by each manufacturer for the products that will be 
+administered.
+
+4.f. Documenting COVID-19 Vaccination.  MRRS will be the system of record for 
+individual vaccination status.  All COVID-19 vaccinations, exemptions, or 
+deferrals shall also be documented in MRRS.  Documentation may occur through 
+the Electronic Health Record (EHR).  Shore-based commands or representatives 
+may request access to MRRS based on their unit identification code by 
+submitting a system access authorization request available at:
+https://mrrs.dc3n.navy.mil/mrrs (note:  MRRS Web address is case sensitive).
+MRRS program office contact information:  https://mill_mrrs(at)navy.mil
+(800) 537-4617 / (504) 697-7070/ DSN: (312) 647-7070.  Ship-based commands 
+may use Navy Medicine Online (NMO) or Shipboard Non-Tactical Automated Data 
+Processing Automated Medical System (SAMS) to populate MRRS.
+
+4.f.1. All personnel who receive the vaccination from a retail network 
+pharmacy must provide documentation of vaccination no later than the next 
+work day (or next drill day for Reserve personnel) to ensure vaccination is 
+recorded in MRRS and the Electronic Health Record (EHR).
+
+4.g. Duty in a Flight Status.  The NATOPS Manual (CNAF M-3710.7) requires a 
+12-hour grounding period following immunizations unless otherwise specified 
+in the current Aeromedical Reference and Waiver Guide (ARWG) 
+(https://www.med.navy.
+mil/sites/nmotc/nami/arwg/Pages/AeromedicalReferenceandWaiverGuide.aspx).  
+The ARWG now covers nucleic acid and live non-replicating viral vector SARS-
+CoV-2 vaccines with a recommended self-limited grounding period of 48-hours 
+after any dose in the series to assess for onset of reactions and side 
+effects such as fatigue, headache, myalgia, nausea, and fever.  The 
+development or presence of any systemic side effect during these 48-hours 
+requires extending the self-limited grounding for a total of 72-hours, 
+regardless of when effects resolve, to allow for full recovery.  If systemic 
+side effects persist for greater than 72-hours, any personnel in a flight 
+duty status should see their Aerospace Medicine provider for evaluation.  The 
+presence and severity of symptoms may require the grounding of some personnel 
+for greater than 72-hours.
+
+4.h. Dive Status, Undersea, and Special Operations.  Nucleic acid and live 
+non-replicating viral vector SARS-CoV-2 vaccines are covered by this 
+guidance.
+High-risk activities or operations should be limited for 48-hours after any 
+dose in the series to assess onset of reactions and systemic side effects to 
+include, but not limited to fatigue, headache, myalgia, nausea, and fever.
+The development or presence of any systemic side effects during these 48-
+hours requires extending the limitation of high risk activities and duties 
+for a total of 72-hours, regardless of when symptoms resolve, to allow for 
+full recovery.  If systemic side effects persist for greater than 72-hours, 
+personnel should seek evaluation by an Undersea Medical Officer or 
+appropriate medical authority.
+
+5.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
