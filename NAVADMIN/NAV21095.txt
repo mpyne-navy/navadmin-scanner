@@ -1,0 +1,56 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 141556Z MAY 21 MID200000857632U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 095/21
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/MAY//
+
+SUBJ/INTERIM UPDATE ON DOD MASK GUIDANCE//
+
+REF/A/DEPSECDEF MEMO/13MAY21//
+
+REF/B/NAVADMIN/102035ZMAR2021//
+
+NARR/REF A IS DEPUTY SECRETARY OF DEFENSE MEMORANDUM  UPDATED MASK GUIDANCE 
+FOR VACCINATED PERSONS.  REF B IS NAVADMIN 059/21, GUIDANCE ON MASK WEAR AND 
+OTHER PUBLIC HEALTH MEASURES DURING COVID-19 PANDEMIC.
+
+RMKS/1.  In accordance with reference (a), mask wear for fully immunized 
+personnel (two weeks beyond final dose) is no longer required indoors or 
+outdoors at DoD facilities.  Immunized personnel should continue to comply 
+with Centers for Disease Control and Prevention guidance regarding areas 
+where masks should be worn.
+
+2.  This guidance applies only to fully immunized personnel.  Unimmunized 
+personnel will continue to comply with the provisions of reference (b).
+
+3.  Commanders and supervisors should not ask about an employee's vaccination 
+status.
+
+4.  The best available medical and scientific data on risk to mission and 
+current CDC guidance are available at:
+https://www.cdc.gov/coronavirus/2019-ncov/index.html.
+
+5.  OPNAV N3/N5 POC:  CAPT Craig Mattingly, craig.mattingly@navy.mil.
+
+6.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
