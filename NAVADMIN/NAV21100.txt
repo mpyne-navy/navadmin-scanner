@@ -1,0 +1,91 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 211331Z MAY 21 MID200000877953U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 100/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/CANCELLATION OF URINALYSIS POLICY UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/272107ZMAR20//
+REF/B/DOC/N1/4JUN09//
+REF/C/WEBPAGE/CDC//
+REF/D/DOC/UPC OPGUIDE//
+
+NARR/REF A IS NAVADMIN 092/20, URINALYSIS POLICY UPDATE.  REF B IS OPNAVINST 
+5350.4D, NAVY ALCOHOL AND DRUG ABUSE PREVENTION AND CONTROL.  REF C IS 
+CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC) COVID-19 HOW TO PROTECT 
+YOURSELF AVAILABLE AT HTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-
+NCOV/PREPARE/PREVENTION.HTML.  REF D IS THE URINALYSIS PROGRAM COORDINATOR
+(UPC) OPERATIONAL GUIDE (OPGUIDE).//
+
+RMKS/1.  This NAVADMIN announces the cancellation of reference (a), a 
+temporary amendment to the Navy urinalysis program to minimize Sailor 
+exposure to Coronavirus Disease 2019 (COVID-19) from 27 March 2020 and 
+provides recommendations for safe collection procedures.  This cancellation 
+aligns with the Centers for Disease Control and Prevention (CDC) announcement 
+supporting the safe return to many activities halted during the pandemic.
+Additionally, maintaining a robust and drug free workplace is Navys best 
+deterrence to misuse of illicit and prescription drugs.
+
+2.  Commands will return to normal testing procedures and requirements as 
+outlined in reference (b), including the requirement in paragraph 6.a., 
+enclosure (2) to provide their echelon 3 commander with the reason for 
+failing to comply with reference (b).  This includes areas/situational 
+environments where COVID-19 restrictions limit or prevent normal testing 
+implementation.  Commands shall not recall individuals who are restricted in 
+movement or quarantined, except in cases of probable cause, or as determined 
+by the commanding officer in consultation with local judge advocate general 
+officer.  Telework does not excuse an individual from participating in 
+urinalysis.
+
+3.  Sailors assigned to non-Navy activities will follow the policy of those 
+activities.
+
+4.  Commands shall continue to observe the most recent safeguards as 
+recommended by the CDC in reference (c).
+    a.  All urinalysis specimen collection testing shall comply with Office 
+of the Chief of Naval Operations (OPNAV) policies and should follow CDC 
+Health Guidance.
+    b.  All participants should engage in safe hygiene practices, which may 
+include wearing a mask, hand washing, maintaining social distance and 
+refraining from touching their face or as stated in reference (c).
+    c.  Administrators should wipe down all surfaces contacted (after each
+contact) throughout collection to include tables, faucets and door handles.
+    d.  The Urinalysis Program Coordinator (UPC) and an assigned person 
+(observer or other) shall check each bottle cap for tightness as outlined in 
+reference (d).
+    e.  Sailors, UPCs and observers should avoid personal touch as necessary 
+and should wash their hands after any contact during this process.
+
+5.  For additional information or questions, the urinalysis program point of 
+contact is Ms. LaNorfeia Parker, OPNAV N173, at (901) 874-4249/DSN 882 or 
+lanorfeia.parker(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
