@@ -1,0 +1,105 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 271418Z MAY 21 MID200000892645U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 107/21 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/MAY// 
+ 
+SUBJ//UNIFORM NATIONAL DISCHARGE STANDARDS INFORMATIONAL BRIEFINGS// 
+ 
+REF/A/NAVADMIN/CNO/161427ZJUL19 
+REF/B/DOC/DOD/19JUN19 
+REF/C/DOC/OPNAV/3NOV19 
+ 
+NARR/REF A IS NAVADMIN 160/19, UNIFORM NATIONAL DISCHARGE STANDARDS 
+IMPLEMENTATION.   
+REF B IS DOD MANUAL 4715.06, VOLUME 4, REGULATIONS ON VESSELS OWNED OR 
+OPERATED BY THE DEPARMENT OF DEFENSE:  DISCHARGES INCIDENTAL TO NORMAL 
+OPERATIONS.  REF C IS OPNAV-M 5090.1, ENVIRONMENTAL READINESS PROGRAM 
+MANUAL.// 
+POC/MIKE PLETKE/CIV/CNO WASHIGNTON DC/OPNAV N45/E-
+MAIL:  MIKE.PLETKE@NAVY.MIL/TEL:  (703) 695-5184// 
+ 
+RMKS/1.  This message announces the schedule of informational briefings for 
+upcoming Uniform National Discharge Standards (UNDS). 
+ 
+1.  Background. 
+    a.  In the upcoming months, Navy vessels (USS, USNS, combatant craft, 
+service craft, boats, and any other artificial contrivance) will be required 
+to comply with additional UNDS for the following eleven discharges: 
+        (1) Catapult Water Brake Tank and Post-launch Retraction Exhaust 
+        (2) Controllable Pitch Propeller Hydraulic Fluid 
+        (3) Deck Runoff 
+        (4) Firemain Systems 
+        (5) Graywater 
+        (6) Hull Coating Leachate 
+        (7) Motor Gasoline Compensating Discharge 
+        (8) Sonar Dome Discharge 
+        (9) Submarine Bilgewater 
+        (10) Surface Vessel Bilgewater/Oil-Water Separator 
+        (11) Underwater Ship Husbandry 
+    b.  These additional UNDS requirements will be implemented via a 
+Department of Defense Instruction.  When that instruction is issued, another 
+NAVADMIN will be promulgated to announce the issuance. 
+    c.  Existing Navy operations should already comply with previous UNDS 
+discharge standards and UNDS reporting, information logging, and record-
+keeping responsibilities per references (a) and (b). 
+    d.  UNDS regulations are federal regulations, based on the federal Clean 
+Water Act.  It is imperative that all Navy vessels are in full compliance 
+with these requirements as failure to comply could result in civil actions 
+against the Navy or criminal prosecution. 
+    e.  UNDS requirements may be enforced by U.S. Coast Guard or State 
+officials.  If such officials request access to vessels or records, follow 
+the procedures in reference (c), chapter 35, and coordinate with the Regional 
+Environmental Coordinator. 
+    f.  To assist commands in complying with the UNDS regulations, 
+informational briefings will be provided as listed below.  Request 
+appropriate personnel (person in charge, afloat environmental protection 
+coordinators, maintenance, repair, operations) attend one of these sessions, 
+as subject-matter experts will be on hand to answer questions. 
+ 
+2.  UNDS virtual informational briefing schedule: 
+    Thursday, June 3, 1000  1230 EDT 
+    Wednesday, June 9, 1400  1530 EDT 
+    Wednesday, June 16, 1800  1930 EDT 
+    Thursday, June 24, 10000  1230 EDT 
+    Wednesday, June 30, 1000  1230 EDT 
+    Thursday, July 8, 1400  1530 EDT 
+    Wednesday, July 14, 1400  1530 EDT 
+    Thursday, July 22, 1000  1230 EDT 
+    Wednesday, July 28, 1400  1530 EDT 
+    Thursday, August 5, 1800  1930 EDT 
+    Wednesday, August 11, 1400  1530 EDT 
+    Thursday, August 19, 1000  1230 EDT 
+    a.  Virtual briefings will be held via Defense Collaboration Services and 
+can be accessed with the following link:  https://conference-
+okc.apps.mil/webconf/9nb9u20wfz3xinsz5juor9tu4q2prdza.  Alternatively, 
+briefings can be attended via teleconference line, 410-874-6300, PIN 
+950072278.  Briefs will be posted in advance on the My Navy Portal 
+website, https://www.mnp.navy.mil/group/environmental-compliance-
+afloat/uniform-national-discharges-unds. 
+    b.  Prospective attendees should continue to check My Navy Portal at the 
+same My Navy Portal website for updates to the UNDS Virtual Informational 
+Briefing schedule, as times and locations may change.  To access the My Navy 
+Portal website, users must have a .mil email address and a Common Access 
+Card.  Updates to phone-in information for the virtual briefings may also be 
+found at this site.  Those planning to attend a briefing may also email 
+NSWCCD_UNDS@navy.mil with the subject line UNDS Briefing Schedule to be 
+included in future briefing communications.  For additional information, 
+contact NSWCCD_UNDS@navy.mil. 
+ 
+3.  Actions.  Echelon 2 commands and the Office of Naval Research, promulgate 
+information about these briefings to appropriate subordinate commands. 
+ 
+4.  Released by VADM R. L. Williamson, N4.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
