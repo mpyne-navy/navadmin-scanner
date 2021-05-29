@@ -1,0 +1,44 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 281128Z MAY 21 MID200000895940U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 108/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/N00// 
+ 
+SUBJ/USS ARIZONA MEMORIAL TROPHY WINNER// 
+ 
+REF/A/DOC/CNO/14MAR2016// 
+ 
+AMPN/REF A is OPNAVINST 3590.11G, The Arleigh Burke Fleet Trophy, Marjorie 
+Sterrett Battleship Fund Award and the USS ARIZONA Memorial Trophy.// 
+ 
+RMKS/1.  It is an honor to announce the USS WINSTON CHURCHILL (DDG 81) 
+as the 2019-2020 USS ARIZONA Memorial Trophy winner!  BRAVO ZULU to this 
+year's runner up, USS PAUL HAMILTON (DDG 60). 
+ 
+2.  The USS ARIZONA Memorial Trophy is awarded biennially to the ship 
+achieving the greatest combat readiness in strike warfare, surface fire 
+support, and anti-surface warfare. 
+ 
+3.  USS WINSTON CHURCHILL's (DDG 81) accomplishments are a testament 
+to the professionalism and dedication of her crew and set a combat 
+readiness benchmark for all to emulate.  Your hard work and commitment to 
+excellence, especially during the year's COVID challenges, embody the 
+relentless fighting spirit of the USS ARIZONA and are deserving of this 
+prestigious award. 
+ 
+4.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
