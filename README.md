@@ -58,7 +58,7 @@ a working container-based app.
 
 To build, run
 
-    docker build --target webapp -t navadmin-viewer:latest .
+    docker build -t navadmin-viewer:latest .
 
 You can replace the `navadmin-viewer:latest` with an appropriate image name and
 image version as you wish.
