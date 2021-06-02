@@ -117,6 +117,12 @@ get '/NAVADMIN/:id/:twoyr'
     return $c->reply->not_found
         unless -e "$name";
 
+    # Was text/plain specifically requested?
+    if ($c->accepts('', 'txt')) {
+	return $c->reply->file($name);
+    }
+
+    # Otherwise show a fancy web page
     $c->render(template => 'show-navadmin',
         navadmin_title => $title,
         filepath => $name,
