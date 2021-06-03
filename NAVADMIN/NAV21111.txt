@@ -1,0 +1,107 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 031311Z JUN 21 MID200000908387U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ROUTINE 
+ 
+NAVADMIN 111/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N2N6// 
+INFO CNO WASHINGTON DC//N2N6// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUN// 
+ 
+SUBJ/DECOMMISSIONING OF THE COMMERCIAL VIRTUAL REMOTE (CVR) ENVIRONMENT// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N2N6/172159ZMAR20// 
+REF/B/MSG/CNO WASHINGTON DC/N2N6/022018ZAPR20// 
+REF/C/MEMO/DOD CIO/13MAY21// 
+REF/D/MSG/CNO WASHINGTON DC/N2N6/061338ZAPR21// 
+REF/E/MSG/CNO WASHINGTON DC/N2N6/161827ZMAR21// 
+ 
+NARR/ REF A IS NAVADMIN 068-20, EFFECTIVE USE OF REMOTE WORK OPTIONS.  R 
+EF B IS NAVADMIN 093-20 COMMERCIAL VIRTUAL REMOTE (CVR) COLLABORATION 
+ENVIRONMENT (CORRECTED COPY).   
+REF C IS DOD CIO MEMO DECOMMISSIONING OF THE COMMERCIAL VIRTUAL REMOTE 
+ENVIRONMENT.   
+REF D IS NAVADMIN 074-21 COMMERCIAL VIRTUAL REMOTE (CVR) TEAMS SUNSET 
+(CORRECTED COPY).   
+REF E IS NAVADMIN 063-21 END OF LIFE (EOL) OF COMMERCIAL VIRTUAL REMOTE (CVR) 
+TEAMS AND PROTECTING CONTROLLED UNCLASSIFIED INFORMATION (CUI).// 
+POC/WILLIAM M. JOHNSON/CIV/OPNAV 
+N2N6D3/EMAIL:  WILLIAM.M.JOHNSON1(AT)NAVY.MIL/TEL:  571-256-8273/ 
+DSN: 312-260-8273// 
+POC/VIKRAM SINGH/CTR/OPNAV N2N6D3/VIKRAM.SINGH.CTR(AT)NAVY.MIL/TEL: 571-256-
+8405/DSN: 312-260-8405// 
+ 
+RMKS/1.  This NAVADMIN cancels references (a) and (b). 
+ 
+2.  Per reference (c), the Department of Defense (DoD) Chief Information 
+Officer (CIO) will decommission the Commercial Virtual Remote (CVR) 
+Environment on June 15, 2021.  As a result of CVR decommissioning, the Navy 
+will utilize a single Microsoft Office 365 (M365) collaboration and 
+productivity cloud named FLANK SPEED.  It provides a more secure operating 
+environment and, over time, will deliver additional tools to support a more 
+productive Navy workforce.  Per reference (d), Navy active CVR users will 
+gain access to FLANK SPEED on June 8, 2021.  NMCI O365 users will begin 
+phased migration on June 8, 2021 and be complete by July 2021.  Follow-on 
+user phasing will be coordinated with Echelon II CIOs to meet mission 
+requirements as network performance allows. 
+ 
+3.  There is no DoD or Navy enterprise plan to save the data located on 
+CVR.  The entire CVR environment will be disabled and data will no longer be 
+retrievable as of June 16, 2021.  Users are responsible for downloading data 
+they wish to retain from CVR and saving it to a Navy location (e.g., user 
+document folders, user H: drive, FLANK SPEED OneDrive or NMCI M365 OneDrive) 
+no later than June 15, 2021. 
+    a.  The FLANK SPEED Authority to Operate (ATO) permits processing and 
+storage of controlled unclassified information (CUI) data types, as listed in 
+DoDI 5200.48, up to moderate impact Personally Identifiable Information 
+(PII).  Per reference (e), all policies for handling permitted CUI data types 
+still apply. 
+        1) The following data type exceptions are not authorized on FLANK 
+SPEED: 
+           (a) Health Insurance Portability and Accountability Act (HIPAA) 
+information, to include Protected Health Information (PHI) 
+           (b) Navy Nuclear Propulsion Information (NNPI) 
+           (c) Law Enforcement Sensitive (LES) data 
+        2) Authorization for data types in paragraph 3.a.1 are planned as 
+part of future capability releases.  Users will be notified when these data 
+types are authorized.  Current Navy network users routinely working with 
+these data types will not migrate to FLANK SPEED until authorized. 
+    b.  The FLANK SPEED portal provides directions on how to download and 
+save data stored in CVR and other useful information and is located at: https 
+://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/FlankSpeed/. 
+ 
+4.  Access to FLANK SPEED. 
+    a.  Will not initially be available from personal mobile devices.  This 
+will be a future capability. 
+    b.  Will be available from Navy Non-classified Internet Protocol Router 
+Network (NIPRnet) and commercial internet with the following stipulations: 
+        1) Requires Common Access Card (CAC) authentication. 
+        2) Government furnished desktops/laptops will have full functionality 
+when accessing from the NIPRnet, whether from the office or via Virtual 
+Private Network (VPN) over a commercial internet. 
+        3) Access from commercial internet, whether by government furnished 
+or personally owned desktops/laptops, requires the use of a web browser. Data 
+uploads and downloads will not be allowed. 
+ 
+5.  All Navy Commanding Officers should ensure that their commands understand 
+the actions they must take before CVR is decommissioned. 
+ 
+6.  Request widest dissemination.  This NAVADMIN will remain in effect until 
+16 
+June 2021. 
+ 
+7.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+UNCLASSIFIED// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

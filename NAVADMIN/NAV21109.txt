@@ -1,0 +1,74 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 012233Z JUN 21 MID200000903445U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 109/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1//JUN// 
+ 
+SUBJ/COMMAND RESILIENCE TEAM INTERMEDIATE TRAINING// 
+ 
+REF/A/MSG/OPNAV/121637ZNOV19// 
+REF/B/MSG/OPNAV/101920DEC20// 
+REF/C/DOC/OPNAV N17/9DEC20// 
+ 
+NARR/REF A IS NAVADMIN 254/19, CULTURE OF EXCELLENCE.   
+REF B IS NAVADMIN 318/20 THE CULTURAL CHAMPION NETWORK.   
+REF C IS THE CULTURAL CHAMPION NETWORK QUICK REFERENCE GUIDE.// 
+ 
+RMKS/1.  Reference (a) is a call for every Sailor, active and reserve, 
+uniformed and civilian, to place a positive focus on demonstrating Signature 
+Behaviors to drive a Culture of Excellence (COE), where Sailors are included, 
+respected and empowered. Reference (b) directed the implementation of The 
+Cultural Champion Network (CCN), a driver in achieving an enduring 
+COE.  Reference (c) delineates the mandatory members of the Command 
+Resilience Team (CRT) and Command Resilience Team Human Factors Council 
+(CRTHFC) and is available via MyNavy HR website via MyNavy Portal at 
+https://www.mnp.navy.mil/group/sailor-and-family-support under the 
+21st Century Sailor menu, Culture of Excellence tab. 
+ 
+2.  In support of the CCN, reference (b) directed the command triad, to 
+ensure the completion of Basic and Intermediate Primary Prevention and Human 
+Factors Process training. 
+    a.  Per reference (b), every member of the CRT was to complete the Basic 
+Primary Prevention and Human Factors Process online training no later than 1 
+March 2021.  Mandatory CRT members are listed in reference (c).  New members 
+assigned to the CRT must complete the training within 30 days of their 
+appointment.  This training is available at https://erau.edu/navy-crt-
+training. 
+    b.  Every CRT member assigned to CRTHFCs must complete Intermediate 
+Primary Prevention and Human Factors Process online training available 
+at https://erau.edu/navy-crt-training.  The training is now live and must be 
+completed within 90 days.  Basic Primary Prevention and Human Factors Process 
+online training, discussed in paragraph 2(a), is a prerequisite for the 
+intermediate training. CRTHFC mandatory members are identified in reference 
+(c). 
+    c.  Units with connectivity issues due to deployment or isolated duty 
+stations should contact their Type Commander Command Climate Specialist to 
+obtain an offline versions of the Basic and Intermediate trainings. 
+    d.  Completion of the Basic and Intermediate Trainings must be recorded 
+in Fleet Training Management And Planning System at the command level using 
+the following Course Identification Number: 
+PPHFP-B001 Primary Prevention and Human Factors Process Basic 
+PPHFP-I002 Primary Prevention and Human Factors Process Intermediate 
+ 
+3.  Point of contact is OSCM(SW/AW) Jerald Baker, who can be reached at  
+(901) 874-2487/DSN 882-2487 or via e-mail at jerald.d.baker(at)navy.mil. 
+ 
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+5.  Released By Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
