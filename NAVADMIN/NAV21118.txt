@@ -1,0 +1,141 @@
+UNCLASSIFIED//
+ROUTINE
+R 071446Z JUN 21 MID200000917504U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO SECNAV WASHINGTON DC
+CMC WASHINGTON DC
+BT
+UNCLAS
+ROUTINE
+
+NAVADMIN 118/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC
+INFO SECNAV WASHINGTON DC
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUN// 
+
+SUBJ/PROTECTING CONTROLLED UNCLASSIFIED INFORMATION IN FLANK SPEED M365// 
+
+REF/A/MSG/CNO WASHINGTON DC/N2N6/161827ZMAR21// 
+REF/B/DOC/DODI/06MAR2020// 
+REF/C/DOC/SECNAV/12JUL2019// 
+REF/D/DOC/OPNAV/04AUG2011// 
+
+NARR/REF A IS NAVADMIN 063/21 END OF LIFE OF COMMERCIAL VIRTUAL REMOTE (CVR) 
+TEAMS AND PROTECTING CONTROLLED UNCLASSIFIED INFORMATION (CUI).  
+REF B IS DODI 5200.48, CONTROLLED UNCLASSIFIED INFORMATION PROGRAM.  
+REF C IS SECNAVINST 5510.36B, THE DEPARTMENT OF THE NAVY INFORMATION SECURITY 
+POLICY. 
+REF D IS OPNAVINST 3432.1A, OPERATIONS SECURITY.// 
+POC (CUI)/MARTHA WITTOSCH/LCDR/OPNAV N2N6/EMAIL: 
+MARTHA.A.WITTOSCH(AT)NAVY.MIL
+/TEL/:  703-492-1642.//
+POC (FLANKSPEED)/WILLIAM M.JOHNSON/CIV/OPNAV N2N6D3/EMAIL:
+WILLIAM.M.JOHNSON1(AT)NAVY.MIL/TEL: 571-256-8273/
+DSN: 312-260-8273.//
+RMKS/1.  This NAVADMIN cancels reference (a) and provides additional guidance 
+regarding the type of Controlled Unclassified Information (CUI) authorized in 
+FLANK SPEED Microsoft Office 365 (M365).  Users must be vigilant as CUI is 
+not allowed on non-government devices (i.e. personal desktop and laptop 
+computers, tablets, and mobile phones).
+2.  Key definitions (from references (b) and (c)):
+    a.  CUI.  UNCLASSIFIED information the Government creates or possesses, 
+or that an entity creates or possesses for or on behalf of the Government, 
+that a law, regulation, or Government-wide policy requires or permits an 
+agency to handle using safeguarding or dissemination controls, but does not 
+meet the requirements for classification per Executive Order 13526 or the 
+Atomic Energy Act.
+    b.  Legacy for Official Use Only (FOUO).  Prior to the CUI program, this 
+was a dissemination control marking applied to unclassified information that 
+disclosure to the public of that particular Record, or portion thereof, would 
+reasonably be expected to cause a foreseeable harm to an interest protected 
+by one or more Exemptions of the Freedom of Information Act (FOIA).  FOUO 
+information does not automatically become CUI and is not interchangeable with 
+CUI.
+        (1) Legacy FOUO material is not required to be re-marked or redacted 
+while it remains under Department of Defense (DoD) control or is accessed 
+online and downloaded for use within the DoD.
+        (2) Legacy FOUO material or new derivative documents must be marked 
+as CUI if the information qualifies as CUI, particularly if it is being 
+shared with other government departments.
+    c.  DoD CUI Registry.  Provides an official list of Categories used to 
+identify the various types of CUI.  Individuals must use the DoD CUI registry 
+to ensure proper identification of all CUI material.  The registry is located
+at: https://www.dodcui.mil/Home/DoD-CUI-Registry.
+    d.  Authorized Holders.  Individuals that designate or handle CUI and are 
+responsible for determining, at the time of creation, whether information in 
+a document falls into a CUI category.  If so, the authorized holder is 
+responsible for applying CUI markings and dissemination instructions 
+accordingly, in accordance with reference (b) and (c).
+    e.  Lawful Government Purpose.  Any activity, mission, function, 
+operation, or endeavor that the U.S. Government authorizes or recognizes as 
+within the scope of its legal authorities or the legal authorities of non-
+executive branch entities (such as state and local law enforcement).
+    f.  Limited Dissemination Controls (LDC).  Any control used to limit or 
+specify CUI dissemination.
+        (1) Only Authorized Holders can apply this additional marking and 
+will only be used to promote a Lawful Government Purpose.
+        (2) All LDCs must be approved by the CUI Executive Agent (EA) listed 
+in the CUI Registry (for example, CUI marked FED ONLY further restricts 
+sharing to Federal Employees; CUI marked NOCON prohibits sharing with 
+Contractors).  Lawful Government Purpose requires that Authorized Holders of 
+CUI must not share CUI where sharing is prohibited, restricted, or further 
+subject to LDCs.
+3.  General CUI Guidelines.
+    a.  The FLANK SPEED Authority to Operate permits processing and storage 
+of CUI data types, as listed in reference (b), up to moderate impact 
+Personally Identifiable Information (PII).  All policies for handling 
+permitted CUI data types still apply.
+        (1) The following data types are not yet authorized on FLANK SPEED:
+            (a) Health Insurance Portability and Accountability Act 
+information, to include Protected Health Information
+            (b) Navy Nuclear Propulsion Information (NNPI)
+            (c) Law Enforcement Sensitive (LES) data
+        (2) Authorization for above listed data types is planned as part of 
+future capability releases.  Users will be notified when these data types are 
+authorized.
+        (3) Users are responsible for verifying with their Information System 
+Security Manager (ISSM) and Command Security Manager (CSM) the permitted CUI 
+data types authorized on the network(s) they are using.
+    b.  Organizations and all Navy military, civilian, and contractor 
+personnel are responsible for following the guidelines outlined in references 
+(b) and (c) for handling and protecting CUI.
+    c.  Per references (b) and (c), personnel will not use unofficial or 
+personal (e.g., .net, .com, etc.) e-mail accounts, messaging systems, or 
+other non-DoD information systems to conduct official business involving CUI.
+    d.  Approved/authorized government contractor systems are permitted to 
+handle CUI.
+    e.  Access to CUI is based on whether the individual has a Lawful 
+Government Purpose.  While similar to Need to Know for classified 
+information, Lawful Government Purpose has a different litmus test.  See 
+reference (b) for guidance on Lawful Government Purpose.
+4.  Training.  All personnel (military, civilian, and contractor) who are 
+authorized access to classified information systems must receive initial and 
+annual refresher CUI education and training.  The Center for Development of 
+Security Excellence (CDSE), an element of the Defense Counterintelligence and 
+Security Agency (DCSA), has developed and released the only authorized and 
+approved DoD CUI training module.  The training module is accessed at 
+https://www.dodcui.mil/Home/Training/.  When accessing the website, click on 
+the CDSE Current CUI link to access the training and resource materials.
+5.  The following sites provide additional information on the DoD and DON CUI
+Programs:
+    a.  The DOD CUI Program website is https://www.dodcui.mil/
+    b.  The DOD CDSE Program website is
+https://www.cdse.edu/toolkits/cui/current.html
+    c.  The DOD CUI Registry website is
+http://www.dodcui.mil/Home/DoD-CUI-Registry
+    d.  The Department of Navy Chief Information Guidance on CUI remarking 
+documents requiring PII can be found at:
+https://www.doncio.navy.mil/ContentView.aspx?ID=14154
+    e.  Secretary of the Navy CUI Content:
+https://portal.secnav.navy.mil/orgs/DUSNP/Security-Directorate/Information
+-Security/Controlled%20Unclassified%20Information%20CUI%20Sources/Forms
+/AllItems.aspx
+6.  This message will remain in effect until superseded.
+7.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// BT
+#0001
+NNNN
+UNCLASSIFIED//

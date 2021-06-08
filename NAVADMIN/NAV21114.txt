@@ -1,0 +1,63 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 031749Z JUN 21 MID200000909371U 
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N1// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 114/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/BLENDED RETIREMENT SYSTEM CALENDAR YEAR 2022 CONTINUATION PAY RATES// 
+ 
+REF/A/DOC/NDAA/25NOV15// 
+REF/B/DOC/NDAA/23DEC16// 
+REF/C/MSG/CNO WASHINGTON DC/271444ZSEP16// 
+REF/D/DOC/COMNAVPERSCOM/22FEB20// 
+ 
+NARR/REF A IS SECTIONS 631 THROUGH 635 OF NATIONAL DEFENSE AUTHORIZATION ACT 
+FOR FISCAL YEAR 2016, SUBTITLE D - DISABILITY PAY, RETIRED PAY, AND SURVIVOR 
+BENEFITS.   
+REF B IS SECTIONS 631 THROUGH 633 OF NATIONAL DEFENSE AUTHORIZATION ACT FOR 
+FISCAL YEAR 2017, SUBTITLE D - DISABILITY PAY, RETIRED PAY, AND SURVIVOR 
+BENEFITS. 
+REF C IS NAVADMIN 217/16, ANNOUNCEMENT OF THE BLENDED RETIREMENT SYSTEM FOR 
+THE UNIFORMED SERVICES.  REF D IS THE MILITARY PERSONNEL MANUAL ARTICLE  
+1810-081, CONTINUATION PAY FOR MEMBERS ENROLLED IN THE BLENDED RETIREMENT 
+SYSTEM.// 
+ 
+RMKS/1.  This NAVADMIN informs eligible Service Members that the Blended 
+Retirement System (BRS) mid-career Continuation Pay (CP) rates for calendar 
+year (CY) 2022 have been released.  Please visit MyNavy Portal (MNP) 
+at https://www.mnp.navy.mil/group/pay-and-benefits to view the CY-22 CP pay 
+rates memorandum. 
+ 
+2.  In line with references (a) and (b), Service Members who want to receive 
+the mid-career CP are reminded that they must be enrolled in BRS and request 
+CP before 12 years of service (YOS).  The CP election is made via Navy 
+Standard Integrated Personnel System (NSIPS) which can be accessed via MyNavy 
+Portal Quick Links.  For Service Members who have provided NSIPS with an up-
+to-date e-mail address, NSIPS will send an e-mail notification of CP 
+eligibility at 11 years six months YOS, 11 years nine months YOS and a final 
+reminder at 11 years 11 months YOS.  Service Members who are unable to elect 
+CP through NSIPS may manually elect CP through their Command Career Counselor 
+(CCC).  CP information to include details on electing CP can be found in 
+references (c) and (d).  For any other CP issues, Service Members should 
+reach out to MyNavy Career Center (MNCC) at 833-330-MNCC or 
+askmncc(at)navy.mil. 
+ 
+3.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+4.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

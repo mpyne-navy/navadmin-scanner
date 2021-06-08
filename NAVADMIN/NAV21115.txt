@@ -1,0 +1,106 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 031917Z JUN 21 MID200000909644U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 115/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/EXPANDED OPERATIONAL STRESS CONTROL TRAINERS TRAINING SCHEDULE// 
+ 
+REF/A/MSG/OPNAV/211920Z/20DEC// 
+REF/B/MSG/OPNAV/301310A/SEP19// 
+ 
+NARR/REF A IS NAVADMIN 332/20, EXPANDED OPERATIONAL STRESS CONTROL. 
+REF B IS NAVADMIN 222/19, OPERATIONAL STRESS CONTROL POLICY UPDATE. 
+ 
+RMKS/1.  This NAVADMIN details the training plan for Expanded Operational 
+Stress Control (E-OSC) Team Leads (TL) and Assistant Team Leads (ATL) from 6 
+July through 9 December 2021 as part of the phased roll-out of the E-OSC 
+Program announced in reference (a). 
+ 
+2.  Background. In October 2019, reference (b) introduced E-OSC, as a  
+peer-to-peer, primary prevention program designed to improve the way Service 
+Members think about and respond to challenging situation in their life like 
+relationships, career transitions, disciplinary/legal issues, performance 
+issues and financial strain. 
+E-OSC was developed by the Naval Center for Combat and Operational Stress 
+Control (NCCOSC) in concert with the Navy 21st Century Sailor Office (OPNAV 
+N17) and combines the principles of OSC with Mind, Body and Resilience 
+Training and key programmatic capacities to evaluate and mitigate areas of 
+decreased resilience within the command.  E-OSC will leverage Command 
+Resilience Teams (CRTs) and Engaged Deckplate Leaders (EDLs) to provide more 
+accessible, collaborative resources and real-time assessments of unit culture 
+to promote healthy command climates.  Reference (a) introduced a phased roll 
+out of E-OSC.  The phased plan included a pilot program which is currently 
+being conducted, introduction of a requirement to include a command 
+indoctrination video on E-OSC implemented in January 2020 and a training plan 
+for E-OSC TLs and ATLs.  E-OSC will be implemented across the Navy in January 
+2022. 
+ 
+3.  Implementation 
+    (a)  In accordance to ref (a), each command must appoint an E-OSC TL (E7 
+or above) and an E-OSC ATL (E6 or above) with at least one year left at the 
+command.  Commands with a civilian population larger than 60 percent of the 
+command may consider appointing a civilian (GS-11 or higher) as TL or ATL, 
+however, whenever possible at least one of the two should be a uniformed 
+member.  Larger commands can appoint additional ATLs to meet the needs of 
+their command (a recommended standard is one ATL per department). 
+Commands, however, should not appoint medical or mental health staff as TLs 
+or ATLs in order to reinforce the peer-to-peer nature of the program.  For 
+medical commands, Caregiver Occupational Stress Control instructors meet the 
+requirements for E-OSC Instructors. 
+Once appointed, the TL will become a member of the CRT.  TLs and ATLs are 
+required to attend two and a half days of virtual training. Upon completion 
+of training, TLs and ATLs will be responsible for training and implementing 
+E-OSC at the command level under the direction of the command triad. 
+    (b)  Training for E-OSC TLs and ATLs will begin on 6 July 2021 and run 
+through 9 December 2021.  OPNAV N17 will conduct 10 virtual training sessions 
+across multiple time zones each week with a maximum capacity of 25 
+participants per course.  Participants must use a computer with audio/video 
+capability.  Participants will be provided access information upon 
+registration.  The current course schedule includes sufficient billets for 
+all commands to be trained by 9 December.  Training opportunities, though 
+numerous, are limited; and proactive enrollment early in the process will 
+prevent commands from competing for more limited training opportunities 
+later in the rollout.  Upon completion of the training the command is 
+responsible to enter completion data into FLTMPS, using:  E-OSC Instructor 
+Trainer Course, CIN:  E-OSC-IT-001. 
+    (c) Upon completion of training, TLs and ATLs should begin implementing 
+the elements of the E-OSC program at their command.  In accordance with 
+reference (a), implementation is required by January 2022.  Commands with 
+fewer than 30 members may consider rolling up E-OSC implementation and 
+execution responsibilities into their next higher echelon to meet the E-OSC 
+requirement. 
+    (d)  TLs and ATLs should register for E-OSC training at the following 
+link:  https://esportal.med.navy.mil/bumed/rh/m3/m33/nccosc/activity/center 
+/index.aspx 
+    (e)  The E-OSC Support Center hosted by NCCOSC is a CAC enabled site for 
+use by TLs and ATLs.  The site will provide updated curriculum, access to 
+video resources, and additional information to keep E-OSC training teams 
+current and supported.  The E-OSC Support 
+Center is located at: 
+https://esportal.med.navy.mil/bumed/rh/m3/m33/nccosc/programs/e- 
+osc/supportcenter/index.aspx. 
+ 
+4.  Points of contact are CAPT Michael Hall, Commercial (703) 604-1027, 
+Michael.e.hall5(at)navy.mil or Mr. Daryl Charles, Commercial (901) 874-6926 
+or daryl.charles(at)navy.mil. 
+ 
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+6. Released by VADM John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
