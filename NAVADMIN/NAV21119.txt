@@ -1,0 +1,154 @@
+UNCLASSIFIED//
+ROUTINE
+R 081435Z JUN 21 MID200000919145U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+COMNAVPERSCOM MILLINGTON TN//
+BT
+UNCLAS
+ 
+NAVADMIN 119/21
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+COMNAVPERSCOM MILLINGTON TN//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+
+SUBJ/COMMAND PAY AND PERSONNEL ADMINISTRATOR (CPPA) PROGRAM// 
+
+REF/A/GENADMIN/CNO WASHINGTON DC/231514ZOCT20// NARR/REF A IS NAVADMIN 
+287/20, P4 REGARDING THE COMMAND PAY AND PERSONNEL ADMINISTRATOR (CPPA) 
+PROGRAM UPDATES.//  
+ 
+RMKS/1.  This NAVADMIN announces updates to the CPPA program in order to 
+further improve Fleet readiness and warfighting effectiveness through more 
+timely and accurate pay and personnel transactions.
+
+2.  Since the reorganization of Personnel Support Detachments (PSD) and 
+Transaction Service Centers (TSC), CNPC has noticed an unforeseen fracture of 
+accountability that has developed between the Fleet and the processors at 
+PSDs/TSCs.  As CNPC continues to make iterative changes to processes to serve 
+the Fleet better, it must be stressed that improving this situation cannot be 
+done from Millington alone.  To ensure that the correct personnel are sent to 
+the correct billets at the correct time with the correct pay, Fleet 
+involvement and command emphasis on the CPPA program must be promoted.
+
+3.  In reference (a), Chief of Naval Personnel (CNP) discussed an update to 
+MILPERSMAN 1000-021, CPPA Program, and future replacements to the Transaction 
+Online Processing System (TOPS) and the Navy Pay and Personnel (NP2) system.  
+Due to delays concerning system security and budget shortfalls, these updates 
+have been pushed to the right.  As such, the update to MILPERSMAN 1000-021 
+has also been delayed.
+
+4.  Key areas where CPPAs are critical to the success of providing timely and 
+accurate pay and personnel transactions to our Sailors around the Fleet are:  
+1) professionalization, 2) adherence to Navy Standard Integrated Personnel 
+System (NSIPS) reporting requirements,
+3) timely submission of system access requests, and 4) command support and 
+engagement.  Continued focus and improvement on these programs, processes and 
+policies will ensure that the CPPAs and PSD/TSC processors are able to 
+provide world-class support to improve Fleet readiness and warfighting 
+effectiveness.
+    a.  Professionalize the CPPA workforce.  Reference (a) announced updates 
+to the CPPA program, designed to professionalize the CPPA workforce.  Key 
+enablers included coding billets with the A16A CPPA Navy enlisted 
+classification (NEC) to deliver trained Sailors to commands, providing 
+increased systems access via the expanded NSIPS CPPA User role and enabling 
+CPPAs to gain Sailors to commands and upload Key Supporting Documents (KSD) 
+directly.  As Navy Pay and Personnel Support Center (NPPSC) continues to 
+refine how to solve pay issues and report metrics, it is imperative that 
+trained, decentralized CPPAs push accurate information delivered from 
+Sailors.  Commands ensuring this first step and NPPSC providing timely 
+feedback will reduce pay issues.
+    b.  NSIPS Reporting Requirements:
+        (1) In line with reference (a), CPPAs were directed to submit 
+completed NSIPS Panel 1 gains by the end of the first business day after a 
+Sailor reports for duty.  Since 1 December 2020, pay and personnel metrics 
+indicate CPPAs have steadily increased their use of NSIPS Panel 1 reporting 
+but are not in full compliance.  The March 2021 metrics revealed that only a 
+third of all gains use NSIPS Panel 1 and the remaining two thirds of gains 
+were performed by the supporting PSD/TSC, based on receiving KSDs via TOPS.  
+The latency associated with using TOPS and a transaction initiated by a 
+PSD/TSC clerk adds unnecessary delays in personnel reporting and updating 
+unit readiness.  This lack of compliance leads to inaccurate reporting of 
+Fleet manning.
+        (2) CPPA use of NSIPS Panel 1 reporting to gain Sailors is now 
+mandatory.  Starting 1 June 2021, NPPSC will provide monthly metrics data to 
+the Fleet and Type Commanders of all units consistently out of compliance, 
+focusing on those unexcused, expired gains beyond 10 business days.
+    c.  System Access Requests.  Unit readiness has a direct correlation to 
+CPPAs providing accurate and timely NSIPS activity reporting.  All PSD/TSC-
+supported commands were directed by reference (a) to ensure a minimum of two 
+CPPAs had access to and actively used the NSIPS CPPA User role by 1 December 
+2020.  CPPA access to NSIPS via system access request is now mandatory.
+    d.  Command Support.  The following is a review of the actions that must 
+be taken by Commands and their CPPAs:
+        (1) Commands must verify they have the appropriate A16A Billets 
+Authorized and Sailors have attended CPPA C-School.
+Distribution will assign the CPPA C-School en route if the billet is coded 
+with the A16A NEC.  If not, there is no demand signal from the Fleet that the 
+requirement exists.  If there is insufficient billeted CPPA support at the 
+command, COs must take the appropriate action through their respective 
+ISICs/TYCOMs to assign the CPPA NEC to those PS and/or YN billets.  CPPA is 
+not an appropriate collateral duty outside these administrative ratings, and 
+the legacy CPPA training course will retire by the end of FY-21.
+        (2) When gaining new Sailors, CPPAs submit completed NSIPS Panel 1 
+events by the end of the first business day after a Sailor reports for duty, 
+and have the KSDs submitted to the supporting PSD/TSC by the end of the 
+second business day.  A review of expired gains should be completed monthly.
+        (3) All PSD/TSC-supported commands must ensure a minimum of two CPPAs 
+have access to and actively use the NSIPS CPPA User role.
+Commands must provide the names of their CPPAs to their supporting PSD/TSC 
+and keep information current as CPPAs transfer in and out of their commands.
+        (4) Within 36 months of assignment, CPPAs must complete the 24 
+required eLearning courses along with related personnel qualification 
+standards line items.
+    e.  CNPC Support.  In March, CNPC held the first CPPA town hall event 
+that highlighted some of these important collaborations.
+Additionally, CNPC will provide monthly feedback to leadership with the 
+status of CPPA-to-processor partnership.
+
+5.  TOPS Replacement Update
+    a.  The transition from TOPS to the MyNavy Career Center (MNCC) Customer 
+Relationship Management (CRM) tool has been delayed.
+Cutover from TOPS to MNCC CRM is driven by the customer base requesting and 
+obtaining accounts and may vary across the PSDs/TSCs.
+The transition will re-commence in June 2021.
+    b.  To gain access to the MNCC CRM, users must submit a complete and 
+timely System Authorization Access Request Navy (SAAR-N) request using the 
+Account Request/SAAR-N step-by-step guide, which may be requested by 
+contacting MNCC at 833-330-MNCC (6622) or via e-mail at askmncc(at)navy.mil.  
+Users should expect account creation within 10 business days of submitting 
+their request to the centralized mailbox ecmr_perspay.fct(at)navy.mil.  New 
+account holders will receive an e-mail once the MNCC CRM account has been 
+created.  If corrections are required, an e-mail identifying areas for 
+correction will be sent to the user.  If, after 14 business days of 
+submitting a SAAR-N you have not received an e-mail that your account has 
+been created or that corrections are required, send a status request inquiry 
+to the MNCC e-mail account.  For proper routing, the subject line should be 
+*SAAR-N STATUS REQUEST ICO Your Name, UIC Number*
+    c.  Users must login at least every 30 days to prevent account lock out.
+    d.  PSDs/TSCs and NPPSC will provide additional MNCC CRM training upon 
+request.
+
+6.  NPC, MNCC, and NPPSC staffs continue to seek improvements to personnel 
+and pay service delivery across the global network, a key component of which 
+is CPPA performance.  The success of the enterprise requires collaboration, 
+communication and feedback, as well as command triad leadership support and 
+engagement.  Similarly, it is imperative that Sailors review their personnel 
+data early and often and report issues to their CPPA, MNCC, or the Navy 
+Reserve Activity/Navy Operational Support Center.  Sailors are encouraged to 
+contact MNCC for any issues or to provide feedback.  For CPPAs only, MNCC 
+call center option 2 is the CPPA Pro-to-Pro Cell and provides a direct line 
+for subject matter expert assistance.
+
+7.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.// BT
+
+#0001
+NNNN
+UNCLASSIFIED//

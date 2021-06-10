@@ -1,0 +1,107 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 091517Z JUN 21 MID600050669654U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ROUTINE 
+ 
+NAVADMIN 122/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N2N6// 
+TO CNO WASHINGTON DC//N2N6// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUNE// 
+ 
+SUBJ/NAVY CLOUD IMPLEMENTATION PLAN// 
+ 
+REF/A/MEMO/DDCIO(N)/1FEB2017// 
+REF/B/MEMO/DDCIO(N)/19DEC2017// 
+REF/C/MEMO/DDCIO(N)/27JAN2017// 
+REF/D/NAVADMIN/OPNAV/12DEC2011// 
+REF/E/MEMO/ASN(RDA) DON CIO/7DEC2020// 
+REF/F/DOC/PEO DIGITAL/25MAR2021// 
+ 
+NARR/REF A IS DEPARTMENT OF THE NAVY DEPUTY CHIEF INFORMATION OFFICER FOR THE 
+NAVY (DDCIO(N)) MEMO, NAVY CLOUD FIRST POLICY.   
+REF B IS DDCIO(N) MEMORANDUM, NAVY COMMERCIAL CLOUD BROKERAGE POLICY.   
+REF C IS DDCIO(N) MEMO, COMMERCIAL CLOUD BUSINESS CASE ANALYSIS POLICY.   
+REF D IS NAVADMIN 380-11, TASK FORCE DATA CENTER CONSOLIDATION STAND UP.   
+REF E IS JOINT ASSISTANT SECRETARY OF THE NAVY FOR RESEARCH, DEVELOPMENT, AND 
+ACQUISITION (ASN(RDA)) AND DON CIO MEMO, DEPARTMENT OF THE NAVY CLOUD 
+POLICY.   
+REF F IS PROGRAM EXECUTIVE OFFICE FOR DIGITAL AND ENTERPRISE SERVICES (PEO 
+DIGITAL) CLOUD SERVICES (CS) AND CLOUD SERVICE OFFERINGS (CSO) ACQUISITION 
+AND DELIVERY PLAN.// 
+ 
+POC/HUGH MCCULLOM/CIV/N2N6D/TEL: 571-256-8260/EMAIL: 
+HUGH.MCCULLOM(AT)NAVY.MIL// 
+POC/SCOTT HOWARD/CIV/N2N6D/TEL: 571-256-8292/EMAIL: 
+SCOTT.R.HOWARD(AT)NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN cancels references (a) through (d) and implements the 
+Department of the Navy (DON) Cloud Policy, reference (e), which directs that 
+all cloud computing services in the DON be provisioned and their consumption 
+monitored via the Naval Digital Marketplace at 
+https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fcloud.navy
+.mil%2F&amp;data=04%7C01%7Cvicky.a.gallagher.ctr%40us.navy.mil%7Cf122d54c492b
+4e57bde708d92b5cba37%7Ce3333e00c8774b87b6ad45e942de1750%7C0%7C0%7C63758849952
+5475490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6I
+k1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=Xzw42RtBJoL3qHCb8oShUsKco8I05DSRL3D5VE
+J62v4%3D&amp;reserved=0.  Reference (f) provides guidance on the process for 
+acquisition, delivery, and security of cloud services. 
+ 
+2.  Cloud Migration Plans. 
+    a. No later than (NLT) 30 September 2021, Echelon II Command Information 
+Officers (CIOs) are directed to develop and submit a cloud migration plan for 
+all Business Mission Area (BMA) and Enterprise Information Environment 
+Mission Area (EIEMA) systems and applications. 
+       (1) The authoritative listing of all BMA and EIEMA applications can be 
+found on the DON Database Management System (DADMS). 
+       (2) OPNAV N2N6D will work with Echelon II CIOs, Program Executive 
+Office for Digital and Enterprise Services (PEO Digital), and Navy Technical 
+Agents to define the criteria for determining whether applications should to 
+migrate to the cloud. 
+       (3) Goal is to migrate all applications NLT FY27. 
+    b. Plans will be required to be updated and submitted to OPNAV N2N6 each 
+subsequent year by the end of June.  These inputs should identify resource 
+requirements for Program Objective Memorandum (POM) development. 
+    c.  OPNAV N2N6 will work with Echelon II CIOs to draft a template NLT 30 
+June 2021.  It will include the following: 
+        (1) Cloud migration(s) by fiscal year. 
+            (a) Resources planned and unfunded elements to execute plan. 
+            (b) Key barriers to executing plan. 
+            (c) Acceleration opportunities. 
+        (2) Annual cloud migration metrics validated via DoD information 
+technology (IT) Portfolio Repository-DON (DITPR-DON). 
+            (a) The total number of applications and Development Security 
+Operations (DevSecOps) environments hosted in the cloud. 
+            (b) The number of new applications natively developed in the 
+cloud during the current FY. 
+            (c) Number of remaining applications for planned migration. 
+            (d) Number of applications decommissioned in legacy systems. 
+            (e) Number of remaining applications for planned decommissioning. 
+            (f) Cloud environment(s) utilized. 
+ 
+3.  All references and documents addressed in this NAVADMIN can be found on 
+the Navy Cloud Computing site at: 
+https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fportal.sec
+nav.navy.mil%2Forgs%2FOPNAV%2FN2N6%2FDDCION%2FN2N6BC1%2FCloud%2FSitePages&amp
+;data=04%7C01%7Cvicky.a.gallagher.ctr%40us.navy.mil%7Cf122d54c492b4e57bde708d
+92b5cba37%7Ce3333e00c8774b87b6ad45e942de1750%7C0%7C0%7C637588499525485484%7CU
+nknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX
+VCI6Mn0%3D%7C1000&amp;sdata=ZQlShQCQAIVCBExDf5s6vUnxBbBx4Cc%2B0l%2FnFuDRwQU%3
+D&amp;reserved=0/Home.aspx. 
+ 
+4.  Request widest dissemination.  This NAVADMIN will remain in effect until 
+cancelled or superseded. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
