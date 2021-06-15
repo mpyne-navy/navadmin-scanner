@@ -1,91 +1,107 @@
 UNCLASSIFIED// 
 ROUTINE 
-R 031421Z JUN 21 MID200000908759U 
+R 081703Z JUN 21 MID600050664808U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
 BT 
 UNCLAS 
-ROUTINE 
-PASS TO OFFICE CODES: 
-FM CNO WASHINGTON DC//N2N6// 
-INFO CNO WASHINGTON DC//N2N6// 
  
 NAVADMIN 113/21 
  
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N2N6// 
+INFO CNO WASHINGTON DC//N2N6// 
 MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUN// 
  
-SUBJ/COLLABORATION TOOLS GUIDANCE// 
+SUBJ/COLLABORATION TOOLS GUIDANCE (CORRECTED COPY)// 
  
-REF/A/ MSG/CNO WASHINGTON DC/N2N6/061338ZAPR21// 
-REF/B/MEMO/DOD CIO/30OCT20// 
-REF/C/DOCUMENT/OPNAV/02SEP20// 
-REF/D/EXORD/FCC/201950ZMAR20// 
+REF/A/MSG/CNO WASHINGTON DC/N2N6/281926ZAPR20// 
+REF/B/MSG/CNO WASHINGTON DC/N2N6/061338ZAPR21// 
+REF/C/MEMO/DOD CIO/30OCT20// 
+REF/D/DOCUMENT/OPNAV/02SEP20// 
+REF/E/EXORD/FCC/201950ZMAR20// 
  
-NARR/REF A IS NAVADMIN 074/21 COMMERCIAL VIRTUAL REMOTE (CVR) TEAMS SUNSET 
+NARR/ REF A IS NAVADMIN 123/20, EFFECTIVE USE OF REMOTE WORK OPTIONS UPDATE.   
+REF B IS NAVADMIN 074/21 COMMERCIAL VIRTUAL REMOTE (CVR) TEAMS SUNSET 
 (CORRECTED COPY).   
-REF B IS DOD CIO MEMORANDUM DOD USE OF CONTRACTOR-OWNED COLLABORATION TOOLS.   
-REF C IS UNITED STATES NAVY RISK MANAGEMENT PROCESS GUIDE.   
-REF D IS FCC EXORD 20-021, EFFECTIVE USE OF REMOTE WORK OPTIONS.// 
-POC/WILLIAM M. JOHNSON/CIV/OPNAV 
-N2N6D3/EMAIL:  WILLIAM.M.JOHNSON1(AT)NAVY.MIL/TEL:  571-256-8273/ 
-DSN: 312-260-8273// 
-POC/VIKRAM SINGH/CTR/OPNAV N2N6D3/EMAIL:  VIKRAM.SINGH.CTR(AT)NAVY.MIL/ 
-TEL: 571-256-8405/DSN: 312-260-8405// 
+REF C IS DOD CIO MEMORANDUM DOD USE OF CONTRACTOR-OWNED COLLABORATION TOOLS.   
+REF D IS UNITED STATES NAVY RISK MANAGEMENT PROCESS GUIDE.   
+REF E IS FCC EXORD 20-021, EFFECTIVE USE OF REMOTE WORK OPTIONS.// 
+POC1/W. MICHAEL JOHNSON/CIV/OPNAV N2N6D3/ 
+EMAIL:  WILLIAM.M.JOHNSON1(AT)NAVY.MIL/ 
+TEL:  571-256-8273/DSN:  312-260-8273// 
+POC2/VIKRAM SINGH/CTR/OPNAV N2N6D3/VIKRAM.SINGH.CTR(AT)NAVY.MIL/ 
+TEL:  571-256-8405/DSN:  312-260-8405// 
  
-RMKS/1.  This NAVADMIN provides guidance on the Navys use of collaboration 
-tools. 
+RMKS/1.  This NAVADMIN cancels reference (a) and provides guidance on the 
+Navy’s use of collaboration tools. 
  
 2.  Navy Approved Collaboration Capabilities. 
     a.  Microsoft Teams is the Department of Defense (DoD) collaboration 
 standard and will be provided in FLANK SPEED, the Navys approved M365 cloud 
-(reference a).  Additional FLANK SPEED information available at https 
-://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/FlankSpeed 
-        1) The FLANK SPEED Authority to Operate (ATO) permits processing and 
+(reference (b)).  Additional FLANK SPEED information available at 
+https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fportal.sec
+nav.navy.mil%2Forgs%2FOPNAV%2FN2N6%2FDDCION%2FFlankSpeed&amp;data=04%7C01%7C
+%40us.navy.mil%7C8e65eba4545e48e0871d08d92aa42ee3%7Ce3333
+e00c8774b87b6ad45e942de1750%7C0%7C0%7C637587706906298030%7CUnknown%7CTWFpbGZs
+b3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000
+&amp;sdata=O7eAJWSGGZDjEqxUO6CsgeL%2FP0B4B7wMopNXaxitMmA%3D&amp;reserved=0 
+        (1) The FLANK SPEED Authority to Operate (ATO) permits processing and 
 storage of controlled unclassified information (CUI) data types, as listed in 
 DoDI 5200.48, up to moderate impact Personally Identifiable Information 
 (PII).  All policies for handling permitted CUI data types still apply. 
-        2) The following data type exceptions are not authorized on FLANK 
+        (2) The following data type exceptions are not authorized on FLANK 
 SPEED: 
-           (a) Health Insurance Portability and Accountability Act (HIPAA) 
+            (a) Health Insurance Portability and Accountability Act (HIPAA) 
 information, to include Protected Health Information (PHI) 
-           (b) Navy Nuclear Propulsion Information (NNPI) 
-           (c) Law Enforcement Sensitive (LES) data 
-        3) Authorization for data types in paragraph 5.a.2 are planned as 
+            (b) Navy Nuclear Propulsion Information (NNPI) 
+            (c) Law Enforcement Sensitive (LES) data 
+        (3) Authorization for data types in paragraph 2.a.2 are planned as 
 part of future capability releases.  Users will be notified when these data 
 types are authorized. 
     b.  If Microsoft Teams does not provide sufficient data protection or 
 functionality, Navy users will use approved DoD Enterprise Collaboration 
 Capabilities. 
-        1) Approved DoD Enterprise Collaboration Capabilities are listed at: 
-https://portal.secnav.navy.mil/orgs/DUSNM/DONCIO/SitePages/DON%20CIO%20Telewo
-rk%20Guidance.aspx 
-        2) Commercial collaboration capabilities with a DoD Provisional 
+        (1) Approved DoD Enterprise Collaboration Capabilities are listed at: 
+https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fportal.sec
+nav.navy.mil%2Forgs%2FDUSNM%2FDONCIO%2FSitePages%2FDON%2520CIO%2520Telework&a
+mp;data=04%7C01%7C%40us.navy.mil%7C8e65eba4545e48e0871d0
+8d92aa42ee3%7Ce3333e00c8774b87b6ad45e942de1750%7C0%7C0%7C637587706906298030%7
+CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLC
+JXVCI6Mn0%3D%7C1000&amp;sdata=tf8lZvj%2BJsZnoF4LkMSOerzNf%2BdRdIwYM2%2Bs09nWi
+tY%3D&amp;reserved=0 
+%20Guidance.aspx. 
+        (2) Commercial collaboration capabilities with a DoD Provisional 
 Authorization must be approved by OPNAV N2N6 prior to procurement and 
-use.  Submit requests in accordance with paragraph 7. 
-    c.  If the collaboration capabilities listed in para 4.b. do not provide 
-sufficient data protection or functionality, commands may request OPNAV N2N6 
-approval to use other commercial collaboration capabilities.  Submit requests 
-in accordance with paragraph 7. 
+use.  Submit requests in accordance with paragraph 4. 
+    c.  If the collaboration capabilities listed in paragraphs 2.a. and 2.b 
+do not provide sufficient data protection or functionality, commands may 
+request OPNAV N2N6 approval to use other commercial collaboration 
+capabilities.  Submit requests in accordance with paragraph 4. 
     d.  The Naval Postgraduate School, Naval War College, and United States 
 Naval Academy may continue to use authorized commercial collaboration tools 
-on Navy Higher Education Networks. 
+on 
+Navy Higher Education Networks. 
     e.  Commercial collaboration capabilities software or applications will 
-not be installed on any government furnished equipment (GFE) without 
+not 
+be installed on any government furnished equipment (GFE) without 
 authorization. 
     f.  Commands using a commercial collaboration tool without a Risk 
-Management Framework (RMF) ATO will stop using the tool immediately. 
+Management 
+Framework (RMF) ATO will stop using the tool immediately. 
  
 3.  When using approved collaboration tools accessed via web browser (GFE and 
 personal devices): 
     a.  The user shall not discuss information that is not publicly 
 releasable (e.g., CUI) unless the collaboration tool has been authorized to 
 store, process, and transmit the level of information being presented or 
-discussed 
-        1) The collaboration tool does not require software to be downloaded 
+discussed. 
+        (1) The collaboration tool does not require software to be downloaded 
 and installed. 
-        2) The collaboration tool is not blocked by DoD/Navy security policy. 
-    b.  Per reference (b), Navy personnel may participate in contractor-
+        (2) The collaboration tool is not blocked by DoD/Navy security 
+policy. 
+    b.  Per reference (c), Navy personnel may participate in contractor-
 hosted collaboration sessions involving CUI if the Contractor has complied 
 with 252.204-7012 (Safeguarding Covered Defense Information and Cyber 
 Incident Reporting).  By hosting the session, contractors are asserting that 
@@ -99,21 +115,33 @@ and endorsed by the cognizant Echelon II Command Information Officer.
 the type of data that will be stored, processed, or transmitted and the types 
 of participants (e.g. government, industry, foreign partner). 
     c.  Detail why Microsoft Teams and approved DoD collaboration 
-capabilities do not meet data protection or functional requirements. 
+capabilities 
+do not meet data protection or functional requirements. 
     d.  Identify the proposed alternative collaboration capability including 
 the data protection level it has been authorized for and whether it has an 
 existing DoD PATO or RMF ATO. 
     e.  Provide a plan to meet DoD cybersecurity requirements and achieve an 
-RMF ATO (reference c).  Additional information at: 
-https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/RMF 
+RMF ATO (reference (d)).  Additional information at: 
+https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fportal.sec
+nav.navy.mil%2Forgs%2FOPNAV%2FN2N6%2FDDCION%2FN2N6BC4%2FRMF&amp;data=04%7C01%
+7C%40us.navy.mil%7C8e65eba4545e48e0871d08d92aa42ee3%7Ce3
+333e00c8774b87b6ad45e942de1750%7C0%7C0%7C637587706906298030%7CUnknown%7CTWFpb
+GZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1
+000&amp;sdata=u8oxp9vsi0FOQHM9ckK9AA87SB%2BbMdJu8BOHkZZm2vg%3D&amp;reserved=0 
     f.  Be provided to the POCs listed above. 
  
 5.  DoD and Navy block most streaming media websites to maximize bandwidth 
-for operational use.  Any requests to exclude website from the block list 
-will be submitted by the Echelon II Command Information Officer and submitted 
-using the online web form in accordance with reference (d) at:  https 
-://intelshare.intelink.gov/sites/fcc/N3/_layouts/15/start.aspx#/Lists/Streami
-ng%20Video_Social%20Media%20Exemptions 
+for 
+operational use.  Any requests to exclude website from the block list will be 
+submitted by the Echelon II Command Information Officer and submitted using 
+the online web form in accordance with reference (e) at: 
+https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fintelshare
+.intelink.gov%2Fsites%2Ffcc%2FN3%2F_layouts%2F15%2Fstart.aspx%23%2FLists&amp;
+data=04%7C01%7C%40us.navy.mil%7C8e65eba4545e48e0871d08d9
+2aa42ee3%7Ce3333e00c8774b87b6ad45e942de1750%7C0%7C0%7C637587706906298030%7CUn
+known%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXV
+CI6Mn0%3D%7C1000&amp;sdata=bEBSkoeO63lWpApJT%2FzrEczRlGg0Gboy%2FIq6mER82ZM%3D
+&amp;reserved=0/Streaming%20Video_Social%20Media%20Exemptions. 
  
 6.  Request widest dissemination.  This NAVADMIN will remain in effect until 
 cancelled or superseded. 
