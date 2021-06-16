@@ -1,0 +1,87 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 151510Z JUN 21 MID200000930814U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 123/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/JUN// 
+ 
+SUBJ/PROCEDURES FOR FOREIGN VISIT REQUESTS TO U.S. NAVY COMMANDS DURING 
+COVID-19 PANDEMIC// 
+ 
+REF/A/NAVADMIN/OPNAV/032117ZMAR21// 
+REF/B/MEMO/OSD/12APR21// 
+REF/C/MEMO/OSD/4MAY21// 
+REF/D/MEMO/OSD/7MAY21// 
+REF/E/NAVADMIN/OPNAV/051532APR21// 
+REF/F/DODD/OSD/22JUN05/ 
+REF/G/CDC ORDER/25JAN21// 
+ 
+NARR/REF A IS NAVADMIN 052/21, PROCEDURES FOR FOREIGN VISIT REQUESTS TO U.S. 
+NAVY COMMANDS DURING COVID-19 PANDEMIC. 
+REF B IS USD P&R FORCE HEALTH PROTECTION (FHP) SUPPLEMENT 20  DEPARTMENT OF 
+DEFENSE GUIDANCE FOR PERSONNEL TRAVELING DURING THE CORONAVIRUS DISEASE 2019 
+PANDEMIC. 
+REF C IS USD P&R FORCE HEALTH PROTECTION GUIDANCE (SUPPLEMENT 16) REVISION 1 
+DEPARTMENT OF DEFENSE GUIDANCE FOR DEPLOYMENT AND REDEPLOYMNET OF INDIVIDUALS 
+AND UNITS DURING THE CORONAVIRUS DISEASE 2019 PANDEMIC. 
+REF D IS USD P&R GUIDANCE FOR PARTICIPATION FOR INTERNATIONAL 
+MILITARY STUDENTS IN DOD TRAINING AT U.S. GOVERNMENT FACILITIES. 
+REF E IS NAVADMIN 073/21, NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 7 (CONDITIONS-BASED APPROACH TO COVID-19 PERSONNEL MOVEMENT 
+AND TRAVEL RESTRICTIONS). 
+REF F IS DOD DIRECTIVE 5230.20, VISITS AND ASSIGNMENTS OF FOREIGN NATIONALS. 
+REF G IS CENTER FOR DISEASE CONTROL AND PREVENTION ORDER REQUIREMENT FOR 
+NEGATIVE PRE-DEPARTURE COVID-19 TEST RESULT OR DOCUMENTATION OF RECOVERY FROM 
+COVID-19 FOR ALL AIRLINE OR OTHER AIRCRAFT PASSENGERS ARRIVING INTO THE 
+UNITED STATES FROM ANY FOREIGN COUNTRY. 
+ 
+RMKS/1.  Reference (a) is cancelled.  This NAVADMIN supersedes reference (a), 
+provides updated references, and revised procedures for foreign visitors to 
+U.S. Navy facilities. 
+ 
+2.  Office of the Secretary of Defense issued updated guidance for travel by 
+U.S. personnel (references (b) and (c)) and international students training 
+at U.S. military facilities (reference (d)).  Commands hosting foreign 
+visitors will follow the updated procedures below. 
+ 
+3.  Foreign visits are authorized and will be processed with procedures 
+outlined in reference (f).  All travel to the United States must adhere to 
+the Centers for Disease Control and Prevention (CDC) guidance, the travel 
+requirements outlined in references (b) through (e), and all local and state 
+COVID-19 guidelines. 
+ 
+4.  All foreign personnel who have not been fully immunized or fully 
+recovered from COVID-19 within the previous 90 days traveling from outside 
+the U.S. to visit a U.S. Navy command will be required to complete a 10 day 
+restriction of movement (ROM) period upon arrival in the U.S.  Vaccinations 
+may be of any type approved for use inthe foreign partners country.  USN 
+commands hosting foreign visits may, at the direction of the first Flag or 
+Senior Executive Service in the chain of command, waive the ROM requirement 
+if ROM is impractical, the visit is considered mission essential and 
+appropriate safety precautions are in place.  Foreign personnel already in 
+the U.S. for over 10 days are not required to ROM. 
+ 
+5.  COVID-19 travel information for travelers entering the 
+U.S. may be found on the Department of State website 
+https://travel.state.gov/content/travel/en/traveladvisories/ea/covid-19-information.html
+and at the CDC website 
+at https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html. 
+ 
+6.  OPNAV N3/N5 POCs for Foreign Visit Request procedures are Mr. Jeff Roman 
+at jeffrey.roman(at)navy.mil and Mr. Mark Galvin at 
+mark.galvin.ctr(at)navy.mil. 
+ 
+7.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

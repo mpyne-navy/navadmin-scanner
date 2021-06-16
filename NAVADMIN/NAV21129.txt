@@ -1,0 +1,182 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 161817Z JUN 21 MID200000938003U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 129/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR YEAR 2021 (CY2021) 
+PHYSICAL FITNESS ASSESSMENT// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/271724ZJAN21// 
+REF/B/MSG/CNO WASHINGTON DC/071628ZJUL20// 
+REF/C/MSG/CNO WASHINGTON DC/051654ZSEP17// 
+REF/D/DOC/OPNAV/11JUL11// 
+REF/E/DOC/COMNAVMILPERSCOM/08NOV18// 
+REF/F/DOC/BUPERS/06DEC19// 
+ 
+NARR/REF A IS NAVADMIN 024/21, PHYSICAL READINESS PROGRAM POLICY CHANGES 
+CY2021 CYCLE, PLANK AND ROWER MODALITIES.   
+REF B IS NAVADMIN 193/20, PHYSICAL 
+READINESS PROGRAM UPDATE FOR PHYSICAL FITNESS ASSESSMENT CYCLE TWO 2020 DUE 
+TO COVID 19 MITIGATION.   
+REF C IS NAVADMIN 141/17, PHYSICAL READINESS PROGRAM POLICY CHANGES.   
+REF D IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.   
+REF E IS MILPERSMAN ARTICLE 1050-415, PARENTAL LEAVE PROGRAM.   
+REF F IS BUPERSINST 1610.10E CH-1, NAVY PERFORMANCE EVALUATION SYSTEM.// 
+ 
+RMKS/1.  This NAVADMIN updates policy in references (a) through (d) and is 
+intended to provide tools and guidance for the safe execution of a Physical 
+Fitness Assessment (PFA) as we emerge from the restricted Coronavirus Disease 
+2019 (COVID-19) environment.  This NAVADMIN specifically: 
+    a.  Provides a plan to conduct the Calendar Year 2021 (CY2021) PFA  
+(1 July to 31 December 2021) to include the transition to a new and improved 
+Physical Readiness Information Management System 2 (PRIMS-2). 
+    b.  Provides additional guidance on conducting the PFA in the COVID-19 
+environment, including the use of masks. 
+    c.  Provides answers to frequently asked questions. 
+    d.  Expands postpartum PFA exemption from 9 months to 12 months. 
+ 
+2.  PFA Implementation Plan 
+    a.  To assist commands in executing this PFA cycle, we created Physical 
+Readiness Program (PRP) Guide 10, which explains how to conduct the CY2021 
+PFA.  Updated guides are available on the MyNavy HR PRP website, at 
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Physical-
+Readiness/. 
+    b.  PRIMS-2 will be online in September 2021.  PRIMS-2 has been designed 
+to provide greater ease of use for Command Fitness Leaders (CFL) and better 
+connectivity with associated human resources systems.  CFLs/Assistant Command 
+Fitness Leaders (ACFLs) will enter all PFA documentation/results, with the 
+exception of PARFQ data, into PRIMS-2 when available for use. 
+    c.  As a reminder, Sailors are required to complete a Periodic Health 
+Assessment (PHA) and if required, a Deployment Health Assessment (DHA) prior 
+to commencing a Physical Readiness Test (PRT) or physical conditioning.  As 
+COVID-19 has impacted PHA and DHA completion, commands are strongly 
+encouraged to consider their annual PHA and DHA completion rates when 
+scheduling the command PFA.  Commands may schedule multiple PFA periods 
+during the cycle to accommodate PHA and DHA completion by Sailors. 
+ 
+3.  Additional Guidance to Conduct the CY2021 PFA 
+    a.  Preparation.  Since the official announcement on the new PRT 
+modalities (forearm plank and 2000-meter row) in references (a) and (b), 
+Sailors have been strongly encouraged to practice and prepare for the CY2021 
+PFA, but commands should use this entire PFA window to ensure adequate 
+notification and allow for preparatory training and readiness assessment 
+prior to execution of the PRT. 
+    b.  Scoring of Plank Modality.  Since the plank is a new mandatory 
+modality, the score for the plank will not be included in their final score. 
+Medically cleared Sailors will participate in the plank modality and should 
+give it their best efforts as we will use scores to validate our scoring 
+tables. 
+    c.  Mask Use During PFA.  CFLs/ACFLs shall conduct official BCAs and PRTs 
+as outlined in PRP Guides 4, 5, 10 and 15.  In line with Guide 15, fully 
+vaccinated Department of Defense (DoD) personnel (who are at least two weeks 
+beyond their final dose) are no longer required to wear a mask indoors or 
+outdoors at DoD facilities.  All DoD personnel should continue to comply with 
+Centers for Disease Control and Prevention (CDC) guidance regarding areas 
+where masks should be worn.  Personnel who are not fully vaccinated should 
+continue to follow applicable DoD mask guidance when conducting BCA and use 
+social distancing when performing PRT events.  PRP Guide 15 will be updated 
+as COVID-19 guidance changes and contains mask guidance.  Sailors may unmask 
+when actually performing PRT modalities.  Note:  If local requirements for 
+masks are more or less restrictive, local requirements take precedence. 
+    d.  Records and Data Management 
+        (1) CFLs are required to retain original written documentation 
+(notes, worksheets, Body Composition Assessment (BCA) and PRT Score sheets, 
+etc.) of official command PFAs and Fitness Enhancement Program for a period 
+of five years and in line with current personal identifiable information 
+(PII) policy. 
+        (2) All official PFA forms can be downloaded on the PRP Website 
+forms section:  https://www.mynavyhr.navy.mil/Support-Services/21st-Century-
+Sailor/Physical-Readiness/Forms/  
+to include the revised PARFQ (NAVPERS 
+6110/3) and PRT Score Sheet (NAVPERS 6110/11). 
+          (3) CFLs should refer to PRP Guide 10 for roster maintenance upon 
+PRIMS-2 release. 
+ 
+4.  Reponses to Fleet Feedback.  The following items are provided for 
+clarification to frequently asked questions: 
+    a.  Excellent or Above Performance Validation.  All Sailors must 
+participate in the CY2021 PFA cycle.  Sailors who pass the BCA within the 
+Navy age-adjusted standards and score an overall excellent low or better 
+(with no single event lower than good low) on the PRT modalities consisting 
+of the push-ups and cardio options only are eligible to be exempt from 
+participation in PRT Cycle 1-2022.  Forearm plank scores will not to be used 
+in the calculation.  In order to validate, Sailors must also be within BCA 
+age-adjusted standards in PFA Cycle 1-2022. 
+    b.  Consecutive PFA Failures.  Due to CY2020 PFA Cycle being excused, PFA 
+failures prior to 2021 will not be used in determining future consecutive 
+failures.  For clarification: 
+        (1) If a Sailor failed PRT Cycle 2-2019 and the official CY2021 PFA 
+Cycle, it will not count as two consecutive PFA failures. 
+        (2) However, going forward, if a Sailor fails the official CY2021 PFA 
+Cycle and PFA Cycle 1-2022, this will be two consecutive failures and member 
+will be subject to adverse administrative action. 
+    c.  Fitness Report/Evaluation Guidance.  In line with reference (f), 
+enter the one-letter code for the result of each official PFA conducted in 
+the reporting period in block 20.  Due to CY2020 PFA Cycle being excused, the 
+one-letter code *N* is to be used if the reporting period includes a PFA 
+Cycle in 2020.  Format for block 20 must be from oldest to most recent PFA 
+performed during the reporting period.  For example, *NNP* in block 20 and 
+*PFA: 20-1/20-2/CY2020* in block 29 indicates that the member was excused for 
+CY2020 PFA Cycle and passed the CY2021 PFA Cycle. 
+    d.  Preparing for the upcoming PFA.  CFLs/ACFLs should be conducting 
+command group physical training and BCA spot checks while following social 
+distancing guidelines and preparing Sailors for the upcoming PFA proactively. 
+Another useful tool is the Official Navy PFA App, which is available for 
+download from the App Store. 
+ 
+5.  Postpartum Policy Change.  Effective 1 July 2021, pregnant and postpartum 
+Sailors are exempt from participating in the PFA, to include BCA and PRT, 
+from the time a pregnancy is confirmed by a Health Care Provider (HCP) until 
+the end of 12 months (vice previous 9 months guidance) following a qualified 
+birth event (QBE) in line with PRP Guide 8.  This change allows postpartum 
+Sailors time to fully recover in a healthy manner prior to being required to 
+meet fitness and body composition standards. 
+    a.  Postpartum Sailors will be required to participate in a wellness 
+(unofficial) PFA between six to nine months postpartum, following a QBE as 
+defined in line with reference (e).  The intent of this new policy is to 
+assist postpartum Sailors return to PFA standards and provide commanding 
+officers (CO) visibility on their health and fitness level. 
+        (1) Postpartum Sailors will obtain a medical clearance form (NAVMED 
+Form 6110/4) by HCP or Authorized Medical Department Assessment prior to 
+participating in the wellness PFA.  If not cleared to participate, a 
+postpartum Sailor will be rescreened as appropriate prior to participating in 
+the wellness PFA. 
+        (2) Upon receiving medical clearance, postpartum Sailors will 
+participate in a wellness PFA.  If a postpartum Sailor passes the wellness 
+PFA, they can return to command/unit physical training.  If a postpartum 
+Sailor fails to screen, they will be provided postpartum nutrition and 
+fitness resources to assist with their postpartum recovery. 
+    b.  Pregnancy and Postpartum Physical Training resources will be 
+available in July 2021 to assist Sailors.  These resources will include 
+information on pregnancy/postpartum nutrition and a safe physical training 
+program complete with recommended exercises and contraindicated exercises. 
+These resources will be available on the MyNavy HR Website 
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Physical- 
+Readiness/ 
+ 
+6.  Contact the Physical Readiness Program Office for additional information 
+    a.  For policy-related questions via e-mail at PRP(at)navy.mil. 
+    b.  For PRIMS-related questions via e-mail at PRIMS(at)navy.mil. 
+    c.  For policy or PRIMS-related questions via phone at (901) 874-2210/ 
+DSN 882. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+8.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
