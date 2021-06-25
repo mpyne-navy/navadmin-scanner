@@ -1,0 +1,43 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 221809Z JUN 21 MID200000957985U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 134/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/RESCINDING AUTHORITY TO RELAX HAIR GROOMING STANDARDS// 
+ 
+REF/A/MSG/CNO WASHINGTON/R 182254Z MAR 20// 
+REF/B/DOC/COMNAVPERSCOM/1JAN03// 
+ 
+NARR/REF A IS NAVADMIN 073/20, TEMPORARY RELAXATION OF HAIR GROOMING 
+STANDARDS IN RESPONSE TO CORONAVIRUS OUTBREAK.   
+REF B IS NAVPERS 15665I, U.S. NAVY UNIFORM REGULATIONS.// 
+ 
+RMKS/1.  Effective immediately, reference (a) is cancelled and the authority 
+granted to commanding officers to optionally relax hair grooming standards is 
+rescinded.  All Sailors are to return to hair grooming standards as 
+promulgated in reference (b). 
+ 
+2.  Questions regarding this NAVADMIN should be addressed to Mr. Robert B. 
+Carroll, Navy Uniform Matters and Emerging Issues Branch, OPNAV N13X, via  
+e-mail at robert.b.carroll(at)navy.mil, ETCM(SW/AW/EXW) Richard Baumert, 
+Deputy Branch Head, OPNAV N13X, via e-mail at richard.baumert(at)navy.mil or 
+ETC(SW) Ryan P. Cameron, OPNAV N13X, via e-mail at 
+ryan.p.cameron(at)navy.mil. 
+ 
+3.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
