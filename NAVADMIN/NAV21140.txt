@@ -1,0 +1,35 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 251413Z JUN 21 MID600050709998U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 140/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+SUBJ/CHANGE TO URL FOR DEPARTMENT OF NAVY CLASSIFIED ISSUANCES (DONCI)// 
+ 
+REF/A/DOC/OPNAV/ 
+ 
+RMKS/ 1.  The currently published website for the Department of the Navy 
+Classified Issuances for Office of the Chief of Naval Operations (OPNAV) 
+directives is no longer available, and a new site has been established. 
+    a.  The currently advertised Uniform Resource Locator (URL) is: 
+https://hqweb.cno.navy.smil.mil is no longer the official repository for 
+OPNAV Classified issuances, and should not be used. 
+    b.  The updated URL 
+is https://www.uar.cas.navy.smil.mil/secret/navy/72/site.nsf, Anyone attempting 
+to locate any classified OPNAV Directives should use this URL. 
+ 
+2.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
