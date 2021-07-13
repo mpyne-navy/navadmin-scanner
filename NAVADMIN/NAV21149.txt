@@ -1,0 +1,62 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 131511Z JUL 21 MID600050794762U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 149/21
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/2021 ANNUAL DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER AWARD CALL 
+FOR NOMINATIONS//
+
+REF/A/DOC/DOD CIO/21APR2021//
+
+AMPN/REF A IS THE 2021 DOD CIO AWARDS PROGRAM GUIDANCE.// POC/WENCE/CIV/OPNAV 
+N2N6D/EMAIL: DEAN.E.WENCE(AT)NAVY.MIL/PHONE: 571-256-8513//
+
+RMKS/1.  This NAVADMIN announces the call for nominations for the 2021 
+Department of Defense (DoD) Chief Information Officer (CIO) Awards Program 
+that recognizes individuals and teams for exceptional achievements in DoD 
+Information Technology (IT) and Digital Modernization, focused in the 
+following capabilities:  Cybersecurity; Command, Control and Communications 
+(C3); Artificial Intelligence (AI); Software Modernization; Cloud Computing; 
+Data; Cyberspace Workforce; Electronic Records Management; Section 
+508/Accessibility to Information and Communication Technology; and 
+Positioning, Navigation, and Timing (PNT).
+
+2.  The eligibility period is July 2020 to June 2021.
+
+3.  Active duty service members (officers and enlisted) in the grade O-6 and 
+below or DoD civilians GS-15 and below are eligible.  Contractors may be 
+recognized as part of a team, if led by military or DoD civilian.
+
+4.  Submission requirements are outlined in reference (a), located online at 
+https://dodcio.defense.gov/Portals/0/Documents/InTheNews/DoD%20CIO%20(S)%20Me
+mo%20-%202021%20DoD%20CIO%20Annual%20Award%20Programs%20Call%20for%20Noms
+_20210421.pdf.  Nomination packages must be unclassified and submitted to Ms. 
+S.
+Michele Boswell at shirley.boswell(at)navy.mil no later than 1 August 2021 
+for processing.  Nominations received after 1 August 2021 will not be 
+considered, and those submitted directly to DoD CIO will be rejected.  Ensure 
+you use bullet format and have input for each criteria element listed in 
+reference (a); N/A is not acceptable.
+
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
