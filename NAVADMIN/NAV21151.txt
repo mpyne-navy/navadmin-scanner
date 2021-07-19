@@ -1,0 +1,86 @@
+UNCLASSIFIED//
+ROUTINE
+R 141816Z JUL 21 MID600050802337U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 151/21
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTION DC/N1/JUL//
+
+SUBJ/TIER 1 TACTICAL COMBAT CASUALTY CARE IMPLEMENTATION//
+
+REF/A/DOC/OPNAVINST/12APR21//
+REF/B/DOC/DODI/20FEB20//
+REF/C/DOC/ASDHA MEMO/29JUL20//
+REF/D/DOC/ASDHA MEMO/4APR19//
+
+NARR/REF A IS OPNAVINST 1500.86, TACTICAL COMBAT CASUALTY CARE TRAINING.   
+REF B IS DEPARTMENT OF DEFENSE INSTRUCTION 1322.21, COMMON MILITARY TRAINING.  
+REF C IS ASSISTANT SECRETARY OF DEFENSE FOR HEALTH AFFAIRS (ASD(HA)) 
+MEMORANDUM DIRECTING TACTICAL COMBAT CASUALTY CARE (TCCC) TIER 1 
+IMPLEMENTATION.   
+REF D IS ASD(HA) MEMORANDUM DIRECTING SOLE USE OF DEFENSE HEALTH AGENCY (DHA) 
+TCCC TRAUMA SKILLS CURRICULUM FOR ALL FIRST AID, SELF-AID AND BUDDY CARE 
+TRAINING.//
+
+RMKS/1.  This NAVADMIN announces the issuance of reference (a) and directs 
+the implementation of Tactical Combat Casualty Care (TCCC) Tier 1 All Service 
+Member (ASM) training as part of unit pre- deployment training and 
+certification.  U.S. Fleet Forces (USFF) and U.S. Pacific Fleet (PACFLT), 
+through the type commanders (TYCOM), will ensure their units receive TCCC 
+Tier 1 ASM training prior to deployment in line with references (a), (b) and 
+(c).
+
+2.  Responsibilities
+    a.  USFF and PACFLT:
+        (1) Ensure deploying units meet the standardized TCCC Tier 1 ASM 
+training certification requirements in line with references (a) and (d).
+        (2) Ensure individual training certification completion for TCCC Tier 
+1 is documented in the Fleet Training Management and Planning System 
+(FLTMPS).
+        (3) Maintain primary responsibility for the implementation and 
+sustainment of TCCC Tier 1 ASM training.
+        (4) Coordinate with Bureau of Medicine and Surgery (BUMED) for 
+support with TCCC Tier 1 ASM training needs and requirements.
+        (5) In coordination with Commander, Naval Reserve Forces (CNRC), 
+provide TCCC Tier 1 ASM training for Reserve Individual Augmentee and 
+deploying Reserve Component personnel.
+    b.  BUMED:
+        (1) Ensure all BUMED trauma skills curriculum development and 
+delivery meets current standardized Defense Health Agency TCCC Tier 1 
+standards in line with references (a) and (d).
+        (2) Provide support for TCCC Tier 1 ASM training via cognizant Navy 
+medicine readiness and training commands or units.
+        (3) Support USFF and PACFLT in identifying and developing training 
+needed for TCCC Tier 1 implementation.
+
+3.  Individual, command training departments/training officers, or learning 
+sites are responsible for recording locally completed training in FLTMPS.  
+The following course identification number will be used to document 
+individual completion of TCCC Tier 1:
+B-300-2010 TCCC Tier 1 All Service Member (ASM).
+
+4.  USFF and PACFLT will report completion of TCCC Tier 1 implementation to 
+Navy Education, Strategy, Policy and Training Branch (OPNAV N13M7) via the 
+point of contact (POC) in paragraph 5.
+
+5.  POC.  LCDR Jonathan Greenberg, OPNAV N13M7, email at 
+jonathan.d.greenberg(at)navy.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

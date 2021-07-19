@@ -1,0 +1,220 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 131647Z JUL 21 MID600050795136U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 150/21
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/DEPARTMENT OF DEFENSE COVID-19 TESTING PRIOR TO OVERSEAS TRAVEL (UPDATE 
+2)//
+
+REF/A/NAVADMIN/OPNAV/291854ZJAN21//
+
+REF/B/EXECUTIVE ORDER/13998/21JAN21//
+
+REF/C/USD P&R MEMO/16APR21//
+
+REF/D/CDC ORDER/12JAN21//
+
+REF/E/GENADMIN/USTRANSCOM/102224ZJUN21//
+
+REF/F/NAVADMIN/OPNAV/160550ZFEB21//
+
+NARR/REF A IS NAVADMIN 026/21, DEPARTMENT OF DEFENSE COVID-19 TESTING PRIOR 
+TO OVERSEAS TRAVEL.  REF B IS EXECUTIVE ORDER 13998, PROMOTING COVID-19 
+SAFETY IN DOMESTIC AND INTERNATIONAL TRAVEL.  REF C IS FORCE HEALTH 
+PROTECTION GUIDANCE SUPPLEMENT 20.  REF D IS CENTERS FOR DISEASE CONTROL AND 
+PREVENTION ORDER REQUIREMENT FOR NEGATIVE PRE-DEPARTURE COVID-19 TEST RESULT 
+OR DOCUMENTATION OF RECOVERY FROM COVID-19 FOR ALL AIRLINE OR OTHER AIRCRAFT 
+PASSENGERS ARRIVING INTO THE UNITED STATES FROM ANY FOREIGN COUNTRY.  REF E 
+IS USTRANSCOM GUIDANCE TO THE JOINT FORCE UPDATING COVID-19 TRAVEL 
+REQUIREMENTS FOR TRAVELERS IN RESPONSE TO FORCE HEALTH PROTECTION SUPPLEMENTS 
+16 REVISION 1, 17 AND 20.  REF F IS NAVADMIN 037/21, U.S. NAVY COVID-19 
+STANDARDIZED OPERATIONAL GUIDANCE VERSION 4.0.//
+
+RMKS/1.  This NAVADMIN updates options for COVID-19 testing prior to 
+international travel, provides exceptions to the testing requirement as 
+delineated in references (b) through (e), and provides updated processes for 
+travelers that test positive prior to or during travel.  In line with 
+reference (e), U.S. Transportation Command
+(USTRANSCOM) will no longer provide support services (transportation, 
+lodging, sustenance, etc.) to travelers denied boarding due to COVID-19.  
+Additionally, no earlier than 15 July 2021, USTRANSCOM will suspend all 
+COVID-19 testing at all Continental United States (CONUS)-based Aerial Points 
+of Embarkation (APOE).  Reference (a) is canceled.
+
+2.  The dynamic nature of the COVID-19 pandemic requires the continuation of 
+measures to mitigate the risk of COVID-19 spread.
+Many countries, to include the U.S., require negative test results before 
+arrival.  In line with reference (c), and to ensure Service Members and 
+families are not refused travel or delayed, all travelers executing 
+international orders, to include returning to the U.S. from a foreign 
+country, are required to have a negative viral COVID-19 test (molecular or 
+antigen).  However, a molecular test is the preferred test prior to travel.  
+If the destination location requires a specific test, test timing, or test 
+result format, travelers must follow the stricter requirement.  Individuals 
+should review the Foreign Clearance Guide (FCG) at 
+https://www.fcg.pentagon.mil/Fcg.cfm to determine the exact entry 
+requirements for the final destination.
+
+3.  Service Members and/or family members must do the following
+    a.  Possess, and present on request, proof of a negative viral
+COVID-19 test administered within 72 hours of embarkation for international 
+travel for each traveling family member unless the exceptions in paragraph 
+3.b. apply.  Valid proof may be electronic or printed for commercial flights.  
+Printed proof will be required prior to Air Mobility Command (AMC) Patriot 
+Express (PE) (i.e.,
+rotator) or military aircraft flights.
+    b.  Exceptions to Testing.  Unless otherwise required by a more 
+restrictive DoD Policy or specific entry requirements for the final
+destination:
+        (1) Individuals fully recovered from a laboratory-confirmed diagnosis 
+of COVID-19 infection within the previous three months are not required to 
+undergo viral testing.  Individuals recovered from
+COVID-19 infection and desiring to travel will receive clearance from a 
+healthcare provider or public health official and maintain a copy of the 
+clearance letter in their possession during travel.
+         (2) Individuals who are fully vaccinated are exempt from viral 
+testing prior to travel from the United States to a foreign country.  Fully 
+vaccinated personnel are required to undergo viral testing prior to travel 
+from a foreign country to the United States and post-international travel 
+testing.
+    c.  Review the FCG at https://www.fcg.pentagon.mil/fcg.cfm to determine 
+the exact entry requirements for the final destination (does not apply to 
+routine intermediate stops) to avoid delays, fines, or other complications 
+upon arrival.  COVID-19 travel information for travelers returning to the 
+United States may be found on the Department of State website at 
+https://travel.state.gov/content/travel/en/traveladvisories/ea/covid
+-19-information.html.  Additionally, travelers are encouraged to register for 
+the Smart Traveler Enrollment Program at https://step.state.gov for a free 
+service enabling travelers to enroll their trip with the nearest U.S. Embassy 
+or Consulate.  This service provides updates from the embassy regarding 
+travel requirements and safety conditions in the destination country.
+    d.  Review associated destination requirements, such as type of test, 
+timing or test result format, to determine specifics for entry that may be 
+more restrictive than service policy, e.g., testing within 72 hours from 
+arrival instead of embarkation - in this case, travelers must execute their 
+testing in order to arrive at their embarkation site with proof and have 
+sufficient time remaining to travel to their destination prior to the 
+requirement expiring.
+    e.  Plan intermediate travel and leave.  Do not place you and your family 
+in extremis should an unexpected restriction of movement
+(ROM) be required while traveling prior to embarkation.  During trip 
+planning, ensure you identify facilities along your route of travel that will 
+accommodate you or a family member who may become COVID-19 positive.  
+Additionally, financially plan for an extended trip and/or additional tests 
+should they become necessary.  Service Members are encouraged to use their 
+Government Travel Charge Card
+(GTCC) for travel expenses on official orders as this will assist in 
+alleviating personal financial impact.  TRICARE covers COVID-19 tests when 
+medically necessary and appropriate.  Visit 
+https://www.tricare.mil/covid19testing for more details on COVID-19 testing 
+coverage.  TRICARE does not fund strictly travel-based tests.  If not using a 
+military facility, Service Members traveling on official orders should be 
+prepared to pay for tests and be refunded via travel claim, in line with the 
+Joint Travel Regulations.  For those that choose not to use the GTCC or do 
+not possess a GTCC, advanced travel pay is encouraged since molecular- based 
+tests may be expensive.  If paying for a commercial test that requires an 
+upfront fee (copay), Service Members should ensure to submit the full testing 
+cost via travel claim.
+    f.  Take responsibility for testing.  The service is providing the 
+following options to assist with individual travel situations, but it is the 
+responsibility of the traveler to ensure all requirements have been met:
+        (1) When traveling internationally from the U.S.:
+            (a) Military treatment facilities (MTF) will execute free tests 
+for Service Members and dependents in possession of international orders in 
+line with reference (c).  Tests should be scheduled prior to arrival at the 
+MTF.  MTFs should deliver hard copy documentation of test results within 24 
+hours of testing to the Service Members and dependents.  This allows for 
+testing in a different area than former duty stations to account for leave or 
+training in route.  A non-inclusive list of preferred MTFs may be found on 
+the Overseas PCS COVID-19 Testing Fact Sheet via the MyNavy Portal at 
+https://www.mnp.navy.mil/covid-19.html.  Note:  Most MTFs are closed during 
+the weekend and holidays.  Travelers are encouraged to plan for alternate 
+testing solutions if boarding a flight at the beginning of the week.
+            (b) Commercial sites that support antigen or molecular- based 
+tests (e.g., Polymerase Chain Reaction (PCR) and Abbott ID
+NOW) may be used to satisfy the requirement.  See planning and cost 
+considerations above.
+        (2) When traveling to the U.S. from a foreign country:
+            (a) Travelers returning to the U.S. should primarily use their 
+closest U.S. installation MTF.  COVID-19 testing results will be available 
+via TRICARE Online, often within 24 hours of testing.
+Results may be printed, if hard copies are required.  A list of preferred 
+international MTFs may be found on the Overseas PCS COVID-
+19 Testing Fact Sheet via the MyNavy Portal at 
+https://www.mnp.navy.mil/covid-19.html.
+            (b) International commercial sites that support antigen or 
+molecular-based tests may also be used to satisfy the requirement.  However, 
+travelers should consult with their local installation, military liaison, or 
+U.S. Embassy prior to doing so.
+See planning and cost considerations above.
+    g.  Travelers that test positive for COVID-19 while executing 
+international travel must do the following:
+        (1) Immediately execute ROM procedures.  If a member of a family unit 
+tests positive, the entire family unit must commence ROM.  Travelers may not 
+proceed separately.  If not already in place at suitable lodging, priority 
+for ROM site should be given to the following in order:  1) home or detaching 
+installation, 2) nearby family member, 3) nearby acceptable military 
+installation and 4) nearby acceptable hotel.  Call ahead to the preferred ROM 
+site for notification and support.  If no ROM site is available and 
+additional support is required, call the MyNavy Career Center (MNCC) contact 
+information below.  While in ROM, travelers must strictly adhere to force 
+protection health guidance and return to work criteria, in line with 
+reference (f).  Do not proceed until consulting with your detailer and/or AMC 
+(if at a U.S. PE APOE).
+        (2) Contact the MNCC for initial notification and additional support, 
+available 24/7, by phone at 1-833-330-MNCC (6622) or e-mail at 
+askmncc(at)navy.mil.  Provide valid contact information and proof of positive 
+test result(s) to the servicing MNCC agent.  The servicing MNCC agent will 
+take appropriate action to notify the Service Member detailer, Navy Passenger 
+Transportation Office (NAVPTO), and the OPNAV COVID-19 Taskforce Liaison.
+        (3) Continue communicating with your detailer and NAVPTO agent for 
+orders modification (ORDMOD) and logistics support.  Upon notification from 
+the MNCC, the detailer and NAVPTO agent will contact the Service Member to 
+discuss an ORDMOD and re-book future travel.  ORDMODs will ensure per diem is 
+available and reimbursable for qualified expenses incurred during the ROM 
+period.  Service Members may use the GTCC if issued.  Additionally, Service 
+Members may request a travel advance through the MNCC regardless of GTCC 
+possession.
+        (4) Secure from ROM.  Once the travelers meet return to work 
+criteria, in line with reference (f) and in conjunction with any medical 
+provider guidance, they may continue execution of their orders after 
+conferring with detailers and/or AMC (if at a U.S. PE APOE).  Service Members 
+and detailers should be proactive to continue travel as soon as possible.
+
+4.  Command Pay and Personnel Administrators must do the following before a 
+Service Member detaches
+    a.  Notify Service Member of the testing requirement for international 
+travel and options.  Keep a record of the plans of the Service Member for 
+testing, to include the intended facility site and date.
+    b.  Counsel Service Members on the expense for commercial testing and 
+discuss options for the potential financial burden, e.g.
+GTCC, advanced travel pay, reimbursement, etc.
+    c.  Ensure the Service Member has detaching command contact information 
+in case additional support is needed during an intermediate ROM status.
+
+5.  Contact the MNCC with any questions, issues or to provide feedback at 
+833-330-MNCC/6622 or via e-mail at askmncc(at)navy.mil.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
