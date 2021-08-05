@@ -1,0 +1,660 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 041827Z AUG 21 MID200001035713U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 165/21 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N3/N5/AUG// 
+ 
+SUBJ/SOVEREIGN IMMUNITY POLICY// 
+ 
+REF/A/MSG/CNO/071719ZJUL16// 
+REF/B/DOC/UN/10DEC82// 
+REF/C/DOC/NWC/AUG17// 
+REF/D/MSG/STATE/152102ZOCT85// 
+REF/E/MSG/STATE/172317ZMAR17// 
+REF/F/DOC/SECNAV/14SEP90// 
+REF/G/DOC/OSD/28MAY14// 
+REF/H/DOC/BUMED/8MAR13// 
+REF/I/MSG/CNO/141910ZNOV05// 
+REF/J/MSG/MSC/272143ZMAY03// 
+REF/K/MSG/MSC/081825ZAUG06// 
+REF/L/MSG/MSC/201250ZNOV09// 
+REF/M/DOC/GPO/8APR14// 
+REF/N/DOC/DOD/28DEC09// 
+REF/O/DOC/DOD/23DEC20// 
+REF/P/DOC/DOD/23APR18// 
+REF/Q/DOC/SECNAV/14JUN16// 
+REF/R/DOC/OPNAV/20SEP19// 
+REF/S/DOC/OPNAV/10NOV08// 
+
+NARR/REF A IS THE SOVEREIGN IMMUNITY POLICY. 
+REF B IS THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA. 
+REF C IS THE COMMANDERS HANDBOOK ON THE LAW OF NAVAL OPERATIONS. 
+REF D IS THE STATE DEPT CABLE ON THE STATUS OF MILITARY SEALIFT COMMAND (MSC) 
+VESSELS. 
+REF E IS SECRETARY OF STATE MESSAGE 106799, U.S. GOVERNMENT POLICY ON 
+AVIATION-RELATED FEES. 
+REF F IS U.S. NAVY REGULATIONS. 
+REF G IS THE OSD MEMO PROMULGATING THE DOD-DOS-DHS STANDARD OPERATING 
+PROCEDURES 
+FOR COORDINATING FOREIGN MILITARY SHIP VISITS TO U.S. PORTS. 
+REF H IS BUMEDINST 6210.4, SHIP SANITATION CERTIFICATE PROGRAM. 
+REF I IS ADDITIONAL CNO GUIDANCE ON SOVEREIGN IMMUNITY AND CREW LISTS. 
+REF J IS THE MSC SOVEREIGN IMMUNITY POLICY FOR TIME-CHARTERED VESSELS. 
+REF K IS SOVEREIGN IMMUNITY GUIDANCE FOR MSC MASTERS. 
+REF L IS MSC SUPPLEMENTAL SOVEREIGN IMMUNITY GUIDANCE. 
+REF M IS THE AMENDED 22 CFR SECTION 41.3. 
+REF N IS DODD 4500.54, DOD FOREIGN CLEARANCE PROGRAM. 
+REF O IS THE FOREIGN CLEARANCE GUIDE. 
+REF P IS DODI 5100.64, CHANGE 1, DOD FOREIGN TAX RELIEF PROGRAM. 
+REF Q IS SECNAVINST 5030.8C, GENERAL GUIDANCE FOR THE CLASSIFICATION OF NAVAL 
+VESSELS AND BATTLE FORCE SHIP COUNTING PROCEDURES. 
+REF R IS THE OPNAV-M 5090.1, ENVIRONMENTAL READINESS PROGRAM MANUAL. 
+REF S IS THE OPNAVINST C3128.3U, PORT VISITS BY U.S. NAVY SHIPS TO FOREIGN 
+COUNTRIES.// 
+POC/A. S. HOYT/LCDR/OPNAV N3N5L/LOC:  2000 NAVY PENTAGON/ 
+TEL:  703-692-9379/NIPR:  ALISON.S.HOYT3 (AT) NAVY.MIL/ 
+SIPR:  ALISON.S.HOYT2 (AT) NAVY.SMIL.MIL.// 
+ 
+RMKS/1.  This NAVADMIN restates U.S. Navy sovereign immunity 
+policy and cancels reference (a).  The policies reflected in 
+this document are based on longstanding principles of international 
+law.  Accommodation of demands by foreign States that undermine 
+these policies not only erodes protections in that particular 
+situation, but also risks establishing precedent that may 
+have long-term and wide-ranging negative effects.  Therefore, 
+Geographic Naval Component Commanders (GNCC), commanders, 
+commanding officers, officers-in-charge, aircraft commanders, 
+and masters shall adhere to the policies outlined in this message. 
+ 
+2.  Under customary international law, and consistent 
+with references (b) through (e), all manned and unmanned 
+vessels and aircraft owned or operated by a State, and 
+used, for the time being, only for government non-commercial 
+service are entitled to sovereign immunity.  Accordingly, 
+such vessels and aircraft, wherever located, are immune 
+from arrest, search, and inspection by foreign authorities, 
+including inspections by or under the supervision of a 
+competent authority of areas, baggage, containers, conveyances, 
+facilities, goods or postal parcels, and relevant data and 
+documentation thereof for most purposes.  Moreover, such 
+vessels and aircraft are exempt from certain foreign taxes, 
+duties, or fees, as well as foreign regulations that require 
+flying the flag of a foreign State or a compulsory pilotage 
+requirement.  Customary international law further grants to 
+commanding officers, officers-in-charge, aircraft commanders, 
+and masters the right to protect the identity of personnel, 
+stores, weapons, and other property aboard a sovereign immune 
+vessel or aircraft, as well as exclusive control over any 
+person aboard a sovereign immune vessel or aircraft 
+concerning acts performed aboard. 
+ 
+3.  Although immune from arrest by foreign authorities, 
+U.S. Navy warships (which includes combatant craft), aircraft, 
+and sovereign immune auxiliary vessels shall comply with host 
+country requirements regarding traffic control, health, 
+customs, and immigration, to the extent such requirements 
+do not contravene U.S. Navy sovereign immunity policy.  In 
+many instances, this message and its references dictate how 
+the U.S. Navy complies with such requirements, such as through 
+use of health certificates discussed in paragraphs 5.d., 6.e. 
+and 7.a.4.  Noncompliance with any such requirement may be 
+subject to diplomatic complaint or host country orders to 
+leave its internal waters, territorial sea, or national airspace, 
+but does not change the requirements of this policy.  Because 
+adherence to this policy may result in a countrys refusal or 
+expulsion of an aircraft or vessel, commanders must work with 
+their legal counsel and embassy teams early to understand port 
+and airfield requirements including international agreements 
+or other arrangements which may apply. 
+ 
+4.  Assertion of sovereign immunity is a privilege of the 
+U.S. Government.  Thus, waiver is not within the discretion 
+of a commanding officer, officer-in-charge, aircraft commander, 
+or master.  GNCCs are delegated authority to interpret 
+sovereign immunity policy consistent with overarching U.S. 
+Government policies and shall be notified by lower echelons 
+via the chain-of-command regarding any challenges to 
+asserting sovereign immunity that are unable to be resolved 
+in favor of the policies set forth in this message.  GNCCs 
+are vested as the Navys in-theater leads for implementation 
+of the navys sovereign immunity policy within their 
+respective area of responsibilities.  Where a GNCC is able 
+to execute this policy without conflict with this message, 
+no waiver is required.  However, except as provided herein, 
+any action that may constitute a waiver or potential waiver 
+of sovereign immunity must be coordinated with N3/N5 prior 
+to action being taken on the matter. 
+ 
+5.  Warships, Including Combatant Craft.  It is U.S. Government 
+policy to assert full sovereign immunity for all U.S. Navy 
+manned and unmanned warships, including combatant craft as 
+the term is defined in reference (q), enclosure (3).  In addition 
+to the general privileges and obligations discussed in 
+paragraphs 2 and 3 of this message, which apply in full, 
+the following guidance also applies: 
+    a.  Searches, Inspections, and Requests for Information. 
+Per reference (f), paragraphs 0801, 0828, 0859, and 0860, 
+commanding officers and officers-in-charge shall not permit a 
+warship under their command to be searched or inspected on any 
+pretense whatsoever by foreign authorities or organizations, 
+nor permit any person within the confines of their warship 
+to be removed by foreign authorities.  Commanding officers 
+and officers-in-charge shall not provide vessel documents 
+or other vessel-specific information (excluding a vessels 
+public characteristics for purposes of appropriate pilotage 
+or berthing) to foreign authorities and organizations 
+without the approval of the cognizant GNCC after consultation 
+with N3/N5. 
+    b.  Taxes and Fees.  A foreign tax is defined in reference 
+(p) as All direct or indirect foreign customs duties, import and 
+export taxes, excises, fees and other charges imposed at the 
+national, local, or intermediate level of a foreign country 
+other than charges for services requested and received, regardless 
+of how a charge is denominated in foreign law or regulation. 
+        (1)  Unless there is an international agreement to the 
+contrary, commanding officers, and officers-in-charge shall refuse 
+to pay any tax or revenue-generating fee imposed on a U.S. Navy 
+warship by a foreign sovereign.  These taxes, including port taxes, 
+port tariffs, port tolls, port security surcharges, port dockage 
+fees, and other similar taxes or fees, are impermissible.  Commanding 
+officers and officers-in-charge may pay reasonable charges for 
+goods and services requested and received, less taxes and similar 
+charges.  If requested to pay impermissible taxes or fees, 
+commanding officers and officers-in-charge should request an 
+itemized list of all charges, pay reasonable charges for goods a 
+nd services requested and received, and explain that under 
+customary international law, sovereign immune vessels are 
+exempt from foreign taxes and fees. 
+        (2)  If port authorities directly insist on payment of 
+an impermissible tax or fee, commanding officers and officers-in-charge 
+should seek assistance from the respective GNCC and U.S. Embassy via 
+the chain-of-command.  Whether the U.S. Navy will directly pay such 
+an impermissible tax or fee is a matter of overarching U.S. Government 
+policy.  This decision may be based on other concerns such as 
+operational needs, contracting principles, and potential fiscal 
+liability.  If a GNCC determines that risk to mission clearly 
+necessitates the port visit, the fees may be paid and a refund 
+should be sought from the foreign sovereign.  Per reference (p), 
+appropriate tax relief is defined to include a refund, to be 
+coordinated via the chain-of-command to the designated military 
+commander for the country levying the subject tax or fee. 
+        (3) If such taxes or fees are levied indirectly 
+through a Husbanding Service Provider (HSP) as part of a foreign 
+fixed price contract, such tax or fee may be paid as part of the 
+contract price. 
+    c.Crew Lists 
+        (1) Commanding officers and officers-in-charge shall 
+not provide a list of crew members (military and/or nonmilitary) 
+or passengers aboard a warship to foreign officials under any 
+circumstances.  In response to requests for a crew list, the 
+host nation should be informed that the United States exempts 
+foreign sovereign immune vessels visiting the United States 
+from the requirement to provide crew lists in accordance 
+with (IAW) the same sovereign immunity principles claimed 
+by United States sovereign immune vessels.  For additional 
+guidance in situations in which a host country maintains a 
+demand for provision of a list of crew members as a condition 
+of entry into a port or to satisfy local immigration 
+officials upon arrival, see reference (i) and notify 
+the GNCC. 
+        (2) Sovereign immune vessels are generally immune 
+from complying with visa or other entry requirements, which 
+includes immunity from the requirement to provide a crew 
+list.  Although personnel, absent a superseding international 
+agreement, become subject to the laws and regulations of a 
+host country upon disembarkation, the request for a list of 
+personnel raises force protection concerns and is inconsistent 
+with long-standing, worldwide Naval port visit practices and 
+protocols.  Accordingly, commanding officers and officers-in-charge 
+are not authorized to provide such lists, or variations of 
+such lists, without approval from the GNCC  who shall look to 
+use alternative means as outlined in reference (i) to avoid 
+providing such information. 
+    d.Quarantine and Health Information Requirements 
+        (1)  Under references (f) and (h), commanding officers 
+and officers-in-charge shall comply with all domestic or foreign 
+State quarantine regulations for the port within which the 
+warship is located that do not contravene this sovereign 
+immunity policy.  Per references (f) and (h), in response 
+to a request by foreign authorities for health information 
+required by foreign State quarantine regulations, commanding 
+officers and officers-in-charge may deliver a U.S. Navy 
+Declaration of Health (NAVMED 6210/3) completed IAW 
+reference (h).  As detailed in this form, as an 
+exhibit, if requested, commanding officers and officers-in-charge 
+may provide additional information to the host nation 
+regarding precautionary measures taken onboard due to a 
+U.S. declared ongoing pandemic or other similar concern 
+regarding the spread of diseases, without providing any 
+specific individual medical data, after coordination 
+with the GNCC.  This might include sharing mask restrictions, 
+sanitation protocols, and regular testing regimes. 
+However, delivery of NAVMED 6210/3 and its exhibit, is the 
+only authorized form for meeting the requirements by 
+authorized foreign officials as set forth in reference (f). 
+Commanding officers and officers-in-charge are not authorized 
+to provide any other supplementary or locally demanded health 
+forms, even if the supplementary or locally demanded forms 
+appear to disclose similar information, nor are they authorized 
+to grant foreign authorities access to individual health 
+records.  Per reference (h), in response to a request by 
+foreign authorities for access to sanitation conditions onboard, 
+commanding officers and officers-in-charge may deliver a U.S. 
+Navy Ship Sanitation Control Certificate (NAVMED 6210/1) and/or 
+a U.S. Navy Ship Sanitation Control Certificate 30-Day 
+Extension (NAVMED 6210/2). 
+       (2)  The above measures satisfy, per reference (h), 
+commanding officers and officers-in-charge, or their representatives, 
+ability, but not requirement, to certify to foreign authorities 
+actions consistent with foreign State quarantine regulations 
+(i.e., provide a general description of measures taken to 
+comply insofar as permitted by military security restrictions). 
+However, commanding officers and officers-in-charge shall 
+not permit a warship under their command to be searched on 
+any pretense whatsoever by foreign authorities and organizations. 
+    e.  Flying Foreign State Flags.  While sovereign immune 
+vessels are exempt from foreign regulations that require 
+flying a foreign State flag, U.S. Navy sovereign immune 
+vessels may fly foreign State flags to render honors IAW 
+reference (f).  Regional practices to display marks of respect 
+for host nations vary and commanding officers and officers-in-charge 
+shall consult with the operational chain-of-command, theater- and 
+fleet-specific guidance, and local embassies for further guidance 
+if the issue is raised by host nation officials. 
+    f.  Environmental Mishaps in Foreign Waters.  If, after 
+an oil or hazardous substance spill in foreign territorial 
+or internal waters, a commanding officer or officer-in-charge 
+determines foreign authorities need additional information 
+to properly respond to the spill and prevent serious 
+environmental damage, the commanding officer or officer-in-charge 
+may release information similar to that releasable to U.S. 
+authorities, under reference (k), and IAW reference (r).  Before 
+releasing spill-related information to foreign authorities, the 
+commanding officer or officer-in-charge shall consult the GNCC 
+and, if release is deemed appropriate, inform the foreign 
+authorities that the ship or vessel is a sovereign immune vessel 
+of the United States and that spill-related information is 
+being voluntarily provided to help minimize environmental damage. 
+    g.  Compulsory Pilotage.  Article 0856 of reference (f) authorizes 
+commanding officers to employ pilots when, in the commanding officers 
+judgement, such employment is prudent.  Inherent in such discretion 
+is the authority to refuse use of a pilot  or to disregard such 
+pilots advice regarding the safe navigation of a warship. 
+Accordingly, U.S. vessels may, but are not required to, employ 
+pilots as prudent.  Except as provided in article 0856 of reference 
+(f), commanding officers may, but are not required to, allow pilots 
+onboard.  If a nation deems pilot employment as a condition for 
+entering port or transiting their waters, contrary to reference (s), 
+commanding officers shall inform foreign authorities that the ship 
+or vessel is a sovereign immune vessel of the United States and 
+that pilotage services are being accepted voluntarily and not 
+as a condition of entry. 
+ 
+6.  U.S. Navy Aircraft and Other State Aircraft.  Consistent 
+with reference (o) and reinforced by agreements with host 
+nations, it is U.S. Government policy to assert full sovereign 
+immunity for all manned and unmanned U.S. Navy aircraft and 
+other State aircraft.  Full sovereign immunity may not be reflected 
+in the Foreign Clearance Guide, reference (o), and so it remains 
+the duty of all aircraft commanders to know and protect this U.S. 
+interest as outlined in this message.  In addition to the general 
+privileges and obligations discussed in paragraphs 2 and 3 of this 
+message, which apply in full, the following guidance applies: 
+    a.  Searches, Inspections, and Requests for Information. 
+Per references (f), (n), and (o), aircraft commanders shall 
+not permit an aircraft under their command to be searched or 
+inspected on any pretense whatsoever by foreign authorities 
+or organizations, nor permit any of the personnel within the 
+confines of their aircraft to be removed by foreign authorities. 
+Aircraft commanders shall not provide aircraft documents or 
+other aircraft-specific information, including passenger lists, 
+to foreign authorities or organizations without the approval of 
+the applicable GNCC via the chain-of-command. 
+    b.Taxes and Fees.  A foreign tax is defined in reference 
+(p) as All direct or indirect foreign customs duties, import 
+and export taxes, excises, fees and other charges imposed at 
+the national, local, or intermediate level of a foreign country 
+other than charges for services requested and received, regardless 
+of how a charge is denominated in foreign law or regulation. 
+        (1) Unless there is an international agreement to the contrary, 
+per references (e), (n) and (o), aircraft commanders shall refuse to 
+pay navigation fees, overflight fees, and other similar fees or taxes 
+for transit through the national airspace of a foreign State or 
+Flight Information Regions in international airspace.  Additionally, 
+aircraft commanders shall refuse to pay any revenue-generating tax 
+or fee imposed on a State aircraft by a foreign sovereign, including 
+landing fees, parking fees, and other similar use fees or taxes at 
+foreign State-operated airports. 
+        (2) Per reference (o), aircraft commanders may pay reasonable 
+charges for goods and services requested and received, less taxes 
+and similar charges. 
+        (3) If requested to pay impermissible fees or taxes, aircraft 
+commanders should request an itemized list of all charges, pay reasonable 
+charges for goods and services requested and received, and explain 
+that under customary international law, sovereign immune aircraft 
+are exempt from foreign fees and taxes. 
+        (4) If port authorities directly insist on payment of 
+an impermissible tax or fee, aircraft commanders should seek 
+assistance from the respective GNCC and U.S. Embassy via the 
+chain-of-command.  Whether the U.S. Navy will directly or indirectly 
+pay such an impermissible tax or fee is a matter of overarching 
+U.S. Government policy.  This decision may be based on other 
+concerns such as operational needs, contracting principles, and 
+potential fiscal liability.  If a GNCC determines that risk to 
+mission clearly necessitates the visit, the fees may be paid 
+and a refund should be sought from the foreign sovereign.  Per 
+reference (p), appropriate tax relief is defined to include a 
+refund, to be coordinated via the chain-of-command to the designated 
+military commander for the country levying the subject tax or fee. 
+   c.In some cases, Military Basing Agreements may memorialize 
+that the U.S. has agreed to reimburse a host nation for costs 
+associated with joint-use air bases located in the host nation. 
+As further provided in paragraph 9, this NAVADMIN does not abrogate 
+or modify any existing Military Basing Agreement or other applicable 
+international agreement. 
+   d.  Crew Lists 
+        (1) Aircraft commanders shall not provide a list of crew 
+members (military and/or nonmilitary) or passengers aboard a State 
+aircraft to foreign parties as a condition of landing at a foreign 
+airport or to satisfy local immigration officials upon arrival 
+when there is no intention for crew members or passengers to enter 
+the country, such as for refueling and cargo transfer stops. 
+For additional guidance in situations in which a host country 
+demands provision of a list of crew members as a condition of 
+landing or to satisfy local immigration officials upon arrival, 
+see reference (i). 
+        (2) Sovereign immune aircraft are generally immune from 
+complying with visa or other entry requirements.  In instances 
+where a host nation requests a visiting aircraft to provide a 
+list of personnel as a condition of their disembarkation from 
+a sovereign immune aircraft, consult reference (i) for additional 
+guidance.  Although personnel, absent a superseding international 
+agreement, become subject to the laws and regulations of a host 
+country upon disembarkation for the purposes of entry into the 
+country, the request for a list of personnel raises force 
+protection concerns and is inconsistent with long-standing, 
+worldwide Naval landing practices and protocols. 
+        (3) Per reference (e), the privilege of sovereign immunity 
+does not extend to individuals once they disembark a sovereign 
+immune aircraft for the purposes of entry into the host country. 
+If leaving the airfield and/or remaining overnight, crew and 
+passengers will comply with host nation immigration regulations 
+IAW the Status of Forces Agreement and/or Foreign Clearance 
+guide to include requirements for official passports and entry 
+visas. 
+    e.Quarantine and Health Information Requirements 
+        (1)  Under references (f), and (h), aircraft commanders 
+shall comply with all domestic or foreign State quarantine 
+regulations for the area within which the aircraft is located 
+that do not contravene this sovereign immunity policy.  Per 
+reference (h), aircraft commanders, or their representatives, 
+may certify to foreign authorities compliance with foreign 
+State quarantine regulations (i.e., provide a general description 
+of measures taken to comply).  However, aircraft commanders 
+shall not permit an aircraft under their command to be 
+searched on any pretense whatsoever by foreign authorities. 
+        (2)  Per reference (f), in response to a request by 
+foreign authorities for health information required by foreign 
+State quarantine regulations, aircraft commanders shall provide 
+all information required by authorized foreign officials, 
+consistent with force protection concerns.  If requested, 
+aircraft commanders may provide additional information to the 
+host nation regarding precautionary measures taken onboard due 
+to an ongoing pandemic, without providing any specific individual 
+medical data.  Aircraft commanders shall not grant foreign 
+authorities access to individual health records. 
+ 
+7.  Naval Auxiliary Vessels.  It is U.S. Navy policy to assert 
+sovereign immunity as described below for the following manned 
+and unmanned U.S. Naval Ships (USNS), Military Sealift Command 
+(MSC) vessels, and other U.S. Government-owned and chartered 
+vessels.  Of note, references (j), (k) and (l) are likely to 
+be updated in light of this message.  All parties should use 
+the latest version of the MSC references.  In the event that 
+there is apparent conflict with this policy, this policy 
+controls; higher level guidance should be sought. 
+    a.  USNS, U.S. Government-Owned Vessels, and U.S.-Flagged 
+Time- and Bareboat-Chartered Vessels.  Per references (c), 
+(d) and (j), it is U.S. Navy policy to assert full sovereign 
+immunity for all USNS, U.S. Government-owned vessels or 
+those under bareboat-charter to the U.S. Government, 
+commercially-owned U.S.-flagged vessels under charter to 
+the U.S. Government for a period of time (time-chartered vessels), 
+and the U.S. Maritime Administrations National Defense Reserve 
+Fleet and its Ready Reserve Force, when activated and assigned 
+to the Department of Defense.  In addition to the general 
+privileges and obligations discussed in paragraphs 2 and 3, 
+which apply in full, the following guidance applies for 
+naval auxiliaries asserting full sovereign immunity: 
+        (1)  Searches, Inspections, and Requests for Information. 
+Masters shall not permit a ship or vessel under their command to be 
+searched or inspected on any pretense whatsoever by foreign 
+authorities or organizations, nor permit any of the personnel 
+within the confines of their ship or vessel to be removed by 
+foreign authorities.  Additionally, masters shall refuse 
+requests by foreign authorities to interview personnel aboard 
+or to provide any physical evidence.  Masters shall not provide 
+vessel documents or other vessel-specific information, including 
+a list of crew members (military and/or nonmilitary), riding 
+gang members, or passengers, to foreign authorities or organizations 
+without the approval of the applicable GNCC via the chain-of-command 
+and consultation with N3/N5. 
+        (2)  Taxes and Fees.  A foreign tax is defined in reference (p) 
+as All direct or indirect foreign customs duties, import and export 
+taxes, excises, fees and other charges imposed at the national, local, 
+or intermediate level of a foreign country other than charges for 
+services requested and received, regardless of how a charge is denominated 
+in foreign law or regulation. 
+             (a)  Unless there is an international agreement to the 
+contrary, masters shall refuse to pay any tax or revenue-generating 
+fee imposed on a USNS, U.S. Government-Owned Vessels, U.S.-Flagged 
+Time- or Bareboat-Chartered Vessels by a foreign sovereign.  These 
+taxes, including port taxes, port tariffs, port tolls, port security 
+surcharges, port dockage fees, and other similar taxes or fees, are 
+impermissible.  Masters may pay reasonable charges for goods and 
+services requested and received, less taxes and similar charges. 
+If requested to pay impermissible taxes or fees, masters should 
+request an itemized list of all charges, pay reasonable charges 
+for goods and services requested and received, and explain that 
+under customary international law, sovereign immune vessels are 
+exempt from foreign taxes and fees. 
+             (b)  If port authorities directly insist on payment of 
+an impermissible tax or fee, masters should seek assistance from the 
+respective GNCC and U.S. Embassy via the chain-of-command.  Whether 
+the U.S. Navy will directly pay such an impermissible tax or fee is 
+a matter of overarching U.S. Government policy.  This decision may 
+be based on other concerns such as operational needs, contracting 
+principles, and potential fiscal liability.  If a GNCC determines 
+that risk to mission clearly necessitates the port visit, the fees 
+may be paid and a refund should be sought from the foreign sovereign. 
+Per reference (p), appropriate tax relief is defined to include a 
+refund, to be coordinated via the chain-of-command to the designated 
+military commander for the country levying the subject tax or fee. 
+            (c) If such taxes or fees are levied indirectly through 
+a Husbanding Service Provider (HSP) as part of a foreign fixed price 
+contract, such tax or fee may be paid as part of the contract price. 
+       (3)  Crew Lists 
+            (a)  Except as articulated in reference (k), masters shall not 
+provide a list of crew members (military and/or nonmilitary), riding 
+gang members, or passengers aboard a ship or vessel as a condition 
+of entry into a port or to satisfy local immigration officials upon 
+arrival.  For additional guidance in situations in which a host 
+country demands provision of a list of crew members as a condition 
+of entry into a port or to satisfy local immigration officials 
+upon arrival, see reference (k). 
+            (b)  At the masters discretion on non-warships, a 
+shore party list may be provided to the host nation before a port 
+visit for those individuals onboard who intend to go ashore for 
+liberty.  This shore party list may contain only the names and 
+passport numbers of those personnel.  Other information, such 
+as health record, job description, or employer shall not be 
+provided.  Masters shall comply with applicable U.S. host 
+nation agreements, such as Status of Forces Agreements, 
+that specify particular procedures for port visits to 
+that country. 
+       (4)  Quarantine and Health Information Requirements 
+            (a)  Under references (f) and (h), masters 
+shall comply with all domestic or foreign State quarantine 
+regulations for the port within which the warship is located 
+that do not contravene this sovereign immunity policy.  Per 
+references (f) and (h), in response to a request by foreign 
+authorities for health information required by foreign State 
+quarantine regulations, masters may deliver a U.S. Navy Declaration 
+of Health (NAVMED 6210/3) completed IAW reference (h).  As 
+detailed in this form, as an exhibit, if requested, masters 
+may provide additional information to the host nation regarding 
+precautionary measures taken onboard due to a U.S. declared 
+ongoing pandemic or other similar concern regarding the 
+spread of diseases, without providing any specific individual 
+medical data, after coordination with the GNCC.  This 
+might include sharing mask restrictions, sanitation 
+protocols, and regular testing regimes.  However, delivery 
+of NAVMED 6210/3 and its exhibit, is the only authorized 
+form for meeting the requirements by authorized foreign 
+officials as set forth in reference (f).  Masters are not 
+authorized to provide any other supplementary or locally 
+demanded health forms, even if the supplementary or locally 
+demanded forms appear to disclose similar information, nor are 
+they authorized to grant foreign authorities access to individual 
+health records.  Per reference (h), in response to a request by 
+foreign authorities for access to sanitation conditions onboard, 
+Masters may deliver a U.S. Navy Ship Sanitation Control 
+Certificate (NAVMED 6210/1) and/or a U.S. Navy Ship Sanitation 
+Control Certificate 30-Day Extension (NAVMED 6210/2). 
+            (b)  The above measures satisfy, per reference (h), 
+masters, or their representatives, ability, but not requirement, 
+to certify to foreign authorities actions consistent with foreign 
+State quarantine regulations (i.e., provide a general description 
+of measures taken to comply insofar as permitted by military 
+security requirements).  However, masters shall not permit a 
+ship under their authority to be searched on any pretense 
+whatsoever by foreign authorities and organizations. 
+       (5)  Environmental Mishaps in Foreign Waters.  If, after 
+an oil or hazardous substance spill in foreign territorial or 
+internal waters, a Master determines foreign authorities need 
+additional information to properly respond to the spill and 
+prevent serious environmental damage, the Master may release 
+information similar to that releasable to U.S. authorities 
+under reference (k), and IAW reference (r).  Before releasing 
+spill-related information to foreign authorities, the Master 
+shall consult the GNCC, via the established chain of command, 
+and, if release is deemed appropriate, inform the foreign 
+authorities that the ship or vessel is a sovereign immune vessel 
+of the United States and that spill-related information is being 
+voluntarily provided to help minimize environmental damage. 
+       (6)  Flying Foreign State Flags.  While naval auxiliaries 
+asserting full sovereign immunity are exempt from foreign regulations 
+that require flying a foreign State flag, such vessels may fly foreign 
+State flags to render honors IAW reference (f).  Regional practices 
+to display marks of respect for host nations vary and masters shall 
+consult with the operational chain-of-command, theater- and fleet-specific 
+guidance, and local embassies for further guidance if the issue is raised 
+by host nation officials. 
+       (7)  Compulsory Pilotage.  Consistent with 
+guidance provided for commanding officers under Article 
+0856 of reference (f), masters may employ pilots when, in 
+the masters judgement, such employment is prudent.  Inherent in 
+such discretion is the authority to refuse use of a pilot  or 
+to disregard such pilots advice regarding the safe navigation 
+of a vessel.  Accordingly, U.S. vessels may, but are not 
+required to, employ pilots as prudent.  Except in such circumstances 
+as described in article 0856 of reference (f), masters may, but 
+are not required to, allow pilots onboard.  If a nation deems 
+pilot employment as a condition for entering port or transiting 
+their waters, contrary to reference (s), masters shall inform 
+foreign authorities that the ship or vessel is a sovereign 
+immune vessel of the United States and that pilotage services 
+are being voluntarily accepted and not as a condition of entry. 
+    a.  U.S.-Flagged Voyage Chartered Vessels.  Although U.S.-flagged 
+voyage chartered vessels are entitled to assert full privileges of 
+sovereign immunity when under the direction of the United States 
+and used exclusively in Government non-commercial service, the 
+United States continues as a matter of policy to claim only 
+limited immunity from arrest and taxation for such vessels 
+per reference (d). 
+        (1)  Based on commercial practices, the U.S. Navy may choose 
+not to assert any privileges of sovereign immunity for such vessels, 
+but it always reserves the right to assert full or limited sovereign 
+immunity on a case-by-case basis, as determined by the respective 
+GNCC via MSC Headquarters or MSC Area Commander.  Masters shall be 
+informed of the U.S. Navys intention to assert full or limited 
+sovereign immunity. 
+        (2)  When full sovereign immunity is asserted, masters 
+shall comply with the guidance in paragraph 7.a.  When limited 
+sovereign immunity is asserted, Masters shall refuse attempts to 
+arrest or impose foreign taxes on the vessel and shall seek assistance 
+from the respective GNCC and U.S. Embassy, in coordination with MSC 
+Headquarters or MSC Area Commander, if foreign authorities attempt 
+to arrest or impose foreign search or inspect U.S. military cargo. 
+See reference (k) for additional guidance. 
+        (3)  When limited or no sovereign immunity is asserted, 
+U.S.-flagged voyage chartered vessels may provide a list of crew 
+members as a condition of entry into a port or to satisfy local 
+immigration officials upon arrival.  U.S.-flagged voyage chartered 
+vessels generally follow the same procedures as commercial vessels 
+when information is requested by foreign authorities, including 
+environmental response information after an oil spill.  Foreign 
+authorities may search these vessels, but masters shall request 
+these authorities to refrain from inspecting or searching U.S. 
+military cargo onboard.  masters should seek assistance from the 
+respective GNCC and U.S. Embassy, via MSC Headquarters or MSC 
+Area Commander, if foreign authorities attempt to search or 
+inspect U.S. military cargo. 
+    b.  Foreign State-Flagged Chartered Vessels.  The U.S. Navy does 
+not claim sovereign immunity for foreign State-flagged chartered 
+vessels.  These vessels are in the same position as commercial 
+vessels when interacting with foreign authorities except that 
+U.S. Government cargo on such vessels should receive special 
+consideration, protection, and treatment.  Foreign authorities may 
+search these vessels, but masters shall request these authorities 
+refrain from inspecting or searching U.S. military cargo onboard 
+their vessel.  Masters should seek assistance from the respective 
+GNCC and U.S. Embassy, via MSC Headquarters or MSC Area Commander, 
+if foreign authorities attempt to search or inspect U.S. military cargo. 
+ 
+8.  Foreign Military Vessels and Aircraft Visiting U.S. 
+Ports and Airports.  Consistent with customary international 
+law, reference (m), and the well-established principle of 
+international comity, it is U.S. Government policy to extend 
+to all foreign warships, state aircraft, and auxiliary vessels 
+visiting the United States the same sovereign immunity privileges 
+described in paragraphs 2 through 7.  It is incumbent on Navy 
+commanders to ensure U.S. Federal, state, and local civil 
+authorities understand the principles of sovereign immunity 
+and respect these principles at all times.  To this end, Navy 
+commanders shall comply with the procedures set forth in 
+reference (g) when coordinating visits to the United States 
+by foreign warships, state aircraft, and auxiliary vessels. 
+Additionally, Navy commanders should seek to develop relationships 
+with local U.S. authorities and provide them with planning and 
+liaison assistance, as needed, before, during, and after visits 
+by foreign sovereign immune vessels and aircraft.  Doing so will 
+ensure visits by foreign sovereign immune vessels and aircraft 
+are conducted IAW international law and with the same courtesy 
+and efficiency expected by the U.S. Navy when visiting foreign 
+ports and airports. 
+ 
+9.  Effect of Existing Agreements.  This policy does not 
+abrogate or modify existing international agreements, such 
+as Status of Forces Agreements, Defense Cooperation Agreements, 
+or treaties, such as the Treaty Concerning the Permanent 
+Neutrality and Operation of the Panama Canal.  If such an 
+international agreement exists between the United States and 
+a host country, GNCCs, commanding officers, officers-in-charge, 
+aircraft commanders, and masters shall, in consultation with 
+their judge advocate or general counsel, comply with the 
+provisions of such agreement. 
+ 
+10.  Released by VADM P. G. Sawyer, Deputy Chief of 
+Naval Operations for Operations, Plans and Strategy (N3/N5).// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

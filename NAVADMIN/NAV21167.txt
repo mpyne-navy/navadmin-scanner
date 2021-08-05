@@ -1,0 +1,49 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 051315Z AUG 21 MID200001039248U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 167/21 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//N34// 
+MSGID/GENADMIN/CNO WASHINGTON DC/CNO/AUG// 
+ 
+SUBJ/PROMULGATION OF OPNAVINST F3300.53D NAVY ANTITERRORISM PROGRAM// 
+ 
+REF/A/DOC/OPNAV/26MAY09// 
+REF/B/DOC/OPNAV/02AUG21// 
+AMPN/REF A IS OPNAVINST F3300.53C NAVY ANTITERRORISM PROGRAM. 
+REF B IS OPNAVINST F3300.53D NAVY ANTITERRORISM PROGRAM// 
+ 
+RMKS/1.  This NAVADMIN provides the cancellation of reference (a) and 
+promulgates the release of reference (b).  The policy, guidance, and 
+procedures detailed in reference (b) are effective immediately with the 
+following exception: 
+         a.  Naval Component Commands (NCC) will not be required to conduct 
+Higher Headquarter Operational Assessments (HHOA) until FY25, in order to 
+provide the NCCs the opportunity to request additional manpower through the 
+POM 24 budget planning process.  NCCs that are unable to meet the HHOA 
+requirement by 1 October 2024 are required to utilize the deviation program 
+procedures outlined in Chapter 2 of reference (b).  OPNAV N3/N5 will be the 
+approving authority for these deviations. 
+ 
+2.  The points of contact for questions regarding the Navy Antiterrorism 
+Program are CAPT Aaron Shoemaker, aaron.f.shoemaker.mil(at)us.navy.mil,  
+(703) 692-8350, and LCDR Rob Files, robert.a.files.mil(at)us.navy.mil, (703) 
+693-2181. 
+ 
+3.  This NAVADMIN will remain in effect until superseded or 1 October 2024, 
+whichever comes first. 
+ 
+4.  Released by VADM P. G. Sawyer, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
