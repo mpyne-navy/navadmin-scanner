@@ -1,0 +1,99 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 061336Z AUG 21 MID200001043954U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 170/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/POST-9/11 GI BILL POLICY UPDATE// 
+ 
+REF/A/DOC/DVA/5JAN21// 
+REF/B/DOC/USD P AND R/9APR21// 
+REF/C/DOC/DOD/31MAY13// 
+ 
+NARR/REF A IS THE JOHNNY ISAKSON AND DAVID P. ROE, M.D. VETERANS HEALTH CARE 
+AND BENEFITS IMPROVEMENT ACT OF 2020.   
+REF B IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS MEMORANDUM, 
+UPDATE ON THE DEFINITION OF ELIGIBLE DEPENDANTS FOR THE TRANSFER OF POST- 
+9/11 GI BILL EDUCATIONAL BENEFITS FOR FOSTER CHILDREN AND LEGAL 
+WARDS.   
+REF C IS DEPARTMENT OF DEFENSE INSTRUCTION 1341.13 CHANGE 1,  
+POST-9/11 GI BILL.// 
+ 
+RMKS/1.  This NAVADMIN announces the addition of foster children and legal 
+wards to the definition of an eligible dependent for the purposes of Post-
+9/11 GI Bill transfer of education benefits (TEB), as directed in reference 
+(a) and implemented in reference (b). 
+ 
+2.  Effective date of this change is 5 January 2021.  The Department of 
+Veterans Affairs will only pay benefits effective this date or the date the 
+service approves the TEB, whichever is later. 
+ 
+3.  Service Members currently serving on Active Duty (AD) or in the Selected 
+Reserve (SELRES) who have been approved for TEB, may transfer benefits to 
+foster children or legal wards who have been residing with the Service 
+Member, pursuant to a court order, for at least 12 consecutive months. 
+ 
+4.  For AD and SELRES previously approved for TEB and who have foster 
+children or legal wards listed in the Defense Enrollment Eligibility 
+Reporting System (DEERS), the Defense Manpower Data Center (DMDC) made these 
+dependents available to receive transferred benefits but did not assign them 
+any months.  Service Members should take action described in paragraph 5c to 
+allocate benefits as desired. 
+ 
+5.  AD and SELRES not yet approved for TEB must follow paragraphs 5a-5c to 
+transfer benefits to eligible foster children and legal wards. 
+    a.  On initial application in DMDC milConnect, allocate at least one 
+month of benefits to an eligible spouse or child. 
+    b.  After approval of initial TEB application, DMDC will manually make 
+foster children and legal wards eligible to receive benefits, but will not 
+assign them any months.  There will be no notification that DMDC has taken 
+this action. 
+    c.  While continuing to serve on AD or in the SELRES, log in to DMDC 
+milConnect and allocate any unused benefits among eligible dependents, 
+including foster children or legal wards, without additional service 
+obligation. 
+    d.  A future DMDC update will display foster children and legal wards as 
+eligible transferees during the initial application. 
+ 
+6.  After transfer of benefits to a foster child or legal ward, termination 
+of the foster child/legal ward relationship does not rescind the transferred 
+benefits.  The former foster child or legal ward will remain eligible until 
+they reach 26 years of age, or the transferor revokes the TEB. 
+ 
+7.  Children who are no longer in a foster or legal ward status, or who had 
+their association with the Service Member terminated in DEERS, without having 
+at least one month of Post-9/11 GI Bill benefits allocated to them by the 
+Service Member prior to termination of their status, are not eligible to 
+receive transferred education benefits. 
+ 
+8.  All other Post-9/11 GI Bill and TEB policies remain in effect. 
+An update to reference (c) will incorporate this definition change. 
+ 
+9.  For Post-9/11 GI Bill and TEB questions, contact the following: 
+    a.  Mr. Jim Johnson, Education Policy Branch, via e-mail at 
+james.p.johnson(at)navy.mil. 
+    b.  AD and Full-Time Support may submit inquiries to MyNavy Career Center 
+(MNCC) at 1-833-330-6622 or via e-mail at askmncc(at)navy.mil. 
+    c.  SELRES may submit inquiries to Commander, Navy Reserve Forces Command 
+(CNRFC), Post-9/11 GI Bill Manager, at 1-800-621-8853 or via e-mail at 
+cnrfc_post911gib.fct(at)navy.mil. 
+ 
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+11.  Released by VADM John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
