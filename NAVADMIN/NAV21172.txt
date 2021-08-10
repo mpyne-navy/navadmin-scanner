@@ -1,0 +1,69 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 101750Z AUG 21 MID600050861894U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 172/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/AUG// 
+ 
+SUBJ/SUNDOWN OF THE CONGRESSIONAL INFORMATION MANAGEMENT SYSTEM// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/012049ZMAY17 
+NARR/REF A is NAVADMIN 105/17, IMPLEMENTATION OF THE DEPARTMENT OF NAVY 
+TASKS, RECORDS, AND CONSOLIDATED KNOWLEDGE ENTERPRISE REPOSITORY FOR TASK 
+MANAGEMENT// 
+ 
+RMKS/1.  This NAVADMIN announces the sundown of the Congressional Information 
+Management System (CIMS) and migration to Department of the Navy (DON) 
+Tasking, Records and Consolidated Knowledge Enterprise Repository (TRACKER) 
+for commands using CIMS as a task management (TM) tool. 
+ 
+2.  DON TRACKER was implemented as a TM solution in May 2017, per reference 
+(a). With the expiration of CIMS licensing on 31 August 2021, DON TRACKER 
+will become the single enterprise solution for TM; therefore, all CIMS users 
+will transition to DON TRACKER. 
+ 
+3. CIMS Data Migration. CIMS data migration will take place in a phased 
+approach. 
+    a.  First phase:  Commencing 25 August 2021, CIMS will convert to read-
+only and active taskers will be migrated to DON TRACKER. All new TM functions 
+will be performed in DON TRACKER.  Users will still be able to view taskers 
+in CIMS. 
+    b.  Second phase:  Commencing 31 August 2021, users will no longer be 
+able to access CIMS.  Closed taskers will only be accessible through an 
+offline database. Requests for access to the offline database may be 
+addressed to the CIMS Data Migration Manager listed in paragraph 7. 
+ 
+4.  CIMS will sundown on 1 September 2021. 
+ 
+5.  To register for DON TRACKER, see reference (a). If a user is unable to 
+identify their organization, contact the commands DON TRACKER organization 
+administrator. 
+ 
+6.  DON TRACKER Customer Support. Customers may initiate service requests for 
+technical assistance by calling 1-833-NESD-NOW (1-833-637-3669) or by sending 
+an email to nesd.dontracker.fct(AT)navy.mil. 
+ 
+7.  Point of contacts are: 
+    a.  Data Migration Manager:  CDR Elaine Reid, 703-695-6559 or 
+elaine.d.reid.mil(AT)us.navy.mil 
+    b.  CIMS Coordinator:  LT Adam Fabry, 703-693-2965 or 
+adam.j.fabry.mil(AT)us.navy.mil 
+    c.  DON TRACKER Coordinator:  LT Ryan Brown, 703-695-0053 or 
+ryan.c.brown72.mil(AT)us.navy.mil 
+ 
+8.  Released on behalf of Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
