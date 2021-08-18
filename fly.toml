@@ -25,6 +25,13 @@ kill_timeout = 15
   [[services.tcp_checks]]
     grace_period = "1s"
     interval = "10s"
-    port = "8080"
     restart_limit = 5
+    timeout = "2s"
+
+  [[services.http_checks]]
+    interval = "10s"
+    grace_period = "2s"
+    method = "get"
+    path = "/about"
+    protocol = "http"
     timeout = "2s"
