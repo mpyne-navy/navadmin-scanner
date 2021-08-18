@@ -1,6 +1,6 @@
 UNCLASSIFIED// 
 ROUTINE 
-R 011541Z JUL 21 MID600050737806U 
+R 011541Z JUL 21 MID600050883681U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
@@ -14,7 +14,8 @@ PASS TO OFFICE CODES:
 FM CNO WASHINGTON DC//DNS// 
 INFO CNO WASHINGTON DC//DNS// 
  
-SUBJ/2021 MRS. SYBIL STOCKDALE OMBUDSMAN OF THE YEAR AWARD RECIPIENTS// 
+SUBJ/2021 MRS. SYBIL STOCKDALE OMBUDSMAN OF THE YEAR AWARD RECIPIENTS 
+(CORRECTED COPY)// 
  
 RMKS/1.  I am pleased to announce the selection of four outstanding Ombudsmen 
 as the 2021 Mrs. Sybil Stockdale Ombudsman of the Year Award recipients. 
@@ -33,7 +34,7 @@ Command.
     b.  Mrs. Kiley Jensen, Ombudsman for Commander, Expeditionary Strike 
 Group SEVEN selected from all sea commands under Commander, U.S. Pacific 
 Fleet. 
-    c.  Mrs. Deidre Jaskowiak, Ombudsman for Commanding Officer, Naval Base 
+    c.  Mrs. Deidra Jaskowiak, Ombudsman for Commanding Officer, Naval Base 
 San Diego selected from all naval shore activities in the Navy. 
     d.  Mrs. Bryttany Scudder, Ombudsman for Commanding Officer, Patrol 
 Squadron SIX NINE selected from all Reserve commands under Commander, Navy 
@@ -44,8 +45,8 @@ of professionalism and create a healthy sense of community by being positive
 role models for command members and their families. 
  
 4.  Commander, Navy Installations Command point of contact is 
-Ms. Brandy Littler, Ombudsman Program Coordinator, (202) 433-4701 
-(DSN 288), or email brandy.littler(AT)navy.mil. 
+Ms. Brandy Littler, Ombudsman Program Coordinator, (202) 433-4701 (DSN 288), 
+or email brandy.littler(AT)navy.mil. 
  
 5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
  

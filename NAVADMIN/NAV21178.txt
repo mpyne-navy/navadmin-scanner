@@ -1,0 +1,93 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 171421Z AUG 21 MID600050895145U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 178/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1/N7//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/NAVY PERSONNEL AND PAY (NP2) SYSTEM DELIVERY PLAN PHASE 1 (DESIGNATION 
+OF FUNCTIONAL ACCOUNT MANAGER (FAM))//
+
+RMKS/1.  Command engagement is critical to the successful deployment of the 
+new Navy Personnel and Pay (NP2) system.  This NAVADMIN announces Phase 1 of 
+2 of the NP2 system delivery plan, requiring command designation of their 
+Functional Account Manager (FAM) and the initial account creation for the 
+FAM.  The FAM is responsible for final approval of all user role requests in 
+NP2, with the exception of self-service user roles; this role in the Navy 
+Standard Integrated Personnel System (NSIPS) is referred to as the NSIPS 
+Access Manager (NAM).  In line with phase 1, FAM designation and account 
+approval will be complete by all commands not later than 1 October 2021.
+    a.  Each unit identification code (UIC), to include Reserve commissioned 
+units, must have a designated FAM.  A designated FAM can, and often will, 
+support more than one UIC.  The FAM will ultimately act as the final approval 
+authority for the remainder of the command initial user roles and should be 
+an individual E5 or above or GS-5 or above.  Ideally, the initial designated 
+FAM will have at least 9 months remaining at the command.  If that is not 
+possible, due to the enduring nature of the FAM requirement, when a FAM 
+leaves a command, a relief must be designated; this role cannot be vacant.
+    b.  To assist all commands, an NP2 Command Startup Guide has been 
+developed with step-by-step guidance and user role checklists.
+Appendix A of the Command Startup Guide includes a sample FAM designation 
+letter and the System Authorization Access Request Navy
+(SAAR-N) routing process.  The Command Startup guide can be found on the NP2 
+Resources page of MyNavy Portal at https://my.navy.mil/np2.html.
+    c.  The establishment of the FAM user role will be conducted via the 
+manual SAAR-N PDF method, which consists of the user completing a traditional 
+SAAR-N PDF and routing it through the required offices at their command in 
+accordance with the Command Startup Guide.  A template of the SAAR-N PDF can 
+be found in the NP2 Command Startup Guide.  The request for FAM access 
+requires the member to upload the approved SAAR-N PDF form with proof of 
+completion of the current Cyber Awareness Challenge training and the member 
+designation letter into the NP2 SAAR-N Request at https://np2.navy.mil to 
+complete the application for the FAM user role.  While the NP2 Command 
+Startup Guide covers the processes listed above in detail, additional 
+assistance, if required, will be provided through the MyNavy Career Center 
+(833) 330-MNCC or askmncc(at)navy.mil.
+
+2.  NP2 System Delivery Plan Phase 2 is anticipated to be announced by 
+NAVADMIN no later than October 2021.  Phase 2 will guide commands through the 
+steps to complete the NP2 command setup and organizational hierarchy and 
+workflow processes.  When NP2 goes live, all Sailors will have NP2 self-
+service accounts automatically pre-populated in their current UIC.  However, 
+anyone required to approve a personnel or pay action must have a higher level 
+user role that will be covered in Phase 2.
+
+3.  MyNavy HR continues to transform the Human Resources delivery model.  NP2 
+will provide personnel and payroll operations for all Sailors, active and 
+reserve components and Midshipmen, and allow the Navy to transition from the 
+Defense Joint Military Pay System (DJMS) to Treasury Direct Disbursing and 
+provide for internal audit controls and financial management.  Regularly 
+scheduled enhancements will be made to NP2 over the next few years, as we 
+continue to modernize and increase the system functionality for the Fleet.
+
+4.  A transition of this magnitude is certainly daunting.  To accomplish it, 
+we will rely on the cooperation of our partners and customers across the 
+Fleet.  That cooperation is paramount to our successful transition to a new 
+modern service delivery which is key to the future readiness of the Navy.
+
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
