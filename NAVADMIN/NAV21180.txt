@@ -1,0 +1,226 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 231718Z AUG 21 MID200001067754U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 180/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/AUG// 
+ 
+SUBJ/UPDATE 3 TO NAVY COVID-19 REPORTING REQUIREMENTS// 
+ 
+REF/A/NAVADMIN/OPNAV/211617ZAPR20// 
+REF/B/NAVADMIN/OPNAV/131734ZOCT20// 
+REF/C/OPNAVINST F3100.6K/10AUG21// 
+REF/D/NAVADMIN/OPNAV/171541ZAPR20// 
+REF/E/DOC/BUMED/27MAR20// 
+ 
+NARR/REF A IS NAVADMIN 115/20, UPDATE TO NAVY COVID-19 REPORTING 
+REQUIREMENTS.   
+REF B IS NAVADMIN 277/20, UPDATE 2 TO NAVY COVID-19 REPORTING REQUIREMENTS.   
+REF C IS OPNAVINST F3100.6K, SPECIAL 
+INCIDENT REPORTING PROCEDURES. REF D NAVADMIN 113/20 RESTRICTION OF MOVEMENT 
+(ROM) GUIDANCE UPDATED.   
+REF E IS BUMED RETURN TO WORK GUIDANCE.// 
+ 
+POC/CDR JAKE WADSLEY/OPNAV N30/703-692-0644/ 
+JAKE.T.WADSLEY.MIL(AT)US.NAVY.MIL/POC/OPNAV COVID RESPONSE CELL/703-571-2822 
+/OPNAV_COVID_RESPONSE_CELL(AT)NAVY.(SMIL.)MIL 
+ 
+RMKS/1.  This message supersedes reporting guidance in refs (a) and (b), 
+and supplements reporting guidance in ref (c) for COVID-19 reporting only, 
+making vaccination status a required field for all military personnel.  In 
+order to track the efficacy of our vaccine against the COVID delta variant, 
+daily roll-up should include: vaccination/immunization status, 
+symptomatic/asymptomatic status, why tested.  The updated mass-upload excel 
+file includes vaccination status as a required field and will be downloaded 
+and used by all unit level commands no later than 03 September 2021. 
+ 
+2.  OPREP-3 Navy Blue Message traffic is required in addition to sharepoint 
+reporting for 1) COVID-19 deaths, 2) media interest events, 3) COVID positive 
+cases while at sea regardless of vaccine status, and/or 4) significant 
+operational impacts. 
+ 
+3.  Reporting via OPNAV SharePoint site is required by all commands for all 
+COVID cases for all military, civilians, dependents, and contractors.  Once 
+entered, commands are required to update changes in case status via the OPNAV 
+SharePoint site within 24 hours.  An updated mass-upload excel file is 
+available on SharePoint site at My Navy Portal 
+site https://www.mnp.navy.mil/group/navy-covid-19-reporting, with an 
+effective implementation date of 03 September 2021.  After the implementation 
+date, old excel files for mass-uploads will no longer be accepted. 
+ 
+3.A.  VACCINATION STATUS.  Vaccination status is a required entry for all 
+active and reserve service members.  Report vaccination status for civilians, 
+contractors or dependents if known.  If unknown, report as unknown. 
+ 
+4.  APPLICABILITY.  This message applies to all Navy units. 
+ 
+5.  TEMPLATE.  The following template is provided as the body of the message 
+with example entries for clarification only.
+ 
+All fields are required. 
+------BEGIN TEMPLATE------ 
+FM USS NAVY COMMAND 
+TO CNO WASHINGTON DC 
+INFO additional addresses as directed by REF A 
+UNCLAS SECINFO/U/- // 
+ 
+MSGID/OPREP-3NB,USMTF,2020/USS NAVY COMMAND/011B// 
+ 
+REF/A/DOC/OPNAV/10AUG21// 
+REF/B/VOX/NAVY COMMAND/160415ZAPR20// 
+REF/C/VOX/NAVY COMMAND/160423ZAPR20// 
+REF/D/MSG/NAVY COMMAND/170400ZAPR20// 
+REF/E/MSG/NAVY COMMAND/180400ZAPR20// 
+ 
+NARR/REF A IS OPNAVINST F3100.6K.  REF B IS INITIAL VOICE REPORT TO ISIC.   
+REF C IS INITIAL VOICE REPORT TO CNSP COVID COORDINATION CELL.   
+REF D IS INITIAL SITREP. 
+REF E IS NAVY COMMAND UPDATED SITREP.// 
+FLAGWORD/NAVY BLUE/-//TIMELOC/190400ZAPR20/HOMEPORT, STATE/UPDATE// 
+GENTEXT/INCIDENT IDENTIFICATION AND DETAILS/ 
+ 
+1.  COMMAND/USS NAVY COMMAND/UIC:  NNNNN 
+ 
+1.A.  COMMAND LOCATION:  [e.g., EVERETT, WA, USA] 
+Note:  Commands location:  Port, City, State, Country or At Sea in 
+[Geographic COCOMAOR].  Multi-crew ships report on-crew or off-crew.  When 
+underway, SSBN?S report only at Sea vice any other geographic information. 
+ 
+1.B.  FLEET CONCENTRATION AREA AND NAVY REGION:  [e.g., PACNORTHWEST, CNRNW] 
+ 
+2.  DOD ID NUMBER:  NNNNNNNNNN 
+ 
+2.A.  RATE/RANK:  [e.g., RSSN/E-3] 
+ 
+2.B.  AGE:  NN 
+ 
+2.C.  GENDER:  M/F 
+ 
+3.  DATE INDIVIDUAL WAS DIAGNOSED COVID-19:  [e.g., 15APR20] 
+ 
+3.A.  TYPE OF DIAGNOSIS:  [e.g., POSITIVE COVID-19 TEST] Note.  Type of 
+diagnosis:  Positive COVID-19 Test or Diagnosis by a health care provider 
+without a positive COVID-19 test. 
+ 
+3.B.  DATE OF COVID-19 TESTING:  [e.g., 1700T, 15APR20] 
+ 
+3.C.  TESTING RESULTS:  [e.g., POSITIVE 2000T, 15APR20] 
+ 
+4.  VACCINATION STATUS:  [e.g., Unknown (only a valid entry for civilians), 
+None, Vaccinated (first shot in a series of two shots of COVID-19 vaccine), 
+or Immunized (completed the vaccine series and is considered immune two weeks 
+after the vaccine sequence is complete).  April 10, 2021 (effective date of 
+status change, if applicable)] 
+ 
+5.  REASON FOR PUI/CASE STATUS:  [e.g., MEMBER TRANSFERRED TO MADIGAN ARMY 
+MEDICAL CENTER ON JOINT BASE LEWIS-MCCHORD (JBLM), PLACED IN INTENSIVE CARE 
+UNIT (ICU) AND PLACED ON VENTILATOR.] 
+ 
+5.A.  ISOLATION BERTHING LOCATION:  HOSPITAL (ICU IF APPLICABLE) OR 
+HOME/BARRACKS. 
+ 
+5.B.  ISOLATION START DATE:  [e.g., 2000T, 15APR20] 
+ 
+5.C.  DESCRIPTION OF SYMPTOMS EXHIBITED:  [e.g., FEVER OF 104.9, FULL BODY 
+ACHES, SHAKES.] 
+ 
+5.D.  DATE INDIVIDUAL ADMITTED TO HOSPITAL AND HOSPITAL NAME:  [e.g., 
+2230T, 16APR20 AT MADIGAN ARMY MEDICAL CENTER ON JOINT BASE LEWIS-MCCHORD.] 
+ 
+5.E.  WHETHER OR NOT INDIVIDUAL REQUIRED TREATMENT IN ICU OR RELEASED FROM 
+ICU:  [e.g., YES.  SERVICE MEMBER WAS PLACED IN ICU AT 0500T, 18APR20.] 
+ 
+5.F.  WHETHER OR NOT INDIVIDUAL WAS PLACED ON VENTILATOR OR REMOVED FROM A 
+VENTILATOR:  [e.g., YES.  SERVICE MEMBER PLACED ON VENTILATOR AT 0500T, 
+18APR20.] 
+ 
+5.G.  DATE INDIVIDUAL DISCHARGED FROM THE HOSPITAL. 
+ 
+5.H.  DATE INDIVIDUAL RECOVERED. 
+ 
+6.  14 DAY TRAVEL HISTORY. 
+ 
+7.  COMMANDERS ASSESSMENT:  [e.g., COMPREHENSIVE TIMELINE BELOW. MEMBER LAST 
+ONBOARD 13APR20.  WHILE OFF DUTY, MEMBER REMAINED AT HIS BARRACKS ONLY GOING 
+OUT FOR ESSENTIAL ITEMS.  MEMBER DISPLAYED SYMPTOMS ON 15APR20.  AT 1630L, 
+15APR20 MEMBER ADMITTED TO ER AT PROVIDENCE HOSPITAL IN EVERETT, WA.  MEMBER 
+TESTED POSITIVE AT 2000L, MEMBER WAS EVALUATED AS STABLE AND DISCHARGED AT 
+2245L, 15APR20.  MEMBER WAS ISOLATED IN BLDG 2028 NAVSTA EVERETT, WA.  AT 
+1000, 16APR20, MEMBER SYMPTOMS INCREASED AND TRANSPORTED TO PROVIDENCE 
+HOSPITAL.  MEMBER WAS PROVIDED MEDICATION AND STABILIZED. 
+MEMBER WAS DISCHARGED AROUND 1300L, 16APR20.  BASED ON FURTHER MEDICAL 
+ASSESSMENT MEMBER WAS TRANSPORTED AND ADMITTED TO MADIGAN ARMY MEDICAL CENTER 
+ON JOINT BASE LEWIS-MCCORD (JBLM) AT 2230L, 16APR20.  AT 0500L, 18APR20, 
+MEMBER TRANSFERRED TO ICU AND PLACED ON VENTILATOR AT MADIGAN ARMY MEDICAL 
+CENTER.  COMMAND ASSESSES CONTACT ON 13APR20 WITH FOUR SAILORS WITHIN SIX 
+FEET OR LESS FOR GREATER THAN FIFTEEN MINUTES:  HM2, GSM3, CSSN, CSSN.  IT1 
+DROVE MEMBER TO PROVIDENCE ER THE EVENING OF 15APR20.  SAME HM2 MENTIONED 
+ABOVE, DROVE MEMBER FROM PROVIDENCE TO BARRACKS THE EVENING OF 15APR20.  AS 
+OF 0900L, 18APR20, ALL FIVE SAILORS REPORT NO SYMPTOMS.] 
+Note:  Include how many additional members have been exposed (Contact, large 
+gatherings, etc.) 
+ 
+8.  IMMEDIATE AND SECOND ORDER IMPACTS TO READINESS:  [e.g., ROM OF 1 OF 2 
+GENERAL CORPSMAN, 1 OF 1 MESS DECK MASTER-AT-ARMS, 1 OF 12 FOOD SERVICE 
+ATTENDANTS, 2 OF 13 CULINARY SPECIALIST. ABLE TO CONTINUE CURRENT MISSION.] 
+ 
+9.  MEDIA INTEREST:  YES 
+ 
+10.  FOR UNDERWAY UNITS ONLY (N/A for inport units) 
+ 
+10.A.  14 DAY TRAVEL SUMMARY. 
+ 
+10.B.  TOTAL NUMBER OF CLOSE CONTACT PERSONNEL. 
+ 
+10.C.  TOTAL NUMBER OF CLOSE CONTACT PERSONNEL AT WATCH/WORK STATION. 
+ 
+10.D.  TOTAL NUMBER OF CLOSE CONTACT PERSONNEL DUE TO BERTHING CONFIGURATION. 
+ 
+10.E.  DUTY/WATCH ROTATION:  (e.g., 3 sections) 
+ 
+10.F.  MITIGATION MEASURES PUT IN PLACE. 
+ 
+10.G.  ACTIONS FOR INDIVIDUALS IN CLOSE CONTACT. 
+ 
+10.H.  MEDEVAC/DEBARK INTENTIONS. 
+ 
+11.  PRE-UNDERWAY ISOLATION/QUARANTINE INFORMATION FOR THE INDIVIDUAL 
+(N/A for inport units). 
+ 
+11.A.  ISOLATION LOCATION. 
+ 
+11.B.  QUARANTINE START DATE. 
+ 
+11.C.  QUARANTINE STOP DATE. 
+ 
+11.D.  ANY SPECIFIC QUARANTINE GUIDANCE PROVIDED TO THE INDIVIDUAL. 
+ 
+12.  ANY SHORTAGE OF MEDICAL PPE OR TEST KITS FOR ASSIGNED UNITS OR COMMANDS. 
+ 
+13.  SUMMARY UPDATE OF COVID-19 CASES ONBOARD:  [e.g., 1 ACTIVE CASE 
+ONBOARD.] Note:  Update on ships COVID-19 cases:  (i.e., 15-total positives, 
+7-active,8-recovered, no hospitalizations, DTG of related initial OPREP-3 
+messages and updates.) 
+ 
+14.  POC:  [e.g., CDR SAILOR/XO/(NNN)NNN-NNNN/XO(AT)UNIT.NAVY.MIL] 
+------END TEMPLATE------ 
+ 
+6.  For questions on reporting requirements, contact OPNAV COVID Crisis 
+Response Cell at 703-571-2822 or 
+OPNAV_COVID_CRISIS_RESPONSE_CELL(AT)NAVY.(SMIL.)MIL or 
+OPNAV Battle Watch Captain at 703-692-9284 or BWC.PTGN(AT)NAVY.MIL. 
+ 
+7.  Released by VADM W. R. Merz, Deputy Chief of Naval Operations for 
+Operations, Plans And Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
