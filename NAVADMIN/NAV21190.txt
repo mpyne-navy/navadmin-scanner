@@ -1,0 +1,276 @@
+UNCLASSIFIED//
+ROUTINE
+R 311913Z AUG 21 MID200001090997U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO SECNAV WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 190/21
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/AUG//
+
+SUBJ/2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND REPORTING POLICY//
+
+REF/A/DOC/SECDEF/24AUG21//
+REF/B/ALNAV/SECNAV/302126ZAUG21//
+REF/C/DOC/BUMEDINST 6230.15B/7OCT13//
+REF/D/DOC/BUPERSINST 1730.11A/16MAR20//
+REF/E/DOC/MILPERSMAN 1730-020//
+REF/F/NAVADMIN/OPNAV/042044ZMAY21//
+REF/G/DOC/DHA/DHA-IPM/6MAY21//
+REF/H/DOC/ASD/3JUN2021//
+
+NARR/REF A IS THE SECRETARY OF DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 
+2019 VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS.
+REF B IS ALNAV 062/21, 2021-2022 DEPARTMENT OF NAVY MANDATORY COVID-19 
+VACCINATION POLICY.
+REF C IS BUMEDINST 6230.15B, IMMUNIZATIONS AND CHEMOPROPHYLAXIS FOR THE 
+PREVENTION OF INFECTIOUS DISEASE.
+REF D IS BUPERSINST 1730.11A, STANDARDS AND PROCEDURES GOVERNING THE 
+ACCOMMODATION OF RELIGIOUS PRACTICES.
+REF E IS MILPERSMAN 1730-020, IMMUNIZATION EXEMPTIONS FOR RELIGIOUS BELIEFS.
+REF F IS NAVADMIN 088/21, SARS-COV-2 VACCINATION AND REPORTING POLICY UPDATE.
+REF G IS DEFENSE HEALTH AGENCY INTERIM PROCEDURES MEMORANDUM 20-004, 
+DEPARTMENT OF DEFENSE (DOD) CORONAVIRUS DISEASE 2019 (COVID-19) VACCINATION 
+PROGRAM IMPLEMENTATION PROGRAM.
+REF H IS ASSISTANT SECRETARY OF DEFENSE FOR HEALTH AFFAIRS MEMO, CO-
+ADMINISTRATION OF CORONAVIRUS DISEASE 2019 VACCINES WITH OTHER VACCINES.
+ 
+POC/BUMED COVID-19 CRISIS ACTION TEAM / (703) 681-1125/EMAIL:
+USN.NCR.BUMEDFCHVA.MBX.BUMED---2019-NCOV-RESPONSE-CELL(AT)MAIL.MIL /  
+OPNAV COVID-19 CRISIS ACTION TEAM / (703) 571-2822 /  
+EMAIL: OPNAV_COVID_CRISIS_RESPONSE_CELL(AT)NAVY.MIL.
+
+RMKS/1.  Background.  Disease modeling forecasts that severe acute 
+respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-
+19, will continue to spread throughout the remainder of 2021.  Data and 
+modeling also indicate that the available vaccines will continue to be 
+effective against severe illness and mortality caused by COVID 19.  Of note, 
+all Navy COVID deaths have been individuals not immunized (one individual was 
+partially vaccinated).  In consideration of this persistent health and 
+readiness threat to Navy service members, vaccination against COVID-19 is now 
+mandatory per references (a) and (b).  This NAVADMIN provides guidance 
+regarding implementation within the Navy.
+
+2.  Policy.  In accordance with references (a), (b), and this NAVADMIN, Navy 
+service members will be fully vaccinated against COVID-19 through 
+administration of vaccines that have received Food and Drug Administration 
+(FDA) licensure or through the voluntary administration of vaccines under FDA 
+Emergency Use Authorization (EUA) or World Health Organization (WHO) 
+Emergency Use Listing.
+
+2.a.  Navy Service Members.  Active duty service members, service members in 
+the selected reserve, and service members in the Individual Ready Reserve are 
+considered Navy service members for the purposes of this NAVADMIN.
+
+2.b.  Fully Vaccinated.  Navy service members vaccinated per paragraph 2 or 
+voluntarily immunized with a COVID-19 vaccine under FDA EUA or WHO Emergency 
+Use Listing in accordance with applicable dose requirements prior to, or 
+after, the establishment of this policy are considered fully vaccinated.
+Navy service members are considered fully vaccinated two weeks after 
+completing the second dose of a two-dose COVID-19 vaccine or two weeks after 
+receiving a single dose of a one-dose COVID-19 vaccine.  Booster shots are 
+still under evaluation and will be addressed via separate message.
+
+2.c.  Coordination.  Military Treatment Facilities (MTFs) will coordinate 
+ordering, distributing, and administering vaccines, along with their 
+supported activities, units, and other eligible populations.
+
+2.d.  COVID-19 Disease Prevention.  Vaccination has proven to be the most 
+effective defense against serious illness caused by COVID-19.  Maintaining a 
+clean work environment, good hygiene practices including cough/sneeze 
+etiquette, and managing workforce exposure (e.g., social distancing, 
+teleworking, and sick leave) also continue to be effective tools in reducing 
+the spread of COVID-19.
+
+3.  COVID-19 Vaccination Administering Requirements and Reporting
+
+3.a.  COVID-19 vaccination is mandatory for all DoD service members who are 
+not medically or administratively exempt per references (c), (d), and (e).  
+Navy service members who are not medically or administratively exempt shall 
+be fully vaccinated against
+COVID-19 as defined in paragraph 2.b above.
+
+3.b.  Active duty Navy service members will be fully vaccinated within 90 
+days from the date of reference (b).  Ready Reserve Navy service members will 
+be fully vaccinated within 120 days from the date of reference (b).  New 
+accessions will be fully vaccinated as soon as practicable following service 
+entry.
+
+3.c.  This NAVADMIN constitutes a lawful order.  Refusal to be fully 
+vaccinated against COVID-19, absent an approved exemption, will constitute a 
+failure to obey a lawful order and is punishable under the Uniform Code of 
+Military Justice and/or may result in administrative action.  Adjudication 
+will be in accordance with paragraph 3.e.(5) below.  Prior to receiving the 
+COVID-19 vaccine, Navy service members will have access to healthcare 
+providers to address questions regarding the risks of COVID-19 and the 
+benefits of COVID-19 vaccination.
+
+3.d.  Exemptions.  The two types of exemptions from immunization are medical 
+and administrative.  Administrative exemptions include religious 
+accommodations, per references (d) and (e), as well as others per reference 
+(c).  The process for obtaining exemptions for mandatory vaccinations is 
+provided in reference
+(c) for medical and administrative exemptions and references
+(d) and (e) for religious accommodations.  Specifically for the COVID-19 
+vaccination, in addition to the processes in reference (c), the authority to 
+grant approval of a permanent medical exemption is the first Navy Medical 
+Department Flag Officer in the medical providers chain of command.  Medical 
+Departments may send questions regarding the permanent medical exemption 
+process to usn.ncr.bumedfchva.mbx.bumed--- 2019-ncov-response-
+cell(AT)mail.mil.
+
+3.d.(1).  A history of COVID-19 disease and/or positive serology does not 
+exempt a Navy service member from receiving a COVID-19 vaccine.  Those Navy 
+service members who previously received a medical exemption from COVID-19 
+vaccine while the vaccines were authorized under an EUA will be reevaluated 
+per paragraph 3.d above.
+
+3.d.(2).  Navy service members who are actively participating in COVID-19 
+clinical trials are exempt from mandatory vaccination against COVID-19 until 
+the trial is complete.
+
+3.e.  Commanders, Commanding Officers, and Officers in Charge will:
+
+3.e.(1).  Identify Navy service members who are not vaccinated against COVID-
+19 using Medical Readiness Reporting System
+(MRRS) detailed in paragraph 3.f below.
+
+3.e.(2).  Provide sufficient resources to local MTFs or vaccination locations 
+to execute local vaccination plans.
+In coordination with local commanders, MTFs will develop plans to administer 
+vaccinations.
+
+3.e.(3).  In coordination with supporting cognizant medical authority, direct 
+that unvaccinated Navy service members will initiate vaccination with an FDA-
+licensed vaccine or, optionally and alternatively, with a vaccine approved 
+for emergency use, on a timeline that achieves full vaccination per paragraph
+
+3.b above.  This direction will include information and guidance regarding 
+vaccine availability and administering locations.
+
+3.e.(4).  For Navy service members without a pending exemption request or 
+whose exemption request was denied, provide counseling regarding refusal to 
+take the COVID-19 vaccine.  This counseling will include access to a 
+healthcare professional to answer questions regarding the risks of COVID-19 
+and the benefits of
+COVID-19 vaccinations.  Commands will then issue a uniform NAVPERS 1070/613 
+(Page 13) ordering initiation of the COVID-19 vaccine series, to be completed 
+within the time requirements of paragraph 3.b above.  An example NAVPERS 
+1070/613 can be found at:
+https://portal.secnav.navy.mil/cop/crc/COVID/Documentationand
+PDFTraining/Forms/Allitems.aspx.
+
+3.e.(5).  For Navy service members who remain unvaccinated, and who have or 
+are expected to exceed the time requirements of paragraph 3.b, their ultimate 
+disposition will be determined by the designated COVID Consolidated 
+Disposition Authority (CCDA).  The CCDA will serve as the central authority 
+for adjudication and will have at his or her disposal the full range of 
+administrative and disciplinary actions.  Until further notice, authority is 
+withheld for initiating non- judicial punishment, courts-martial, or 
+administrative separation in cases of Navy Service Members refusing the 
+vaccine. The assigned CCDA and specific required reporting procedures and 
+information will be promulgated via separate message.
+
+3.f.  COVID-19 Vaccination Reporting
+
+3.f.(1).  Navy service member vaccination administration compliance will be 
+monitored via MRRS.  Designated command personnel will access MRRS to track 
+personnel to ensure compliance.
+
+3.f.(2).  Vaccine administrators must report vaccine administration errors, 
+serious adverse vaccine reactions or clinically significant adverse events in 
+the Vaccine Adverse Event Reporting System:
+https://vaers.hhs.gov/resources/infoproviders.html.
+
+3.f.(3).  Vaccine administrators must ensure that documentation of COVID-19 
+vaccine administration is coded to accurately reflect the type of vaccine 
+provided.
+
+3.f.(4).  COVID-19 immunization documentation will be completed within an 
+approved electronic health record (EHR).  Afloat units will enter COVID-19 
+immunizations into the Shipboard Automated Medical System/Theater Medical 
+Information Program for subsequent transfer to MRRS.  Garrison units will 
+enter COVID-19 immunizations into AHLTA/MHS GENESIS for subsequent transfer 
+to MRRS.
+When an approved EHR is not available, readiness documentation may be entered 
+directly in MRRS, but must also be entered into EHR once available.
+
+3.f.(5).  Navy service members who receive the vaccine from a retail network 
+pharmacy or other non-DoD vaccine administrator must provide documentation of 
+COVID-19 vaccination to their respective command no later than the next duty 
+day for Active Component or within 7 days for Reserve Component for entry 
+into EHR and/or MRRS.
+
+3.f.(6).  Shore-based commands will request access to MRRS based on unit 
+identification code by submitting a system access authorization request 
+available at:  //mrrs.dc3n.
+navy.mil/mrrs (note:  MRRS Web address is case sensitive).
+Point of contact:  MRRS program office, mrrspo(AT)navy.mil /
+(800) 537-4617 / (504) 697-7070 / DSN:  647-7070.  Ship-based commands may 
+utilize Navy Medicine Online or Shipboard Non-Tactical Automated Data 
+Processing Automated Medical System to populate MRRS.
+
+4.  COVID-19 Vaccination Administration
+
+4.a.  Vaccine administrators should follow the guidance provided in 
+references (f) and (g).
+
+4.b.  Per reference (h), there is no harm (contraindication) for co-
+administration of the COVID-19 vaccination with other vaccines.
+
+4.c.  COVID-19 Vaccine Ordering.  Naval Medical Logistics Command is 
+responsible for coordinating distribution of
+COVID-19 vaccine for all Navy and Marine Corps activities:
+usn.detrick.navmedlogcomftdmd.list.vialhelp(AT)mail.mil.  Navy
+COVID-19 vaccine is centrally funded.  Navy activities will place their order 
+for COVID-19 vaccine via USAMMA-DOC's secure web site:
+https://a01.usamma.amedd.army.mil/docvac/Account/Login.
+
+4.d.  COVID-19 Vaccine Integrity.  If temperature limits are exceeded during 
+shipment, upon receipt immunization sites must call DLA or USAMMA-DOC at 301-
+619-4318/8002 or
+DSN:  343-4318/8002 and DLA DSCPColdchain(AT)dla.mil or 
+paacoldchainteam(AT)@dla.mil.  For temperature limits exceeded in storage 
+please refer to the following website:
+https://www.health.mil/Military-Health-Topics/Health-
+Readiness/Immunization-Healthcare/Vaccine-Storage-and-
+Handling/Potential-Vaccine-Compromise-Reporting.
+
+4.e.  Vaccination and Reporting Timeline
+
+4.e.(1).  Due to the risk of rapid infection transmission within units and 
+potential impact on operations, vaccines should be given as quickly as 
+possible.  MTFs should be prepared to begin administration of vaccine within 
+24 hours of receipt.  If directly receiving the vaccine, active duty 
+operational units have 72 hours (three working days) following receipt of the 
+vaccine to begin documentation, administration, and vaccination reporting.
+
+4.e.(2).  As schedules vary for Navy service members in the Selected Reserve 
+or Individual Ready Reserve, NMLC will coordinate with DLA and the ordering 
+Reserve Command for the vaccine to arrive the week of a drill weekend.
+Units have 30 days following receipt of the vaccine to document, administer, 
+and report vaccination.
+
+4.e.(3).  Installations and MTFs may use the Navy Family Accountability and 
+Assessment System, similar to seasonal influenza efforts, conduct a Pandemic 
+COVID-19 response exercises in conjunction with the COVID-19 vaccine program.
+
+5.  Points of contact:
+
+5.a.  OPNAV:  CAPT Steven Tarr III, (703) 614-9250 /
+Email:  steven.tarr3(AT)navy.mil.
+
+5.b.  BUMED:  BUMED COVID-19 CRISIS ACTION TEAM /
+(703) 681-1125 / Email: USN.NCR.BUMEDFCHVA.MBX.BUMED--- 2019-NCOV-RESPONSE-
+CELL(AT)MAIL.MIL.
+
+6.  Released by VADM W. R. Merz, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
