@@ -1,0 +1,57 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 071411Z SEP 21 MID200001106763U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 198/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/AUG// 
+ 
+SUBJ/SUNDOWN OF THE CONGRESSIONAL INFORMATION MANAGEMENT SYSTEM (UPDATE 1)// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/101750ZAUG21 
+NARR/REF A is NAVADMIN 172/21// 
+ 
+RMKS/1.  The sundown of the Congressional Information Management System 
+(CIMS) and migration to Department of the Navy (DON) Tasking, Records and 
+Consolidated Knowledge Enterprise Repository (TRACKER) for commands using 
+CIMS as a task management (TM) tool has been canceled.  CIMS will remain 
+active until transition to the Enterprise Task Management Software Solution 
+(ETMS2) in December 2021. 
+2.  CIMS transition will still take place in a phased approach.  The revised 
+plan is as follows: 
+    a.  Phase I:  Commencing on or about 15 September 2021, licenses will be 
+allocated to active CIMS users and training schedules will be finalized for a 
+two hour basic training course on the ETMS2 system for all new 
+users.  Training must be completed prior to using the ETMS2 system.  Training 
+may be provided by ETMS2 contractors or local qualified trainers.  Training 
+details will be finalized and communicated in the next few weeks. 
+    b.  Phase II:  Commencing on or about 1 December 2021, CIMS will convert 
+to read-only and active taskers will be migrated to ETMS2.  All new TM 
+functions will be performed in ETMS2.  Users will still be able to view 
+taskers in CIMS. 
+    c.  Phase III:  Commencing 31 December 2021, users will no longer be able 
+to access CIMS.  Closed taskers will only be accessible through an offline 
+database. Requests for access to the offline database may be addressed to the 
+CIMS Data 
+Migration Manager listed in paragraph 4. 
+3.  CIMS will sundown on 31 December 2021. 
+4.  Point of contacts are: 
+    a.  Data Migration Manager:  CDR Elaine Reid, 703-695-6559 or 
+elaine.d.reid.mil(AT)us.navy.mil 
+    b.  CIMS Coordinator:  LT Adam Fabry, 703-693-2965 or 
+adam.j.fabry.mil(AT)us.navy.mil 
+4.  Released on behalf of Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
