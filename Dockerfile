@@ -15,9 +15,9 @@ RUN apk add --no-cache                    \
 WORKDIR /opt/navadmin-scanner
 
 # Bare essentials to build and/or run the web app
-COPY Makefile.PL navadmin-viewer.pl /opt/navadmin-scanner/
-COPY NAVADMIN                       /opt/navadmin-scanner/NAVADMIN/
-COPY assets                         /opt/navadmin-scanner/assets/
+COPY navadmin-viewer.pl      /opt/navadmin-scanner/
+COPY NAVADMIN                /opt/navadmin-scanner/NAVADMIN/
+COPY assets                  /opt/navadmin-scanner/assets/
 
 EXPOSE 3000
 
