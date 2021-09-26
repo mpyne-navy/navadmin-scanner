@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Use xargs to run the check command across multiple CPUs if available
+find NAVADMIN -name '*.txt' -print0     \
+    | xargs -0 ./check-file-miscoded.pl \
+    | sort
