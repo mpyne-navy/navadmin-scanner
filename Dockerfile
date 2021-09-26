@@ -15,9 +15,15 @@ RUN apk add --no-cache                    \
 WORKDIR /opt/navadmin-scanner
 
 # Bare essentials to build and/or run the web app
-COPY navadmin-viewer.pl      /opt/navadmin-scanner/
+COPY navadmin-viewer.pl      \
+     check-file-miscoded.pl  \
+     gen-miscoded-files-list \
+     fix-miscoded-files      \
+         /opt/navadmin-scanner/
 COPY NAVADMIN                /opt/navadmin-scanner/NAVADMIN/
 COPY assets                  /opt/navadmin-scanner/assets/
+
+RUN ./gen-miscoded-files-list | ./fix-miscoded-files && rm *miscoded*
 
 EXPOSE 3000
 

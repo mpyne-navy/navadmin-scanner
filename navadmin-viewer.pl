@@ -278,7 +278,7 @@ __DATA__
 <div class="content">
 <pre>
 % my $content = Mojo::File->new($filepath)->slurp;
-% my $escaped = b($content)->xml_escape;
+% my $escaped = b($content)->decode('UTF-8')->xml_escape;
 % $escaped =~ s{NAVADMIN ?([0-9][0-9][0-9])([-/])([0-9][0-9])}{<a href="/NAVADMIN/$1/$3">NAVADMIN $1$2$3</a>}g;
 <%= b($escaped) %>
 </pre>
