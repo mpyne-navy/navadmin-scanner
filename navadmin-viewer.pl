@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-use Mojolicious::Lite;
+use Mojolicious::Lite -signatures;
 use Mojolicious::Validator;
 
 use File::Glob;
@@ -12,6 +12,10 @@ my @SORTED_YEARS;
 
 # Set static content directory (must be done early, before routes are defined)
 app->static->paths->[0] = app->home->child('assets');
+
+hook(after_static => sub ($c) {
+    $c->res->headers->cache_control('max-age=604800, public, immutable');
+});
 
 # Find known NAVADMINs and build up data mapping for later
 foreach my $file (glob("NAVADMIN/NAV*.txt")) {
@@ -372,7 +376,7 @@ __DATA__
   <body>
   <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item">NAVADMIN Scanner/Viewer</a>
+      <span class="navbar-item">NAVADMIN Scanner/Viewer</span>
 
       <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
         <span aria-hidden="true"></span>
