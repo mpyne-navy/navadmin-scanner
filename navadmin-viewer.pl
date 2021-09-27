@@ -13,6 +13,9 @@ my @SORTED_YEARS;
 # Set static content directory (must be done early, before routes are defined)
 app->static->paths->[0] = app->home->child('assets');
 
+# Compress dynamically-generated content (gzip by default).
+app->renderer->compress(1);
+
 hook(after_static => sub ($c) {
     $c->res->headers->cache_control('max-age=604800, public, immutable');
 });
