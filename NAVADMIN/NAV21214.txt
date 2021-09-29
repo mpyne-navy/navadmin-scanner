@@ -1,0 +1,114 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 281919Z SEP 21 MID200001165331U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 214/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/TUITION ASSISTANCE POLICY UPDATE// 
+ 
+REF/A/DOC/OPNAV N1/4MAR08// 
+REF/B/DOC/NETC/20JAN11// 
+REF/C/MSG/CNO WASHINGTON DC/211408ZMAY19// 
+REF/D/MSG/SECNAV WASHINGTON DC/061757ZJAN21 
+REF/E/DOC/COMNAVPERSCOM/11APR21// 
+ 
+NARR/REF A IS OPNAVINST 1560.9A, VOLUNTARY EDUCATION (VOLED) FOR NAVY 
+SAILORS.   
+REF B IS NETCINST 1560.3, NAVY VOLUNTARY EDUCATION PROGRAMS.   
+REF C IS NAVADMIN 114/19, TUITION ASSISTANCE POLICY UPDATE.   
+REF D IS ALNAV 004/21, TUITION ASSISTANCE PROGRAM UPDATES. 
+REF E IS MILPERSMAN ARTICLE 1160-040, EXTENSION OF ENLISTMENTS. 
+ 
+RMKS/1.  This NAVADMIN announces changes in Tuition Assistance (TA) and Navy 
+College Program for Afloat College Education (NCPACE) policy in references 
+(a) through (c). 
+ 
+2.  In line with reference (d), the annual cap on TA and NCPACE is increased 
+to 18 semester hours (or equivalent quarter hours) per fiscal year, effective 
+1 October 2021. 
+ 
+3.  We are committed to ensuring fully-qualified Sailors can take advantage 
+of this increased education opportunity in a manner that reinforces our 
+commitment to professionalism, warfighting, readiness and 
+retention.  Operational readiness remains our top priority.  As always, 
+commanding officers may establish benchmark qualifications for Sailors and 
+officers under their command, and manage off-duty education pursuit, based on 
+current or anticipated operational commitments. 
+ 
+4.  The following management controls are effective for TA and NCPACE courses 
+command approved after the release of this NAVADMIN: 
+    a.  In addition to being recommended for retention and promotion, all 
+enlisted Sailors and officers must receive individual trait marks of 3.0 or 
+greater on their most recent observed performance evaluation or fitness 
+report. 
+    b.  The wait time following non-judicial punishment (NJP) or court 
+martial is increased from 6 to 12 months. 
+    c.  Officers, with the exception of limited duty officers (LDO) and chief 
+warrant officers (CWO), become eligible upon promotion to O-3. 
+    d.  The minimum time in service requirement increases from two to three 
+years.  There is no *grandfather* clause.  Sailors who began using TA or 
+NCPACE at two years, but have not yet reached three years, must wait until 
+the three year mark to continue. 
+    e.  Enlisted Sailors with less than 16 years of service must have at 
+least 12 months remaining from the course start date until their end of 
+active obligated service (EAOS) or as extended. Reservists on active duty 
+(AD) orders must have 12 months remaining from the course start date until 
+the end date of AD orders. Contract extensions for AD Sailors are authorized 
+subject to eligibility criteria in reference (e).  Sailors selected for LDO 
+or CWO, and selective reenlistment bonus eligible Sailors with approved 
+Career Waypoints in-rate quotas may request a waiver of the 12-month 
+requirement using issue tracker as described in paragraph 7. 
+    f.  Sailors may only take two funded courses per fiscal quarter 
+determined by start date. 
+    g.  Vouchers for command-approved requests will be funded no more than 30 
+days prior to the course start date. 
+    h. Command approving officials must verify all existing and updated 
+policies have been met prior to authorizing TA or NCPACE. 
+ 
+5.  Academic degrees are only one tool to enhance Sailors personal and 
+professional development.  Civilian certifications offered through Navy 
+Credentialing Opportunities Online (COOL) and United Services Military 
+Apprenticeship Program should be stacked with academic degrees to create a 
+well-rounded portfolio.  Sailors can find relevant credentials on their 
+Learning and Development Roadmap (LaDR), and the Navy COOL website.  The 
+MilGears, powered by the Navy COOL website, allows Sailors to search the LaDR 
+recommended credentials in the *Quick Explorer* tool or receive customized 
+career path recommendations based on their unique training, education and 
+experience by using the *Engage My Career* tool.  For more information 
+regarding MilGears, Sailors can visit the following site by going to MyNavy 
+Portal at https://my.navy.mil/quick-links.html, select *Navy Cool* and then 
+*MilGears*. 
+ 
+6.  Sailors who wish to pursue other education funding options, to include GI 
+Bill benefits, are encouraged to contact the Navy College Virtual Education 
+Center (NCVEC) to speak with a counselor. 
+ 
+7.  For questions regarding eligibility, degree plans or other education 
+funding options, contact the NCVEC at 1-877-838-1659. Beginning 1 October 
+2021, NCVEC telephone assistance will be available exclusively through MyNavy 
+Career Center by calling 1-833-330-MNCC (6622).  Using the phone menu 
+options, choose *Education and Training*, then *NCVEC*.  Additionally, 
+Sailors may submit an inquiry via the issue tracker feature in MyNavy 
+Education, located on the top right of their record. 
+8.  For questions concerning TA or NCPACE policy, contact Mr. Jim 
+Johnson at (703)604-5256/DSN 664 or james.p.johnson.civ(at)us.navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
