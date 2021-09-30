@@ -1,0 +1,80 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 301719Z SEP 21 MID200001181953U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 216/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/OCTOBER 2021 CYBERSECURITY AWARENESS MONTH// 
+ 
+POC/LOGAN/OPNAV N2N6D/TEL:  (703) 695-
+1933/EMAIL:  OLIVIA.M.LOGAN2.CTR(AT)NAVY.MIL// 
+ 
+RMKS/1.  October is National Cybersecurity Awareness Month.  Cybersecurity is 
+a Navy priority and we are all warriors in this evolving frontier that is 
+cyber. 
+ 
+2.  The global Coronavirus-2019 pandemic has further blurred the definition 
+of a workspace, with personnel working at a military installation, an off-
+site office, at home, in public spaces, or some variation of the above.  We 
+must be prepared to operate in a hybrid, and potentially volatile, 
+environment. 
+ 
+3.  To win across the full range of military operations in this era of Great 
+Power Competition, we must connect Navy and Joint sensors and shooters in a 
+battle network that enables our forces to get from threat detection to 
+decisive action as quickly as possible.  The systems, networks and data that 
+enable this capability are as critical as weapons; without them we cannot 
+compete, deter, and win. 
+ 
+4.  Our adversaries understand this.  They have become more confident and 
+competent in challenging us below the level of armed conflict by stealing our 
+data and developing ways to compromise Navy systems and networks, including 
+those that control our ships, aircraft, weapons, and infrastructure. 
+5.  Virtual collaboration increases our lethality, but it also increases 
+risk.  The smallest network infiltration can allow adversaries to quickly 
+move to more critical targets.  A mistake by one individual could equate to a 
+disaster for all.  Because the stakes are so high in this networked 
+environment, adhering to cybersecurity policies and best practices requires 
+an ALL HANDS approach to keep the Navy and our nation safe.  Cybersecurity 
+best practices provide protection against hackers intent on exploiting smart 
+phones, personal computers, and other network-connected devices. 
+ 
+6.  During October, we will share content through Navy media channels as part 
+of the national campaign for raising cybersecurity awareness.  Use this 
+material to understand the threats we face and how to protect against 
+them.  Each week will have a theme: 
+    a.  Week One:  You and the threat to operational security. 
+    b.  Week Two:  You and the threat in the office. 
+    c.  Week Three:  You and the threat outside the office. 
+    d.  Week Four:  The threat beyond you. 
+ 
+7.  For easy access to this content, go to  
+https://www.doncio.navy.mil/Main.aspx and select Cybersecurity Awareness 
+Month announcement.  Additional cybersecurity resources from the 
+Cybersecurity and Infrastructure Security Agency will be posted at 
+https://www.cisa.gov/cybersecurity-awareness-month. 
+ 
+8.  We have invested heavily in capabilities to protect Navy networks, 
+systems, and data.  Our cybersecurity defenders stop attacks daily.  You are 
+a vital part of the cyber fight.  Every time you log onto a system or 
+network, you are on the front lines of the cyber battlespace.  I appreciate 
+your commitment to keeping the Navy safe by following cybersecurity best 
+practices and policy. 
+ 
+9.  Request widest dissemination.  This NAVADMIN will remain in effect until 
+cancelled or superseded. 
+ 
+10.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
