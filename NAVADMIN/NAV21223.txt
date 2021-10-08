@@ -1,0 +1,50 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 081821Z OCT 21 MID600051024060U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 223/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N71/OCT// 
+ 
+SUBJ/UPDATE TO SENIOR OFFICER GRADUATE EDUCATION REQUIREMENTS// 
+ 
+REF/A/DOC/SECNAV MEMO CONTINUOUS LEARNING FOR NAVAL OFFICERS/26AUG21// 
+REF/B/DOC/NAVADMIN 263/18/25OCT18// 
+ 
+RMKS/1.  This NAVADMIN provides policy changes to graduate education 
+requirements for senior officers and reemphasizes requirements for those 
+officers assuming major command. 
+ 
+2.  Reference (a) removed the requirement for all future unrestricted line 
+flag and general officers to have strategically-focused, in-residence masters 
+degrees by 1 October 2021.  Although it is expected for officers of all ranks 
+to develop themselves personally and professionally through continuous 
+learning, this will not be a requirement in the near term.  Senior officer 
+selection boards will continue to follow guidelines in the promotion board 
+precepts, convening order and competency skills (for unrestricted line) for 
+each respective board. 
+ 
+3.  Reference (b) states that officers in year group 2015 and beyond will be 
+required to graduate from an in-residence program prior to assuming major 
+command.  This requirement will remain in effect.  In-residence education 
+programs continue to provide the best opportunity to mature critical and/or 
+strategic thinking skills necessary for Navy leaders today. 
+ 
+4.  This message will remain in effect until superseded or canceled, 
+whichever comes first. 
+ 
+5.  Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
+Warfighting Development, N7, Office of the Chief of Naval Operations// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
