@@ -1,0 +1,193 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 131854Z OCT 21 MID200001224877U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 227/21 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/OCT// 
+ 
+SUBJ/AQUEOUS FILM FORMING FOAM (AFFF) USAGE AND SPILL RESPONSE AND 
+REPORTING// 
+ 
+REF/A/DOC/DOD/13JAN20/NOTAL// 
+REF/B/DOC/ASN/28FEB20/NOTAL// 
+REF/C/DOC/DOD/18SEP20/NOTAL// 
+REF/D/DOC/CNIC/22JAN19// 
+REF/E/DOC/01JAN21// 
+REF/F/DOC/DOD/11AUG16// 
+REF/G/DOC/OPNAV/25JUN21// 
+NARR/REF A IS ASD(SUSTAINMENT) MEMO, AQUEOUS FILM FORMING FOAM (AFFF) USAGE 
+AND SPILL REPORTING.   
+REF B IS ASN(EI&E) ACTION MEMO, AFFF USAGE AND SPILL REPORTING REQUIREMENTS.   
+REF C IS ASD(SUSTAINMENT) MEMO, PROHIBITION OF TESTING AND TRAINING WITH 
+FLUORINATED FILM FORMING FOAM.   
+REF D IS CNICINST 5214.1B, COMMANDERS CRITICAL INFORMATION REQUIREMENTS AND 
+SIGNIFICANT EVENTS REPORTING.   
+REF E IS THE FISCAL YEAR 2021 NATIONAL DEFENSE AUTHORIZATION ACT.   
+REF F IS DODM 3025.01, VOL. 2, DEFENSE SUPPORT OF CIVIL AUTHORITIES:  DOD 
+INCIDENT RESPONSE.   
+REF G IS OPNAV-M 5090.1, ENVIRONMENTAL READINESS PROGRAM MANUAL.// 
+POC/MR. BERRY, GREGG/CIV/CNO WASHINGTON DC/OPNAV N4I/E-
+MAIL:  GREGORY.F.BERRY.CIV@US.NAVY.MIL/TEL:  (703)695-5147// 
+ 
+RMKS/1.  This message consolidates policy requirements and highlights 
+implementing instructions necessary for responding to and reporting use and 
+spills (collectively referred to as releases hereinafter) of Aqueous Film 
+Forming Foam (AFFF) ashore, including releases from Navy ships while in port 
+at Navy installations.  In July 2019, the Secretary of Defense created a Per- 
+and Polyfluorinated Alkyl Substances (PFAS) Task Force to develop policies 
+and procedures to address releases of these substances, and mitigate the 
+effects of PFAS on military installations and surrounding communities. AFFF 
+is used as a fire-extinguishing agent and vapor suppressant for flammable and 
+combustible liquids and has historically contained PFAS.  In January 2020, 
+Assistant Secretary of Defense (ASD)(Sustainment) established policy via 
+reference (a) requiring all AFFF releases to be tracked and reported. 
+Subsequently, the Assistant Secretary of the Navy, Energy, Installations and 
+Environment (ASN(EI&E))issued reference (b) directing Commander, Navy 
+Installations Command (CNIC) to immediately task installation commanders to 
+begin AFFF release reporting.  The requirements cited in this NAVADMIN are in 
+addition to, and do not supersede, any other applicable operational or 
+environmental reporting triggered due to an AFFF release. 
+ 
+2.  Applicability.  AFFF release response and reporting requirements apply to 
+releases that occur at Navy installations, including releases from ships in 
+port that impact surrounding waters.  AFFF release response and reporting 
+applies to both unintended/accidental releases at Navy installations, and the 
+use of AFFF pursuant to emergency responses whether on or off installation. 
+Response and reporting procedures described in this NAVADMIN do not apply to 
+routine management of AFFF in conjunction with supply, maintenance, repairs, 
+or other planned events in which the AFFF is contained and not released to 
+the environment.  Note that AFFF use in testing and training is prohibited at 
+most shore locations per direction in reference (c). 
+ 
+3.  AFFF Release Response.  AFFF, whether in concentrate or mixed solution, 
+is a hazardous material (HAZMAT) and installations will respond to releases 
+accordingly. Every effort must be made to arrest the release, and contain, 
+collect, and properly dispose of the released product.  Initial cleanup may 
+include removal of obviously impacted soil and water to the extent 
+practicable.  Installation environmental staff will assess the need for, and 
+extent of, subsequent cleanup actions.  Following an accidental or unintended 
+release onboard a Navy installation, the installation will initiate a root 
+cause analysis to identify underlying reason(s) for the release (if not known 
+at the time of the initial release report). 
+ 
+4.  AFFF Release Reporting. 
+    a.  Management of AFFF Release Reporting.  CNIC has overall 
+responsibility for AFFF Release Reporting ashore.  In this capacity, CNIC 
+will receive initial reports of AFFF releases and maintain the master list of 
+Navys AFFF Release Reports.  CNIC will transmit an annual AFFF release report 
+and reports of significant releases to the Office of the Deputy Assistant 
+Secretary of Defense for Environment and Energy Resilience (ODASD(E&ER)) via 
+the chain of command, and facilitate all other reporting described below. 
+    b.  Initial Release Reports.  Initial AFFF release reports will be made 
+immediately upon discovery to the installation Command Duty Officer (CDO), 
+then promptly relayed to the CNIC Regional Operations Center (ROC) to meet 
+the requirements of reference (d).  This includes releases by installation 
+activities, ships in port, and tenant organizations. For off-installation 
+mutual aid responses, and any other off-installation (Fire and Emergency 
+Services (F&ES)) incident responses, the initial report will be made to the 
+CDO of the nearest Navy installation.  Initial reports will provide the 
+following in as much detail as is available: 
+        (1) Date and time of release 
+        (2) Location and physical address of the release 
+        (3) Amount of concentrate (gallons) 
+        (4) Amount of mixed foam (approximate volume of AFFF concentrate and 
+water, in gallons) 
+        (5) Type of AFFF (% concentrate and manufacturer) 
+        (6) Cause of the release (e.g. fire response, fuel spill, 
+accidental/unintended release).  If accidental or unintended, describe the 
+immediate cause and circumstances, if known 
+        (7) Summary of AFFF usage or spill (general description of the 
+events   surrounding the release, its extent, and actions taken for 
+containment and cleanup) 
+        (8) For releases onboard the installation:  Name and contact 
+information for installation environmental staff notified of the release 
+        (9) For releases off-installation:  Name and contact information for 
+the off-installation representative notified of the release 
+        (10) The name of the incident commander or public official who 
+requested AFFF use (if applicable), and 
+        (11) The name and contact information of the individual making the 
+initial report. 
+    c.  Tracking and Follow-on Reporting.  Upon receipt of an initial release 
+report relayed by an installation, the ROC will generate the Category II-9 
+Commanders Critical Information Requirements (CCIR) report in accordance with 
+reference (d), and applicable local and regional CCIR instructions.  The CCIR 
+report will include the same information as the initial release report 
+described in subparagraph 4b.  Thereafter, CNIC headquarters (HQ) will track 
+the release response, and prepare, maintain, and submit release reports to 
+ODASD(E&ER) per references (a) and (b).  CNIC HQ will send the release 
+reports via the email address osd.pentagon.ousd-a-s.mbx.asds-
+environment@mail.mil and will include copies to paula.monachelli1@navy.mil at 
+DASN(IE&F), richard.g.mach.civ@us.navy.mil at DASN(E&MR) and 
+chaela.m.smith.civ@us.navy.mil at OPNAV N4I to ensure the chain of command 
+remains informed.  Timing and content of reports will vary as follows: 
+        (1) 24-hour Reporting Requirement for Significant Releases.  A 
+release of more than 10 gallons of AFFF concentrate, or more than 300 gallons 
+of AFFF mixed foam, or any other situation that may receive media attention, 
+constitutes a significant release.  Significant releases must be reported to 
+ODASD(E&ER) within 24 hours of the initial release per references (a) and 
+(b).  In addition, to comply with Section 318 of reference (e), installations 
+will prepare and submit an Action Plan (or Final Action Report if all follow-
+up actions are complete) to CNIC HQ no later than 30 days after the initial 
+release notification.  CNIC HQ will forward the Action Plan or Final Action 
+Report to ODASD(E&ER) within 45 days of the initial release report.  The 
+Action Plan or Final Report will include a description of actions taken to 
+arrest and clean up the release, and a description of any coordination with 
+relevant local and State environmental protection agencies.  Note that Action 
+Plans and/or Final Action Reports are not required for mutual aid responses. 
+        (2) Annual Release Reporting.  All AFFF releases must be reported to 
+ODASD(E&ER) in a consolidated report annually. This includes significant 
+releases already reported and all other releases reported that did not 
+trigger the 24-hour reporting threshold.  CNIC HQ will provide the 
+consolidated report to ODASD(E&ER) by 15 November each year via OPNAV N4I. 
+        (3) Additional Requirement for Off-Installation Releases.  When Navy 
+F&ES is asked to use AFFF for fire suppression to protect the public in 
+accordance with mutual aid agreements, the Installation Commanding Officer 
+(ICO) will notify the off-installation entity that AFFF was used per their 
+request.  The same notification requirement applies if the requestor does not 
+have a mutual aid agreement and has asked for immediate response under 
+reference (f).  Notifications will be made no later than 15 days following 
+the end of the Navys participation in the emergency response. 
+ 
+5.  Additional Guidance for Releases of AFFF from Ships in Port. 
+    a.  If AFFF is released into surrounding waters, the ship will: 
+        (1) Make an initial report of the release to the installation CDO per 
+subparagraph 4b.  The installation will support the ship with release 
+response as needed. 
+        (2) If in a U.S. port, submit appropriate Uniform National Discharge 
+Standards (UNDS) non-compliance and Hazardous Substance Release reports in 
+accordance with reference (g), appendix C. 
+    b.  Ships in port that spill or use AFFF on or inside the ship and the 
+AFFF is not released into surrounding waters will: 
+        (1) Ensure all AFFF is appropriately cleaned up and disposed of as 
+HAZMAT. 
+        (2) If AFFF entered the bilge, inform installation Port Operations 
+and environmental office to ensure AFFF impacted bilge water is handled and 
+processed appropriately.  The ship will follow installation directions when 
+offloading AFFF impacted bilge water to shore. 
+        (3) UNDS non-compliance and Hazardous Substance Release reporting is 
+not required if the AFFF is not released into surrounding waters. 
+    c.  If AFFF is spilled or used on or in the ship and some AFFF is 
+released into surrounding waters, only the amount released into surrounding 
+waters must be reported. 
+ 
+6.  Actions.  Echelon II commands will ensure that personnel who use or 
+encounter AFFF are aware of the initial reporting requirements in paragraph 
+4.b of this NAVADMIN.  CNIC will establish policies and procedures necessary 
+to implement and facilitate the reporting requirements of this NAVADMIN, to 
+include guidance for conducting root cause analyses cited in paragraph 3. 
+ICOs will incorporate AFFF release response and reporting into local HAZMAT 
+release response instructions and standard operating procedures. 
+ 
+7.  Released by VADM R. L. Williamson, N4.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
+
