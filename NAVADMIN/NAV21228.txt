@@ -1,0 +1,147 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 151800Z OCT 21 MID600051045886U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 228/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/NOTICE OF CONVENING NAVY RESERVE FY-23 LINE AND STAFF REAR ADMIRAL AND 
+REAR ADMIRAL (LOWER HALF) PROMOTION SELECTION BOARDS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/271415ZSEP19// 
+AMPN/REF A IS NAVADMIN 220/19, ELECTRONIC SUBMISSION OF LETTERS TO 
+PROMOTION AND SELECTION BOARDS THROUGH MYNAVY PORTAL. 
+ 
+RMKS/1.  The FY-23 Promotion Selection Boards to recommend Navy officers of 
+the Selected Reserve serving on the Reserve Active-Status List (RASL) in the 
+grades of rear admiral (lower half) and captain Line and Staff Corps for 
+promotion to the grades of rear admiral and rear admiral (lower half) will be 
+convened as follows: 
+16 NOV 21 - Unrestricted Line, Full Time Support Experienced 
+            Officer (FEO), Senior Health Care Executive and Supply 
+            Corps Rear Admiral 
+17 NOV 21 - Unrestricted Line, Full Time Support (FTS), Engineering 
+            Duty, Information Warfare Community, Public Affairs, 
+            Medical Corps, Medical Service Corps, Judge Advocate 
+            Generals Corps, Supply Corps and Civil Engineer Corps 
+            Rear Admiral (lower half) 
+2.  The Secretary of the Navy has approved the establishment of the FTS 
+Experienced Officer (FEO) single competitive category for selection to rear 
+admiral.  All eligible URL SELRES rear admirals (lower half) that were 
+formerly FTS captains, will compete for selection to rear admiral as one 
+competitive category.  FTS captains selected for rear admiral (lower half) 
+will be redesignated as FEOs following promotion and placed in a drilling 
+status. 
+ 
+3.  The following Navy reserve officers as indicated are the senior and 
+junior officers initially eligible or junior and senior officers eligible for 
+consideration for promotion in each competitive category listed as of the 
+date of this NAVADMIN.  In addition, those reserve officers on the RASL who 
+are senior to the senior initial eligible officer for their respective 
+competitive category are also eligible for consideration.  Per Title 10, 
+section 14301, any eligible officer who has an established date for removal 
+from the RASL within 90 days after the board convenes will be precluded from 
+consideration by the board. 
+                              Rear Admiral 
+          ------ Unrestricted Line (11X5/13X5) ------ 
+Sr Initial Eligible  Blackmon, K. R.           000183-00  01 OCT 19 
+Jr Initial Eligible  Nowakowski, R. C.         000193-00  01 OCT 19 
+          ------ FEO (11X5/13X5 with FTS Experience) ------ 
+Sr Initial Eligible  Fuller, S. K.             000189-00  01 OCT 19 
+Jr Initial Eligible  Steffen, M. J.            000190-00  01 OCT 19 
+          ------ Senior Health Care Executive (2705) ------ 
+Sr Initial Eligible  Miller, P. C.             000188-00  01 OCT 19 
+Jr Initial Eligible  Moritz, M. E.             000194-00  01 OCT 19 
+                 ------ Supply Corps (3105) ------ 
+Sr Initial Eligible  Curran, M. T.             000186-00  01 OCT 19 
+Jr Initial Eligible  Curran, M. T.             000186-00  01 OCT 19 
+                       Rear Admiral (lower half) 
+          ------ Unrestricted Line (11X5/13X5) ------ 
+Sr Initial Eligible  Peterson, J. D.           119944-00  01 NOV 18 
+Jr Initial Eligible  Ventura, P. V.            120487-00  01 OCT 19 
+          ------ Unrestricted Line FTS (11X7/13X7) ------ 
+Sr Initial Eligible  Shin, C. H.               118747-00  01 JAN 17 
+Jr Initial Eligible  Dee, P. J.                120506-00  01 OCT 19 
+                  ------ Engineering Duty (1445) ------ 
+Sr Initial Eligible  Roth, W. L.               118777-00  01 FEB 17 
+Jr Initial Eligible  Smith, A. C.              120397-00  01 SEP 19 
+          ------ Information Warfare Community (18X5) ------ 
+Sr Initial Eligible  Bothwell, H. M.           119329-00  01 DEC 17 
+Jr Initial Eligible  Higgins, S. A.            120526-00  01 OCT 19 
+                  ------ Public Affairs (1655) ------ 
+Sr Initial Eligible  Summers II, C. E.         119104-00  01 AUG 17 
+Jr Initial Eligible  Thoms, R. S.              120523-00  01 OCT 19 
+                  ------ Medical Corps (2105) ------ 
+Sr Initial Eligible  Bass, J.                  118678-00  01 NOV 16 
+Jr Initial Eligible  Rivet II, D. J.           119887-00  01 OCT 18 
+          ------ Medical Service Corps (2305) ------ 
+Sr Initial Eligible  Hardham, J. M.            118855-00  01 JUN 17 
+Jr Initial Eligible  Speirs, W. B.             120502-00  01 OCT 19 
+          ------ Judge Advocate Generals Corps (2505) ------ 
+Sr Initial Eligible  Siegfried, C. A.          118750-00  01 JAN 17 
+Jr Initial Eligible  McCormick, K. K.          120490-00  01 OCT 19 
+                  ------ Supply Corps (3105) ------ 
+Sr Initial Eligible  Pugh, T. S.               120052-00  01 MAR 19 
+Jr Initial Eligible  Grimes, J. M.             120472-00  01 OCT 19 
+                  ------ Civil Engineer Corps (5105) ------ 
+Sr Initial Eligible  Schell, G. C.             118852-00  01 MAY 17 
+Jr Initial Eligible  Cook, A. M.               120511-00  01 OCT 19 
+4.  Only eligible officers may communicate with a promotion 
+selection board via the Letter to the Board (LTB) process.  NAVADMIN 220/19 
+announced the introduction of a new application known as Electronic 
+Submission of Selection Board Documents (ESSBD), accessible through MyNavy 
+Portal (MNP).  ESSBD improves the speed, transparency and confidence of 
+receipt over current LTB submission methods, such as hard copy and e-mail 
+submitted letters and related attachments. 
+    a.  ESSBD will be available for all promotion, advancement and selection 
+boards. 
+    b.  ESSBD provides board candidates with the capability to electronically 
+submit LTBs in a standard, consistent format, with or without attachments and 
+will allow the candidate to see (for content and clarity) exactly what will 
+be delivered and presented to the board. 
+    c.  To use ESSBD, candidates must access document services through MNP 
+at https://www.mnp.navy.mil/group/my-record.  On-screen instructions will 
+direct the submitter thereafter. 
+    d.  Submission and subsequent receipt acknowledgement for LTBs submitted 
+via ESSBD or other means does not constitute confirmation of eligibility for 
+the boards to which LTBs are submitted.  If required, a full visual user 
+guide is available at https://www.mnp.navy.mil/group/advancement-and-
+promotion. 
+    e.  LTBs must be received by Navy Personnel Command not later than 2359 
+(central time) 10 days prior to the convening date of the respective 
+board.  Submitters are cautioned to not wait until the deadline date to 
+submit LTBs via ESSBD or other available avenues. 
+ 
+Selection To               Convening Date       Due Date / Time 
+Rear Admiral               16 NOV 21            05 NOV 21 / 2359 CT 
+Rear Admiral (lower half)  17 NOV 21            06 NOV 21 / 2359 CT 
+ 
+    f.  If sending a board package from a non-NMCI network 
+(bumed.mil, eu.navy.mil, etc.), please review procedures listed in NAVADMIN 
+220/19. 
+    g.  The written communication may call attention to the board any matter 
+concerning the record of the officer that the officer considers 
+important.  Written communication may include, as enclosures, correspondence 
+from any individual concerning the eligible officer.  Correspondence not 
+originated by the eligible officer, including endorsement to the letter of 
+the eligible officer and letters written on behalf of that officer, must 
+contain a written acknowledgement by the eligible officer that he or she 
+desires such correspondence be presented to the board. Correspondence without 
+such an acknowledgement is considered third- party correspondence and will be 
+returned without being presented to the board.  Classified correspondence 
+will not be accepted. 
+ 
+5.  Released by Vice Admiral J. B. Nowell, Jr, N1.// 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
