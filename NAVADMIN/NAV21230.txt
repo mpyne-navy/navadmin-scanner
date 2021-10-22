@@ -1,0 +1,64 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 181942Z OCT 21 MID600051053154U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 230/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/CHANGES TO THE LIMITED DUTY PERSONNEL TRANSACTIONS PROCESS// 
+ 
+REF/A/DOC/BUPERS/05SEP21// 
+REF/B/DOC/OPNAV/25SEP18// 
+NARR/REF A IS MILPERSMAN ARTICLE 1300-1400, LIMITED DUTY.   
+REF B IS OPNAVINST 1300.20, DEPLOYABILITY ASSESSMENT AND ASSIGNMENT 
+PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces the release of reference (a) which provides 
+guidance for the assignment, accountability, follow-up care and disposition 
+of Active Component Service Members placed in, or removed from, a limited 
+duty (LIMDU) status. 
+ 
+2.  The Deputy Chief of Naval Personnel (DCNP) is the single process owner of 
+the LIMDU Administration Program.  The Assistant Commander, Navy Personnel 
+Command (for Career Management (PERS-4)) is the program manager. 
+ 
+3.  The Deployability Assessment and Assignment Branch (PERS-454) will assume 
+the duties and responsibilities of the Personnel Support 
+Detachment/Transaction Service Center regarding LIMDU accounting category 
+code (ACC 100 to 105) changes, projected rotation date changes, and return to 
+duty availability (ACC 105 to 100).  The creation of this centralized office 
+will provide subject matter expertise to manage, assist and respond to 
+administrative questions related to LIMDU in order to mitigate gaps at sea. 
+ 
+4.  In line with reference (b), commands shall designate a command 
+deployability coordinator to function as the liaison for the deployability 
+program.  A copy of the signed designation letter shall be provided within 
+five working days from designation via email to the servicing military 
+treatment facility (MTF) deployability coordinator and PERS-454 
+at:  mill_DAOPers-454(at)navy.mil. 
+ 
+5.  Commands with 50 or more LIMDU personnel are encouraged to appoint a 
+command deployability coordinator as a primary duty and assign collateral 
+deployability coordinators on a 1:50 ratio to assist in the management of 
+LIMDU personnel.  It is also recommended commands establish a deployability 
+coordinator functional email address to facilitate communication with MTF 
+deployability coordinator and PERS-454. 
+ 
+6.  For assistance or further information, contact the LIMDU Administration 
+Help Desk at (901) 874-3867 or via e-mail at: limdu_admin.fct(at)navy.mil. 
+ 
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
