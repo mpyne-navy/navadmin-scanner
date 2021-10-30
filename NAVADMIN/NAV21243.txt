@@ -1,0 +1,75 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 282126Z OCT 21 MID200001244583U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 243/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT// 
+ 
+SUBJ/RISK MANAGEMENT FRAMEWORK PROCESS GUIDE UPDATES// 
+ 
+REF/A/DOC/USN RMF PROCESS GUIDE V3.2/DDCION/2SEP20// 
+REF/B/MSG/CNO WASHINGTON DC/152025ZMAR21// 
+REF/C/MSG/CNO WASHINGTON DC/132106ZJAN21// 
+ 
+NARR/REF A IS THE UNITED STATES NAVY (USN) RISK MANAGEMENT FRAMEWORK (RMF) 
+PROCESS GUIDE.   
+REF B IS THE RISK MANAGEMENT FRAMEWORK STANDARD OPERATING PROCEDURES (SOP).   
+REF C IS THE DEFENSE-IN-DEPTH FUNCTIONAL IMPLEMENTATION ARCHITECTURE AFLOAT 
+INHERITANCE MODEL (AIM) FOR RISK MANAGEMENT FRAMEWORK (RMF).// 
+POC/MEGAN CANE/CIV/OPNAV N2N6D6/TEL:  703-692-1657 
+/EMAIL:  MEGAN.CANE(AT)NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN announces an update to reference (a) and is applicable 
+to all USN systems under Navy Authorizing Official (NAO) and Functional 
+Authorizing Official (FAO) authorities. 
+ 
+2.  The following appendices have been incorporated into reference (a) to 
+reduce administrative burden for stakeholders executing the RMF Process. 
+    a.  Streamlined Risk Management Framework (RMF) Review Process:  This 
+process is designed to leverage reference (b) to optimize the Navy RMF Assess 
+and Authorize process, decrease duplicative reviews, and expedite RMF 
+Authority to Operate (ATO) decisions. 
+    b.  RMF Reauthorization Upon ATO Expiration Guide: This provides 
+specifications necessary for implementing RMF Step 6 for systems that have a 
+current ATO and the work actions required to obtain a streamlined RMF Static 
+Reauthorization for eligible systems.  This guide establishes the first steps 
+toward implementing RMF Ongoing Authorizations. 
+ 
+3.  In addition to reference (a) updates, the Defense-in-Depth Functional 
+Implementation Architecture (DFIA) Shore Inheritance Model (SIM) version 1 
+(v1) has been released. In alignment with reference (c), the DFIA SIM 
+provides an inheritance model for shore-based systems.  The SIMv1 is 
+applicable to Naval Facilities Engineering Systems Command Facility systems 
+only, but future releases will continue to refine the model to provide 
+additional inheritable controls for all shore environments and future 
+requirements. 
+ 
+4.  The RMF Reform Focus Team led by Director, Navy Enterprise Networks and 
+Cybersecurity (OPNAV N2N6D), Commander, Naval Information Warfare Systems 
+Command, and U.S. Fleet Cyber Command are making strides to standardize, 
+streamline, and increase the speed and outcomes of the Navy RMF process. 
+ 
+5.  The updated RMF Process Guide and DFIA SIM are available on the USN RMF 
+Portal 
+at:  https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION/N2N6BC4/RMF/SitePa
+ges/Home.aspx 
+ 
+6.  Updates are effective and available for use immediately.  For Echelon IIs 
+that require development of additional internal routing procedures, updates 
+must be implemented NLT 1 December 2021. 
+ 
+7.  This NAVADMIN will remain in effect until it is cancelled or superseded. 
+ 
+8.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
