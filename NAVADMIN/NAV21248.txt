@@ -1,0 +1,66 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 011603Z NOV 21 MID200001249633U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 248/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/NAVY PERSONNEL AND PAY (NP2) SYSTEM DELIVERY PLAN PHASE 1 MODIFICATION 1 
+(DESIGNATION OF FUNCTIONAL ACCOUNT MANAGER (FAM))//
+
+REF/A/MSG/CNO WASHINGTON DC/171421ZAUG21//
+
+NARR/REF A IS NAVADMIN 178/21, NAVY PERSONNEL AND PAY (NP2) SYSTEM DELIVERY 
+PLAN PHASE 1 (DESIGNATION OF FUNCTIONAL ACCOUNT MANAGER (FAM).//
+
+RMKS/1.  The initial operational capability date for Navy personnel and pay 
+(NP2) has been delayed to mitigate risk to delivering Active and Reserve 
+Component integration, treasury direct disbursing and to improve audit 
+capability.  In line with reference (a), commands are required to designate 
+their functional account manager (FAM) and request initial account creation.  
+This NAVADMIN extends the deadline to submit FAM role requests in paragraph 1 
+of reference (a) to 1 December 2021.
+
+2.  It is crucial FAMs continue to submit and complete requests by 1 December 
+2021 to ensure command FAMs are onboard, trained and ready to approve user 
+roles.  The request for FAM access requires the member to upload the approved 
+system authorization access request Navy (SAAR-N) PDF form with proof of 
+completion of the current cyber awareness challenge training and the members 
+command designation letter into the NP2 SAAR-N request at 
+https://np2.navy.mil.  Due to the enduring nature of the FAM requirement, 
+commands are to ensure the FAM role is never vacant as they are the final 
+approval authority for their commands roles.  Timeline for additional user 
+role submission will be promulgated in a subsequent NAVADMIN.
+
+3.  To assist commands, the following documentation is located on
+NP2 resources page of MyNavy Portal at https://my.navy.mil/np2.html.
+    a.  NP2 SAAR-N routing process with step-by-step guidance.
+    b.  SAAR-N PDF form template.
+    c.  Sample FAM designation letter.
+
+4.  Additional assistance, if required, can be requested through the MyNavy 
+Career Center (MNCC) at (833) 330-MNCC or via e-mail at askmncc(at)navy.mil.
+
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

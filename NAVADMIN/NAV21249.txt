@@ -1,0 +1,112 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 011621Z NOV 21 MID600051107378U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 249/21
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/NOV//
+
+SUBJ/CCDA DATA REPORTING REQUIREMENTS//
+
+REF/A/ALNAV/SECNAV/302126ZAUG21//
+REF/B/NAVADMIN/OPNAV/311913ZAUG21//
+REF/C/NAVADMIN/OPNAV/132050ZOCT21//
+
+NARR/REF A IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-
+19 VACCINATION POLICY.  
+REF B IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY.
+REF C IS NAVADMIN 225/21, COVID-19 CONSOLIDATED DISPOSITION AUTHORITY 
+(CCDA).//
+
+RMKS/1.  Background.  As the maritime protectors of our country in peacetime 
+and war, we require a healthy and mission ready force.
+Vaccination is the most effective tool we have to prevent widespread 
+manifestation of COVID-19 in our force today.  Considering this threat to the 
+health and readiness of service members, references
+(a) and (b) directed mandatory vaccination against COVID-19 for all Active 
+Duty and Reserve Navy service members.  Reference (c) announced the Chief of 
+Naval Personnel (CNP) as the COVID Consolidated Disposition Authority (CCDA) 
+and provided additional guidance.
+
+2.  Policy.  In order to maximize readiness, it is the policy goal of the 
+Navy to achieve a fully vaccinated force against the persistent and lethal 
+threat of COVID-19.  To date over 99 percent of Active Duty Navy service 
+members have met their readiness responsibility by completing or initiating a 
+COVID-19 vaccination series.
+
+3.  COVID-19 Vaccine Reporting.  This message directs data reporting 
+requirements for all unvaccinated Navy service members in all Navy commands.  
+Echelon one and two commanders shall compile and provide the following 
+information on all Navy service members who are not fully vaccinated as 
+defined by reference (c) in line with the timeline specified in paragraph 4 
+below.  Submit data via the Department of Navy (DON) COVID Tracking Site 
+(https://portal.secnav.navy.mil/cop/crc/covid/).  Submission of data may be 
+delegated to subordinate echelon three commands.  A template excel file is 
+available at the MyNavy Portal site
+(https://www.mnp.navy.mil/group/navy-covid-19-reporting) and shall be used 
+for reporting.  The following data is required:
+DOD ID Number
+UIC
+Duty Status (Active Component, Full Time Support, or Selected
+Reserve)
+Paygrade
+Navy Region
+Fleet Concentration Area
+Reporting Command (Commands are binned by Fleet, CNIC, OPNAV,
+SECNAV)
+Vaccination Status
+(1)  unvaccinated, refuser
+(2)  unvaccinated, vaccination series started but not complete
+(3)  unvaccinated, pending medical exemption
+(4)  unvaccinated, approved medical exemption
+(5)  unvaccinated, pending religious accommodation exemption
+(6)  unvaccinated, approved religious exemption
+(7)  unvaccinated, has not had access to vaccination due to operational 
+schedule and/or remote location
+
+4.  Reporting Timeline
+    a.  All Active Duty Navy service member data shall be reported no earlier 
+than 15 November 2021 and no later than 19 November 2021.
+Information should reflect the service member status as of 15 November 2021.
+    b.  All Selected Reserve (SELRES) Navy service member data shall be 
+reported no earlier than 15 December 2021 and no later than 19 December 2021.  
+Information should reflect the service member status as of 15 December 2021.
+    c. Commands are required to update reporting if there is a change in 
+vaccination status of a service member after the initial report.
+
+5.  Additional guidance to commanders regarding separation processes for 
+vaccine refusers will be provided on or about 15 November 2021.
+
+6.  Commands shall withhold submitting administrative separation requests 
+until directed by the CCDA.
+
+7.  Points of contact (POC).  OPNAV POC: CAPT Jason Grizzle, e-mail:
+ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL.  BUMED POC:  BUMED COVID-19 CRISIS ACTION 
+TEAM, (703) 681-1125, e-mail:  USN.NCR.BUMEDFCHVA.MBX.BUMED-- -2019-NCOV-
+RESPONSE-CELL(AT)MAIL.MIL.
+
+8.  Released by VADM John B. Nowell, Jr, Chief of Naval Personnel.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
