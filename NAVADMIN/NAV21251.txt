@@ -1,0 +1,128 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 051527Z NOV 21 MID600051143023U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 251/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/OCT// 
+ 
+SUBJ/2021 PERIODIC HEALTH ASSESSMENT AND POST DEPLOYMENT HEALTH RE-ASSESSMENT 
+IN SUPPORT OF THE PHYSICAL READINESS PROGRAM POLICY// 
+ 
+REF/A/DOC/OPNAV/11JUL11// 
+REF/B/DOC/NAVADMIN/JUN21// 
+REF/C/DOC/DOD/09JUN2014// 
+REF/D/DOC/SECNAV/14JUN2019// 
+REF/E/DOC/OPNAV/01FEB2016 
+ 
+NARR/REF A IS OPNAV INSTRUCTION 6110.1J PHYSICAL READINESS PROGRAM.  
+REF B IS NAVADMIN 129/21, PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR YEAR 
+2021 PHYSICAL FITNESS ASSESSMENT.   
+REF C IS DoDI 6025.19 INDIVIDUAL MEDICAL READINESS.   
+REF D IS SECNAVINST 6120.3A, PERIODIC HEALTH ASSESSMENT FOR INDIVIDUAL 
+MEDICAL READINESS.   
+REF E IS OPNAVINST 6100.3A CH-1, DEPLOYMENT HEALTH ASSESSMENT PROCESS.   
+POC/BUMED, FORCE MEDICAL READINESS/ 
+EMAIL:  USN.NCR.BUMEDFCHVA.LIST.M34(AT)MAIL.MIL. 
+ 
+RMKS/1.  Per references (a) and (b), prior to a Sailor participating in the 
+Physical Fitness Assessment (PFA) in the fall of 2021, completion of a 
+Physical Activity Risk Factor Questionnaire (PARFQ) is required.  A Periodic 
+Health Assessment (PHA) within the past 12 months, as well as a Post-
+Deployment Health Re-Assessment (PDHRA) when applicable, is required for 
+completion of the PARFQ. 
+This NAVADMIN provides guidance for completion of the PHA and/or PDHRA prior 
+to a Sailors participation in the fall 2021 PFA. 
+ 
+2.  Medical Cognizance 
+    a.  The Bureau of Medicine and Surgery (BUMED) has established Medical 
+Cognizance (MEDCOG) for medical readiness purposes for every unit in the 
+Navy, both Active and Reserve, based on physical location.  MEDCOG support 
+responsibilities are prescribed to Navy Medicine Readiness and Training 
+Commands (NAVMEDREADTRNCOM), located at Military Treatment Facilities.  Each 
+NAVMEDREADTRNCOM utilizes their Operational Forces Medical Liaison Services 
+(OFMLS) as well as the Readiness clinics to support all Sailors within their 
+MEDCOG. 
+    b.  Sailors or Commands who are remote or without an embedded medical 
+provider capable of performing these assessments will access a provider via 
+MEDCOG, by contacting the appropriate point of contact (POC) as outlined in 
+paragraph 4.a. of this NAVADMIN in order to schedule their assessments.  If 
+Sailors or Commands are uncertain which NAVMEDREADTRNCOM MEDCOG POC is 
+assigned to their unit, they can contact the designated POC for Naval Medical 
+Forces Pacific or Atlantic as appropriate for their unit per section 4.b. and 
+4.c. of this NAVADMIN.  When available, an embedded medical provider or 
+locally available Department of Defense medical provider should be used to 
+complete the PHA and/or PDHRA. 
+ 
+3.  Sailor Responsibilities and Procedures 
+    a.  Each Sailor is required by references (c), (d), and (e) to maintain 
+his or her medical readiness requirements, including the completion of the 
+PHA and PDHRA.  The Sailor must complete his or her portion of the specified 
+assessment(s) prior to contacting his or her medical department or the 
+NAVMEDREADTRNCOM. 
+    b.  In order to complete Part I of either assessment, the Sailor must log 
+in with their Common Access Card (CAC) to the new electronic Health 
+Assessment (EHA) website.  The electronic Periodic Health Assessment (EPHA) 
+and electronic Deployment Health Assessment (EDHA) websites are consolidated 
+into a single site called the electronic Health Assessment (EHA) website, 
+located at https://data.nmcphc.med.navy.mil/eha/.  Both the EPHA and EDHA 
+websites have a redirect notice to the EHA website, and both currently 
+maintain functionality if there is an issue accessing the EHA site. 
+    c.  When a Sailor needs to complete a PHA, he or she must select My PHA 
+under the PHA link, then click Start New Assessment. 
+    d.  When a Sailor needs to complete any deployment related health 
+assessment, including the PDHRA, he or she must select Deployer under EDHA. 
+If an assessment is required, it will be highlighted with an orange Start 
+button, and correspond to the Sailors outstanding assessments reported in the 
+Medical Readiness Reporting System (MRRS). 
+    e.  In the event the MRRS required deployment related health assessment 
+is not highlighted appropriately with the orange Start button, a Sailor can 
+bypass this by selecting the blue Report a New Assessment button or blue 
+Report a New Standalone Deployment Mental Health Assessment (DMHA) button if 
+only a mental health assessment is required. 
+    f.  Upon completion of the Service member portion of a PHA, PDHRA, or 
+other assessment on the EHA website, Service members must contact their 
+embedded medical POC or identified MEDCOG POC, per paragraph 4 of this 
+NAVADMIN, to schedule the record review and Provider portion of the 
+assessment, Part II.  Both Part I and Part II must be complete in order for a 
+Service members PHA, PDHRA, or other EHA to be certified. 
+
+4.  MEDCOG POCs 
+    a.  Naval Medical Forces Pacific (NAVMEDFORPAC) and Atlantic 
+(NAVMEDFORLANT) have established regional support strategies specific to 
+their MEDCOGs, which are kept up to date and can be found at: 
+https://esportal.med.navy.mil/bumed/rh/m3/M34/SMMR/PHA_Regional_POCs/default.
+aspx 
+    b.  The NAVMEDFORPAC POC can be reached at: 
+usn.san-diego.navmedwestsanca.mbx.forc-medical-readiness-pha1(AT)mail.mil. 
+    c.  The NAVMEDFORLANT POC can be reached at: 
+usn.hampton-roads.navmedeastporsva.mbx.medlant-pha(AT)mail.mil. 
+ 
+5.  User Feedback 
+The assessment questions are defined by DoD requirements and cannot be 
+changed without DoD approval.  However, user feedback about website 
+functionality or user experience can be reached at 
+usn.hampton-roads.navmcpubhlthcenpors.list.nmcphc-pha1(AT)mail.mil. 
+ 
+6. BUMED POCs 
+BUMED POCs for the EHA website development can be reached at 
+usn.ncr.bumedfchva.list.m34(AT)mail.mil. 
+ 
+7.  This NAVADMIN remains in effect until superseded or cancelled, 
+whichever comes first. 
+ 
+8.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
