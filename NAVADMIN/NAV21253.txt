@@ -1,0 +1,38 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 091354Z NOV 21 MID200001269226U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 253/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/246TH CHAPLAIN CORPS ANNIVERSARY MESSAGE// 
+ 
+RMKS/1.  On 28 November 1775, the Continental Congress directed that divine 
+services be held aboard all naval ships, thus establishing the Navy Chaplain 
+Corps.  For 246 years, Navy Chaplains have cared for Sailors and Marines 
+around the globe and through every conflict, at sea and ashore. 
+ 
+2.  Today, the men and women of the Chaplain Corps continue to build and 
+sustain the spiritual readiness of our people.  Readiness for the test of 
+war is impossible without Sailors and Marines who are ready in body, mind, 
+and spirit.  The work of our chaplains and RPs is wholly dedicated to the 
+readiness of the spirit. Thank you for your legacy of care to our people. 
+ 
+3.  Happy 246th birthday, Chaplains! 
+ 
+4.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+Rear Admiral Brent Scott, Chief of Chaplains.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
