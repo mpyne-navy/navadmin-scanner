@@ -1,0 +1,509 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 152239Z NOV 21 MID600051180185U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 256/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/CNO/NOV// 
+ 
+SUBJ/CCDA GUIDANCE TO COMMANDERS// 
+ 
+REF/A/DOC/SD/24AUG21// 
+REF/B/MSG/SECNAV/302126ZAUG21// 
+REF/C/MSG/OPNAV/311913ZAUG21// 
+REF/D/MSG/OPNAV/132050ZOCT21// 
+REF/E/DOC/BUMED/7OCT13// 
+REF/F/DOC/BUPERS/16MAR20// 
+REF/G/DOC/OPNAV/15AUG20// 
+REF/H/DOC/BUMED/03SEP21// 
+REF/I/DOC/OPNAV/10NOV09// 
+REF/J/MSG/OPNAV/011621ZNOV21// 
+REF/K/DOC/OPNAV/02SEP09// 
+REF/L/DOC/OPNAV/30OCT19// 
+REF/M/DOC/OPNAV/09OCT19// 
+REF/N/DOC/OPNAV/01OCT18// 
+REF/O/DOC/BUPERS/07MAY20// 
+REF/P/DOC/OPNAV/09OCT19// 
+REF/Q/DOC/OPNAV/29MAY07// 
+REF/R/DOC/OPNAV/07DEC06// 
+REF/S/DOC/OPNAV/25OCT21// 
+REF/T/DOC/OPNAV/05OCT17// 
+REF/U/DOC/OPNAV/01APR19// 
+REF/V/DOC/OPNAV/17JAN20// 
+REF/W/DOC/OPNAV/11APR21// 
+REF/X/DOC/SECNAV/30OCT18// 
+REF/Y/DOC/BUPERS/19SEP18// 
+REF/Z/DOC/SECNAV/28MAR19// 
+REF/AA/DOC/SECNAV/15APR19// 
+ 
+NARR/REF A IS THE SECRETARY OF DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 
+2019 VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS. 
+REF B IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-19 
+VACCINATION POLICY.   
+REF C IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY.   
+REF D IS NAVADMIN 225/21, COVID-19 CONSOLIDATED DISPOSITION AUTHORITY (CCDA). 
+REF E IS BUMEDINST 6230.15B, IMMUNIZATIONS AND CHEMOPROPHYLAXIS FOR THE 
+PREVENTION OF INFECTIOUS DISEASE. 
+REF F IS BUPERSINST 1730.11A, STANDARDS AND PROCEDURES GOVERNING THE 
+ACCOMMODATION OF RELIGIOUS PRACTICES.    
+REF G IS MILPERSMAN 1730-020, IMMUNIZATION EXEMPTIONS FOR RELIGIOUS BELIEFS.    
+REF H IS BUMEDNOTE 6300, NAVY CORONAVIRUS DISEASE 2019 VACCINE MEDICAL 
+TEMPORARY, AND MEDICAL PERMANENT EXEMPTION FOR MEDICAL CONTRAINDICATION 
+APPROVAL PROCESS.   
+REF I IS MILPERSMAN 1910-154, SEPARATION BY REASON OF ENTRY LEVEL PERFORMANCE 
+AND CONDUCT.   
+REF J IS MILPERSMAN 1910-600, FORWARDING CASES TO THE SEPARATION AUTHORITY 
+(SA).   
+REF K IS NAVADMIN 249/21, CCDA REPORTING REQUIREMENTS.   
+REF L IS MILPERSMAN 1611-010, OFFICER PERFORMANCE AND SEPARATIONS FOR CAUSE.   
+REF M IS MILPERSMAN 1616-040, ENLISTED PERFORMANCE (E-6/7/8/9).   
+REF N IS MILPERSMAN 1610-015, DOCUMENTATION ON FITNESS REPORTS AND 
+PERFORMANCE EVALUATIONS FOR FAILURE TO MAINTAIN DEPLOYABILITY OR INDIVIDUAL 
+MEDICAL READINESS.   
+REF O IS BUPERSINST 1610.10E, NAVY PERFORMANCE EVALUATION SYSTEM.   
+REF P IS MILPERSMAN 1616-050, ENLISTED PERFORMANCE (E-5 AND BELOW).    
+REF Q IS MILPERSMAN 1320-308, PERMANENT CHANGE OF STATION (PCS) TRANSFER 
+ORDER EXECUTION.   
+REF R IS POLICY DECISION MEMORANDUM 003-06, ASSIGNMENT INCENTIVE PAY 
+PROGRAM.   
+REF S IS POLICY DECISION MEMORANDUM 002-21, SEA DUTY INCENTIVE PAY PROGRAM.   
+REF T IS OPNAVINST 1160.6C, SPECIAL DUTY ASSIGNMENT PAY PROGRAM.   
+REF U IS OPNAVINST 1160.8B, SELECTIVE REENLISTMENT BONUS PROGRAM.    
+REF V IS OPNAVINST 1520.23C, GRADUATE EDUCATION.   
+REF W IS MILPERSMAN 1160-040, EXTENSION OF ENLISTMENTS. 
+REF X IS SECNAVINST 1420.2B, FROCKING OF COMMISSIONED OFFICERS.   
+REF Y IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF Z IS SECNAVINST 1420.3, DEPARTMENT OF THE NAVY COMMISSIONED OFFICER 
+PROMOTION PROGRAM.   
+REF AA IS SECNAVINST 1412.6M, PROMOTION OF OFFICERS TO THE GRADE OF 
+LIEUTENANT (JUNIOR GRADE) IN THE NAVY AND TO THE GRADE OF FIRST LIEUTENANT IN 
+THE MARINE CORPS. 
+ 
+RMKS/1.  Purpose.  This NAVADMIN provides guidance to Commanders regarding 
+Navy service members who fail to obey a lawful order by refusing the COVID-19 
+vaccine directed in references (a) through (c). 
+ 
+2.  Policy.  In order to ensure a fully vaccinated force, U.S. Navy policy is 
+to process for separation all Navy service members who refuse the lawful 
+order to receive the COVID-19 vaccination and do not have an approved 
+exemption.  Specific administrative actions are directed herein, however, 
+additional administrative actions and any punitive actions based solely on 
+vaccine refusal continue to be withheld. 
+ 
+2.a.  The least favorable characterization of service for Navy service 
+members refusing the vaccine, without extenuating circumstances, will be 
+GENERAL (under honorable conditions).  A general discharge will, at the 
+discretion of the Department of Veterans Affairs (VA), result in the loss of 
+eligibility for some VA benefits such as the GI Bill, to include the transfer 
+of GI Bill benefits to dependents. 
+ 
+2.b.  Navy service members with approved or pending COVID-19 vaccination 
+exemption requests shall not be processed for separation or be subject to the 
+other administrative actions described in this NAVADMIN due solely to their 
+lack of COVID-19 vaccination.  However, in line with reference (d), Navy 
+service members who are not vaccinated, regardless of exemption status, may 
+be temporarily reassigned with concurrence of the first flag officer in the 
+administrative chain of command based on operational readiness and mission 
+requirements.  Where applicable, the first flag officer in the operational 
+chain of command should be notified regarding temporary reassignments. 
+ 
+2.c.  Navy service members whose COVID-19 vaccination exemption request is 
+denied are required to receive the COVID-19 vaccine as directed by the 
+exemption adjudicating authority or commence vaccination within 5 days of 
+being notified of the denial, if the exemption adjudicating authority does 
+not specify.  Navy service members who refuse the COVID-19 vaccine after 
+expiration of the specified time to commence vaccination, will be processed 
+for separation and be subject to the other administrative actions described 
+in this NAVADMIN and reference (d). 
+ 
+2.d.  Navy service members who initiate vaccination such that they cannot 
+meet the deadline described in references (b) and (c) or the applicable 
+deadline established by receipt of an exemption denial, should notify their 
+chain of command as soon as possible.  The Navy service members command must 
+expeditiously report the case to the COVID Consolidated Disposition Authority 
+via *PERS-834(at)navy.mil* for officers and 
+*PERS832COVIDVAXADSEPS(at)us.navy.mil* for enlisted, in order to expedite 
+determination regarding whether to initiate or suspend administrative 
+separation and the other actions directed by this NAVADMIN. 
+ 
+2.e.  Notwithstanding the policy to separate Navy service members refusing 
+the vaccine, each and every Navy service member shall be treated with dignity 
+and respect at all times throughout the execution of the policies described 
+herein. 
+ 
+3.  Definitions. 
+ 
+3.a.  Navy Service Members.  Active-duty service members and service members 
+in the Selected Reserve only.  Service members in the Individual Ready 
+Reserve and U.S. Naval Academy (USNA) and Naval Reserve Officers Training 
+Corps (ROTC) midshipmen remain subject to the vaccine mandates in references 
+(a) through (c), but will be adjudicated per their governing instructions. 
+ 
+3.b.  Active-Duty Navy Service Members.  Active-duty Navy service members 
+include members of the Active Component and members of the Reserve Component 
+on active duty in a full time support (FTS) status (also known as Training 
+and Administration of the Reserve (TAR)). 
+ 
+3.c.  Refusing the Vaccine.  A Navy service member refusing the vaccine is 
+one who has: (1) received a lawful order to be fully vaccinated against 
+COVID-19, (2) is not or will not be fully vaccinated on the date required by 
+the order, and (3) does not have a pending or approved exemption request per 
+references (e) through (h). 
+ 
+3.d.  Fully Vaccinated.  Service members are considered fully vaccinated two 
+weeks after completing an approved COVID-19 vaccination series per reference 
+(c). 
+ 
+3.e.  Commanders.  Commanders, Commanding Officers and Officers-in-Charge of 
+naval units or organizations. 
+ 
+4.  General Guidance. 
+ 
+4.a.  Continue to hold submission of administrative separation (ADSEP) cases 
+or convening administrative separation boards until directed by the CCDA. 
+ 
+4.a.(1).  Final directions for submission of misconduct and ADSEP requests 
+based solely on vaccine refusal are expected to be promulgated during the 
+first week of December 2021.  In preparation for submission, Commanders shall 
+prepare Reports of Misconduct, applicable NAVPERS 1070/613s and any other 
+supporting documents. Templates and additional information can be found at 
+ 
+*https://www.mynavyhr.navy.mil/Career-Management/Personnel-Conduct-
+Sep/Officer-Performance-Separation/* and
+*https://www.mynavyhr.navy.mil/Career-Management/Personnel-Conduct-
+Sep/Enlisted-Separations/*.  A NAVPERS 1070/613 specifically written for
+Navy service members who refuse the COVID-19 vaccine is located at
+*https://www.mnp.navy.mil/group/navy-covid-19-reporting*   
+for Commanders use. 
+ 
+4.a.(2).  Entry Level Separation (ELS).  Commanders will continue separation 
+of Navy enlisted service members refusing the vaccine who meet ELS criteria 
+per MILPERSMAN (MPM) 1910-154.  In accordance with MPM 1910-600, forward 
+completed administrative separation records to PERS-832 via email at 
+*PERS832COVIDVAXADSEPS(at)us.navy.mil* for filing in members official 
+military personnel file (OMPF). 
+ 
+4.b.  Commanders will notify those Navy service members refusing the vaccine 
+who are executing funded or no-cost TAD orders for training, or any other 
+official purpose, to halt their assigned activity and return to their command 
+within five working days. 
+ 
+4.c.  Generally, Navy service members refusing the vaccine will continue in 
+their assigned duties pending adjudication of separation processing and other 
+applicable administrative actions described within this NAVADMIN.  Commanders 
+shall ensure appropriate risk mitigations remain in place to prevent the 
+spread of COVID-19.  If, in the Commanders judgment, a local reassignment 
+becomes necessary, Commanders should coordinate disposition and timing with 
+their Immediate Superior in Command (ISIC). 
+ 
+5.  Administrative Disposition Guidance. 
+ 
+5.a.  The data reporting required by NAVADMIN 249/21, reference (k), meets 
+the requirements of MPM 1611-010 (officers) and MPM 1616-040 (enlisted) to 
+inform PERS-834 (officers) and PERS-832 (enlisted) of incidents that could 
+result in adverse action for officers and enlisted (E-6 through E-
+9).  However, if a Navy service member refusing the vaccine (including those 
+E5 and below) has a pending transfer,  promotion or advancement: submit the 
+additional information, as described below, as soon as feasible to ensure 
+appropriate preemptive action is taken.  Include *COVID-19 Vaccine Refusal* 
+in the subject line of the email. 
+ 
+5.a.(1).  Officers.  Email *PERS-834(at)navy.mil* with members name, rank, 
+brief description of the offense (e.g. COVID-19 Vaccine Refusal), pending 
+promotion/advancement status, and the commands POC (Name, rank/rate, email 
+and phone number). 
+ 
+5.a.(2).  Enlisted.  Email *PERS832COVIDVAXADSEPS(at)us.navy.mil* with 
+members name, rank and rate, brief description of the offense (e.g. COVID-19 
+Vaccine Refusal), pending promotion/advancement status, and the commands POC 
+(Name, rank/rate, email and phone number). 
+ 
+6.  Documentation in Fitness Reports and Enlisted Evaluations. 
+ 
+6.a.  Officers. 
+ 
+6.a.(1).  In accordance with reference (d), within 30 days of a Navy service 
+member refusing the vaccine, the reporting senior shall issue an adverse 
+special Fitness Report (FITREP) per MPM 1610-015 and BUPERSINST 
+1610.10E.  These reports should be submitted no earlier than the *to* date 
+described below. 
+ 
+6.a.(2).  The adverse special FITREP will document failure of the member to 
+comply with Individual Medical Readiness responsibilities as outlined 
+below.  The adverse special FITREP shall document other facts as appropriate, 
+including any additional misconduct associated with vaccine refusal, as 
+described in BUPERSINST 1610.10E.  The *to* date in block 15 of this adverse 
+special FITREP will be as follows: 2021Nov28 (active duty service members and 
+FTS/TAR), 2021Dec28 (SELRES).  For Navy service members who requested an 
+exemption which was denied and subsequently refuse the vaccine, the *to* date 
+in block 15 shall be 14 days after expiration of the specified time to 
+commence vaccination as discussed in para 2.c. or the applicable date 
+specified in the previous sentence, whichever is later. 
+ 
+6.a.(3).  The adverse special FITREP will contain no greater than a 2.0 in 
+block 35 (Military Bearing/Character) and no greater than a 2.0 in block 38 
+(Leadership).  Block 42 (Promotion Recommendation) will be marked as 
+*Significant Problems*.  The following sentence must be the opening statement 
+in block 41: *Member failed to maintain deployability or individual readiness 
+standards by refusing the order to receive the COVID-19 vaccine.*  A report 
+without these marks and this statement will be rejected and returned for 
+correction. 
+ 
+6.b.  Enlisted members. 
+ 
+6.b.(1).  In accordance with reference (d), within 30 days of a Navy service 
+member refusing the vaccine, the reporting senior shall issue an adverse 
+special evaluation per MPM 1610-015 and BUPERSINST 1610.10E.  The adverse 
+special evaluation will document failure of the member to comply with 
+Individual Medical Readiness responsibilities as outlined below.  The adverse 
+special evaluation shall document other facts as appropriate, including any 
+additional misconduct associated with vaccine refusal, as described in 
+BUPERSINST 1610.10E.  The *to* date in block 15 of this adverse special 
+evaluation will be as follows:  2021Nov28 (active duty service members and 
+FTS/TAR), 2021Dec28 (SELRES).  For Navy service members who requested an 
+exemption which was denied and subsequently refuse the vaccine, the *to* date 
+in block 15 shall be 14 days after expiration of the specified time to 
+commence vaccination as discussed in para 2.c. or the applicable date 
+specified in the previous sentence, whichever is later.  These reports should 
+be submitted no earlier than the *to* date described above. 
+ 
+6.b.(2).  E-1 to E-6 Evaluations.  The adverse special evaluation will 
+contain no greater than a 2.0 in block 36 (Military Bearing/Character) and no 
+greater than a 2.0 in block 39 (Leadership).  Block 45 (Promotion 
+Recommendation) will be marked as *Significant Problems* and block 47 
+(Retention) will be marked as *Not Recommended*.  The following sentence must 
+be the opening statement in block 43: *Member failed to maintain 
+deployability or individual readiness standards by refusing the order to 
+receive the COVID-19 vaccine.*  A report without these marks and this 
+statement will be rejected and returned for correction. 
+ 
+6.b.(3).  E-7 to E-9 Evaluations.  The adverse special evaluation will 
+contain no greater than a 2.0 in block 37 (Character) and no greater than a 
+2.0 in block 33 (Deckplate Leadership).  Block 42 (Promotion Recommendation) 
+will be marked as *Significant Problems*. The following sentence must be the 
+opening statement in block 41: *Member failed to maintain deployability or 
+individual readiness standards by refusing the order to receive the COVID-19 
+vaccine.*  A report without these marks and this statement will be rejected 
+and returned for correction. 
+ 
+7.  Permanent Change of Station (PCS) orders execution guidance. Navy service 
+members refusing the vaccine who are under PCS orders will adhere to the 
+following guidance. 
+ 
+7.a.  Navy service members and dependents who have not yet initiated PCS 
+travel shall not execute orders.  Commands are directed to contact Navy 
+Personnel Command (NPC) for follow-on guidance per MPM 1611-010, MPM 1616-
+040, and MPM 1616-050.  NPC is standing by to address each specific case and 
+will authorize entitlements based on current location and situation. 
+ 
+7.b.  For Navy service members and/or dependents who have already initiated 
+PCS travel, detaching and gaining commands shall make every effort to contact 
+those service members to advise them of the requirements of this 
+message.  The service member should contact their detailer directly and each 
+case will be evaluated by NPC on a case by case basis.  Commands are directed 
+to contact NPC for follow-on guidance per MPM 1611-010, MPM 1616-040 and MPM 
+1616-050. Per MPM 1320-308, members traveling under orders are considered to 
+be attached to the gaining command. 
+ 
+7.c.  Commanders should contact their ISIC to discuss impacts on manning 
+resulting from this PCS orders execution guidance.  ISICs should discuss 
+manning impacts with their respective Type Commander N1, officer and enlisted 
+community detailers, and placement coordinator (PERS 4013). 
+ 
+7.d.  For new accession Navy service members in the accession training 
+pipeline, (e.g. Recruit Training Command and A and C Schools) who refuse the 
+vaccine and do not have a pending exemption request, Commanders will 
+immediately interrupt their training, place them in an Interrupted 
+Instruction (II) status and hold them at current activity. 
+ 
+7.e.  For new accession Navy service members in the accession training 
+pipeline, (e.g. Recruit Training Command and A and C Schools) who have a 
+pending exemption request, Commanders will continue their accession level 
+training (including transfer between schools), but will not transfer them to 
+their ultimate assignment until adjudication of their exemption 
+request.  Once complete with all available accession level training, 
+Commanders will place the service member in an Interrupted Instruction (II) 
+status and hold them at current activity until the exemption request is 
+adjudicated. 
+ 
+8.  Bonuses, Special Pays and Incentive Pays.  Navy service members refusing 
+the vaccine may not enter into any new agreements for bonuses, special pays, 
+or incentive pays and any unearned portion of current bonuses, special pays 
+and incentive pays will be recouped in accordance with references (r) through 
+(u).  Examples include, but are not limited to, the following: career 
+retention bonuses, enlistment bonuses and incentive pays (such as flight 
+pay). Bonuses, special pays and incentive pays become unearned when a Navy 
+service member refusing the vaccine is no longer performing duties for which 
+they are receiving such a bonus, special pay, or incentive pay (i.e. removed 
+from assignment). 
+ 
+8.a.  Bonuses, special pays and incentive pays become unearned as soon as one 
+of the following criteria is met: 
+ 
+8.a.(1).  Removed from the assignment. 
+ 
+8.a.(2).  Associated NEC/AQD/warfare qualification is removed. 
+ 
+8.a.(3).  Separated. 
+ 
+8.b.  Actions required by Commanders with regard to special and incentive 
+pays. 
+ 
+8.b.(1).  For assignment or incentive pays, if a Navy service member is 
+removed from an assignment, the Commander shall notify the office responsible 
+for any special and incentive pays of the change of assignment.  For 
+Assignment Incentive Pay (AIP), notify PERS-40DD via email at 
+*Mill_aip(at)navy.mil*.  For Special Duty Incentive Pay notify PERS-40DD via 
+email at *Mill_sdip(at)navy.mil*.  For Special Duty Assignment Pay, notify 
+the servicing Personnel Support Detachment/Transaction Support Center and the 
+rating detailer. 
+ 
+8.b.(2).  For bonuses, if a Navy service member is removed from an assignment 
+and is no longer eligible for a bonus, notify the office responsible for that 
+bonus.  For Selective Reenlistment Bonuses, notify OPNAV (N130) via email at 
+*nxag_N130D(at)navy.mil*. 
+ 
+8.b.(3).  Upon removal from an assignment, Commanders will ensure the NAVPERS 
+1070/613 specifically written for Navy service members refusing the vaccine 
+is completed and saved in the service members electronic service 
+record.  This NAVPERs 1070/613 can be found at 
+*https://www.mnp.navy.mil/group/navy-covid-19-reporting*.
+ 
+ 
+9.  Education.  Navy service members refusing the vaccine are not eligible to 
+continue Navy education opportunities and those who fail to complete a 
+service obligation incurred for participating in Navy funded full-time, part-
+time, or off-duty education programs per OPNAVINST 1520.23C will be required 
+to reimburse the cost of the education received, prorated for the obligated 
+time served. 
+ 
+9.a.  Institutional Education.  Navy service members refusing the vaccine who 
+incurred a service obligation for an education benefit (e.g. USNA, ROTC, 
+Naval Postgraduate School, Health Professional Scholarship Program or in-
+residence Professional Military Education), will have any unearned portion of 
+that education benefit recouped if separated before completing the service 
+obligation.  Navy service members refusing the vaccine (as defined in para. 
+3) currently enrolled in such an education program will be dis-enrolled from 
+their program as soon as feasible and held at their institution or command 
+pending administrative separation.  Note: Current USNA and ROTC Midshipmen 
+will be adjudicated by governing instructions as discussed in para. 3.a. 
+ 
+9.b.  Tuition Assistance (TA).  Navy service members refusing the vaccine are 
+ineligible to receive TA.  Commanders must withdraw command approval for any 
+TA courses not yet convened.  Commanders will direct withdrawal from TA 
+courses which have convened and require proof of withdrawal.  Navy service 
+members will be responsible for reimbursing the Navy for the amount listed on 
+the TA Authorization Voucher.  Officers administratively separated prior to 
+completing the statutory two year obligation for receipt of TA will incur a 
+debt. 
+ 
+9.c.  SkillBridge.  Navy service members refusing the vaccine are not 
+eligible to participate in the SkillBridge program.  Commanders will 
+immediately remove SkillBridge approval and recall Navy service members 
+refusing the vaccine as indicated below. 
+ 
+9.c.(1).  Navy service members assigned to commands in the Continental United 
+States (CONUS) will return to their permanent duty station at their own cost 
+within five days of recall order.  If the command is deployed or underway, 
+Sailors will report to the Transient Personnel Detachment in their home port. 
+ 
+9.c.(2).  Navy service members assigned to commands outside the Continental 
+United States (OCONUS) will report to the nearest CONUS Transient Personnel 
+Detachment at their own cost as directed by their command within five days of 
+recall order. 
+ 
+9.d.  Navy Credentialing Opportunities Online (COOL).  Navy service members 
+refusing the vaccine are not eligible for Navy COOL funding for examinations 
+or related credentialing fees.  Commanders will withdraw approval of 
+unexecuted vouchers and withhold future voucher approval for Navy service 
+members refusing the vaccine. 
+ 
+10.  Navy Training.  In cases where there is a clearly defined service 
+obligation that is not met, the cost of Navy training will be recouped, 
+prorated to the obligated time served.  Additionally, each case of a Navy 
+service member refusing the vaccine will be evaluated for recoupment of 
+training costs based on individual circumstances such as total cost, service 
+obligation, and the Navy’s realized return on investment for training 
+received. 
+ 
+11.  Reenlistments and Extensions.  Navy service members refusing the vaccine 
+are not eligible for re-enlistment, and may not extend their enlistment.  If 
+a Navy service member refusing the vaccine has entered into an extension 
+agreement that is not yet operative (has not yet taken effect), Commanders 
+must cancel these agreements to extend enlistment.  The inoperative extension 
+can be cancelled by the personnel office by completing the cancellation 
+section of NAVPERS 1070/621 or NAVPERS 1070/622 and processing the 
+corresponding NSIPS event per MPM 1160-040. 
+ 
+12.  Promotion and Advancement.  Navy service members refusing the vaccine 
+who are in a frocked status should be defrocked as soon as feasible (officers 
+per SECNAVINST 1420.2B, enlisted per BUPERSINST 1430.16G).  Spot promoted 
+officers refusing the vaccine should be replaced as soon as feasible.  Once 
+removed from the applicable spot promote billet, the command should contact 
+the members detailer and PERS-806 to remove the spot promotion. 
+ 
+12.a.  Officer Promotion Delay.  Commanders shall delay the promotion of any 
+officer refusing the vaccine and shall submit a NAVPERS 1070/13 to 
+*NPC_promotionwithholds.fct(at)navy.mil* stating the members promotion is 
+delayed due to COVID-19 vaccine refusal (per SECNAVINST 1420.3 or SECNAVINST 
+1412.6M).  Delays shall be based upon pending administrative action and 
+physical qualification. Navy Personnel Command will make formal written 
+notice to the officer following notification from the Commander.  A NAVPERS 
+1070/613 specifically written for Navy service members who refuse 
+the COVID-19 vaccine is located at 
+*https://www.mnp.navy.mil/group/navy-covid-19-reporting* for Commanders use. 
+ 
+12.b.  Enlisted Advancement Withhold.  Commanders shall withhold the 
+advancements of any enlisted member refusing the vaccine, to include 
+preventing automatic Time-In-Rate advancements for E-2/E-3 and advancement 
+for any Sailors in a frocked status for paygrades E-3 through E-9. 
+ 
+12.c.  Enlisted Advancement Withdrawal.  The date of the special adverse 
+evaluation from paragraph 6.b. above constitutes a permanent withdrawal of 
+advancement recommendation effective as of the date of the reporting seniors 
+signature.  An example NAVPERS 1070/13 for enlisted members pending 
+advancement is available in BUPERSINST 1430.16G, Chapter 7. 
+ 
+13.  Community sponsor flag officers are authorized to make determinations 
+within their communities regarding removal of warfare qualifications, 
+additional qualification designations (AQD), Navy Enlisted Classifications 
+(NEC), or sub-specialties for Navy service members refusing the vaccine.  Any 
+decision to remove warfare qualifications, AQDs, NECs, or sub-specialties 
+shall be consistent with current community policies and normal practices for 
+Navy service members who do not maintain deployability or individual 
+readiness through their own actions.  These decisions, when based solely on 
+refusing the vaccine, must be administrative in nature rather than punitive. 
+ 
+14.  If in doubt as to how to adjudicate issues related to a Navy service 
+member refusing the vaccine, Commanders should seek guidance from their chain 
+of command, their staff judge advocate, and/or the CCDA before acting.  In 
+all cases, Commanders are accountable to ensure the health and safety of 
+their command while treating every Navy service member with dignity and 
+respect. 
+ 
+15.  Points of contact. 
+My Navy Career Center:  833-330-6622, *askmncc(at)navy.mil*. 
+Retirements and Separations (PERS-8): *MILL_Pers-8(at)navy.mil*, 
+(901) 874-3264. 
+Bonus Programs, Special and Incentive Pays (OPNAV N130D): 
+*nxag_n130d(at)navy.mil*. 
+Enlisted Force Plans and Policy (OPNAV N132): *NXAG_N132C(AT)navy.mil*. 
+OPNAV POC: CAPT Jason Grizzle, *ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL*. 
+ 
+16.  Released by VADM John B. Nowell, Jr, COVID Consolidated Disposition 
+Authority. 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
