@@ -1,0 +1,81 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 181435Z NOV 21 MID600051197076U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 261/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/NOV// 
+ 
+SUBJ/TRANSITION TO ELECTRONIC NAUTICAL CHARTS AND CANCELLATION OF STANDARD 
+NAUTICAL CHARTS// 
+ 
+REF/A/MSG/CNO/071418ZAUG20// 
+REF/B/MSG/CNO/301727ZAPR21// 
+REF/C/MSG/CNO/301746ZAPR21// 
+ 
+NARR/REF A IS NAVADMIN 221/20, TRANSITION TO ELECTRONIC NAVIGATIONAL CHART 
+(ENC).   
+REF B IS GENADMIN, ELECTRONIC CHART DISPLAY INFORMATION SYSTEM-NAVY APPROVAL 
+FOR VOYAGE MANAGEMENT SYSTEM VERSION 9.5.2 ON SURFACE SHIP PLATFORMS.   
+REF C IS GENADMIN, ELECTRONIC CHART DISPLAY INFORMATION SYSTEM-NAVY APPROVAL 
+FOR VOYAGE MANAGEMENT SYSTEM VERSION 9.5.2 ON SUBMARINE PLATFORMS.// 
+ 
+POC/ELIZABETH HIGGINS/CAPT/OPNAV N2N6E4/TEL:  (571) 256-8231/ 
+EMAIL: ELIZABETH.M.HIGGINS10.MIL(AT)US.NAVY.MIL// 
+POC/WILLIAM MUTHIG/CIV/OPNAV N2N6E4/TEL:  (571) 256-8222/ 
+EMAIL: WILLIAM.D.MUTHIG.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN expands on the information promulgated in reference 
+(a), regarding the Navy transition to electronic navigation based on the 
+International Hydrographic Office S-57 Electronic Navigational Chart (ENC) 
+standard. 
+ 
+2.  The National Geospatial-Intelligence Agency (NGA) has commenced 
+production of a global portfolio of ENC, Additional Military Layers (AML) and 
+Submarine ENC (SMENC).  These products will ultimately replace Digital 
+Nautical Charts (DNC), Tactical Ocean Data (TOD) and submarine unique 
+navigation products.  The Navy will transition from DNC to ENC by the end of 
+Fiscal Year (FY) 2025.  The Navy will also transition TOD0 and TOD4 to AML by 
+the end of FY-25.  For submerged navigation, NGA will transition all TOD2 
+areas to SMENC by the end of FY-25 covering approximately 80 percent of 
+global SMENC coverage.  The remaining submarine unique coverage areas will be 
+converted to SMENC by the end of FY-32. 
+ 
+3.  Current NGA ENC portfolio, approximately 30 percent of global coverage, 
+is available on a single Digital Video Disc (DVD) monthly.  Vessels should 
+receive this disc from Defense Logistics Agency (DLA) as part of their normal 
+subscription per Commander, U.S. Fleet Forces Command and Commander, U.S. 
+Pacific Fleet geospatial allowances.  If vessels are not receiving the DVD on 
+a monthly basis, contact DLA to request ENC Worldcover 
+(NRN:  ENCDXWRLDCVER01, NSN:  7644016905742). 
+ 
+4.  NGA plans to discontinue production and maintenance of their SNC 
+portfolio starting in calendar year 2022.  Hardcopy charts created from ENC, 
+known as Certified Printed ENC (CPENC), will be certified for navigation and 
+provided by NGA upon request.  CPENC will be used to mitigate gaps created by 
+foreign Hydrographic Offices SNC cancellations and Navy needs during the 
+transition to electronic navigation.  Post 2025, CPENC will only be available 
+to support small scale International Charts, General Charts, Littoral 
+Planning Charts, and emergent crisis support. 
+ 
+5.  Navy programs relying on DNC, TOD or SNC for navigation or any other 
+purposes shall plan for the termination of these products prior to FY-25 and 
+inform OPNAV N2N6E via their Type Commander (TYCOM) of unmitigated adverse 
+impacts.  Ships, submarines and commands equipped per references (b) and (c) 
+should begin to use ENC when authorized.  All other systems (e.g., C2, 
+mission planning, etc.) should commence using ENC if capable.  All commands 
+are encouraged to submit recommendations for AML requirements to their TYCOM 
+for consideration. 
+ 
+6.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
