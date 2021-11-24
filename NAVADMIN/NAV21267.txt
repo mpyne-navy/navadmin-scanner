@@ -1,0 +1,115 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 241616Z NOV 21 MID600051218314U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 267/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/TALENT MANAGEMENT TASK FORCE AND ENAVFIT// 
+ 
+RMKS/1.  Dominance of the maritime domain requires innovation and forward 
+thinking.  With investments in platforms, weapons and technologies to meet 
+evolving operational conditions, it is imperative that we invest in our most 
+essential warfighting asset, our people.  Talent management and modern 
+development approaches are required to attract, develop, train and retain the 
+best and fully qualified Sailors in our Navy. 
+ 
+2.  To meet this challenge Navy Personnel Command (NPC) has established the 
+Talent Management Task Force (TMTF) to launch a series of Performance 
+Evaluation Transformation and Talent Management (PET-TM) programs and 
+initiatives.  The TMTF is divided into four talent management lines of 
+operation:  Talent Development and Retention, Performance Management, 
+Succession Planning and Career Development and Management.  The TMTF end 
+state is to ensure effective Sailor development that retains the best and 
+fully qualified Sailors, in the right assignments, to maximize the 
+warfighting effectiveness of the Navy. 
+ 
+3.  TMTF is working on five key PET-TM programs and initiatives briefly 
+described below, which will be implemented in the coming months and years. 
+    a.  eNavFit.  As a replacement to NAVFIT98A, this online and offline web-
+enabled performance appraisal interface will be available for both connected 
+and disconnected operations.  Access will be through BUPERS Online (BOL) and 
+NPC document services to support online evaluation and fitness report 
+drafting, routing, review and submission.  eNavFit will further serve as a 
+bridge toward the larger long-term goal of a fully transformed performance 
+evaluation system concurrent with the fielding of Navy Personnel and Pay 
+System (NP2) full operational capability.  Leveraging TMTF collaboration with 
+Fleet and TYCOMs, follow-on studies are in progress at Naval Postgraduate 
+School to ensure future changes to the performance evaluation system are 
+directly related to job performance.  Additionally, TMTF will study various 
+attributes of an evaluation to include duration of reports, numerical grades, 
+promotion recommendations and distinct rankings/breakouts. 
+    b.  Update to BUPERSINST 1610.10F, Navy Performance Evaluation 
+System.  An update to BUPERSINST 1610.10F incorporates the inclusion of 
+eNavFit, rescinds administrative change requests to be submitted within two 
+years of the performance evaluation end date, introduces the use of coaching 
+skills to performance counseling conversations and mandates the completion of 
+mid-term performance counseling. 
+    c.  Mid-term performance counseling.  The initiative clarifies the 
+requirement to conduct timely mid-term performance counseling, provides 
+training, encourages the use of coaching behaviors and introduces the 
+Military Individual Development Plan (NAVPERS 1610/19) and Mid-term 
+Performance Counseling Checklist (NAVPERS 1610/20). 
+    d.  MyNavy Coaching.  MyNavy Coaching is an initiative to build and 
+sustain a coaching culture within the Navy.  MyNavy Coaching is focused on 
+active listening, empathy and asking powerful questions for Sailors to engage 
+in peer-to-peer coaching conversations. 
+    e.  Navy Command Leadership Assessment and Selection Program 
+(NCLASP).  NCLASP is an effort to create a more effective process to select 
+future Navy leaders by including psychological assessments, cognitive 
+aptitude tests, communication skills, and personality attributes known to be 
+associated with effective leadership into the leadership selection 
+process.  To date, Navy Expeditionary Combat Command, Naval Special Warfare 
+and Naval Submarine Force communities have participated in NCLASP pilots to 
+select future leaders. Lessons learned from these pilots will pave the way 
+for a comprehensive roll out across other communities with a program tailored 
+to the unique needs of each TYCOM while maintaining the gold standards of 
+personnel selection science. 
+ 
+4.  eNavFit will be the first PET-TM initiative to be released. 
+eNavFit consolidates the functionality of NAVFIT98A into a web-enabled 
+performance evaluation.  Sailors will be able to draft, electronically submit 
+and sign performance evaluations for submission to the Sailors official 
+military personnel file in a matter of days.  The functionality of eNavFit 
+will improve report accuracy, timeliness and quality as well as reduce 
+evaluation processing, submission errors and routing delays.  NPC will deploy 
+eNavFit to the Reserve Component in December 2021 and deploy to the Active 
+Component in early 2022.  BUPERSINST 1610.10F will be released soon and will 
+include policy for eNavFit. 
+ 
+5.  eNavFit has been designed for the following operational conditions. 
+    a.  Connected operations.  For Sailors in a standard office environment 
+with regular internet connectivity. 
+    b.  Connected and disconnected operations.  For Sailors or commands that 
+are underway or have limited internet connectivity. Sailors will be able to 
+work offline and periodically upload and submit completed reports via BOL 
+when connectivity is available. 
+    c.  Disconnected operations.  For commands entirely offline with legacy 
+ability to print, wet sign and mail completed reports to NPC. 
+ 
+6.  Performance evaluation training materials, an eNavFit user guide and 
+quick reference cards can be found via the NPC website at 
+https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/ 
+ 
+7.  For questions concerning any of these PET-TM programs and initiatives, 
+contact the MyNavy Career Center (MNCC) at (833) 833- MNCC or via e-mail at 
+askmncc(at)navy.mil. 
+ 
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

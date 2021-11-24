@@ -1,0 +1,222 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 241805Z NOV 21 MID600051218572U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 268/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/NOV// 
+ 
+SUBJ/REQUIRED COVID-19 TESTING FOR UNVACCINATED SERVICE MEMBERS// 
+ 
+REF/A/MEMO/USD/DOC/29OCT21// 
+REF/B/NAVADMIN/31AUG21 
+REF/C/MEMO/SD/24AUG21 
+REF/D/DOD/FMR VOL 10 CH 11 
+REF/E/NAVADMIN/02JUN21 
+REF/F/NAVADMIN/23AUG21 
+REF/G/DOC/19NOV21 
+REF/H/DOC/19NOV21 
+REF/I/SECNAVINST/20MAY2019 
+ 
+NARR/REF A IS USD P&R MEMO FORCE HEALTH PROTECTION (FHP) SUPPLEMENT 23 
+REVISION 2  DOD GUIDANCE FOR CORONAVIRUS DISEASE 2019 VACCINATION 
+ATTESTATION, SCREENING, TESTING, AND VACCINATION VERIFICATION. 
+REF B IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY. 
+REF C IS SECDEF MEMO MANDATING CORONAVIRUS DISEASE 2019 VACCINATION FOR DOD 
+SERVICE MEMBERS. 
+REF D IS DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT REGULATION, VOLUME 10, 
+CHAPTER 11, PAYMENT AS REIMBURSEMENT FOR PERSONAL EXPENDITURES. 
+REF E IS NAVADMIN 110/21, U.S. NAVY COVID-19 STANDING GUIDANCE UPDATE 1. 
+REF F IS NAVADMIN 180/21, UPDATE 3 TO NAVY COVID-19 REPORTING REQUIREMENTS. 
+REF G IS DLA COVID-19 HOME TEST KITS ORDERING PROCEDURES. 
+REF H IS PPE MATERIAL STORED AT A DLA DEPOT ORDERING PROCEDURES. 
+REF I IS SECNAV INSTRUCTION 5211.5F, DEPARTMENT OF THE NAVY PRIVACY PROGRAM. 
+POC/OPNAV/CAPT STEVEN TARR III, (703) 614-9250//EMAIL: 
+STEVEN.TARR1.MIL(AT)US.NAVY.MIL 
+ 
+RMKS/ 1.  Purpose.  This NAVADMIN implements the reference (a) requirement to 
+conduct screening testing of service members who have not been vaccinated 
+against the Coronavirus Disease 2019 (COVID-19). 
+ 
+2.  Applicability 
+2.a.  This guidance applies to Active and Reserve Component service members 
+who have not been fully vaccinated against COVID-19 in accordance with 
+references (a), (b), and (c), including those who have an exemption request 
+under review or who are exempted from COVID-19 vaccination and are entering 
+a Department of Defense (DoD) facility. 
+2.b. Guidance for testing unvaccinated government civilians and contractors 
+will be released separately.  Until this guidance is issued, current guidance 
+per reference (a) applies and Commanding Officers and Officers in Charge 
+continue to be authorized broad discretion in applying additional measures 
+as they deem necessary, including applicable elements of this NAVADMIN. 
+3.  Policy Guidance 
+3.a.  Weekly testing.  Reference (a) mandates that unvaccinated service 
+members will be subject to screening testing for COVID-19 at least weekly 
+when entering a DoD facility that includes the service members normal place 
+of work.  This testing will commence for Navy service members when the 
+following two conditions have been met: (1) no earlier than the active-duty 
+vaccination deadline of 28 November 2021 or the reserve deadline of 
+28 December 2021, as applicable to the individuals component; and, (2) the 
+command has the required supplies to administer testing per this 
+NAVADMIN.  For purposes of this NAVADMIN, facility is a Navy-administered 
+building, vessel, or other enclosed indoor area where official business is 
+conducted.  For vessels, this guidance applies whether the vessel is underway 
+or in port. Additionally, the term work space includes all areas where 
+official business takes place, to exclude entry areas such as the Quarterdeck 
+where testing/screening may be conducted if necessary to avoid inclement 
+weather, security concerns, or other reasons that such screening cannot be 
+performed outdoors. 
+3.b.  Exception for service members working remotely.  Unvaccinated service 
+members who work remotely full time, or who perform duties in facilities or 
+work spaces periodically (less-than-weekly basis), are not subject to weekly 
+testing.  However, prior to entering a Navy facility or work space, these 
+service members must provide a negative result from a test performed within 
+the preceding 72 hours per paragraph 4. 
+3.c.  The testing requirements in paragraphs 3.a. and 3.b. apply to each 
+facility or work space entered.  Meeting the requirements to enter one 
+facility or work space does not guarantee entry into any other facility or 
+work space without specific coordination and approval.  See paragraph 4.e. 
+below.  For example, if an unvaccinated service member assigned to command 1, 
+who meets command 1 weekly testing requirements, must attend a meeting 
+at command 2, that service member must also meet command 2 testing/entry 
+requirements on the day of entry, unless prior approval has been obtained 
+from command 2. 
+ 
+4.  COVID-19 testing requirements and reporting for unvaccinated service 
+members. 
+4.a.  Commanding Officers and Officers in Charge will execute the screening 
+testing requirement with COVID-19 self-collection kits or self-tests per 
+paragraph 3 above for all unvaccinated service members within their chain of 
+command, and any unvaccinated visiting service members entering their work 
+spaces. 
+4.b.  Screening self-collection kits or self-tests do not require medical 
+support to complete or to document test results. Organizations and service 
+members must follow Food and Drug Administration (FDA) and manufacturer 
+guidelines for these tests. 
+4.c.  When required, the screening test shall be administered and results 
+received before the service member proceeds to the facility work area. 
+4.d.  Organizations should provide for on-site testing to the maximum extent 
+possible.  See paragraph 6 for test ordering and budget guidance.  However, 
+if on-site testing is not feasible, service members may perform self-testing 
+or provide the results from a public, community, or commercial testing 
+center.  If the service member incurs costs, commands shall refer to 
+reference (d) for procedures to reimburse the service member.  Tests 
+conducted in conjunction with diagnostic, travel, or other requirements meet 
+the intent of this NAVADMIN.  All testing must meet the following 
+requirements: 
+4.d.(1)  The test kit must be authorized or approved by the FDA. 
+This includes test kits listed as authorized by the FDA under an Emergency 
+Use Authorization (EUA). 
+4.d.(2)  If not covered by the requirements of weekly testing in paragraph 
+3.a., the test must have been performed within the preceding 72 hours. 
+4.d.(3)  The service member must retain documentation of the results of the 
+test and present it upon request of supervisors and facility entry control 
+personnel.  Required information includes the service members name, the date 
+and time the test was conducted, the commercial trade name (brand name) of 
+the test, and the result (i.e., positive or negative).  This documentation 
+may be electronic, printed, or a facsimile.  Examples of acceptable 
+electronic documentation include text message, email, digital photo, online 
+health record, or a screenshot of any of the above.  Reasonable verification 
+is all that is required, e.g. a screenshot of a self-test on a members phone 
+constitutes identification of the member and the date of the test. 
+4.e.  Visits between organizations by unvaccinated service members should be 
+minimized.  If these visits are necessary per their normal duties, testing 
+per this NAVADMIN may be coordinated across organizations and documented by 
+the service members parent command. 
+4.f.  Exemption for previous COVID-19 infection.  Per reference (e) and 
+Centers for Disease Control and Prevention (CDC) guidance, unvaccinated 
+service members who have recovered from a recent COVID-19 infection and who 
+remain asymptomatic are exempted from regular screening testing for 90 days 
+following their documented date of recovery from COVID-19 infection.  Service 
+members must provide documentation from a medical provider that includes the 
+date they may return to work (no longer transmissible) and the date after 
+which screening testing should resume post COVID-19 infection (90 days post 
+COVID-19 infection). 
+4.g.  Positive screening tests.  Service members with a positive result 
+following COVID-19 screening tests shall immediately report to medical for a 
+confirmatory laboratory-based molecular polymerase chain reaction (PCR) test 
+from the nearest servicing Military Treatment Facility (MTF). 
+4.g.(1)  If obtaining a confirmatory PCR test at an MTF is not feasible, such 
+diagnostic confirmatory PCR tests may be obtained from a civilian community 
+testing location at no cost to the service member (per paragraph 4.d above). 
+4.g.(2)  Service members must provide results of confirmatory PCR testing to 
+their chain of command. 
+4.h.  Positive Confirmatory PCR Test.  Service members receiving a positive 
+confirmatory PCR test will be treated as a positive COVID-19 case and handled 
+in accordance with references (e) and (f). Service members awaiting test 
+results shall not be granted access to the facility work spaces until either 
+a negative result has been received or the service member has satisfied 
+return to work criteria in accordance with reference (e).  Positive 
+confirmatory PCR test results will be reported and managed in accordance with 
+reference (f) and any other applicable national, state, local, or agency 
+reporting requirements. 
+4.i.  Negative Screening or Confirmatory PCR Tests.  Service members with no 
+COVID-19 symptoms who receive a negative screening or confirmatory test may 
+enter the facility work spaces.  At the discretion of the Commanding Officer, 
+that service member may be credited with meeting the weekly testing 
+requirement. 
+ 
+5.  Responsibilities.  Commanders, Commanding Officers, and Officers in 
+Charge will: 
+5.a.  Identify assigned service members (both Active and Reserve Component) 
+who are not fully vaccinated against COVID-19 using the Medical Readiness 
+Reporting System (MRRS), or as determined by the members medical provider if 
+not yet included in MRRS, as detailed in reference (b). 
+5.b.  Ensure all service members entering the work spaces of their facility 
+meet one of these three requirements: (1) are fully vaccinated against COVID-
+19 in accordance with reference (b), or (2) have received, and can provide 
+documentation of, a negative COVID-19 test (rapid test or PCR) administered 
+weekly or within the preceding 72 hours per paragraph 3 above, or (3) receive 
+a negative COVID-19 test provided on-site. 
+5.c.  Deny entry to any service member who does not meet the requirements of 
+paragraph 5.b. above. 
+ 
+6.  COVID-19 Test Ordering 
+6.a.  Budget Submitting Offices (BSO) are responsible for funding test kits 
+using existing command funding; BSOs may utilize any appropriation available 
+for this purpose.  BSOs and commands shall purchase and maintain on-site 
+testing resources sufficient to meet requirements of this NAVADMIN, including 
+normal traffic of known unvaccinated service members and any foreseeable 
+surge testing requirements (such as command-sponsored events or meetings held 
+on-site). 
+6.b.  Commands should follow Defense Logistics Agency (DLA) ordering 
+procedures contained in references (g) and (h), or their current versions. 
+6.c.  If advantageous to the government and with BSO approval, commands may 
+procure tests from non-DLA sources or contract testing services to complete 
+these requirements. 
+6.d.  If sufficient facility or command testing resources are not available 
+to meet these requirements, service members may be reimbursed for procuring 
+test kits that meet paragraph 4.d. 
+restrictions above.  BSOs and commands will follow guidance in accordance 
+with reference (d).  BSOs shall promulgate information to commands under 
+their purview regarding specific reimbursement processes. 
+ 
+7.  COVID-19 Test Recording 
+7.a.  All medical and other information collected from service members will 
+be maintained in a manner meeting the privacy requirements in attachment (9) 
+of reference (a).  Commands are encouraged to review this guidance, which 
+includes information regarding who can collect this information; how to 
+safeguard, transmit, and maintain this information; and which information 
+must be protected per reference (i). 
+7.b.  Commands shall log all tests conducted on-site, and all instances of 
+service members providing valid proof of negative tests, in a visitor log 
+maintained at the facility or work spaces point of entry (i.e., 
+quarterdeck).  Note whether the test was conducted on-site.  Do not log test 
+results (positive/negative) in this logbook. 
+7.c.  Only tests conducted at an MTF should be recorded in the service 
+members Electronic Health Record. 
+ 
+8.  Released by VADM W. R. Merz, Deputy Chief of Naval Operations for 
+Operations, Plans, and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

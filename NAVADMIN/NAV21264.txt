@@ -1,0 +1,107 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 241517Z NOV 21 MID600051218201U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 264/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR YEAR 2021 AND 2022 
+PHYSICAL FITNESS ASSESSMENTS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/161817ZJUN21// 
+REF/B/MSG/CNO WASHINGTON DC/271724ZJAN21// 
+REF/C/DOC/OPNAV/11JUL11// 
+REF/D/DOC/OPNAV/APR21// 
+REF/E/DOC/OPNAV/JUN21// 
+REF/F/DOC/OPNAV/JUN21// 
+REF/G/DOC/OPNAV/AUG19// 
+REF/H/DOC/OPNAV/OCT21// 
+ 
+NARR/REF A IS NAVADMIN 129/21, PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR 
+YEAR 2021 (CY) 2021 PHYSICAL FITNESS ASSESSMENT.   
+REF B IS NAVADMIN 024/21, PHYSICAL READINESS PROGRAM POLICY CHANGES CY 2021 
+CYCLE, PLANK AND ROWER MODALITIES.   
+REF C IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.   
+REF D IS NAVY PHYSICAL READINESS PROGRAM GUIDE 4, BODY COMPOSITION 
+ASSESSMENT.   
+REF E IS NAVY PHYSICAL READINESS PROGRAM GUIDE 5, PHYSICAL READINESS TEST.   
+REF F IS NAVY PHYSICAL READINESS PROGRAM GUIDE 6, PHYSICAL FITNESS ASSESSMENT 
+MEDICAL READINESS.   
+REF G IS NAVY PHYSICAL READINESS PROGRAM GUIDE 13, COMMAND FITNESS GUIDE, 
+COMMAND UNIT PHYSICAL TRAINING AND FITNESS ENHANCEMENT PROGRAM.   
+REF H IS NAVY PHYSICAL READINESS PROGRAM GUIDE 10, HOW TO CONDUCT THE 
+CALENDAR YEAR 2021 PHYSICAL FITNESS ASSESSMENT.// 
+ 
+RMKS/1.  This NAVADMIN announces the following major policy changes for the 
+Physical Fitness Assessment (PFA). 
+    a.  Command Fitness Leaders (CFL) will not enter PFA data into Physical 
+Readiness Information Management System Two (PRIMS-2) for the Calendar Year 
+(CY) 2021 PFA cycle. 
+    b.  CY 2022 PFA requirements will consist of a single cycle conducted 
+from 1 April to 30 September 2022. 
+ 
+2.  CY 2021 PFA Cycle.  The previous contractor has not delivered PRIMS-2 as 
+scheduled.  As a result, the Navy will continue to execute the CY 2021 PFA 
+cycle as planned with the following modifications. 
+    a.  CFLs will not enter CY 2021 PFA cycle data into PRIMS-2. 
+CFLs will continue to record official CY 2021 PFA scores on the official Body 
+Composition Assessment (BCA) and Physical Readiness Test (PRT) score sheets, 
+to include Physical Activity Risk Factor Questionnaire (PARFQ) and medical 
+clearance/waivers, in line with references (a) through (f). 
+    b.  Commands will maintain official PFA score sheets and document PFA 
+performance on fitness reports/evaluations (FITREP/EVALS). 
+    c.  CFLs must manually track and monitor Sailors assigned to the Fitness 
+Enhancement Program (FEP) in line with reference (g). Sailors will remain on 
+FEP until passing an unofficial (mock) or official PFA. 
+    d.  Reference (h) has been updated to include: 
+        (1)  How to manually calculate the overall PRT score without planks 
+in the equation.  The overall PRT score for CY 2021 will only include push-up 
+and cardio/alternate-cardio modalities.  Forearm planks will be entered on 
+the official PRT score sheet for record purposes only. 
+        (2)  The use of the PFA calculator within the Official Navy PFA App 
+to determine stationary bike PRT scores. 
+ 
+3.  CY 2022 PFA Cycle.  Recognizing the foreseeable conditions to include 
+continued pandemic, PRIMS-2 rollout and modality validation, there will be a 
+single PFA cycle for CY 2022. 
+    a.  The cycle will be conducted from 1 April to 30 September 2022. 
+    b.  All medically cleared Sailors must participate in the CY 2022 PFA 
+cycle.  To meet Department of Defense annual requirements for PFA, there will 
+not be an excellent or above performance exception for the CY 2022 cycle 
+based upon CY 2021 PFA performance. Commanders may use appropriate incentives 
+at the local level to reward performance. 
+    c.  Medically cleared Sailors will participate in all three fitness 
+modalities (push-ups, forearm plank, cardio or alternate cardio) to determine 
+their CY 2022 PFA cycle overall score. 
+ 
+4.  The Deputy Chief of Naval Operations (Manpower, Personnel, Training and 
+Education) (OPNAV N1) will promulgate a data call to Echelon 2 Commanders to 
+submit a sample of CY 2021 PFA cycle plank scores via a Department of the 
+Navy Tasking, Records and Consolidated Knowledge Repository (DONTRACKER) 
+tasker.  The plank data collected will be used to validate the plank scoring 
+tables. Commands selected will be required to submit command PFA plank 
+scores for this data call. 
+ 
+5.  Contact the Physical Readiness Program Office for additional information: 
+    a.  For policy related questions via e-mail at PRP(at)navy.mil. 
+    b.  For PRIMS related questions via e-mail at PRIMS(at)navy.mil. 
+    c.  For policy or PRIMS related questions via phone at (901) 874-2210/ 
+DSN 882. 
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
