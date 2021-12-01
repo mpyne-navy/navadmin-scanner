@@ -1,0 +1,138 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 292122Z NOV 21 MID600051229095U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 272/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/PUBLICATION OF BUPERSINST 1610.10F (EVALMAN)// 
+ 
+REF/A/DOC/BUPERS/06DEC19// 
+REF/B/NAVADMIN/CNO WASHINGTON DC/201449ZDEC18// 
+NARR/REF A IS BUPERSINST 1610.10E, NAVY PERFORMANCE EVALUATION 
+SYSTEM.  REF B IS NAVADMIN 312/18, ADVANCEMENT POLICY UPDATE.// 
+ 
+RMKS/1.  This NAVADMIN announces the cancellation of reference (a) and the 
+publication of BUPERSINST 1610.10F, Navy Performance Evaluation System 
+(EVALMAN). 
+ 
+2.  Summary of Changes:  This revision incorporates policy guidance contained 
+in reference (b).  The following new guidance applies with the updated 
+instruction: 
+    a.  Rescind a requirement for administrative change requests to be 
+submitted within two years of the performance evaluation end date. 
+    b.  Incorporates multiple changes as part of the introduction of 
+eNavFit.  The eNavFit interface consolidates the functionality of the current 
+NAVFIT98A application with the Navy Personnel Command (PERS-32) processing 
+capabilities into a uniform solution for the Navy.  This interface is a 
+functionality bridge and is not meant to replace or modify the performance 
+evaluation process.  The online and web-based solution allows users to 
+create, edit, delete, route, validate and digitally sign reports.  It also 
+allows a reporting senior to group and process summary group reports.  The 
+online application is capable of receiving performance evaluation data from 
+the offline version and will be deployed and operated within BUPERS Online 
+(BOL) as the front end for Fleet users.  The offline version uses adobe 
+reader forms and provides many of the same capabilities as the online 
+version. 
+        (1) Online performance evaluations submitted to BOL shall be 
+digitally signed.  The eNavFit user guide can be reviewed and downloaded at: 
+https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/. 
+        (2) Offline performance appraisals submitted via mail (FEDEX, USPS, 
+UPS, DHL, etc.) shall be wet signed using only black or blue-black ink. 
+        (3) Summary letters are not required for electronic submissions via 
+BOL. 
+        (4) Personal data may be auto populated from the BOL server. It 
+should always be verified for correctness. 
+    c.  Incorporates changes in chapter 18 for mid-term counseling and 
+coaching integration.  Conducting mid-term counseling is not optional. 
+        (1) Introduces the term supervisor as coach to replace the previous 
+terminology of counselor due to the guidance, support and direction they 
+provide during the performance counseling session. 
+        (2) Introduces the term Sailor as performer to replace the previous 
+terminology of member due to the member providing honest and candid feedback 
+regarding gaps and opportunities for them to enhance their performance. 
+        (3) Authorizes the individual development plan (IDP) to be used as an 
+optional developmental tool and to serve as a performance counseling record 
+and growth plan. 
+        (4) Introduces addressing specific areas of performance improvement 
+by demonstrating genuine curiosity and asking questions to guide the member 
+to create an actionable plan. 
+        (5) Incorporates changes to the supervisors preparation requirements 
+to include reviewing the members self-appraisal, determine any opportunities 
+for development and to create a rough outline of meeting talking points and 
+goals to discuss. 
+        (6) Incorporates changes to the members preparation requirements to 
+include preparing a self-appraisal and preparing to receive both positive and 
+constructive feedback. 
+        (7) Introduces three core skills to be used during a meaningful 
+performance counseling session to include active listening, empathy and 
+asking powerful questions. 
+        (8) Incorporates changes to the Guidelines for Supervisors to include 
+the addition of five new steps titled:  The Introduction, Engage the Member, 
+Diving Deeper, Give Specific Feedback and Ending the Performance Counseling 
+Session. 
+        (9) Incorporated changes to the follow-up/monitoring of the members 
+performance counseling session to include the supervisor and member will 
+agree to continue open and informal performance conversation after the mid-
+term performance counseling session has concluded. 
+    d.  Incorporates changes to regular reporting senior for Navy Reserve 
+Unit Personnel. 
+        (1) All members of Navy Reserve Units (e.g., commissioned/operational 
+and readiness/augment) assigned to mobilization billets will be reported on 
+by the commanding officer (CO) or officer in charge (OIC) of the unit 
+mobilization unit identification code (UMUIC) effective 2 August 
+2022.  Reports with a reporting senior signature from either the UMUIC or 
+training unit identification code (TRUIC) will be accepted to support a 
+transition period of 1 February 2022  1 August 2022. 
+        (2) UMUIC and TRUIC leadership will coordinate during the transition 
+period to determine appropriate submissions/content, taking into 
+consideration professional growth, development, continuity and member 
+advocacy to minimize any/all disruptions related to officer fitness reports, 
+enlisted evaluations and Navy wide advancement exam cycles.  Members who are 
+not assigned to a mobilization billet (e.g. who are in an in assignment 
+processing (IAP) status) do not have an associated UMUIC and therefore the 
+reporting senior will be the TRUIC CO/OIC. 
+        (3) The reporting senior for IAP members in readiness support units 
+(RSU), formerly known as operational support units (OSU), and those in 
+voluntary training units (VTU), will be the designated TRUIC CO/OIC or the 
+Navy operational support center CO. 
+    e.  Incorporates changes to concurrent reporting senior for Navy Reserve 
+unit personnel.  TRUIC reporting seniors shall follow procedures in chapter 4 
+to submit inactive duty concurrent reports on their shared cross-assigned 
+members to recognize those who significantly contribute to their TRUIC 
+billets via inactive duty for training.  There will be a transition period of 
+1 February 2022 to 1 August 2022 and UMUIC/TRUIC leadership will coordinate 
+to determine the most appropriate reporting senior for concurrent 
+reports during the transition period. 
+    f.  Incorporates changes clarifying the use and what can be included in 
+the comments section for the *N* code, Block 20, Physical Fitness Assessment 
+Code, for pregnant service members. 
+        (1) If using the *N* code because of pregnancy, no directed comment 
+should be used in the performance comment section. 
+        (2) Do not quote from medical reports or summaries and do not include 
+comments pertaining to medical issues (physical and/or psychological, e.g. 
+pregnancy, post-partum, etc.) that do not affect the members performance of 
+duties and/or his or her effectiveness as a leader. 
+    g.  Incorporates reference (b) announcing reporting seniors shall 
+incorporate their post summary group reporting seniors cumulative average 
+(RSCA) score for E-5 and E-6 evaluations into Block 43 (Comments on 
+Performance).  This RSCA score will be on the last line of the comments. 
+ 
+3.  For questions concerning these policy changes contact the MyNavy Career 
+Center at (833) 833-6622 or via email at askmncc(at)navy.mil. 
+ 
+4.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
