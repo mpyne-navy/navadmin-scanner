@@ -1,0 +1,276 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 062213Z DEC 21 MID600051272097U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 276/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/FY-23 ACTIVE DUTY AND RESERVE ENLISTED ADVANCEMENT SELECTION BOARDS FOR 
+COMMAND MASTER CHIEF, MASTER CHIEF AND SENIOR CHIEF PETTY OFFICER// 
+ 
+REF/A/DOC/BUPERS/19SEP18// 
+REF/B/DOC/COMNAVPERSCOM/14JUN18// 
+REF/C/DOC/MILPERSMAN/11SEP16// 
+REF/D/MSG/CNO WASHINGTON DC/271415ZSEP19// 
+ 
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF B IS MILPERSMAN 1220-040, SUBMARINE QUALIFICATIONS DESIGNATION FOR 
+ENLISTED MEMBERS.   
+REF C IS MILPERSMAN 1306-925, SENIOR ENLISTED ACADEMY.   
+REF D IS NAVADMIN 220/19, ELECTRONIC SUBMISSION OF LETTERS TO PROMOTION AND 
+SELECTION BOARD THROUGH MYNAVY PORTAL.// 
+ 
+RMKS/1.  This NAVADMIN provides guidance for eligibility and communication to 
+the boards for the Fiscal Year (FY) 2023 Active Duty and Reserve Enlisted 
+Advancement Selection Boards for command master chief (CMDCM), master chief 
+petty officer (E-9) and senior chief petty officer (E-8) (Cycle 253).  The 
+CMDCM board will consider Active Duty, Full-Time Support (FTS) and Selected 
+Reserve (SELRES) eligible command senior chiefs (CMDCS) for selection.  The 
+Reserve Component (RC) E-8 and E-9 (in rate) boards will consider FTS and 
+SELRES personnel.  Mobilized Individual Ready Reserve (IRR) personnel are 
+considered under the SELRES requirements for advancement. 
+ 
+2.  Examination status verification reports (ESVR) will be available 
+on the Navy Enlisted Advancement System (NEAS) website via MyNavy 
+Portal (MNP) no later than 13 December 2021 at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/command-
+information.  Select Command Advancement Tools, then Advancement Profile 
+Sheet-ESO. 
+ 
+3.  CMDCS Candidates for CMDCM Timeline 
+    a.  10 January 2022.  Deadline to verify previously approved change of 
+rating request to the CMDCS rating as reflected in the enlisted master file 
+(EMF) for Active Duty and FTS or Inactive Manpower and Personnel Management 
+Information System (IMAPMIS) for SELRES.  This is mandated in order to be 
+considered for selection to CMDCM. 
+    b.  8 February 2022.  Letter to the Board (LTB) deadline. 
+    c.  22 February 2022.  CMDCM selection board convenes.  All eligibility 
+requirements, to include any waivers, must have final approval and be posted 
+to the candidates records prior to this date. 
+    d.  26 February 2022.  CMDCM selection board scheduled to adjourn. 
+ 
+4.  RC E-8 and E-9 (In rate) Timeline 
+    a.  24 January 2022.  Deadline for E-8 and E-9 to verify previously 
+approved change of rating request as reflected in the EMF for FTS or IMAPMIS 
+for SELRES in order to be considered as a candidate in the new rating. 
+    b.  21 February 2022.  LTB deadline. 
+    c.  7 March 2022.  E-8 and E-9 selection board convenes. 
+All eligibility requirements, to include any waivers, must have final 
+approval and be posted to the records of the candidate prior to this date. 
+    d.  18 March 2022.  E-8 and E-9 selection board scheduled to adjourn. 
+ 
+5.  Active Component (AC) E-8 and E-9 (in rate) Timeline 
+    a.  14 February 2022.  Deadline for E-8 and E-9 candidates seeking in 
+rate promotion to have a change of rating request approved and reflected in 
+the EMF in order to be considered as a candidate in the new rating. 
+    b.  14 March 2022.  LTB deadline. 
+    c.  28 March 2022.  E-8 and E-9 selection board convenes.  All 
+eligibility requirements, to include any waivers, must have final approval 
+and be posted to the records of the candidate prior to this date. 
+    d.  22 April 2022.  E-8 and E-9 selection board scheduled to adjourn. 
+ 
+6.  Eligibility Criteria.  Candidates must meet the eligibility requirements 
+outlined in chapters 2 and 11 of reference (a) and this NAVADMIN prior to the 
+scheduled board convening date.  All requirements must reflect in the EMF for 
+Active Duty and FTS or IMAPMIS for SELRES prior to the board 
+convening.  Requirements achieved or posted to the record of the candidate 
+after the scheduled board convening date are considered late and will not 
+make a candidate eligible for the regularly scheduled board or entitle a 
+candidate to an enlisted special selection board.  Refer to paragraph 616 of 
+reference (a) for E-8 and E-9 candidate validation procedures.  Eligibility 
+requirements include: 
+    a.  The name of the candidate appears on the selection board eligibility 
+list in the correct competitive group on their profile sheet.  Candidates 
+should register for e-mail notification for profile sheet updates via MNP at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/my-
+advancement.  Select My Profiles, then Advancement Profile Sheet- 
+Individuals.  Candidates and commands share equal responsibility to ensure 
+the eligibility list is accurate.  Because eligibility status can change 
+without direct notification, candidates should verify their profile sheet on 
+a continuous basis and commands must verify their ESVR weekly through the 
+projected board adjourn date. 
+    b.  In line with reference (a), the terminal eligibility date used to 
+compute the time in rate (TIR) is 1 October 2022.  The TIR date for E-8 
+candidates must be on or before 1 September 2019.  The TIR date for E-9 
+candidates must be on or before 1 July 2019. 
+    c.  High year tenure (HYT) waivers must be approved prior to the board 
+convening.  HYT date or approved HYT waivers for the current paygrade must be 
+1 July 2022 or later.  Candidates who will be at HYT on 1 July 2022 for the 
+next higher paygrade are ineligible for advancement, regardless of any 
+approved HYT waiver. 
+    d.  Commands must revalidate members whose disapproved or cancelled 
+retirement authorization is adjudicated prior to the selection board 
+convening date by sending an e-mail with the reason for revalidation to the 
+Selection Board Eligibility Branch (PERS-802).  See paragraph 208 of 
+reference (a) for Fleet Reserve request impacts to eligibility. 
+    e.  Security clearance requirements.  See paragraph 203 of reference 
+(a).  Ratings requiring a security clearance are AC, AE, AG, AO, AT, AWF, 
+AWO, AWR, AWS, AWV, AZ, CTI, CTM, CTN, CTR, CTT, EOD, ET, FC, FCA, GM, HT, 
+IC, IS, IT, LN, MA, MC, MN, ND, OS, QM, SB, SO, STG AND YN, as well as all 
+nuclear and submarine ratings. 
+    f.  Rate specific and competitive group eligibility 
+requirements.  Candidates must meet special requirements for certain ratings, 
+as outlined in paragraph 203 of reference (a).  Commands must verify and 
+submit a message formatted e-mail to Naval Education and Training 
+Professional Development Center (NETPDC) N321 and PERS-802 requesting 
+invalidation of those selection board eligible candidates who no longer meet 
+the rate specific and competitive group qualifications by the scheduled board 
+convening date. 
+    g.  Non-nuclear submarine Sailors must be designated as either SS, SU OR 
+SQ in line with reference (b) as of the board convening date to be 
+eligible.  Candidates designated as SG or SP are not eligible for 
+advancement. 
+    h.  While reference (c) required personnel who were selected for 
+E-8 in FY-17 and FY-18 to successfully graduate from the Senior Enlisted 
+Academy (SEA) to be eligible for E-9 board consideration, increased 
+throughput requirements made this unachievable.  Until further notice, this 
+requirement is held in abeyance.  Reference (c) will be revised with guidance 
+for SEA requirements in future selection boards. 
+ 
+7.  Competitive Groups.  The below listed ratings are separated into 
+competitive groups as applicable to the component of the candidate: 
+    a.  CTI (Active Duty E-8) 
+        Group 1 - Middle East and North Africa 
+        Group 2 - East and Far East Asia 
+        Group 3 - Latin and South America 
+        Group 4 - Eastern Europe 
+    b.  EMN, ETN and MMN (Active Duty E-8 and E-9) 
+        Group 1 - Submarine 
+        Group 2  Surface 
+    c.  ITS (Active Duty and SELRES E-8 and E-9) 
+        Group 1  Electronic Warfare 
+        Group 2 - Communications 
+    d.  MU (Active Duty E-8 and E-9) 
+        Group 1 - Premier Band 
+        Group 2 - Fleet Band 
+    e.  NC (Active Duty and FTS E-8 and E-9) 
+        Group 1 - Career Recruiter Force 
+        Group 2 - Fleet 
+    f.  ND (Active Duty E-8) 
+        Group 1 - Master Diver 
+        Group 2 - First Class Diver 
+
+8.  For record review and communication with the E-8 and E-9 selection board, 
+refer to reference (d). 
+    a.  Communication to the board must originate from the individual 
+candidate and must be accompanied under the signed LTB of the candidate. 
+    b.  All LTBs and each enclosure must contain the candidates full name and 
+10-digit Department of Defense identification number. Candidates must verify 
+that the correct board number is on their signed cover letter.  Board numbers 
+are: 
+        (1) Board #211 for AC CMDCM 
+        (2) Board #212 for SELRES CMDCM 
+        (3) Board #213 for FTS CMDCM 
+        (4) Board #205 for SELRES E-8 and E-9 
+        (5) Board #206 for FTS E-8 and E-9 
+        (6) Board #210 for AC E-9 
+        (7) Board #235 for AC E-8 
+    c.  The preferred method to submit a LTB is via the electronic 
+submission of selection board documents (ESSBD) application as 
+directed by reference (d).  The link on MNP is 
+https://www.mnp.navy.mil/group/advancement-and-promotion.  After 
+navigating to this website, scroll down to and click on ESSBD. 
+    d.  If unable to submit a LTB using ESSBD (i.e. low bandwidth, system 
+outage, etc.), candidates should review procedures in reference (d) to submit 
+via alternative methods or candidates may mail a LTB to the addresses 
+below.  Mailed LTBs should be on plain white paper and paper clipped (no 
+staples, binders, folders or tabs). 
+        (1) Active Duty CMDCM Selection Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Active CMDCM Selection Board #211 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+        (2) SELRES/Mobilized IRR CMDCM Selection Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Reserve CMDCM Selection Board #212 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+        (3) FTS CMDCM Selection Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Reserve CMDCM Selection Board #213 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+        (4) SELRES/Mobilized IRR E-8 and E-9 Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Reserve E-8 and E-9 Selection Board #205 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+        (5) FTS E-8 and E-9 Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Reserve E-8 and E-9 Selection Board #206 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+        (6) Active Duty E-9 Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Active E-9 Selection Board #210 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+        (7) Active Duty E-8 Board: 
+            MyNavy Career Center (BUPERS-074) 
+            President 
+            FY-23 Active E-8 Selection Board #235 
+            5720 Integrity Drive 
+            Millington, TN 38055-6300 
+    e.  Certified or registered mail is not advised due to delays in 
+handling. 
+    f.  Candidates may submit more than one LTB vice waiting until the 
+deadline to submit one all-inclusive LTB.  Although multiple LTBs are 
+authorized, candidates should not duplicate previously sent information. 
+    g.  The same LTB deadline applies to candidates who gain eligibility 
+after the LTB deadline and before the convening date.  A candidate who is 
+working to fix an eligibility issue and expects to be selection board 
+eligible prior to the board convening date may submit an LTB, which must 
+still be received prior to the deadline. 
+ 
+9.  Selection Board Results.  Official results will be provided online via 
+BUPERS Online to authorized command representatives prior to the release of 
+the official results.  Selectee profile sheets will be published by NETPDC 
+within 30 days of both AC and RC selection board results being 
+released.  Educational services officers who are registered users may access 
+results through the NEAS website via MNP 
+at https://www.mnp.navy.mil/group/advancement-and-promotion/command-
+information.  Select Command Advancement Tools, then Advancement Profile 
+Sheet-ESO.  Individual candidates may view profile sheets on a .mil domain 
+computer via MNP at https://www.mnp.navy.mil/group/advancement-and-
+promotion/my-advancement.  Select My Profiles, then Advancement Profile 
+Sheet-Individuals. 
+ 
+10.  Additional information regarding this cycle will be posted at 
+    a.  AC boards:  https://www.mnp.navy.mil/group/advancement-and-
+promotion/active-duty-enlisted. 
+    b.  RC boards:  https://www.mnp.navy.mil/group/advancement-and-
+promotion/reserve-enlisted. 
+ 
+11.  Points of Contact 
+    a.  MyNavy Career Center, (833) 330-6622 or via e-mail at 
+askmncc(at)navy.mil.  Do not submit LTBs to this email. 
+    b.  PERS-802, (901) 874-4537/DSN 882 or via e-mail at 
+NPC_Enlisted_Selbd_Elig(at)navy.mil. 
+    c.  NETPDC (N321), (850) 473-6148/DSN 753 or via e-mail at 
+sfly_n321_discrepanc(at)navy.mil. 
+ 
+12.  This message will remain in effect until superseded or cancelled. 
+ 
+13.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
+
