@@ -1,0 +1,257 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 091538Z DEC 21 MID600051300930U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 280/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP)// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/230112ZAUG08// 
+REF/B/MSG/CNO WASHINGTON DC/022009ZDEC19// 
+REF/C/MSG/CNO WASHINGTON DC/101615ZDEC15// 
+REF/D/MSG/CNO WASHINGTON DC/151503ZJUL19// 
+ 
+NARR/REF A IS NAVADMIN 234/08, SEA SHORE FLOW ENLISTED CAREER PATHS. 
+REF B IS NAVADMIN 274/19, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE.   
+REF C IS NAVADMIN 284/15, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES FOR 
+NUCLEAR TRAINED ENLISTED PERSONNEL.   
+REF D IS NAVADMIN 157/19, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE FOR 
+NUCLEAR TRAINED JUNIOR STAFF INSTRUCTORS.// 
+ 
+RMKS/1.  Overview.  This NAVADMIN announces implementation of Detailing 
+Marketplace Assignment Policy (DMAP) Phase I for four enlisted ratings on 1 
+March 2022.  Future DMAP Phases, encompassing additional enlisted ratings, 
+will be announced in subsequent NAVADMINs.  In order to reduce gaps at sea 
+and address Sailors desires for more options and flexibility, DMAP will 
+expand Sailor options beyond the sea shore flow enlisted career paths 
+promulgated in reference (a) and most recently updated in reference 
+(b).  Under DMAP, Sailors in most ratings will continue to follow a 
+traditional sea shore rotation, but in many cases will have new incentives to 
+remain at sea.  Sailors in sea-intensive ratings will be offered increased 
+monetary incentives and new non-monetary incentives to serve a 3-year follow-
+on journeyman (E-5) sea duty tour immediately after an initial 4-year 
+apprentice (E-4 and below) sea duty tour (DMAP 4+3).  Included in this, DMAP 
+will provide early advancement opportunities for many E-4 Sailors who possess 
+the requisite proficiency and experience.  This DMAP 4+3 sea tour option can 
+be served at the same or different commands, to best maximize value to 
+Sailors and the Fleet.  DMAP Phase I will commence 1 March 2022 and includes 
+all Active Component Sailors in the following four sea-intensive ratings: 
+ 
+          ABF(A102)          GSM(B122) 
+          ABH(A103)          CS(B650) 
+ 
+Note:  Sailors on sea duty in these Phase I ratings with projected rotation 
+dates (PRD) on or before 1 March 2023 may opt-out of DMAP for their upcoming 
+assignment process and enter the legacy sea shore flow marketplace.  In order 
+to opt-out, the Sailors detailer must receive an Electronic Personnel Action 
+Request (NAVPERS 1306/7) from the Sailor, via their command, no later than 1 
+March 2022. 
+ 
+2.  Driving factors.  For the last 50 years, the Navy has maintained a five 
+year maximum time on sea duty.  However, this limit causes gaps in our sea-
+intensive ratings, primarily at the apprentice and journeyman levels.  These 
+policy induced gaps have the negative impact of amplifying the already 
+arduous nature of sea duty.  Under-manning at sea impacts the implementation 
+of circadian rhythm watch bills, affects the number of in port duty sections, 
+contributes to degraded materiel readiness, limits time to train and reduces 
+opportunities for leave and liberty.  DMAP will improve Fleet manning by 
+eliminating the maximum sea duty tour length constraint and redistributing 
+Sailors, at the apprentice to journeyman flow point (i.e., E-4 to E-5), to 
+where they are needed most.  This will require increased vigilance by 
+commands and shipmates to ensure the health and welfare of our Sailors remain 
+a top priority.  In addition to improved manning, Sailor resiliency remains a 
+force multiplier and should not be neglected. 
+ 
+3.  Incentives.  Sailors in any of the four DMAP Phase I ratings listed above 
+can take advantage of the following incentives by applying for and being 
+assigned to a follow-on 3-year journeyman (E-5) sea tour upon completion of 
+an initial 4-year apprentice (E-4 and below) sea tour. 
+    a.  Advance-to-Position (A2P).  E-4 Sailors who have served a minimum of 
+three years on sea duty as an apprentice (E-4 and below) and are eligible for 
+advancement to E-5 (i.e., E-4s who have passed the most recent Navy-wide 
+advancement exam but have not advanced (PNAed) to E-5) can apply for E-5 sea 
+duty in MyNavy Assignment (MNA).  If selected, Sailors will permanently 
+advance to E-5 upon reporting to the E-5 position, which will occur after 
+approximately four years in their initial apprentice sea duty 
+assignment.  Sailors must obligate to sufficient service through extension or 
+reenlistment to complete the full 3-year journeyman (E-5) sea tour and 
+associated training pipeline.  Any Sailor with a soft end of active obligated 
+service (SEAOS) date that already matches or exceeds the duration of the 3-
+year journeyman (E-5) tour is not required to incur additional service. 
+    b.  Detailing Marketplace Incentive Pay (DMIP).  Sailors who execute the 
+DMAP 4+3 sea duty option will earn a monthly incentive pay for the entire 3-
+year journeyman (E-5) sea tour.  DMIP rates will vary depending on location 
+and type of sea duty.  Initial DMIP rates will range between 200 dollars and 
+800 dollars per month. That means a Sailor who is earning the average DMIP 
+rate of 500 dollars per month would receive 18,000 dollars in additional 
+incentive pay over the 3-year journeyman (E-5) sea tour.  That is on top of 
+the 21,300 dollars in career sea pay (CSP) and sea pay premium (SPP) for 
+Sailors assigned to ships company for their 3-year journeyman (E-5) sea 
+tour.  In total, a Sailor who executes the DMAP 4+3 sea tour option could 
+earn an extra 39,300 dollars (or more) in DMIP, CSP and SPP. 
+    c.  Command Advance-to-Position (CA2P).  Similar to A2P, CA2P allows 
+commanding officers to retain their top performing E-4 Sailors who are 
+eligible for advancement to E-5 PNAed by permanently advancing them to E-5 to 
+fill a vacant, or projected to become vacant, E-5 position within their 
+command before entering MNA. Sailors will advance to E-5 upon filling the E-5 
+position and must obligate to sufficient service through extension or 
+reenlistment to complete a minimum of seven years at the command (a 3-year 
+journeyman (E-5) sea tour following a 4-year apprentice (E-4 and below) sea 
+tour) in addition to any associated training required to transition from 
+apprentice to journeyman.  In cases where CA2P results in advancement to E-5 
+prior to the 4-year point, Sailors will receive DMIP throughout the last 
+three years of their journeyman (E-5) tour.  Any Sailor with a SEAOS date 
+that already matches or exceeds the duration of the 3-year journeyman (E-5) 
+tour is not required to incur additional service.  Effective 1 March 
+2022, CA2P replaces the Meritorious Advancement Program (MAP) for E-4 
+advancement to E-5 in the four DMAP Phase I ratings and will only be 
+available to afloat commands.  CA2P provides Sailors additional opportunity 
+to remain in the same geographic location. 
+    d.  Continuous Sea Duty Credit (CSDC).  All DMAP Sailors earn CSDC while 
+serving on sea duty.  CSDC will be earned at the rate of one credit per month 
+served on sea duty (i.e., Type 2, 3 or 4 unit). Sailors with the most CSDC 
+get priority consideration in the assignment selection 
+process.  Specifically, CSDC will be used in the assignment process to assign 
+highly sought after positions (e.g., positions that allow Sailors to remain 
+in the same geographic location) to the qualified Sailor with the most 
+CSDC.  While CSDC does not guarantee an assignment in a geographic location, 
+it gives Sailors who complete back-to-back sea tours top priority for shore 
+duty assignments of their choice over Sailors who serve less time on 
+continuous sea duty.  The CSDC counter resets to zero upon assignment to 
+shore duty. 
+ 
+4.  Full Policy Statement.  The following applies to Sailors in the four DMAP 
+Phase I ratings who are currently on their first sea tour or in initial 
+training prior to their first sea tour: 
+    a.  Naval Education and Training Command (as the MyNavy HR Force 
+Development Lead) will assign Sailors to their first apprentice (E-4 and 
+below) tour upon completion of their initial training (no change from the 
+current process). 
+    b.  The PRD for each Sailors apprentice (E-4 and below) sea tour will be 
+set to coincide with the Sailors SEAOS date. 
+        (1) Apprentice Sailors assigned for an overseas assignment will have 
+their PRD set in line with Department of Defense (DoD) requirements. 
+        (2) Apprentice Sailors assigned to shore duty for their first 
+assignment will have their PRD set to a 24-month tour. 
+    c.  E-5 Sailors.  Sailors who have already advanced to E-5 and have 
+completed three years on initial sea duty (i.e., type 2, 3 or 4) may enter 
+MNA (see para 4.f below) to apply for a journeyman (E-5) assignment which 
+would begin after approximately four years on initial sea duty. 
+        (1) The E-5 assignment will be three years and can be on sea or shore 
+duty. 
+        (2) SEAOS date must match or exceed the duration of the full follow-
+on 3-year tour.  This may be accomplished through reenlistment or extension 
+as appropriate. 
+        (3) Sailors who are assigned to a follow-on 3-year sea duty 
+assignment will be paid DMIP for the full three years from the date of 
+arrival. 
+        (4) Sailors who continue on sea duty will also continue to accrue 
+CSDC which will give them priority for their follow-on shore duty assignment. 
+        (5) Sailors who do not select an E-5 sea or shore duty assignment 
+after three MNA cycles will remain at their current command and reenter MNA 
+12 months prior to their PRD. 
+    d.  E-5 eligible Sailors.  Sailors who have passed the most recent E-5 
+exam, are eligible for advancement to E-5 (not advanced) and have served 
+three years on initial sea duty may enter MNA (see para 4.f below) to apply 
+for a 3-year journeyman (E-5) sea duty assignment under the A2P program or 
+apprentice (E-4) shore duty assignment if not already selected for 
+CA2P.  This 3-year follow-on tour would begin after approximately 4 years on 
+initial sea duty. 
+        (1) If selected for A2P or CA2P, the Sailor will permanently advance 
+to E-5 upon filling the position. 
+        (2) SEAOS date must match or exceed the duration of the full 3-year 
+tour.  This may be accomplished through reenlistment or extension as 
+appropriate. 
+        (3) Sailors who are assigned to a follow-on 3-year sea duty 
+assignment will be paid DMIP for the full three years from the date of 
+arrival.  In cases where CA2P results in advancement to E-5 prior to the  
+4-year point, Sailors will receive DMIP throughout the last three years of 
+their journeyman (E-5) tour. 
+        (4) Sailors who continue on sea duty will also continue to accrue 
+CSDC which will give them priority over equally qualified Sailors with less 
+CSDC for their follow-on shore duty assignment. 
+        (5) Sailors who do not select an assignment after three MNA cycles 
+will remain at their current command and reenter MNA 12 months prior to their 
+PRD. 
+    e.  E-4 and below Sailors.  Sailors who are not eligible to advance to  
+E-5 will continue in their current assignment until their PRD/end of active 
+obligated service. 
+        (1) Twelve months prior to their PRD, Sailors who reenlist may enter 
+MNA and apply for a new sea duty assignment at their current paygrade. 
+        (2) Sailors who advance to E-5 after the normal DMAP MNA window, but 
+prior to their PRD may enter MNA (see para 4.f below) upon advancement to 
+apply for a 3-year journeyman (E-5) sea or shore duty assignment in line with 
+para 4.c. above. 
+        (3) Sailors who become eligible to advance to E-5 by passing the most 
+recent E-5 exam after the normal DMAP MNA window, but prior to their PRD may 
+enter MNA (see para 4.f below) to apply for a 3-year journeyman (E-5) sea 
+duty assignment and advance via A2P or apprentice (E-4) shore duty assignment 
+if not already selected for CA2P in line with para 4.d. above. 
+    f.  Individual commands will be required to submit a NAVPERS 1306/7 to 
+identify Sailors eligible to enter the DMAP MNA marketplace prior to their 
+normal order negotiation window.  Upon receipt, PRDs will be adjusted to 
+allow the Sailor to negotiate for orders over a normal 12-month cycle.  This 
+is a critical enabler of the DMAP process requiring consistent command 
+engagement to ensure every eligible Sailor has the opportunity to make 
+informed career decisions. 
+    g.  Subsequent sea and shore duty assignments will be executed within 
+MNA.  Sailors will enter MNA to apply for a new assignment 12 months prior to 
+their PRD.  PRDs will be set based on tour lengths promulgated in reference 
+(b). 
+    h.  DMAP success is predicated on the Navy committing to Sailors who 
+commit to the Navy.  When a Sailor accepts a DMAP 4+3 sea tour, it is 
+understood that they will do so for very specific personal and professional 
+reasons that will frequently result in a very specific set of acceptable 
+location, platform and even leadership team choices.  As such, DMAP 4+3 tours 
+will be some of the highest priority assignments in our Navy. 
+ 
+5.  Supplemental Information.  Additional information along with the most 
+recent sea and shore duty tour lengths for each rating can be found on MyNavy 
+Portal at https://my.navy.mil/. 
+ 
+6.  Exceptions.  Exceptions to policy such as unaccompanied overseas tours, 
+limited duty, pregnancy, humanitarian tour assignments, spouse colocation, 
+mil-to-mil and others will continue per the cognizant Military Personnel 
+Manual or Distribution Guidance Memorandum.  Nuclear trained enlisted 
+personnel should continue to refer to references (c) and (d) for career path 
+information. 
+ 
+7.  Summary.  DMAP intends to improve Fleet manning by rewarding Sailors in 
+sea-intensive ratings who stay Navy and stay on sea duty longer than the 
+current five year maximum.  Under DMAP, Sailors can earn additional monetary 
+incentives, non-monetary incentives and opportunities to advance to E-5 in 
+return for serving a DMAP 4+3 sea tour.  DMAP Phase I represents the first 
+step toward a truly dynamic, Sailor focused Detailing Marketplace that will 
+improve Fleet readiness and enrich Sailors careers.  Lessons learned from 
+DMAP Phase I will inform subsequent phases and the expansion of Detailing 
+Marketplace incentive options to Sailors in additional ratings. 
+ 
+8.  Points of Contact 
+    a.  For specific rate/rating/Navy Enlisted Classification questions and 
+concerns, Sailors should contact their respective community manager or 
+detailer. 
+    b.  For general career information, including questions about DMIP, A2P 
+or CA2P, contact MyNavy Career Center (MNCC) contact center at 833-330-MNCC 
+(6622) or askmncc(at)navy.mil. 
+    c.  For Detailing Marketplace Assignment Policy (DMAP) questions contact 
+Mr. Craig Schauppner, OPNAV N13M2X, 571-236-7897 or via e-mail at 
+craig.t.schauppner.civ(at)us.navy.mil. 
+ 
+9.  This message will remain in effect until superseded or canceled. 
+ 
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
