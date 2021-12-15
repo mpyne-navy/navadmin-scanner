@@ -1,0 +1,172 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 151917Z DEC 21 MID200001326782U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 286/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/MANDATORY USE OF GOVERNMENT TRAVEL CHARGE CARD AND MYPCS TRAVEL 
+VOUCHER// 
+ 
+REF/A/DOC/DOD/16OCT2015// 
+REF/B/DOC/DTMO/MAR2021// 
+REF/C/NAVADMIN/CNO WASHINGTON DC/241737ZJUN20// 
+REF/D/NAVADMIN/CNO WASHINGTON DC/111158ZSEP19// 
+REF/E/NAVADMIN/CNO WASHINGTON DC/151742ZDEC21// 
+ 
+NARR/REF A IS VOLUME 4 OF DOD INSTRUCTION 5154.31 COMMERCIAL TRAVEL 
+MANAGEMENT:  DOD GOVERNMENT TRAVEL CHARGE CARD PROGRAM.   
+REF B IS THE DEFENSE TRAVEL MANAGEMENT OFFICE GTCC REGULATIONS.   
+REF C IS NAVADMIN 176/20, GOVERNMENT TRAVEL CHARGE CARD USE FOR PCS TRAVEL. 
+REF D IS NAVADMIN 211/19, PERMANENT CHANGE OF STATION (PCS) MOVE IMPROVEMENTS 
+- PHASE THREE.   
+REF E IS NAVADMIN 285/21, GOVERNMENT TRAVEL CHARGE CARD USE DURING PERMANENT 
+CHANGE OF STATION LESSONS LEARNED.// 
+ 
+RMKS/1.  This NAVADMIN announces the phased roll-out for mandatory 
+use of the government travel charge card (GTCC) for all permanent 
+change of station (PCS) travel as well as mandatory use of the MyPCS 
+Travel Voucher for submission of travel claim vouchers by PCS 
+travelers when the ultimate duty station is supported by Transaction 
+Service Centers or Personnel Support Detachments.  The MyPCS Travel 
+Voucher is a fully automated, electronic travel claim voucher 
+capability introduced to the Fleet in September 2019. 
+ 
+2.  In line with references (a) and (b), starting 1 January 2022, 
+use of the GTCC for PCS travel and submission of travel claim 
+vouchers via the MyPCS Travel Voucher will be mandatory as outlined 
+in the below phases: 
+    a.  Phase I, effective 1 January 2022.  All Active Duty and 
+Full-Time Support (FTS) in the paygrades of E-9 as well as O-6 and 
+above. 
+    b.  Phase II, effective 1 July 2022.  All Active Duty and FTS 
+members in all paygrades. 
+    c.  Mandated use of the MyPCS Travel Voucher is also expanded to 
+include Selected Reservists executing Active Duty for Operational 
+Support and Officer Recall PCS orders. 
+ 
+3.  GTCC Program Background.  Reference (c) expanded use of the GTCC 
+during PCS travel for Active Duty and FTS Sailors.  Use of the GTCC 
+complies with Department of Defense (DoD) policy and enhances 
+accountability and auditability of PCS expenditures and related 
+entitlements.  The GTCC provides a reliable, interest-free means of 
+financial support to Sailors and their families during a PCS move. 
+ 
+4.  MyPCS Travel Voucher Background.  The expanded automation of 
+processing PCS travel claim vouchers using the MyPCS Travel Voucher 
+greatly reduces error rate, expedites reimbursement and reduces 
+back-office administrative workload.  Use of the MyPCS Travel 
+Voucher has been piloted with positive feedback from PCS travelers 
+and command pay and personnel administrators (CPPA). 
+ 
+5.  GTCC Program Education and Policy 
+    a.  This NAVADMIN mandates use of the GTCC for PCS purposes and 
+ceases the issuance of travel advances. 
+        (1) Exceptions to the issuance of travel advances will be 
+restricted to non-concurrent travel of dependents and for Sailors 
+not eligible to receive a GTCC.  Travel advance payments must be 
+requested through submission of the Navy Pay and Personnel Support 
+Center Application for Transfer and Advances Form (NPPSC 1300/1). 
+        (2) The GTCC is authorized for dislocation allowance (DLA) 
+expenses.  If desired, a Sailor under PCS orders may request advance 
+DLA.  If advance DLA is requested, the GTCC shall not be used for 
+DLA expenses. 
+    b.  Paragraphs 4.b and 4.c of reference (c) outlines permitted 
+and prohibited uses of the GTCC for PCS purposes. 
+    c.  GTCC use during personally procured moves (PPM) is 
+authorized for Sailors conducting PCS moves within the 48 contiguous 
+states and Washington, D.C. 
+        (1) Prior to conducting a PPM, Sailors using the GTCC for 
+PPMs must receive counseling from their local household goods (HHG) 
+office. 
+        (2) The GTCC shall not be used to obtain, arrange for, or 
+pay for short term (storage in transit-SIT) or long-term (non- 
+temporary storage-NTS) storage of PPMs or for any government 
+reimbursable storage of HHG. 
+ 
+6.  MyPCS Travel Voucher Overview, Accessibility and Training 
+    a.  The MyPCS Travel Voucher is a fully automated and electronic 
+travel claim voucher capability for Sailors available on personal 
+and government mobile devices, tablets, laptops and desktops. 
+Reference (d) provides detailed capabilities available for the PCS 
+traveler as well as the command CPPA. 
+    b.  PCS travelers can navigate to the PCS move experience via 
+their mobile browser using commercial-grade multi-factor 
+authentication (MFA) credentialing which enables common access card 
+(CAC)-free access.  The MyPCS Travel Voucher is available via 
+accessing MyPCS Mobile on the Navy App Locker at 
+https://www.applocker.navy.mil/#!/apps or MyNavy Portal (MNP) website at 
+https://my.navy.mil/.  MNP has quick links available on the MNP 
+homepage.  By downloading the Navy App Locker for either Android or 
+Apple devices, Sailors can quickly access the MyPCS Mobile and other 
+Navy-sponsored content.  Sailors can access the MyPCS Mobile website 
+without a CAC using commercial grade MFA credentials for security. 
+    c.  To set up CAC-free access, login is required into MNP on a 
+CAC-enabled machine.  Your name should appear at the top of the 
+page.  Click on your name, select my account, then select the 
+instructions for CAC-free setup.  Follow the steps for either Apple 
+iOS or Google Android to authenticate your identity under the 
+instructions tab.  This is a one-time event and allows the user to 
+establish their secure MFA account to log into the CAC-less 
+applications or websites.  The mobile device of the user must have 
+access to either WiFi or cellular data services to complete the 
+process. 
+    d.  User productivity kits (UPK) are available for PCS travelers 
+with a valid CAC on MNP.  Click on NP2 - My PCS and More.  To access 
+available training resources, scroll toward the bottom of the 
+landing page and under Training, select the UPK for Assignments, 
+Leave and Travel (ALT) and select either ALT (Mobile Friendly) or 
+ALT (Desktop), as desired. 
+ 
+7.  Responsibilities 
+    a.  In line with references (a) and (b), commanding officers and 
+CPPAs shall ensure Sailors submit PCS travel claim vouchers along 
+with supporting receipts within five working days of reporting to 
+their new duty station and adhere to DoD policy requirement 
+mandating split disbursement. 
+ 
+8.  Benefits and Remittance of Due Payment 
+    a.  Use of the GTCC reduces out of pocket expenses.  Users are 
+not charged interest or required to remit payment for up to 60 days 
+from end of mission critical-PCS (MC/PCS) status.  Sailors will be 
+placed in MC/PCS status upon detaching from their command and will 
+remain in MC/PCS status until they report to their ultimate duty 
+station or for 120 days, whichever comes first.  If there are delays 
+in reporting or PCS orders are longer than 120 days, Sailors and 
+agency program coordinators (APC) shall verify the GTCC is placed 
+back in a MC/PCS status. 
+    b.  Failure to reimburse the GTCC within 60 days of ending 
+MC/PCS status may result in account delinquency and may adversely 
+impact the Sailors assignability, security clearance and credit 
+history. 
+    c.  It is imperative Sailors, CPPAs, APCs and command leadership 
+clearly understand their roles and responsibilities and take actions 
+necessary to avoid outstanding travel debt. 
+ 
+9.  Customer support is available 24/7 from the MyNavy Career Center 
+Human Resources Shared Service Center at 833-330-MNCC (6622) or via 
+e-mail at askmncc(at)navy.mil. 
+ 
+10.  Reference (e) highlights GTCC use during PCS lessons learned. 
+To continue to evaluate program effectiveness, GTCC users are strongly 
+encouraged to complete a brief survey available at 
+https://surveys.max.gov/index.php/737856?lang=en. 
+ 
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+12.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

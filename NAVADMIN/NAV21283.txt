@@ -1,0 +1,429 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 151203Z DEC 21 MID200001325643U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 283/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/DEC// 
+ 
+SUBJ/CCDA EXECUTION GUIDANCE TO COMMANDERS// 
+ 
+REF/A/MSG/CNO/311913ZAUG21// 
+REF/B/MSG/CNO/132050ZOCT21// 
+REF/C/MSG/CNO/152239ZNOV21// 
+REF/D/DOC/SECDEF/24AUG21// 
+REF/E/MSG/SECNAV/302126ZAUG21// 
+REF/F/DOC/SECNAV/24JUL19// 
+REF/G/DOC/OPNAV/30OCT19// 
+REF/H/DOC/OPNAV/09OCT19// 
+REF/I/DOC/OPNAV/09OCT19// 
+REF/J/DOC/OPNAV/18OCT19// 
+REF/K/MSG/CNO/011621ZNOV21// 
+REF/L/DOC/10 US CODE/01JAN21// 
+REF/M/DOC/10 US CODE/01JAN21// 
+REF/N/DOC/10 US CODE/01JAN21// 
+REF/O/MSG/CNO/241805ZNOV21// 
+REF/P/DOC/SECDEF/30NOV21// 
+REF/Q/DOC/10 US CODE/01JAN21// 
+REF/R/DOC/10 US CODE/01JAN21// 
+REF/S/DOC/BUPERINST 1730.11A/16MAR20// 
+REF/T/DOC/OPNAV/15AUG20// 
+REF/U/BUMEDINST 6230.15B/7OCT13// 
+ 
+NARR/REF A IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION 
+AND REPORTING POLICY. 
+REF B IS NAVADMIN 225/21, COVID-19 CONSOLIDATED DISPOSITION AUTHORITY (CCDA). 
+REF C IS NAVADMIN 256/21, CCDA GUIDANCE TO COMMANDERS. 
+REF D IS THE SECRETARY OF THE DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 2019 
+VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS. 
+REF E IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-19 
+VACCINATION POLICY. 
+REF F IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS. 
+REF G IS MILPERSMAN 1611-010, OFFICER PERFORMANCE AND SEPARATIONS FOR CAUSE. 
+REF H IS MILPERSMAN 1910-142, SEPARATION BY REASON OF MISCONDUCT - COMMISSION 
+OF A SERIOUS OFFENSE. 
+REF I IS MILPERSMAN 1910-233, MANDATORY SEPARATION PROCESSING. 
+REF J IS MILPERSMAN 1910-010, ENLISTED ADMINISTRATIVE SEPARATION (ADSEP) 
+POLICY AND GENERAL INFORMATION. 
+REF K IS NAVADMIN 249/21, CCDA DATA REPORTING REQUIREMENTS. 
+REF L IS 10 U.S. CODE SECTION 8330, ENLISTED MEMBERS: TRANSFER TO FLEET 
+RESERVE AND FLEET MARINE CORPS RESERVE; RETAINER PAY. 
+REF M IS 10 U.S. CODE SECTION 8326, ENLISTED MEMBERS: 30 YEARS. 
+REF N IS 10 U.S. CODE SECTION 1370, REGULAR COMMISSIONED OFFICERS. 
+REF O IS NAVADMIN 268/21, REQUIRED COVID-19 TESTING FOR UNVACCINATED SERVICE 
+MEMBERS. 
+REF P IS SECRETARY OF DEFENSE MEMO ADDRESSING CORONAVIRUS DISEASE 2019 
+VACCINATION FOR MEMBERS OF THE NATIONAL GUARD AND THE READY RESERVE. 
+REF Q IS 10 U.S. CODE SECTION 8323, OFFICERS: 20 YEARS. 
+REF R IS 10 U.S. CODE SECTION 12731, AGE AND SERVICE REQUIREMENTS. 
+REF S IS BUPERSINST 1730.11A, STANDARDS AND PROCEDURES GOVERNING THE 
+ACCOMMODATION OF RELIGIOUS PRACTICES. 
+REF T IS MILPERSMAN 1730-020, IMMUNIZATION EXEMPTIONS FOR RELIGIOUS BELIEFS. 
+REF U IS BUMEDINST 6230.15B, IMMUNIZATIONS AND CHEMOPROPHYLAXIS FOR THE 
+PREVENTION OF INFECTIOUS DISEASE. 
+ 
+RMKS/1.  Purpose.  Since we are now past the last date that any Navy service 
+member may receive the vaccine and meet the deadlines specified in reference 
+(a), this NAVADMIN provides execution guidance regarding separation of Navy 
+service members refusing the COVID-19 vaccine as directed in references (a) 
+through (e). 
+ 
+2.  Policy.  In order to ensure a fully vaccinated force, U.S. Navy policy 
+is, first, that all Navy service members receive the vaccine as directed and, 
+second, that any who refuse the vaccine be processed for separation at the 
+earliest possible opportunity. 
+While the vast majority of Navy service members have already received the 
+vaccine, it remains in the interest of the Navy to encourage remaining Navy 
+service members to become fully vaccinated as soon as possible and, at such 
+time, consider them for retention. Regarding those who refuse the vaccine, 
+the following policy will be implemented to maximize speed and equity in 
+achieving a fully vaccinated force: 
+2.a.  Navy service members eligible or approved to separate or retire on or 
+before 1 June 2022.  Upon request, permit separation or retirement (as 
+applicable) as soon as practicable via expedited processes, in lieu of 
+administrative separation processing.  Barring extenuating circumstances, 
+this will result in an HONORABLE characterization of service. 
+2.b.  Navy service members not eligible to separate or retire on or before 1 
+June 2022:  Process for administrative separation as soon as practicable 
+based on misconduct. 
+2.b.(1).  Less than 6 years of service:  Process for separation with an 
+HONORABLE characterization.  Service members in this category are not 
+entitled to an Administrative Separation (ADSEP) board or a Board of Inquiry. 
+2.b.(2).  More than 6 years of service:  Process for separation with a 
+GENERAL (under honorable conditions) characterization, however, requests to 
+waive Administrative Separation boards or Boards of Inquiry in exchange for 
+HONORABLE characterization of service will generally be favorably endorsed 
+(barring additional misconduct or unique circumstances). 
+2.c.  The separation guidance in this NAVADMIN applies to active duty, full 
+time support (FTS)/training and administration of the reserve (TAR), and 
+selected reserve (SELRES) Navy service members refusing the 
+vaccine.  Paragraph 6, below, provides additional guidance regarding Navy 
+Reserve service members refusing the vaccine.  Navy service members in the 
+Individual Ready Reserve (IRR), as well as U.S. Naval Academy (USNA) and 
+Naval Reserve Officers Training Corps (ROTC) midshipmen remain subject to the 
+vaccine mandates in references (a), (d), and (e), but will be processed per 
+their governing instructions. 
+ 
+3.  Action.  Commanders are now directed to conduct separation processing IAW 
+this NAVADMIN and per references (f) through (j). 
+3.a.  If a Navy service member refusing the vaccine changes their mind and 
+subsequently receives the vaccine, but cannot meet the deadline specified in 
+references (a) and (e), Commanders must expeditiously report that fact to the 
+COVID Consolidated Disposition Authority (CCDA) via *PERS-834(at)navy.mil* 
+for officers and *832vaccineadseps.fct(at)navy.mil* for enlisted, in order to 
+expedite determination regarding pausing or permanently waiving the 
+administrative actions directed by references (b), (c) and this 
+NAVADMIN.  Commanders are reminded to update the data required by reference 
+(k) in such cases. 
+3.b.  Separation processing for Navy service members refusing the vaccine 
+will be IAW this NAVADMIN.  Where the terms of this NAVADMIN regarding 
+separation processing conflict with references (a) through (c), this NAVADMIN 
+supersedes and replaces that previous guidance. 
+However, unless specifically waived by the CCDA based on receiving the 
+vaccine, all other administrative actions associated with vaccine refusal 
+described in references (b) and (c) including but not limited to pay, 
+promotion/advancement, fitness reports/evaluations, etc. continue to apply in 
+all cases of Navy service members refusing the vaccine. 
+3.c.  Officer and enlisted service members separated based on vaccine refusal 
+will not be eligible for involuntary separation pay. 
+3.d.  Officers separated based on vaccine refusal who have not completed a 
+service obligation incurred by attending the U.S. Naval Academy, receipt of a 
+Naval Reserve Officers Training Corps Scholarship, or receipt of other 
+advanced education funds will be required to repay their educational expenses 
+IAW existing agreements. 
+3.e.  The command endorsement section of separation requests processed in 
+NSIPS per this NAVADMIN must clearly indicate *COVID-19 VACCINE REFUSAL* and 
+Commanders must closely monitor progress and results throughout the process. 
+3.f.  Navy service members with approved or pending COVID-19 vaccination 
+exemption requests shall not be processed for separation per this 
+NAVADMIN.  Navy service members whose COVID-19 vaccination exemption request 
+is subsequently denied are required to receive the COVID-19 vaccine as 
+directed by the exemption adjudicating authority or if the exemption 
+adjudicating authority does not specify, commence vaccination within 5 days 
+of being notified of the denial. Navy service members who subsequently refuse 
+the COVID-19 vaccine after expiration of the specified time to commence 
+vaccination will be processed for separation per this NAVADMIN.  Commanders 
+are reminded to update the data required by reference (k) in such cases. 
+3.g.  Any officer or enlisted service member refusing the vaccine who has a 
+currently-approved separation or retirement (as of the date of this NAVADMIN) 
+for a date on or before 1 June 2022 will be permitted to execute their 
+separation or retirement without additional administrative separation 
+processing described below. 
+3.h.  For the purposes of this message, use of the word *retirement* in the 
+case of enlisted personnel should be read to include transfer to the fleet 
+reserve, when eligible. 
+ 
+4.  Officer Processing: Except as provided in paragraph 3.g, the CCDA, as the 
+show cause authority, has directed mandatory show cause processing for all 
+officers who refuse the vaccine IAW reference (f) on the bases of Misconduct, 
+Moral or Professional Dereliction, and Substandard Performance. 
+4.a.  Commanders shall delay submitting a report of misconduct for officers 
+who are beyond their minimum service requirement (MSR) to determine if they 
+are eligible and desire to request an unqualified retirement or resignation 
+in line with para 2.a.  For officers who are not eligible and/or do not 
+desire to request to retire or resign on or before 1 June 2022, Commanders 
+shall initiate processing for separation by submitting a report of misconduct 
+to Commander, Navy Personnel Command (PERS-834) per reference (g) as soon as 
+practicable, but not later than 21 January 2022.  The template for this 
+report may be found at https://www.mnp.navy.mil/group/navy-covid-19-
+reporting.   
+For officers who are eligible, request and are command sponsored (via NSIPS) 
+to retire or resign on or before 1 June 2022, reports of misconduct are not 
+required.  However, if requests for retirement or resignation are disapproved 
+by higher authority, the provisions of this paragraph regarding required 
+reports of misconduct and officer show cause will again apply.  In those 
+cases, reports of misconduct must be initiated within 5 days of retirement or 
+resignation disapproval. 
+4.a.(1).  Unqualified resignation or retirement requests in line with this 
+paragraph must be submitted no later than 21 January 2022 with a separation 
+date no later than 1 June 2022. 
+4.a.(2).  Officers who have not met all Time in Grade (TIG) requirements will 
+not be recommended for a TIG waiver and will be recommended to retire at the 
+next lower grade in which the officer served on active duty satisfactorily. 
+4.a.(3).  Officers with prior enlisted service, more than 20 years of active 
+service, and less than 10 years of commissioned service (YCS) are not 
+qualified for a regular officer retirement, but will be permitted to resign 
+their commission and reenlist in the highest enlisted paygrade previously 
+held for the sole purpose of retiring IAW references (l) and (m). 
+4.a.(4).  In cases where an officer is notified after 7 January 2022 that 
+their exemption request was denied and continues to refuse the vaccine, that 
+officer will be provided 14 days from the date of such notification to 
+request resignation or retirement in line with paragraph 4.a. above, if they 
+are eligible and desire to make such a request.  Such requests must still 
+ensure resignation or retirement on or before 1 June 2022. 
+4.b.  Eligible.  An officer eligible to resign is, generally, one who has 
+completed or will complete their minimum service requirement on or before 1 
+June 2022.  An officer eligible to retire is, generally, one who has 
+completed or will complete at least 20 years of service on or before 1 June 
+2022.  Additional service obligation incurred due to such Navy benefits as 
+education and bonuses may be waived, at the discretion of the CCDA or higher 
+authority, in exchange for agreement to repay any unearned portion of the 
+benefit. Each case will be individually adjudicated for final determination. 
+4.c.  Probationary Officers (as defined in reference (f), but generally less 
+than 6 years of commissioned service). 
+4.c.(1).  Except as provided in paragraphs 3.g. and 4.a., probationary 
+officers who refuse the vaccine will be directed to show cause for retention 
+by notification procedures.  The least favorable characterization of service 
+shall be HONORABLE, unless inclusion of another basis for separation warrants 
+a less favorable characterization.  The show cause authority will direct 
+processing after receiving reports of misconduct. 
+4.c.(2).  Once notification is complete IAW reference (f) enclosure 11, the 
+matter will be submitted to the Secretary of the Navy for final adjudication. 
+4.d.  Non-Probationary Officers (as defined in reference (f), but generally 
+greater than 6 years of commissioned service). 
+4.d.(1).  Except as provided in paragraphs 3.g. and 4.a., non- probationary 
+officers who refuse the vaccine will be directed to show cause for retention 
+by Board of Inquiry procedures.  The least favorable characterization of 
+service directed for consideration will be GENERAL (under honorable 
+conditions), unless inclusion of another basis for separation warrants a less 
+favorable characterization. 
+4.d.(2).  Non-probationary officers who refuse the vaccine who will not be 
+retirement or resignation eligible on or before 1 June 2022, will not have 
+completed their MSR before 1 June 2022, are denied requests for unqualified 
+resignation/retirement, or who do not prefer separation or retirement IAW 
+with paragraph 4.a. above will, in the course of show cause proceedings, be 
+offered the opportunity to submit a qualified resignation or, in some cases, 
+a retirement request, for discharge with an HONORABLE characterization of 
+service in exchange for waiving their right to a Board of Inquiry. 
+4.d.(2).(a).  Qualified resignation or retirement requests under this 
+paragraph must be submitted no later than 14 days after notification to the 
+officer. 
+4.d.(2).(b).  Officers requesting retirement under this paragraph will be 
+recommended to the Secretary of the Navy for retirement in grade so long as 
+time-in-grade requirements are met IAW references (f) and (n). 
+4.d.(2).(c).  Officers requesting retirement under this paragraph, who have 
+not met all TIG requirements will not be recommended for a TIG waiver and 
+will be recommended to retire at the next lower grade in which the officer 
+served on active duty satisfactorily. 
+4.d.(2).(d).  Officers with prior enlisted service, more than 20 years of 
+active service, and less than 10 years of commissioned service (YCS) are not 
+qualified for a regular officer retirement, but will be permitted to resign 
+their commission and reenlist in the highest enlisted paygrade previously 
+held for the sole purpose of retiring IAW references (l) and (m). 
+4.d.(3).  Non-probationary officers who refuse the vaccine who do not avail 
+themselves of the opportunities and options provided above will be subject to 
+show cause through Boards of Inquiry with GENERAL (under honorable 
+conditions) as the least favorable characterization 
+of service. 
+ 
+5.  Enlisted Processing.  Except as provided in paragraph 3.g., the CCDA has 
+directed that Commanders shall initiate the administrative separation process 
+for all enlisted service members refusing the vaccine under reference (h), 
+Misconduct-Commission of a Serious Offense, plus any additional basis known 
+at the time of processing. The provisions of reference (g) and MILPERSMAN 
+1910 (series) apply: treat vaccine refusal cases as though they were listed 
+in reference (i). 
+5.a.  Commanders shall delay initiating administrative separation processing 
+for enlisted service members who have greater than 20 years of service or 
+have an end of active obligated service (EAOS) on or before 1 June 2022 to 
+determine if they are eligible and desire to request separation or retirement 
+in line with para 2.a. 
+For those who are not eligible and/or do not desire to make such a request, 
+initiate administrative separation processing as soon as practicable, but not 
+later than 21 January 2022.  For those who are eligible, request and are 
+command sponsored to separate or retire on or before 1 June 2022, 
+administrative separation processing is not required.  However, if such 
+requests are disapproved by higher authority, the provisions of this 
+paragraph requiring separation processing will again apply.  In those cases, 
+administrative separation processing must be initiated within 5 days of 
+disapproval. 
+5.a.(1).  Separation or retirement requests in line with this paragraph must 
+be submitted no later than 21 January 2022. 
+5.a.(2).  Enlisted service members with an expected EAOS on or before 1 June 
+2022 may request such separation through use of the Enlisted Personnel Action 
+Request Form NAVPERS 1306/7.  Requests may be approved by Commanders as 
+described in existing procedures. 
+5.a.(3).  Enlisted service members retiring who submit a request IAW this 
+paragraph will be retired in grade so long as TIG requirements are met. 
+5.a.(4).  Enlisted service members who have not met all TIG requirements will 
+be ineligible for a TIG waiver and will be retired at the next lower 
+grade.  Enlisted service members must include their willingness to retire at 
+a lower pay grade within their request.  Commanders must also provide a 
+narrative in the comments that the request is being submitted IAW this 
+NAVADMIN. 
+5.a.(5).  In cases where an enlisted service member is notified after 7 
+January 2022 that their exemption request was denied and continues to refuse 
+the vaccine, that enlisted service member will be provided 14 days from the 
+date of such notification to request separation or retirement in line with 
+paragraph 5.a. above, if they are eligible and desire to make such a 
+request.  Such requests must still ensure separation or retirement on or 
+before 1 June 2022. 
+5.b.  Eligible.  An enlisted service member eligible to separate is, 
+generally, one who will reach their EAOS on or before 1 June 2022. An 
+enlisted service member eligible to retire is, generally, one who has 
+completed or will complete at least 20 years of service on or before 1 June 
+2022.  Additional service obligations incurred due to such Navy benefits as 
+education and bonuses may be waived, at the discretion of the CCDA or higher 
+authority, in exchange for agreement to repay any unearned portion of the 
+benefit.  Each case will be individually adjudicated for final determination. 
+5.c.  Enlisted service members with less than 6 years of total service 
+(and/or reserve military service) at the time of notification. 
+5.c.(1).  Except as provided in paragraphs 3.g. and 5.a., enlisted service 
+members with less than 6 years of total service shall be processed for 
+separation using notification procedures.  The least favorable 
+characterization of service shall be HONORABLE, unless significant and 
+persistent negative aspects of the members conduct or performance of duty in 
+the current enlistment outweigh positive aspects of the members service 
+record, or if inclusion of another basis for separation warrants a less 
+favorable characterization. 
+5.c.(2).  Once the cognizant Commander completes notification, commands shall 
+endorse and forward to PERS-8 at *832vaccineadseps.fct(at)navy.mil*, which 
+will forward to the applicable separation authority and then direct 
+separation as appropriate. 
+5.d.  Enlisted service members with more than 6 years of total service 
+(and/or reserve military service) at the time of notification. 
+5.d.(1).  Except as provided in paragraphs 3.g. and 5.a., enlisted service 
+members with more than 6 years of total service shall be processed using 
+administrative board procedures.  The least favorable characterization of 
+service shall be GENERAL (under honorable conditions), unless inclusion of 
+another basis for separation warrants a less favorable characterization. 
+5.d.(2).  Enlisted service members with more than 6 years of total service 
+who are not eligible for retirement, have an EAOS after 1 June 2022, are 
+denied a request for separation or retirement, or who do not prefer 
+separation IAW with paragraph 5.a. above, may request to conditionally waive 
+an administrative separation board in exchange for separation or retirement 
+(as applicable) with an HONORABLE characterization of service. 
+5.d.(2).(a).  Conditional waiver requests for separation or retirement must 
+be received by the Commander no later than 14 days after notification. 
+5.d.(2).(b).  Unless there are extenuating circumstances, the Commander will 
+favorably endorse the conditional waiver request and forward to PERS 8 at 
+*832vaccineadseps.fct(at)navy.mil*, which will forward to the applicable 
+separation authority and then direct separation as appropriate.  Commanders 
+should generally disapprove a conditional waiver only where additional 
+misconduct (other than vaccine refusal) is present. 
+5.d.(3).  Enlisted service members requesting retirement IAW this paragraph 
+may be recommended for retirement in grade if time in grade requirements are 
+met (as applicable).  If TIG requirements are not met, they may be 
+recommended for retirement at the next lower grade. 
+5.d.(4).  Enlisted service members with more than 6 years of total service 
+who do not avail themselves of the opportunities and options above will 
+continue to be processed for administrative separation with GENERAL (under 
+honorable conditions) as the least favorable characterization of service. 
+5.e.  In order to streamline processing of enlisted separation 
+cases, commands are directed to visit 
+https://www.mynavyhr.navy.mil/Career-Management/Personnel-Conduct-
+Sep/Enlisted-Separations/ for reference materials, letter of transmittal 
+templates and checklists to be used when submitting enlisted active and 
+FTS/TAR ADSEP cases to *832vaccineadseps.fct(at)navy.mil*. 
+ 
+6.  Additional Navy Reserve Guidance: 
+6.a.  Navy service members who refuse the vaccine and separate from the 
+active component (AC) will not be permitted to affiliate with or be assigned 
+in any status within the reserve component (RC). 
+6.b.  Separations for Navy Reserve service members refusing the vaccine will 
+be conducted at the Navy Reserve Center to which the members are 
+assigned.  In order to be processed for retirement, separation or 
+resignation, all Navy Reserve service members refusing the vaccine who are on 
+active duty (ACDU), to include active duty for operational support (ADOS) and 
+definite recall, shall be released from active duty (RAD) and returned to a 
+reserve status no later than 21 Jan 2022. 
+6.c.  Navy Reserve service members on ACDU orders, to include active duty for 
+operational support (ADOS) and definite recall, who submitted a vaccine 
+exemption request which is subsequently denied after 7 Jan 2022, and refuse 
+the vaccine following the expiration of the specified time to commence 
+vaccination, shall be released from active duty (RAD) and returned to a 
+reserve status within 14 days of being notified of the denial. 
+6.d.  Commanders must notify the Orders Issuing Authority (OIA), either PERS-
+92 or PERS-4X, as soon as possible if they have Navy Reserve service members 
+refusing the vaccine on ACDU. 
+6.e.  In accordance with reference (p), in no case will a Navy Reserve 
+service member refusing the vaccine be granted authorized absence from drill 
+or excused from other reserve duties based on failure to comply with 
+vaccination requirements. 
+6.f.  Active duty members (including FTS/TAR) who do not have 20 qualifying 
+years to retire, but have earned qualifying years in the reserves and have a 
+combination of active duty and reserve years to qualify for a non-
+regular/reserve retirement under reference (r) should contact PERS-97 Career 
+Transition Office by emailing your most current reserve Statement of Service 
+to *cto.officer(at)navy.mil* for officers and *cto.enlisted(at)navy.mil* for 
+enlisted members prior to 21 January 2022 to inform them of your intentions 
+to be transferred to the reserves solely for the purpose of retirement. 
+6.g.  *Retirement* for RC members includes transfer to the retired reserve 
+and non-regular retirement as eligible. 
+6.h.  Additional administrative guidance regarding Navy Reserve service 
+members refusing the vaccine will be promulgated via a forthcoming 
+ALNAVRESFOR message. 
+ 
+7.  As a reminder, all unvaccinated Navy service members are subject to 
+screening testing against COVID-19 IAW reference (o).  Commanders shall 
+continue to update the status of unvaccinated service members IAW reference 
+(k). 
+ 
+8.  If in doubt as to how to adjudicate issues related to separation of a 
+Navy service member refusing the vaccine, Commanders should seek guidance 
+from their chain of command, their staff judge advocate, and/or the CCDA 
+before acting.  Commands without an assigned legal advisor may seek legal 
+advice from a Region Legal Service Office.  In all cases, Commanders are 
+accountable to ensure the health and safety of their command while treating 
+every Navy service member with dignity and respect. 
+ 
+9.  Points of contact. 
+My Navy Career Center: 833-330-6622, *askmncc(at)navy.mil*. 
+PERS-8 Active/FTS enlisted separations: *832vaccineadseps.fct(at)navy.mil* 
+PERS-8 officer separations: *PERS-834(at)navy.mil* 
+PERS-8 Active/FTS/TAR enlisted retirements: 
+*Enlisted_Active_Duty_Retirements(at)navy.mil* 
+PERS-8 Active/FTS/TAR officer retirements: *pers_835_retirements(at)navy.mil* 
+PERS-8 officer and enlisted promotion delays: 
+NPC_promotionwithholds.fct(at)navy.mil* 
+PERS-92 officer and enlisted definite recalls: *PERS-92(at)navy.mil*. 
+PERS-9 Reserve enlisted separations: *913vaccineadseps.fct(at)navy.mil*. 
+PERS-97 officer transitions: *cto.officer(at)navy.mil* 
+PERS-97 enlisted transitions: *cto.enlisted(at)navy.mil* 
+OPNAV POC: CAPT Jason Grizzle, *ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL*. 
+ 
+10.  Released by VADM John B. Nowell, Jr, COVID Consolidated Disposition 
+Authority. 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
