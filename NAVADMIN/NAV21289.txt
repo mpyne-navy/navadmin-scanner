@@ -1,0 +1,122 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 221712Z DEC 21 MID200001346611U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 289/21 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/DEC// 
+ 
+SUBJ/GUIDANCE ENCOURAGING COVID-19 VACCINE BOOSTER// 
+ 
+REF/A/MEMO/USD PR/17DEC21// 
+REF/B/MSG/CNO/311913ZAUG21// 
+REF/C/MSG/SECNAV/302126ZAUG21// 
+REF/D/MEMO/SECDEF/24AUG21// 
+REF/E/MSG/CNO/021344ZJUN21// 
+REF/F/MEMO/USD PR/15NOV21// 
+REF/G/MEMO/ASN MRA/05NOV21// 
+ 
+NARR/REF A IS UNDERSECRETARY OF DEFENSE FOR PERSONNEL AND READINESS MEMO 
+GUIDANCE ON ELIGIBILITY FOR A CORONAVIRUS DISEASE 2019 VACCINE BOOSTER DOSE. 
+REF B IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION 
+AND REPORTING POLICY. 
+REF C IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-19 
+VACCINATION POLICY. 
+REF D IS SECDEF MEMO MANDATING CORONAVIRUS DISEASE 2019 VACCINATION FOR DOD 
+SERVICE MEMBERS. 
+REF E IS NAVADMIN 110/21, U.S. NAVY COVID-19 STANDING GUIDANCE UPDATE 1. 
+REF F IS UNDERSECRETARY OF DEFENSE FOR PERSONNEL AND READINESS MEMO FORCE 
+HEALTH PROTECTION GUIDANCE (SUPPLEMENT 23) REVISION 2. 
+REF G IS ASSISTANT SECRETARY OF THE NAVY FOR MANPOWER AND RESERVE AFFAIRS 
+MEMO, MANDATORY CORONAVIRUS 2019 VACCINATION OF DEPARTMENT OF NAVY CIVILIAN 
+EMPLOYEES. 
+POC/OPNAV/CAPT STEVEN TARR III, (703) 614-9250//EMAIL: STEVEN.TARR1.MIL 
+(AT)US.NAVY.MIL 
+ 
+RMKS/ 1.  Purpose.  This NAVADMIN provides guidance for Active and Reserve 
+Component uniformed Navy personnel.  Reference (a) recommends vaccine 
+boosters for Service members, DoD civilian employees, eligible DoD 
+beneficiaries, and select contractor personnel.  If needed, specific guidance 
+beyond reference (a) for non-uniformed Navy personnel will be released 
+separately.  Food and Drug Administration (FDA) approved vaccine regimens 
+have proven to be safe and effective in preventing serious illness or 
+death.  Ongoing studies, however, have revealed that vaccination immunity 
+decreases over time and the Centers for Disease Control and Prevention (CDC) 
+recommends a vaccine booster for everyone age 16 and older. 
+ 
+2.  Applicability.  This guidance applies to Active and Reserve Component 
+uniformed Navy personnel who completed the primary Pfizer-BioNTech/Comirnaty 
+or Moderna COVID-19 vaccine series (i.e., received the second dose of 
+the vaccine) more than 6 months ago, or who received a primary dose of the 
+Johnson & Johnson/Janssen COVID-19 vaccine more than 2 months ago. 
+Although this NAVADMIN specifically applies to uniformed Navy personnel, 
+all personnel over the age of 16, including government civilians, are 
+encouraged to obtain a vaccine booster. 
+ 
+3.  Policy Guidance.  Although not mandatory, the COVID-19 vaccine booster 
+is strongly recommended.  Because all studies are converging on the need for 
+a vaccine booster to ensure enduring protection, it is essentially becoming 
+the next-shot in a series and will likely become mandatory in the near 
+future. 
+With the evolution of additional COVID-19 variants, e.g., Omicron, this 
+NAVADMIN encourages exercising prudence to ensure continued protection. 
+3.a.  Conditions to be fully vaccinated.  The vaccine booster is a time-based 
+reinforcement of the initial vaccine in order to prevent decreasing immunity. 
+The vaccine booster is not currently a requirement to be fully vaccinated per 
+references (a) through (f).  Individuals are still considered fully 
+vaccinated 2-weeks after receiving the second dose in a two-dose initial 
+vaccine series (e.g., Pfizer-BioNTech/Comirnaty, Moderna vaccines), 2-weeks 
+after receiving a single-dose vaccine (e.g., Johnson & Johnson/Janssen 
+vaccine), or having received a World Health Organization (WHO) Emergency Use 
+Listing (EUL) initial vaccine series. 
+3.b.  Specific categories.  Under CDC guidance, the below three categories 
+may ONLY receive a Pfizer-BioNTech/Comirnaty vaccine booster. 
+3.b.1.  Individuals who have completed a primary vaccination series while 
+enrolled in an Institutional Review Board (IRB), FDA, National Institutes of 
+Health (NIH), or WHO clinical vaccine trial. 
+3.b.2  Individuals who are fully vaccinated with a WHO EUL vaccine. 
+3.b.3.  Individuals age 16 or 17 who have completed the primary Pfizer- 
+BioNTech/Comirnaty vaccine series. 
+3.c.  CDC-supported booster vaccines.  With the exception of paragraph 
+3.b above, CDC guidance allows individuals to choose any COVID-19 vaccine 
+booster that has received either FDA licensure or Emergency Use Authorization 
+(EUA).  The CDC allows mix and match dosing (i.e., taking different COVID-19 
+vaccines), taking into consideration an individuals preference, previous side 
+effects, and vaccine availability.  The CDCs Advisory Committee on 
+Immunization Practices (ACIP) has stated a clinical preference for mRNA 
+COVID-19 vaccines (Pfizer/Moderna) over non-Mrna (Johnson & 
+Johnson/Janssen).  Before receiving any booster shot, service members should 
+review that vaccines Fact Sheet for Recipients and Caregivers and contact 
+their Primary Care Manager with any questions or concerns. 
+3.d.  Active and Reserve Component members may elect to receive a vaccine 
+booster from either a military or non-military vaccine site. To ensure 
+Medical Readiness Reporting System (MRRS) accuracy, service members who 
+receive the vaccine booster from a non-military site must provide their 
+immunization data to their command as soon as practicable, but not to exceed 
+five working days.  The government website  https://www.vaccines.gov/ 
+lists locations as well as available appointments for COVID-19 booster shots 
+throughout the country. 
+3.e.  International travel.  A growing number of host countries now have 
+varying degrees of restrictions if more than six months have elapsed since 
+receiving the initial COVID-19 vaccine.  Accordingly, a vaccine booster will 
+likely be needed to travel to, or avoid liberty restrictions in, these 
+countries.  Nothing in this NAVADMIN supersedes existing national, state, or 
+local restrictions and requirements. 
+ 
+4.  Responsibilities.  Commanders, Commanding Officers, and Officers in 
+Charge will ensure this NAVADMIN is widely disseminated throughout all 
+commands. 
+ 
+5.  Released by VADM W. R. Merz, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
