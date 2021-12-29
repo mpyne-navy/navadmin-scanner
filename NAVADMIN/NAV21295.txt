@@ -1,0 +1,69 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 281749Z DEC 21 MID200001367279U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 295/21 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/DEC// 
+ 
+SUBJ//SUBMITTING MANDATORY COMMAND OPERATIONS REPORT (COR) FOR CY2021 
+ 
+REF/A/DOC/OPNAVINST 5750.12L CH-1/26MAR2021// 
+AMPN/REF (A) IS CNO INSTRUCTION ON ANNUAL COMMAND 
+OPERATIONS REPORT// 
+ 
+RMKS/1.  Per reference (a), all officers in command (afloat and ashore, 
+including all task forces, groups, and units) shall submit an annual Command 
+Operations Report (COR) for their unit.  Each command with a Unit 
+Identification Code (UIC or RUIC) is required to submit their own report with 
+one exception:  if the command has fewer than 100 personnel, its ISIC can 
+submit on its behalf. Commands with 100 or more personnel (to include 
+military, civilian and contractors) shall submit their own report. 
+ 
+2.  CORs for echelons 4-6 are due 1 March 2022; echelon 3 commands are due  
+15 March 2022; and echelon 2 commands are due 1 April 2022.  ISICs are 
+expected to ensure their subordinate commands submit their CORs. 
+ 
+3.  CY2020 CORs not submitted to date shall be submitted regardless of their 
+delinquent status. 
+ 
+4.  CY2021 CORs shall include information pertaining to activities in 
+response to COVID-19.  This information, including but not limited to, 
+reports, briefs, messages, white papers, emails, and images, shall be 
+included in the COR package as supporting reports.  Narrative sections shall 
+include information recounting COVID-19 preparedness, challenges, impacts on 
+operations, and command response.  Chronology sections shall include dates 
+corresponding to preparedness measures, incidents, and responses.  The 
+classification level this information should not be the determining factor of 
+its inclusion. 
+ 
+5.  CORs should be submitted electronically to the Naval History and Heritage 
+Command (NHHC).  Reference (a) and a template with guidance are available 
+on the NHHC's COR website.  (See https://www.history.navy.mil/about-
+us/instructions-and-forms/submit-a-command-operations-report.html). 
+Questions about cors should be directed to NHHC_HAD_COR(AT)US.navy.mil. 
+ 
+6.  The COR must be classified at the level necessary to completely describe 
+the respective commands operations and actions over the last year.  CORs 
+classified no higher than the Secret level should be sent to 
+NHHC_COR(AT)navy.smil.mil. 
+Reports classified higher than Secret are also accepted and welcomed. 
+Contact listed SIPRNet email for instruction. 
+ 
+7.  Point of Contact:  The COR Program may be contacted at comm: 
+(202) 433-9873 and email: NHHC_HAD_COR(AT)US.navy.mil or 
+NHHC_COR(AT)navy.smil.mil. 
+ 
+8.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
