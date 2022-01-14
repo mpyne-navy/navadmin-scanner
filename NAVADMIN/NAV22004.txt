@@ -1,0 +1,75 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 141834Z JAN 22 MID600051439597U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 004/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN// 
+ 
+SUBJ/ENAVFIT AVAILABILITY FOR ACTIVE COMPONENT AS ALTERNATIVE TO NAVFIT98A// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/241616ZNOV21// 
+REF/B/DOC/BUPERS/01DEC21// 
+NARR/REF A IS NAVADMIN 267/21, TALENT MANAGEMENT TASK FORCE AND ENAVFIT.   
+REF B IS BUPERSINST 1610.10F, NAVY PERFORMANCE EVALUATION SYSTEM.// 
+ 
+RMKS/1.  This NAVADMIN announces the forthcoming availability of eNavFit for 
+the Active Component to use as an alternative to NAVFIT98A for the completion 
+of performance evaluations starting 15 February 2022. 
+    a.  eNavFit is a web-enabled interface that consolidates the 
+functionality of NAVFIT98A. 
+    b.  Navy Personnel Command (NPC) deployed eNavFit to the Reserve 
+Component in December 2021 as described in reference (a). 
+    c.  NAVFIT98A is scheduled to sunset in late Fiscal Year 2022. Until 
+then, NPC will still accept reports generated via NAVFIT98A. 
+ 
+2.  Active Component Sailors will be able to access eNavFit through BUPERS 
+Online (BOL) and NPC Document Services for online EVAL and FITREP drafting, 
+routing, review and submission. 
+ 
+3.  eNavFit enables Sailors to draft, edit, electronically route and 
+digitally sign performance evaluations with electronic submission to the 
+Sailors Official Military Personnel File in a matter of days. The 
+functionality of eNavFit will improve report accuracy, timeliness and quality 
+as well as reduce evaluation processing, submission errors and routing 
+delays.  Reference (b) includes the policy for eNavFit. 
+ 
+4.  eNavFit has been designed for the following operational 
+conditions 
+    a.  Connected operations.  For Sailors in a standard office environment 
+with regular internet connectivity. 
+    b.  Connected and disconnected operations.  For underway Sailors or 
+commands with limited internet connectivity who can work offline for a period 
+of time but have the ability to periodically upload and submit completed 
+reports via BOL. 
+    c.  Disconnected operations.  For commands entirely offline with legacy 
+ability to print, wet sign and mail completed reports to NPC. 
+ 
+5.  Maximum use of eNavFit by active component commands is highly encouraged 
+starting 15 February 2022. 
+ 
+6.  Performance evaluation training materials including an eNavFit user 
+guide, video tutorials and quick reference cards can be found via the NPC 
+website at https://www.mynavyhr.navy.mil/Career-Management/Performance-
+Evaluation/eNAVFIT/. 
+ 
+7.  For questions concerning eNavFit, contact the MyNavy Career Center at 
+(833) 330-6622 or via e-mail at askmncc(at)navy.mil. 
+ 
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
