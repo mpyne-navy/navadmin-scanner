@@ -1,0 +1,373 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 152351Z JAN 22 MID600051441248U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 07/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/JAN// 
+ 
+SUBJ/U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL GUIDANCE 5.0// 
+ 
+REF/A/NAVADMIN/OPNAV/021344ZJUN21// 
+REF/B/NAVADMIN/OPNAV/042044ZMAY21// 
+REF/C/NAVADMIN/OPNAV/221712ZDEC21// 
+REF/D/MEMO/OSD/30DEC2021// 
+REF/E/DOC/SECDEF/24AUG2021// 
+REF/F/ALNAV/SECNAV/302126ZAUG21// 
+REF/G/NAVADMIN/CNO/311913ZAUG21// 
+REF/H/NAVADMIN/OPNAV/241805ZNOV21// 
+REF/I/DOC/NMCPHC/27DEC2021// 
+REF/J/DOC/NMCPHC/14MAY2021// 
+REF/K/DOC/NMCPHC/19MAR2021// 
+REF/L/MEMO/OSD/20DEC2021// 
+REF/M/NAVADMIN/OPNAV/301952ZAPR21// 
+REF/N/MEMO/OSD/10JAN2022// 
+REF/O/NAVADMIN/OPNAV/041827ZAUG21// 
+REF/P/NAVADMIN/OPNAV/231718ZAUG21// 
+ 
+NARR/REF A IS NAVADMIN 110/21, U.S. NAVY COVID-19 STANDING GUIDANCE UPDATE 1. 
+REF B IS NAVADMIN 088/21, SARS-COV-2 VACCINATION AND REPORTING POLICY. 
+REF C IS NAVADMIN 289/21, GUIDANCE ENCOURAGING COVID-19 VACCINE BOOSTER. 
+REF D IS USD P&R FORCE HEALTH PROTECTION (FHP) SUPPLEMENT 15 REVISION 3 DOD 
+GUIDANCE FOR CORONAVIRUS DISEASE 2019 LABORATORY TESTING SERVICES AVAILABLE 
+AT https://www.defense.gov/Spotlights/Coronavirus-DOD-Response//Latest-DOD-
+Guidance/. 
+REF E IS THE SECRETARY OF DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 2019 
+VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS. 
+REF F IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-19 
+VACCINATION POLICY. 
+REF G IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY. 
+REF H IS NAVADMIN 268/21, REQUIRED COVID-19 TESTING FOR UNVACCINATED SERVICE 
+MEMBERS. 
+REF I IS NAVY AND MARINE CORPS PUBLIC HEALTH CENTER COVID-19 OMICRON VARIANT 
+AND BOOSTER EFFECTIVENESS. 
+REF J IS NAVY AND MARINE CORPS PUBLIC HEALTH CENTER U.S. NAVY FORCE HEALTH 
+PROTECTION WITH CONSIDERATIONS FOR VACCINE EFFICACY. 
+REF K IS NAVY AND MARINE CORPS PUBLIC HEALTH CENTER DOCUMENT ASSESSING REAL 
+COVID-19 RISK. 
+REF L IS USD P&R FORCE HEALTH PROTECTION (FHP) SUPPLEMENT 23 REVISION 3 DOD 
+GUIDANCE FOR CORONAVIRUS DISEASE 2019 VACCINATION ATTESTATION, SCREENING, 
+TESTING, AND VACCINATION VERIFICATION AVAILABLE 
+AThttps://www.defense.gov/Spotlights/Coronavirus-DOD-Response//Latest-DOD-
+Guidance/. 
+REF M IS NAVADMIN 086/21, UPDATED GUIDANCE TO COMMANDERS ON ADJUSTING HEALTH 
+PROTECTION CONDITIONS AND BASE SERVICES DURING COVID-19 PANDEMIC (CORRECTED 
+COPY). 
+REF N IS USD P&R FORCE HEALTH PROTECTION (FHP) SUPPLEMENT 20 REVISION 1 DOD 
+GUIDANCE FOR PERSONNEL TRAVELING DURING THE CORONAVIRUS DISEASE 2019 PANDEMIC 
+AVAILABLE AT https://www.defense.gov/Spotlights/Coronavirus-DOD-
+Response//Latest-DOD-Guidance/. 
+REF O IS NAVADMIN 165/21, SOVEREIGN IMMUNITY POLICY. 
+REF P IS NAVADMIN 180/21, UPDATE TO COVID-19 REPORTING REQUIREMENTS. 
+ 
+POC/OPNAV/CAPT STEVEN TARR III, (703) 614-9250//EMAIL: 
+STEVEN.TARR1.MIL(AT)US.NAVY.MIL 
+ 
+RMKS/ 1.  Purpose.  This NAVADMIN provides updated COVID-19 standardized 
+operational guidance and cancels and replaces references (A) and (B).  As a 
+result of our unblinking focus on personnel safety, our sailors and civilians 
+have proven resilient to the COVID-19 global pandemic. Vaccinations, vaccine 
+boosters, command engagement, and personal accountability continue to form 
+the foundation of our success.  Although Commanding Officers hold ultimate 
+responsibility for the health and welfare of their crews, in the case of a 
+persistent pandemic every member of every command must take personal 
+ownership and responsibility of the promulgated measures required to keep 
+COVID-19 in check. 
+ 
+2.  Applicability.  This guidance applies to all service members (active duty 
+and ready reserve) who are members of, or support, operational units as 
+defined by the applicable Navy Component Commander (NCC) per paragraph 
+4.e below.  Non-operational forces, civilian employees and contractor 
+personnel should follow the latest Department of Defense (DOD) Force Health 
+Protection, Center for Disease Control (CDC) and state/local area 
+guidance.  Additionally, host nation and/or higher-echelon Commanders 
+guidance may apply. 
+ 
+3.  Evolving Guidance.  The fight against COVID-19 has been dynamic.  Both 
+the data and the response to the data continue to evolve and the CDC is the 
+authority for COVID-19 measures for the general population.  The CDC 
+does not provide Navy-specific guidance.  The Navy Surgeon General is the 
+authority for Navy COVID-19 measures and advises the CNO on how best to apply 
+CDC guidance across the spectrum of Navy operating environments. 
+To date, the Navy has met or exceeded CDC guidance and continues to 
+experience a much lower incidence of adverse effects than the general 
+population.  Accordingly, and except as noted below in this NAVADMIN, 
+evolving CDC guidance related to virus behavior should first be evaluated 
+by the Navy Surgeon General prior to Fleet implementation. Questions 
+regarding applicable COVID-19 measures may be directed to the point of 
+contact (POC) listed above. 
+ 
+4.  Definitions.  All CDC definitions regarding COVID-19 apply and are kept 
+current on the CDC website:  https://www.cdc.gov/. 
+The following additional Navy definitions are provided: 
+4.a.  Immunized / Vaccinated:  Interchangeable terms for an individual who 
+has completed a primary vaccine series as defined in reference (C).  Term 
+applies two weeks after the final dose is received.  During the time period 
+from initial dose until two weeks after the final dose, an individual is 
+considered partially immunized/vaccinated. 
+4.b.  Vaccine Booster:  The vaccine booster is a time-based reinforcement of 
+the initial vaccine in order to prevent decreasing immunity.  A vaccine 
+booster is authorized greater than 5 months after a Pfizer/BioNTech or a 
+Moderna mRNA two-dose vaccine series, and greater than 2 months after a 
+Johnson and Johnson single-dose vaccine. Booster guidance is subject to 
+change and the most up to date information is available on the CDC website. 
+4.c.  High-risk personnel:  Those individuals designated by a medical 
+provider who meet CDC criteria for increased risk of severe 
+illness.  Qualifying conditions are included on the CDC website. 
+4.d.  Commander:  For the purposes of this NAVADMIN, the term Commander 
+includes Commanding Officers, Officers-in-Charge, Masters, and Aircraft 
+Commanders. 
+4.e.  Operational and non-operational forces:  For the purposes of this 
+NAVADMIN, operational forces and non-operational forces are defined by the 
+applicable NCC.  For operational forces, this might include deployed forces, 
+forces in sustainment, or other operational elements that the NCC determines 
+to fall within the intent and context of this NAVADMIN. 
+4.f.  Restriction of movement (ROM):  DOD term for limiting personal 
+interaction to reduce risk to a broader population.  Personnel executing 
+directed ROM remain in a duty status and will not be charged leave.  
+ROM-sequester is the Navy term for preemptive ROM in order to reduce risk of 
+infection in advance of movement. 
+4.g.  Health protection measures (HPM):  Comprehensive term for mitigation 
+measures that reduce the spread of COVID-19.  This includes physical 
+distancing, wearing of masks, and enhanced environmental 
+cleaning.  Recommended HPMs are included on the CDC website. 
+4.h. Viral test:  For the purposes of this NAVADMIN, and unless specifically 
+stated otherwise, a COVID test is defined as receiving a test that measures 
+antigen produced by the body's immune response (antigen test) or a test that 
+detects the actual presence of the virus (Polymerase Chain Reaction (PCR) 
+test). 
+4.i.  Close contact:  A person who was less than 6 feet away from another, 
+infected person (laboratory-confirmed or a clinical diagnosis) for a 
+cumulative total of 15 minutes or more over a 24-hour period (for example, 
+three individual 5-minute exposures for a total of 15 minutes). 
+ 
+5.  COVID-19 infected personnel and close contacts.  
+5.a.  Actions for personnel suspected of being infected. 
+5.a.1.  Symptomatic.  Test immediately those individuals exhibiting COVID-19 
+symptoms.  If symptomatic and positive, isolate the individual per paragraph 
+5.a.3. and identify close contacts per reference (D); if symptomatic and 
+negative, consult a medical provider prior to returning to work. 
+5.a.2.  Close contacts.  Asymptomatic close contacts should be tested 2-5 
+days after exposure, if testing is available (see paragraph 6).  Close 
+contacts may remain on duty but must wear a mask for 10 days. If symptoms 
+develop, test per paragraph 5.a.1. 
+5.a.3.  Isolation.  Isolate individuals who test positive for 5 days or until 
+symptoms are clearing, whichever is longer, including 24 hours with no 
+fever and without fever-reducing medication (day 0 is date of positive test 
+or symptom onset, whichever occurred first).  Isolation may be conducted 
+either ashore or afloat. Once released, individuals will wear a mask for an 
+additional 5 days (minimum 10 days total).  No exit testing is required and, 
+absent symptoms, prior positives should not be PCR tested for 90 days (per 
+paragraph 6.c)., 
+5.b.  Actions for unvaccinated personnel. 
+5.b.1.  Per references (E), (F) and (G), all operational Navy units are 
+assumed to be 100 percent vaccinated. Unvaccinated uniformed personnel should 
+only include those with an approved waiver, those awaiting waiver 
+disposition, or those processing for separation.  With the exception of 
+separation orders, unvaccinated personnel will not execute orders until the 
+COVID-19 Consolidated Disposition Authority (CCDA) has completed disposition 
+of their case. 
+ 
+6.  COVID-19 Testing. 
+6.a.  Testing Priority.  Personnel exhibiting COVID like symptoms are the 
+highest priority for testing. If testing asymptomatic close contacts per 
+paragraph 5.a.2. stresses testing supplies, or if operations preclude testing 
+(e.g., small, remote teams or depleted supplies), Commanders are authorized 
+to forego testing of asymptomatic close contacts. 
+6.b.  Testing of unvaccinated personnel.  Unvaccinated personnel shall follow 
+the testing requirements of reference (H) and paragraph 6.c. below. 
+6.c.  Testing of individuals previously infected with COVID-19.  Individuals 
+previously infected with COVID-19 may be asymptomatic and continue to test 
+positive by PCR for up to 90 days from date of initial diagnosis due to the 
+presence of persistent non-infectious viral fragments.  Therefore, prior 
+COVID positives are exempt from testing protocols for 90 days from the 
+earlier of symptom onset or first positive test (90-day rule). 
+Individuals exhibiting new or persistent symptoms during the 90-days 
+following infection should be evaluated by a medical provider. 
+6.d.  Surveillance / ship-wide testing.  Surveillance or ship-wide testing is 
+neither required nor recommended and has previously generated large numbers 
+of unmanageable persistent positives. 
+6.e.  Test procurement.  To ensure uninterrupted operations, and as feasible, 
+Commands will coordinate with their supporting supply activities to obtain 
+testing supplies 60 days in advance of need. 
+ 
+7.  Requirements for Operational units. 
+7.a.  Vaccine booster.  To promote maximum protection, NCCs should continue 
+the campaign for COVID-19 vaccine boosters.  Because all studies are 
+converging on the need for a vaccine booster to ensure enduring protection, 
+it has essentially become the next-shot in a series and will likely become 
+mandatory in the near future.  There is no shortage of vaccine booster doses 
+for those eligible. 
+7.b.  Medical screening.  Medical screening will include newly reporting 
+personnel and a command-wide monthly data review and assessment, as directed 
+by the applicable NCC.  An additional pre-deployment screening will be 
+completed within 7 days of deployment.  Medical screening shall be conducted 
+by medical providers and reported to the unit Commander to assist in 
+assessing risk and mitigations.  Screening will include, at a minimum, a 
+review of vaccination and vaccine booster status, an assessment of COVID-19 
+exposure history (those under the 90-day rule), and a review and assessment 
+of those with underlying risk factors (high-risk determination). 
+Unvaccinated Navy personnel shall not be assigned to operational units. 
+7.c.  Military Sealift Command (MSC).  MSC shall medically screen Civil 
+Service Mariners and contract personnel for deployment on MSC vessels in 
+accordance with existing MSC Quality Management System processes and 
+procedures. Unvaccinated personnel should not be assigned to operational 
+units, with exceptions approved and mitigated by Commander, MSC. 
+7.d.  Vaccinated High-risk personnel.  The decision to operate and deploy 
+with vaccinated high-risk personnel rests with the Commander, as advised by 
+medical providers, who must report intentions to their immediate superior in 
+command (ISIC).  High-risk personnel shall be PCR viral tested within 3 days 
+of embarking. 
+7.e.  Pre-deployment ROM-sequester.  Vaccinated individuals should not 
+normally be required to ROM- sequester ahead of planned operations.  In rare 
+circumstances, the applicable NCC may direct a ROM-sequester in response, 
+for example, to unanticipated virus behavior or in response to Geographic 
+Combatant Commander (GCC) and/or host nation requirements.  Foreign clearance 
+guidance is available at https://www.fcg.pentagon.mil/. 
+7.f.  Underway HPM.  As a result of demonstrated vaccine effectiveness, a 
+100% vaccinated operational force and a healthy demographic, serious illness 
+or death resulting from COVID-19 for vaccinated individuals is statistically 
+very unlikely, and modeling contained in references (I), (J), and (K) 
+indicates this will continue in the context of current variants.  However, 
+the increasing contagious nature of evolving variants can result in 
+unmanageable numbers of even mild symptomatic positives that may pose general 
+health and operational unit risk, i.e. risk to force (RTF) or risk to mission 
+(RTM), regardless of symptom severity. The following HPM, at a minimum, is 
+required: 
+7.f.1.  Medical screening as outlined above in paragraph 7.b. 
+7.f.2.  Wearing masks for the first 10 days (analogous with paragraph 5 
+requirements) after leaving port if more than 25% of the total crew meets the 
+requirements for, but has not yet received, the vaccine booster. 
+At Commanders discretion, masks may be removed if there is no evidence of 
+COVID infection for 10 days (no positive symptomatic and no isolations).  At 
+the onset of COVID on board, and if still greater than 25% have not received 
+the vaccine booster, return to wearing masks until there is no longer 
+evidence of COVID.  Although all vaccinated personnel have demonstrated 
+protection against serious illness or death, this percentage indicates 
+decreasing immunity and the potential for increasing numbers of symptomatic 
+individuals requiring isolation. 
+7.f.3.  Educate and reinforce self-monitoring for symptoms and prompt 
+reporting. 
+7.f.4.  Educate and reinforce frequent handwashing and social distancing, 
+when applicable. 
+7.f.5.  Aggressively isolate COVID-19 positive individuals per paragraph 5 
+above. 
+7.f.6.  Ensure adequate ventilation in spaces routinely manned. 
+7.f.7.  Educate and reinforce focused cleaning efforts on high-touch 
+surfaces, at least daily or more frequently, depending upon usage (e.g., 
+tables, hatch latches, ladderwells, phones, watch console keyboards and 
+buttons, toilets, faucets, sinks, etc.).  Although remote, there is evidence 
+of surface spread of COVID-19 and other viruses with similar symptoms. 
+7.g.  Considerations for adding or relaxing HPM. NCCs and Commanders should 
+consider for any unit the operational impact resulting from the number 
+of sailors in isolation, either ashore or afloat, regardless of percentage of 
+immunized personnel, boosted personnel, or severity of symptoms.  Commanders 
+may elevate HPM at any time and retain the latitude to temporarily apply 
+alternate HPM in lieu of isolation to support safe operations.  An example 
+might be a rapid spread that compels a Commander to utilize 
+asymptomatic or mildly symptomatic positives to manage watch-bill impact 
+while recovering others in isolation, applying additional alternate measures 
+as needed to minimize spread. The following should be considered before 
+adjusting HPM: 
+7.g.1.  Overall number of individuals in isolation and trend. The general 
+rule of thumb for a COVID outbreak trending in a favorable direction is that 
+the number of those exiting isolation matches (flattening curve) or exceeds 
+(lowering curve) those entering isolation, combined with the assessment 
+that the total number of symptomatic individuals is manageable and improving, 
+and watch-bill (operational) impact is manageable and improving. 
+7.g.2.  Proximity of a units access to shore and afloat Medical Treatment 
+Facilities (MTF) within a medically relevant timeline, balanced with 
+paragraph 
+7.f HPM and onboard trend.  Rule of thumb is within 1-week of an MTF for 100 
+percent vaccinated crew with a manageable COVID-positive case load; moving to 
+a more restrictive, 72 hours or less, if a growing or concerning case load; 
+or, moving to a less restrictive, beyond 1-week, if a small or no case load. 
+7.h.  Port visits.  Liberty is an important mission and should be pursued 
+within the context of this NAVADMIN. Geographic NCCs (GNCC) will set 
+conditions for foreign port off-base liberty in coordination with country 
+teams and local authorities, taking into account host country requirements, 
+vaccination and booster status, sovereign immunity per paragraph 8 below, 
+COVID-19 prevalence and mission requirements. 
+7.i.  Aircraft operations.  On a case-by-case basis, aircrews and aircraft 
+maintainers may be exempt from this guidance in order to meet emergent 
+operational or NATOPS currency requirements. Exemptions and mitigation plans 
+must be approved by the Squadron Commander.  For aviation units 
+embarked on surface ships, mitigation plans will be coordinated with the 
+ships health protection plan and approved by the ships Commanding Officer. 
+7.j.  Post-deployment.  Personnel returning to homeports from deployment 
+shall follow CDC and U.S. Department of State travel and testing 
+requirements. If return travel includes foreign countries, personnel shall 
+adhere to the requirements of those countries as well.  Updated travel 
+information is on the following website: 
+https://travel.state.gov/content/travel.html. 
+7.k.  Visitors embarking underway vessels and Navy aircraft.  All visitors 
+are required to be vaccinated in accordance with reference (L), and, if 
+eligible, have received a vaccine booster. Masks will be worn during transit; 
+and for ships, 10 days once onboard. 
+ 
+8.  Sovereign immunity. 
+8.a.  It is U.S. Government policy to protect the sovereign immunity of 
+warships, naval auxiliaries, and aircraft, including protecting crew 
+information to the maximum extent possible. Within the context of COVID-19, 
+host nations may request or require crew or ship information exceeding that 
+authorized by U.S. policy or international law.  NCCs will ensure appropriate 
+training and guidance on protecting U.S. sovereign immunity and the 
+protection of health information as part of OPSEC/personal security. 
+8.b.  GNCCs should determine in advance those host nations that may challenge 
+our sovereign immunity and, as able, avoid them.  See reference (O) for 
+additional guidance.  In all cases, GNCCs shall authorize the minimum 
+information necessary in order to meet operational requirements.  The 
+Navy Declaration of Health (NAVMED 6210/3) is the only authorized form for 
+providing health information to foreign officials.  If required by the host 
+nation, and with GNCCs concurrence, Commanders at their discretion may 
+include on the NAVMED 6210/3 that their unit is 100% vaccinated, those 
+disembarking will have tested negative within the required timeframe, and 
+those disembarking have received a vaccine booster. 
+8.c.  Exception to Policy (ETP).  On a case-by-case basis, and to support 
+operations, OPNAV may grant an exception to policy (ETP) in deference to the 
+varying impacts of COVID-19. Any action that may constitute or require a 
+waiver of sovereign immunity must be coordinated by the applicable GNCC with 
+OPNAV N3N5 for ETP approval no later than 5 days ahead of need. 
+To avoid precedence beyond COVID-19, any ETP will be messaged to the host 
+nation as explicitly linked to the pandemic.  Requests shall include 
+justification for port selection; host nation mitigation and testing 
+requirements; alternate port options; impact to mission if the request 
+is denied; medical, legal, collection and privacy risk; and feedback from 
+country team coordination. 
+Notifications and requests may be sent via record message traffic, email to 
+the POC provided above, or both. 
+8.d.  Guidance for Commanders.  Per the direction of their GNCCs, Commanders 
+shall comply with domestic and foreign quarantine regulations for port entry 
+and document compliance on NAVMED 6210/3.  Absent GNCC approval in advance, 
+Commanders will not submit to host nation COVID-19 testing nor provide 
+individual or collective medical data, copies of health records, nor any 
+supplementary or locally demanded health forms, and shall not grant access 
+to ship or crew health records or allow the same to be searched or inspected 
+by host nations.  If circumstances compel a Commander to acquiesce to 
+additional host nation requirements without obtaining an ETP or GNCC 
+concurrence (e.g., personnel emergency, weather avoidance), report the event 
+and circumstances to OPNAV N3N5 via the chain of command as soon as 
+practicable. 
+ 
+9.  Reporting procedures.  Reporting procedures are amended as follows and 
+will be incorporated in the next revision of reference (P).  OPREP-3 Navy 
+Blue messages for COVID cases that do not result in death, request for 
+assistance, or operational impact may instead be reported via SharePoint.  If 
+unable to report via SharePoint, a single daily OPREP-3 Navy Unit SITREP 
+summarizing all COVID cases onboard is required.  SharePoint information is 
+used to produce daily reports to Senior Navy and DoD Leadership. 
+ 
+10.  Released by VADM W. R. Merz, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
