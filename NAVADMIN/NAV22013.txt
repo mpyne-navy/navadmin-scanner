@@ -1,0 +1,120 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 261859Z JAN 22 MID200001412340U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 013/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN// 
+ 
+SUBJ/ADAPTIVE MOBILIZATION// 
+ 
+REF/A/NAVADMIN/CNO WASHINGTON DC/032039ZAPR20// 
+REF/B/DOC/TITLE 10 U.S.C.// 
+REF/C/DOC/OPNAV/17AUG18// 
+REF/D/DOC/CNO/11JAN21// 
+REF/E/DOC/OPNAV/13OCT11// 
+REF/F/DOC/OPNAV/13DEC21// 
+REF/G/DOC/OPNAV/26FEB21// 
+ 
+NARR/REF A IS NAVADMIN 099/20, MOBILIZATION PROCESSING OF NAVY RESERVE 
+PERSONNEL IN SUPPORT OF COVID-19 RESPONSE OPERATIONS.   
+REF B IS TITLE 10 U.S.C. SECTIONS 12301 THROUGH 12304B.   
+REF C IS OPNAVINST 3060.7C, NAVY MANPOWER AUGMENTATION GUIDE.   
+REF D IS CNO NAVIGATION PLAN 2021.   
+REF E IS OPNAVINST 5400.44A, NAVY ORGANIZATION CHANGE MANUAL.   
+REF F IS OPNAVNOTE 5400, NOTICE FOR ISIC SHIFT.   
+REF G IS OPNAVINST 5440.77C, U.S. FLEET FORCES MISSION FUNCTIONS AND TASKS.// 
+ 
+RMKS/1.  This NAVADMIN cancels reference (a) and allows for alternate 
+pathways for the mobilization processing of Sailors in the Ready Reserve 
+ordered to Active Duty pursuant to reference (b) and for Sailors on Active 
+Duty preparing to deploy individually in support of overseas 
+contingencies.  Adaptive mobilization (AM) is the use of mobilization 
+pathways tailored to the mission requirements of the ultimate duty 
+station.  This NAVADMIN establishes AM, provides exceptions to policies that 
+require mobilizing Sailors to process through Navy mobilization processing 
+sites commanded by the Expeditionary Combat Readiness Center (EXPCBTREDCEN) 
+per reference (c), designates Commander, Navy Reserve Force (COMNAVRESFOR) as 
+the Navy supported commander for Ready Reserve activation and deactivation 
+and directs the command and control transfer of EXPCBTREDCEN to Commander, 
+Navy Reserve Forces Command (COMNAVRESFORCOM). 
+ 
+ 
+2.  AM enables the Navy to respond with speed and quantity of personnel in 
+support of a large-scale contingency.  The AM construct applies to both 
+Active and Reserve Sailors ordered to serve in individual augmentee (IA) 
+assignments and establishes a mobilization to billet pathway (MOB-to-billet) 
+for Selected Reserve (SELRES) Sailors.  MOB-to-billet is the activation 
+(other than for training) of SELRES Sailors to serve in the authorized and 
+funded manpower billet at the command to which they are permanently 
+assigned.  The establishment of MOB-to-billet processing pathways aligns with 
+reference (d) to develop a seasoned team of Naval warriors by using the Navy 
+Reserve Component in critical roles at sea and ashore rather than as IAs. 
+ 
+3.  COMNAVRESFOR is designated as the supported commander for Ready Reserve 
+activation and deactivation processing.  This key policy change leverages 
+COMNAVRESFORs nationally distributed infrastructure of Navy Reserve 
+Activities to activate SELRES personnel and minimizes the interim stops that 
+Sailors are required to make between their home of record and their ultimate 
+duty station during MOB-to-billet and Navy IA mobilizations. 
+ 
+4.  COMNAVRESFOR shall 
+    a.  Coordinate with the Chief of Naval Personnel (OPNAV N1), Chief of 
+Navy Reserve (OPNAV N095), Navy Personnel Command and U.S. Fleet Forces 
+Command (COMUSFLTFORCOM) to update policies and refine procedures necessary 
+to perform activation and deactivation processing for the Ready Reserve. 
+    b.  Provide assessments and recommendations to OPNAV N095 and OPNAV N1 to 
+improve activation and deactivation policies, processes and procedures that 
+will enable an effective mass mobilization capability for the Navy.  The Navy 
+will establish the capability to activate 50,000 SELRES personnel within 30 
+days in order to provide Fleet and Joint commanders the predictability 
+necessary for effective operational planning. 
+ 
+5.  Command and control of EXPCBTREDCEN shall transfer from Commander, Navy 
+Expeditionary Combat Command (COMNECC) to COMNAVRESFORCOM to align personnel 
+mobilization support functions under one Navy commander.  Authority and 
+responsibility of type commander (TYCOM) and local area coordinator for 
+mobilizations (LACMOB) delineated in reference (c) shall transfer from 
+COMNECC to COMNAVRESFORCOM.  Command, TYCOM and LACMOB authorities transfer 
+consistent with references (e) and (f).  Control functions will transfer in a 
+conditions-based phased process throughout Fiscal Year 2022, concluding on or 
+about 1 October 2022.  Commands that have officially been delegated LACMOB 
+authority shall retain this authority until superseded or cancelled. 
+ 
+6.  Per reference (g), COMUSFLTFORCOM shall maintain roles and 
+responsibilities as U.S. Navy global force manager and will continue 
+to serve as CNOs designated executive agent for IA. 
+ 
+7.  Reference (c) will be revised and updated to reflect these policy 
+changes.  COMNAVRESFOR and COMUSFLTFORCOM may provide interim guidance that 
+deviates from reference (c) according to their roles and responsibilities 
+established with this message. 
+ 
+8.  Points of Contact 
+    a.  CAPT J. A. Perkins, OPNAV N13R, at (703) 604-5050 or via e-mail at 
+juliet.a.perkins2.mil(at)us.navy.mil 
+    b.  CAPT T. H. Healy, OPNAV N0955, at (703) 614-4384 or via e-mail at 
+thomas.h.healy.mil(at)us.navy.mil 
+    c.  CAPT D. R. Wilkinson, USFF N1B, at (757) 836-5254 or via e-mail at 
+donald.r.wilkinson12.mil(at)us.navy.mil 
+    d.  CAPT J. M. Spagnoli, CNRF N3, at (757) 322-6688 or via e-mail at 
+joseph.m.spagnoli(at)navy.mil 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+10.  Released by Vice Admiral John B. Nowell, Jr, N1, in concurrence with 
+Vice Admiral John B. Mustin, N095.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
