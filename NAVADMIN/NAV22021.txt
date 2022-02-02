@@ -1,0 +1,155 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 011935Z FEB 22 MID600051482153U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 021/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES FOR NUCLEAR TRAINED 
+ENLISTED PERSONNEL// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/101615ZDEC15// 
+REF/B/MSG/CNO WASHINGTON DC/ 151503ZJUL19// 
+ 
+NARR/REF A IS NAVADMIN 284/15, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATES 
+FOR NUCLEAR TRAINED ENLISTED PERSONNEL.   
+REF B IS NAVADMIN 157/19, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE FOR 
+NUCLEAR TRAINED JUNIOR STAFF INSTRUCTORS.// 
+ 
+RMKS/1.  This NAVADMIN updates and replaces the sea shore flow (SSF) career 
+path in reference (a).  The SSF career path for junior staff instructors 
+(JSI) outlined in reference (b) remains in effect. 
+ 
+2.  The Nuclear Propulsion Program Manager (OPNAV N133) identified a downward 
+trend in reenlistment behavior in selective reenlistment bonus (SRB) Zone B 
+(six to ten years of service) in the nuclear enlisted community.  The nuclear 
+aggregate reenlisted inventory in SRB Zone B is at 76 percent of the overall 
+zone goal as of October 2021.  Submarine and surface reenlisted inventories 
+in SRB Zone B are at 84 percent and 63 percent, respectively, of their zone 
+goals. 
+Some modifications to the current SSF career path outlined in reference (a) 
+are required to ensure continued success for Sailors that comprise the Naval 
+Nuclear Propulsion Program enterprise.  
+These changes improve alignment between the nuclear SSF career path and the 
+eligibility requirements for reenlisting with SRB in Zone B. The changes 
+outlined below in paragraph 3 provide the following advantages for Sailors 
+who reenlist in SRB Zone B: 
+    a.  Provides the obligated service (OBLISERV) necessary for a Sailors 
+first shore tour and does not commit the Sailor to a second sea tour. 
+    b.  Allows Sailors to earn a Zone B bonus to OBLISERV for their 
+shore tour. 
+    c.  Provides the ability for applicable Sailors to transfer GI Bill 
+benefits to their dependents without committing to a second sea tour. 
+    d.  Provides the opportunity to earn a college degree while on shore duty 
+by either using the GI Bill or tuition assistance. 
+    e.  Provides the opportunity to earn higher-level qualifications 
+(e.g., engineering watch supervisor or propulsion plant watch supervisor) and 
+serve in senior leadership positions on a Sailors first sea tour. 
+    f.  Provides better at-sea watch bill flexibility due to increased at-sea 
+manning. 
+ 
+3.  The modifications to the SSF contained in reference (a) are as follows 
+    a.  Extends the first sea tour from 48 months to 54 months. 
+    b.  Adjusts the two career milestone gates to 10.5 years and 17.5 years 
+for the second sea tour and third sea tour, respectively. 
+    c.  Maintains all follow-on sea tours after the first sea tour at 40 
+months for all paygrades. 
+    d.  Maintains shore tour lengths as prescribed in reference (a). 
+ 
+4.  The modified SSF is displayed in paragraph 5.  The initial training 
+pipeline for all Sailors is set to a nominal length of 24 months.  Sea tours 
+are annotated below as SEA and shore duty is annotated as SHR.  All numbers 
+in paragraph 5 are in months. 
+ 
+5.  The SSF is modified as follows for a Sailor who does not serve as a JSI 
+    SEA1 SHR1 SEA2 SHR2 SEA3 SHR3 SEA4 SHR4 
+     54   36   40   36   40   36   40   36 
+NOTE 1:  Navy Personnel Command, Enlisted Submarine/Nuclear Power assignments 
+(PERS-403) will issue shore tour orders up to 40 months for billets that 
+require additional training or qualification. 
+ 
+6.  The career milestone gates will be utilized as follows 
+    a.  PERS-403 will not delay a Sailors return to sea to align them with 
+these gates. 
+    b.  If a Sailor is behind the nominal SSF career path and approaching a 
+gate, PERS-403 will adjust the Sailors future tour lengths when issuing 
+orders to align their planned rotation date with the gate or obtain a waiver 
+from OPNAV N133 to exceed the gate. 
+A Sailors shore tour length would normally not need to be reduced if the 
+nominal SSF was being executed. 
+    c.  PERS-403 will maintain shore tour lengths of at least 24 months (plus 
+any required training or qualification period) unless a waiver is received. 
+    d.  Sailors who are unable to meet a gate will be handled on a  
+case-by-case basis and will require a waiver submitted by PERS-403 and 
+approved by OPNAV N133. 
+ 
+7.  These policy changes will require close coordination between the command, 
+each nuclear-trained enlisted Sailor and PERS-403 to facilitate a smooth 
+transition to the new SSF.  Therefore, implementation of these changes will 
+be phased as follows: 
+    a.  Effective immediately, all new first sea tour orders issued by  
+PERS-403 will comply with the tour lengths shown in paragraph 5. 
+    b.  The 10.5-year and 17.5 year gate discussed in paragraph 3 are 
+effective immediately.  Waivers are required to exceed these gates, as 
+discussed in paragraph 6. 
+    c.  To allow Sailors and their families time to plan for potential future 
+duty station changes, projected rotation date (PRD) changes should be made 
+using the following guidance.  The *effective date* referenced below is 1 
+April 2022 to coincide with the April/May 2022 MyNavy Assignment cycle. 
+        (1) For Sailors on their first sea tour: 
+            (a) Sailors within 12 months of their previously established PRD 
+at the time of the effective date will not have their PRD shifted unless the 
+Sailor routes an enlisted personnel action request (NAVPERS 1306/7) that is 
+endorsed by the command specifically requesting the PRD change. 
+            (b) Sailors who have a PRD greater than 12 months, but less than 
+or equal to 14 months from the effective date, will have their PRD shifted to 
+align to a 50-month sea tour, unless otherwise requested by the command. 
+            (c) Sailors who have a PRD greater than 14 months, but less than 
+or equal to 16 months from the effective date, will have their PRD shifted to 
+align to a 52-month sea tour, unless otherwise requested by the command. 
+            (d) Sailors who are greater than 16 months from their PRD from 
+the effective date will have their PRD shifted to align with the new SSF. 
+    d.  Within three months of the date of this NAVADMIN, all commands shall 
+submit a PRD planning letter or message to PERS-403 using the guidance of 
+paragraph 7c.  PERS-403 will coordinate with OPNAV N133 to adjudicate waivers 
+to the career milestone gates based on the information received. 
+ 
+8.  A downloadable graphic that displays the modified SSF is available on the 
+OPNAV N133 website at the following address: 
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted/Nuclear/CCC-Toolbox/.   
+Commands are encouraged to download this product and post it for Sailors to 
+review. 
+ 
+9.  Points of contact.  For all questions and concerns, leaders and Sailors 
+should contact the following individuals: 
+    a.  Nuclear Enlisted Community Management Team (OPNAV (N133D)) at the 
+following: 
+        (1) CDR James Kepper at (703) 604-5493/DSN 664 or via e-mail at 
+james.h.kepper2.mil(at)us.navy.mil. 
+        (2) ETNCM Jeffrey Neese at (703) 604-5492/DSN 664 or via e- mail at 
+bullnuke(at)navy.mil. 
+    b.  PERS-403 at the following: 
+        (1) LCDR Randall Hangartner, PERS-403, at (901) 874-3636/ 
+DSN 882 or via e-mail at randall.e.hangartner.mil(at)us.navy.mil. 
+        (2) EMNCM(SS) Angelo Galindo, PERS-403, at 
+(901) 874-4696/DSN 882 or via e-mail at nuclearkhaki(at)navy.mil. 
+ 
+10.  This message supersedes reference (a) and will remain in effect until 
+superseded or canceled, whichever occurs first. 
+ 
+11.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
