@@ -1,0 +1,83 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 012157Z FEB 22 MID600051482807U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 022/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JAN// 
+ 
+SUBJ/NAVY TRANSITION TO TASK MANAGEMENT TOOL - ANNOUNCEMENT// 
+ 
+REF/A/DOC/DON AA WASHINGTON DC/20220119// 
+REF/B/DOC/DNS AND DMCS WASHINGTON DC/20220129// 
+REF/C/DOC/OPNAV/20130814// 
+ 
+AMPN/Reference (a) is DON Assistant for Administration memo, New DON Task 
+Management System Way Ahead.  
+Reference (b) is DNS and DMCS joint letter, Transition to the Task Management 
+Tool.  
+Reference (c) is OPNAVINST 5222.1, Navy Taskers Business Rules.// 
+ 
+RMKS/1.  Purpose. This NAVADMIN announces the timeline and plan for 
+transition to a new Department of the Navy (DON) Task Management System. 
+Per reference (a), the Office of the Secretary of Defense (OSD) directed DON 
+convert from the current system, the Department of the Navy Tasking, Records, 
+and Consolidated Knowledge Enterprise Repository (DON TRACKER), to the 
+Enterprise Task Management System 2.0 (ETMS2), commonly referred to as Task 
+Management Tool (TMT). The Secretary of the Army is the Executive Agent for 
+TMT. 
+ 
+2.  Background. DON, Navy and Marine Corps successfully transitioned 
+Congressional Information Management System (CIMS) users to ETMS2 in 
+December 2021. Reference (b) outlines Navy's transition from DON TRACKER 
+to TMT which includes the Senior Leader Approval Process (SLAP). 
+ 
+3.  Timeline. The following implementation plan is provided for Navy's 
+transition from DON TRACKER to ETMS2: 
+    a.  Phase I commences immediately. In Phase I, all organizations will: 
+        (1) Conduct a comprehensive review of all NIPR and SIPR taskers in 
+DON TRACKER and close out any inactive taskers. 
+        (2) Commence training for all daily users and approving officials. 
+Approving officials are those senior leaders, typically O6 or GS-15 and 
+above, and principal officials designated to sign official documents 
+on behalf of their command.  Training guidance will be provided in a 
+subsequent NAVADMIN. 
+    b.  Phase II - 1 March 2022. My Director of Administration (DNS-1) 
+will provide the fleet a "state of training" and expound on the role 
+our senior leaders and principal officials in the full electronic routing 
+of tasks in ETMS2 using SLAP. 
+    c.  Phase III - 1 April 2022. 
+        (1) All organizations will have: 
+            (a) Completed a comprehensive review of all NIPR and SIPR 
+taskers in DON TRACKER and closed out any inactive taskers. 
+            (b) Completed Beginner Training (minimum) for all daily users. 
+Training guidance is found in paragraph 4 of this NAVADMIN. 
+            (c) Completed the Senior Leader Course. Senior leaders are 
+typically O6 and GS15 and above, and principal officials who sign official 
+documents on behalf of their command. Training guidance is found in 
+paragraph 4 of this NAVADMIN. 
+        (2) DNS-1 will: 
+            (a) Report Navy's readiness for transition to NIPR and SIPR 
+ETMS2. 
+            (b) Release an update to reference (c). 
+    d.  Phase IV - 1 May 2022. All Navy will: 
+        (1) "Go Live" in NIPR and SIPR ETMS2. SLAP is fully functional to all 
+users. 
+        (2) The "Create New Tasker" function in DON TRACKER is disabled. 
+ 
+4.  Applicability. This NAVADMIN is applicable to commands using DON TRACKER 
+as the Navy's primary Task Management Solution. 
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

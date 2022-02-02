@@ -1,0 +1,149 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 021428Z FEB 22 MID600051484537U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 023/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N2N6// 
+INFO CNO WASHINGTON DC//N2N6// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// 
+ 
+SUBJ/NAVY HIGH RISK REVIEW PROCESS// 
+ 
+REF/A/MSG/OPNAV N2N6/111857ZJUL19// 
+REF/B/LTR/DDCIO(N)/18SEP2015// 
+REF/C/LTR/DDCIO(N)/18MAY2016// 
+REF/D/DOC/DOD/29DEC2020// 
+REF/E/DOC/OPNAV/18JUL2018// 
+REF/F/MSG/USSTRATCOM/291941ZMAY20// 
+REF/G/DOC/OPNAV N2N6D/FEB 22// 
+ 
+NARR/REF A IS NAVADMIN 154/19, NAVY ECHELON I HIGH RISK ESCALATION PROCESS.   
+REF B IS DEPARTMENT OF THE NAVY DEPUTY CHIEF INFORMATION OFFICER (NAVY) 
+MEMORANDUM ON NEW REQUIREMENTS FOR HIGH RISK ESCALATION SUBMISSIONS.   
+REF C IS DEPARTMENT OF THE NAVY DEPUTY CHIEF INFORMATION OFFICER (NAVY) 
+MEMORANDUM ON HIGH RISK ESCALATION ADVISORY GROUP STANDARD OPERATING 
+PROCEDURE.   
+REF D IS DODI 8510.01, RISK MANAGEMENT FRAMEWORK (RMF) FOR DOD INFORMATION 
+TECHNOLOGY (IT).   
+REF E IS OPNAVINST 5239.1D, U.S. NAVY CYBERSECURITY PROGRAM.   
+REF F IS USSTRATCOM GENADMIN, NUCLEAR COMMAND, CONTROL, AND COMMUNICATIONS 
+CYBERSECURITY REQUIREMENTS.   
+REF G IS N2N6D HIGH RISK REVIEW (HRR) PROCESS STANDARD OPERATING PROCEDURE, 
+LOCATED AT 
+https://portal.secnav.navy.mil/ORGS/OPNAV/N2N6/DDCION/SitePages/Home.aspx 
+POC/MEGAN CANE/CIV/OPNAV N2N6D6/TEL:  (703) 692-1657 
+/EMAIL:  MEGAN.A.CANE.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN cancels references (a) through (c). 
+ 
+2.  This NAVADMIN provides direction on the Navy High Risk Review (HRR) 
+process and applies to all U.S. Navy (USN) Information Technology (IT) as 
+defined in references (d) and (e). 
+    a.  All program managers and system owners must be familiar with the HRR 
+process as any program can become high or very high risk at some point in the 
+life cycle of a system or circuit. 
+    b.  The HRR process evaluates the programmatic, technical, and 
+operational risk, impact, and mission criticality to determine whether the 
+continued operation of a network, system, or circuit with residual high or 
+very high risk is justified. 
+        (1) All risk assessments will be based on available information, 
+regardless of format.  Any lack of information will inform the confidence 
+level of the assessment. 
+        (2) Operational and technical risk assessments will consider 
+cybersecurity threat-based intelligence as well as measures implemented to 
+mitigate vulnerability exploitation. 
+ 
+3.  Review Process 
+    a.  HRR is a 3-tier review process with analysis focused on identifying 
+exploitable cybersecurity risks of the system, enclave, and platform. 
+        (1) The programs and/or system owners are responsible for identifying 
+programmatic risk. 
+        (2) The Navy cybersecurity Technical Authority, Naval Information 
+Warfare Systems Command, assesses the technical cybersecurity risk of 
+adversary exploitation based on known deficiencies of system design. 
+        (3) Fleet Commanders (U.S. Pacific Fleet, U.S. Fleet Forces Command, 
+and Fleet Cyber Command) provide their assessment of the operational risk to 
+mission and operations if the system is disconnected or exploited. 
+        (4) OPNAV N2N6 considers the factors above, as well as risk to joint 
+integration, in the holistic risk assessment. 
+    b.  The 3-tier review process includes a designated representative from 
+each voting command at the rank/rate of the applicable board in sequential 
+order: 
+        (1) The O6/GS-15 HRR Board will develop Courses of Action (COAs), 
+which must include a fully resourced plan to exit HRR; 
+        (2) The 1-Star Flag Officer (FO) or Senior Executive Service (SES) 
+HRR Board will refine and recommend COAs with the cognizant system/program 
+command 1-Star FO/SES; and 
+        (3) The 3-Star FO/SES HRR Board will adjudicate the COAs, finalize 
+recommendations, and forward to Department of the Navy (DON) Chief 
+Information Officer (CIO) for consideration and decision. 
+    c.  Authorizing Officials (AOs) retain the authority to issue a Denial of 
+Authorization to Operate (DATO) if the residual cybersecurity risk of 
+adversary 
+exploitation is unacceptable. 
+    d.  Systems, networks, and circuits under cognizance of U.S. Strategic 
+Command (USSTRATCOM) or U.S. Space Force (USSF). 
+        (1) Require additional time to process per reference (f).  Paragraph 
+5 details the HRR process timeline, including the additional time to support 
+USSTRATCOM or USSF processes. 
+        (2) Final 3-Star FO/SES HRR Board recommendations will be forwarded 
+to DON CIO for consideration. 
+        (3) The cognizant AO will forward the DON CIO endorsement 
+recommendation to USSTRATCOM or USSF for consideration. 
+ 
+4.  HRR process.  Specific details on the execution of the HRR process can be 
+found in reference (g), HRR Standard Operating Procedure (SOP). 
+    a.  The FCC/C10F Warning Order (WARNORD) or AO/USSTRATCOM/USSF equivalent 
+notification will be used to identify expired or expiring systems and 
+circuits for the HRR process. 
+    b.  Programs without a Security Control Assessor (SCA) endorsed Security 
+Assessment Report (SAR) 60-days prior to Authorization Termination Date (ATD) 
+will be evaluated by the cognizant AO for DATO or entry into the HRR process. 
+        (1) If a SAR is not available, the SCA must consider all available 
+technical evidence to make an initial risk assessment. 
+        (2) Technical evidence includes but is not limited to defense-in-
+depth architecture, vulnerability assessment results (e.g. scanning, red 
+team, etc.), and explanation of system impact if the high or very high 
+vulnerabilities are exploited. 
+    c.  System Owners assessed by the SCA as having non-compliant controls 
+with a level of risk of "Very High" or "High" that cannot be corrected or 
+mitigated immediately will enter the first tier of the 3-tier review process. 
+ 
+5.  Exiting HRR.  To exit HRR, systems/circuits must: 
+    a.  Achieve a moderate or low risk SAR endorsed by the cognizant SCA; or 
+    b.  Decommission; or 
+    c.  Be issued a DATO 
+ 
+6.  Urgent HRR Request Process 
+    a.  System owners may request an urgent HRR if: 
+        (1) A new vulnerability or threat is assessed by the cognizant SCA as 
+high or very high cybersecurity risk of adversarial exploitation AND; 
+        (2) Any delay(s) or gap(s) in authorization will impact a Navy 
+critical installation and/or capability. 
+    b.  System owners requesting urgent consideration are not exempt from the 
+normal Risk Management Framework or HRR processes. 
+    c.  Urgent consideration may grant systems short-term authorizations to 
+allow time for the system owner to brief at the next available HRR. 
+    d.  System owners should notify OPNAV N2N6D and AO as soon as there is 
+any indication of delay in order to help prevent urgent consideration. 
+ 
+7.  HRR In Progress Reviews (IPRs).  HRR IPRs are required for programs that 
+receive a high risk ATO to track progress and alert key stakeholders of any 
+expected challenges/delays requiring attention. 
+ 
+8.  This NAVADMIN will remain in effect until cancelled or superseded. 
+ 
+9.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

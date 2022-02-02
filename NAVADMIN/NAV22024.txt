@@ -1,0 +1,93 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 021612Z FEB 22 MID600051484946U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 024/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// 
+ 
+SUBJ/UNCLASSIFIED WIRELESS NETWORK USE IN COLLATERAL CLASSIFIED SPACES// 
+ 
+REF/A/MSG/OPNAV N2N6/181220ZDEC15// 
+REF/B/DOC/DOD/03NOV17// 
+REF/C/DOC/DOD/14APR04// 
+REF/D/MSG/OPNAV N2N6/271858ZMAY20// 
+ 
+NARR/REF A IS NAVADMIN 290/15, USE OF UNCLASSIFIED NAVY AND MARINE CORPS 
+INTRANET LAPTOPS WITH EMBEDDED WIRELESS.   
+REF B IS DODI 8420.01, COMMERCIAL WIRELESS LOCAL-AREA NETWORK DEVICES, 
+SYSTEMS, AND TECHNOLOGIES.   
+REF C IS DODD 8100.02, USE OF COMMERCIAL WIRELESS DEVICES, SERVICES, AND 
+TECHNOLOGIES IN THE DOD GLOBAL INFORMATION GRID.   
+REF D IS NAVADMIN 148/20, UPDATED POLICY FOR THE USE OF EMBEDDED COMPUTER 
+CAPABILITIES AND PERIPHERALS TO SUPPORT TWO-WAY COLLABORATION (CORRECTED 
+COPY)// 
+POC/CAPT DARYK ZIRKLE/MIL/N2N6D4/TEL:  (703) 695-7468/ 
+EMAIL:  DARYK.E.ZIRKLE.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  This policy does not apply to Sensitive Compartmented Information 
+Facilities (SCIFs).   This NAVADMIN supersedes reference (a) and establishes 
+policy for the acceptable use of Wireless Local-Area Networks (WLANs) in 
+spaces where collateral classified information is processed. 
+ 
+2.  Navy commands are authorized to operate WLANs in spaces where collateral 
+classified information systems operate when: 
+    a. The command has fully complied with references (b) and (c), with 
+special attention to reference (b) paragraph 1.1.a.(2) and its glossary. 
+    b. WLAN has a valid authorization to operate (ATO). 
+ 
+3.  User responsibilities in collateral classified spaces where WLANs are 
+authorized: 
+    a. Maintain at least 1 meter separation between unclassified wireless 
+    transmitters and equipment processing classified information, per 
+reference (b) paragraph 3.6. 
+    b. Users are responsible for ensuring compliance with reference (d) while 
+    using government issues devices. 
+    c. Non-government issued devices with embedded wireless transmitters 
+(e.g., personal hot spots, laptops, tablets, Wi-Fi, etc.) and all cell phones 
+remain prohibited in Navy collateral classified spaces. 
+ 
+4.  If full compliance with references (b) and (c) is not possible, users are 
+directed to disable embedded wireless transmitters in collateral classified 
+spaces. 
+    a. User responsibilities in collateral classified spaces where WLANs are 
+NOT authorized: 
+        (1)Users are responsible for ensuring government issued devices with 
+embedded wireless transmitters are turned off prior to entering a Navy 
+collateral classified space. 
+        (2) Users must physically connect government issued devices to the 
+unclassified network (e.g., via network cable or docking station) BEFORE 
+powering them on. 
+        (3) Users must power devices off BEFORE physically disconnecting them 
+from the unclassified network. 
+        (4) Non-government issued devices with embedded wireless transmitters 
+(e.g., personal hot spots, laptops, tablets, Wi-Fi, etc.) and all cell phones 
+remain prohibited in Navy collateral classified spaces. 
+ 
+5.  Command responsibilities: 
+    a.  Commands will include instructions on properly handling devices with 
+embedded wireless technology as part of command briefs, and annual 
+cybersecurity training. 
+    b.  Commands must document the requirements in paragraphs 3.a.1-3 in the 
+certification and accreditation baseline for government issued devices, 
+identified by make and model, to confirm that procedures are in place to 
+prevent activation of the embedded wireless capability. 
+    c.  Commands must ensure users with government issued devices with 
+embedded wireless technology are aware of and acknowledge their 
+responsibilities on an addendum to the System Authorization Access Request 
+form, OPNAV 5239/14. 
+ 
+6.  This NAVADMIN will remain in effect until cancelled or superseded. 
+ 
+7.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

@@ -1,0 +1,144 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 021659Z FEB 22 MID600051485087U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 025/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/FEB// 
+ 
+SUBJ/NAVY TRANSITION TO TASK MANAGEMENT TOOL - PHASE I// 
+ 
+REF/A/MSG/012157Z FEB 22// 
+AMPN/Reference (a) is NAVADMIN 022/22, Navy Transition to Task Management 
+Tool - Announcement.// 
+ 
+RMKS/1.  Purpose. This NAVADMIN details the timeline and plan for Navy's 
+completion of Phase I of transition from the current system, the Department 
+of the Navy Tasking, 
+Records, and Consolidated Knowledge Enterprise Repository (DON TRACKER), to 
+the Enterprise Task Management System 2.0 (ETMS2), commonly referred to as 
+Task Management Tool (TMT). The Secretary of the Army is the Executive Agent 
+for TMT. 
+ 
+2.  Phase I commences immediately. In Phase I, all organizations must 
+accomplish the following tasks by 1 April 2022: 
+    a.  Conduct a comprehensive review of all NIPR and SIPR taskers in DON 
+TRACKER and close out any inactive taskers. 
+    b.  Complete training for all daily users and approving officials. 
+NOTE:  There are training requirements for nearly every member of any command 
+currently using DON TRACKER as the roles in TMT expand all the way to the 
+most senior personnel, including Flag Officers and Senior Executives. 
+         (1) Daily users are those personnel of any grade usually serving as 
+Action Officers. 
+         (2) Approving officials are those senior leaders, typically O6 or 
+GS-15 and above, and principal officials, typically Flag Officers and Senior 
+Executives, who have authority to sign executive-level correspondence on 
+behalf of their command. 
+ 
+3.  Training. Training is accessible using one of the methods noted below. 
+The minimum requirement for obtaining a ETMS2 daily user account is Beginner 
+Training. Training may be completed by watching a pre-recorded video, 
+computer-based training (CBT), or attending a virtual instructor-led training 
+session. Additionally, advanced training is available and highly encouraged 
+for all daily users. Advanced training may be completed by CBT or virtual 
+instructor-led training sessions in MilSuite. 
+Senior leaders, typically O6 or GS-15 and above, and principal officials, 
+typically Flag Officers and Senior Executives, who have authority to sign 
+executive-level correspondence on behalf of their command must complete 
+senior leader training only. 
+    a.  Beginner Training Video 
+        (1) Visit the DON ETMS2 Support Website 
+https://www.milsuite.mil/book/groups/etms2support/projects/don 
+        (2) Complete all three training videos. All videos must be completed 
+to receive an ETMS2 account. 
+        (3) Upon completion of training videos, visit https://snpro.aesd-
+w.army.mil/sp. 
+Click "I Need Something" followed by "ETMS2" on the menu displayed on the 
+left.  Provide the following information: 
+ 
+             (a) Full Name 
+             (b) Email 
+             (c) EDIPI (DOD ID Number) 
+             (d) Phone number 
+             (e) Category: User Account 
+             (f) Subcategory: Create Account/Computer Training Completed 
+             (g) ETMS2 Environment: Department of the Navy (DoN) 
+             (h) Comments: Enter training completion date, full name of your 
+             organization 
+(do not abbreviate), and office code (if applicable). 
+    b.  Computer Based Training (CBT) 
+         (1) Navigate to https://www.milsuite.mil/university/etms2training/  
+         (2) Log into MilSuite with your CAC and PIN. NOTE:  You do NOT need 
+to be on a DOD network to access the site. 
+         (3) Select "Beginner Training Course" in the navigation bar on the 
+left under "Featured Courses". 
+         (4) Navigate to the course page, select "Take this Course" to 
+register and begin course content. 
+        (5) After you complete the Beginner Training, visit https://aesd 
+        -w.army.mil/. 
+Click "I Need Something" followed by "ETMS2" on the menu displayed on the 
+left. Provide the following information: 
+ 
+             (a) Full Name 
+             (b) Email 
+             (c) EDIPI (DOD ID Number) 
+             (d) Phone number 
+             (e) Category: User Account 
+             (f) Subcategory: Create Account/Computer Training Completed 
+             (g) ETMS2 Environment: Department of the Navy (DoN) 
+             (h) Comments: Enter training completion date, full name of your 
+ organization (do not abbreviate), and office code (if applicable). 
+    c.  Virtual Instructor Led Beginner Training 
+        (1) Visit  
+https://www.milsuite.mil/book/groups/etms2support/projects/don  
+        (2) Choose a beginner training session and register 
+        (3) Virtual ETMS2 Beginner Training is conducted in Microsoft O365 
+Teams. 
+A link to the Microsoft O365 Teams meeting will be sent to all registered 
+users within 24 hours of the class convening. NOTE:  Users do NOT require 
+Flank Speed to access the training but must be connected to the DoD 
+Network/NIPR VPN. 
+    d.  Virtual Instructor Led Advanced Training is available and accessed in 
+the same manner as Beginner Training. 
+    e.  Senior leaders, typically O6 or GS-15 and above, and principal 
+officials, typically Flag Officers and Senior Executives, who have authority 
+to sign executive-level correspondence on behalf of their command are 
+required to complete the one-on-one Senior Leadership course only. Training 
+includes an overview of ETMS2, also known as TMT, its features and 
+capabilities, and what the senior leader's responsibilities will be within 
+the system.  Training typically lasts between 30 and 45 minutes. Contact 
+usarmy.belvoir.peo-eis.list.don-etms2-support-team(at)mail.mil to schedule a 
+training appointment. 
+ 
+4.  ETMS2 (TMT) Customer Support. 
+    a.  DON ETMS2 support is fully integrated with the Army Enterprise 
+Service Desk-Worldwide (AESD-W). AESD-W will serve as the ETMS2 point of 
+contact for all ETMS2-related incidents, questions and service requests 24/7, 
+365 days a year. 
+    b.  For NIPR ETMS2 support, submit a request to the AESD-W Self Service 
+Web Portal at https://snpro.aesd-w.army.mil/sp or by calling 1-866-335-ARMY 
+(2769), then select prompt 1 for NIPR services, sub-prompt 1 for enterprise 
+services, then select 6. 
+    c.  For SIPR ETMS2 support, call 1-866-335-ARMY (2769) and select prompt 
+2 for classified services, followed by sub-prompt 4 (other services). 
+ 
+5.  For questions or concerns regarding Navy's transition to the TMT, please 
+contact the Navy's ETMS2 Transition Team at 
+navy_etms2_transition(at)us.navy.mil. 
+ 
+6.  Applicability. This NAVADMIN is applicable to commands using DON TRACKER 
+as the Navy's primary Task Management Solution. 
+ 
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
