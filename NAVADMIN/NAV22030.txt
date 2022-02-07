@@ -1,0 +1,102 @@
+UNCLASSIFIED//
+
+ROUTINE
+
+R 071910Z FEB 22 MID600051498680U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 030/22
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB//
+
+SUBJ/FLANK SPEED UPDATE//
+POC/STARE/N2N6D3/TEL:  (571) 256-8290
+/EMAIL:  ANDREJ.P.STARE.CIV(AT)US.NAVY.MIL//
+
+RMKS/1.  In June 2021, the Navy began moving its workforce to a single 
+unclassified Microsoft Office 365 (M365) cloud known as Flank Speed.  This 
+high priority effort is funded and moving out - check out the Flank Speed Hub 
+for updates!
+
+2.  This new environment improved our ability to collaborate and access 
+information more securely to support increased remote work requirements.  
+Flank Speed security was designed using zero trust principles:  never trust, 
+always verify; assume breach; and verify explicitly.  Access to each resource 
+(e.g. application, data, or device) is verified to prevent malicious actors 
+from accessing critical assets and moving between systems/networks.
+
+3.  Flank Speed Status.  Over 90 percent of Navy users have varying degrees 
+of access to the Flank Speed environment.
+    a.  225K users have access to Teams, personal OneDrive capabilities, and 
+SharePoint.  Access for all remaining Navy-Marine Corps Intranet (NMCI) and 
+ONE -Net users is projected to occur by the end of 2022.
+    b.  215K users have access to all capabilities, including email, in the 
+Flank Speed environment.  The goal is to migrate all NMCI/ONE-Net and 18 
+Excepted Networks users by the end of 2022.
+    c.  The use of calendar sharing and other email enabled tools requires 
+users to be in the same email environment (e.g. Flank Speed, NMCI, ONE-Net, 
+etc.).
+    d.  The complexity and varying performance of Navy networks require a 
+deliberate approach to deliver a positive user experience.  Actions required 
+include updating network configuration, modernizing equipment, and increasing 
+bandwidth in key geographical areas.
+
+4.  Next Phases of Flank Speed Deployment:
+    a.  Echelon II Command Information Officers (CIO) and their teams 
+continue to lead the planning and scheduling required to provide access to 
+Flank Speed and migrate user email accounts for users in their commands.
+    b.  In April 2022, users will have the capability to read encrypted 
+emails on mobile devices.
+    c.  Efforts are underway to sunset the Defense Information System Agency 
+hosted iNavy SharePoint sites, replacing it with a Flank Speed SharePoint 
+Online (SPO) solution.  Commands will continue working with the SPO 
+development team to establish sites, move command data, and shift workflows.
+    d.  Flank Speed OneDrive will replace the current drives used for 
+personal storage (e.g. "H" drives).  Further consolidation of core enterprise 
+productivity and collaboration capabilities will continue as legacy and 
+excepted network users move onto Flank Speed.
+    e.  Process improvements will be disseminated to Command Flank Speed 
+Champions as well as posted on the Flank Speed Hub.  Updated process 
+improvement guides will include items such as requesting a new user account, 
+moving a user between commands, and ordering additional or changing existing 
+user services.
+    f.  Beginning in March 2022, periodic Town Hall events will be scheduled, 
+providing a forum for dissemination of updates and to answer questions 
+regarding Flank Speed capabilities and deployments.
+    g.  Increased use of automation such as "Fathombot" will be implemented 
+to help provide improved communication and awareness through a self-service 
+model.  The Fathombot can answer over 662 frequently asked questions, and 
+more answers are added daily.
+    h.  A SPO site created within the Flank Speed environment allows commands 
+to submit requests for exception to currently scheduled activity for the 
+following
+actions:  Email migrations, Public Teams generation, and Government Furnished 
+Equipment mobile device account creation.
+    i.  All special exception requests to accelerate user access or migration 
+require Echelon II CIO endorsement and OPNAV N2N6D approval.
+
+5.  Questions regarding Flank Speed planning and execution should be directed 
+to Rajan Sharma, Digital Workplace Service (M365) and Unified Capabilities 
+for Program Executive Office Digital Enterprise Services, at 
+rajan.sharma.civ(at)us.navy.mil.
+
+6.  Request widest dissemination.  This NAVADMIN will remain in effect until 
+cancelled or superseded.
+
+7.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
+
