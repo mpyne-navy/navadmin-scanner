@@ -1,0 +1,92 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 101648Z FEB 22 MID600051507740U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+CMC WASHINGTON DC 
+COMDT COGARD WASHINGTON DC 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 033/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// 
+ 
+SUBJ/FISCAL YEAR 2021 COPERNICUS AWARD WINNERS ANNOUNCEMENT// 
+ 
+POC/SARAH FISCHETTI/CIV/AFCEA EDUCATIONAL FOUNDATION/TEL: (703) 631-6147 
+/EMAIL:  EDFOUNDATION(AT)AFCEA.ORG// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/302051Z AUG 21// 
+AMPN/REF A IS NAVADMIN 195/21, FISCAL YEAR 2021 COPERNICUS AWARD NOMINATION// 
+ 
+RMKS/1.  The Chief of Naval Operations is pleased to congratulate the fiscal 
+year 2021 Copernicus Award winners.  The Copernicus Award recognizes 
+individual contributions to Naval Warfare in the disciplines of Command, 
+Control, Communications, Computers, and Intelligence, Information Systems or 
+Information Warfare.  Armed Forces Communication and Electronics Associations 
+(AFCEA) International and the U.S. Naval Institute (USNI) have selected the 
+following Copernicus Award winners for fiscal year 2021: 
+    a.  Maj Ryan M. Ackland, USMC, Marine Corps Tactical Systems Support 
+Activity 
+    b.  CWO2 Jonathan J. Anderson, USCG, Coast Guard Cyber Command 
+    c.  IT1 Karsten S. Aurella, USN, USS CHAFEE (DDG 90) 
+    d.  IT1 Franklin T. Barrett, USN, USS AMERICA (LHA 6) 
+    e.  IT1 Trevor J. Brammer, USN, Naval Special Warfare Development Group 
+    f.  ET2 Anthony T. Brickey, USCG, USCGC Robert Goldman (WPC 1142) 
+    g.  CWO4 Bryan Broussard, USN, U.S. Naval Forces Central Command 
+    h.  CAPT Ian A. Brown, USN, Naval Special Warfare Group TWO 
+    i.  LCDR Mark W. Burgner, USCG, USCG Base Boston 
+    j.  CWO2 Michael D. Butler, USMC, II Marine Expeditionary Force 
+    k.  LCDR Stephen S. Cortez, USN, Commander, Task Force SEVEN 
+ZERO/Commander, Carrier Strike Group FIVE 
+    l.  Sgt Christopher J. DaSilva, USMC, Battalion Landing Team 1/5 
+    m.  LCDR Tebin H.T. Glebus, USN, U.S. SEVENTH Fleet 
+    n.  CWO3 Keith Patrick Jarvis, USCG, U.S. Coast Guard Yard 
+    o.  SSgt Randall I. Kardatzke, USMC, U.S. Marine Corps Forces, Special 
+Operations Command 
+    p.  ET1 Sean A. Larson, USCG, Patrol Forces Southwest Asia 
+    q.  LT Daniel B. Miller, USN, Naval Special Warfare Development Group 
+    r.  CTI1 Benjamin B. Miller, USN, Naval Special Warfare Special 
+Reconnaissance Team ONE 
+    s.  Capt Nicholle M. Miller, USMC, Intelligence Division, Combat 
+Development and Integration Command Quantico 
+    t.  LTJG Hollie L. Parrish, USCG, Command, Control, Communications, 
+Computers, Combat System, and Interoperability Service Center 
+    u.  CWO3 Christopher M. Port, USMC, II Marine Expeditionary Force 
+    v.  LT Scott A. Pratz, USCG, Command, Control, Communications, Computers, 
+Combat System, and Interoperability Service Center 
+    w.  CWO2 Michael W. Reinke, USN, Navy Expeditionary Intelligence Command 
+    x.  LCDR Richard C. Reyes, USN, U.S. SEVENTH Fleet 
+    y.  Maj Erik C. Rye, USMC, U.S. Marine Corps Force Cyberspace Command 
+    z.  Mr. Edwin Sanjurjo, Navy Expeditionary Intelligence Command 
+    aa.  LT Christopher J. Seedyk, USN, Amphibious Squadron ONE 
+    bb.  IT1 Chase D. Spence, USN, White House Communications Agency 
+    cc.  1stLt Jackson T. Tears, USMC, Marine Air Support Squadron-2, 
+Manpower Air Control Group-18, 1st Marine Aircraft Wing 
+    dd.  ITCS Joshua H. Torres, USN, USS MOUNT WHITNEY (LCC 20) 
+    ee.  ITC Alexander C. Tucker, USN, Chief of Naval Operations Director, 
+Navy Staff 
+    ff.  Cpl Landon A. Wilks, USMC, Marine Wing Communications Squadron 28 
+    gg.  GySgt Zachary B. Williams, USMC, 15th Marine Expeditionary Unit 
+    hh.  Maj Clinton L. Woods, USMC, Marine Corps Communication-Electronics 
+School 
+    ii.  Capt Aaron E. Zack, USMC, Marine Corps Cyberspace Warfare Group 
+ 
+2.  All Copernicus Award winners will receive an invitation from AFCEA and 
+USNI inviting them, their spouse/guest, and their Commanding Officer to 
+attend an awards reception and presentation ceremony held at the AFCEA 
+International/USNI WEST 2022 Conference in San Diego, California at the San 
+Diego Convention Center on 16 February 2022.  If awardees are unable to 
+attend the ceremony in San Diego, the awards will also be presented at the 
+AFCEA International TechNet Cyber Conference in Baltimore, Maryland at the 
+Baltimore Convention Center in April 2022. 
+ 
+3.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
