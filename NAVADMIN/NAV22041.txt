@@ -1,0 +1,76 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 161821Z FEB 22 MID600051533614U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 041/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/NAVY SERVICE WIDE IMPLEMENTATION OF WEB DRUG TESTING PROGRAM (WEBDTP) 
+AND DRUG TESTING PROGRAM LITE (DTP LITE) V6.X// 
+ 
+REF/A/DOC/OUSD(P and R)/10DEC21// 
+REF/B/DOC/OPNAV/04JUN09// 
+REF/C/DOC/UPC OPGUIDE 6/JAN22// 
+ 
+NARR/REF A IS THE OFFICE OF THE UNDER SECRETARY OF DEFENSE (PERSONNEL AND 
+READINESS) TERMINATION OF USE NOTIFICATION FOR DRUG TESTING PROGRAM 5.X 
+APPLICATIONS.   
+REF B IS OPNAVINST 5350.4D, NAVY ALCOHOL AND DRUG ABUSE PREVENTION AND 
+CONTROL.   
+REF C IS NAVY DRUG DETECTION AND DETERRENCE PROGRAM UPC OPERATING GUIDE.// 
+ 
+RMKS/1.  This NAVADMIN directs active and reserve commanders, commanding 
+officers and officers-in-charge in line with reference (a) to implement the 
+Web Drug Testing Program (Web DTP) or Drug Testing Program (DTP) Lite as the 
+primary application to conduct command urinalysis selection, collection, and 
+transportation of urine specimen samples in line with reference (b) 
+guidelines. Implementing these applications immediately allows Department of 
+Defense (DoD) to fully deploy the Specimen Custody Document-Drug Testing (DD 
+Form 2624) and a new bottle label system.  Additionally, DD Form 2624 will be 
+maintained at the testing command and are no longer required to accompany the 
+shipment of urine specimen bottles. This will significantly reduce chain of 
+custody and labels discrepancies. 
+ 
+2.  Web DTP will replace the Navy Drug Screening Program (NDSP) v5.4k.  DTP 
+Lite will be the only desktop application used when access to Web DTP is not 
+available.  Deployed units with limited connectivity to download DTP Lite, 
+limited access to Web DTP or activities still undergoing DTP Lite 
+certification testing may continue to use NDSP v5.4k.  However, NDSP will be 
+removed from the Allowance Parts List/Allowance Equipage List on or about 23 
+July 2022.  Contact your local Network Administrator for assistance with 
+installing DTP Lite on designated workstations/laptops. 
+ 
+3.  Effective 23 July 2022, any specimen received at any drug laboratory 
+using NDSP will not be tested and will receive a fatal discrepancy code as 
+stated in reference (a). 
+ 
+4.  Web DTP and DTP Lite applications and user guidance are located on the 
+Internet Forensic Toxicology Drug Testing Laboratory Portal 
+at https://ftdtl.health.mil/.  As directed in reference (c), Navy Marine 
+Corps Internet users are directed to use Web DTP. 
+ 
+5.  Commanders unable to immediately transition to Web DTP or DTP Lite shall 
+notify Director, 21st Century Sailor Office (OPNAV N17) the 22nd of each 
+month via their Echelon II commanders beginning 22 February 2022.  If the 
+22nd falls on a weekend, reports are due the following Monday.  OPNAV N17 
+will track all Navy commands transition and report Navy’s progress to DoD on 
+or before 22 July 2022. 
+ 
+6.  For additional support/guidance contact the WebDTP/DTP Lite support desk 
+at (901) 874-4204, DSN (312) 882-4204 or e-mail: 
+MILL(UNDERSCORE)NDSPATNAVY.MIL or website: 
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Drug-
+Detection-Deterrence/. 
+ 
+7.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

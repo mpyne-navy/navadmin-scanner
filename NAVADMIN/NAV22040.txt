@@ -1,0 +1,119 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 161429Z FEB 22 MID600051532873U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 040/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR YEAR 2022 PHYSICAL 
+FITNESS ASSESSMENTS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/241517ZNOV21// 
+REF/B/DOC/OPNAV/11JUL11// 
+REF/C/DOC/OPNAV/AUG21// 
+REF/D/DOC/OPNAV/FEB22// 
+REF/E/DOC/OPNAV/FEB22// 
+ 
+NARR/REF A IS NAVADMIN 264/21, PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR 
+YEAR 2021 (CY2021).   
+REF B IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM. 
+REF C IS NAVY PHYSICAL READINESS PROGRAM GUIDE 15, CONDUCT OF THE PHYSICAL 
+FITNESS ASSESSMENT (PFA) IN COVID-19 CONDITIONS.   
+REF D IS NAVY PHYSICAL READINESS PROGRAM GUIDE 5, PHYSICAL READINESS TEST.   
+REF E IS NAVY PHYSICAL READINESS PROGRAM GUIDE 10, PHYSICAL READINESS 
+INFORMATION MANAGEMENT SYSTEM TWO (PRIMS-2).// 
+ 
+RMKS/1.  This NAVADMIN announces: 
+    a.  PRIMS-2 will be available for the Calendar Year 2022 (CY2022) 
+Physical Fitness Assessment (PFA). 
+    b.  Revised forearm plank standards. 
+    c.  Provides additional guidance for the CY2022 PFA. 
+ 
+2.  PFA Cycle 2022.  The cycle will be conducted from 1 April to 30 September 
+2022 in line with references (a) and (b).  All medically cleared Sailors will 
+participate in all three fitness modalities (push-ups, forearm plank, cardio 
+or alternate cardio) to determine their CY2022 PFA cycle overall score. 
+Forearm planks will count for PFA score.  Physical Readiness Guides to 
+include references (c) through (e) are located at: 
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Physical-
+Readiness/Guides/. 
+    a.  The Physical Readiness Office will open the PFA Cycle 2022 in 
+February 2022.  This PFA Cycle will be labeled PFA Cycle 1 2022 in PRIMS-2. 
+    b.  Sailors will have access to physical readiness information through 
+MyNavy Portal My Records and will electronically submit their Physical 
+Activity Risk Factor Questionnaire (PARFQ) via MyNavy Portal upon their 
+respective commands 10-week notification.  This is a change from the previous 
+version of PRIMS. 
+    c.  Revised Forearm Plank Standards. 
+        (1) We learned from an analysis of 26,000 forearm plank records from 
+the CY2021 PFA that Sailors performed well overall, there is a minor gender 
+performance differential. 
+        (2) As a result, we revised the forearm plank standards to be gender 
+specific (i.e., separate male and female scoring tables) with a gradual age 
+group stratification.  The Updated male and female forearm plank standards 
+can be found in reference (d).  PFA calculators in both MyNavy Portal and the 
+official PFA App are scheduled to be updated prior to 1 April 2022. 
+    d.  Command Fitness Leaders (CFLs) and Assistant CFLs (ACFLs) guidance: 
+        (1) CFL/ACFLs will enter PFA data into PRIMS-2 for the PFA Cycle 
+2022. 
+        (2) Prior to 1 April 2022, CFLs will be able to verify command 
+rosters, assign members to departments and divisions, see commands reports 
+and release/gain Sailors. 
+        (3) On 1 April, CFL/ACFLs may enter scores into PRIMS-2.  CFL/ACFLs 
+are prevented from entering scores until the PFA cycle commences. 
+        (4) The number of ACFLs having access to PRIMS-2 for data entry will 
+be limited based on command size (1 per 100 members due to licensing costs) 
+and is different than the required number of ACFLs per command to effectively 
+administer the PFA (1 per 25 members). 
+        (5) CFLs should refer to reference (e) for detailed guidance. 
+    e.  PRIMS-2 Training.  PRIMS-2 training will be offered bi-monthly for 
+CFLs and ACFLs via Microsoft Teams.  Requests for training should be 
+submitted to PRIMS(at)navy.mil.  Familiarization training materials are 
+posted on the Physical Readiness program (PRP) website at: 
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Physical-
+Readiness/ and also available to back-end users (CFL, ACFL, and Special User) 
+via PRIMS-2. 
+    f.  Validation.  Sailors who meet the criteria for *validation* in PFA 
+Cycle 1 2022 will be eligible for exemption from participation in the PRT 
+portion of PFA Cycle 1 2023 provided Sailors meet Age Adjusted Standards for 
+the Body Composition Assessment (BCA) (i.e. everyone needs to take the BCA). 
+This validation is contingent upon the Navy conducting two PFA cycles in 
+2023. 
+    g.  COVID-19 Environment.  The PFA Cycle 1 2022 will be conducted using 
+procedures outlined in reference (c) and based on local health protection 
+conditions (HPCON).  CFLs will adhere to all local HPCON safety measures 
+prior to execution of the PFA. 
+ 
+3.  PRIMS-2.  To gain access to PRIMS-2, the following must be provided to 
+PRIMS(at)navy.mil: 
+    a.  CFL access:  CFL Certification Course Certificate, CFL Transfer 
+Designation Letter and SAAR-N Form. 
+    b.  ACFL access:  Command ACFL Designation Letter and SAAR-N Form. 
+Step by step instructions for completing a SAAR-N Form are located at: 
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Physical-
+Readiness/Forms/. 
+ 
+4.  Contact the PHP Office for additional information: 
+    a.  For policy related questions via e-mail at PRP(at)navy.mil. 
+    b.  For PRIMS related questions via e-mail at PRIMS(at)navy.mil. 
+    c.  For policy or PRIMS related questions via phone at (901) 874-2210/ 
+DSN 882. 
+ 
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+6.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
