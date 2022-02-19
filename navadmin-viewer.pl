@@ -287,7 +287,7 @@ __DATA__
 % my $content = Mojo::File->new($filepath)->slurp;
 % my $escaped = b($content)->decode('UTF-8')->xml_escape;
 % $escaped =~ s{NAVADMIN ?([0-9][0-9][0-9])([-/])([0-9][0-9])}{<a href="/NAVADMIN/$1/$3">NAVADMIN $1$2$3</a>}g;
-% $escaped =~ s{([a-zA-Z.]+)\(at\)([a-zA-Z.]+\.[a-z]+)}{<a title="Decoded from $&" href="mailto:$1\@$2">$1\@$2</a>}g;
+% $escaped =~ s{([a-zA-Z0-9._-]+)\([Aa][Tt]\)([a-zA-Z.]+\.[a-zA-Z]+)}{<a title="Decoded from $&" href="mailto:\L$1\@$2\E">\L$1\@$2</a>}g;
 <%= b($escaped) %>
 </pre>
 </div>
