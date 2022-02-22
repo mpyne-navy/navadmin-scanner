@@ -1,0 +1,159 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 221849Z FEB 22 MID200001490538U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 042/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/FEB// 
+ 
+SUBJ/UPDATED COVID CONSOLIDATED DISPOSITION AUTHORITY DATA REPORTING 
+REQUIREMENTS AND LESSONS LEARNED// 
+ 
+REF/A/NAVADMIN/OPNAV/011621ZNOV21// 
+REF/B/DOC/BUPERS/16MAR20// 
+REF/C/NAVADMIN/OPNAV/151203ZDEC21// 
+ 
+NARR/REF A IS NAVADMIN 249/21, CCDA DATA REPORTING REQUIREMENTS. 
+REF B IS BUPERSINST 1730.11A, STANDARDS AND PROCEDURES GOVERNING THE 
+ACCOMMODATION OF RELIGIOUS PRACTICES.   
+REF C IS NAVADMIN 283/21,? CCDA EXECUTION GUIDANCE TO COMMANDERS. 
+ 
+RMKS/1.  This NAVADMIN updates reference (a) guidance to Commanders for 
+reporting unvaccinated Navy service members. 
+ 
+2.  To ensure accurate accounting of personnel who have not received the 
+COVID-19 vaccination for any reason, all Commanders are directed to ensure 
+that every unvaccinated Navy service member under their command is accurately 
+reported in accordance with reference (a) as modified by this 
+NAVADMIN.  Commanders shall not report non-Navy service members under their 
+command. 
+ 
+3.  Reporting 
+ 
+3.a.  The vaccination status of many service members has changed since 
+initially reported.  In all such cases, Commanders are directed to update 
+reporting on those individuals in line with reference (a) and this NAVADMIN. 
+ 
+3.b.  Submit updated data via the Department of the Navy (DON) COVID Tracking 
+Site at https//portal.secnav.navy.mil/cop/crc/covid/.  Echelon 1 and 2 
+Commanders shall compile and provide the data directed in paragraph 3 of 
+reference (a) on all Navy service members who are not fully 
+vaccinated.  Submission may be delegated to subordinate echelon 3 
+commands.  An updated template excel file is available at the MyNavy Portal 
+site at https://www.mnp.navy.mil/group/navy-covid-19-reporting and shall be 
+used for reporting.  Commands will also ensure that the Medical Readiness 
+Reporting System (MRRS) is updated to be consistent with information 
+submitted to the DON COVID Tracking Site. 
+ 
+4.  Categories 
+ 
+4.a.  Unvaccinated, refuser:  Navy service members who have not received the 
+COVID-19 vaccine and do not have a pending or approved exemption request. 
+ 
+4.b.  Unvaccinated, vaccination series started but not complete: Navy service 
+members who have received the first of a two shot series, but have not yet 
+received the second shot.  Service members who exceed the recommended 
+timeline for the second shot by more than five days shall be updated as 
+*unvaccinated, refuser* unless they meet the requirements of another 
+reporting category, in which case they shall be updated to the appropriate 
+category. 
+ 
+4.c.  Unvaccinated, pending medical exemption:  Navy service members who have 
+had a military medical provider (MMP) submit a medical exemption request on 
+their behalf.  Commanders shall only report service members in this category 
+if they have communication from a MMP confirming the MMPs request for a 
+permanent exemption to a medical flag officer approving authority on behalf 
+of the service member.  Note that because temporary medical exemptions are 
+determined by a local MMP, they will not be reported in this category since 
+they are either approved or disapproved at the point of care.  If approved, 
+Commanders shall update the reporting category to *unvaccinated, approved 
+medical exemption* as soon as practical.  If disapproved, Commanders shall 
+update reporting to the appropriate category based on the member’s 
+vaccination status. 
+ 
+4.d.  Unvaccinated, approved medical exemption:  Navy service members who 
+have received approval of a vaccine exemption to accommodate a medical 
+condition.  This applies to both permanent and temporary approvals.  When a 
+temporary medical exemption expires, Commanders shall update reporting to the 
+appropriate category based on the members vaccination status. 
+ 
+4.e.  Unvaccinated, pending religious accommodation:  Navy service members 
+who have submitted a vaccine exemption request (or appeal) to accommodate a 
+religious practice.  Commanders shall only report service members in this 
+category if they have forwarded the request (or appeal) to OPNAV N131 and 
+received an acknowledgement as outlined in paragraph 5 below.  If approved, 
+Commanders shall update the reporting category to *unvaccinated, approved 
+religious exemption* as soon as practical.  If disapproved and vaccination 
+has not commenced within 5 days, Commanders shall update reporting to 
+*unvaccinated, refuser* at that point unless another category applies, in 
+which case reporting shall be updated to the appropriate category. 
+ 
+4.f.  Unvaccinated, approved religious exemption:  Navy service members who 
+have received approval of a vaccine exemption request (or appeal) to 
+accommodate a religious practice. 
+ 
+4.g.  Unvaccinated, has not had access to vaccination due to operational 
+schedule and/or remote location:  Navy service members who have not had the 
+opportunity to be vaccinated for operational reasons as endorsed by their 
+Commander.  Service members who do not initiate vaccination within five days 
+upon completion of duty which precluded vaccination shall be updated as 
+*unvaccinated, refuser* unless they meet the requirements of another 
+reporting category, in which case they shall be updated to the appropriate 
+category. 
+ 
+4.h.  Vaccination series complete, previously reported as unvaccinated:  Navy 
+service members who were initially reported as unvaccinated, but have since 
+received the complete COVID-19 vaccination series.  Commanders shall report 
+this status as soon as practical after the vaccine series is complete.  It is 
+important to note that this category is new since reference (a) was 
+transmitted. 
+ 
+5.  Additional guidance 
+ 
+5.a.  Commanders shall submit religious accommodation exemption 
+requests in line with reference (b) by emailing 
+ALTN_Navy_Religious_Accommodations(at)navy.mil.  Commands should receive  
+e-mail acknowledgement of receipt from OPNAV N131 within 48 hours.  If the 
+command has not received acknowledgement, including those requests which were 
+previously submitted at any time in the past, e-mail the above address to 
+ensure the religious accommodation waiver request was received by OPNAV 
+N131.  For additional information regarding procedures governing the 
+accommodation of religious practices policy and templates, please visit 
+https://www.mynavyhr.navy.mil/Support-Services/Religious-Accommodations/. 
+ 
+5.b.  Each Commander is responsible for accurate and timely reporting of data 
+on all unvaccinated Navy service members under their command to precisely 
+reflect all required fields, including demographic and command information in 
+addition to the members DoD ID number and duty status, even if the data is 
+being compiled at higher echelons.  Note that there are three choices for 
+duty status - *active component*, *full-time support* (full-time support and 
+training and administrative of the reserve) and *selected reserve* 
+(SELRES).  For SELRES Sailors on active duty orders, indicate *selected 
+reserve* as duty status. 
+ 
+5.c.  In cases where service members have transferred, the previous command 
+must coordinate with the gaining command to ensure that the CCDA data 
+reporting requirements of reference (a) and this NAVADMIN are complete and 
+accurate. 
+ 
+6.  Reference (c) provides direction with respect to administrative 
+separation due to refusing the vaccine.  Commanders shall submit required 
+reports within reference (c) directed timelines upon determination that a 
+Navy service member is refusing the vaccine. 
+ 
+7.  Point of contact.  OPNAV POC:  CAPT Jason Grizzle, e-mail: 
+ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL. 
+ 
+8.  Released by VADM John B. Nowell, Jr, Chief of Naval Personnel.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
+
