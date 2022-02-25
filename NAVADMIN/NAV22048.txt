@@ -1,0 +1,82 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 252109Z FEB 22 MID200001508684U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 048/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// 
+ 
+SUBJ/IMPORTANCE OF USER CYBERSECURITY RESPONSIBILITIES// 
+ 
+REF/A/LTR/DOD/28JAN22// 
+REF/B/DOC/CNO/JAN21// 
+REF/C/MSG/CNO/301719ZSEP21// 
+REF/D/MSG/CNO/282139ZOCT21// 
+ 
+NARR/REF A IS THE DEPUTY SECRETARY OF DEFENSE MEMORANDUM ON THE IMPORTANCE OF 
+MAINTAINING CYBER AWARENESS.   
+REF B IS THE CHIEF OF NAVAL OPERATIONS NAVIGATION PLAN ON THE NAVY'S 
+STRATEGIC DIRECTION AND LONG-TERM COMPETITION 
+WITH CHINA AND RUSSIA.   
+REF C IS NAVADMIN 216/21, OCTOBER 2021 CYBERSECURITY AWARENESS MONTH.   
+REF D IS NAVADMIN 244/21, FISCAL YEAR 2022 CYBERSECURITY AWARENESS 
+CHALLENGE.// 
+ 
+RMKS/1.  Adversaries of our nation are constantly working to find and exploit 
+our vulnerabilities.  We MUST exercise good cybersecurity habits at work and 
+at home to protect the Department of Defense (DoD) against cyberattacks. 
+ 
+2.  Cyberattacks against businesses and U.S. infrastructure are increasing in 
+frequency and complexity.  DoD and federal law enforcement report adversary 
+interest in our remote work infrastructure.  This means that you are a target 
+- for your access and your information. 
+ 
+3.  Over the past two years, the Navy has modernized and extended the reach 
+of our information technology outside traditional security boundaries.  As we 
+provide access to more capabilities in more places, every member of the Navy 
+team must play an active part in our cyberspace defense.  This boils down to 
+two things: 
+    a.  You MUST follow policy.  You signed the Navy Acceptable Use Policy 
+and completed your annual cyber awareness challenge.  You know what is and is 
+not allowed on our networks.  Those rules exist for a reason - to protect you 
+and to protect the network - follow them. 
+    b.  You MUST report.  When something does not look right, report it.  If 
+someone is trying to do something that is not right, report it.  Do NOT 
+accept that "this is just the way things are" or "this is not a big 
+deal."  Your Information Systems Security Manager and our cybersecurity 
+professionals are responsible for determining where the reporting stops. 
+ 
+4.  We have seen adversaries exploit policy transgressions on Navy and 
+private home networks by: 
+    a.  Stealing or guessing weak, non-unique, or overused credentials and 
+passwords. 
+    b.  Downloading and unknowingly installing malware embedded within 
+documents like evaluations, fitness reports, and pay tables from unofficial 
+websites and sources. 
+    c.  Posing as fellow service members, patriotic military supporters, and 
+veterans to dupe you into revealing sensitive and sometimes classified 
+information or inadvertently download malware. 
+ 
+5.  Each of these incidents cost time and resources to address and put our 
+Sailors and our national maritime sustainment and capabilities at risk.  Do 
+your part - be cyber smart and protect Navy data and systems. 
+ 
+6.  With heightened tensions throughout the world, ensure your team 
+understands how the actions of a single user can impact our global 
+force.  Take time at quarters or your next staff meeting to discuss why 
+vigilance by everyone will make the difference between our continued mission 
+success and our failure to meet the tasking of our nation.  Every one of us 
+is crucial to our cyberspace defense. 
+ 
+7.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
