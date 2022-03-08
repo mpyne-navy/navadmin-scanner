@@ -1,0 +1,91 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 041910Z MAR 22 MID200001547384U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 053/22
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/MAR//
+
+SUBJ/NAVY AND MARINE CORPS INTRANET (NMCI) WINDOWS 10 VERSION 20H2 OPERATING 
+SYSTEM UPGRADE//
+
+REF/A/MSG/COMFLTCYBERCOM/141720ZJAN22/-/NOTAL//
+REF/B/MSG/COMFLTCYBERCOM/211750ZJAN22/-/NOTAL//
+REF/C/MSG/COMFLTCYBERCOM/172102ZFEB22/-/NOTAL//
+
+NARR/REF A IS COMMANDER, FLEET CYBER COMMAND (COMFLTCYBERCOM) OPERATIONS 
+ORDER 22-003 WHICH PROVIDES TASKING AND SEQUENCING FOR THE PHASED OPERATIONAL 
+MANEUVER OF THE NAVY AND MARINE CORPS INTRANET ENTERPRISE NETWORKS TO WINDOWS 
+10, VERSION 20H2.  
+REF B IS THE COMFLTCYBERCOM EXECUTION ORDER DIRECTING THE EXECUTION OF PHASE 
+1 AS OUTLINED IN REF A.  
+REF C IS THE COMFLTCYBERCOM FRAGMENTARY ORDER DIRECTING THE EXECUTION OF 
+PHASE 2 AS OUTLINED IN REF A.// POC/PMW 205 WIN 10 COORDINATION CENTER/E-
+MAIL: WIN10COORDINATIONCENTER(AT)US.NAVY.MIL//
+
+RMKS/1.  This NAVADMIN reinforces the COMFLTCYBERCOM direction outlined in 
+references (a) through (c), to upgrade Navy and Marine Corps Intranet (NMCI) 
+workstations to Windows 10 Version 20H2 (v20H2).  The operation is currently 
+in the SELF SERVICE phase, and will transition to ENFORCEMENT on 11 April 
+2022 followed by QUARANTINE in May 2022.  OCONUS Navy Enterprise Network 
+(ONE-Net) and base level information infrastructure updates have been managed 
+via separate correspondence.
+
+2.  Commanders are advised to take maximum advantage of the SELF SERVICE 
+phase to minimize impact to operations.
+    a.  Manage impact by sequencing transitions at a timing and tempo 
+suitable to mission requirements.
+    b.  Prioritize the replacement of workstations that are not capable of 
+supporting the v20H2 update.
+    c.  Identify workstations that may require local reimaging, a labor and 
+time -intensive process.
+
+3.  Since the v20H2 update can take several hours, Navy NMCI users are 
+encouraged to initiate it at the end of the workday or during a known period 
+of inactivity.
+    a.  Navy NMCI Users must launch the Seat Health Check app found on the 
+desktop/start menu to verify if their workstation is ready to update.  For 
+workstations that are offline, users are required to immediately connect, 
+turn on, and log-in to allow the workstation to receive all updates and 
+upgrade to v20H2 using the same Seat Health Check app.
+    b.  Within the Seat Health Check app, expand the Update Readiness:  Semi 
+-Annual Channel Release 20H2 to display the status.  If the workstation is 
+ready, pressing the "Start Update" will initiate the update.
+    c.  For remote workstations being used to support telework, users must 
+first connect to the VPN and wait at least 10 minutes before refreshing the 
+Seat Health data and beginning the update through the Seat Health Check app.
+    d.  Detailed user information guides are available at 
+https://www.homeport.navy.mil/management/windows10/.
+
+4.  Some older workstations cannot support v20H2.  Commanders are advised to 
+ensure critical seats are refreshed first to minimize impact caused by 
+quarantine when v1909 goes end of life this summer.
+    a.  For workstations having problems receiving updates required to allow 
+the upgrade to v20H2, users should contact the NMCI helpdesk and open a 
+trouble ticket, at 866-THE-NMCI (866-843-6624) or through the NMCI Homeport 
+at https://www.homeport.navy.mil/home/.
+    b.  Refreshed NMCI workstations that are no longer required must be 
+returned by the Contract Technical Representative to prevent the Navy from 
+funding assets no longer in active use and to further reduce cybersecurity 
+risk.
+
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+

@@ -1,0 +1,112 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 041449Z MAR 22 MID200001546592U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 051/22
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+
+SUBJ/NAVY TRANSITION TO TASK MANAGEMENT TOOL - PHASE II//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/MAR//
+
+REF/A/MSG/012157Z FEB 22/
+REF/B/MSG/021659Z FEB 22/
+
+NARR/Reference (a) is NAVADMIN 022/22, Navy Transition to Task Management 
+Tool - Announcement. Reference (b) is NAVADMIN 025/22, Navy Transition to 
+Task Management Tool - Phase I.//
+
+RMKS/1.  Purpose. Per reference (a), this NAVADMIN details the timeline and 
+plan for Navy's completion of Phase II of the Navy's transition from the 
+current system, the Department of the Navy Tasking, Records, and Consolidated 
+Knowledge Enterprise Repository (DON TRACKER), to the Enterprise Task 
+Management System
+
+2.0 (ETMS2), commonly referred to as Task Management Tool (TMT).  In 
+addition, this NAVADMIN provides leadership with a current state of training 
+and expounds on the role our senior leaders, typically O6 or GS-15 and above, 
+and principal officials, typically Flag Officers and Senior Executives, that 
+are designated to sign official documents on behalf of their command will 
+have in the full electronic routing of tasks in ETMS2 using the Senior Leader 
+Approval Process (SLAP).
+
+2.  Phase II commences immediately. All organizations shall complete the 
+following tasks by 1 April 2022:
+    a.  Complete a comprehensive review of all NIPR and SIPR taskers in DON
+    TRACKER and close out any inactive taskers.
+    b.  Complete training for all daily users and approving officials.
+    NOTE:  There are training requirements for nearly every member of any 
+command
+    currently using DON TRACKER as the roles in ETMS2 expand all the way to 
+the
+    most senior leaders, including Flag Officers and Senior Executives. 
+Paragraph 3
+    of reference (b) outlines required training for the various levels of 
+users,
+    including senior leaders and principal officials.
+
+3.  State of Training.
+    a.  5,304 users of the ~17,000 required have completed Beginner
+    Training.  Beginner training is the minimum requirement for obtaining an
+    account in ETMS2.
+    b.  291 users have completed Advanced Training.  While optional, current
+    users that have attended have found it to be highly useful.  Advanced 
+training
+    is highly recommended.
+    c.  44 of ~200 senior leaders and principal officials across the Navy 
+have
+    completed Senior Leadership Training.
+
+4.  Senior Leader Approval Process, also known as SLAP, is a process within
+ETMS2 whereby senior leaders and principal officials who have authority to 
+sign executive-level correspondence on behalf of their command conduct 
+package approvals by electronically signing packages being routed to the 
+Secretary of the Navy (SECNAV) and Office of the Chief of Naval Operations 
+(OPNAV).  This process enhances task efficacy, reduces unnecessary waste, and 
+improves access to historical documents.
+    a. Senior leaders and principal officials are required to use the SLAP 
+tool
+    within ETMS2 for all documents routed to SECNAV and OPNAV effective 1 
+May.
+    b. Electronic routing via ETMS2 allows individual electronic approvals
+    through the "Route for Approval" action button.
+    c. When an approval route is created, individuals assigned to the route 
+will
+    receive a notification via email that a task or document is ready for 
+review.
+    d. Using the link provided in the email notification (or by logging into 
+the
+    system), the individual can access the document or task that requires 
+their
+    electronic approval.
+    e. During review, the document can be opened, annotated via tracked
+    revisions, and approved or disapproved.
+
+5.  For questions or concerns regarding Navy's transition to the TMT, please 
+contact your local organization's Task Manager(s) or the Navy's ETMS2 
+Transition Team at navy_etms2_transition(at)us.navy.mil.
+
+6.  Applicability. This NAVADMIN is applicable to commands using DON TRACKER 
+as the Navy's primary Task Management Solution.
+
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
