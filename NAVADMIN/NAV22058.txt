@@ -1,0 +1,76 @@
+UNCLASSIFIED// 
+ROUTINE 
+R 081730Z MAR 22 MID60010002072965S 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+ZEN/CNO WASHINGTON DC 
+BT 
+UNCLASSIFIED 
+R 081730Z MAR 22 
+ 
+NAVADMIN 058/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N3N5/FEB// 
+ 
+SUBJ/UPDATE TO NAVY-WIDE OPTASK VISUAL INFORMATION// 
+ 
+REF/A/GENADMIN/NAVY-WIDE OPTASK VISUAL INFORMATION/COMUSFLTFORCOM/ 
+011001ZOCT19// 
+REF/B/DOC/INCSEA AGREEMENT/USN/25MAY72// 
+REF/C/DOC/OPNAVINST/05APR21// 
+ 
+NARR/REF A IS THE NAVY-WIDE OPTASK VISUAL INFORMATION. 
+REF B IS THE 1972 AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES AND 
+THE GOVERNMENT OF THE UNION OF SOVIET SOCIALIST REPUBLIC ON THE PREVENTION OF 
+INCIDENTS ON AND OVER THE WATERS OUTSIDE THE LIMITS OF THE TERRITORIAL SEA. 
+REF C IS THE CHIEF OF NAVAL OPERATIONS (CNO) INCSEA AGREEMENT IMPLEMENTATION 
+GUIDANCE FOR THE OPNAV STAFF AND NAVAL COMPONENT COMMANDS.// 
+ 
+POC/LCDR ROBERT MAUL/703-545-8181/EMAIL: ROBERT.W.MAUL.MIL(at)US.NAVY.MIL// 
+ 
+RMKS/1. This NAVADMIN updates reference (a) to incorporate INCSEA reporting 
+guidance. 
+ 
+2. This update addresses underreporting of incidents between United States 
+and Russia that occur outside the limits of territorial seas, reporting that 
+is required per the Incident at Sea (INCSEA) agreement between our two 
+nations (OPNAVINST 5711.96D). Underreporting results in an incomplete picture 
+that constrains our position at the annual INCSEA Consultations; designed to 
+minimize the risk of miscalculation. 
+ 
+3. OPNAVINST 5711.96D directs that INCSEA violations are to be reported 
+within 15 days of occurrence. 
+ 
+4. Action for Navy Component Commands (NCC).  To ensure that interactions 
+between U.S. and Russian Federation Forces are evaluated under both Visual 
+Information criteria and INCSEA Agreement criteria, the following guidance 
+will be added to Reference (a), paragraph E "Interactions with Russian Ships 
+and Aircraft": 
+a.  Per OPNAVINST 5711.96D, all interactions between U.S. and Russian Ships 
+and Aircraft that generate a VI report shall be evaluated for INCSEA 
+violations by Navy Component Commands (NCC).  The NCC shall include in their 
+VI report their assessment of whether or not an associated INCSEA violation 
+occurred, with details provided separately per OPNAVINST 5711.96D if it 
+indeed met INCSEA violation criteria. 
+b.  INCSEA incident criteria is independent of VI Criteria.  An interaction 
+determined to be safe and professional under VI guidance may still meet 
+INCSEA reporting criteria, driving the need to evaluate each event 
+independently against the criteria in references (a), (b) and (c).  Although 
+less common, underreporting may also exist for INCSEA violations that do not 
+trip a VI report, e.g. a simulated attack outside visual range. 
+c.  When in doubt, report the event as an INCSEA violation for further 
+evaluation by OPNAV ahead of annual INCSEA consultations, facilitating the 
+larger efforts of minimizing miscalculations while also maintaining 
+information balance. 
+ 
+5. For questions, please contact LCDR Robert Maul, email: 
+robert.maul(at)navy.smil.mil 
+ 
+6. Released by VADM W. R. Merz, Deputy Chief of Naval Operations for 
+Operations, Plans, and Strategy, OPNAV N3/N5.// 
+ 
+BT 
+#3176 
+NNNN 
+UNCLASSIFIED//

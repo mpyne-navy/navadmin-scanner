@@ -1,0 +1,174 @@
+UNCLASSIFIED 
+ROUTINE 
+R 081604Z MAR 22 MID200001561947U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 060/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/CASUALTY AND MORTUARY AFFAIRS PROCESSES IN RESPONSE TO COVID-19 UPDATE 
+THREE// 
+ 
+REF/A/MSG/OPNAV/091952ZJUL20// 
+REF/B/MEMO/OSD/15MAR2021// 
+REF/C/MEMO/OSD/12APR2021// 
+REF/D/MEMO/OSD/05MAY2020// 
+REF/E/MEMO/SECNAV/12JUN2020// 
+REF/F/MEMO/SECNAV/21OCT2020// 
+REF/G/MSG/OPNAV/241900ZMAY21// 
+REF/H/MSG/OPNAV/042044ZMAY21// 
+REF/I/MSG/OPNAV/051532ZAPR21// 
+REF/J/DOC/NMCPHC/19MAR2021// 
+REF/K/DOC/NMCPHC/14MAY2021// 
+REF/L/DOC/DODI/14AUG2009// 
+REF/M/DOC/COMNAVPERSCOM/08DEC2011// 
+REF/N/DOC/COMNAVPERSCOM/24FEB2011// 
+REF/O/DOC/COMNAVPERSCOM/02AUG2010// 
+ 
+NARR/REF A IS NAVADMIN 195/20, CASUALTY AND MORTUARY AFFAIRS PROCESSES IN 
+RESPONSE TO COVID-19 UPDATE TWO.   
+REF B IS SECRETARY OF DEFENSE MEMO ON UPDATE TO CONDITIONS-BASED APPROACH TO 
+CORONAVIRUS DISEASE 2019 ON PERSONNEL AND MOVEMENT RESTRICTIONS.   
+REF C IS UNDERSECRETARY OF DEFENSE (PERSONNEL AND READINESS (USD(PR)) FORCE 
+HEALTH PROTECTION GUIDANCE (FHPG) (SUPPLEMENT 20).   
+REF D IS USD(PR) MEMO ON CASUALTY AND MORTUARY AFFAIRS TRAVEL GUIDANCE.   
+REF E IS SECRETARY OF THE NAVY (SECNAV) MEMO ON DEPARTMENT OF THE NAVY 
+IMPLEMENTATION OF TRANSITION TO CONDITIONS-BASED APPROACH TO CORONAVIRUS 
+DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL RESTRICTIONS. 
+REF F IS SECRETARY OF THE NAVY (SECNAV) MEMO ON DELEGATION OF WAIVER APPROVAL 
+AUTHORITY FOR THE DEPARTMENT OF THE NAVY TRAVEL RESTRICTIONS IN RESPONSE TO 
+CORONAVIRUS DISEASE 2019.   
+REF G IS NAVADMIN 099/21, U.S. NAVY COVID-19 STANDING GUIDANCE.   
+REF H IS NAVADMIN 088/21, SARS-COV-2 VACCINATION AND REPORTING POLICY UPDATE. 
+REF I IS NAVADMIN 073/21, NAVY MITIGATION MEASURES IN RESPONSE TO CORONAVIRUS 
+OUTBREAK UPDATE 7 (CONDITIONS-BASED APPROACH TO COVID-19 PERSONNEL MOVEMENT 
+AND TRAVEL RESTRICTIONS).   
+REF J IS NAVY AND MARINE CORPS PUBLIC HEALTH CENTER DOCUMENT ASSESSING REAL 
+COVID-19 RISK.   
+REF K IS NAVY AND MARINE CORPS PUBLIC HEALTH CENTER U.S. NAVY FORCE HEALTH 
+PROTECTION WITH CONSIDERATIONS FOR VACCINE EFFICACY. 
+REF L IS DODI 1300.18, PERSONNEL CASUALTY MATTERS, POLICIES AND PROCEDURES.   
+REF M IS MILPERSMAN 1770-230, WOUNDED, ILL AND INJURED SAILORS:  CASUALTY 
+REPORTING, NOTIFICATION AND BEDSIDE TRAVEL.   
+REF N IS MILPERSMAN 1770-270, FUNERAL TRAVEL. 
+REF O IS MILPERSMAN 1770-271, MEMORIAL SERVICE TRAVEL. 
+ 
+RMKS/1.  This NAVADMIN supersedes reference (a), Secretary of 
+Defense (SecDef) directed waiver requirements to mitigate the risk 
+to the force due to the coronavirus disease 2019 in line with 
+references (b) through (k) remain in effect.  This NAVADMIN 
+delegates most casualty and mortuary travel waiver approval 
+authority to the O-6 or GS-15 level with the specific exceptions to 
+include high risk travel outside of U.S. and territories, travel by 
+unvaccinated personnel, and unit and next of kin travel to observe 
+dignified transfers (DT) at Dover Air Force Base (AFB), DE. 
+Exception requests must take into consideration all receiving and 
+originating location restrictions as well as airline restrictions. 
+Commands shall maintain a record of all travel waiver decisions and 
+forward denials to Navy Casualty Affairs (PERS-00C) to file in the 
+case record. 
+ 
+2.  Bedside Travel.  Invitational travel to the bedside of a 
+casualty remains temporarily suspended unless a waiver is granted. 
+Waivers may be approved by the first O-6 or GS-15 in the casualtys 
+chain of command when all stages of travel are conducted within U.S. 
+and territories.  Waivers when any stage of travel is outside of 
+U.S. and territories must be approved by Deputy Chief of Naval 
+Personnel (DCNP).  Travelers who self-fund travel will be reimbursed 
+within the limits of the Joint Travel Regulations. 
+ 
+3.  Casualty Assistance Calls Officer (CACO) Notifications and 
+Casualty Assistance Support.  CACO notification and enduring 
+assistance will be made in person between the hours of 0500-2359 
+unless an exception is approved by PERS-00C.  Commander, Navy 
+Installations Command (CNIC) Region Commanders (REGCOM) may direct 
+phone notification or remote support when health or safety risks 
+preclude safe in-person contact. 
+ 
+4.  DT.  Family travel to witness a DT at Dover AFB remains temporarily 
+suspended unless a waiver is granted.  Waivers must be approved by 
+DCNP.  Unit member participation is limited to the Commander and Senior 
+Enlisted Advisor or substitutes designated by the casualtys command.  When 
+authorized by the Commander, Navy District Washington (NDW), the on-call flag 
+officer will officiate the DT and the Navy carry team will support.  When the 
+on-call flag officer or NDW carry team are unable to support, the Air Force 
+Mortuary Affairs Operations (AFMAO) Commander or Deputy will officiate the DT 
+and the AFMAO carry team will support. 
+ 
+5.  Escorting Remains of Service Members and Civilian Employees. When remains 
+are transported by military air or military-contract air, aircraft commanders 
+will serve as the sole official escort. Exceptions to allow others to act as 
+an escort of remains to include transport by commercial aircraft and ground 
+transportation within U.S. and territories may be approved by the first O-6 
+or GS-15 in the escorts chain of command.  The proposed escort must be fully 
+immunized.  Exceptions for escorts with travel with any stage outside of U.S. 
+and territories and for unimmunized escorts, must be approved by the 
+DCNP.  The applicable CNIC REGCOM will assign a departure escort to travel 
+with the remains to the departure airport and a receiving escort to travel 
+with the remains from the arrival airport to the receiving funeral home or 
+place of final disposition, unless the CNIC REGCOM assesses that the health 
+and safety risk in the affected location(s) precludes the employment of a 
+local escort. 
+ 
+6.  Funeral Travel.  Funded family travel to funerals remains temporarily 
+suspended until Department of Defense (DoD) travel restrictions are lifted 
+unless a waiver is granted.  Waivers for funded family funeral travel may be 
+approved by the first O-6 or GS-15 in the decedents chain of command when all 
+stages of travel are conducted within U.S. and territories.  Waivers when any 
+stage of travel is outside of U.S. and territories must be approved by DCNP. 
+PERS-00C is the waiver authority for all past conflict cases. 
+Eligible travelers who self-fund travel will be reimbursed within the limits 
+of the Joint Travel Regulations. 
+ 
+7.  Command Memorial Service Travel.  Command memorial service travel remains 
+temporarily suspended until DoD travel restrictions are lifted unless a 
+waiver is granted.   Non-DoD personnel attending command memorial services on 
+a CNIC installation must have advance appropriate CNIC REGCOM 
+approval.  Waivers for command memorial travel may be approved by the first 
+O-6 or GS-15 in the decedents chain of command when all stages of travel are 
+conducted within U.S. and territories.  Waivers when any stage of travel is 
+outside of U.S. and territories must be approved by DCNP.  Eligible travelers 
+who self-fund travel will be reimbursed within the limits of the Joint Travel 
+Regulations. 
+ 
+8.  Waivers.  Commands will use local approval procedures and submit approval 
+documentation to PERS-00C at Mill_NavyTravelCell(at)navy.mil.   In all cases 
+where waivers are granted, Sailors will strictly follow all Centers for 
+Disease and Prevention restrictions and Navy guidance. 
+ 
+9.  Taking care of our wounded, our Fallen and their families remains a 
+sacred responsibility.  Commanders are encouraged to request assistance in 
+determining a prospective travelers eligibility for travel benefits before 
+granting a waiver.  Approval of bedside travel in particular should be 
+carefully scrutinized since law specifically limits travel to those picked by 
+the member themselves, typically listed on the members Record of Emergency 
+Data and Dependency Application.  All honors details should be uniform in 
+appearance while performing honors, therefore, all in the honors detail must 
+be either masked or unmasked. 
+ 
+10.  Points of contact for PERS-00C are LCDR Jory Morr, at (901) 874-2183 or 
+via e-mail jory.s.morr.mil(at)us.navy.mil or Mr. Demond Adams, at (901) 874-
+4788 or via e-mail at demond.adams(at)navy.mil. 
+The points of contact for CNIC Casualty and Funeral Honors (N00K) are  
+Ms. Nyeika Hollien, Funeral Honors Program Manager, at (202) 433-6892 or via 
+e-mail at nyeika.hollien(at)navy.mil and Mr. Michael Hill, Casualty 
+Assistance Specialist, (202) 433-4927 or via e-mail at 
+michael.hill1(at)navy.mil. 
+ 
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+12.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
