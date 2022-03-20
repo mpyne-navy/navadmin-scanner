@@ -1,0 +1,175 @@
+UNCLASSIFIED 
+ROUTINE 
+R 182134Z MAR 22 MID200001587848U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 075/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/GUIDANCE FOR CY-22 FULL SPEED AHEAD 3.0 TRAINING// 
+ 
+REF/A/DOC/TF1N FINAL REPORT// 
+AMPN/REF A IS TASK FORCE ONE NAVY FINAL REPORT// 
+ 
+RMKS/1.  This NAVADMIN provides guidance for Full Speed Ahead (FSA) 
+ 
+3.0 training and outlines the recommendations for completion and 
+documentation. 
+ 
+2.  Background.  FSA 3.0 training builds on the previous courses in the FSA 
+series with continued emphasis on character, competence, leadership, personal 
+and organizational growth.  It operationalizes the Culture of Excellence 
+(COE) emphasizing the themes of toughness, trust and connectedness.  As with 
+its predecessors, FSA 3.0 training blends scenario-based videos with small 
+group discussions led by command facilitators (CF) or other selected command 
+personnel. 
+ 
+3.  Purpose.  The Navy has teams with great culture and great performance, 
+but we also see examples of teams with poor culture and weak performance.   
+The gap between our best and our worst performers is too great.  To remain 
+the worlds strongest Navy, we must consistently have strong performance.  
+Reference (a) identified the need to have *open, honest and necessary 
+conversations across our Navy* and that *these conversations are vital for 
+our Navy team, as understanding and connection builds teamwork and teamwork 
+builds trust.*  FSA 3.0 training enables honest, humble and transparent 
+discussion about current performance and challenges each of us to 
+support others.  FSA 3.0 training is designed to apply Navy problem- 
+solving tools and best practices to create opportunities for our 
+teams to progress.  The training encourages critical thinking, 
+compels respectful and collaborative discussion, inspires adherence 
+to the Navy Core Values and champions a more complete integration of 
+the core attributes and signature behaviors of the Navy. 
+ 
+4.  Training Approach.  FSA 3.0 training is discretionary training. 
+While there is no Office of the Chief of Naval Operations (OPNAV) mandate to 
+conduct FSA 3.0 training, there is a strong anecdotal evidence that the 
+training is both needed and wanted in the Fleet. As such, subordinate 
+commands have the discretion to mandate FSA 3.0 training within their 
+organizations.  FSA 3.0 training consists of four (4), 60 to 90 minute 
+modules.  Each module is accompanied by facilitation guides for all hands 
+audiences, or rank-specific audiences (Junior Sailors [E-1 through E-4], 
+critical middle Sailors [E-5 through E-8, O-1 through O-4] and senior Sailors 
+[E-9, O-5 and above]).  Each module addresses themes and behaviors that are 
+foundational to the Navy’s COE.  Each module includes a realistic dramatized 
+video vignette, a documentary video interview segment and facilitated 
+discussion.  Each of the four modules can be delivered as stand-alone 
+training, but are most effective in succession as each module builds upon 
+previous modules.  Commands are encouraged to allow time between modules to 
+allow for processing and reflection.  The four FSA 3.0 training modules are:   
+Module 1: Sailor Identity and Connectedness,  
+Module 2:  Trust and Fairness, 
+Module 3:  Diversity, Equity, and Inclusion, and  
+Module 4:  Sailor Today, Sailor Tomorrow. 
+ 
+5.  CF Selection and Training.  Although formal certification is not required 
+to deliver FSA 3.0 training, due to the nuanced nature of the discussion FSA 
+3.0 training elicits, commands are highly encouraged to use previously 
+certified CF to deliver the training, or to send new CF to the FSA 3.0 Train-
+the-Trainer (TTT) course. 
+There are no specified paygrade requirements for CF, however, all should be 
+exemplary and dynamic command members who have the ability to actively engage 
+Sailors while delivering the FSA 3.0 TTT course materials.  Previously 
+certified CF include those personnel who were certified for Bystander 
+Intervention to the Fleet (BI2F-FY15), Chart the Course (CTC-FY16), FSA 
+(FY17) or FSA 2.0 (FY18).  Commands may run a report of their qualified CF 
+using the NAVADMIN completions report for the course title NETC-FSA 2.0-CF-
+CERT in the Fleet Training Management Planning System (FLTMPS).  This 
+completion report will reflect all CF certified in fiscal year (FY) 2015, 
+FY16 and FY17 under the prior courses CPPD-BI2F-CF-CERT, NETC-CTC-CF-CERT 
+or NETC-FSA-CF-CERT. 
+    a.  FSA 3.0 TTT Course.  The 21st Century Sailor Office (OPNAV N17) staff 
+will conduct CF training in each of the Navy regions throughout the remainder 
+of FY22.  The FSA 3.0 TTT course is designed as initial training for newly 
+designated CF, refresher training for previously certified CF and TTT for the 
+Regional Training Force discussed in subparagraph (b).  A morning and 
+afternoon session of the FSA 3.0 TTT course will be offered each day of 
+training.  Each session is limited to 30 participants.  The FSA 3.0 TTT 
+course is approximately 3 hours long.  The FSA 3.0 TTT course schedule is: 
+Naval Region Mid-AtlanticNorfolk, VA29-31 MAR 
+Navy Region EURAFRCENTBahrain11-13 APR 
+Navy Region SouthwestSan Diego, CA19-21 APR 
+Navy Region NorthwestBremerton, WA26-28 APR 
+Navy Region HawaiiPearl Harbor, HI10-12 MAY 
+Navy Region SoutheastJacksonville, FL17-19 MAY 
+Navy Region EURAFRCENTNaples24-26 MAY 
+Navy Region JapanYokosuka, Japan15-17 JUN 
+Navy Region KoreaKorea     21 JUN 
+Navy Region MarianasNimitz Hill, Guam23-24 JUN 
+Navy Region Mid-Atlantic  Groton, CT28-30 JUN 
+Navy District Washington Washington, DC12-14 JUL 
+FSA 3.0 TTT course completion will be documented by OPNAV N17 
+facilitators in FLTMPS within 1-2 weeks of course completion, as 
+*Full Speed Ahead (FSA) 3.0 Command Facilitator Certification (FSA-3.0-CF-
+CERT).* 
+    b.  Regional Training Force.  FSA 3.0 training is an enduring training 
+and discussion platform.  While many commands will execute the training 
+straightaway, others may wait for a pause in operations tempo to 
+execute.  Accordingly, OPNAV N17 instructors will train a regional training 
+force, leveraging echelon II-IV subject matter experts.  Once trained, the 
+regional training force will be empowered to conduct CF training for echelon 
+V commands in their region.  Navy regions should work with base commanders to 
+identify individuals for the Regional Training Force leveraging command 
+climate specialists, Diversity, Equity and Inclusion Practitioners, Sexual 
+Assault Prevention and Response Officers, Religious Ministry Teams and other 
+COE/command resilience team members. 
+    c.  Additionally, on the afternoon of the first training day in each 
+region, OPNAV N17 will host an O6 or GS15-led informational session for 
+command triads and other interested leadership to discuss COE-related topics 
+and initiatives. 
+    d.  Region Point of Contact (POC).  Regional commanders shall identify 
+and appoint a local POC to assist OPNAV N17 personnel with registration and 
+logistical coordination to include reserving suitable classroom space and 
+ensuring audio and video capabilities. Once appointed, the POC should work 
+with base commanders in order to ensure widest dissemination to tenant 
+commands to include amplifying registration and logistical information. 
+ 
+6.  Training Delivery.  CF will deliver FSA 3.0 training as small group, 
+face-to-face discussions.  FSA 3.0 training sessions should normally include 
+no more than 30 personnel in order to maximize the advantage of the small 
+group experience.  Peer-led sessions are encouraged using the different 
+facilitation guides delineated by rank. 
+    a.  Training Audience.  FSA 3.0 training is strongly recommended for all 
+uniformed Navy personnel and civilians or other service personnel assigned at 
+Navy commands are encouraged to attend consistent with their mission 
+requirements and command direction. 
+    b.  Training Materials.  FSA 3.0 training materials (videos, Facilitator 
+Guide and supporting material), the FSA 3.0 TTT course schedule, regional 
+points of contact and additional resources are available for download at the 
+COE FSA website at 
+(https://www.mynavyhr.navy.mil/Support-Services/21st-Century-Sailor/Culture-
+of-Excellence/Full-Speed-Ahead/). 
+ 
+7.  Documentation.  For commands documenting completion of FSA 3.0 training 
+using FLTMPS, learning event completion form each module has a unique course 
+identification number:  Full Speed Ahead (FSA) 3.0 Peer Level Training Module 
+1 (FSA-3.0-M1), Full Speed Ahead (FSA) 3.0 Peer Level Training Module 2 (FSA-
+3.0-M2), Full Speed Ahead (FSA) 3.0 Peer Level Training Module 3 (FSA-3.0-M3) 
+and Full Speed Ahead (FSA) 3.0 Peer Level Training Module 4 (FSA-3.0-M4). 
+ 
+8.  Assessment.  This should not be viewed as *one and done* training.   
+Behavior change takes practice.  All commands are encouraged to take 
+ownership of this training by assessing the knowledge and understanding of 
+the topics discussed by Sailors and by making this training a part of day-to-
+day conversations.  The measure of success of this training will be the 
+extent to which Sailors remain engaged up and down the chain of command and 
+continue the conversation among their peers about making good decisions, 
+modeling signature behaviors and treating everyone with dignity and respect. 
+ 
+9.  POC are CDR Tracy Less, who can be reached via e-mail at 
+theresa.c.less(at)us.navy.mil and CM1 Bill Root, who can be reached 
+via e-mail at william.e.root23(at)us.navy.mil. 
+ 
+10.  Released by Vice Admiral John B. Nowell Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
