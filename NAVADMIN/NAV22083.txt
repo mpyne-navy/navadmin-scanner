@@ -1,0 +1,138 @@
+UNCLASSIFIED 
+ROUTINE 
+R 302215Z MAR 22 MID200001622241U 
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC//N1// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 083/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/DEC// 
+ 
+SUBJ/CCDA INTERIM GUIDANCE REGARDING MEMBERS REQUESTING RELIGIOUS 
+ACCOMMODATION FROM COVID-19 VACCINATION REQUIREMENTS// 
+ 
+REF/A/MSG/CNO/311913ZAUG21// 
+REF/B/MSG/CNO/132050ZOCT21// 
+REF/C/MSG/CNO/152239ZNOV21// 
+REF/D/MSG/CNO/151203ZDEC21// 
+REF/E/DOC/SECDEF/24AUG21// 
+REF/F/MSG/SECNAV/302126ZAUG21// 
+REF/G/DOC/BUMED/20OCT20// 
+REF/H/MSG/COMNAVSPECWARCOM/241857ZSEP21// 
+REF/I/DOC/US DIST CT N DIST TX/28MAR22// 
+REF/J/DOC/BUPERINST 1730.11A/16MAR20// 
+REF/K/DOC/OPNAV/15AUG20// 
+REF/L/MSG/CNO/152351ZJAN22// 
+ 
+NARR/REF A IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION 
+AND REPORTING POLICY. 
+REF B IS NAVADMIN 225/21, COVID-19 CONSOLIDATED DISPOSITION AUTHORITY (CCDA). 
+REF C IS NAVADMIN 256/21, CCDA GUIDANCE TO COMMANDERS. 
+REF D IS NAVADMIN 283/21, CCDA EXECUTION GUIDANCE TO COMMANDERS. 
+REF E IS THE SECRETARY OF THE DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 2019 
+VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS. 
+REF F IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-19 
+VACCINATION POLICY. 
+REF G IS MANUAL OF THE MEDICAL DEPARTMENT, NAVMED P-117, ARTICLE 15- 
+105(3)(n)(9). 
+REF H IS TRIDENT ORDER NUMBER 12, MANDATORY VACCINATION FOR COVID-19. 
+REF I IS U.S. DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS ORDER ON 
+MOTIONS FOR CLASS CERTIFICATION AND CLASS-WIDE PRELIMINARY INJUNCTION. 
+REF J IS BUPERSINST 1730.11A, STANDARDS AND PROCEDURES GOVERNING THE 
+ACCOMMODATION OF RELIGIOUS PRACTICES. 
+REF K IS MILPERSMAN 1730-020, IMMUNIZATION EXEMPTIONS FOR RELIGIOUS BELIEFS. 
+REF L IS NAVADMIN 07/22, U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL GUIDANCE 
+5.0. 
+ 
+RMKS/1.  Purpose.  To provide interim guidance regarding the actions directed 
+in references (A) through (H) for Navy service members who requested 
+religious accommodation from the COVID-19 vaccination requirement and who 
+were certified by the U.S. District Court order in reference (I) as members 
+of a class action in the case of U.S. Navy SEALS 1-26, et al., versus 
+Secretary of Defense Lloyd J. Austin, III, et al.. 
+ 
+2.  Policy.  To ensure immediate compliance with the court order in reference 
+(I), this NAVADMIN suspends separation processing and adverse administrative 
+consequences of COVID-19 vaccine refusal for Navy service members who 
+submitted requests for religious accommodation from the COVID-19 vaccine 
+requirement.  IAW a recent decision of the U.S. Supreme Court, the Navy may 
+continue to consider the unvaccinated status of Navy service members when 
+making deployment, assignment, and other operational decisions. 
+ 
+3.  Applicability.  This NAVADMIN applies only to Navy service members who 
+submitted requests for religious accommodation from the COVID-19 vaccine 
+requirement IAW references (J) and (K).  Adverse administrative consequences 
+and separation processing described in references (A) through (H) continue to 
+apply for personnel who did not submit requests for religious accommodation. 
+ 
+4.  Action.  All adverse administrative consequences of refusing the vaccine, 
+described in references (A) through (H), including involuntary administrative 
+separation, are hereby suspended for personnel who submitted religious 
+accommodation requests IAW references (J) and (K), pending further guidance. 
+ 
+4.a.  In cases where commands have received formal direction to involuntarily 
+separate members within ten days based on misconduct (vaccine refusal) and 
+those members have not yet separated, DD-214s shall not be issued and members 
+are directed to remain on active duty, pending additional guidance.  Commands 
+must communicate with the servicing Personnel Support Detachment or 
+equivalent in order to halt processing.  Additionally, commands shall inform 
+Navy Personnel Command PERS-832 (enlisted), PERS-834 (officers), or PERS-913 
+(SELRES) in cases where service members awaiting separation still desire to 
+separate. 
+ 
+4.b.  Voluntary resignation, retirement, regular service expiration (EAOS), 
+or other involuntary separations on bases other than misconduct for vaccine 
+refusal may continue.  Members who submitted requests for religious 
+accommodation may cancel or amend previous voluntary retirement requests or 
+requests to transfer to the Fleet Reserve.  Time is of the essence for 
+updated requests. 
+ 
+4.c.  Additional guidance for other adverse administrative consequences 
+described in references (A) through (D) will be provided at a later date. 
+ 
+5.  The Navy may continue to consider the unvaccinated status of Navy service 
+members when making deployment, assignment, and other operational decisions. 
+Navy service members who are not vaccinated, regardless of exemption status, 
+may be temporarily or permanently reassigned based on mission requirements 
+IAW previous guidance.  Reference (L) (series) regarding the assignment of 
+unvaccinated personnel to operational or deployable units continues to apply. 
+ 
+6.  All unvaccinated Navy service members remain subject to screening testing 
+against COVID-19, where required. 
+ 
+7.  If in doubt as to how to adjudicate issues related to separation of a 
+Navy service member consistent with this interim guidance, Commanders should 
+seek guidance from their chain of command, their staff judge advocate, and/or 
+the CCDA before acting.  Commands without an assigned legal advisor may seek 
+legal advice from a Region Legal Service Office.  In all cases, Commanders 
+are accountable to ensure the health and safety of their command while 
+treating every Navy service member with dignity and respect. 
+ 
+8.  Points of contact. 
+PERS-8 Active/FTS enlisted separations: *832vaccineadseps.fct(at)navy.mil* 
+PERS-8 Officer separations: *PERS-834(at)navy.mil* 
+PERS-8 Active/FTS/TAR enlisted retirements: 
+*Enlisted_Active_Duty_Retirements(at)navy.mil* 
+PERS-8 Active/FTS/TAR officer retirements: *pers_835_retirements(at)navy.mil* 
+PERS-8 Officer and enlisted promotion delays: 
+NPC_promotionwithholds.fct(at)navy.mil* 
+PERS-92 Officer and enlisted definite recalls: *PERS-92(at)navy.mil*. 
+PERS-9 Reserve enlisted separations: *913vaccineadseps.fct(at)navy.mil*. 
+PERS-97 Officer transitions: *cto.officer(at)navy.mil* 
+PERS-97 Enlisted transitions: *cto.enlisted(at)navy.mil* 
+OPNAV POC: CAPT Jason Grizzle, *ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL*. 
+ 
+9.  Released by VADM John B. Nowell, Jr, COVID Consolidated Disposition 
+Authority. 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
