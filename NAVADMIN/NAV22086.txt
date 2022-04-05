@@ -1,0 +1,81 @@
+UNCLASSIFIED 
+ROUTINE 
+R 041937Z APR 22 MID200001633177U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 086/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+SUBJ/NAVY TRANSITION TO TASK MANAGEMENT TOOL - PHASE III// 
+ 
+REF/A/MSG/012157Z FEB 22// 
+REF/B/MSG/021659Z FEB 22// 
+REF/C/MSG/041449Z MAR 22// 
+ 
+NARR/Reference (a) is NAVADMIN 022/22, Navy Transition to Task Management 
+Tool - Announcement.  Reference (b) is NAVADMIN 025/22, Navy Transition to 
+Task Management Tool - Phase I.  Reference (c) is NAVADMIN 051/22, Navy 
+Transition to Task Management Tool - Phase II.// 
+ 
+RMKS/1.  Purpose.  Per references (a) through (c), this NAVADMIN details the 
+timeline and plan for Navy's completion of Phase III of the Navy's transition 
+from the current system, the Department of the Navy Tasking, Records, and 
+Consolidated Knowledge Enterprise Repository (DON TRACKER), to the Enterprise 
+Task Management Solution System (ETMS2), commonly referred to as Task 
+Management Tool (TMT).  In addition, this NAVADMIN provides leadership with a 
+current state of training. 
+ 
+2.  Way Ahead.  "Go-live" for NIPR is planned for 2 May 2022.  However, the 
+DON will transition from DON TRACKER to ETMS2 NIPR/SIPR NLT 1 July 2022 and 
+will be determined by the successful completion of Validation Exercises 
+(VALEX) executed by the ETMS2 Accenture Training Team for organizations in 
+the DON.  The go-live dates for both NIPR and SIPR will be announced by 22 
+April 2022.  Once users go live in ETMS2 NIPR and SIPR, users will not be 
+able to create new taskers in DON TRACKER.  It is recommended that all 
+commands currently using DON TRACKER conduct a comprehensive review of their 
+NIPR and SIPR taskers in DON TRACKER and close out any inactive taskers. 
+Any tasker in DON TRACKER as of 1 May will continue in DON TRACKER until 
+closed out. 
+ 
+3.  State of Training 
+    a. 6,100 users of the approximately 17,000 required have completed 
+Beginner Training.  Beginner training is the minimum requirement for 
+obtaining an account in ETMS2. 
+    b. 355 users have completed Advanced Training.  While optional, current 
+    users that have attended have found it to be highly useful.  Advanced 
+training is highly recommended. 
+    c. 100 of approximately 400 senior leaders and principal officials across 
+    the Navy have completed Senior Leadership Training. 
+ 
+4.  ETMS2 (TMT) Customer Support 
+    a.  DON ETMS2 support is fully integrated with the Army Enterprise 
+Service Desk-Worldwide (AESD-W).  AESD-W will serve as the ETMS2 point of 
+contact for all ETMS2-related incidents, questions, and service requests 
+24/7, 365 days a year. 
+    b.  For NIPR ETMS2 support, submit a request to the AESD-W Self Service 
+Web Portal at https://snpro.aesd-w.army.mil/ or by calling 1-866-335-ARMY 
+(2769), then select prompt 1 for NIPR services, sub-prompt 1 for enterprise 
+services, then select 6. 
+    c.  For SIPR ETMS2 support, call 1-866-335-ARMY (2769) and select prompt 
+2 for classified services, followed by sub-prompt 4 (other services). 
+ 
+5.  For questions or concerns regarding Navy's transition to the TMT, please 
+contact the Navy's ETMS2 Transition Team at 
+navy_etms2_transition(at)us.navy.mil. 
+ 
+6.  Applicability.  This NAVADMIN is applicable to commands using DON TRACKER 
+as the Navy's primary Task Management Solution. 
+ 
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
