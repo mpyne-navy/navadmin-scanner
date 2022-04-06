@@ -1,0 +1,54 @@
+UNCLASSIFIED
+
+ROUTINE
+
+R 061652Z APR 22 MID200001639510U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 089/22
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
+
+SUBJ/UPDATE TO CAREER INTERMISSION PROGRAM//
+
+REF/A/DOC/SEC 521 PUBLIC LAW 117-81/27DEC21//
+REF/B/DOC/OPNAV/12MAR18//
+
+NARR/REF A IS SECTION 521 OF S. 1605, NATIONAL DEFENSE AUTHORIZATION ACT FOR 
+FISCAL YEAR 2022.  
+REF B IS OPNAVINST 1330.2C, NAVY CAREER INTERMISSION PROGRAM GUIDELINES.//
+
+RMKS/1.  This NAVADMIN announces a legislative revision to the Navy Career 
+Intermission Program (CIP).  Reference (a) reduces the CIP service 
+commitment, specifically, that CIP participants will payback one month, 
+instead of two, for every month of program participation.
+This applies to all applications made after 27 December 2021.
+
+2.  The program changes announced by this NAVADMIN will be incorporated into 
+the next revision to reference (b).  More information can be found at 
+https://www.mynavyhr.navy.mil/Career-
+Management/Reserve-Personnel-Mgmt/IRR/Career-Intermission/.aspx.
+
+3.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+4.  Point of contact is the CIP manager at CIP(at)navy.mil.
+
+5.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
+
