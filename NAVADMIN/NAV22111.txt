@@ -1,0 +1,42 @@
+ROUTINE 
+R 111528Z MAY 22 MID200001709339U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 111/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
+ 
+SUBJ/MAJOR COMMAND SCREENED ADDITIONAL QUALIFICATION DESIGNATOR// 
+ 
+REF/A/LTR/NAVMAC/18JAN22// 
+AMPN/REF A IS NAVMAC ESTABLISHMENT OF MAJOR COMMAND SCREENED (2D4) AQD. 
+ 
+RMKS/1.  Reference (a) created an Additional Qualification Designator (AQD) 
+to identify officers who have screened and been selected for major 
+command.  The goal of establishing this AQD is to easily identify officers, 
+regardless of designator, who have been selected for major command. 
+ 
+2.  AQD awarding criteria is as follows: 
+    a.  Earned the 2D1 AQD, 
+    b.  earned the 2D2 AQD, and 
+    c.  screened and selected by a Major Command Screen Board. 
+ 
+3.  All Navy Captains who have screened and selected for major command should 
+verify their record to ensure they have been awarded the 2D4 AQD.  Any 
+officer meeting the eligibility criteria for the 2D4 AQD who does not see it 
+reflected in their record should contact their detailer. 
+ 
+4.  Released by Vice Admiral J. B. Nowell, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
+
