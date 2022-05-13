@@ -1,0 +1,117 @@
+ROUTINE 
+R 121527Z MAY 22 MID600051839731U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 112/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
+ 
+SUBJ/INITIATION OF NAVY SEABEE UNDERWATER CONSTRUCTION TECHNICIAN MASTER 
+DIVER RETENTION BONUS PROGRAM// 
+ 
+REF/A/MEMO/ASN WASHNGTON DC/31AUG21// 
+REF/B/DOC/DODI/05NOV20// 
+REF/C/DOC/USC/01JAN22// 
+ 
+NARR/REF A IS MEMORANDUM FOR DEPUTY CHIEF OF NAVAL OPERATIONS, RETENTION 
+BONUS SEABEE UNDERWATER CONSTRUCTION TECHNICIAN MASTER DIVER 31AUG2021.   
+REF B IS DOD INSTRUCTION 1304.31, ENLISTED BONUS PROGRAM.   
+REF C IS SECTION 331 OF TITLE 37 U.S. CODE, GENERAL BONUS AUTHORITY FOR 
+ENLISTED MEMBERS.// 
+ 
+RMKS/1.  This NAVADMIN announces the Navy Seabee Underwater Construction 
+Technician (UCT) Master Diver Retention Bonus (RB) Program. 
+ 
+2.  Program Overview.  This bonus is authorized under references (a) and 
+(c).  Specific critical Navy enlisted classifications (NEC) and approved 
+award levels have been prescribed by Assistant Secretary of Navy (Manpower 
+and Reserve Affairs) (ASN (M and RA)).  The Navy Seabee Enlisted Community 
+Manager (BUPERS-329) will act as the UCT RB Program Manager.  All 
+applications for this bonus will be submitted to the UCT RB program manager 
+for processing and tracking. 
+In line with reference (b), a Service Member (SM) may receive no more than 
+360,000 dollars in RB monies over a career.  Selective reenlistment bonus 
+awards are included in this cap. 
+ 
+3.  Eligibility.  In line with reference (c), UCT senior enlisted SMs with 
+NEC B18A, in paygrades E-7 and above, who have between 20 and 27 years of 
+active service, shall be eligible to apply for the UCT RB but must also meet 
+the following eligibility criteria: 
+    a.  Be serving on Active Duty in a regular component. 
+    b.  Have the favorable recommendation of the commanding officer for 
+receipt of UCT RB. 
+    c.  Be assigned to a valid B18A billet throughout the duration of the RB 
+period. 
+    d.  Be fit for full duty. 
+ 
+4.  Ineligibility 
+    a.  SMs serving under an existing RB contract are not eligible to receive 
+an additional RB for service outlined in the original contract agreement. 
+    b.  SMs are not eligible for RB payments past their high year tenure 
+(HYT) date.  HYT waiver requests must be completed before submitting a UCT RB 
+application. 
+ 
+5.  Contract Terms.  UCT RB contract lengths, payments and Active Duty 
+service obligations are outlined below. 
+    a.  SMs may sign a contract in their 20th year of service (YOS). 
+RB payments begin at 20 YOS.  Enlisted SMs may contract to their HYT 
+mark.  E-7s are eligible to contract to 24 YOS.  E-8s are eligible 
+to contract to 26 YOS.  E-9s are eligible to contract to 30 YOS.  If 
+a SM serves a partial year, that year will be prorated.  Specific 
+bonus amounts are graduated pursuant to YOS. 
+        (1) 15,000 dollars per year for 3-year contracts. 
+        (2) 17,500 dollars per year for 4-year contracts. 
+        (3) 20,000 dollars per year for 5-year contracts. 
+    b.  UCT RB contracts may be for a minimum of 3 and a maximum of 
+5 years.  SMs under RB contract will not submit a request for retirement or 
+tender a resignation with an effective date that is prior to completion of 
+the agreement.  Enlisted SMs must reenlist or extend their enlistment 
+contract, soft end of active obligated service, for a period of at least 2 
+years.  SMs are authorized early reenlistment in order to align RB and 
+reenlistment contracts. 
+Reenlistments and extensions may be combined to align service dates for 
+maximum opportunity, up to a reenlistment of 6 years and extension of up to 
+12 months. 
+ 
+6.  Program Execution 
+    a.  SMs should submit requests for UCT RB to the program manager 
+60 to 180 days prior to entering into a UCT RB contract via their chain of 
+command.  If operational commitments limit the ability to submit RB 
+applications via this manner, commands should submit requests through their 
+immediate superior in the chain of command who can submit the request to the 
+program manager. 
+    b.  Upon acceptance of an agreement of the SM by the program manager, the 
+amount of the bonus becomes fixed and the SM incurs a firm service 
+obligation. 
+    c.  SMs will receive the annual bonus amount in a lump sum payment, 
+effective from the date of contract execution. 
+    d.  RB requests for personnel who are being processed for disciplinary 
+action, NEC removal or restoration will be held in abeyance pending final 
+resolution. 
+    e.  SMs unable to complete the service obligation specified in the RB 
+agreement may be subjected to repayment of any unearned portion of the 
+retention bonus. 
+    f.  All payments must be made before the SM reaches their 28th year of 
+service.  Any payment that would be due to the SM past this point will be 
+included in the final regular payment scheduled prior to reaching their 28th 
+year. 
+ 
+7.  Point of contact is BUPERS-329 at (901) 874-2037, DSN 882 or email at 
+seabee_ecm.fct(at)navy.mil. 
+ 
+8.  This message will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
