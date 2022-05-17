@@ -1,0 +1,91 @@
+ROUTINE 
+R 171947Z MAY 22 MID600051857871U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 115/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/MAY// 
+ 
+SUBJ/FY22 REVISED PROJECTED SHIP INACTIVATION SCHEDULE// 
+ 
+REF/A/DOC/OPNAVINST 4770.5J/20210904// 
+REF/B/DOC/OPNAVINST 5400.44A/20111013// 
+REF/C/NAVADMIN/145/21/021303ZJUL21// 
+ 
+NARR/REF A IS OPNAV POLICY AND GUIDANCE FOR THE INACTIVATION, RETIREMENT, AND 
+DISPOSITION OF U.S. NAVAL VESSELS.   
+REF B IS NAVY ORGANIZATION CHANGE MANUAL (NOCM) FOR SUBMITTING ORGANIZATIONAL 
+CHANGE REQUESTS (OCR) TO INCLUDE SHIP DECOMMISSIONINGS OR INACTIVATIONS.   
+REF C IS NAVADMIN ANNOUNCING PROJECTED FY22 INACTIVATIONS// 
+ 
+POC/DR. JOHN SHASSBERGER/CIV/N9IS/LOC: Washington DC/TEL: 703-692-3534/EMAIL: 
+john.e.shassberger.civ@us.navy.mil// 
+ 
+RMKS/1.  This message supersedes ref (c) and shall be read in its entirety to 
+ensure all stakeholders in the ship inactivation process are aware of the 
+revised projected retirement schedule for fiscal year 2022 (FY22), respective 
+responsibilities, and necessary follow-up actions.  Ship retirement decisions 
+reflected in paragraph 2 below align with the enacted FY22 National Defense 
+Authorization Act and FY22 omnibus appropriations bill. 
+ 
+2.  To facilitate fleet planning efforts to conduct decommissioning 
+continuous maintenance availability (CMAV) or inactivation availability 
+(INAC), the projected schedule for inactivating U.S. battle force and  
+non-battle force naval vessels in FY22 is promulgated as follows: 
+ 
+Ship NameProj Inactive DatePost Inactive Status 
+USS TEMPEST PC 207 MAR 22FMS 
+USS TYPHOON PC 528 FEB 22FMS 
+USS SQUALL PC 714 MAR 22FMS 
+USS FIREBOLT PC 1023 FEB 22FMS 
+USS WHIRLWIND PC 1121 MAR 22FMS 
+USS MONTEREY CG 6126 SEP 22LSA 
+USS HUE CITY CG 6630 SEP 22LSA 
+USS ANZIO CG 6830 SEP 22LSA 
+USS VELLA GULF CG 7219 SEP 22LSA 
+USS PORT ROYAL CG 7330 SEP 22LSA 
+USS CORONADO LCS 430 SEP 22OCIR 
+USS WHIDBEY ISLAND LSD 4130 SEP 22LSA 
+USS PROVIDENCE SSN 71902 DEC 21RECYCLE 
+USS OKLAHOMA CITY SSN 72310 FEB 22RECYCLE 
+USNS APACHE T-ATF 17230 SEP 22FMS 
+USNS 1ST LT HARRY L MARTIN T-AK 301530 DEC 21DISPOSAL 
+USNS LCPL ROY M WHEAT T-AK 301631 DEC 21DISPOSAL 
+USNS MENDONCA T-AKR 30301 SEP 22AGENCY XFER 
+USNS BENAVIDEZ T-AKR 30601 SEP 22AGENCY XFER 
+USNS INVINCIBLE T-AGM 2423 MAY 22AGENCY XFER 
+ 
+3.  Per ref (b), Fleet Commanders shall submit an OCR for commissioned U.S. 
+ships to formally notify the Office of the Chief of Naval Operations (OPNAV) 
+of a ship's decommissioning, inactivation, or end of service.  Submit 
+revisions due to operational schedule changes per references (a) and (b).  It 
+is the responsibility of Commander, U.S. Fleet Forces Command and Commander, 
+U.S. Pacific Fleet in coordination with their respective TYCOM to ensure the 
+appropriate lower echelon commands are notified of any changes in the ship 
+inactivation schedules, as well as Integrated Warfare (OPNAV N9I) and OPNAV 
+resource sponsor. 
+ 
+4.  Adjustments to paragraph 2 ship inactivations that cross the current 
+fiscal year must be coordinated with OPNAV N9I due to Congressional 
+requirements for execution year force structure changes that differ from what 
+Congress authorized/appropriated and signed into law by the President.  OPNAV 
+shall promulgate changes to the inactivation fiscal year as required. 
+ 
+5.  The ship's commanding officer, masters, or Immediate Superior In Command, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning ceremony) announcing the ship's official retirement date 
+and include a brief history of the significant events in the life of the ship 
+per ref (a).  The Naval History and Heritage Command (NAVHISTHERITAGECOM 
+WASHINGTON DC) and Naval Vessel Register Custodian (NVR NORFOLK VA), shall be 
+included as INFO addees. 
+ 
+6.  Released by VADM S. D. Conn, Deputy Chief of Naval Operations for 
+Warfighting Requirements and Capabilities (N9).// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
