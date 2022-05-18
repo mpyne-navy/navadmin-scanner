@@ -1,5 +1,5 @@
 ROUTINE 
-R 131449Z MAY 22 MID600051844580U 
+R 131900Z MAY 22 MID200001712320U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
@@ -13,12 +13,13 @@ FM CNO WASHINGTON DC//N1//
 INFO CNO WASHINGTON DC//N1// 
 MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
  
-SUBJ/FY-23 ACTIVE-DUTY NAVY E8 AND E9 ADVANCEMENT SELECTION BOARDS RESULTS// 
+SUBJ/FY-23 ACTIVE-DUTY NAVY E8 AND E9 ADVANCEMENT SELECTION BOARDS RESULTS 
+(CORRECTED COPY)// 
  
 REF/A/DOC/BUPERS/2NOV07// 
  
-AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
-OF THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.// 
  
 GENTEXT/RMKS/1.  Congratulations to the following personnel who have been 
 selected for advancement to senior and master chief petty officer by the FY-
@@ -34,7 +35,7 @@ below may be frocked IAW ref (a) if qualified.
 3.  Members are directed to verify their select status via BUPERS 
 Online.  The selection list is in alphabetical order by rate within 
 competitive category.  Read each line from left to right, name, and numerical 
-order of advancement. 
+order of advancement.
  
      ABCM - Master Chief Aviation Boatswains Mate 
 Dawson Carl G     002         Durdle Eric A     001 
@@ -43,26 +44,27 @@ Sears Nicole      006         Tracy Troy An     005
      ACCM - Master Chief Air Traffic Controller 
 Bruder Jeffre     001         Hercules Nels     005 
 Ollinger Chri     002         Raynor Bradle     003 
-Sinsay Erwin      004         Ahuna Donovan     036 
-Allen Matthew     012         Apperson Harl     035 
-Arrington Ale     005         Aveytiaramire     029 
-Benitez Jose      009         Blake Andre N     038 
-Bounds Adam J     014         Covington Joh     008 
-Cruz Andrew S     017         Dunaway Richa     006 
-Francis Garvi     031         Guzman Wendel     007 
-Hill Robert J     034         Hinton Dustin     022 
-Lawrence Deno     002         Leidigh Willi     011 
-Lively David      028         Loiselle Jaya     018 
-Lowe Matthew      033         Luebcke Chris     025 
-Manter James      003         Martis Frankl     026 
-Mcgregor Edua     030         Meyers Christ     024 
-Munizmercado      037         Ogoy Reynaldo     016 
-Palyo Shawn R     001         Parker James      027 
-Rentas David      010         Solomuli Luai     013 
-Sulzer James      015         Sykes James K     019 
-Toner Francis     032         Wilhelm Steve     021 
-Williams Zane     020         Wright Michae     004 
-Young Matthew     023 
+Sinsay Erwin      004 
+    AFCM - Master Chief Aircraft Maintenanceman 
+Ahuna Donovan     036         Allen Matthew     012 
+Apperson Harl     035         Arrington Ale     005 
+Aveytiaramire     029         Benitez Jose      009 
+Blake Andre N     038         Bounds Adam J     014 
+Covington Joh     008         Cruz Andrew S     017 
+Dunaway Richa     006         Francis Garvi     031 
+Guzman Wendel     007         Hill Robert J     034 
+Hinton Dustin     022         Lawrence Deno     002 
+Leidigh Willi     011         Lively David      028 
+Loiselle Jaya     018         Lowe Matthew      033 
+Luebcke Chris     025         Manter James      003 
+Martis Frankl     026         Mcgregor Edua     030 
+Meyers Christ     024         Munizmercado      037 
+Ogoy Reynaldo     016         Palyo Shawn R     001 
+Parker James      027         Rentas David      010 
+Solomuli Luai     013         Sulzer James      015 
+Sykes James K     019         Toner Francis     032 
+Wilhelm Steve     021         Williams Zane     020 
+Wright Michae     004         Young Matthew     023 
         AGCM - Master Chief Aerographers Mate 
 Kasimcarew Ab     003         Lothyan Joshu     004 
 Seaney Joel D     002         Vargas Edward     001 
