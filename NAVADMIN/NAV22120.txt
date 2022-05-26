@@ -1,0 +1,159 @@
+CLASSIFICATION: UNCLASSIFIED
+
+ROUTINE
+
+R 241934Z MAY 22 MID200001745462U
+
+FM CNO WASHINGTON DC
+
+TO CNO WASHINGTON DC
+NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 120/22
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N4/MAY//
+
+SUBJ/PROCEDURES FOR NOTIFYING CIVILIAN LAW ENFORCEMENT OF ISSUANCE OF A 
+MILITARY
+PROTECTIVE ORDER//
+
+REF/A/MSG/CNO WASHINGTON DC/R 081428Z NOV 19//
+REF/B/DOC/10 U.S.C.//
+REF/C/DOC/32 C.F.R.//
+REF/D/DOC/DOD/28MAR13//
+REF/E/DOC/SECNAV/10AUG18//
+REF/F/DOC/OPNAV/13AUG15//
+REF/G/DOC/DOD/15DEC21//
+REF/H/DOC/OPNAV/20MAY20//
+REF/I/DOC/SECNAV/23SEP19//
+REF/J/DOC/DOD/12FEB2020//
+REF/K/DOC/GAO-21-289/31MAY21//
+
+NARR/REF A IS NAVADMIN 252/19, PROCEDURES FOR NOTIFYING CIVILIAN LAW 
+ENFORCEMENT OF ISSUANCE OF A MILITARY PROTECTIVE ORDER.
+REF B IS TITLE 10, U.S.C. SECTION 1567A, MANDATORY NOTIFICATION OF
+ISSUANCE OF MILITARY PROTECTIVE ORDER TO CIVILIAN LAW ENFORCEMENT.
+REF C IS TITLE 32 C.F.R. PART 105.9, COMMANDER AND MANAGEMENT SEXUAL ASSAULT
+PREVENTION AND RESPONSE PROCEDURES.
+REF D IS DODI 6495.02, VOL. 1, SEXUAL ASSAULT PREVENTION AND RESPONSE:  
+PROGRAM PROCEDURES.
+REF E IS SECNAVINST 1752.4C, SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM
+PROCEDURES.
+REF F IS OPNAVINST 1752.1C, SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM.
+REF G IS DODI 6400.06, DOD COORDINATED COMMUNITY RESPONSE TO DOMESTIC
+ABUSE INVOLVING DOD MILITARY AND CERTAIN AFFILIATED PERSONNEL.
+REF H IS OPNAVINST 1752.2C, FAMILY ADVOCACY PROGRAM.
+REF I IS SECNAV M-5210.1, DEPARTMENT OF THE NAVY RECORDS MANAGEMENT
+PROGRAM.
+REF J IS UNDER SECRETARY OF DEFENSE MEMO, PLACING MILITARY PROTECTIVE ORDERS 
+IN THE NATIONAL CRIME INFORMATION CENTER PROTECTIVE ORDER FILE.
+REF K IS GOVERNMENT ACCOUNTABILITY OFFICE 21-289, DOMESTIC ABUSE:  ACTIONS
+NEEDED TO IMPROVE DOD'S PREVENTION, RESPONSE AND OVERSIGHT.//
+
+POC/CWO5 MUEHLHAUSER, THOMAS D/CNO WASHINGTON DC/OPNAV N4I62/
+TEL:  (703) 695-5526/EMAIL:  THOMAS.D.MUEHLHAUSER.MIL@US.NAVY.MIL//
+
+RMKS/1.  This NAVADMIN cancels reference (a) and directs compliance with
+references (b) through (k).  Reference (j) places military protective orders
+(MPO) in the National Crime Information Center (NCIC) database.  References 
+(b) through (i) remain current and in effect.  Per reference (j), all 
+commanding officers (CO) will place all active MPOs in NCIC Protection Order 
+File (POF) for the duration of the order, regardless of whether any 
+individual involved in the MPO resides on a military installation.  MPOs will 
+be submitted via the Consolidated Law Enforcement Operations Center (CLEOC) 
+in accordance with paragraph 3 of this message, for inclusion into NCIC, as 
+required.  MPOs issued by a CO remain in effect until the military commander 
+terminates the order or issues a replacement order and will remain in NCIC 
+for the duration of the order.  Per references (d), (e), (f), and (h), all 
+issued and modified MPOs will be documented with Department of Defense Form 
+2873 (DD Form 2873), February 2020, or subsequent version.  Cancelled MPOs 
+will be removed from NCIC upon receipt of Department of Defense Form 2873-1 
+(DD Form 2873-1), January 2020, or subsequent version.  Commands will retain 
+MPO records within local files in accordance with reference (i).
+
+2.  Authorities
+    a.  Per references (f) through (h), COs have authority to issue an MPO 
+when necessary to safeguard victims, quell disturbances, and maintain good 
+order and discipline, which may provide victims time to pursue a protection 
+order through a civilian court (should they choose to do so) or support an 
+existing civilian protection order (CPO).
+ b.  COs should consult with the first Staff Judge Advocate in their chain of
+ command to determine how to best address CPO/MPO violations.
+
+3.  Responsibilities
+    a.  Commander, Navy Installations Command (CNIC) must:
+        (1) Provide installation commanders with a process to submit all 
+issued, modified, and terminated MPOs to Navy Criminal Investigative Service
+        (NCIS) via CLEOC.
+        (2) In support of applicable Navy COs without access to CLEOC, 
+provide a process to submit MPOs to the Installation Security      
+Department.  Installation Security Departments will submit MPOs to NCIS via 
+CLEOC.
+    b.  COs:
+        (1) COs with assigned Navy Security Forces Command Master-At-Arms,
+        Independent Duty Master-At-Arms, or Security Officers (649x/749x)
+        Performing law enforcement duties shall utilize CLEOC Protective 
+Order Module to ensure all issued, modified, and terminated MPOs are 
+submitted to NCIS.
+        (2) COs of shore based tenant activities located on a Navy 
+installation will immediately submit issued MPOs to the applicable host 
+installation CO for entry into CLEOC.
+        (3) COs of shore based activities not located on a Navy installation
+        will immediately forward MPOs directly to their assigned NCIS Field
+        Office or the nearest Navy installation CO for entry into CLEOC and 
+ultimately into the NCIC POF.
+        (4) COs of afloat units, in port, are required to immediately submit
+        MPOs via CLEOC.  If an afloat unit is underway, deployed, or not
+        otherwise able to access CLEOC, MPOs will be submitted as soon as 
+network connectivity is resumed.  For emergent situations, MPOs shall be 
+forwarded to the applicable Navy installation CO or NCIS Field Office for 
+entry into CLEOC.
+        (5) COs must provide notice to any Service member subject to a MPO or
+        CPO that failure to comply with MPO or CPO terms may result in
+        Administrative or other disciplinary action, to include potential 
+criminal prosecution in accordance with the Uniform Code of Military Justice 
+(UCMJ).
+        (6) COs must monitor CPOs and MPOs issued to personnel within their
+        command per reference (k).  In the event of a transfer of a Service
+        member with an existing CPO or MPO, COs must contact the gaining 
+command within seven calendar days of the pending transfer and recommend the 
+gaining command CO
+        issue a new MPO upon arrival to the gaining unit.
+        (7) COs must report any modifications or cancellation of the MPO via
+        CLEOC Protective Order Module.
+        (8) Per references (d) through (f) and (h), COs should consult a 
+judge advocate prior to issuing or terminating a MPO.
+    c.  Commander, Naval Legal Service Command (CNLSC):
+        (1) CNLSC will ensure Region Legal Service Offices provide judge
+        advocate support to commanders without their own servicing staff 
+judge advocate throughout the MPO issuance and termination process.
+        (2) CNLSC will ensure a module on the issuance of MPOs is included in
+        the training curriculum for prospective commanding officers and
+        executive officers, and for judge advocates and legal officers.
+    d.  Service members must comply with MPOs and CPOs.  In addition to UCMJ
+    Article 128b, MPO violations may also result in discipline for violation 
+of UCMJ, Article 92.  Further, CPO violations may also subject offenders to
+    discipline for violations of UCMJ, Article 134 pursuant to the 
+Assimilative State Crimes Act, 18. U.S.C.  134.
+
+4.  MPO Forms.  The current and fillable version of DD Form 2873 and 2873-1 
+can be found at:  https://www.esd.whs.mil/directives/forms/.  On the 
+effective date of this message, the current version of the MPO forms are DD 
+Form 2873, February 2020, and DD Form 2873-1, January 2020.  Previous 
+versions of MPO DD Forms will not be accepted.
+
+5.  This NAVADMIN will remain in effect until superseded or cancelled.
+
+6.  Released by VADM R. L. Williamson, CNO N4.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED
+
