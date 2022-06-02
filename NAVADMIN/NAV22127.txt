@@ -1,0 +1,169 @@
+ROUTINE
+R 011634Z JUN 22 MID200001761825U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 127/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE I UPDATE//
+
+REF/A/MSG/CNO WASHINGTON DC/091538ZDEC21//
+REF/B/MSG/CNO WASHINGTON DC/230112ZAUG08//
+REF/C/MSG/CNO WASHINGTON DC/022009ZDEC19//
+
+NARR/REF A IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY 
+(DMAP).   
+REF B IS NAVADMIN 234/08, SEA SHORE FLOW ENLISTED CAREER PATHS.   
+REF C IS NAVADMIN 274/19, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE.
+
+RMKS/1.  This NAVADMIN provides additional details and guidance regarding 
+Detailing Marketplace Assignment Policy (DMAP) to ensure more Sailors and 
+commands can benefit.
+    a.  In addition to afloat commands benefitting from experienced and 
+motivated Sailors staying at sea, DMAP plank owners selected in the recent 
+inaugural MyNavy Assignment (MNA) cycle will:
+        (1) Receive an increase in pay through advancement from E4 to E5, if 
+not already E5.
+        (2) Collect a monthly monetary incentive, Detailing Marketplace 
+Incentive Pay (DMIP), in addition to collecting sea pay and sea pay premium.
+        (3) Remain in the same homeport on the ship or squadron where they 
+trained as an Apprentice Sailor if selected for Command Advance to Position 
+(CA2P).
+        (4) Earn an advantage in MNA for a follow-on shore tour assignment 
+after completing their journeyman (E5) sea tour.
+    b.  Sailors within the DMAP Phase I ratings (ABF, ABH, CS and
+GSM) should anticipate maximum flexibility in determining who meets the 
+requirements of reference (a) and minimum friction in accepting a DMAP plus-
+three sea tour.  The MyNavy HR team will interpret every requirement within 
+all DMAP policy guidance to ensure the greatest possible participation.
+
+2.  Projected Rotation Date (PRD) Adjustments.  Effective immediately, 
+Enlisted Distribution Division (PERS-40) will adjust PRDs to a 48-month tour 
+for all E5 and E5 eligible Sailors within the DMAP Phase I ratings who are 
+serving in their initial Continental United States (CONUS) sea tour.  This 
+replaces paragraph
+
+4.f of reference (a) and alleviates the administrative burden on activities 
+by no longer requiring submission of Electronic Personnel Action Request 
+(NAVPERS 1306/7) for DMAP Sailors.
+
+3.  PRD Assignments for New Accession Sailors.  Effective immediately, all 
+CONUS sea duty accession orders for Sailors in the DMAP Phase I ratings will 
+be written for an initial 48-month sea tour.  Sailors who do not qualify for 
+a journeyman (E5) sea tour after serving 3 years on their first sea tour will 
+have their PRDs adjusted to align with their soft end of active obligated 
+service.
+This replaces paragraph 4.b in reference (a) and aligns with the DMAP four-
+plus-three construct.
+
+4.  CA2P.  To nominate a Sailor for CA2P, activities must submit a member 
+realignment request (MRR) in MNA prior to or within the first
+3 weeks of the next MNA cycle (i.e., prior to the end of the upcoming MNA 
+scrub phase).  PERS-40 will validate that the activity has a current or 
+projected E5 funded billet vacancy and then Sailors will be ranked based on 
+their most recent E5 examination final multiple score.  If DMAP quotas are 
+available (see paragraph 6), Sailors will:
+    a.  Be approved for CA2P.
+    b.  Be realigned to a valid E5 billet.
+    c.  Have their PRD extended for a 3 year journeyman (E5) tour or a 7 year 
+total initial sea tour (whichever is later).
+    d.  Be frocked to E5 upon completion of agreement to obligate additional 
+service as described above.
+    e.  Be advanced to E5 upon completion of required training and placement 
+into a valid E5 billet.
+        (1) Commands can frock Sailors to E5 as soon as CA2P approval is 
+received and the Sailor has obligated service through their extended PRD, 
+either through reenlistment or extension of enlistment.
+        (2) Sailors will advance to E5 and begin receiving E5 pay upon 
+filling the E5 billet and will receive DMIP for the last three years on sea 
+duty.  Transaction support centers will effect advancement to E5 upon 
+receiving the required key supporting documents.
+        (3) Instructions on how to submit an MRR, as well as a general list 
+of eligibility requirements, can be found on the Detailing Marketplace 
+webpage of the MyNavy HR website at:
+https://www.mynavyhr.navy.mil/Career-Management/Detailing/Enlisted/Detailing-
+Marketplace/.
+        (4) The full MNA schedule is available on the detailing marketplace 
+webpage listed above.  The first 3 weeks of the upcoming MNA cycles (i.e., 
+the scrub phase) are provided below:
+            6 - 24 June 2022
+            8 - 28 August 2022
+            3 - 21 October 2022
+            5 - 22 December 2022
+        (5) MNA does not allow activities to submit an MRR for Sailors who 
+are within their order negotiation window (i.e., within
+12 months of their PRD).  When operational requirements or PRD adjustments 
+described in paragraph 2 above prevent MRR submissions prior to the order 
+negotiation window, activities can submit CA2P nominations via email to 
+DMAP.fct(at)navy.mil.  If the request is approved, actions will be executed 
+in alignment with paragraph 4.
+
+5.  Sailors on Second Sea Tour.  E5 eligible Sailors (i.e., E4 Sailors who 
+have passed the most recent E5 Navy wide advancement
+exam) and E5 Sailors in a DMAP Phase I rating who are on their second sea 
+tour are eligible for DMAP incentives in return for a 3 year extension to the 
+prescribed sea tour length listed in references (b) and (c).  This provides 
+additional advancement opportunities to E5 eligible Sailors prior to hitting 
+E4 high year tenure.  It also provides additional geographic stability 
+options for Sailors desiring to remain in their current homeport.  This is an 
+expansion of eligibility described in paragraphs 1 and 4 of reference (a).
+
+6.  DMAP Quotas.  The number of DMAP quotas available (i.e., the number of 
+Sailors that can be on a plus-three sea tour) for each Phase I rating depends 
+on the number of sea and shore duty billets the rating needs to fill.  DMAP 
+intends to fill sea duty billets that would remain unmanned under sea shore 
+flow (SSF).  MyNavy HR intends to phase in the number of Sailors on a plus-
+three journeyman
+(E5) sea tour across several years to ensure a smooth transition from SSF to 
+DMAP, provide opportunity fairness and avoid a large movement of Sailors from 
+sea to shore at the end of their plus-three journeyman (E5) sea tour.
+
+7.  Additional Considerations.  DMAP represents a major paradigm shift in how 
+the Navy mans the Fleet.  As such, MyNavy HR intends to collect data and 
+feedback to help inform future adjustments to DMAP.
+Sailor and command flexibility and feedback remain key enablers to ensuring 
+success.  To that end, the following considerations are
+provided:
+    a.  Tour Extensions.  The transition from SSF to DMAP may require PERS-40 
+to extend Sailors in their current shore duty assignment to ensure proper 
+manning of critical shore activities and to maximize the alignment between 
+Sailor and billet rating and paygrade.
+    b.  C-School Quota Management.  DMAP Sailors approved for CA2P or A2P who 
+require training prior to filling a journeyman (E5) sea duty billet will be 
+given priority placement in the appropriate C- school to the maximum extent 
+practicable.
+    c.  Pulse Surveys.  MyNavy HR intends to send pulse surveys to DMAP Phase 
+I Sailors who negotiated for orders after each MNA cycle.
+This gives Sailors the opportunity to provide direct feedback that will be 
+used in future policy development.
+    d.  Command Triad Feedback.  Command triads are encouraged to provide 
+feedback, lessons learned and suggested improvements through their immediate 
+superior in command and type commanders.
+
+8.  Points of Contact
+    a.  For specific rate/rating/Navy enlisted classification questions and 
+concerns, Sailors should contact their respective community manager or 
+detailer.
+    b.  For general career information, including questions about DMIP, 
+Advance to Position and CA2P, contact MyNavy Career Center contact center at 
+833-330-MNCC (6622) or askmncc(at)navy.mil.
+    c.  For DMAP questions, contact the MyNavy HR DMAP team at 
+DMAP.fct(at)navy.mil.
+
+9.  This message will remain in effect until superseded or canceled.
+
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.//
+
+BT
+#0001
+NNNN 
+UNCLASSIFIED//
+
