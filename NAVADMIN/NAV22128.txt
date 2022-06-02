@@ -1,0 +1,58 @@
+ROUTINE 
+R 021943Z JUN 22 MID200001775844U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 128/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/SUSPENSION OF THE ACTIVE COMPONENT CRYPTOLOGIC WARFARE LIMITED DUTY 
+OFFICER DESIGNATOR 681X// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N1/032039ZJUN21// 
+REF/B/MSG/CNO WASHINGTON DC/N1/251736ZJAN18// 
+REF/C/DOC/OPNAV/6DEC16/NOTAL// 
+ 
+NARR/ REF A IS NAVADMIN 116/21, FY-23 ACTIVE-DUTY LIMITED DUTY OFFICER AND 
+CHIEF WARRANT OFFICER IN-SERVICE PROCUREMENT BOARD.   
+REF B IS NAVADMIN 014/18, UPDATED OFF-RAMP GUIDANCE FOR ACTIVE AND RESERVE 
+COMPONENT INFORMATION WARFARE AND SUPPLY CORPS LIMITED DUTY OFFICERS.   
+REF C IS OPNAVINST 1210.5A, LATERAL TRANSFER AND REDESIGNATION OF OFFICERS IN 
+THE NAVY. 
+ 
+RMKS/1.  This NAVADMIN announces suspension of Active Component 
+Cryptologic Warfare (CW) Limited Duty Officer (LDO) designator 681X 
+accessions due to the overlap in CW LDO and Chief Warrant Officer 
+(CWO) (781X) skill sets.  Formal disestablishment of the 681X 
+designator will take place after natural attrition of current 
+inventory. 
+ 
+2.  The Navy suspended CW LDO 681X accessions beginning with the 
+Fiscal Year (FY) 2023 In-Service Procurement Board, announced in 
+reference (a).  The FY-22 (cycle year 2021) In-Service Procurement 
+Board was the last board that selected CW LDO 681X officers.  Active 
+component CW LDOs 681X are highly encouraged to complete CW officer 
+(1810) requirements and submit redesignation without board action 
+requests to 1810, consistent with references (b) and (c).  All 681X 
+billets will be converted to either 781X or 181X in coordination 
+with billet stakeholders. 
+ 
+3.  Points of contact 
+    a.  CW Officer Community Manager is CDR Brian Schulz at (901) 
+874-3123/DSN 882, or e-mail at brian.l.schulz.mil(at)us.navy.mil. 
+    b.  LDO and CWO Community Manager is CAPT Patrick Sutton at 
+(901) 874-3042/DSN 882, or e-mail at patrick.h.sutton.mil(at)us.navy.mil. 
+ 
+4.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

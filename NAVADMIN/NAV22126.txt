@@ -1,0 +1,46 @@
+ROUTINE 
+R 021709Z JUN 22 MID200001775336U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 126/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/APR// 
+ 
+SUBJ/AWARD OF THE AFGHANISTAN CAMPAIGN MEDAL (ACM) FOR OPERATION ALLIES 
+REFUGE (OAR), CLOSURE OF THE ACM AND AUTHORIZATION TO AWARD THE GLOBAL WAR ON 
+TERRORISM EXPEDTIONARY MEDAL (GWOTEM) FOR OPERATION ENDURING SENTINEL// 
+ 
+REF/A/LTR/ASD/24MAR2022// 
+REF/B/LTR/UNSECDEF/18MAR2022// 
+REF/C/DOC/SECNAV/16AUG2019// 
+ 
+NARR/ REF A ANNOUNCED APPROVAL OF THE ACM FOR OAR.  
+REF B ANNOUNCED CLOSURE OF THE ACM FOR SERVICE IN AFGHANISTAN AND 
+AUTHORIZATION OF THE GWOTEM FOR OPERATION ENDURING SENTINEL.   
+REF C IS THE NAVY AND MARINE CORPS AWARDS MANUAL.// 
+ 
+RMKS/1.  Pursuant to reference (a), Navy personnel who deployed into 
+Afghanistan to support OPERATION ALLIES REFUGE (OAR) between 1 July 2021 and 
+31 August 2021 are authorized the Afghanistan Campaign Medal (ACM), 
+regardless of the number of days deployed.  Those personnel who qualify for 
+the ACM under this exception are not authorized either the Global War on 
+Terrorism Expeditionary Medal (GWOTEM) or the Humanitarian Service Medal for 
+participation in OAR. 
+ 
+2.  Pursuant to reference (b), award of the ACM is not authorized for service 
+in Afghanistan for OPERATION FREEDOM'S SENTINEL after 31 August 
+2021.  Service in the ACM area of eligibility after 31 August 2021 for 
+OPERATION ENDURING SENTINEL may be recognized by the GWOTEM, provided all 
+other GWOTEM criteria in reference (c) are met. 
+ 
+3.  Released by Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

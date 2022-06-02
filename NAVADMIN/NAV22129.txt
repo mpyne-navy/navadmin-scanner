@@ -1,0 +1,356 @@
+ROUTINE 
+R 021900Z JUN 22 MID200001775784U 
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//N1// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 129/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/MANDATORY USE OF THE NAVY PERSONNEL AND PAY (NP2) MYPCS TRAVEL VOUCHER 
+SUBMISSION TOOL AND GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT 
+CHANGE OF STATION (PCS) TRAVEL// 
+ 
+REF/A/GENADMIN/CNO WASH DC/061749ZAUG19// 
+REF/B/GENADMIN/CNO WASH DC/241737ZJUN20// 
+REF/C/GENADMIN/CNO WASH DC/151917ZDEC21// 
+REF/D/GENADMIN/CNO WASH DC/151823ZDEC21// 
+REF/E/DOC/DOD/JUN2021// 
+REF/F/DOC/DTMO/MAR2022// 
+REF/G/DOC/DOD/1MAY2022// 
+ 
+NARR/REF A IS NAVADMIN 184/19 GOVERNMENT TRAVEL CHARGE CARD USE DURING 
+PERMANENT CHANGE OF STATION TRAVEL. 
+REF B IS NAVADMIN 176/20 GOVERNMENT TRAVEL CHARGE CARD USE DURING PERMANENT 
+CHANGE OF STATION FULL ROLLOUT. 
+REF C IS NAVADMIN 286/21 MANDATORY USE OF GOVERNMENT TRAVEL CHARGE CARD AND 
+MYPCS TRAVEL VOUCHER. 
+REF D IS NAVADMIN 285/21 GOVERNMENT TRAVEL CHARGE CARD USE DURING PERMANENT 
+CHANGE OF STATION LESSONS LEARNED. 
+REF E IS THE DEFENSE TRAVEL MANAGEMENT OFFICE (DTMO) GTCC 
+REGULATIONS. 
+REF F IS THE JOINT TRAVEL REGULATIONS. 
+REF G IS THE DOD FINANCIAL MANAGEMENT REGULATION (FMR) VOLUME 7A.// 
+ 
+RMKS/1.  This NAVADMIN cancels references (a) through (c) and 
+mandates the use of the MyPCS Travel Voucher and the Government 
+Travel Charge Card (GTCC) for Permanent Change of Station (PCS) 
+travel in accordance with the timelines listed in paragraph 2.  The 
+MyPCS Travel Voucher is a fully automated, electronic travel claim 
+voucher capability introduced to the Fleet in 2019.  Its use has 
+streamlined the travel claim process, increasing accuracy and 
+reducing processing timelines.  The GTCC has also been authorized 
+for PCS travel since 2019.  These efforts are a proven capability 
+providing Sailors and their families a reliable mean of financial 
+support during and after a PCS move.  These represent another MyNavy 
+HR milestone toward delivering better quality of service to Sailors 
+and their families through a modernized pay and personnel process. 
+Reference (d) provides information and guidance to reinforce 
+procedures for using the GTCC during a PCS travel. 
+ 
+2.  Timeline.  On 01 Jan 2022, Phase I of the mandatory use of the 
+MyPCS Travel Voucher and GTCC for PCS travel was implemented for all 
+Active Duty (AD) and Training and Administration of the Reserve 
+(TAR) in paygrades E-9 and O-6 and above.  Mandatory use of the 
+MyPCS Travel Voucher and GTCC for PCS will expand to other paygrades 
+as reflected below. 
+   a.  MyPCS Travel Voucher: 01 Jul 2022, all AD and TAR Service 
+Members in all paygrades are required to use the MyPCS Travel 
+Voucher for submission of PCS travel claims, except for members 
+reporting to commands listed in paragraph 10c.  Mandated use of the 
+MyPCS Travel Voucher was previously expanded to include Selected 
+Reservists executing Active Duty for Operational Support and Officer 
+Recall PCS orders. 
+   b.  GTCC Phase II: 01 Jul 2022, all Service Members in paygrades 
+E-7 and above and O-4 and above will be required to use the GTCC for 
+PCS travel expenses. 
+   c.  GTCC Phase III: 01 Jan 2023, all Service Members in all 
+paygrades will be required to use the GTCC for PCS travel expenses. 
+ 
+3.  Policy 
+   a.  Use of the GTCC for PCS travel applies to personnel traveling 
+on both Continental United States (CONUS) and outside CONUS (OCONUS) 
+PCS orders who are: 
+      (1) Active Duty 
+      (2) Training and Administration of the Reserve (TAR) 
+      (3) Selected Reservists (SELRES) executing Active Duty for 
+Operational Support (ADOS) and Officer Recall PCS orders 
+   b.  Use of the GTCC for PCS travel does not apply to: 
+      (1) Personnel on accession, separation, or retirement orders 
+      (2) DoD Civilian personnel and contractors 
+      (3) Individual mobilization augmentees 
+      (4) Individual Ready Reserve Navy personnel 
+      (5) Individuals not eligible to obtain a GTCC or are otherwise 
+explicitly exempted by reference (e) 
+   c.  New accessions eligible to receive a GTCC will apply for and 
+receive their GTCC upon check-in at their first Permanent Duty 
+Station (PDS). 
+ 
+4.  Actions and Responsibilities. 
+   a.  Commanders and supervisors.  Ensure Agency Program 
+Coordinators (APC), Command Pay and Personnel Administrators 
+(CPPA), and GTCC cardholders adhere to all applicable instructions. 
+Commanders and supervisors at all levels are responsible for 
+ensuring compliance with Section 040103 of reference (e). 
+   b.  APCs.  APCs shall be reflected on command check-in and check- 
+out sheets. 
+      (1) Losing command.  APCs will consult with all Service 
+Members during the check-out process and advise them of the rules, 
+regulations, and requirement to use the GTCC for PCS travel for all 
+authorized expenses (paragraph 5).  In accordance with reference 
+(e), APCs shall verify the cardholders GTCC is active, in a Mission 
+Critical (MC)/PCS status, and has a zero balance prior to the 
+Service Member detaching from the command.  Credit, retail, and cash 
+withdrawal limits above the default limits in reference (e) must be 
+adjusted to accommodate requirements for the duration of PCS travel. 
+If the APCs approval maximum is insufficient for the duration and 
+requirements of PCS travel, the affected APC shall consult the next 
+higher APC hierarchy level for further consideration.  APCs shall 
+provide MC/PCS status expiration date and advise the Service Member 
+to call MyNavy Career Center (MNCC) to renew MC/PCS status every 90 
+days as necessary. 
+      (2)  Gaining command.  Upon arrival at the gaining command, 
+APCs will ensure the cardholders account is transferred into the 
+gaining command hierarchy and account status adjustments are made to 
+update the members phone number, email address, physical mailing 
+address or other pertinent information which changed due to the 
+move.  Under no circumstances should an APC either close a 
+cardholders GTCC account or remove the cardholder from MC/PCS 
+status, as it will have negative effects on the timeline towards 
+delinquency. 
+   c.  CPPAs.  The CPPA shall be reflected on command check-in and 
+check-out sheets.  Gaining command CPPAs shall ensure members submit 
+their MyPCS Travel Vouchers within five working days of arrival. 
+   d.  Cardholders.  Service Members using the GTCC for official 
+government travel are encouraged to register on Citimanager 
+(https://home.cards.citidirect.com/CommercialCard/login).  Failure to use the 
+GTCC for authorized PCS expenses may subject the cardholder to appropriate 
+administrative or disciplinary action. 
+     (1) Before travel: During check out with the APC/CPPA, the 
+Service Member shall provide a copy of their PCS orders, estimated 
+PCS expenses and a contact number where the Service Member can be 
+reached during travel. 
+     (2) During travel: Service Members shall keep receipts for all 
+reimbursable expenses.  Cardholders who have reached their credit 
+limit or experience a declined GTCC when attempting to make an 
+authorized purchase should call MNCC for assistance to raise their 
+credit limit or to determine if a Merchant Category Code (MCC) block 
+may restrict that vendor.  Service Members will be reimbursed for 
+PCS expenses up to their maximum entitlement per reference (f). 
+Overspending of entitlements may result in personal indebtedness and 
+the cardholder will be subject to repaying the remaining balance on 
+the GTCC. 
+      (3) Extended PCS travel (>120 days): Cardholder accounts are 
+placed in a MC/PCS status while a Service Member is traveling to 
+their new PDS.  MC/PCS status protects the Service Member from any 
+payments being due on the GTCC until 60 days after coming out of 
+MC/PCS status.  Citibank program limitations only allow accounts to 
+be in a MC/PCS status for 120 days at a time.  To prevent the 
+Citibank bill from coming due prior to the Service Member reporting 
+to their PDS, Service Members must contact their detaching command 
+APC or MNCC Pro Cell at (833-330-MNCC) Option 2 to have their MC/PCS 
+status extended.  Failure to extend the account in MC/PCS status may 
+result in the Service Member being placed in a past due or 
+delinquent status and ultimately lead to loss of GTCC privileges and 
+potential damage to personal credit rating. 
+     (4) Upon check-in to PDS: Cardholders shall review their GTCC 
+account for accuracy and ensure all supporting receipts are 
+submitted using the MyPCS Travel Voucher to ensure sufficient funds 
+are allocated to pay the full balance on the card when the travel 
+claim is liquidated.  Service Members shall check-in with the APC 
+and CPPA to submit their travel voucher using MyPCS Travel Voucher 
+within five working days and before executing any permissive TDY. 
+Split disbursement is mandatory when using GTCC for PCS. 
+      (5) To verify full payment has been completed upon MyPCS 
+Travel Voucher liquidation, Service Members shall review their 
+Advice of Payment in MyPay. 
+      (6) MNCC will verify GTCC balance when liquidating travel 
+claims to result in a zero balance on the GTCC.  This may result in 
+per diem funds being applied to produce a zero balance. 
+      (7) Service Members should verify their GTCC balance on Citi 
+Manager has been paid in full after their travel has been 
+liquidated. 
+      (8) Individual cardholders are responsible for timely payment 
+of their GTCC balance.  Any outstanding balance on the GTCC must be 
+paid within 60 days of coming out of MC/PCS status.  Account 
+delinquency may adversely impact the Service Members assignability, 
+financial health, security clearance, or credit history.  Accounts 
+become past due 31 days after checking in to the command.  On Day 
+61, the GTCC is suspended.  On Day 75, the cardholder is charged a 
+ 
+29.00 per month late fee.  On Day 126, the member is submitted for 
+enrollment in Salary Offset and on Day 211, Citibank may charge off 
+the debt which could affect the cardholders credit. 
+ 
+5.  Authorized and unauthorized uses of the GTCC for PCS travel. 
+   a.  Service Members should note PCS travel expenses are not 
+necessarily directly reimbursed.  Reimbursement is based on PCS 
+allowance rules in accordance with Chapter 5 of reference (f). 
+   b.  The GTCC is authorized for the following travel expenses: 
+      (1) Temporary Lodging Expense (TLE) at the old or new CONUS 
+PDS.  See Chapter 5 of reference (f) for information on TLE. 
+      (2) Fuel and electric vehicle charging for a Privately Owned 
+Vehicle (POV) when POV is the authorized mode of transportation. 
+      (3) Rental car and fuel, when a rental car is the authorized 
+mode of transportation. 
+      (4) Lodging.  Service Members will be reimbursed per reference 
+(f) Chapter 2. 
+      (5) Meals.  Service Members will be reimbursed per reference 
+(f) Chapter 2. 
+      (6) Dislocation Allowance (DLA) Expenses.  These are expenses 
+related to DLA normally used to establish a household (e.g., carpet 
+cleaning, utility deposits).  If the Service Member uses the GTCC 
+for DLA expenses and does not exceed their authorized entitlement, 
+the member will receive the full amount of the difference when their 
+travel claim is liquidated.  If the Service Member was issued 
+advanced DLA, the member shall not use the GTCC for DLA expenses. 
+      (7) Automated Teller Machine (ATM) or bank teller withdrawals 
+up to the monthly cash withdrawal limit in reference (e).  A 2.4 
+percent non-reimbursable fee applies to any amount withdrawn.  ATM 
+charges are not reimbursable expenses. 
+   c.  The GTCC is not authorized for the following travel expenses: 
+      (1) DLA expenses when issued advanced DLA. 
+      (2) Dependent use without the Service Member. 
+      (3) Commercial airfare for PCS travel.  Commercial airfare 
+will continue to be booked by the Navy Passenger Transportation 
+Office (NAVPTO).  No commercial airfare charges will be made to a 
+Service Members GTCC account including when the Service Members 
+orders contain intermediate stops to PDS. 
+      (4) Personal travel arrangements incurred during leave in 
+conjunction with orders.  See reference (e) for further details. 
+      (5) Personally Procured Moves (PPM) operating expenses (e.g., 
+rental truck/trailers, moving supplies, furniture pads, rope, oil, 
+weight ticket fees). 
+      (6) Accession, separation, or retirement travel. 
+      (7) Payment of debt owed to creditors. 
+      (8) Personal expenses unrelated to travel expenses (e.g., 
+automobile repairs, medical expenses, childcare, entertainment, or 
+uniform items). 
+      (9) Short-term storage-in-transit (SIT) or long-term non- 
+temporary storage (NTS) of PPMs or other household goods. 
+      (10) Temporary Lodging Allowance (TLA).  In accordance with 
+reference (g), TLA may be authorized by the TLA Authority when a 
+Service Member or dependent is reporting to an OCONUS location and 
+needs to occupy temporary lodging at personal expense.  TLA cannot 
+be paid for with the GTCC since it is a pay entitlement, not a 
+travel entitlement.  Additionally, TLA expenses cannot be split 
+disbursed to Citibank. 
+ 
+6.  GTCC Misuse.  Commanders, supervisors, CPPAs, and APCs will 
+ensure Service Members using their GTCC are advised of authorized 
+and prohibited uses of the GTCC for PCS travel.  Examples of misuse 
+include but are not limited to: 
+   a.  Expenses unrelated to PCS travel. 
+   b.  ATM cash withdrawals made more than three working days prior 
+to official government travel or excessive ATM cash withdrawals for 
+amounts exceeding authorized meals and incidental expense amounts. 
+   c.  Intentional failure to pay undisputed charges in a timely 
+manner. 
+   d.  Personal use for entertainment or gambling.  Military 
+personnel who violate the specific prohibitions contained in 
+reference (e) can be subject to administrative or disciplinary 
+action under the Uniform Code of Military Justice (UCMJ) based on 
+the nature of the misconduct involved. 
+ 
+7.  Travel Advance Guidance. 
+   a.  If desired and qualified per reference (f), a Service Member 
+under PCS orders may request advanced DLA.  If issued, the GTCC 
+shall not be used for DLA expenses. 
+   b.  Service Members may request an Advance Operating Allowance 
+for Household Goods (HHG) PPMs and Advance Basic Pay and still use 
+their GTCC for all authorized travel expenses. 
+   c.  All other travel advances (per diem, mileage, Temporary 
+Additional Duty (TAD) travel) are not authorized with concurrent use 
+of the GTCC.  Qualified exceptions will be restricted to non- 
+concurrent travel of dependents and Service Members not eligible to 
+receive a GTCC per reference (e). 
+   d.  Use of the GTCC and receipt of travel advances for the same 
+entitlement could result in indebtedness to the Government through 
+over expenditure of entitlements, and Service Members may be subject 
+to administrative and disciplinary action. 
+ 
+8.  TLE guidance.  APCs shall ensure Service Members planning on 
+using TLE at their PDS remain in a MC/PCS status while using the 
+GTCC for TLE expenses.  The Service Member shall check-in with their 
+CPPA immediately upon arrival and submit their MyPCS Travel Voucher 
+within five working days regardless of whether TLE has been used. 
+Service Members who use their GTCC for TLE expenses to their PDS 
+should file a supplemental Travel Voucher upon completion of their 
+temporary lodging stay via MyPCS Travel Voucher and ensure split 
+disbursement is annotated.  Reference (f) Section 0506 details TLE 
+eligibility, reimbursement, and limits. 
+ 
+9.  Dual-military PCS guidance.  Dual-military Service Members 
+conducting concurrent PCS moves have separate Lines of Accounting 
+and funding allocated.  Therefore, Service Members shall each use 
+their GTCC for respective PCS expenses (meals, fuel, etc.) in 
+accordance with this NAVADMIN and file separate MyPCS Travel 
+Vouchers for individual travel. 
+ 
+10.  MyPCS Travel Voucher. 
+   a.  Use of the MyPCS Travel Voucher greatly reduces errors and 
+expedites reimbursement.  It provides Service Members the ability to 
+submit an electronic travel voucher with photo upload functionality 
+for receipts using a personal or government computer, mobile device 
+or tablet.  Additional capabilities of MyPCS Travel Voucher include 
+the travel entitlements calculator, lean orders, and a custom- 
+tailored PCS checklist for use before departure.  It also gives 
+Service Members and CPPAs greater visibility of the status of 
+submitted PCS Travel Vouchers.  MyPCS Travel Voucher may be accessed 
+via MyNavy Portal (MNP) at https://my.navy.mil/. 
+   b.  Effective 01 Jul 2022, use of the MyPCS Travel Voucher is 
+mandatory for submission of PCS travel claims.  The enterprise 
+Customer Relationship Management (eCRM) system is a backup solution 
+if unable to use MyPCS Travel Voucher; however, the use of eCRM will 
+delay timely travel claim liquidation. 
+   c.  Use of the MyPCS Travel Voucher is not required for GTCC 
+users reporting to Aircraft Carriers (CVN), Submarine Tenders (AS) 
+and Flag Ships (LCC).  MyPCS Travel Voucher will be expanded to 
+these commands this fall. 
+   d.  CAC-free access using a mobile device requires the Service 
+Member to establish a CAC-free user name and password via MNP. 
+Using a CAC-enabled machine, go to MNP, click "Login" in the top 
+right corner, select "Login Help & FAQs" from the drop-down, then 
+select "How do I set up CAC-free Access?"  Follow directions 
+provided on the page.  Video tutorials are available 
+athttps://my.navy.mil/tutorials.html.  Once a CAC-free account is 
+established, the password is valid for 60 days. 
+ 
+11.  Customer Support and Online Resources. 
+   a.  Phone and email support is available 24/7 from the MNCC Pro 
+Cell at 833-330-MNCC (6622) Option 2 or via e-mail at: 
+askmncc(at)navy.mil, or from Citibank (800-200-7056). 
+   b.  MNP registration for CAC-free access to MNP: 
+https://my.navy.mil/tutorials.html andhttps://www.mnp.navy.mil/group/my-
+account/cac-free-setup/. 
+   c.  MyPCS Travel Voucher via MNP: https://my.navy.mil/. 
+   d.  GTCC for PCS information guide and training briefs: 
+https://www.mynavyhr.navy.mil/Support-Services/Pay-Pers-Support/My-Personnel-
+Info/GTCC-for-PCS/. 
+   e.  Downloadable NP2 quick start guides: https://my.navy.mil/np2.html. 
+   f.  User Productivity Kits (UPKs) and interactive training 
+modules: https://prodhr.np2.navy.mil/ and navigating to "Training" 
+in the top menu, select "Assignment, Leave, and Travel". 
+   g.  Questions regarding this NAVADMIN or GTCC for PCS policy 
+should be addressed to PERS-45 Assignment, Leave, and Travel 
+Business Design Owner (BDO) at gtcc_pcs.fct(at)navy.mil.  Questions 
+regarding MyPCS Travel Voucher and issues using your GTCC during PCS 
+should be addressed to MNCC. 
+ 
+12.  To evaluate program effectiveness, Service Member satisfaction, 
+and collect feedback for continued improvements, GTCC users are 
+strongly encouraged to complete a brief survey available at 
+https://surveys.max.gov/index.php/737856?lang=en. 
+ 
+13.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
