@@ -1,0 +1,205 @@
+ROUTINE 
+R 022045Z JUN 22 MID200001776046U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 130/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/COVID-19 DESIGNATION OF MISSION CRITICAL TRAVEL FOR UNVACCINATED 
+INDIVIDUALS AND UPDATED TRAVEL GUIDANCE// 
+ 
+REF/A/MSG/OPNAV/051532ZAPR21// 
+REF/B/MSG/OPNAV/131647ZJUL21// 
+REF/C/MEMO/USD PR/04APR22// 
+REF/D/MEMO/OSD/15MAR21// 
+REF/E/MSG/OPNAV/111536ZAPR22// 
+REF/F/MEMO/SECNAV/29APR22// 
+REF/G/MEMO/ASN MRA/03MAR22// 
+ 
+NARR/REF A IS NAVADMIN 073/21, NAVY MITIGATION MEASURES IN RESPONSE TO 
+CORONAVIRUS OUTBREAK UPDATE 7 (CONDITIONS-BASED APPROACH TO COVID-19 
+PERSONNEL MOVEMENT AND TRAVEL RESTRICTIONS).   
+REF B IS NAVADMIN 150/21, DEPARTMENT OF DEFENSE COVID-19 TESTING PRIOR TO 
+OVERSEAS TRAVEL (UPDATE 2).   
+REF C IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS (USD(PR)) 
+MEMO, CONSOLIDATED DEPARTMENT OF DEFENSE CORONAVIRUS DISEASE 2019 FORCE 
+HEALTH PROTECTION GUIDANCE. 
+REF D IS THE SECRETARY OF DEFENSE (SECDEF) MEMO, UPDATE TO CONDITIONS-BASED 
+APPROACH TO CORONAVIRUS DISEASE 2019 PERSONNEL MOVEMENT AND TRAVEL 
+RESTRICTIONS.   
+REF E IS NAVADMIN 093/22, U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL 
+GUIDANCE 6.0.   
+REF F IS SECRETARY OF THE NAVY (SECNAV) MEMO, IMPLEMENTATION OF CONSOLIDATED 
+DEPARTMENT OF DEFENSE CORONAVIRUS DISEASE 2019 FORCE HEALTH PROTECTION 
+GUIDANCE.   
+REF G IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE AFFAIRS) MEMO, 
+DEPARTMENT OF THE NAVY GUIDANCE ON COVID-19 COMMUNITY LEVELS AND WORKPLACE 
+SAFETY PROTOCOLS. 
+ 
+RMKS/1.  This NAVADMIN cancels references (a) and (b) pursuant to 
+the consolidated travel guidance in reference (c).  This NAVADMIN 
+additionally provides additional guidance on mission-critical travel 
+for unvaccinated individuals and updates Coronavirus Disease 2019 
+(COVID-19) guidance for meetings. 
+ 
+2.  Summary.  Travel and personnel movement must consider COVID-19 
+related Force Health Protection (FHP) measures to protect the health 
+and safety of the force, maintain mission readiness and comply with 
+federal, Department of Defense (DoD), Department of the Navy (DON) 
+and Host Nation (HN) guidelines.  Guidelines have adjusted over time 
+due to the dynamic COVID-19 environment.  FHP measures are now 
+consolidated in Under Secretary of Defense for Personnel and 
+Readiness (USD(PR)) guidance (reference (c)) which will be regularly 
+updated as guidelines change.  This guidance should be frequently 
+referenced for the latest FHP guidance on travel and personnel 
+movement.  Reference (c) is available at the following website and 
+all commands and organizations should monitor the website to ensure 
+they review the most current version: 
+https://www.defense.gov/Spotlights/Coronavirus-DOD-Response/Latest-DOD-
+Guidance//. 
+ 
+3.  Applicability.  This guidance applies to all Navy Service Members and 
+their dependents. 
+ 
+4.  Travel and Personnel Movement Updated Guidance and Requirements. 
+The DoD conditions-based approach to COVID-19 personnel movement and 
+travel (reference (d)) has been rescinded with the issuance of the 
+consolidated guidance in reference (c).  The conditions-based 
+approach formed the foundation of reference (a), which is cancelled 
+by this NAVADMIN.  It remains paramount that personnel at all levels 
+continue to ensure appropriate FHP measures are implemented and the 
+risk assessment in reference (c) be completed prior to travel. 
+       a.  Reference (c) contains detailed guidance on travel for 
+service members and their dependents, as well as DoD civilians and 
+contractors, and bases the guidance on location of travel and 
+whether the travel is official or unofficial.  It also provides 
+testing and restriction of movement requirements.  That guidance 
+should be followed unless more restrictive Navy specific guidance is 
+provided.  The guidance in reference (b), which is cancelled by this 
+NAVADMIN, is replaced with the testing guidance in reference (c). 
+During all official travel, travelers will follow all applicable 
+federal, state, local and commercial air carrier requirements and 
+applicable HN requirements. 
+       b.  Specific guidance for personnel movement for Navy 
+operational units is contained in reference (e). 
+ 
+5.  Official travel for fully vaccinated individuals.  In line with 
+reference (c), fully vaccinated individuals are not restricted from 
+official travel, both domestic and international. 
+ 
+6.  Official travel for individuals not fully vaccinated. 
+Individuals who are not fully vaccinated, or who decline to provide 
+information about their vaccination status, are limited to only 
+mission-critical official travel, both domestic and international. 
+In any case, travel of unvaccinated individuals should be minimized. 
+Requests for official travel by unvaccinated personnel outside of 
+the following categories will be routed to the Under Secretary of 
+the Navy (UNSECNAV) for decision via the Chief of Naval Personnel 
+(CNP), the Chief of Naval Operations (CNO) and the Assistant 
+Secretary of the Navy for Manpower and Reserve Affairs (ASN MRA). 
+In line with reference (f), official travel by unvaccinated 
+personnel, or those who decline to provide information about their 
+vaccination status, is only authorized for the following mission 
+critical purposes: 
+       a.  Permanent Change of Station (PCS) travel for dependents 
+accompanying Service Members or civilian employees who are fully 
+vaccinated or have a permanently approved exemption.  Overseas 
+screening and medical approval is still required per current 
+policies. 
+       b.  PCS travel for unvaccinated Service Members reassigned 
+from operational units to non-deployable units.  Unvaccinated 
+dependents of these Service Members are also authorized to travel. 
+       c.  Travel of dependents associated with an approved early 
+return of dependents authorization from an overseas post or station. 
+       d.  Government funded emergency leave travel and emergency 
+visitation travel. 
+       e.  New recruits traveling to Recruit Training Command. 
+       f.  Travel by patients, as well as their authorized escorts 
+and attendants, for purposes of medical treatment.  Travel by 
+medical providers for the purposes of medical treatment for DoD 
+personnel and their families. 
+       g.  Travel by Service Members and civilian personnel approved 
+for retirement or separation.  For Service Members, travel is 
+authorized for purposes of taking transition leave. 
+       h.  Travel by Service Members under the authority of a Chief 
+of Mission and authorized by that Chief of Mission. 
+       i.  Travel by Service Members and civilian personnel not under 
+the authority of a Chief of Mission and ordered by the appropriate 
+DoD official to evacuate an area threatened by unusual or emergency 
+circumstances. 
+       j.  Travel associated with new civilian hiring and management 
+directed actions to include transfers, reassignments, management 
+directed reassignments and new civilian accessions including formal 
+entry-level civilian accession programs such as government-funded 
+internships and fellowships. 
+       k.  Travel by civilian employees complying with overseas tour 
+rotation agreement requirements. 
+       l.  Travel in support of mission critical maintenance 
+operations for DON assets as well as the critical assets of other 
+services, agencies, and international partnerships that support the 
+mission of the DON.  Mission critical maintenance operations are in 
+direct support of DON ships, submarines, aircraft, information 
+technology equipment and infrastructure as well as other critical 
+equipment not otherwise listed. 
+       m.  Travel by Service Members from an overseas post or station 
+that are not eligible for involuntary extension or will surpass the 
+180-day limit for involuntary extension. 
+ 
+7.  Updated COVID-19 Guidance Related to Meetings. 
+     a.  In line with reference (c), approval must be obtained in 
+advance for any planned, in-person meetings, events and conferences 
+sponsored by the DON with more than 50 participants (referred to 
+collectively herein as *meetings*, in a county or equivalent 
+jurisdiction where the Centers for Disease Control and Prevention 
+(CDC) COVID-19 Community Level is high.  Approval authority is the 
+UNSECNAV and no lower.  All organizations within the Navy will 
+submit requests through the respective chain of command to the 
+UNSECNAV for approval via ASN (MRA).  To the maximum extent 
+practicable, requests should be submitted no later than 30 days from 
+the planned start of the event to allow for proper coordination and 
+routing. 
+    b.  For any in-person meetings in a county or equivalent 
+jurisdiction where the CDC COVID-19 Community Level is high or 
+medium, the meeting organizer will require all attendees, including 
+Service Members and DoD civilian employees, to show a completed DD 
+Form 3150, *Contractor Personnel and Visitor Certification of 
+Vaccination.*  In extenuating circumstances, the UNSECNAV may 
+approve exceptions for attendees who are not vaccinated.  These 
+exceptions will be requested through the respective chain of command 
+to the UNSECNAV for approval via ASN (MRA).  Organizers of approved 
+meetings will require attendees to confirm proof of vaccination and, 
+where exceptions are granted, organizers will ensure that 
+unvaccinated attendees meet the testing provisions of reference (c). 
+All attendees will remain in compliance with the masking guidance 
+within reference (g). 
+    c.  For purposes of this guidance, meetings do not include 
+military training, exercise events and operations.  In addition, 
+private social events at Morale, Welfare and Recreation facilities 
+or events held as part of DoD Educational Activity schools functions 
+on naval installations do not constitute meetings. 
+ 
+8.  It is incumbent on personnel at all levels of the Navy to take 
+personal ownership of continuing to effectively implement FHP 
+measures and ensure they are seeking out and following the latest 
+guidance. 
+ 
+9.  Points of contact.  Service Members with PCS questions should 
+contact their detailer directly or through the MyNavy Career Center. 
+MyNavy Career Center:  833-330-6622, askmncc(at)navy.mil. 
+OPNAV POC: CAPT William Shafer, william.a.shafer6.mil(at)us.navy.mil 
+and CAPT Chris Brianas, christopher.g.brianas.mil(at)us.navy.mil. 
+ 
+10.  Released by Vice Admiral John B. Nowell, Jr, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
