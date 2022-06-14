@@ -1,0 +1,433 @@
+ROUTINE 
+R 091429Z JUN 22 MID600051960066U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 133/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N7/JUN// 
+ 
+SUBJ/ACADEMIC YEAR 2023-2024 STRATEGIST AND NATIONAL SECURITY FELLOWSHIPS AND 
+GRADUATE EDUCATION SCHOLARSHIP PROGRAMS CALL FOR APPLICATIONS// 
+ 
+REF/A/DOC/CNO WASHINGTON DC/22JUN10// 
+REF/B/DOC/SECDEF WASHINGTON DC/30NOV16// 
+REF/C/DOC/CNO WASHINGTON DC/14APR22/NOTAL// 
+REF/D/MSG/CNO WASHINGTON DC/141554ZJAN15// 
+REF/E/DOC/COMNAVPERSCOM/APR22// 
+REF/F/DOC/CNO WASHINGTON DC/08JAN15// 
+REF/G/DOC/DEPSECDEF WASHINGTON DC/24JAN19// 
+REF/H/MSG/CNO WASHINGTON DC/081821ZOCT21// 
+REF/I/DOC/CNO WASHINGTON DC/17JAN20// 
+ 
+NARR/Ref A is OPNAVINST 1500.72G, Navy Politico-Military Fellowships, 
+Graduate Education Programs, and Community Sponsorship. 
+Ref B is DODINST 1322.23, Secretary of Defense Executive Fellows (SDEF). 
+Ref C is Memorandum for the Record: Federal Executive Host Institutions for 
+Academic Years 2023-2024 and 2024-2025. 
+Ref D is NAVADMIN 011/15, Establishment of the Naval Strategy Subspecialty 
+2300X. 
+Ref E is NAVPERS 15839I, Manual of Navy Officer Manpower and Personnel 
+Classifications, Vol I, dtd April 2022. 
+Ref F is OPNAVINST 1520.24D, Officer Scholarship Program. 
+Ref G is Office of the Deputy Secretary of Defense Directive-type Memorandum 
+(DTM)-19-001, Establishment of the Secretary of Defense Strategic Thinkers 
+Program. 
+Ref H is NAVADMIN 223/21, Update to Senior Officer Graduate Education 
+Requirements. 
+Ref I is OPNAVINST 1520.23C CH-3, Graduate Education// 
+ 
+RMKS/1. This NAVADMIN is the call for applications for the Academic Year (AY) 
+2023-2024 strategist and national security fellowships and civilian graduate 
+education scholarship programs, and for the Fiscal Year (FY) 2024 Olmsted 
+Scholar Program. 
+ 
+2. Per reference (a), these programs are a primary means for developing naval 
+strategists through exposure and learning opportunities at leading think 
+tanks, academic institutions, and with industry partners. 
+   a. Talented officers who complete these programs form a cadre of naval 
+   strategists able to leverage their experiences and the key relationships 
+they have established to actively contribute toward efforts to improve Navy 
+   warfighting advantage. 
+   b. Type Commanders and community managers are encouraged to identify 
+quality candidates and encourage these future leaders to apply to these 
+competitive programs. 
+   c. Applicable programs include: 
+      (1) Federal Executive Fellowship Program (FEF) 
+      (2) Hudson Fellow Program, Oxford University 
+      (3) Secretary of Defense Executive Fellows Program (SDEF) 
+      (4) Secretary of Defense Strategic Thinkers Program (SD STP) 
+      (5) Politico-Military Masters Program (PMM) 
+      (6) Arthur S. Moreau Program (ASM) 
+      (7) Olmsted Scholar Program. 
+ 
+3. AY2023-24 applications are due to Navy Personnel Command NLT 02 September 
+2022.  All supplemental information to the selection board must be received 
+NLT 23 September 2022.  The selection board will convene in early November 
+2022. 
+Results will be announced no later than December 2022. 
+   a. Officers may apply for all programs for which they meet the eligibility 
+   requirements via a single application. Annotate which programs you are 
+applying for in the subject line of your application. 
+   b. Please read program descriptions in their entirety. Unique or 
+additional application and selection requirements are set forth in 
+subparagraph 'b' of each section. 
+   c. Applications require a personal statement to the board, a curriculum 
+   vitae, biography, and endorsement letters from both your commanding 
+officer and detailer, plus any unique or additional requirements specified 
+for each program. Application forms will be available after 01 June 
+2022.  Send requests for forms and any questions to the OPNAV N712 or PERS 
+443 POCs listed in this NAVADMIN. 
+   d. Service obligation is defined in individual program descriptions below. 
+   Most of these programs incur a service obligation of three times (3x) the 
+   number of months served in the program (normally 10-12 months), for a  
+30-36  month obligation. 
+   e. Interested officers should submit applications for all programs via 
+   encrypted email to the PERS 443 and OPNAV N712 POCs listed in this 
+NAVADMIN. 
+   Prior to submission, ensure electronic copies are clear, legible, and 
+properly endorsed. If encrypted email is unavailable, mail applications to: 
+ 
+      Navy Personnel Command 
+      Attn: PERS 443B 
+      5720 Integrity Drive 
+      Millington, TN  38005 
+   f. Additional information on graduate education and fellowship programs 
+can be found in the program descriptions below and 
+at https://www.mynavyhr.navy.mil/Career-Management/Education/. 
+ 
+4. Federal Executive Fellowship Program: This is a fellowship program and 
+does not confer a degree.  The FEF program provides selected due-course 
+officers an opportunity to improve their understanding of the national 
+security decision-making process through a one-year assignment at a world-
+class research organization or academic institution. Fellows will serve 
+follow-on tours in a number of critical strategy, policy, national security 
+decision-making, and international engagement billets on major Joint and Navy 
+staffs. A successful FEF tour combined with any previous or future non-
+resident masters degree from an accredited university will satisfy the in-
+residence graduate education requirement for major command (see reference 
+(h)). 
+   a. Eligibility: Active Duty O4-O6 Unrestricted Line (URL) and Restricted 
+Line (RL) officers in designators 1710, 1810, 1820, 1830, and 1840 are 
+eligible to apply. Training and Administration of the Reserve (TAR) officers 
+are not eligible for the FEF program. Applicants should have a graduate 
+degree. A graduate degree in national security affairs, international 
+relations, strategy, or related discipline is preferred. 
+   b. Program information: Thirteen (13) officers will be selected for the 
+AY23-24 Federal Executive Fellowship program by the PERS selection board. The 
+   fellowships will begin in August 2023 following a two-week orientation 
+course at the Pentagon. One naval officer will be assigned to each of the 
+thirteen FEF institutions, which include: 
+      (1) Atlantic Council, Washington, DC 
+      (2) Carnegie Mellon University, Institute for Politics and Strategy, 
+      Pittsburgh, PA 
+      (3) Center for a New American Security (CNAS), Washington, DC 
+      (4) Center for Strategic and International Studies (CSIS), Washington, 
+      DC.  The CSIS fellow will also serve as an adjunct fellow at the United 
+States Naval Institute (USNI), Annapolis, MD. 
+      (5) Chicago Council on Global Affairs, Chicago, IL 
+      (6) Georgia Institute of Technology, Sam Nunn School of International 
+      Affairs, Atlanta, GA 
+      (7) Harvard University, John F. Kennedy School of Government, 
+Cambridge, MA 
+      (8) Institute for Defense Analyses (IDA), Alexandria, VA 
+      (9) Massachusetts Institute of Technology, Security Studies Program, 
+      Cambridge, MA 
+      (10) Stanford University, Hoover Institution, Stanford, CA 
+      (11) Stimson Center, Washington, DC 
+      (12) Tufts University, Fletcher School of Law and Diplomacy, Medford, 
+MA 
+      (13) University of Texas at Austin, Clements Center for National 
+Security, Austin, TX 
+   c. Reutilization/service obligation: Federal Executive Fellows incur a 
+   service obligation three times (3x) the number of months of the 
+fellowship. FEF tours are normally 10-12 months. URL FEFs will serve at least 
+one utilization tour in a validated naval strategist billet on a major Navy, 
+Joint, or OSD staff as soon as possible, but not later than the second 
+subsequent shore tour. 
+   Some officers may serve in multiple strategy positions after the 
+fellowship tour, subject to career timing and on a not-to-interfere basis 
+with their command or milestone tours. 
+   d. Subspecialty Code/Additional Qualification Code: URL officers who 
+complete a FEF tour will receive the 2300S Naval Strategy subspecialty code 
+and the 24C additional qualification designation (AQD) code. IWC Officers 
+will receive the 2400S subspecialty code and the 24C AQD code. FAO officers 
+will receive the 2000S National Security Studies subspecialty code and the 
+24C AQD code. 
+ 
+5. Hudson Fellow Program, University of Oxford: This is a fellowship program 
+and does not confer a degree. Hosted by St. Antonys College, the Hudson 
+Fellow will attend the Changing Character of War (CCW) program, led by the 
+History Faculty at Oxford. CCW brings together representatives of the United 
+Kingdom Armed Forces, Government, and multi-national organizations to provide 
+practical knowledge in the interdisciplinary study of war and armed conflict. 
+A successful Hudson tour combined with any previous or future non-resident 
+masters degree from an accredited university will satisfy the in-residence 
+graduate education requirement for major command (see reference (h)). 
+   a. Eligibility: Active duty O5-O6 URL and RL officers in designators 1710, 
+   1810, 1820, 1830, and 1840 are eligible to apply. The University of Oxford 
+   prefers post-command officers. TAR officers are not eligible for the 
+Hudson Fellowship. Applicant must have a masters degree. A graduate degree in 
+national security affairs, international relations, strategy, or related 
+discipline is preferred. 
+    b. Program information: The Hudson Fellowship will begin in August 
+    2023.  One (1) primary and two (2) alternate nominees will be selected by 
+the PERS selection board. Their names, CV, biography, and research proposal 
+will be submitted by OPNAV N7 to the University of Oxford for final selection 
+of the one (1) fellow for AY23-24. Applicants for the Hudson Fellowship must 
+include a 2-page research proposal with their application. The Oxford 
+research proposal template can be found at the MyNavyHR website under 
+Education Placement: https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Officer/Education-Placement/. 
+   c. Reutilization/Service obligation: Hudson fellows incur a service 
+   obligation that is three times (3x) the number of months of the 
+fellowship. 
+   Hudson Fellowship tours are normally 10-12 months. The URL Hudson Fellow 
+will serve at least one utilization tour in a validated naval strategist 
+billet as soon as possible, but not later than the second subsequent shore 
+tour. Some officers may serve in multiple strategy positions after the 
+fellowship tour, subject to career timing and on a not-to-interfere basis 
+with their command or milestone tours. 
+   d. Subspecialty Code/Additional Qualification Code: URL officers who 
+complete the Hudson Fellowship will receive the 2300S subspecialty code and 
+the 24D AQD code. IWC officers will receive the 2400S subspecialty code and 
+the 24D AQD code. FAO officers will receive the 2000S subspecialty code and 
+the 24D AQD code. 
+ 
+6. Secretary of Defense Executive Fellows Program: This is a fellowship 
+program and does not confer a degree. This program provides a venue for 
+exceptional officers to experience innovative business practices within the 
+nation’s leading business enterprises. Military fellows from each of the 
+Services are paired with senior executives in various companies known for 
+their willingness to challenge and adapt their business practices. A 
+successful SDEF tour combined with any previous or future non-resident 
+masters degree from an accredited university will satisfy the in-residence 
+graduate education requirement for major command (see reference (h)). 
+   a. Eligibility: All O5-O6 officers are eligible for the SDEF program, 
+   including Reserve, TAR, and the Acquisition Professional Community. 
+Related graduate education and staff experience preferred. Per reference (b), 
+   applicants must have completed Joint Professional Military Education Phase 
+II (JPME II) (or Advanced Joint Professional Military Education (AJPME) for 
+   Reserve officers) prior to beginning the fellowship. This JPME requirement 
+is waived for eligible military officers who have a scientific, technical, or 
+   professional military occupational specialty or equivalency, as described 
+in Section 10 of DoD Instruction 1300.19. 
+   b. Program information: Four (4) Navy officers will be selected for the 
+AY23-24 program by the PERS selection board. Fellowships will begin in July 
+2023. 
+   Past fellows were assigned to corporations such as 3M, Apple, Amazon, 
+Boeing, Caterpillar, Cisco Systems, Exxon Mobil, J.P. Morgan Chase, FedEx, 
+General Dynamics, Google, Intel, Lockheed Martin, Merck, Microsoft, Morgan 
+Stanley, SalesForce, and SpaceX. 
+   c. Reutilization/Service obligation: SDEF graduates incur a service 
+   obligation that is three times (3x) the number of months of the 
+fellowship. 
+   SDEF tours are normally 12 months in length, depending on the required 
+   detachment for the next duty station. 
+   d. Subspecialty Code/Additional Qualification Code: All officers who 
+complete the SDEF program will receive the 2000S subspecialty code and the 
+24F AQD code. 
+ 
+7. Secretary of Defense Strategic Thinkers Program: This program confers a 
+Masters degree in International Public Policy (MIPP). The SD STP program is a 
+one-year masters program at the Johns Hopkins University School of Advanced 
+International Studies (JHU SAIS) campus in Washington, D.C., where students 
+will develop advanced analytical and strategic thinking skills. The SD STP 
+program satisfies the in-residence graduate education requirement for major 
+command (see reference (h)). Additional program information and instructions 
+to sign up for education program notifications are available at 
+https://www.mnp.navy.mil/group/training-education-qualifications/e-graduate-
+education-and-fellowship-programs. 
+   a. Eligibility: Active duty O4-O6 Unrestricted Line (URL) and IWC (1810, 
+   1820, 1830, 1840) officers are eligible. TAR officers are not eligible. 
+Per reference (g), completion of JPME I and graduation in the top 20 percent 
+of their JPME class is required. A minimum of ten years of service is 
+required. 
+   Officers who have already participated in Department of Defense-funded 
+graduate education programs are not eligible. Those officers who earned a 
+degree through the Tuition Assistance Program or a Service or Joint War 
+College retain their eligibility for SD STP and do not need a waiver (see 
+reference (i)). 
+   b. Program information: Two (2) primary and two (2) alternate nominees 
+will be selected by the PERS selection board. OSD will make the final 
+selection of two (2) Navy scholars for the SD STP program. SD STP selectees 
+will carry a full academic load during the academic year. Additional 
+information can be found at https://www.sais.jhu.edu/admissions/masters-
+program-admissions/how-apply/us-military-and-veteran-applicants/strategic. 
+GRE scores must be submitted as part of the application package. 
+   c. Reutilization/Service Obligation: SD STP graduates will incur a service 
+   obligation of a minimum of 24 months following completion of the SD STP 
+   program. Upon graduation, SD STP students will be considered for follow-on 
+   assignments that utilize their special knowledge and skills gained through 
+the completion of the program. 
+   d. Subspecialty Code/Additional Qualification Code: SD STP URL graduates 
+will earn the 2300P Naval Strategy subspecialty code and the 223 AQD code. SD 
+STP IWC graduates will earn the 2400P subspecialty code and the 223 AQD code. 
+ 
+8. Politico-Military Masters Program: This program confers a masters degree. 
+The PMM program provides officers a graduate education in strategy and 
+politico-military affairs at leading civilian universities. The PMM program 
+is a key component of the Navy Strategic Enterprise, educating naval 
+strategists who will be utilized in subsequent strategy and policy-related 
+billets. The PMM program satisfies the in-residence graduate education 
+requirement for major command (see reference (h)). 
+   a. Eligibility: Active duty O3-O5 Unrestricted Line (URL) and Restricted 
+Line (RL) 1710, 1810, 1820, 1830, and 1840 designated officers are eligible. 
+This includes O2s selected for O3 and who will be promoted prior to the start 
+of the academic year (July-August 2023). Preference will be given to junior 
+officers (O3-O4). TAR officers are not eligible. Officers who have already 
+participated in a Department of Defense-funded graduate education program are 
+not eligible. 
+   Those officers who earned a degree through the Tuition Assistance Program 
+or Service or a Joint War College retain their eligibility for PMM and do not 
+need a waiver (see reference (i)). 
+   b. Program information: Eight (8) officers will be selected for the one-
+year PMM program. Selected officers will carry a full academic load during 
+the academic year. The approved AY23-24 institutions and their associated 
+degree programs are listed below. Other universities that meet the Naval 
+Strategy subspecialty (2300P) Educational Skills Requirements (ESRs) for PMM 
+will be considered on a case-by-case basis by OPNAV N7. GRE scores must be 
+submitted as part of the application package. 
+      (1) Harvard University, Boston, MA: Mid-Career Master in Public 
+      Administration, John F. Kennedy School of Government. 
+      (2) Johns Hopkins University, Washington, DC: Master of International 
+      Public Policy, Paul H. Nitze School of Advanced International Studies. 
+      (3) Princeton University, Princeton, NJ: Master in Public Policy (MPP) 
+- International Relations, Princeton School of Public and International 
+Affairs. 
+      (4) Tufts University, Medford, MA: Master of Arts in the Mid-Career 
+      Program at the Fletcher School of Law and Diplomacy. 
+      (5) University of California, San Diego (UCSD), San Diego, CA: Master 
+of Advanced Studies in International Affairs (MAS-IA), School of Global 
+Policy and Strategy. 
+      (6) University of Chicago, Chicago, IL: Master of Arts in International 
+      Relations at the Committee on International Relations. 
+      (7) University of Virginia, Charlottesville, VA: Master of Arts in 
+      Politics (International Relations) in the Graduate School of Arts and 
+Sciences, Woodrow Wilson Department of Politics. 
+      (8) University of Washington, Seattle, WA: Master of Arts in 
+International Studies, Henry M. Jackson School of International Studies. 
+   c. Reutilization/Service Obligation: PMM graduates incur a service 
+obligation equal to three times (3x) the number of months in the education 
+program, up to 36 months total. URL PMM graduates will serve at least one 
+tour in a validated strategy subspecialty billet in either politico-military 
+affairs or strategy and policy, subject to career timing and on a not-to-
+interfere basis with their command or milestone tours. 
+   d. Subspecialty Code/Additional Qualification Code: PMM URL graduates will 
+   earn the 2300P Naval Strategy subspecialty and the 24A AQD codes. The 
+Education Plan (EP) for URL PMM students must be in full compliance with the 
+2300P ESRs. 
+   Restricted Line (FAO) PMM graduates will earn the 2000P National Security 
+   Studies subspecialty code and the 24A AQD code. IWC PMM graduates will 
+earn the 2400P subspecialty code and the 24A AQD code. The EP for FAOs must 
+be in compliance with the 2000P ESRs and developed in coordination with the 
+FAO detailer. The EP for IWC officers must be in compliance with the 2400P 
+ESRs. 
+ 
+9. Arthur S. Moreau Program (ASM): This program leads to a degree (PhD). The 
+ASM program is a two-year program for candidates seeking to complete a PhD or 
+to achieve an 'All But Dissertation' status in a politico-military related 
+field. 
+The ASM program satisfies the in-residence graduate education requirement for 
+major command (see reference (h)). 
+   a. Eligibility: Active duty O4-O5, URL-only are eligible. This includes 
+O3s selected for O4 and who will be promoted prior to the start of the 
+academic year (July-August 2023). TAR officers are not eligible. ASM 
+candidates must already possess a masters degree in a politico-military 
+related field such as national security affairs, international relations, 
+strategy, or related discipline. 
+   b. Program Information: One (1) officer may be selected for the ASM 
+program. 
+   The selected officer in the ASM program will carry a full academic load 
+during the academic year. The approved ASM AY23-24 institutions are the same 
+as listed with the approved PMM universities in para 7.b. Other universities 
+that meet the Naval Strategy subspecialty (2300P) Educational Skills 
+Requirements (ESRs) for PMM and ASM will be considered on a case-by-case 
+basis by OPNAV N7. GRE scores must be submitted as part of the application 
+package. 
+   c. Reutilization/Service Obligation: ASM graduates incur a service 
+obligation equal to three times (3x) the number of months in the education 
+program, up to 72 months total. ASM graduates will serve at least one tour in 
+a validated strategy subspecialty billet in either politico-military affairs 
+or strategy and policy, subject to career timing and on a not-to-interfere 
+basis with their command or milestone tours. 
+   d. Subspecialty Code/Additional Qualification Code: ASM graduates will 
+earn either the 2300P or the 2300D Naval Strategy subspecialty code and the 
+24B AQD code. The Education Plan (EP) for ASM officers must be in full 
+compliance with the 2300P ESRs. 
+ 
+10. Olmsted Scholars: This program may confer a masters degree, and could 
+satisfy the in-residence graduate education requirement for major command 
+(see reference (h)). The Olmsted Scholar Program offers outstanding young 
+military leaders an unsurpassed opportunity to achieve fluency in a foreign 
+language, pursue graduate study at an overseas university and acquire an in-
+depth understanding of foreign cultures, thereby equipping them to serve in 
+positions of greater responsibility as senior leaders. This unique 
+scholarship opportunity supports the DoD emphasis on developing language 
+skills and regional cultural knowledge across the force. 
+    a. Eligibility: All active duty officers with the designators 1110, 1120, 
+    1130, 1140, 1310, 1320, 1810, 1820, 1830, 1840, or 3100 with at least 
+three years of Active Federal Commissioned Service (AFCS) and no more than 
+13.5 years of total Active Federal Service (AFS) as of 1 April 2023 are 
+eligible to apply. 
+    The maximum length of service eligibility requirement has been extended 
+for all eligible designators from 11 years to 13.5 years as part of a three-
+year trial program. 
+    b. Program Information: The Navy is seeking applicants who display the 
+    warfighting and intellectual qualities of dedicated career officers who 
+aspire to command. Applicants should be available to commence language 
+training in summer/fall 2023 at the Defense Language Institute Foreign 
+Language Center in Monterey, CA or Washington, DC, begin two years of study 
+at a foreign university in 2024 and complete their studies in 2026. A 
+detailer written/signed statement, as stated in enclosure (3) of reference 
+(f), must be included in the nomination package. Olmsted notifications will 
+occur in two phases. Navy nominees will be notified via email following the 
+Navy selection board in November 2022. Scholars selected by the Olmsted 
+Foundation Board of Directors will be contacted via email following the 
+selection board in March 2023. 
+    c. Reutilization/Service Obligation: Olmsted Scholars incur a service 
+    obligation equal to three times (3x) the number of months in the 
+education program and will be calculated based on the number of months the 
+officer is assigned overseas. 
+    d. Subspecialty Code/Additional Qualification Code: Olmsted scholars will 
+    earn the 219 AQD code and, if they complete a degree in national security 
+    affairs (earning the 2XXXP subspecialty code), will be integrated into 
+the Pol-Mil subspecialty community and may be eligible to fill billets coded 
+with a 24X AQD code. 
+    e. Additional Application Information: Applications for the FY24 Olmsted 
+    program are separate and distinct from the application for the other 
+programs covered by this NAVADMIN. These must include detailer endorsement 
+and should be prepared according to enclosure (3) of reference (f) and 
+submitted via email NLT 02 September 2022 to the Navy Olmsted Scholar Program 
+Manager and PERS 443 POCs listed at the end of this NAVADMIN. DLAB and GRE 
+scores must be submitted as part of the application package. Official college 
+transcripts may be submitted via the institution to the Olmsted Scholar 
+Program Manager, which must also be received no later than 02 September 2022. 
+Detailed information on application requirements, sample application 
+template, and Frequently Asked Questions are located on the Navy College 
+website at https://www.navycollege.navy.mil/sailors/other-navy-programs.htm. 
+ 
+11. Points of Contact: Contact the POCs listed below for program-specific 
+details and questions. Direct all application-only questions to either OPNAV 
+N712 or NAVPERSCOM. 
+    a. OPNAV: CDR Anne C. Stehlin, OPNAV N712 Branch Head, 571-256-4784, 
+    anne.c.stehlin.mil@us.navy.mil; Ms. Jennifer Rigdon Teter, N712 Contract 
+    Support, 703-692-1934, jennifer.c.rigdonteter.ctr@us.navy.mil. 
+    b. NAVPERSCOM: LT Jacob Jepsen, PERS 443, 901-874-3996, 
+jacob.a.jepsen.mil@us.navy.mil. 
+    c. OLMSTED: Ms. Elise McGuire, Navy Olmsted Scholar Program Manager, 850-
+473-6064, elise.t.mcguire.civ@us.navy.mil. 
+ 
+12. Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
+Warfighting Development (N7). // 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
