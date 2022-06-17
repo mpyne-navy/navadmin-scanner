@@ -1,0 +1,267 @@
+ROUTINE 
+R 171646Z JUN 22 MID200001807449U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 135/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/SEPTEMBER 2022 (CYCLE 256) ACTIVE-DUTY AND TRAINING AND ADMINISTRATION 
+OF THE RESERVES E-4 THROUGH E-6 PETTY OFFICER NAVY-WIDE ADVANCEMENT 
+EXAMINATIONS// 
+ 
+REF/A/MSG/COMNAVRESFOR NORFOLK VA/081615ZOCT21// 
+REF/B/DOC/BUPERS/19SEP18// 
+REF/C/MSG/SECNAV WASHINGTON DC/052044ZMAR13// 
+REF/D/MSG/CNO WASHINGTON DC/N1/201449ZDEC18// 
+REF/E/MSG/CNO WASHINGTON DC/N1/272057ZDEC18// 
+REF/F/MSG/CNO WASHINGTON DC/N1/161157ZJUL20// 
+REF/G/DOC/USD(PR)/04APR2022// 
+REF/H/OPS ALERT/NPPSC/19FEB21// 
+REF/I/OPS ALERT/NPPSC/15MAR21// 
+ 
+NARR/REF A IS ALNAVRESFOR 012/21, NAVY RESERVE NOMENCLATURE CHANGES. 
+REF B IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF C IS ALNAV 015/13, PERSONNEL SECURITY INVESTIGATION SUBMISSION 
+REQUIREMENTS. 
+REF D IS NAVADMIN 312/18, ADVANCEMENT POLICY UPDATE.   
+REF E IS NAVADMIN 316/18, ENLISTED ADVANCEMENT WORKSHEET.   
+REF F IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.   
+REF G IS USD P&R CONSOLIDATED DEPARTMENT OF DEFENSE CORONAVIRUS DISEASE 2019 
+FORCE HEALTH PROTECTION GUIDANCE AVAILABLE AT 
+https://www.defense.gov/Spotlights/Coronavirus-DOD-Response/Latest-DOD-
+Guidance/. 
+REF H IS OPS ALERT 007-21, PMK-EE REQUIREMENTS FOR E3 NEW 
+ACCESSIONS.  REF I IS OPS ALERT 011-21, PMK-EE REQUIREMENTS FOR E4 
+NEW ACCESSIONS.// 
+ 
+RMKS/1.  This NAVADMIN provides guidance for the administration of the 
+September 2022 (cycle 256) Navy-Wide Advancement Exam (NWAE) for active duty 
+(AD) and training and administration of the reserves (TAR) (still referred to 
+as FTS in some systems) to paygrades E-5 and E-6. It further provides 
+guidance for the use of an alternative final multiple score (FMS) rank-order 
+method, without an exam, for advancement to E-4. 
+    a.  E-4 advancement candidates will not participate in an exam, but will 
+be given the opportunity for advancement using an alternative FMS rank-order 
+method, without the inclusion of an exam score from a proctored exam.  E-5 
+and E-6 advancement candidates will be administered the NWAE utilizing 
+single-day testing for each paygrade, per reference (b). 
+    b.  In addition to the requirements in this NAVADMIN and chapter 6 of 
+reference (b), educational services officers (ESO) must follow the pre-exam 
+preparation requirements in the exam verbatim, which can be found on the navy 
+enlisted advancement system (NEAS) website via MyNavy Portal (MNP) at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/command-
+information/.  Select Command Advancement Tools, then NEAS Website. 
+ 
+2.  Timeline 
+    a.  31 July 2022:  Professional military knowledge - eligibility 
+exam (PMK-EE) completion deadline for all E-4, E-5, and E-6 candidates. 
+    b.  1 September 2022:  E-6 exam administration.  Enlisted advancement 
+worksheets (EAW) will close one week after the exam date on the worksheet. 
+    c.  8 September 2022:  E-5 exam administration.  EAWs will close one week 
+after the exam date on the worksheet. 
+    d.  15 September 2022:  E-4 EAWs must be completed by this date. 
+    e.  Deviation from administration dates.  In line with reference (b), 
+should the necessity of an expanded window of NWAE administration be required 
+due to a resurgence in the coronavirus pandemic, commands may request a 
+deviation of NWAE administration from Navy Personnel Command  
+(PERS-8).  Deviation from single day testing will not be authorized for 
+convenience, rather as a result of heightened regional health protection 
+measures or other valid reason.  Solely within the context of an authorized 
+deviation, NWAE administration will be authorized through 30 September 
+2022.  Refer to reference (g) for additional details on safety and mitigation 
+measures in the conduct of exams during the coronavirus pandemic. 
+ 
+3.  Eligibility requirements are found in chapter 2 of reference 
+(b).  The following information is specific only to cycle 256: 
+    a.  The terminal eligibility date used to compute time in rate 
+(TIR) is 1 January 2023. 
+    b.  The minimum TIR date must be on or before: 
+        E-6 - 1 January 2020 
+        E-5 - 1 January 2022 
+        E-4 - 1 July 2022 
+    c.  E-6 candidate TIR requirements for early promote (EP) Sailors can be 
+waived by one year with commanding officer (CO)/officer in charge (OIC) 
+approval, in line with paragraph 214.e of reference (b).  Cycle 256 EAW must 
+be manually created for all E-6 EP TIR waiver authorized candidates. 
+    d.  High-year tenure (HYT) date must be effective 1 January 2023 or 
+later.  All HYT waivers must be approved prior to 1 September 2022 to be able 
+to participate in cycle 256. 
+    e.  Candidates in a rating requiring a security clearance must have a 
+favorable investigation adjudication by the Department of Defense 
+consolidated adjudication facility reflected properly in the Defense 
+Information System for Security (DISS) prior to 1 September 2022.  If the 
+CO/OIC of the candidate grants an interim clearance, it must be entered in 
+DISS prior to 1 September 2022.  Candidates must maintain security clearance 
+eligibility throughout the advancement cycle to be eligible for 
+advancement.  If, for any reason, a clearance is denied, revoked or not 
+reflected in DISS, an exam is not authorized and commands should not allow 
+candidates to take the exam until the discrepancy is corrected or a new 
+clearance is granted and is properly reflected in the EAW of the candidate. 
+Ratings requiring a security clearance are AC, AE, AG, AO, ATI, ATO, 
+AWF, AWO, AWR, AWS, AWV, AZ, CTI, CTM, CTN, CTR, CTT, EOD, ET, FC, 
+FCA, GM, HT, IC, IS, IT, LN, MA, MC, MN, ND, OS, QM, SB, SO, STG, YN 
+and all nuclear and submarine ratings.  Refer to references (b) and 
+(c) for additional guidance. 
+    f.  Candidates for advancement to E-4 and E-5 must compute performance 
+mark average (PMA) using all applicable evaluations in the current pay grade 
+of the candidate with an ending date that falls within the following time 
+periods: 
+        E-4 - 1 January 2022 to 31 August 2022 
+        E-5 - 1 June 2021 to 31 August 2022 
+    g.  Candidates for advancement to E-6 must compute the reporting senior 
+cumulative average (RSCA) PMA, as outlined in reference (d), using all 
+applicable evaluations in the current pay grade with the ending date that 
+falls within the time period: 
+        E-6 - 1 September 2019 to 31 August 2022 
+    h.  Refer to reference (d) and paragraph 308.b. of reference (b) for 
+additional guidance on RSCA PMA and PMA, including guidance on establishing 
+PMA for new accessions that have graduated from *A* school and do not have a 
+current evaluation. 
+    i.  For guidance on establishing EAW user roles and completing 
+worksheets, refer to reference (e).  EAW is mandatory for cycle 256 and will 
+be the authority for PMA, RSCA PMA, and awards. 
+    j.  Completion of relevant paygrade PMK-EE is mandatory for cycle 256 
+candidates competing for advancement, even if no NWAE is being administered, 
+and must be successfully completed once for the administration paygrade.  The 
+PMK-EE completion deadline is 31 July 2022, in accordance with reference 
+(f).  No Sailor competing for advancement shall be permitted to participate 
+in the advancement cycle without having a completed PMK-EE for the exam 
+paygrade.  For E3 and E4 new accession candidates authorized PMK-EE 
+completion deadlines, refer to references (h) and (i). 
+    k.  Commands must accurately validate, complete and finalize all EAWs in 
+the Navy Standard Integrated Personnel System (NSIPS) in a timely manner.   
+E-4 EAW accuracy is critical since NEAS will be reprogrammed to use finalized 
+E-4 EAWs rather than the candidate exam answer sheets to create E-4 candidate 
+records.  The success of this process will be dependent upon the accurate 
+completion of E-4 EAWs to establish advancement cycle participation.  Cycle 
+256 E-4 EAWs must be completed by 30 September 2022. 
+ 
+4.  Exam Ordering.  Order exams in line with chapter 4 of reference (b). 
+    a.  Deploying commands and candidates departing to congressionally-
+designated combat zones and approved contingency operations areas (CDCZ/ACOA) 
+can order exams up to six months prior to the scheduled exam date.  For 
+additional guidance, refer to chapter 4 and paragraph 614 of reference (b). 
+    b.  Regular Exams: 
+        (1) Sensitive compartmented information (SCI) Exams. 
+Cryptologic-technician interpretive (CTI)/cryptologic-technician network 
+(CTN)/cryptologic technician-collection (CTR) SCI exam ordering requirements 
+can be found on the NEAS website via MNP at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/command-
+information.  Select Command Advancement Tools, then NEAS website. 
+ESOs must verify initial Active TIR eligibility lists on the NEAS website for 
+exam ordering.  Supplemental TIR SCI exams are ordered via message formatted 
+e-mail to sfly_cryptologic.products(at)navy.mil or by naval message following 
+the guidelines in chapter 4 of reference (b).  Check NEAS Web for 
+additional exam ordering information. 
+        (2) Non-SCI Exams.  Exam ordering requirements can be found 
+on the NEAS website via MNP at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/command-
+information.  Select Command Advancement Tools, then NEAS Website. 
+        (3) All candidate exam orders not included on the initial TIR list 
+must be ordered in NEAS web by entering a Department of Defense 
+Identification (DoD ID) for each candidate instead of by e-mail or naval 
+message.  This is a change to guidelines in chapter 4 of reference 
+(b).  Orders submitted after supplemental TIR list closure will result in a 
+substitute exam being sent. 
+    c.  Substitute Exams: 
+        (1) The deadline for ordering both SCI and non-SCI substitute exams 
+is 30 September 2022. 
+        (2) Naval Education and Training Professional Development Center 
+(NETPDC (N321)) is the approval authority for all substitute exams. 
+        (3) Recent graduates of the Naval nuclear propulsion program training 
+pipeline, who are on transfer leave enroute to their first at sea assignment 
+during the E-5 examination date, will have substitute examinations ordered 
+for them by their ultimate duty station, if dates permit exam ordering before 
+the published deadline. 
+        (4) Substitute examinations may be administered with regular exam 
+administration or in line with paragraph 606 of reference (b). 
+    d.  ESOs must verify examination orders at the *View Previous Exam 
+Orders* link via the NEAS website within 7 to 10 days of placing the 
+order.  If exam order discrepancies are noted, contact the fleet services 
+branch NETPDC (N321) as listed on the NEAS website on the NETPDC (N321) point 
+of contact table. 
+    e.  Exceptions to policy for exam orders will continue to be submitted in 
+line with paragraph 104 of reference (b), and must include endorsement by the 
+immediate superior in command.  Submit message-formatted e-mail exception to 
+policy directly to Enlisted Plans and Policy Branch (OPNAV N132C) at 
+NXAG_N132C(at)navy.mil, and include any supporting documentation. 
+    f.  Below candidate ratings are separated into the following competitive 
+groups: 
+        (1) CTI 
+            Group 1  Middle East/North Africa 
+            Group 2  East/Far East 
+            Group 3  Latin/South America 
+            Group 4  Eastern Europe 
+        (2) EMN, ETN, and MMN 
+            Group 1  Submarine 
+            Group 2  Surface 
+            Group 3  Training 
+ 
+5.  Exam Administration and Answer Sheet Returns 
+    a.  Following the administration of exams, it is critical that ESOs 
+expeditiously mail E-5 and E-6 answer sheet packages to NETPDC (N321). Prompt 
+return of answer sheets will help ensure results are released in a timely 
+manner. 
+    b.  For exam administration and answer sheet return instructions refer to 
+chapter 6 of reference (b).  Administration for all substitute exams will 
+follow guidelines in references (b) and (d). 
+    c.  ESOs must check the exam tote board on the NEAS website often to 
+ensure answer sheets have been received and processed.  The tote board can be 
+accessed via MNP at https://www.mnp.navy.mil/group/advancement-and-
+promotion/command-information.  Select Command Advancement Tools, then Exam 
+Toteboard. Answer sheets with errors will not be counted until they are 
+processed successfully. 
+ 
+6.  Discrepancy Correction 
+    a.  A detailed discrepancy list can be found at the NEAS website via 
+MNP.  For guidance on discrepancy correction requirements, refer to chapters 
+3 and 7 of reference (b) and reference (e). 
+    b.  Post-exam administration discrepancy correction correspondence with 
+NETPDC (N321) is to be submitted using the EAW post-exam administration 
+comments (PAC) function, refer to reference 
+(e).  All corrections must have a CO/OIC letter and all required supporting 
+documentation included as attachments.  Education point corrections require a 
+submission of the joint service transcript indicating the degree type and 
+date of completion. 
+    c.  For guidance on candidates with missed exams due to assignment in 
+CDCZ/ACOA, refer to chapter 6 of reference (b). Missed exam cycle EAW is 
+required to be completed by selecting *Missed Cycle / Individual Augmentee* 
+entry in the *EAW Special Circumstances* data entry field. 
+ 
+7.  Examination Results.  Refer to chapter 7 of reference (b). 
+ 
+8.  Any additional information regarding this cycle will be posted on the 
+NEAS website. 
+ 
+9.  Points of Contact. 
+    a.  MyNavy Career Center (MNCC) is available 24/7 by phone at 
+1-833-330-MNCC (1-833-330-6622) or via e-mail to askmncc(at)navy.mil. 
+    b.  SCI exam questions and orders can be reached at (850) 473-5867/DSN 
+753 or via e-mail to sfly_cryptologic.products(at)navy.mil. 
+    c.  Non-SCI exam questions and orders can be reached at  
+(850) 473-6150/DSN 753 or via e-mail to sfly_N321_exam_order(at)navy.mil. 
+    d.  NWAE records and discrepancies can be reached at 
+(850) 473-6148/DSN 753 or via the EAW PAC function.  ESO pre / post- 
+advancement exam administration inquiries may be submitted to 
+Sfly_N321_Discrepanc(at)navy.mil. 
+ 
+10.  For further NEAS information, to include exam verbatim and other related 
+documents, visit MNP at https://www.mnp.navy.mil/group/advancement-and-
+promotion/command-information. 
+ 
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+12.  Released by Rear Admiral J. P. Waters, Acting N1B.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
