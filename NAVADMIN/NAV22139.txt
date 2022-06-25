@@ -1,0 +1,193 @@
+ROUTINE 
+R 241317Z JUN 22 MID200001881696U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 139/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/CCDA GUIDANCE UPDATE// 
+ 
+REF/A/DOC/US DIST CT N DIST TX/28MAR22// 
+REF/B/MSG/CNO/221255ZAPR22// 
+REF/C/DOC/US DIST CT N DIST TX/13JUN22// 
+REF/D/DOC/BUPERS/11MAR22// 
+REF/E/DOC/OPNAV/15AUG20// 
+REF/F/MSG/CNO/311913ZAUG21// 
+REF/G/MSG/CNO/132050ZOCT21// 
+REF/H/MSG/CNO/152239ZNOV21// 
+REF/I/MSG/CNO/151203ZDEC21// 
+REF/J/DOC/SECDEF/24AUG21// 
+REF/K/MSG/SECNAV/302126ZAUG21// 
+REF/L/DOC/BUMED/20OCT20// 
+REF/M/MSG/COMNAVSPECWARCOM/241857ZSEP21// 
+REF/N/MSG/CNO/302215ZMAR22// 
+REF/O/DOC/OPNAV/11NOV21// 
+REF/P/MSG/CNO/221849ZFEB22// 
+ 
+NARR/REF A IS U.S. DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS ORDER ON 
+MOTIONS FOR CLASS CERTIFICATION AND CLASS-WIDE PRELIMINARY INJUNCTION.   
+REF B IS NAVADMIN 102/22, CCDA ADDITIONAL GUIDANCE REGARDING MEMBERS 
+REQUESTING RELIGIOUS ACCOMMODATION FROM COVID-19 VACCINATION REQUIREMENTS.   
+REF C IS U.S. DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS ORDER ON 
+MOTIONS FOR RELEASE FROM CLASS. 
+REF D IS BUPERSINST 1730.11A CH-1, STANDARDS AND PROCEDURES GOVERNING THE 
+ACCOMMODATION OF RELIGIOUS PRACTICES.  
+REF E IS MILPERSMAN 1730-020, IMMUNIZATION EXEMPTIONS FOR RELIGIOUS BELIEFS. 
+REF F IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY.   
+REF G IS NAVADMIN 225/21, COVID-19 CONSOLIDATED DISPOSITION AUTHORITY 
+(CCDA).   
+REF H IS NAVADMIN 256/21, CCDA GUIDANCE TO COMMANDERS.   
+REF I IS NAVADMIN 283/21, CCDA EXECUTION GUIDANCE TO COMMANDERS.   
+REF J IS THE SECRETARY OF THE DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 2019 
+VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS.   
+REF K IS ALNAV 062/21, 2021-2022 DEPARTMENT OF THE NAVY MANDATORY COVID-19 
+VACCINATION POLICY. 
+REF L IS MANUAL OF THE MEDICAL DEPARTMENT, NAVMED P-117, ARTICLE 15- 
+105(3)(n)(9).   
+REF M IS TRIDENT ORDER NUMBER 12, MANDATORY VACCINATION FOR COVID-19.   
+REF N IS NAVADMIN 083/22, CCDA INTERIM GUIDANCE REGARDING MEMBERS REQUESTING 
+RELIGIOUS ACCOMMODATION FROM COVID-19 VACCINATION REQUIREMENTS.   
+REF O IS MILPERSMAN 1910-704, DETERMINING SEPARATION AUTHORITY.   
+REF P IS NAVADMIN 042/22, UPDATED COVID CONSOLIDATED DISPOSITION AUTHORITY 
+DATA REPORTING REQUIREMENTS AND LESSONS LEARNED. 
+ 
+RMKS/1.  Purpose.  To provide additional guidance regarding Navy service 
+members who wish to withdraw a religious accommodation request in order to 
+separate from naval service.  Also, to modify CCDA data reporting 
+requirements. 
+ 
+2.  Policy.  Navy service members who submitted a religious accommodation 
+request regarding the requirement to be vaccinated against COVID-19 were 
+certified by the U.S. District Court order in reference (a) as members of a 
+class action in the case of U.S. Navy SEALS 1-26, et al., versus Secretary of 
+Defense Lloyd J. Austin, III, et al.  This message supplements guidance 
+previously provided in reference (b). To ensure compliance with the court 
+order in reference (a), this NAVADMIN continues to suspend separation 
+processing and certain adverse administrative consequences of COVID-19 
+vaccine refusal for Navy service members who submitted requests for religious 
+accommodation from the COVID-19 vaccine requirement. However, in accordance 
+with the court order in reference (c), service members who wish to withdraw 
+their religious accommodation requests may do so, understanding that unless 
+they become vaccinated, they will be processed for involuntary administrative 
+separation and all associated adverse administrative consequences will apply. 
+ 
+3.  Applicability.  Policies in paragraph 4 of this NAVADMIN apply only to 
+Navy service members who have submitted requests for religious accommodation 
+from the COVID-19 vaccine requirement in line with references (d) and 
+(e).  Adverse administrative consequences and separation processing described 
+in references (f) through (o) continue to apply for Navy personnel refusing 
+the COVID-19 vaccine who have not submitted a request for religious 
+accommodation.  Navy service members who do not wish to withdraw a 
+previously submitted religious accommodation request are not subject to 
+adverse consequences as described in reference (b).  Policies in paragraph 5 
+of this NAVADMIN apply to all Navy commands. 
+ 
+4.  Action 
+ 
+4.a.  Effective immediately, service members who wish to withdraw their 
+previous religious accommodation requests seeking exemption from the COVID-19 
+vaccine requirement may do so by executing the NAVPERS 1070/13 (Page 13) 
+located at https://www.mnp.navy.mil/group/navy-covid-19-reporting.  After 
+executing this document reflecting understanding of the consequences of such 
+a withdrawal, such service members will be considered I violation of 
+reference (f) and may be subject to all adverse administrative measures 
+associated with vaccine refusal described in references (g), (h), and (i), 
+including processing for involuntary separation.  Religious accommodation 
+requests or appeals may be withdrawn at any stage in the process, regardless 
+of whether it is resolved or pending. 
+ 
+4.b.  In cases where service members desire to withdraw their religious 
+accommodation request, it is the responsibility of the service members 
+command to execute the required Page 13 with the service member.  Once 
+received, to continue processing for separation, commands must take two 
+steps: 
+ 
+4.b.(1) In order to track religious accommodation withdrawals, commands must 
+forward copies of signed Page 13s via email to 
+ALTN_Navy_Religious_Accommodations(at)navy.mil. 
+ 
+4.b.(2) In order to effectuate separation, commands must: 
+ 
+4.b.(2)(a) Include copies of the signed Page 13 in separation packages not 
+yet routed to Navy Personnel Command in accordance with processes outlined 
+for vaccine refusal described in reference (i). 
+ 
+4.b.(2)(b) In the case of separation packages already routed to Navy 
+Personnel Command IAW reference (i), but on hold due to the injunction, 
+forward copies of the signed Page 13 to the relevant active/reserve 
+officer/enlisted email address at PERS-8 below, who will resume involuntary 
+separation processing based on vaccine refusal. 
+ 
+4.b.(2)(c) In the case of separations previously approved by Navy Personnel 
+Command, but on hold after release of earlier *10-day* letters, provide a 
+copy of the relevant Page 13 to the servicing Personnel Support Detachment to 
+effectuate local separation, copying the relevant PERS-8 office at the 
+correct address below. 
+ 
+4.c.  Substantive modifications or deletions to the Page 13 located 
+at https://www.mnp.navy.mil/group/navy-covid-19-reporting are not authorized. 
+ 
+5.  Reporting.  Database reporting to the Department of the Navy (DON) COVID 
+Tracking Site listed in reference (p) is no longer required.  Commanders are 
+directed to provide updates based on categories listed in reference (p) to 
+the following. 
+ 
+5.a.  For service members who have submitted a religious 
+accommodation request, provide updates to the 
+ALTN_Navy_Religious_Accommodations(at)navy.mil email address. 
+Commanders shall include the service members DoD ID number in the email. 
+ 
+5.b.  For service members who have not submitted a religious accommodation 
+request but have elected to become vaccinated, or now have access to the 
+COVID-19 vaccine, provide updates to the altn_n1_navy_scr.fct(at)navy.mil 
+email address.  Commanders shall include the service members DoD ID number in 
+the email. 
+ 
+5.c.  Commands will also ensure that the Medical Readiness Reporting System 
+(MRRS) is updated to be consistent with information submitted to the DON 
+COVID Tracking Site. 
+ 
+6.  If in doubt as to how to adjudicate issues related to this guidance, 
+commanders should seek guidance from their chain of command, their staff 
+judge advocate, and/or the CCDA before acting. Commands without an assigned 
+legal advisor may seek legal advice from a Region Legal Service Office.  In 
+all cases, commanders are accountable to ensure the health and safety of 
+their command while treating every Navy service member with dignity and 
+respect. 
+ 
+7.  Points of contact 
+PERS-8 Active/FTS enlisted separations: 
+832vaccineadseps.fct(at)navy.mil 
+PERS-8 officer separations:  PERS-834(at)navy.mil 
+PERS-8 Active/FTS/TAR enlisted retirements: 
+Enlisted_Active_Duty_Retirements(at)navy.mil 
+PERS-8 Active/FTS/TAR officer retirements: 
+pers_835_retirements(at)navy.mil 
+PERS-8 officer and enlisted promotion delays: 
+NPC_promotionwithholds.fct(at)navy.mil 
+PERS-92 officer and enlisted definite recalls:  PERS-92(at)navy.mil 
+PERS-9 Reserve enlisted separations: 
+913vaccineadseps.fct(at)navy.mil 
+PERS-97 officer transitions:  cto.officer(at)navy.mil 
+PERS-97 enlisted transitions:  cto.enlisted(at)navy.mil 
+BUPERS-32 selective reenlistment bonuses: 
+mill_incen_pays.fct(at)navy.mil 
+OPNAV POC:  CAPT Jason Grizzle, ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL 
+ 
+8.  Released by VADM Richard J. Cheeseman, Jr., COVID Consolidated 
+Disposition Authority. 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
