@@ -1,0 +1,73 @@
+ROUTINE 
+R 271814Z JUN 22 MID200001890201U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+CNO WASHINGTON DC//N1// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 140/22 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/-/MAY/ 
+ 
+SUBJ/FY-21 NAVY SAILORS OF THE YEAR// 
+ 
+REF/A/DOC/OPNAV/02FEB2015// 
+ 
+RMKS/1.  I am pleased to announce the selection of the Fiscal Year 
+2021 Navy Sailors of the Year. 
+Commander, Submarine Force, Atlantic: MMN1(SS) Baker III, Paul E. PCU New 
+Jersey (SSN 796) 
+Commander, Submarine Force U.S. Pacific Fleet: LSS1(SS) Pereyra, Aubrey, USS 
+SPRINGFIELD (SSN 761) 
+Commander, Naval Surface Force, Atlantic: ABH1(AW/SW) Glover, Ashley R., USS 
+KEARSARGE (LHD 3) 
+Naval Surface Force U.S. Pacific Fleet: ABH1(AW/SW/IW) Jamison, Landon D., 
+USS ESSEX (LHD 2) 
+Commander, Naval Air Force, Atlantic: LS1(SW/AW/IW) Dillingham, Romeika V., 
+USS GEORGE WASHINGTON (CVN 73) 
+Naval Air Force U.S. Pacific Fleet: AD1(AW/SW) King, Alexandra M. HELICOPTER 
+SEA COMBAT SQUADRON FOUR (HSC-4) 
+Commander, Naval Information Forces: CTI1(IW/NAC) Ivey, Jake A., NIOC 
+PENSACOLA 
+Commander, Navy Expeditionary Combat Command: UT1(SCW/EXW/DV) Massey, Kenneth 
+G., UNDERWATER CONSTRUCTION TEAM TWO (UCT 2) 
+Reserve Force: YN1 Phinizy, Jasmyn L., NAVY RESERVE REGION READINESS AND 
+MOBILIZATION COMMAND SOUTHEAST 
+Commander, Navy Installations Command: MA1(EXW) Allocca, Brian A., COMFLEACT 
+SASEBO, JAPAN 
+Bureau of Medicine and Surgery: HM1(FMF/SW/AW) Lay, David J., Naval Medical 
+Forces Pacific, Pearl Harbor, HI 
+Naval Special Warfare Command: HM1(EXW/DV/PJ) Gomez, Benjamin J., LOGSU-8, 
+Pearl City, HI 
+Commander, Naval Education and Training Command: NC1(SW/AW) Staples, Monique 
+A., Navy Talent Acquisition Group, Golden Gate 
+Commander, U.S. Fleet Forces Command (Sea): HM1(FMF) Malone, Matthew P., 
+Marine Aircraft Group 26 
+Commander, U.S. Fleet Forces Command (Shore): AM1(AW/SW/IW) Grace, Daneil D., 
+Strike Fighter Squadron ONE ZERO SIX (VFA-106) 
+Commander, U.S. Pacific Fleet (Sea): HM1(FMF) Allen, Jeremy W., 1st MARDIV 
+Commander, U.S. Pacific Fleet (Shore): AWS1(NAC/AW/EXW/IW) Morrow, Evan L., 
+HELECOPTER SEA COMBAT SQUADRON THREE (HSC-3) 
+Navy Shore:  MA1(EXW) Armijo IV, Pasqual A., SWFPAC/MCSFBN Bangor, Washington 
+ 
+2.  The competition was robust and reflected the highest caliber 
+of Sailors serving throughout the world.  Each of these Sailors 
+represented their commands and the entire enlisted community with 
+distinction. 
+ 
+3.  These outstanding Sailors will be advanced to Chief Petty Officer 
+the week of 17 October 2022. 
+ 
+4.  NPC will ensure these Sailors are removed from the E-7 selection 
+board eligibility lists. 
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
