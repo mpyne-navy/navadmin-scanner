@@ -1,0 +1,156 @@
+ROUTINE 
+R 281524Z JUN 22 MID200001899930U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 142/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/FISCAL YEAR 2022 ACTIVE COMPONENT ENLISTED FORCE MANAGEMENT ACTIONS 
+(CORRECTED COPY)// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/192000ZNOV20// 
+REF/B/MSG/CNO WASHINGTON DC/131504ZDEC17// 
+REF/C/MSG/CNO WASHINGTON DC/311911ZMAR22// 
+REF/D/DOC/COMNAVPERSCOM/06JUN20// 
+REF/E/DOC/COMNAVPERSCOM/06JUN20// 
+REF/F/DOC/COMNAVPERSCOM/08MAY18// 
+REF/G/DOC/BUPERS/07FEB22// 
+ 
+NARR/REF A IS NAVADMIN 307/20, MODIFICATION TO EARLY SEPARATION POLICY 
+NAVADMIN CANCELLATIONS.   
+REF B IS NAVADMIN 288/17, EARLY SEPARATION POLICY NAVADMIN CANCELLATIONS.   
+REF C IS NAVADMIN 084/22, TRANSITION OF ENLISTED SERVICE MEMBERS FROM ACTIVE 
+COMPONENT TO RESERVE COMPONENT.   
+REF D IS MILPERSMAN 1910-108, SEPARATION BY REASON OF CONVENIENCE OF THE 
+GOVERNMENT - EARLY RELEASE TO FURTHER EDUCATION.   
+REF E IS MILPERSMAN 1910-102, SEPARATION BY REASON OF CHANGES IN SERVICE 
+OBLIGATION (ACTIVE DUTY AND INACTIVE NAVY RESERVISTS).   
+REF F IS MILPERSMAN 1160-120, HIGH YEAR TENURE.   
+REF G IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE. 
+ 
+RMKS/1.  The purpose of this NAVADMIN is to implement key force 
+management personnel policy actions in the enlisted active component 
+to ensure the Navy remains fully manned and operationally ready. 
+References (a) and (b) are hereby updated for enlisted personnel. 
+For those who have decided to separate, please review reference (c) 
+for additional career progression opportunities in the Navys 
+Selected Reserves.  Navy encourages all qualified Sailors to stay 
+Navy.  See your career counselor for more information.  While we 
+strive to retain all qualified Sailors, commanding officers should 
+continue to exercise their obligation to document performance and 
+adjust their recommendation for retention, accordingly. 
+ 
+2.  Sailors are encouraged to look for selective reenlistment bonus 
+(SRB) updates frequently to take advantage of the opportunities 
+published on the Navy’s SRB website at: 
+https://www.mynavyhr.navy.mil/References/Pay-Benefits/N130D/. 
+Please keep in mind SRB levels may be adjusted up or down depending 
+on rating health. 
+ 
+3.  Early Separation Cancellation.  Effective immediately, all 
+enlisted early out programs and new time in grade requirement 
+waivers are hereby cancelled.  Service commitments such as 
+enlistment contracts, service obligations for accepting permanent 
+change of station orders, advancements, bonuses, training, etc., 
+will be fulfilled.  Service members experiencing difficulty in 
+fulfilling obligated service requirements are encouraged to work 
+with their chain of command and respective detailers to examine 
+available alternatives to complete their obligation. 
+    a.  Commanding officers still retain the 90-day early out 
+authority for policy outlined in references (d) and (e). 
+    b.  Service members previously granted approval will not be 
+affected by this policy change. 
+    c.  Service members interested in pursuing commissions in the 
+Navy are still encouraged to submit requests.  As always, these 
+requests will be considered on a case by case basis. 
+    d.  United States Space Force applicants are not affected by 
+this policy change. 
+ 
+4.  Delaying separation or retirement.  The Navy is accepting 
+applications from enlisted personnel who desire to delay their 
+separation or retirement.  The deadline for application submission 
+is 31 August 2022. 
+    a. Service members with an approved separation or retirement 
+date on or before 31 March 2023 are eligible to submit a request to 
+their detailer to have their separation or retirement date delayed 
+and projected rotation date (PRD) extended, up to 30 September 2023, 
+if the billet they are in upon submission of the request will be 
+gapped upon their departure.  Requests to extend beyond 30 September 
+2023 will be considered on a case by case basis for expected gaps in 
+operational billets. 
+    b.  All Service members interested in extending retirements are 
+invited to apply to their PERS-40 detailer to have their PRD 
+extended no later than 90 days prior to the start of their 
+previously requested terminal leave date or retirement date, 
+(whichever comes first), via their chain of command utilizing their 
+previously submitted Navy Standard Integrated Personnel System 
+(NSIPS) voluntary retirement request.  For example, if the Service 
+members terminal leave date starts on 8 May 2023, then the request 
+will have to be submitted on or before 7 February 2023 into NSIPS. 
+NOTE:  A form 1306/7 Electronic Personnel Action request (ePAR) is 
+not required for previously submitted or approved retirements. 
+Priority for approval will be given to those Service members filling 
+sea duty and critical billets that would otherwise be gapped. 
+    c.  In line with reference (f), Service members who are 
+separating or retiring due to high year tenure (HYT) may apply for a 
+HYT waiver of their current HYT gate.  HYT waivers will be 
+considered for up to an additional 12 months for enlisted Sailors 
+filling critical operational billets both at sea and shore that 
+would otherwise be gapped, while maintaining the service members 
+eligibility for advancement.  Those service members will submit a 
+command-endorsed ePAR to MyNavy Career Center (MNCC) via MyNavy 
+Portal or by emailing the ePAR request directly to 
+askmncc(at)navy.mil.  Requests will be approved on a case by case 
+basis. 
+    d.  Service members with an approved separation or retirement 
+date that are in a sea duty billet, will remain on sea duty if their 
+request for voluntary extension is approved. 
+        (1) Sailors with an approved separation or retirement date 
+who are in billets that are eligible for Sea Duty Incentive Pay 
+(SDIP), and who are approved for a voluntary extension that exceeds 
+their prescribed sea tour by at least 12 months, will receive SDIP. 
+        (2) Exceptions to the timeline to request SDIP and to the 
+length of extension for SDIP will be granted by Enlisted 
+Distribution Division (PERS-40) to accommodate these requests.  The 
+latest SDIP eligibility chart can be found at 
+https://www.mynavyhr.navy.mil/References/Pay-Benefits/SDIP/.   
+This chart is updated periodically so check for recent additions.  For 
+Service members who are in a SDIP eligible billet, an ePAR should be 
+submitted to MNCC at askmncc(at)navy.mil and their detailer. 
+        (3) Service members approved for extension under this policy 
+remain eligible to participate in the Navy wide advancement exam, or 
+may be considered for advancement determination by a selection board 
+if eligible, as long as they meet terminal eligibility date 
+requirements set forth in reference (g). 
+    c.  While all service members are encouraged to apply, the 
+following will not be considered: 
+        (1) Service members who have executed any portion of their 
+separation or retirement orders (e.g., household goods shipment). 
+        (2) Service members pending mandatory separation or 
+retirement for age. 
+        (3) Service members approved for disability separation or 
+retirement. 
+        (4) Service members being separated for misconduct. 
+ 
+5.  If you have any questions regarding delaying a Service members 
+separation or retirement date contact the appropriate detailer, 
+their Enlisted Community Manager, or the MNCC at: 
+askmncc(at)navy.mil or phone:  1-833-330-MNCC(6622).  Questions 
+regarding SDIP should be directed to, PERS-40DD, 1-901-874-3545 or 
+Mill_sdip(at)navy.mil// 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
