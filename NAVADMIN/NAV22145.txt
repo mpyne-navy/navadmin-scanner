@@ -1,0 +1,51 @@
+ROUTINE
+R 011351Z JUL 22 MID200001906668U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 145/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SUSPENSION OF THE ACTIVE COMPONENT INFORMATION PROFESSIONAL WARFARE 
+LIMITED DUTY OFFICER DESIGNATOR 682X//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/251736ZJAN18//
+REF/B/DOC/OPNAV/17JAN19//
+
+NARR/REF A IS NAVADMIN 014/18, UPDATED OFF-RAMP GUIDANCE FOR ACTIVE AND 
+RESERVE COMPONENT INFORMATION WARFARE AND SUPPLY CORPS LIMITED DUTY OFFICERS.  
+REF B IS OPNAVINST 1210.5B, LATERAL TRANSFER AND REDESIGNATION OF ACTIVE 
+COMPONENT OFFICERS IN THE NAVY.
+
+RMKS/1.  This NAVADMIN announces suspension of Active Component information 
+professional (IP) limited duty officer (LDO) designator 682X accessions in 
+line with the Information Warfare Type Commander plan.  Formal 
+disestablishment of the 682X designator will take place after natural 
+attrition of current inventory.
+
+2.  Active Component IP LDOs (682X) are highly encouraged to complete IP 
+(1820) requirements and submit without board action requests for lateral 
+transfer to 1820, consistent with references
+(a) and (b).  All 682X billets will be converted to either 782X or 182X in 
+coordination with billet stakeholders.
+
+3.  Points of contact
+    a.  IP Community Manager.  LCDR Noadiah Sikinger at
+(901) 874-2846/DSN 882, e-mail:  noadiah.k.sikinger.mil(at)us.navy.mil.
+    b.  LDO and Chief Warrant Officer Community Manager.
+CAPT Patrick Sutton at (901) 874-3042/DSN 882, e-mail:
+patrick.h.sutton.mil(at)us.navy.mil.
+
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
