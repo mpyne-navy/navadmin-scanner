@@ -1,0 +1,70 @@
+ROUTINE 
+R 082024Z JUL 22 MID600052085186U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 148/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/2021 SHANNON M. KENT AWARD FOR LANGUAGE PROFESSIONAL EXCELLENCE, 
+LANGUAGE PROFESSIONALS OF THE YEAR, LINGUIST OF THE YEAR AND COMMAND 
+LANGUAGE PROGRAM OF THE YEAR ANNOUNCEMENT// 
+ 
+REF/A/DOC/OPNAVINST 5400.46A/18MAY21// 
+REF/B/DOC/DLIFLC/28NOV05 (NOTAL)// 
+ 
+NARR/REF A IS OPNAVINST 5400.46A, COMMAND LANGUAGE PROGRAMS AND AWARDS.   
+REF B IS DLIFLC PAMPHLET 351-1, EVALUATION GUIDELINES FOR DOD COMMAND 
+LANGUAGE PROGRAMS.// 
+ 
+RMKS/1.  This NAVADMIN announces the Shannon M. Kent Award for Language 
+Professional Excellence and the Navy (non-career) Linguist, Senior Language 
+Professional, Officer Language Professional and Command Language Program of 
+the Year for Fiscal Year (FY) 2021. 
+ 
+2.  All nominees deserve congratulations for their successful use of foreign 
+language skills as key operational enablers.  Having considered all entries, 
+it is my distinct pleasure to announce the 2021 Navy award winners: 
+ 
+    a.  Command Language Program of the Year: 
+        Navy Information Operations Command Georgia (NIOC GA). 
+    b.  Shannon M. Kent Award for Language Professional Excellence: 
+        CTI1(IW) Theamichaela Coyle, Information Warfare Training Command, 
+Monterey, California. 
+    c.  Senior Language Professional of the Year: 
+        CTIC(IW) Krystina Marshall, Cyber Strike Activity SIXTY THREE. 
+    d.  Officer Language Professional of the Year: 
+        CDR Arthur Fong, Navy Region Indo-Pacific J3 Pearl Harbor Hickam. 
+    e.  Linguist of the Year: 
+        AM1(AW) Constantin Cazac, Defense Threat Reduction Agency. 
+ 
+3.  As the winners of the Shannon M. Kent Award for Language Professional 
+Excellence and Command Language Program of the Year, CTI1 Coyle and NIOC GA 
+will go on to compete at the Department of Defense level and will be  
+Language Program Manager Workshop, 23-25 August 2022. 
+ 
+4.  Language, regional expertise and culture (LREC) capabilities play a 
+significant role in modern naval operations.  In the current operational 
+environment, LREC is central to everything from humanitarian aid operations 
+to building lasting relationships with our foreign partners.  LRECs 
+importance is clearly evident in the contributions of the winners listed 
+above as well as those of their competition. 
+ 
+5.  I extend my sincere appreciation for the continuing support of these 
+vital Navy language programs and outstanding Sailors.  To our award winners, 
+thank you for your ongoing dedication and professionalism.  Please accept 
+my congratulations for a job exceptionally well done! 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

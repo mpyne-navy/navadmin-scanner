@@ -1,0 +1,57 @@
+ROUTINE 
+R 051849Z JUL 22 MID600052042455U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 147/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUL// 
+ 
+SUBJ/2022 ANNUAL DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER AWARD CALL 
+FOR NOMINATIONS// 
+ 
+REF/A/DOC/DOD CIO/3JUN22// 
+ 
+AMPN/REF A IS THE 2022 DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER AWARDS 
+PROGRAM GUIDANCE.// 
+POC/VIEIRA/CIV/OPNAV 
+N2N6D/EMAIL:  MICHAEL.L.VIEIRA.CIV(AT)US.NAVY.MIL/TEL:  703-695-7809// 
+ 
+RMKS/1.  This naval message announces the call for nominations for the 2022 
+Department of Defense (DoD) Chief Information Officer (CIO) Awards Program 
+that recognizes individuals and teams for exceptional achievements in DoD 
+Information Technology and Digital Modernization, focused in the following 
+capabilities:  Cybersecurity; Command, Control and Communications; Artificial 
+Intelligence; Software Modernization; Cloud Computing; Data; Cyberspace 
+Workforce; Electronic Records Management; Section 508/Accessibility to 
+Information and Communication Technology; and Positioning, Navigation, and 
+Timing. 
+ 
+2.  The eligibility period is July 2021 to June 2022. 
+ 
+3.  Active duty service members (officers and enlisted) in the grade O6 and 
+below or DoD civilians GS15 and below are eligible.  Contractors may be 
+recognized as part of a team, if led by military or DoD civilian. 
+ 
+4.  Submission requirements are outlined in reference (a), located in the 
+folder:  2022 DOD CIO Annual Award Nomination at  
+https://flankspeed.sharepoint
+-mil.us/sites/USFF-NAVIFOR/N6/N61/CSWF/References/Forms/AllItems.aspx.   
+Nomination packages must be unclassified and submitted to LT Harvey Mercado 
+at harvey.a.mercado.mil(at)us.navy.mil and Michele Boswell at 
+shirley.m.boswell.civ(at)us.navy.mil no later than 1 August 2022 for 
+processing.  Nominations received after 1 August 2022 will not be considered, 
+and those submitted directly to DoD CIO will be rejected.  Ensure you use 
+bullet format and have input for each criteria element listed in reference 
+(a); N/A is not acceptable. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
