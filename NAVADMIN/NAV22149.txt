@@ -1,0 +1,59 @@
+ROUTINE 
+R 111603Z JUL 22 MID600052093115U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 149/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/ACTIVE DUTY HEALTH OF THE FORCE SURVEY// 
+ 
+RMKS/1.  Summary:  Request all Active Duty personnel participate in 
+Navy’s Health of the Force survey.  This voluntary and confidential 
+survey will remain open through 31 August 2022, takes at most 20 
+minutes to complete and can be accessed at:  
+https://usnavy.gov1.qualtrics.com/jfe/form/SV_0qarNdLTkn8MkxU. 
+Command triads should take the survey themselves and emphasize its 
+value within their commands. 
+ 
+2.  As part of the Chief of Naval Operations, 11 January 22, call to 
+action for our Navy to Get Real and Get Better, it is important that 
+our Navy *Get Real* by developing a precise, sustained view of the 
+well-being of our force.  The Health of Force survey is designed to 
+provide a confidential means to develop this view so that our Navy 
+can *Get Better*, adjusting programs and policies to better meet the 
+needs of our Sailors and their families. 
+ 
+3.  In logging into the survey, participants will be asked for their 
+Department of Defense Identification (DOD ID) number.  This helps 
+limit participation to the Active Duty population and eliminates the 
+need to ask demographic questions.  The DOD ID number will not be 
+used to link answers to a particular respondent and absolute 
+confidentiality will be maintained. 
+ 
+4.  The greater the participation, the greater the accuracy of the 
+results.  This year’s survey builds on core metrics relating to work 
+environment and well-being by addressing such issues as retention 
+plans and influencers, work/life balance, family planning, pregnancy 
+programs, parenting in the Navy and access to medical care.  Survey 
+results will be debriefed in early 2023. 
+ 
+5.  The survey can be accessed using the following link: 
+https://usnavy.gov1.qualtrics.com/jfe/form/SV_0qarNdLTkn8MkxU 
+If you have questions about the survey, please contact the Navy 
+Survey Office, OPNAV N176, Dr. Jen Jebo, she may be reached at 
+jennifer.l.jebo.civ(at)us.navy.mil. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
