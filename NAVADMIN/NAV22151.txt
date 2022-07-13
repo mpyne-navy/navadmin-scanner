@@ -1,0 +1,189 @@
+ROUTINE 
+R 121445Z JUL 22 MID200080003517U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 151/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/IMMEDIATE CHANGES TO SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM 
+POLICY// 
+ 
+REF/A/MSG/DSD WASHINGTON DC/10NOV21// 
+REF/B/DOC/DOD/10NOV21// 
+REF/C/DOC/DOD/10NOV21// 
+REF/D/DOC/CNO/13AUG15// 
+ 
+NARR/REF A IS UPDATES TO DEPARTMENT OF DEFENSE POLICY AND PROCEDURES FOR THE 
+SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND ADULT SEXUAL ASSAULT 
+INVESTIGATIONS DSD MEMO.   
+REF B IS DODI 6495.02 VOL 1 SEXUAL ASSAULT PREVENTION AND RESPONSE:  PROGRAM 
+PROCEDURES.   
+REF C IS DODI 5505.18 INVESTIGATION OF ADULT SEXUAL ASSAULT IN THE DEPARTMENT 
+OF DEFENSE.  REF D IS OPNAVINST 1752.1C NAVY SEXUAL ASSAULT AND RESPONSE 
+(SAPR) PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces two immediate changes to Navy Sexual Assault 
+Prevention and Response (SAPR) policy and adult sexual assault investigation 
+procedures. 
+    a.  Change One:  Restricted Reporting has expanded.  Victims are now 
+eligible to file a restricted report, even if they disclosed their sexual 
+assault to their commander or personnel in their chain of command.  More 
+details provided in paragraph three. 
+    b.  Change Two:  Expedited transfers timeline has been extended. Once an 
+adult sexual assault victim has filed an unrestricted report and has 
+requested an expedited transfer, the commander now has five days vice three 
+days to review and approve or disapprove this request.  More details provided 
+in paragraph four. 
+ 
+2.  This NAVADMIN implements specific policy changes due to new guidance in 
+line with reference (a), the Deputy Secretary of Defense (DepSecDef) and the 
+Department of Defense (DoD) Inspector General issued changes to SAPR policy 
+and adult sexual assault investigation procedures.  The policies and 
+procedures updates are in line with our desire to protect our Sailors and 
+mission and helps ensure a focus on culture improvement.  Changes are 
+identified below and are effective immediately. 
+ 
+3.  Restricted Reporting.  In line with reference (b), eligibility for 
+victims to file a restricted report has been expanded.  Victims are now 
+eligible to file a restricted report, even if they disclosed their sexual 
+assault to their commander or personnel in their chain of command.  Other 
+provisions of restricted reporting remain unchanged. 
+    a.  Sexual assault victims wishing to file a restricted report may do so 
+provided they did not personally report the sexual assault incident to law 
+enforcement, to include Military Criminal Investigation Organizations (MCIO) 
+such as the Naval Criminal Investigative Service (NCIS), and they did not 
+previously file an unrestricted report by signing a Victim Reporting 
+Preference Statement, DD Form 2910, with a Sexual Assault Response 
+Coordinator (SARC) or SAPR Victim Advocate (VA), for the same sexual assault 
+incident.  In line with reference (d), commanders may only initiate 
+internal command inquiry or investigation for initially reported sexual 
+assaults after MCIO or civilian law enforcement declines to investigate or 
+concludes their investigation and presents findings to the appropriate 
+convening authority. 
+    b.  While the victim retains eligibility for a restricted report even 
+after they disclose their sexual assault to their commander or personnel in 
+their chain of command, a commander, in line with references (b) and (c), 
+must immediately contact the MCIO upon being notified of a sexual assault, 
+whether the sexual assault is in his or her own chain of command or another. 
+    c.  Regardless of a victims eligibility to restricted reporting status, 
+military law enforcement and MCIOs retain their duty to initiate a criminal 
+investigation in response to allegations of adult sexual assault, in line 
+with reference (c). 
+    d.  The commander and other appropriate personnel in the chain of command 
+who receive a report of a sexual assault from a victim, regardless of the 
+victims desire to maintain restricted reporting status, must: 
+        (1) Inform the individual disclosing the sexual assault of their 
+respective reporting requirements. 
+        (2) Encourage the victim to meet with a SARC or SAPR VA. 
+        (3) Inform the victim that their reporting to the chain of command 
+has no impact on the victim choosing to file a restricted or unrestricted 
+report. 
+    e.  As we continue to drive a culture of accountability, it is imperative 
+that commanders and personnel in the chain of command ensure victim privacy 
+and reporting confidentiality throughout the reporting and response protocol 
+process, regardless of reporting option elected by the victim. 
+ 
+4.  Expedited Transfers.  In line with reference (b) and section 531 of 
+National Defense Authorization Act for FY 2021, once an adult sexual assault 
+victim has filed an unrestricted report and has requested an expedited 
+transfer, the requesting Service Members commander now has five days vice 
+three days to review and approve or disapprove expedited transfers. 
+    a.  Victims who retain restricted reporting status, even if they 
+disclosed the sexual assault to their chain of command, may not request an 
+expedited transfer or a Military Protective Order (MPO) without converting to 
+an unrestricted report.  However, if there are safety concerns, the SARCs 
+must conduct a new safety assessment and take any appropriate measures (to 
+include discussing with the Staff Judge Advocates whether the situation meets 
+the *Safety Exception* for restricted reporting).  Additionally, the 
+commander on their own accord (without a request from a victim) may decide to 
+issue a MPO. 
+    b.  The Naval Military Personnel Manual Article 1300-1205 on expedited 
+transfers has been updated with required changes.  The point of contact for 
+this action is NAVPERSCOM Deployability Assessment and Assignment Branch 
+(PERS-454) Branch Head, CAPT Paul D. Kane, at (901) 874-4210 or via email at 
+paul.d.kane3.mil(at)us.navy.mil. 
+ 
+5.  Additional DoD SAPRO and DoD Inspector General policy updates that do not 
+require additional specific Navy guidance are posted on 
+https://www.sapr.mil/latest-policy-updates and are as follows: 
+    a.  Defense Sexual Assault Incident Database (DSAID) updates involving 
+the Replacement of Lost Forms, Retaliation Reporting and Electronic File 
+Locker.  SARCs have been trained on the procedures, changes have been made in 
+the DSAID database and new forms have been published and distributed. 
+    b.  Revisions to the Monthly Case Management Group Meetings for Adult 
+Sexual Assault Cases.  Case Management Group Chairs have an expanded role to 
+improve oversight of victim safety, expedited transfer completion and 
+adjudication of retaliation allegations. 
+    c.  Assisting victims with obtaining their personal property from NCIS in 
+unrestricted and restricted sexual assaults. 
+        (1) DoD SAPRO has published Return of Victims Personal Property in 
+Restricted Sexual Assault Cases Collected during a Sexual Assault Forensic 
+Examination, DD Form 2910-3, to document the victims request for release of 
+their personal property. 
+        (2) NCIS has developed procedures that allow for return of personal 
+property to victims who have filed an unrestricted or restricted report of a 
+sexual assault. 
+        (3) SARCs have been trained on the procedures for assisting sexual 
+assault victims in obtaining their personal property. 
+    d.  Expanded Eligibility for participation in Catch a Serial Offender 
+(CATCH).  DoD SAPRO is developing procedures for sexual assault victims who 
+have filed an unrestricted report to participate in the CATCH program. 
+    e.  Updated Reporting Forms, Requests for Copies of Forms and Procedures 
+for the Retention of Forms.  DoD SAPRO has updated and released new forms for 
+use by sexual assault victims.  SARCs have been trained on using the 
+following new forms: 
+        (1) Victim Reporting Preference Statement, DD Form 2910. 
+        (2) Replacement of Lost DD Form 2910, Victim Reporting Preference 
+Statement, DD Form 2910-1. 
+        (3) Retaliation Reporting Statement for Unrestricted Sexual Assault 
+Cases, DD Form 2910-2. 
+    f.  SARCs have been trained on the response to official reports of 
+retaliation, reprisal, ostracism and maltreatment associated with 
+unrestricted reports of adult sexual assault and the entry of these reports 
+into the DSAID database.  SARCs have been trained on a new DSAID 
+module:  SAPR Related Inquiry for individuals seeking to generate a CATCH 
+login or general information about SAPR services, but who choose not to file 
+an official report of sexual assault or retaliation associated with sexual 
+assault. 
+    g.  SAPR Quarterly Case Management (CMG) Meetings. 
+        (1) SAPR Quarterly CMG meetings will be held to discuss systemic 
+issues regarding victim care. 
+        (2) The CMG chair will schedule quarterly discussions. 
+        (3) The quarterly meetings will be a separate discussion from 
+individual case management oversight and no information directly related to 
+specific reports and/or specific victims will be discussed. 
+    h.  Training is being developed to enable commanding officers to: 
+        (1) Explain to all personnel in their respective chain of command 
+(officer and enlisted) that if they become aware of allegations of 
+retaliation, reprisal, ostracism or maltreatment, they must take appropriate 
+measures to protect the individual who reported the allegation(s). 
+        (2) Explain how to prevent retaliation, reprisal, ostracism and 
+maltreatment in a unit after a report of an alleged sexual assault. 
+    i.  Posters are being developed for Installation Commanding Officers and 
+commanders to display.  These posters will: 
+        (1) Describe how to report a sexual assault allegation. 
+        (2) Describe how to seek assistance for a sexual assault, including 
+associated reports of retaliation. 
+ 
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.  The above policy changes will be included in the 
+next update to reference (d). 
+ 
+7.  Point of contact.  Ms. Cindy Stewart, Navy Sexual Assault Prevention and 
+Response Office (OPNAV N170A) at (703) 604-1036, or e-mail at 
+cynthia.d.stewart.civ(at)us.navy.mil. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
