@@ -1,0 +1,131 @@
+ROUTINE
+R 211745Z JUL 22 MID200080046676U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 156/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FISCAL YEAR 2023 SENIOR ENLISTED ASSIGNMENT OPTIMIZATION//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/071453ZAUG17//
+REF/B/MSG/CNO WASHINGTON DC/N1/022009ZDEC19//
+REF/C/MSG/CNO WASHINGTON DC/N1/111604ZDEC02//
+
+NARR/REF A IS NAVADMIN 192/17, OPTIMIZING SENIOR ENLISTED (E7-E9) 
+ASSIGNMENTS.  REF B IS NAVADMIN 274/19, SEA SHORE FLOW ENLISTED CAREER PATHS 
+UPDATE.  REF C IS NAVADMIN 395/02, TRAINING AND ADMINISTRATION OF RESERVE SEA 
+SHORE ROTATION TOUR LENGTH REVISION.//
+
+RMKS/1.  This NAVADMIN supports references (a) through (c) and announces the 
+assignment optimization plan for Active Component (AC) and Training and 
+Administration of Reserve (TAR) chief, senior chief and master chief petty 
+officers (CPO, SCPO and MCPO respectively).
+Commander, Navy Personnel Command (COMNAVPERSCOM), Enlisted Assignment 
+Division (PERS-40) will work with the Fleet readiness integrators (FRI), type 
+commanders (TYCOM) and budget submitting office (BSO) N1 staffs to evaluate 
+all chiefs assigned to billets with incorrect paygrades or those who are not 
+aligned to funded billet requirements.  The goal of this optimization plan is 
+to ensure our most experienced enlisted Sailors are aligned to billets which 
+specifically need their training, leadership and experience.
+This plan will lead to the realignment of chiefs into billets appropriate to 
+their skills and experience.
+
+2.  COMNAVPERSCOM will host two virtual senior enlisted manning summits in 
+Millington, TN.  Participants may attend in person (Fleet, FRI, TYCOM and BSO 
+participants will be given seating priority) or by dial-in teleconference, 
+with dial-in information distributed separately.  The SCPO and MCPO summit 
+will be 25-29 July 2022.  The CPO summit is scheduled 24-28 October 2022, 
+contingent on release of selection board results.  In-person groups 
+supporting the summits will be governed by the applicable health protection 
+condition restrictions, see local guidance for specifics.  During 
+registration for the summits, attendees have and will be provided with 
+specific risk mitigation instructions.  The summits will allow Fleets, TYCOMs 
+and BSOs to work with COMNAVPERSCOM to fill their most critical gapped 
+billets.
+    a.  Enlisted Readiness and Placement Branch (PERS-4013) have provided a 
+list of misaligned chiefs to the FRIs.  The FRIs have distributed the list of 
+misaligned Sailors to the TYCOM and BSO N1s.
+Prior to the summit, PERS-4013 will evaluate chief billet requirements in 
+MyNavy Assignment (MNA).
+    b.  Chiefs who are aligned to billets of an incorrect paygrade may be 
+subject to the following options:
+        (1) Realignment to an in-paygrade requirement at their current 
+command.
+        (2) Movement to a valid billet at another command.
+        (3) If immediate alignment to a valid in-grade billet is not 
+reasonably possible, then adjustment of projected rotation date
+(PRD) to enter the order negotiation window earlier than their current PRD.  
+Chiefs in receipt of a PRD adjustment should expect to negotiate for orders 
+to fill an in-paygrade requirement and will be considered a sea or shore 
+roller based on a ratio of sea and shore duty billets available within their 
+paygrade.
+    c.  Enlisted manning stakeholders identified in paragraph 1 shall review 
+misaligned personnel, as well as Fleet billet vacancies and provide their 
+recommendations for consideration at the manning Summit.
+    d.  Fleet readiness concerns will guide all decisions and actions, but 
+each move will be considered on a case-by-case basis.
+    e.  The movement of realigned personnel will begin approximately
+30 days after each summit concludes.  Any out-of-area moves will receive 
+adequate time to prepare and execute.  All transfer timelines will take into 
+account the vacancies that they will create and those they will fill, and 
+limit or prevent *double-stuffing* of billets.
+    f.  CPO optimization efforts will not include nuclear chiefs, nuclear 
+billet structures, or nuclear enlisted manning stakeholders.
+
+3.  The summit precept requires participants to evaluate all Sailors without 
+prejudice or partiality.  Each participant must pay particular attention to 
+each Sailor and billet to ensure that they are meeting the intention of the 
+optimization process.  During deliberations, participants may consider any 
+negative impacts a realignment may have on the activity or the Sailor.  
+Before any decisions are made, TYCOM/BSO and FRIs will provide their input.  
+If the requested actions are within one FRI, the FRI will make final 
+decisions.  If the requested action involves more than one FRI and there is a 
+disagreement, the manning control authority will make the final decision.  A 
+copy of the precept will be provided to participants by the summit 
+coordinators.
+
+4.  Fleet activities shall continue evaluating MNA alignments to ensure that 
+Sailors are accurately aligned aboard their current activity.  Chiefs should 
+be aligned to billets for their specific paygrades.  If Sailors of any 
+paygrade need to be realigned to another billet, the activity manning manager 
+(AMM) should submit a member realignment request (MRR) in MNA.  If the MRR is 
+approved, PERS-4013 will update the alignment.  AMMs should contact their 
+placement coordinator in PERS-4013 with any questions or concerns.
+
+5.  Key messages:
+    a.  Sailors.  We are working to better align our enlisted supervisors to 
+billets which require their skills and experience.
+The emphasis on operational readiness and unit prioritization reflect our 
+identity as a sea service.  We must preserve the readiness of the Fleet and 
+ensure that chiefs are optimally assigned to meet mission readiness.  We will 
+take each Sailors personal considerations into account.
+    b.  Commands.  Commanders, commanding officers, executive officers and 
+command master chiefs must ensure their Sailors understand the intent of this 
+message.  Your cooperation and support of this senior enlisted optimization 
+will greatly contribute to achieving maximum Fleet and operational readiness.
+
+6.  To register for the CPO manning summit, participants should contact any 
+of the following summit coordinators:
+    a.  CDR Eric Lull at eric.h.lull.mil(at)us.navy.mil or 901-874- 4360.
+    b.  ITCM LaToya Bauman at latoya.m.bauman.mil(at)us.navy.mil or 901-874-
+3753.
+    c.  ISCS Keith Wold at keith.d.wold.mil(at)us.navy.mil or 901- 874-4340.
+
+7.  Points of contact.  For specific questions, please contact your
+PERS-4013 placement coordinator, rating detailer, or the MyNavy Career Center 
+at askmncc(at)navy.mil or 1-833-330-MNCC(6622).
+
+8.  Released by Rear Admiral J. P. Waters, Acting N1B.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
