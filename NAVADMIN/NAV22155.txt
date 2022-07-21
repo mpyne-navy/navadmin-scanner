@@ -1,0 +1,99 @@
+ROUTINE 
+R 192016Z JUL 22 MID200080025781U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 155/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/FISCAL YEAR 2023 ENLISTED TO MEDICAL DEGREE PREPARATORY PROGRAM 
+ANNOUNCEMENT// 
+ 
+REF/A/DOC/BUMED/7MAY15// 
+REF/B/MSG/CNO WASHINGTON DC/171350ZJUL17// 
+ 
+NARR/REF A IS BUMEDINST 1500.31, UNIFORMED SERVICES UNIVERSITY OF 
+THE HEALTH SCIENCES ENLISTED TO MEDICAL DEGREE PREPARATORY PROGRAM. 
+REF B IS NAVADMIN 177/17, NUCLEAR TRAINED SAILOR APPLICATIONS TO 
+OFFICER COMMISSIONING PROGRAMS AND MODIFICATION TO FY-19 NUCLEAR 
+LIMITED DUTY OFFICER IN-SERVICE PROCUREMENT BOARD PROCESS.// 
+ 
+RMKS/1.  This NAVADMIN solicits applications and provides guidance 
+for the Fiscal Year (FY) 2023 Enlisted to Medical Degree Preparatory 
+Program (EMDP2). 
+ 
+2.  The EMDP2 is a two-year undergraduate education program open to 
+Sailors of all ratings who meet eligibility requirements in line 
+with reference (a) and the EMDP2 website at 
+https://medschool.usuhs.edu/academics/emdp2.  The EMDP2 is a 
+partnership between the Uniformed Services University of the Health 
+Sciences (USUHS) and the military services to provide an opportunity 
+for highly motivated, academically promising enlisted Service 
+Members.  The EMDP2 consists of intensive coursework, preparation, 
+and mentoring to prepare students for application to medical school. 
+Upon successful completion of the program, students will be 
+competitive for acceptance to medical schools in the United States. 
+ 
+3.  Selectees are assigned to USUHS in Bethesda, MD, for two years. 
+Individuals selected for the EMDP2 program will remain on active 
+duty while completing coursework and will receive pay, allowances, 
+benefits and privileges of their current paygrade.  Selectees will 
+receive permanent change of station orders to USUHS for the entire 
+length of the course.  USUHS will pay all school expenses (books, 
+tuition, labs, etc.) for the entire length of the course. 
+ 
+4.  Deadline for submission of applications for FY-23 enrollment is 
+2359 Eastern Time on 30 September 2022.  Application packages must 
+be received on or before the deadline.  No additional documents or 
+packages will be accepted after this date.  Application requirements 
+are specified on the EMDP2 website in paragraph 2. 
+ 
+5.  Strict adherence to package submission requirements will be a 
+primary factor for selection.  Applicants must review their package 
+in its entirety before submission.  A minimum score of *Good* on the 
+latest physical fitness assessment and qualifying Scholastic 
+Assessment Test/American College Test scores are required. 
+ 
+6.  Applicants assigned to a nuclear training command or who hold a 
+nuclear Navy enlisted classification (N13O, N13S, N14O, N14S, N15O, 
+N15S, N16O, N16S, N23O, N23S, N24O, N24S, N25O, N25S, N26O, N26S, 
+N59X, N89X) must obtain a conditional release from their nuclear 
+field duty before submitting an EMDP2 application for consideration 
+for the FY-23 board, in line with reference (b).  To obtain a 
+conditional release, applicants must submit an enlisted personnel 
+action request (NAVPERS 1306/7) to the Nuclear Propulsion Program 
+Manager (OPNAV N133) via the detailer at Enlisted Nuclear 
+Power/Submarine assignments (PERS-403).  The FY-23 board will only 
+consider nuclear enlisted candidates who have a conditional release 
+included in their EMDP2 application. 
+ 
+7.  Completed electronic applications and supporting documents 
+should be submitted via Department of Defense Safe at 
+https://safe.apps.mil/ to the following e-mail address EMDP2- 
+application(at)usuhs.edu.  If documents are encrypted, e-mail the 
+passphrase to EMDP2-application(at)usuhs.edu.  Use the following 
+naming convention for e-mails and document file names:  LAST NAME 
+(all caps), matriculation year, and last four digits of social 
+security number, plus any other identifier you choose.  Applicants 
+can verify receipt of documents by phone at (301) 319-0590 or e-mail 
+EMDP2-application(at)usuhs.edu. 
+ 
+8.  General questions on the EMDP2 should be sent to 
+EMDP2(at)usuhs.edu.  Point of contact for Navy service-specific 
+inquiries is HMCS Jessica L. Aragon, Office of the Hospital Corps, 
+Bureau of Medicine and Surgery, at (703) 681-8941 or e-mail at 
+Jessica.L.Aragon2.mil(at)mail.mil. 
+ 
+9.  Released by Rear Admiral J. P. Waters, Acting N1B.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

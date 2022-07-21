@@ -1,10 +1,10 @@
 ROUTINE 
-R 181927Z JUL 22 MID200080019075U 
-FM CNO WASHINGTON DC 
+R 181927Z JUL 22 MID200080024524U 
+FM CNO WASHINGTON DC//DNS// 
 TO NAVADMIN 
-INFO CNO WASHINGTON DC 
+INFO CNO WASHINGTON DC//DNS// 
 BT 
-UNCLASS 
+UNCLAS 
  
 NAVADMIN 153/22 
  
@@ -12,7 +12,8 @@ PASS TO OFFICE CODES:
 FM CNO WASHINGTON DC//DNS// 
 INFO CNO WASHINGTON DC//DNS// 
  
-SUBJ/2022 MRS. SYBIL STOCKDALE OMBUDSMAN OF THE YEAR AWARD RECIPIENTS// 
+SUBJ/2022 MRS. SYBIL STOCKDALE OMBUDSMAN OF THE YEAR AWARD RECIPIENTS 
+(CORRECTED COPY)// 
  
 RMKS/1.  I am pleased to announce the selection of four outstanding Ombudsmen 
 as the 2022 Mrs. Sybil Stockdale Ombudsman of the Year Award recipients. 
@@ -27,14 +28,14 @@ serving their command and families with extraordinary, selfless dedication,
 and commitment to family readiness.  Congratulations to: 
     a.  Mrs. Bryne Blumer, Ombudsman for Commanding Officer, USS SAN JUAN 
 (SSN 751), selected from all sea commands under Commander, U.S. Fleet Forces 
-Command. 
-    b.  Mrs. Mrs. Melanie Reed, Ombudsman for Commanding Officer, USS FRANK 
-CABLE (AS 40) selected from all sea commands under Commander, U.S. Pacific 
-Fleet. 
-    c.  Mrs. Michelle Rohner, Ombudsman for Commanding Officer, 
-U. S. Naval Medical Research Unit No. 3 selected from all naval shore 
+ Command. 
+    b.  Mrs. Melanie Reed, Ombudsman for Commanding Officer, USS FRANK CABLE 
+        selected from all sea commands under Commander, U.S. Pacific Fleet. 
+    c.  Mrs. Michelle Rohner, Ombudsman for Commanding Officer, U.S Naval 
+Medical Readiness and Training Command (NMRTC) & Commanding Officer, U. S. 
+Naval Medical Research Unit No. 3 (NAMRU-3) selected from all naval shore 
 activities in the Navy. 
-    d.  Mrs. Collen Weaver, Ombudsman for Commanding Officer, Navy Reserve 
+    d.  Mrs. Colleen Weaver, Ombudsman for Commanding Officer, Navy Reserve 
 Center Alameda selected from all Reserve commands under Commander, Navy 
 Reserve Force. 
  
@@ -44,7 +45,7 @@ role models for command members and their families.
  
 4.  Commander, Navy Installations Command point of contact is 
 Ms. Brandy Littler, Ombudsman Program Coordinator, (202) 433-4701 (DSN 288), 
-or email brandy.littler(AT)navy.mil. 
+or email brandy.b.littler.naf(AT)us.navy.mil. 
  
 5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
  
