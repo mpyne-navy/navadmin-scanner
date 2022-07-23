@@ -1,0 +1,190 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 221618Z JUL 22 MID200080049455U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 160/22
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SKILLBRIDGE EMPLOYMENT SKILLS TRAINING GUIDANCE//
+
+REF/A/MSG/CNO WASHINGTON DC/171359ZSEP15//
+REF/B/DOC/DOD/24JAN14//
+REF/C/DOC/ASN/26JUL13///
+REF/D/DOC/USD/21NOV12///
+REF/E/DOC/USC/1JAN22//
+REF/F/DOC/DOD/JUN2019//
+
+NARR/REF A IS NAVADMIN 222/15, SKILLBRIDGE EMPLOYMENT SKILLS TRAINING 
+PROGRAM.  
+REF B IS DOD INSTRUCTION 1322.29, JOB TRAINING, EMPLOYMENT SKILLS TRAINING, 
+APPRENTICESHIPS, AND INTERNSHIPS FOR ELIGIBLE SERVICE MEMBERS.  
+REF C IS ASSISTANT SECRETARY OF THE NAVY MEMORANDUM, IMPLEMENTATION 
+INSTRUCTIONS FOR SECTION 1143(E) OF TITLE 10, UNITED STATES CODE.  
+REF D IS UNDER SECRETARY OF DEFENSE MEMORANDUM, DIRECTIVE-TYPE MEMORANDUM, 
+IMPLEMENTING MANDATORY TRANSITION ASSISTANCE PROGRAM PARTICIPATION FOR 
+ELIGIBLE SERVICE MEMBERS.  
+REF E IS 10 U.S. CODE SECTION 1143.  
+REF F IS THE DOD FINANCIAL MANAGEMENT REGULATION VOLUME 7A.//
+
+RMKS/1.  This NAVADMIN cancels and replaces reference (a), by clarifying 
+program requirements, updating Sailor eligibility, instituting a centralized 
+registration process, clarifying command approval procedures, and updating 
+the SkillBridge point of contact.
+References (b) through (e) provide authority for the Navy to implement 
+employment skills training and transition assistance programs.
+
+2.  The SkillBridge program is designed to help eligible members departing 
+the Naval service.  Reference (b) defines an eligible member as any member of 
+the Armed Forces who has completed at least
+180 days on Active Duty (AD) in the Armed Forces and is expected to be 
+discharged or released from AD within 180 days of the date of commencement of 
+participation in the SkillBridge program.  Sailors may not extend their 
+enlistment to complete a SkillBridge program.
+
+3.  To balance Sailor benefits and mission readiness, SkillBridge 
+participation should not normally begin any earlier than 120 days prior to 
+actual separation/retirement date.  In no case shall SkillBridge 
+participation begin any earlier than 180 days prior to actual 
+separation/retirement date.  Sailors may not use leave or any other 
+authorized absence to begin a SkillBridge program greater than
+180 days from separation.  Any approved separation, terminal leave, and 
+permissive temporary duty (TDY) shall occur following SkillBridge 
+participation.  Sailors will remain the responsibility of the parent command 
+for administrative purposes.  As such, SkillBridge participants must make 
+weekly contact with their command point of contact for personnel 
+accountability.  Failure to maintain weekly contact may result in program 
+termination and return to the permanent duty station (PDS) at the members 
+expense.
+
+4.  Sailors must meet the following eligibility requirements:
+    a.  Be separating from the Navy and have sufficient time remaining under 
+their contract to complete the program prior to established separation date.
+    b.  Have successfully passed their most recent physical fitness 
+assessment.
+    c.  Be recommended for advancement or promotion and retention on most 
+recent evaluation or fitness report.
+    d.  Have completed their Transition Assistance Program requirements.
+    e.  Have attended an ethics brief or completed a DoD (Department of 
+Defense) approved ethics training presentation within the 12 months prior to 
+the start of the SkillBridge program.
+    f.  Have not previously completed, be currently participating in, or had 
+participation terminated from an employment skills training program.
+
+5.  SkillBridge is not an entitlement.  Commanding officers (COs) and 
+officers in charge with non-judicial punishment authority maintain final 
+approval authority.  COs have full authority to disapprove or modify 
+participation based on mission requirements.
+COs should carefully consider command readiness when granting permission to 
+participate in the program in light of the fact that personnel backfills are 
+not normally available until the actual separation/retirement date of the 
+participant.
+    a.  COs shall evaluate each request to participate in SkillBridge on the 
+merits as they impact the individual Sailor and mission readiness.  Commands 
+shall not implement any additional restrictions on participation based on 
+such criteria as rank/grade, education, skills, length of service, etc.
+    b.  Commands should establish a formal process to assess the impact of 
+SkillBridge participation on mission readiness.
+    c.  SkillBridge participation need not align with the Sailors military 
+skill set.
+    d.  Command policies or instructions should address application 
+timelines, procedures and personnel accountability for participants, to 
+include periodic contact with the command.
+    e.  Commands will place all SkillBridge participants on permissive TDY 
+travel orders for the duration of their program until commencement of 
+separation, terminal leave, and permissive TDY, if authorized.  This applies 
+to programs both outside and within the area of the Sailors PDS.
+    f.  SkillBridge is considered official duty, authorized to be completed 
+during normal work days and hours.  Commands will place Sailors in a duty-
+free status while participating in SkillBridge.
+
+6.  Sailors may only participate in a SkillBridge program with industry 
+partners or employers that have an approved memorandum of understanding (MOU) 
+with the DoD.  A list of approved programs can be found on the SkillBridge 
+web portal, located at https://skillbridge.osd.mil/organizations.htm.  
+Organizations listed on the website are in good standing with DoD.  COs will 
+only approve participation through the end of the approved MOU in cases where 
+a partners MOU will expire during a Sailors requested SkillBridge period.  
+COs may extend a Sailors participation if the MOU is renewed prior to 
+expiration.
+    a.  COs may not enter into an MOU to approve an employer or industry 
+partner as a SkillBridge provider.
+    b.  Installation COs may enter into MOUs with DoD approved providers for 
+the purpose of operating a SkillBridge program on base.
+    c.  A participation MOU or other similar agreement required by a 
+SkillBridge provider to outline roles and responsibilities of each party 
+(provider, Sailor, command) is authorized.
+
+7.  Sailors receiving special and incentive (S and I) pays who participate in 
+SkillBridge will be treated as if they are on separation leave or long term 
+TDY with respect to continued eligibility for S and I pays.  If the policy 
+for a particular S and I pay requires payments to stop when the member is on 
+long term TDY or separation leave, commands must take action to stop the 
+applicable S and I pay.  For those S and I pays not required by policy to 
+stop for long term TDY or separation leave, COs will carefully consider the 
+impact to mission readiness due to the loss of the critical skill in question 
+before approving SkillBridge.  In line with reference (f), S and I pays are 
+directly tied to incentivizing retention of critical skills for Navy 
+missions, therefor COs are empowered to disapprove SkillBridge requests if 
+they feel that allowing a Sailor to receive S and I pay during SkillBridge 
+participation would inappropriately impact readiness.
+
+8.  Registration Procedures:
+    a.  To ensure accurate record keeping, effective immediately, any Sailor 
+intending to participate in SkillBridge shall register with the OPNAV 
+SkillBridge Registrar up to 365 days before expected date of separation.  
+This shall be completed via encrypted email from the Sailor to the address in 
+paragraph 11, with their command career counselor carbon copied.  Email must 
+include the Sailors name, rate/designator, paygrade, name of the SkillBridge 
+provider, as well as type of program (e.g. internship, skills training, or 
+apprenticeship), location and desired dates of the program.
+    b.  The OPNAV SkillBridge Registrar will record the Sailors intent to 
+participate and respond to the Sailor and the command career counselor via 
+email.  This acknowledgement shall then be routed to the CO with the Sailors 
+request to participate.
+    c.  COs may only approve SkillBridge requests from Sailors possessing 
+acknowledgement of registration from the OPNAV SkillBridge Registrar.
+
+9.  Upon CO approval of a registered SkillBridge participant, the command 
+will enter the Sailor into Fleet Training, Management and Planning System to 
+record SkillBridge participation as early as possible.  Course identification 
+numbers for SkillBridge are S-3A-060 for programs between 1 and 60 days, S-
+3A-0120 for courses between 61 and 120 days and S-3A-0180 for courses between 
+121 and 180 days.  Commands must enter the date the Sailors SkillBridge 
+program begins in the completion date field.  The command should notify the 
+OPNAV SkillBridge Registrar of any registered Sailor who was disapproved so 
+that they can be removed from the database.
+
+10.  Use of travel funds to participate in SkillBridge is not authorized.  
+Shipment of household goods is only permitted upon receipt of separation 
+orders.
+
+11.  Direct all questions regarding SkillBridge policy to 
+navy_skillbridge.fct(at)navy.mil or by phone at (703)604-5310.
+
+12.  This message will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+13.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+

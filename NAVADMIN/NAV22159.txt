@@ -1,0 +1,202 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 221536Z JUL 22 MID200080049313U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 159/22
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/FAMILY ADVOCACY PROGRAM POLICY UPDATES//
+
+REF/A/DOC/ DOD MANUAL 6400.01, VOLUME 3, 16JUL22//
+REF/B/DOC/GAO-21-289//
+REF/C/DOC/ DODI 6400.06 CHANGE 1,10MAY22//
+REF/D/DOC/OPNAVINST 1752.2C//
+REF/E//MSG/NAVADMIN 120/22//
+
+NARR/REF A IS DODIDODM 6400.01, VOL 3, FAMILY ADVOCACY PROGRAM.  
+REF B IS GOVERNMENT ACCOUNTABILITY OFFICE 21-289, DOMESTIC ABUSE:
+ACTIONS NEEDED TO IMPROVE DODS PREVENTION, RESPONSE AND OVERSIGHT.
+REF C IS DODI 6400.06, CHANGE 1, COORDINATED COMMUNITY RESPONSE TO DOMESTIC 
+ABUSE INVOLVING DOD AND CERTAIN MILITARY PERSONNEL.  
+REF D IS NAVY FAMILY ADVOCACY OPNAVINST. 
+REF E IS NAVADMIN 120/22, PROCEDURES FOR NOTIFYING CIVILIAN LAW ENFORCEMENT 
+OF ISSUANCE OF A MILITARY PROTECTIVE ORDER.//
+
+RMKS/1.  This NAVADMIN provides family advocacy program (FAP) policy updates 
+in line with references (a) through (e) to include:
+    a.  Updated FAP policy for Commander, Navy Installations Command to 
+implement (see paragraph 2).
+    b.  Expands the definition of intimate partners and personnel eligible 
+for expedited transfers (see paragraph 3).
+         c.  Provides additional guidance for COs on military protective 
+orders and civilian protective orders (see paragraph 4).
+
+2.  FAP Updates and Victim Services.  Commander, Naval Installations Command 
+(CNIC) must ensure:
+    a.  FAP victim advocates (VA):
+        (1) Provide information about the Catch a Serial Offender
+(CATCH) program to all victims filing a restricted report of sexual abuse.  
+This program allows victims to provide information to medical investigators 
+for the purpose of identifying serial offenders of sexual assault without 
+breaching their restricted report.
+        (2) Possess or obtain within six months of hiring, at a minimum, the 
+Basic Advocate Credential with a designation of Comprehensive Intervention 
+Specialist, approved by the National Advocate Credentialing Program.
+        (3) Be trained to use the Victim Advocate Lethality Assessment 
+Checklist.  The Victim Advocates (VA) Lethality Assessment Checklist is a 
+tool that must be used by FAP VAs to identify and reduce the victims risk of 
+death and/or serious physical harm.
+    b.  Installation FAP personnel coordinate with installation military 
+treatment facilities (MTF) to ensure medical representative participation at 
+the installation Incident Determination Committee (IDC).  Reference (a) 
+directs the Department of Health Affairs to designate a health care provider 
+and alternate from, or via, the forensic healthcare program at the 
+installation MTF or another MTF supporting the installation to serve as a 
+core member on the installation IDC. The health care provider and alternate 
+designated as core members are required to have the requisite medical 
+training, expertise, and available consultation resources to offer a medical 
+opinion on domestic abuse, child abuse, and neglect-related injuries.
+    c.  Each victim of domestic violence receives a comprehensive 
+informational guide, written in a clear and easily understandable format, on 
+the FAP and available services to include the following:
+        (1) Military law enforcement services, including an explanation of 
+the process that follows a report of an incident of domestic abuse, child 
+abuse or neglect.
+        (2) Notification for victims who have elected to file an unrestricted 
+report of domestic abuse involving Special Victim Investigation and 
+Prosecution covered offenses of their right to consult with a legal 
+assistance attorney for legal support and their right to request Special 
+Victims Counsel or Victim Legal Counsel services, if eligible.
+        (3) Other applicable victim services.
+    d.  Pending the release of the Department of Defense (DoD) database to 
+track domestic violence reports, case specific information on official 
+unrestricted reports of adult sexual abuse will be entered into the Defense 
+Sexual Assault Incident Database
+(DSAID) by the lead Sexual Assault Response Coordinator (SARC).
+Protocols for the SARC to enter FAP cases into DSAID will be determined by 
+the DoD Sexual Assault Prevention and Response Office and Office of the Chief 
+of Naval Operations (OPNAV) N170.  CNIC will implement processes and quality 
+assurance procedures to ensure FAP clinical providers notify SARCs of all 
+domestic abuse unrestricted reports of adult sexual abuse.
+    e.  The FAP case manager or designated licensed clinical provider use the 
+following assessment tools to assess risk level, severity level, safety and 
+lethality concerns in domestic and child abuse cases:
+        (1) Domestic Abuse/Child Abuse Risk Assessment (DARA or
+CARA) tool.  The applicable form must be completed within three working days 
+of initial interviews for all parties involved in the incident.  The DARA or 
+CARA tool is located within the Fleet and Family Support Management 
+Information System (FFSMIS).
+        (2) The DoD Intimate Partner Physical Injury Risk Assessment (IPPT-
+RAT).  The IPPT-RAT must be completed within three working days following the 
+initial interviews with the alleged offender, victim and all family members 
+involved in the incident.  The IPPT- RAT is available in the FFSMIS case 
+record.
+        (3) The FAP Incident Severity Scales (ISS).  The FAP-ISS tool is used 
+to determine the severity level in all met criteria incidents of child 
+abuse/neglect and domestic abuse, including intimate partner violence.  The 
+severity level must be indicated on the initial clinical case staff meeting 
+review form and clinical case notes must contain relevant information 
+regarding the impact/level of harm and verification that the FAP ISS tool was 
+used to determine the level of severity.  The ISS is located on the Defense 
+Manpower Data Center, Office of the Secretary of Defense (DMDC OSD) website.
+        (4) The Incident Report and Safety and Lethality Assessment Tool.  
+This tool must be used to conduct the safety assessment to evaluate current 
+suicidal/homicidal behaviors in alleged
+perpetrator(s) or in victims of sexual assault who are at risk.  The SLA is 
+located in the FFSMIS case folder.
+    a.  FAP clinical providers and VAs must provide information about the 
+Catch a Serial Offender (CATCH) program to all Service members and their 
+adult dependents filing a restricted report of sexual abuse.  This program 
+allows victims of adult sexual abuse to provide information to military 
+investigators for the purpose of identifying serial offenders of sexual 
+assault without breaching their restricted report.
+
+3.  Reference (c) updated the intimate partner definition to include a person 
+who is or has been in a social relationship of a romantic or intimate nature 
+with the alleged abuser, as determined by the length of the relationship, the 
+type of relationship and the frequency of interaction between the person and 
+the alleged abuser.
+These changes may impact the following:
+    a.  Expanded eligibility for FAP victim support services.  There may be 
+circumstances in which adult intimate partner sexual assault victims are 
+eligible for and can choose to receive, victim centric services from either 
+the FAP or the sexual assault prevention and response advocacy service, based 
+on the victims reported relationship to the abuser/offender.  FAP and SAPR 
+personnel must ensure that an adult intimate partner sexual assault victim 
+who is seeking services should never encounter a wrong door to getting the 
+care and support they need and are provided a warm handoff approach to care, 
+as needed.
+    b.  Expansion of expedited transfer requests.  Requests for expedited 
+transfer now may be made by:
+        (1) An active duty victim of sexual or physical domestic violence 
+allegedly committed by the spouse or intimate partner, whether or not the 
+spouse or intimate partner is a Service Member.
+        (2) An active duty parent whose dependent is a victim of sexual 
+assault allegedly perpetrated by a Service Member who is not related to the 
+victim.
+
+4.  Military Protective Orders (MPO) and Civilian Protective Orders
+(CPO) are necessary to protect victims.  Per references (b) and (e), Service 
+Members must comply with CPOs and MPOs or face possible disciplinary actions 
+for CPO/MPO violations.  COs must provide notice to any Service Member under 
+a MPO or CPO that the Service Members failure to comply may result in 
+administrative or other disciplinary action, to include potential prosecution 
+in line with the Uniform Code of Military Justice.  Commanders should consult 
+with the first Staff Judge Advocate in their chain of command to determine 
+how to best address CPO/MPO violations.
+
+5.  Restricted Reporting
+    a.  The Navy recognizes a victim may first tell someone (e.g., a friend, 
+family member, peer or other confidante) about the abuse before being aware 
+of reporting options or considering whether to file a restricted or 
+unrestricted report.  A victims communication with another person does not 
+prevent the victim from later electing to make a restricted report except in 
+specific situations.
+Specifically, if a victim informs their chain of command, their alleged 
+abusers chain of command, a DoD Law Enforcement Agency or Military Criminal 
+Investigative Organization outside of the CATCH program, there can be no 
+restricted report.  However, if the chain of command finds out about the 
+incident through independent channels, an investigation can be initiated, 
+even if the victim has filed a restricted report.
+    b.  Consistent with current policy regarding privileged communications, 
+victims may also speak to Chaplain Corps personnel about abuse without 
+compromising their restricted or unrestricted reporting option(s), if the 
+communication is for a spiritual purpose or assistance.
+
+6.  In line with reference (c), the Navy Chief of Chaplains must ensure all 
+Navy Chaplains receive domestic violence training either by installation FAP 
+or through initial accession training.  Chaplain training data should be 
+forwarded annually to OPNAV N171B FAP.
+
+7.  The domestic violence general military training GMT course will be 
+available on Navy eLearning site fourth quarter FY-22 along with an update to 
+the domestic violence mobile application training.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.  The above policy changes will be included in the 
+next update to reference (d).
+
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+

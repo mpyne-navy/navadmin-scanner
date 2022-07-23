@@ -1,0 +1,93 @@
+ROUTINE
+R 211916Z JUL 22 MID200080046976U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 157/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/CALL FOR APPLICATIONS FOR ASSIGNMENT TO PRESIDENTIAL FOOD SERVICE//
+
+REF/A/DOC/COMNAVPERSCOM/14DEC18//
+REF/B/DOC/DOD/15DEC98
+REF/C/DOC/DOD/30NOV98
+
+NARR/REF A IS MILPERSMAN 1306-937, CULINARY SPECIALIST EXECUTIVE SERVICES 
+PROGRAM.   
+REF B IS DOD DIRECTIVE 5210.55, DEPARTMENT OF DEFENSE PRESIDENTIAL SUPPORT 
+PROGRAM.   
+REF C IS DOD INSTRUCTION 5210.87, SELECTION OF DOD MILITARY AND CIVILIAN 
+PERSONNEL AND CONTRACTOR EMPLOYEES FOR ASSIGNMENT TO PRESIDENTIAL SUPPORT 
+ACTIVITIES (PSAS).//
+
+RMKS/1.  This NAVADMIN announces the requirements and solicits motivated 
+enlisted Service Members for duty with Presidential Food Service (PFS) at the 
+White House.  There are open billets within the following Navy ratings: CSCM, 
+CSCS, CSC, CSSC, CS1, CSS1, CS2 and CSS2.  Interested volunteers who meet the 
+criteria of references (a) through (c), are eligible to apply for billets as 
+early as 18 months from their projected rotation date.
+
+2.  Located in Washington, D.C., the primary mission of PFS is providing 
+worldwide food service, security, and personalized services to the President 
+of the United States.  They are charged with managing a fully operational 
+executive dining facility in the West Wing, logistics operations, catering 
+service, and operating the Navy Mess Gift Shop.  PFS has been comprised of 
+elite Navy Culinary Specialists who have had the honor of fortifying the U.S.
+Navy legacy in the White House by directly supporting Presidents since 1951.
+
+3.  Eligibility.  Candidates must always operate with maturity, tact and be 
+an exceptional and disciplined representative of the U.S. Navy at the White 
+House serving throughout the United States and abroad while both on and off- 
+duty.  They must meet the following requirements listed below to be 
+considered for this assignment.
+    a.  No non-judicial punishment or courts-martial convictions in the last 
+36 months.
+    b.  No alcohol-related incidents (civil or military) in the last
+36 months.  Driving under the influence or driving while intoxicated 
+convictions within the last 5 years are disqualifying.
+    c.  No excessive debt, financial instability or command directed 
+counseling in the last 36 months.  Applicants must be eligible for a 
+government credit card.
+    d.  Must be a U.S. citizen, non-dual citizenship and hold a minimum of 
+valid secret clearance.
+    e.  No evaluation trait below 3.0 for the past 36 months.
+    f.  High standard of physical fitness.  No PFA failure in the last 36 
+months. Personnel who have had medical waivers in the last 24 months are 
+considered on a case-by-case basis.
+
+4.  Interested candidates meeting the above requirements must submit a fully 
+completed Enlisted Personnel Action Request (NAVPERS 1306/7) and Special 
+Program Screening Form (NAVPERS 1306/92) to Culinary Specialists Executive 
+Services Program (PERS-44ES) as directed in reference (a).  After receiving 
+preliminary acceptance from PERS-44ES candidates must provide and complete 
+the following:
+    a.  Personnel Service Record/Electronic Service Record.
+    b.  Physical Readiness Information Management System Data.
+    c.  Standard Form 86.
+    d.  White House Military Office Personnel Data Sheet.
+    e.  White House Military Office Certificate of Medical Officer.
+    f.  Full length photo in Service Dress Blue Uniform.
+    g.  Photos of any visible tattoos.
+    h.  Last five evaluations.
+    i.  Presidential Food Service Interview Sheet.
+    j.  Official United States Navy Biography.
+    k.  Face-to-face interview at the White House.
+
+5.  For questions or additional information, please contact PERS-44ES at
+(901) 874-4614 or PFS at PFSCCC(at)whmo.mil.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled.
+
+7.  Released by Rear Admiral J. P. Waters, Acting N1B.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
