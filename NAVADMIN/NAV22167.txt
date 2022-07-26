@@ -1,0 +1,81 @@
+ROUTINE 
+R 261422Z JUL 22 MID200080056570U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 167/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUL// 
+ 
+SUBJ/FISCAL YEAR 2022 OCEANOGRAPHER OF THE NAVY AWARD NOMINATIONS// 
+ 
+REF/A/INST/OPNAV/20JUN19// 
+ 
+NARR/REF A IS OPNAVINST 1650.37A, CHIEF OF NAVAL OPERATIONS INSTRUCTION NAVAL 
+OCEANOGRAPHY AWARD PROGRAM WHICH ESTABLISHES AWARDS TO RECOGNIZE OUTSTANDING 
+ACHIEVEMENT IN THE FIELD OF NAVAL OCEANOGRAPHY.// 
+POC/CRAIG HAWKINS/AGCS/OPNAV N2N6E/TEL:  (703) 614-1840/EMAIL: 
+CRAIG.P.HAWKINS.MIL(at)US.NAVY.MIL// 
+POC/THOMAS MONEYMAKER/CAPT/OPNAV N2N6E/TEL:  (703) 614-1864/EMAIL: 
+THOMAS.A.MONEYMAKER.MIL(at)US.NAVY.MIL// 
+ 
+RMKS/1.  The Naval Oceanography Awards program was established to recognize 
+outstanding achievement in the field of Naval Oceanography by officers, chief 
+petty officers, and civilians.  The awards are sponsored by the Oceanographer 
+of the Navy per reference (a). 
+ 
+2.  Award criteria and eligibility.  One awardee will be selected for each of 
+the following awards: 
+    a.  Captain Richard C. Steere Award recognizes junior officers afloat or 
+ashore for their leadership, performance, special accomplishments, and expert 
+application of the meteorology and oceanography sciences.  U.S. Navy Active 
+and Reserve officers in the paygrades of O1-O3 with designators of 1800/6800 
+are eligible. 
+    b.  The Commander Mary Sears Award recognizes mid-grade officers who 
+demonstrate sustained superior performance, outstanding leadership ability, 
+personal initiative, cooperation and adaptability, outstanding military 
+bearing, and exemplary military and professional conduct.  U.S. Navy Active 
+and Reserve officers in the paygrade of O4 with designators of 1800/6800 are 
+eligible. 
+    c.  The Chief Aerographers Mate John Dungan Jr. Award recognizes Navy 
+senior enlisted in the oceanography community, afloat or ashore, for their 
+leadership, performance, special accomplishments, and expertise in 
+forecasting and analysis in the applied sciences of meteorology and 
+oceanography in support of fleet operations.  U.S. Navy Active and Reserve 
+component aerographers mates in the paygrades of E-7 to E-8 are eligible. 
+    d.  The Matthew Henson Award recognizes Naval Oceanography civilian 
+employees for their leadership, performance, special accomplishments, and 
+expert application of the meteorology and oceanography sciences in support of 
+Naval operations.  Department of the Navy civilian employees at or below the 
+grade of GS13 are eligible. 
+ 
+3.  Nominations.  The period of eligibility is from 1 October 2021 to 
+30 September 2022.  Nomination packages should be submitted as specified in 
+reference (a).  Packages must arrive to the Oceanographer of the Navy via 
+email to AGCS Craig Hawkins at craig.p.hawkins.mil(at)us.navy.mil and CAPT 
+Thomas Moneymaker at thomas.a.moneymaker.mil(at)us.navy.mil no later than 15 
+October 2022.  The Oceanographer of the Navy and Commander, Naval Meteorology 
+and Oceanography Command will convene a joint board consisting of their 
+respective Technical Directors, Senior Enlisted Advisor/Command Master Chief, 
+Executive Assistant/Chief of Staff, and others as appropriate who will select 
+awardees based upon the above criteria and content of the respective 
+nomination packages.  Nominations must be unclassified and submitted on 
+command letterhead by scan and email (preferred) or letter mail to the 
+following address:  Deputy Chief of Naval Operations for Information Warfare, 
+ATTN:  OPNAV N2N6E, 2000 Navy Pentagon, Washington, D.C., 20350-2000. 
+ 
+4.  Recognition.  The Oceanographer of the Navy will announce the awards by 
+message on or about the birthday of naval oceanography, 6 December 2022, and 
+will recognize the awardees in person or via their respective Commanding 
+Officer. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
