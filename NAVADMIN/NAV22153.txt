@@ -1,55 +1,65 @@
-ROUTINE 
-R 181927Z JUL 22 MID200080024524U 
-FM CNO WASHINGTON DC//DNS// 
-TO NAVADMIN 
-INFO CNO WASHINGTON DC//DNS// 
-BT 
-UNCLAS 
- 
-NAVADMIN 153/22 
- 
-PASS TO OFFICE CODES: 
-FM CNO WASHINGTON DC//DNS// 
-INFO CNO WASHINGTON DC//DNS// 
- 
+CLASSIFICATION: UNCLASSIFIED
+
+ROUTINE
+
+R 181927Z JUL 22 MID200080031133U
+
+FM CNO WASHINGTON DC//DNS//
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC//DNS//
+
+BT
+UNCLAS
+
+NAVADMIN 153/22
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+
 SUBJ/2022 MRS. SYBIL STOCKDALE OMBUDSMAN OF THE YEAR AWARD RECIPIENTS 
-(CORRECTED COPY)// 
- 
+(CORRECTED COPY)//
+
 RMKS/1.  I am pleased to announce the selection of four outstanding Ombudsmen 
-as the 2022 Mrs. Sybil Stockdale Ombudsman of the Year Award recipients. 
+as the 2022 Mrs. Sybil Stockdale Ombudsman of the Year Award recipients.
 These volunteers exemplify the spirit of Mrs. Sybil Stockdale who supported 
 the families of Prisoners of War during her husband, Vice Admiral James Bond 
 Stockdale's internment in Southeast Asia.  This award recognizes those who 
 serve as inspirational Ombudsmen and embody the ideals of volunteer service 
-and commitment to Navy Sailors and their families. 
- 
+and commitment to Navy Sailors and their families.
+
 2.  The following Ombudsmen were nominated by their commanding officers for 
 serving their command and families with extraordinary, selfless dedication, 
-and commitment to family readiness.  Congratulations to: 
-    a.  Mrs. Bryne Blumer, Ombudsman for Commanding Officer, USS SAN JUAN 
-(SSN 751), selected from all sea commands under Commander, U.S. Fleet Forces 
- Command. 
-    b.  Mrs. Melanie Reed, Ombudsman for Commanding Officer, USS FRANK CABLE 
-        selected from all sea commands under Commander, U.S. Pacific Fleet. 
-    c.  Mrs. Michelle Rohner, Ombudsman for Commanding Officer, U.S Naval 
-Medical Readiness and Training Command (NMRTC) & Commanding Officer, U. S. 
-Naval Medical Research Unit No. 3 (NAMRU-3) selected from all naval shore 
-activities in the Navy. 
-    d.  Mrs. Colleen Weaver, Ombudsman for Commanding Officer, Navy Reserve 
-Center Alameda selected from all Reserve commands under Commander, Navy 
-Reserve Force. 
- 
-3.  Thank you to all Command Ombudsmen who maintain the highest standards 
-of professionalism and create a healthy sense of community by being positive 
-role models for command members and their families. 
- 
-4.  Commander, Navy Installations Command point of contact is 
-Ms. Brandy Littler, Ombudsman Program Coordinator, (202) 433-4701 (DSN 288), 
-or email brandy.b.littler.naf(AT)us.navy.mil. 
- 
-5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
- 
-BT 
-#0001 
-NNNN 
-UNCLASSIFIED//
+and commitment to family readiness.  Congratulations to:
+    a.  Mrs. Byrne Blumer, Ombudsman for Commanding Officer, USS SAN JUAN 
+(SSN
+        751), selected from all sea commands under Commander, U.S. Fleet 
+Forces Command.
+    b.  Mrs. Melanie Reed, Ombudsman for Commanding Officer, USS FRANK CABLE
+        selected from all sea commands under Commander, U.S. Pacific Fleet.
+    c.  Mrs. Michelle Rohner, Ombudsman for Commanding Officer, U.S Naval
+        Medical Readiness and Training Command (NMRTC) &
+        Commanding Officer, U. S. Naval Medical Research Unit No. 3 (NAMRU-3)
+        selected from all naval shore activities in the Navy.
+    d.  Mrs. Colleen Weaver, Ombudsman for Commanding Officer, Navy Reserve
+        Center Alameda selected from all Reserve commands under
+        Commander, Navy Reserve Force.
+
+3.  Thank you to all Command Ombudsmen who maintain the highest standards of 
+professionalism and create a healthy sense of community by being positive 
+role models for command members and their families.
+
+4.  Commander, Navy Installations Command point of contact is Ms. Brandy 
+Littler, Ombudsman Program Coordinator, (202) 433-4701 (DSN 288), or email 
+brandy.b.littler.naf(AT)us.navy.mil.
+
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED
+

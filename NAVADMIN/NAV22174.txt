@@ -1,0 +1,157 @@
+ROUTINE 
+R 021525Z AUG 22 MID200080074325U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 174/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+\MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/2022 MERITORIOUS ADVANCEMENT PROGRAM SEASON TWO// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/152116ZFEB22// 
+REF/B/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/C/MSG/CNO WASHINGTON DC/161157ZJUL20// 
+ 
+NARR/REF A IS NAVADMIN 038/22, 2022 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
+ONE.   
+REF B IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP).   
+REF C IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.// 
+ 
+RMKS/1.  This NAVADMIN replaces reference (a) and announces the 
+policy and guidance for Calendar Year (CY) 2022 Season Two 
+Meritorious Advancement Program (MAP) for Active-Duty (Active 
+Component and Training and Administration of the Reserve (TAR)) 
+Sailors.  MAP season two will run from 1 September through 15 
+October 2022.  This season will feature an additional preseason 
+window for commands to verify user hierarchies and unit 
+identification code (UIC) assignments ahead of the season.  The 
+timeline in paragraph 3 contains additional details. 
+ 
+2.  MAP will account for approximately 20 percent of total 
+advancements during CY22, with roughly half of the available MAP 
+quotas allocated for each of two MAP seasons during the year.  The 
+two-season framework aligns MAP with the Navy wide advancement exam 
+(NWAE) to ensure any unused MAP quotas are included in the NWAE 
+cycle and to emphasize the intent of MAP to select and reward top 
+performing Sailors.  To meet required time in rate (TIR) for MAP 
+advancement eligibility, Sailors must have a date of rank no later 
+than the following: 
+    a.  E-5:  1 January 2021. 
+    b.  E-5 (Nuclear-Trained Sailors):  1 January 2020. 
+    c.  E-4 and below:  No TIR requirement. 
+ 
+3.  Timeline: 
+    a.  MAP Pre-season:  15-24 August 2022. 
+    b.  MAP Quotas Uploaded:  30 August 2022. 
+    c.  CY22 MAP Season 2:  1 September-15 October 2022. 
+ 
+4.  In order to control over advancing particular rate-paygrade 
+combinations and maintain rating health, MAP advancement to AO3 and 
+RS3 for Active-Duty Sailors remains controlled as outlined in 
+paragraph 7. 
+ 
+5.  In line with reference (b), MAP advancement to ABH2, ABF2, GSM2, 
+and CS2 for Active Component Sailors is not authorized due to new 
+advancement opportunities available within the detailing marketplace 
+assignment policy (DMAP) for those rates.  Visit MyNavy HR DMAP 
+website, located at https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Enlisted/Detailing-Marketplace/, for more 
+information. 
+ 
+6.  Commands are required to have two Navy Standard Integrated 
+Personnel System (NSIPS) MAP user roles (command reviewer and 
+command reporting senior) in order to submit MAP advancement(s), 
+exception(s) to policy (ETP) and additional MAP quota requests 
+through NSIPS.  NSIPS web afloat users and commands without access 
+to NSIPS should refer to paragraph 6a for instructions on submitting 
+their MAP advancements.  The system will use authoritative data to 
+determine eligibility, however, commands are still required to 
+locally validate MAP candidates have successfully completed the 
+professional military knowledge eligibility examination requirement 
+prior to the first day of the MAP season (1 September 2022), as 
+outlined in reference (c).  For training on user roles, log into 
+NSIPS via https://www.nsips.navy.mil/ and click on training tab, then 
+click MAP tutorial. 
+    a.  NSIPS web afloat users and commands without access to NSIPS 
+must submit a MAP nomination request via e-mail directly to their 
+immediate superior in command (ISIC), type commander (TYCOM) or 
+budget submitting office (BSO)/echelon II command using the 
+meritorious certification letter (MCL).  The letter must be signed 
+by the commanding officer and should address any ETP and/or 
+additional quotas requested.  Sample MCLs and detailed information 
+regarding the offline process can be found via MyNavy Portal (MNP) 
+at https://www.mnp.navy.mil/group/advancement-and-promotion/a-  
+enlisted-advancement-resources-and-links, then select the *Websites* 
+tab in the blue banner and then select the MAP homepage. 
+    b.  Quota usage, modifications and distribution will be managed 
+within the NSIPS environment.  BSO and command quotas will be 
+uploaded into NSIPS on 30 August 2022 and can be found under the 
+quota summary report tab.  Quotas can also be found via MNP at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/a-enlisted- 
+advancement-resources-and-links, then select the *Websites* tab in 
+the blue banner and then select the MAP homepage. 
+    c.  Additional quotas can be requested using the quota request 
+option by the command reviewer user role.  Commands must contact 
+their BSO to determine timeline for additional quota requests. 
+Whether or not command quotas are authorized, all commands have the 
+opportunity to request quotas from their BSO/echelon II command, via 
+their ISIC and TYCOM, unless the rating is not authorized for MAP in 
+line with paragraph 5 above. 
+    d.  NSIPS will automatically determine if an ETP is required 
+using predetermined criteria.  Service Members in ratings requiring 
+security clearances and rates/pay grades requiring time in rate TIR 
+waivers will be automatically routed for adjudication.  The request 
+will be routed through the ISIC, TYCOM, and BSO/echelon II command 
+using a hierarchical workflow. 
+    e.  NSIPS will not automatically generate an ETP for nuclear 
+trained service Members.  Commands desiring to advance a nuclear 
+trained service Member not meeting the TIR requirement must request 
+an ETP to Director, Military Personnel Plans and Policy (OPNAV N13) 
+via the Nuclear Program Manager (OPNAV N133). 
+ 
+7.  MAP Advancements in Controlled Rates.  Commands desiring to MAP 
+a Sailor to AO3 or RS3 must submit a request to their BSO, via their 
+ISIC and TYCOM, using the quota request option in NSIPS.  If the 
+command does not have access to NSIPS, they should follow the 
+procedures in paragraph 6a.  BSOs will be granted MAP quotas for 
+each rate based on the proportion of the billets authorized (BA) at 
+the lower paygrade of that rate under that BSO.  If there are not 
+enough quotas for all BSOs with BA for the lower paygrade, the 
+quotas will be allocated to the BSOs with the largest amount of BA 
+for the lower paygrade.  BSOs will be contacted by BUPERS-32 to 
+inform them of how many of their assigned quotas may be used for the 
+specified rates.  Commands will submit requests to the BSOs using 
+the template provided on the MAP homepage via MNP at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/a-enlisted- 
+advancement-resources-and-links, then select the *Websites* tab in 
+the blue banner and then select the MAP homepage. 
+ 
+8.  MAP Website.  MAP quotas by UIC, forms and frequently asked 
+questions can be found at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/a-enlisted- 
+advancement-resources-and-links, then select the *Websites* tab in 
+the blue banner and then select the MAP homepage.  The list of 
+points of contact for each BSO/echelon II command and list of parent 
+and subordinate UICs can also be found on the above website. 
+ 
+9.  Contact MyNavy Career Center (MNCC) at (833) 330-6622 or e-mail 
+at askmncc(at)navy.mil. 
+ 
+10.  This NAVADMIN will remain in effect until superseded or 
+canceled, whichever comes first. 
+ 
+11.  Released by Rear Admiral J. P. Waters, Acting N1B.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

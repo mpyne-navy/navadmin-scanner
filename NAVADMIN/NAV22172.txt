@@ -1,0 +1,134 @@
+ROUTINE 
+R 282021Z JUL 22 MID200080062960U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 172/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/ACTIVE DUTY ENLISTED ADVANCE-TO-POSITION PROGRAM UPDATE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/071523ZOCT19// 
+REF/B/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/C/MSG/CNO WASHINGTON DC/011634ZJUN22// 
+REF/D/DOC/BUPERS/7FEB22// 
+ 
+NARR/REF A IS NAVADMIN 230/19, ANNOUNCEMENT OF ACTIVE DUTY ENLISTED 
+ADVANCEMENT-TO-POSITION PROGRAM.   
+REF B IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY.   
+REF C IS NAVADMIN 127/22, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE I 
+UPDATE.   
+REF D IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+ 
+RMKS/1.  This NAVADMIN cancels reference (a) and provides updated 
+advance-to-position (A2P) guidance which will be employed beginning 
+with the 1 August 2022 MyNavy Assignment (MNA) Cycle.  The A2P 
+Program now includes Active Component E-4 and E-5 Sailors in non- 
+detailing marketplace assignment policy (DMAP) ratings and allows 
+them to apply for select E-5 and E-6 jobs, respectively, when in 
+their detailing window.  Guidance provided in this NAVADMIN does not 
+apply to DMAP ratings (Currently:  CS, GSM, ABF, and ABH), who 
+remain eligible for DMAP incentives, including DMAP A2P, as 
+described in references (b) and (c). 
+ 
+2.  Sailors selected for A2P opportunities under this NAVADMIN will 
+be permanently advanced and paid upon reporting to an A2P job at 
+their ultimate duty station, following successful completion of any 
+required en-route training.  Sailors also maintain eligibility for 
+all other advancement programs that they would be eligible for even 
+after selection for A2P, and may advance sooner via any other 
+advancement program for which they are selected.  Sailors selected 
+for an A2P assignment will receive permanent change of station (PCS) 
+orders, if required, in line with current detailing business rules. 
+ 
+3.  A2P opportunities will be identified by the manning control 
+authority (MCA), in coordination with fleet readiness integrators 
+(FRI), based on existing prioritization processes.  Selected A2P 
+opportunities will then be published within each MNA cycle. 
+Applicants will only be considered for the A2P jobs for which they 
+are qualified and have applied.  Sailors may apply to sea duty A2P 
+jobs, regardless of sea or shore flow considerations.  Sailors on 
+shore duty who are due to rotate to sea duty will not be considered 
+for shore duty jobs, but are encouraged to apply for sea duty A2P 
+jobs. 
+ 
+4.  Eligibility requirements are not waiverable.  To be eligible, 
+applicants must: 
+    a.  Be an Active Component Sailor. 
+    b.  Be an E-4 or E-5. 
+    c.  Not be in a DMAP rating. 
+    d.  Be within the order negotiation window. 
+    e.  Have passed the most recent Navy wide advancement exam 
+(NWAE) for the paygrade to which they are applying. 
+    f.  Have successfully completed the professional military 
+knowledge eligibility exam requirement for the paygrade to which 
+they are applying. 
+    g.  Be eligible for advancement to the next higher paygrade in 
+line with reference (d). 
+    h.  Obligate service (OBLISERV) for the entirety of the 
+designated A2P tour length. 
+    i.  Be generally qualified to fill the job for which they apply, 
+with the exception of any en-route training requirements. 
+Prerequisites for any required en-route training must be met prior 
+to applying for an A2P job.  Sailors may view any job requirements 
+(required schools in-route, Navy enlisted classifications (NEC), 
+etc.) on MNA by clicking on the NEC hyperlink and review 
+requirements and Navy training information.  Sailors should contact 
+their rating detailer if they have any questions regarding 
+qualifications needed to fill a specific A2P job. 
+ 
+5.  Jobs identified for the A2P Program will appear in the *Advance 
+to Position* category in MNA (note that this is different than the 
+DMAP marketplace).  Depending on your rating and paygrade, A2P 
+opportunities may not be advertised every MNA cycle as the MCA and 
+FRIs prioritize and fill different Fleet priorities each cycle.  To 
+ensure advertised jobs for this program are displayed, Sailors 
+should verify the *Advance to Position* category is selected in the 
+optional input portion of the MNA job search page.  Sailors should 
+submit applications to the jobs in the same manner as standard cycle 
+applications. 
+ 
+6.  All A2P applicants will be graded utilizing a Sailor scoring 
+criteria, a sample of which is available on the detailing 
+marketplace tab of MyNavy HR website.  Candidates who have passed, 
+but not advanced via the most recent NWAE, and are eligible for 
+advancement to the next higher paygrade will be selected on a 
+competitive basis using the following considerations: 
+    a.  Billet requirements for the job applied to, including rate, 
+paygrade, and NEC (if applicable). 
+    b.  Sailor preference, application ranking, receiving command 
+comments, and final multiple score. 
+    c.  Sailors having or possessing the ability to obtain any 
+required critical skills for the job. 
+    d.  Needs of the Navy (availability of PCS funds, etc.). 
+ 
+7.  After obligating service and completing any required screening, 
+Sailors selected for A2P jobs should be frocked by losing command 
+prior to transfer.  Gaining commands will submit PCS orders and key 
+supporting documentation to transaction service center or joint base 
+personnel support detachment to allow Sailors to be permanently 
+advanced upon reporting.  The effective date of paygrade will be the 
+report date to the ultimate duty station.  The completion of the PCS 
+orders execution and reporting onboard will serve as the authority 
+to advance.  Sailors who fail to successfully complete en-route 
+training or schools required for the performance of an A2P job will 
+not be advanced, regardless of whether or not they continue to 
+execute orders to the ultimate duty station. 
+ 
+8.  Point of contact is MyNavy Career Center e-mail 
+askmncc(at)navy.mil or 1-833-330-MNCC. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

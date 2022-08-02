@@ -1,0 +1,192 @@
+ROUTINE 
+R 272006Z JUL 22 MID200080060018U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 171/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/NOTICE OF CONVENING FY-24 ACTIVE-DUTY REAR ADMIRAL AND REAR ADMIRAL 
+(LOWER HALF) PROMOTION SELECTION BOARDS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/271415ZSEP19// 
+AMPN/REF A IS NAVADMIN 220/19, ELECTRONIC SUBMISSION OF LETTERS TO PROMOTION 
+AND SELECTION BOARDS THROUGH MYNAVY PORTAL. 
+ 
+RMKS/1.  The fiscal year (FY) 24 Promotion Selection Boards to recommend Navy 
+officers on the Active-Duty List serving in the grades of Captain and Rear 
+Admiral (lower half) Line and Staff Corps for promotion to the grades of Rear 
+Admiral (lower half) and Rear Admiral will be convened as follows: 
+ 
+     19 SEP 22 - Unrestricted Line, Acquisition Line Community, 
+                 Information Warfare Community, Senior Health Care 
+                 Executive and Supply Corps Rear Admiral 
+     20 SEP 22 - Unrestricted Line, Acquisition Line Community, 
+                 Information Warfare Community, Foreign Expertise, 
+                 Senior Health Care Executive and Supply Corps 
+                 Rear Admiral (lower half) 
+     TBD -       Rear Admiral/Rear Admiral (lower half) Selective 
+                 Early Retirement (if needed) 
+ 
+2.  Please read this NAVADMIN in its entirety as there is significant 
+information throughout that may affect your eligibility for consideration by 
+the board. 
+ 
+3.  The Secretary of the Navy has approved the establishment of the 
+Unrestricted Line Major Command Screened competitive category for selection 
+to Rear Admiral (lower half).  All eligible Active-Duty, Unrestricted Line 
+Navy Captains with the Major Command Screened (2D4) additional qualification 
+designation (AQD) will compete for selection to Rear Admiral (lower 
+half).  This section does not apply to Unrestricted Line officers with the 
+Acquisition Professional Membership (APM) or Foreign Expertise (FE1) AQDs who 
+are being considered by the Acquisition Line Community or FE1 boards. 
+ 
+4.  Acquisition Line Community.  All eligible Active-Duty Navy Line Captains 
+serving in the Unrestricted Line, Engineering Duty, and Aerospace Engineering 
+Duty communities with the APM AQD will compete for selection to Rear Admiral 
+(lower half) as one competitive category in the Acquisition Line Community 
+selection board. Unrestricted Line officers with the APM AQD desiring to be 
+considered by the Unrestricted Line selection board must request removal of 
+the APM AQD from their records by contacting their respective detailer within 
+10 calendar days of the release of this NAVADMIN. 
+ 
+5.  FE1 Community.  All eligible Active-Duty Navy Line Captains serving in 
+the Unrestricted Line, Foreign Area Officer, Oceanography, Cryptologic 
+Warfare, Information Professional, Intelligence and Cyber Warfare Engineer 
+communities, who hold the FE1 AQD will be considered by the FE1 Community 
+selection board. Unrestricted Line, Foreign Area, Oceanography, Cryptologic 
+Warfare, Information Professional, Intelligence and Cyber Warfare Engineer 
+officers with the FE1 AQD desiring to be considered by their respective 
+community selection board must request temporary removal of the FE1 AQD from 
+their records by contacting their respective detailer within 10 calendar days 
+of the release of this NAVADMIN. 
+ 
+6.  An eligible officer can only be considered by one board.  If an eligible 
+officer has both the APM and FE1 AQDs and does not request to have one of the 
+AQDs removed, the officer will be considered by their respective community 
+selection board, providing they meet the eligibility criteria for their 
+community board, and will not be considered by the Acquisition Line Community 
+or the FE1 Community board. 
+ 
+7.  Senior Health Care Executive Community.  All eligible Active-Duty Navy 
+Captains serving in the Medical Corps, Dental Corps, Medical Service Corps 
+and Nurse Corps with the 2D2 AQD will compete for selection to Rear Admiral 
+(lower half) as one competitive category in the Senior Health Care Executive 
+selection board. 
+ 
+8.  The following list indicates the name, Active-Duty List number, and date 
+of rank of the senior and junior officers in and below the zone (if 
+applicable) for consideration for promotion in each competitive category and 
+grade listed as of the date of this NAVADMIN.  In addition, those officers, 
+on the Active-Duty List and in the same competitive category and grade, who 
+are senior to the senior officer in zone listed in their category are 
+eligible for consideration. 
+ 
+                              Rear Admiral 
+                ------ Unrestricted Line (11XX/13XX) ------ 
+Senior In Zone - Huffman, G. C.             000944-65   01 MAY 19 
+Junior In Zone - Andros, B. J.              000996-00   01 FEB 21 
+ -- Acquisition Line Community (11XX/13XX/14XX/15XX with APM AQD) -- 
+Senior In Zone - Moton, C. J.               000944-80   01 JUN 19 
+Junior In Zone - Okano, E. S.               001001-00   01 JUN 21 
+            ------ Information Warfare Community (186X) ------ 
+Senior In Zone - Henderschedt, T. M.        000973-00   01 JUL 20 
+Junior In Zone - Watkins, J. A.             000994-00   01 NOV 20 
+             ------ Senior Health Care Executive (270X) ------ 
+Senior In Zone - Hancock, J. L.             000948-00  01 AUG 19 
+Junior In Zone - Kuehner, C. A.             000980-00  01 AUG 20 
+                   ------ Supply Corps (310X) ------ 
+Senior In Zone - Epps, K. W.                000947-00   01 AUG 19 
+Junior In Zone - English, D. D.             001000-00   01 JUN 21 
+                       Rear Admiral (lower half) 
+    ------ Unrestricted Line (11XX/13XX with 2D4 AQD) ------ 
+Senior In Zone - Bergloff, B. E.            015824-25   01 JAN 15 
+Junior In Zone - Copeland, T. P.            016786-00   01 OCT 18 
+Junior Eligible - Eastham, W. G.            017093-00   01 OCT 19 
+-- Acquisition Line Community (11XX/13XX/14XX/15XX with APM AQD) -- 
+Senior In Zone - Sanders, W. S.             015835-00   01 MAR 15 
+Junior In Zone - Mlynarski, P. R.           016789-50   01 OCT 18 
+Junior Eligible - Somerville, E. M.         017086-00   01 OCT 19 
+       ------ Information Warfare Community (18XX) ------ 
+Senior In Zone - Gagnon, T. A.              015855-00   01 JUN 15 
+Junior In Zone - Wallace, K. A.             016791-00   01 OCT 18 
+Junior Eligible - Carmickle, B. T.          017092-50   01 OCT 19 
+           -- FE1 Community (11XX/13XX/171X/18XX with FE1 AQD) -- 
+Senior In Zone - Asuncion, M. R.            012738-00   01 SEP 13 
+Junior In Zone - SomboonPakron, P.          016788-50   01 OCT 18 
+Junior Eligible - Ehredt, D. J.             017087-50   01 OCT 19 
+ - Senior Health Care Executive (210X/220X/230X/290X with 2D2 AQD) - 
+Senior In Zone - Buckley, K. D.             012316-00   01 FEB 12 
+Junior In Zone - Blighton, G. R.            016760-50   01 SEP 18 
+Junior Eligible - Blackman, V. S.           017054-00   01 OCT 19 
+                   ------ Supply Corps (310X) ------ 
+Senior In Zone - Hodges, C. L .             015535-50   01 NOV 14 
+Junior In Zone - Yarbrough, L. K. G.        016789-00   01 OCT 18 
+Junior Eligible - Bolls, M. L.              017072-00   01 OCT 19 
+ 
+9.  Only eligible officers may communicate with a promotion 
+selection board via the Letter to the Board (LTB) process.  NAVADMIN 
+220/19 announced the introduction of a new application known as 
+Electronic Submission of Selection Board Documents (ESSBD), 
+accessible through MyNavy Portal (MNP).  ESSBD improves the speed, 
+transparency, and confidence of receipt over current LTB submission 
+methods, such as hard copy and e-mail submitted letters and related 
+attachments. 
+    a.  ESSBD will be available for all promotion, advancement and 
+selection boards. 
+    b.  ESSBD provides board candidates with the capability to 
+electronically submit LTBs in a standard, consistent format, with or 
+without attachments, and will allow the candidate to see (for 
+content and clarity) exactly what will be delivered and presented to 
+the board. 
+    c.  To use ESSBD, candidates must access document services 
+through MNP at https://www.mnp.navy.mil/group/my-record.  On-screen 
+instructions will direct the submitter thereafter. 
+    d.  Submission and subsequent receipt acknowledgement for LTBs 
+submitted via ESSBD or other means does not constitute confirmation 
+of eligibility for the boards to which LTBs are submitted.  If 
+required, a full visual user guide is available at 
+https://www.mnp.navy.mil/group/advancement-and-promotion. 
+    e.  LTBs must be received by Navy Personnel Command not later 
+than 2359 (central time) 10 days prior to the convening date of the 
+respective board.  Submitters are cautioned to not wait until the 
+deadline date to submit LTBs via ESSBD or other available avenues. 
+Selection To               Convening Date     Due Date / Time 
+Rear Admiral               19 SEP 22          08 SEP 22 / 2359 CST 
+Rear Admiral (lower half)  20 SEP 22          09 SEP 22 / 2359 CST 
+    f.  If having problems submitting board packages via ESSBD 
+(network connectivity, system maintenance, etc.) or if sending a 
+board package from a non-Navy.Marine Corps Intranet network 
+(bumed.mil, eu.navy.mil, etc.), please review procedures listed in 
+NAVADMIN 220/19 and MILPERSMAN 1420-010 for alternative submission 
+methods. 
+    g.  The written communication may call attention to the board 
+any matter concerning the record of the officer that the officer 
+considers important.  Written communication may include, as 
+enclosures, correspondence from any individual concerning the 
+eligible officer.  Correspondence not originated by the eligible 
+officer, including endorsement to the letter of the eligible officer 
+and letters written on behalf of that officer, must contain a 
+written acknowledgement by the eligible officer that he or she 
+desires such correspondence be presented to the board. 
+Correspondence without such an acknowledgement is considered third- 
+party correspondence and will be returned without being presented to 
+the board.  Classified correspondence will not be accepted.  All 
+officers are reminded it is their responsibility to ensure their 
+personnel records are substantially accurate and complete. 
+ 
+10.  Merit reorder will not be authorized for the subject boards. 
+ 
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
