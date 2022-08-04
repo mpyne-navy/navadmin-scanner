@@ -1,0 +1,63 @@
+ROUTINE 
+R 041935Z AUG 22 MID200080079822U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 176/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/POLICY UPDATE CONCERNING SERVICE-IN-GRADE RETIREMENT ELIGIBILTY FOR 
+ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR RESERVE LIEUTENANT 
+COMMANDERS// 
+ 
+REF/A/DOC/OPNAV/28FEB12// 
+REF/B/DOC/OPNAV/23OCT13// 
+REF/C/DOC/HR6395/1JAN21// 
+REF/D/DOC/USC//1JAN21// 
+ 
+NARR/REF A IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE 
+FLEET RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY. 
+REF B IS OPNAVINST 1820.1B, VOLUNTARY RETIREMENT OF MEMBERS OF THE NAVY 
+RESERVE NOT ON THE ACTIVE DUTY LIST (INCLUDING NAVY RESERVISTS ON ACTIVE DUTY 
+IN FULL TIME SUPPORT).   
+REF C IS THE WILLIAM M. THORNBERRY NATIONAL DEFENSE AUTHORIZATION ACT FOR 
+FISCAL YEAR 2021. 
+REF D IS TITLE 10 U.S. CODE 1370, REGULAR COMMISSIONED OFFICERS. 
+ 
+RMKS/1.  This NAVADMIN updates policy in references (a) and (b) 
+concerning voluntary regular retirement eligibility of lieutenant 
+commanders (O-4), including those on the Active-Duty list as well as 
+those Navy Reserve O-4s on Active Duty in the training and 
+administration of reserve (TAR) (formerly known as full-time 
+support). 
+ 
+2.  Reference (c) modified the service-in-grade (SIG) (also known as 
+time-in-grade) requirements for O-4s.  Specifically, reference (c) 
+modified reference (d) to require 3-years SIG for voluntary regular 
+retirement eligibility. 
+ 
+3.  This NAVADMIN will be incorporated into a revision of references 
+(a) and (b). 
+ 
+4.  For additional information on Active Duty and TAR officer 
+retirements, visit the Navy Personnel Command, Officer Retirements 
+Branch (PERS-835) website at https://www.mynavyhr.navy.mil/Career-
+Management/Retirement/Officer-Retirements/ or contact the MyNavy 
+Career Center at 833-330-MNCC (6622) or e-mail askmncc.fct(at)navy.mil. 
+ 
+5.  This NAVADMIN will remain in effect until the revision of references (a) 
+and (b) are promulgated. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
