@@ -1,0 +1,167 @@
+ROUTINE 
+R 051745Z AUG 22 MID200080082581U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 178/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/SENIOR ENLISTED ADVANCEMENT-TO-POSITION PILOT PROGRAM// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/131900ZMAY22// 
+REF/B/DOC/BUPERS/7FEB22// 
+REF/C/DOC/OPNAV/28FEB12// 
+REF/D/DOC/COMNAVPERSCOM/8MAY18// 
+REF/E/MSG/CNO WASHINGTON DC/022009ZDEC19// 
+REF/F/DOC/COMNAVPERSCOM/14NOV11// 
+REF/G/DOC/COMNAVPERSCOM/9JAN15// 
+ 
+NARR/REF A IS NAVADMIN 113/22, FY-23 ACTIVE-DUTY NAVY E8 AND E9 SELECTION 
+BOARDS RESULTS.   
+REF B IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY.   
+REF D IS MILPERSMAN 1160-120, HIGH YEAR TENURE.   
+REF E IS NAVADMIN 274/19, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE. 
+REF F IS MILPERSMAN 1300-800, TRANSFER OF PERSONNEL TO OPERATIONAL DUTY 
+(OPERATIONAL SCREENING).   
+REF G IS MILPERSMAN 1306-112, NAVPERS 1306/7 ELECTRONIC PERSONNEL ACTION 
+REQUEST.// 
+ 
+RMKS/1.  This NAVADMIN announces a pilot program for Senior Enlisted Advance 
+to Position (SEA2P) designed to keep deploying units mission-ready by 
+aggressively filling critical at-sea leadership billets.  The pilot program 
+will convene a billet selection board consisting of senior representatives 
+from Fleet and participating type commander (TYCOM) staffs to select those 
+Sailors who are best and fully qualified to advance and fill specific 
+priority sea billets.  The pilot includes the Nimitz Strike Group on the West 
+Coast and the Bataan Amphibious Ready Group on the East Coast. Additionally, 
+the pilot will include USS GEORGE WASHINGTON (CVN 73). Factors for 
+consideration in determining best and fully qualified applicants include 
+sustained superior performance, documented qualifications, platform 
+experience, and potential to succeed in the billet.  Sailors selected must 
+obligate service (OBLISERV) to complete 36 months in the SEA2P billet and 
+will be permanently advanced upon reporting to their ultimate duty 
+station.  This pilot will be limited to critical E8 and E9 sea billets and is 
+separate from reference (a). 
+ 
+2.  To be eligible for SEA2P, Sailors must have been selected or screened as 
+a non-select for advancement to E8 or E9 by the respective fiscal year (FY) 
+2023 selection boards, or be advancement-eligible for the respective FY-24 
+boards in line with reference (b).  Time-in-rate (TIR) waivers will be 
+approved for FY-24 advancement-eligible Sailors who are selected for 
+SEA2P.  All Sailors selected for SEA2P billets should expect to receive 
+permanent change of station (PCS) orders with a transfer date as early as  
+30-45 days after selection. 
+ 
+3.  Timeline: 
+    a.  31 Aug 22:  Deadline to submit Enlisted Personnel Action Request 
+(NAVPERS 1306/7) requests. 
+    b.  12-16 Sep 22:  Selection board. 
+    c.  26-30 Sep 22:  Results posted via NAVPERS 1306/7 approval/MyNavy 
+assignments (MNA) for selections. 
+    d.  3 Oct 22:  SEA2P Sailors receive hard copy orders. 
+    e.  30 Sep 22:  Second round of job listings will be announced. 
+    f.  17 Oct 22:  Deadline to submit NAVPERS 1306/7 requests for second 
+round. 
+    g.  31 Oct-4 Nov 22:  Second selection board. 
+    h.  14-18 Nov 22:  Results posted via NAVPERS 1306/7 approval/MNA for 
+selections. 
+    i.  21 Nov 22:  Second round SEA2P Sailors receive hard copy orders. 
+ 
+4.  Eligibility: 
+    a.  This NAVADMIN temporarily waives force management and distribution 
+policies as set forth in references (c) through (e) for SEA2P selected 
+Sailors.  Sailors that have pending or approved requests to transition to the 
+Fleet Reserve who have not executed any portion of their retirement orders 
+are eligible.  High year tenure (HYT) gates will be suspended during the 
+application phase and HYT waivers will be automatically approved for the 
+duration of PCS orders for those Sailors selected for SEA2P.  Sea shore flow 
+policy guidelines are lifted during the period of the Sailors PCS orders. 
+    b.  Applicants must have been selected or screened as a non-select by the 
+FY-23 advancement selection boards or be advancement-eligible for the FY-24 
+advancement selection boards.  This pilot program is open to Active Component 
+Sailors only and does not apply to nuclear and special warfare community 
+Sailors.  It is the responsibility of the member and their command to verify 
+eligibility.  If selected for both SEA2P and advancement via a FY-23 
+selection board, Sailors will advance by whichever method (SEA2P or normal 
+advancement increment) occurs first. 
+    c.  SEA2P applicants must sign (with witness), an administrative remarks 
+(NAVPERS 1070/613) (permanent) in line with reference (g). Ensure the 
+following statement is included:  *I understand that by submitting an 
+application for consideration for Senior Enlisted Advancement-to-Position, I 
+am certifying that I am assignable to any billets for which I applied and 
+will execute orders to those billets when directed.* 
+    d.  Commanding officers (CO) are not authorized to withhold from 
+forwarding SEA2P NAVPERS 1306/7 requests solely based on lack of relief 
+availability.  The Manning Control Authority will work with the Fleet 
+readiness integrators to determine prioritization of backfills for losing 
+commands. 
+    e.  Gaining commands are not authorized to refuse to accept orders for 
+SEA2P selected Sailors. 
+    f.  Applicants must possess any required Navy enlisted classification 
+(NEC) codes associated with the billet(s) for which they apply.  Waivers will 
+be considered for applicants who have pre- requisite experience necessary to 
+obtain required NECs and can do so while also meeting the required arrival 
+date for the SEA2P billet. 
+ 
+5.  Application.  SEA2P applications must be submitted in line with 
+reference (g).  Applications must include: 
+    a.  Completed NAVPERS 1306/7 indicating billet(s) being applied for (in 
+rank order) and favorable endorsement of operational suitability by 
+CO.  Applicants must verify that their application is clearly marked *FY-23 
+Senior Enlisted Advancement-to-Position.*  For questions on how to complete a 
+NAVPERS 1306/7 contact your command career counselor. 
+    b.  Sailors selected for SEA2P must OBLISERV to serve 36 months in the 
+SEA2P billet and will be exempt from TYCOM manning actions (operational 
+holds, crossdecks, or diverts). 
+ 
+6.  Billets available under SEA2P, along with associated rating, paygrade and 
+NEC requirements, are delineated on the MyNavy HR website: 
+https://www.mynavyhr.navy.mil/Career-Management/Detailing/Enlisted/Detailing-
+Marketplace/.   
+Then click on *Senior Enlisted Advance to Position Jobs* on the right  
+side of the page. 
+    a.  Applicants shall provide a prioritized ranking of all billets to 
+which they are applying within the NAVPERS 1306/7 using the billet titles and 
+locations listed on the MyNavy HR website. Applicants will only be considered 
+for billets for which they apply and will not be subject to involuntary 
+selection to any other SEA2P billets for which they may be qualified. 
+    b.  Personnel with assignment restrictions such as exceptional family 
+member, dual military, or overseas screening limitations shall only apply to 
+billets for which they are eligible for assignment. 
+    c.  Selectees must expeditiously complete operational screening in line 
+with reference (f).  Commands should quickly elevate any barriers to meeting 
+transfer timelines to their immediate superior in command/TYCOM and Navy 
+Personnel Command. 
+ 
+7.  Applications must be submitted via NAVPERS 1306/7 no later than 
+31 Aug 2 (first round) and 17 Oct 22 (second round) for the selection 
+boards.  It is not recommended that applications be submitted via mail.  If 
+that is absolutely the only method available, applications must be postmarked 
+no later than 15 Aug 22 for the first round and 2 Oct 22 for the second 
+round. 
+ 
+8.  Points of contact: 
+    a.  For questions regarding SEA2P billet requirements, command career 
+counselors should contact the applicable TYCOM N1. 
+    b.  For SEA2P distribution questions, contact: 
+        (1) CDR Todd Grahek, todd.m.grahek.mil(at)us.navy.mil,  
+(901) 874-4565. 
+        (2) HMCM Fernando Gonzalez, fernando.gonzalez90.mil(at)us.navy.mil,  
+(901) 874-2216. 
+ 
+9.  This NAVADMIN will remain in effect until completion of the second SEA2P 
+selection board. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
