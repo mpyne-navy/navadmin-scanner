@@ -1,0 +1,66 @@
+ROUTINE 
+R 091845Z AUG 22 MID600052177569U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 179/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/AUG// 
+ 
+SUBJ/RECORDS MANAGEMENT RESPONSIBILITIES FOR TEXT MESSAGES// 
+ 
+REF/A/MSGID/PUB. L. 81-754// 
+REF/B/MSGID/MEMO/DEPSECDEF/03AUG22// 
+REF/C/MSGID/DODI 5015.02/17 AUG 2017, CHG-1// 
+REF/D/MSGID/DODI 8170.1/02 JAN 2019// 
+REF/E/MSGID/SECNAVINST 5210.8F/26 MAR 2019// 
+ 
+NARR/REF A IS THE FEDERAL RECORDS ACT REQUIRING FEDERAL AGENCIES TO ESTABLISH 
+AN ONGOING PROGRAM FOR RECORD MANAGEMENT AND TO COOPERATE WITH THE NATIONAL 
+ARCHIVES AND RECORDS ADMINISTRATION. 
+REF B IS A DEPSECDEF MEMO REMINDING SENIOR PENTAGON LEADERSHIP, COMMANDERS OF 
+THE COMBATANT COMMANDS, DEFENSE AGENCY AND DOD FIELD ACTIVITY DIRECTORS OF 
+RECORDS MANAGEMENT RESPONSIBILITIES FOR TEXT MESSAGES. 
+REF C IS THE DOD RECORDS MANAGEMENT PROGRAM IMPLEMENTATION INSTRUCTION. 
+REF D IS THE DOD ONLINE INFORMATION MANAGEMENT AND ELECTRONIC MESSAGING 
+IMPLEMENTATION INSTRUCTION. 
+REF E PROVIDES DIRECTION FOR EXECUTION OF THE NAVY RECORDS MANAGEMENT 
+PROGRAM. 
+POC/MEGAN CANE/CIV/OPNAV N2N2D6/TEL:  703-692-1657 
+/EMAIL:  MEGAN.A.CANE.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  Text messages qualifying as records under the Federal Records Act, 
+regardless of the rank of the user who sent or received it, are to be 
+retained according to the records management instructions prescribed by 
+references (a) through (e).  This includes text messages of Navy Officials 
+whose records are subject to capture and permanent retention by the National 
+Archives and Records Administration. 
+ 
+2.  Commands responsible for the issuance and destruction of government cell 
+phones are required to save all text messages that meet the criteria of a 
+Department of Navy (DON) record prior to re-issuance or destruction. 
+ 
+3.  Navy personnel should not delete text messages that meet the criteria of 
+a DON record.  If there is any question or doubt as to whether a message 
+meets the criteria of a record, it should be saved. 
+ 
+4.  In addition to their current responsibilities for preservation of 
+qualified e-mail records, Fleet Cyber Command, in coordination with Systems 
+Commands, will develop measures to ensure that qualified text messaging 
+records are retained and only accessed by authorized U.S. Navy officials via 
+official means, with justification such as a Freedom of Information Act 
+request or Department of Justice inquiry. 
+ 
+5.  For additional information contact Mrs. Megan Cane, OPNAV N2N2D6, 
+megan.a.cane.civ(at)us.navy.mil. 
+ 
+6.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
