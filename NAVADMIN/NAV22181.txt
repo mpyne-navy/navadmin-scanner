@@ -1,0 +1,137 @@
+CORRECTED COPY 
+ROUTINE 
+R 111711Z AUG 22 ZEL MID600052189857U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 181/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N9/AUG// 
+ 
+SUBJ/FY23 PROJECTED SHIP INACTIVATION SCHEDULE (CORRECTED COPY)// 
+ 
+REF/A/DOC/OPNAVINST 4770.5J/20210904// 
+REF/B/ DOC/OPNAVINST 5400.44A/20111013// 
+ 
+NARR/REF A IS OPNAV POLICY AND GUIDANCE FOR THE INACTIVATION, RETIREMENT, AND 
+DISPOSITION OF U.S. NAVAL VESSELS.  
+REF B IS NAVY ORGANIZATION CHANGE MANUAL (NOCM) FOR SUBMITTING ORGANIZATIONAL 
+CHANGE REQUESTS (OCR) TO INCLUDE SHIP DECOMMISSIONINGS OR INACTIVATIONS.// 
+ 
+POC/DR. JOHN SHASSBERGER/CIV/N9IS/LOC: Washington DC/TEL: 703-692-3534/EMAIL: 
+JOHN.E.SHASSBERGER.CIV(at)US.NAVY.MIL// 
+ 
+RMKS/1. This message shall be read in its entirety to ensure all stakeholders 
+in the ship inactivation process are aware of the projected retirement 
+schedule for the upcoming fiscal year 2023 (FY23), respective 
+responsibilities and necessary follow-up actions. Subject to Congressional 
+approval of the President's Budget submission for fiscal year 2023, the 
+following ship retirement decisions reflected in paragraph 2 have been 
+proposed.  This plan will be adjusted if necessary based on subsequent 
+execution year decisions made by leadership or as required by final 
+Congressional action. 
+ 
+2. To facilitate fleet planning efforts to conduct decommissioning continuous 
+maintenance availability (CMAV) or inactivation availability (INAC), the 
+projected schedule for inactivating U.S. battle force and non-battle force 
+naval vessels in FY23 is promulgated as follows: 
+ 
+Ship Name            		Proj Inactive DatePost Inactive Status Notes 
+USNS BOB HOPE T-AKR 0300            31 OCT 22XFER MARAD 
+USNS FISHER T-AKR 0301            	31 OCT 22XFER MARAD 
+USNS WALTER S DIEHL T-AO 193        31 OCT 22DISMANTLE 
+USNS SHUGHART T-AKR 0295            31 JAN 23XFER MARAD 
+USNS YANO T-AKR 0297             	31 JAN 23XFER MARAD 
+USNS BRITTIN T-AKR 0305             31 JAN 23XFER MARAD 
+USS CHICAGO SSN 721            	08 FEB 23RECYCLE 
+USS KEY WEST SSN 722            	28 FEB 23RECYCLE 
+USS SAN JACINTO CG 56            	30 JUN 23LSANote 1 
+USS LAKE CHAMPLAIN CG 57         	31 MAR 23LSANote 1 
+USS BUNKER HILL CG 52            	31 MAR 23OCIRNote 1 
+USS MOBILE BAY CG 53            	31 MAR 23OCIRNote 1 
+USS VICKSBURG CG 69            	30 JUN 23OCIRNote 1/2 
+USS FORT WORTH LCS 3            	31 MAR 23OCIRNote 2 
+USS MILWAUKEE LCS 5            	31 MAR 23OCIR 
+USS DETROIT LCS 7           		31 MAR 23OCIR 
+USS LITTLE ROCK LCS 9            	31 MAR 23OCIR 
+USS SIOUX CITY LCS 11            	30 JUN 23OCIRNote 3 
+USS WICHITA LCS 13            	30 JUN 23OCIRNote 2/3 
+USS BILLINGS LCS 15            	30 JUN 23OCIRNote 2/3 
+USS INDIANAPOLIS LCS 17             30 SEP 23OCIRNote 2/3 
+USS ST LOUIS LCS 19            	30 SEP 23OCIRNote 2/3 
+USS GERMANTOWN LSD 42            	31 MAR 23DISMANTLENote 1/3 
+USS GUNSTON HALL LSD 44             29 SEP 23DISMANTLENote 1/3 
+USS TORTUGA LSD 46            	27 MAR 23OCIRNote 1/3 
+USS ASHLAND LSD 48            	31 MAR 23DISMANTLENote 1/3 
+USNS MONTFORD POINT T-ESD 1         31 MAR 23OSIRNote 3 
+USNS JOHN GLENN T-ESD 2             31 MAR 23OSIRNote 3 
+USS HURRICANE PC 3            	28 FEB 23FMS 
+USS MONSOON PC 4            		21 MAR 23FMS 
+USS SIROCCO PC 6            		07 MAR 23FMS 
+USS CHINOOK PC 9            		14 MAR 23FMS 
+USS THUNDERBOLT PC 12            	21 FEB 23FMS 
+USNS GORDON T-AKR 0296            	31 MAR 23XFER MARAD 
+USNS GILLILAND T-AKR 0298           31 MAR 23XFER MARAD 
+USNS SGT MATEJ KOCAK T-AK 3005      30 APR 23XFER MARAD 
+USNS MAJ STEPHEN W PLESS T-AK 3007  30 APR 23XFER MARAD 
+USNS JOHN LENTHALL T-AO 189    	31 JUL 23OSIR 
+USNS PFC EUGENE A OBREGON T-AK 3006 31 JUL 23XFER MARAD 
+ 
+3. Ships annotated with Notes (1) have been marked by the House Armed 
+Services Committee (HASC) in Section 10 of House Resolution (HR) 7900 FY 23 
+National Defense Authorization Bill Subcommittee on Seapower and 
+Projection.  The bill states that no more than four guided missile cruisers 
+may be inactivated and specifically USS VICKSBURG (CG 69) may not be 
+inactivated.   It also states that none of the LSDs may be inactivated. 
+ 
+4.  Ships annotated with Note (2) have been marked by the FY23 House 
+Appropriations Department of Defense Committee (HAC-D) committee.  The bill 
+prohibits the decommissioning of USS FORT WORTH (LCS 3), USS WICHITA (LCS 
+13), USS BILLINGS (LCS 15), USS INDIANAPOLIS (LCS 17), and USS ST LOUIS (LCS 
+19). 
+ 
+5.  Ships annotated with Note (3) have been marked by the FY23 Senate Armed 
+Services Committee (SASC).  The bill would prohibit the inactivations of USS 
+VICKSBURG (CG 69), USS SIOUX CITY (LCS 11), USS WICHITA (LCS 13), USS 
+BILLINGS (LCS 15), USS INDIANAPOLIS (LCS 17), and USS ST LOUIS (LCS 19)USS 
+GERMANTOWN (LSD 42), USS GUNSTON HALL (LSD 44), USS TORTUGA (LSD 46), USS 
+ASHLAND (LSD 48), USNS MONTFORD POINT (ESD 1) and USNS JOHN GLENN (ESD 2) 
+ 
+6. Per ref (b), Fleet Commanders shall submit an Organizational Change 
+Request for commissioned U.S. ships to formally notify the Office of the 
+Chief of Naval Operations (OPNAV) of a ship's decommissioning, inactivation, 
+or end of service.  Submit revisions due to operational schedule changes per 
+references (a) and (b).  It is the responsibility of Commander, U.S. Fleet 
+Forces Command and Commander, U.S. Pacific Fleet in coordination with their 
+respective TYCOM to ensure the appropriate lower echelon commands are 
+notified of any changes in the ship inactivation schedules, as well as 
+Integrated Warfare (OPNAV N9I) and OPNAV resource sponsor. 
+ 
+7. Adjustments to paragraph 2 ship inactivations that cross the current 
+fiscal year must be coordinated with OPNAV N9I due to Congressional 
+requirements for execution year force structure changes that differ from what 
+Congress authorized/appropriated and signed into law by the President.  OPNAV 
+shall promulgate changes to the inactivation fiscal year as required. 
+ 
+8. Per ref (a), the ships listed in paragraph 2 as Logistics Support Assets 
+(LSA) will be used as a primary means of cannibalization and equipment 
+removal for ships.  Cannibalizations and equipment removal from these vessels 
+is authorized without replacement. 
+ 
+9. The ship's commanding officer, masters, or Immediate Superior In Command, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning ceremony) announcing the ship's official retirement date 
+and include a brief history of the significant events in the life of the ship 
+per ref (a).  The Naval History and Heritage Command (NAVHISTHERITAGE 
+WASHINGTON DC) and Naval Vessel Register Custodian (NVR NORFOLK VA), shall be 
+included as INFO addees. 
+ 
+10. Released by VADM S. D. Conn, Deputy Chief of Naval Operations, 
+Warfighting Requirements and Capabilities (N9)// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
