@@ -1,0 +1,45 @@
+ROUTINE 
+R 171331Z AUG 22 MID200080128818U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 183/22 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/-/JUL// 
+ 
+SUBJ/2021-22 MASTER CHIEF PETTY OFFICER OF THE NAVY DELBERT D. BLACK 
+LEADERSHIP AWARD RECIPIENT// 
+ 
+REF/A/DOC/OPNAV/02FEB2015// 
+ 
+AMPN/REF A IS OPNAVINST 1650.36, THE MASTER CHIEF PETTY OFFICER OF 
+THE NAVY DELBERT D. BLACK LEADERSHIP AWARD// 
+ 
+POC/NUNLEY/CMDCM/OPNAV N00D/-/TEL: (703)695-2970/DSN: 225-2970/ 
+EMAIL: LAURA.S.NUNLEY.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1. The Master Chief Petty Officer of the Navy (MCPON) is pleased 
+to announce the selection of CMDCM Troy Rudisill stationed onboard 
+Fighter Squadron Composite THIRTEEN (VFC-13) as the 2021-22 MCPON 
+Delbert D. Black Leadership Award recipient. 
+ 
+2.  CMDCM Rudisill was selected from a field of four outstanding 
+finalists representing the finest Command Master Chiefs and Command 
+Senior Chiefs in the Navy.  Congratulations to him and the other three 
+finalists: 
+    a. CMDCM Jeffery A. Flemming, stationed onboard USS SAMPSON (DDG-10) 
+    b. CMDCM Michael G. Smith, stationed onboard USS KEARSARGE (LHD-3) 
+    c. CMDCM Joaquin E. Martinez, stationed onboard NSW/Spec Boat Team 
+TWELVE (SBT-12) 
+ 
+3.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

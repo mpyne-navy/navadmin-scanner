@@ -1,0 +1,139 @@
+ROUTINE 
+R 151928Z AUG 22 MID600052194771U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 182/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N71/(MONTH)// 
+ 
+SUBJ/ACADEMIC YEAR 2023-2024 FLEET SCHOLARS EDUCATION PROGRAM// 
+ 
+REF/A/DOC/CNO WASHINGTON DC/15AUG16// 
+REF/B/DOC/CNO WASHINGTON DC/01AUG15// 
+ 
+REF A IS OPNAVINST 1500.78, FLEET SCHOLARS EDUCATION PROGRAM// 
+REF B IS OPNAVINST 1520.24D, OFFICER SCHOLARSHIP PROGRAM 
+ 
+RMKS/1.  This NAVADMIN announces the fiscal year 2023, Academic Year (AY) 
+2023 and 2024 Fleet Scholars Education Program (FSEP).  Applicants should pay 
+special attention to policy change in paragraph 5 regarding tuition caps. 
+ 
+2. Background 
+   a. Fleet Scholars Education Program (FSEP) is a Navy talent management 
+initiative that selects high performing Unrestricted Line (URL) Officers and 
+Information Warfare Community (IWC) Officers to attend in-residence graduate 
+education programs. Selected participants will attend in-residence graduate 
+school at an accredited institution of their choice (Continental United 
+States, Alaska and Hawaii). 
+   b.  FSEP is nominally suited for the Lieutenant (LT) paygrade; however, 
+Lieutenant Commanders are eligible. Top performing Lieutenant Junior Grade 
+Officers may be considered if promoted to LT before reporting to their 
+school of choice for graduate education. 
+   c.  FSEP participants have up to 24 months to complete a graduate degree 
+while in a full-time student status. Participants will be required to choose 
+a degree from the approved areas of study list located at paragraph 4. 
+The approved areas of study list has changed from last year due to the 
+continuing refinement of Navy Education Requirements.  Distance learning, 
+night/weekend /part-time programs structured for the working professional are 
+not authorized graduate programs under FSEP. 
+   d.  Officers who have already received fully-funded graduate education are 
+not eligible to participate.  Graduate degrees obtained through Post 9-11 
+G.I. Bill, tuition assistance or the Navy College Program for Afloat College 
+Education are not disqualifiers.  Selectees will be assigned a unique 
+additional qualification designation for tracking and career management 
+purposes. 
+ 
+3. Application and Selection Process 
+   a.  Community sponsors will develop and implement selection criteria and 
+policies to identify their most talented and proven performers for FSEP 
+participation.  Community sponsors will make their nominees for selection no 
+later than 30 September and submit to the Director for Warfighter Development 
+(OPNAV N71) via the Naval Postgraduate School (NPS) Civilian Institutions 
+(CIVINS) program office for final selection approval and selection 
+notification. Selection notification will be released by 31 October 2022 in 
+order for Navy Personnel Command, Graduate Education and Training Placement 
+(PERS-440) to meet the AY23-24 fall/winter semester/quarter start dates. Each 
+community sponsor may select up to their annual allocated graduate 
+education opportunities, as per reference (a), shown below:
+ 
+Community    Designator  Opportunities 
+SURFOR    	 1110(8) 
+SUBFOR  	 1120(5) 
+NSWC         1130(3) 
+NECC         1140(3) 
+AIRFOR 1310, 1320(6) 
+IWC          1810(1) 
+             1820(1) 
+             1830(1)
+ 
+  b.  Upon notification of selection to FSEP, selectees should apply to 
+at least three accredited graduate education institutions of their choice. 
+Participants may be reimbursed for up to three application and transcript 
+fees after beginning their first semester/quarter.  Participants shall 
+consult the list of schools that have existing Education Service Agreements 
+(ESA) with the Navy on the NPS CIVINS website FSEP page at 
+https://nps.edu/web/civins/fsep. In cases where the school of choice is not 
+on the ESA listing, the selectee shall notify the NPS CIVINS office no less 
+than 7 months prior to program start to allow sufficient time to pursue 
+additional ESAs.  Participants are responsible for researching and 
+completing prerequisites including graduate record examinations where 
+applicable. Permanent change of station orders and enrollment should not 
+occur prior to 01 July 2023 for the fall/winter term of AY23-24. 
+ 
+4. Areas of Study 
+   a.  FSEP participants should choose from the following areas of study: 
+       Problem Solving/Decision Science/Data Science 
+       Leadership 
+       Engineering (5XXX) 
+       Public Policy/Public Administration 
+       Cyber 
+       National Security/Strategy 
+   b.  For those areas of study awarding a subspecialty code (SSC), all 
+Education Plans will be reviewed against the Educational Skill Requirement 
+(ESR), and approved by the respective SME/PERS-451. 
+   c.  For questions on whether a desired degree falls outside the specific 
+areas of study listed above, the selectee shall submit a degree approval 
+request to the NPS CIVINS office. Details of the degree approval process can 
+be found at NPS CIVINS website listed in paragraph 7. 
+ 
+5.  Tuition Cap. For the focus study areas listed in paragraph 4, FSEP 
+selectees will receive 100% funding for tuition related expenses.  For any 
+other degree programs, FSEP selectees will only receive a maximum of 
+$40K/year in tuition related expenses. Selectees may use a combination of 
+scholarships, post-9/11 G.I. Bill benefits, and personal resources to cover 
+these additional costs.  Reference (b) provides additional information on 
+scholarship requirements.  FSEP selectees should contact the OPNAV N7 
+POC in order to obtain clarification on whether a degree program 
+does/does not fall under a focus study area. 
+ 
+6.  Service Obligation:  In line with reference (b), FSEP selectees shall 
+agree to remain on active-duty for three years following graduation or 
+withdrawal from the program. A member who voluntarily or through misconduct 
+fails to complete the active-duty time agreed upon shall be required to 
+reimburse the cost of the education received, prorated for the obligated time 
+served. 
+ 
+7.  Additional information regarding FSEP is available at the NPS CIVINS 
+website at https://nps.edu/web/civins/fsep and in reference (a). 
+ 
+8.  Point of contact is LT Matthew Hinkson, Graduate Education and JPME 
+Policy Requirement, (703) 693-4183 or email 
+matthew.b.hinkson.mil@us.navy.mil. 
+ 
+9.  This message will remain in effect until superseded or 31 May 2023, 
+whichever occurs first. 
+ 
+10.  Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
+Warfighting Development (N7).// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

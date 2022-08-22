@@ -1,0 +1,49 @@
+ROUTINE 
+R 181927Z AUG 22 MID200080136975U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 184/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/NOTICE OF CONVENING FY-23 ACTIVE DUTY OFFICER CONTINUATION SELECTION 
+BOARDS AND ANNOUNCEMENT OF CONTINUATION POLICY UPDATE - O-6 CONTINUATION 
+BOARD DATE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N1/082054ZDEC21// 
+ 
+AMPN/REF A IS NAVADMIN 279/21, NOTICE OF CONVENING FY-23 ACTIVE-DUTY OFFICER 
+CONTINUATION SELECTION BOARDS AND ANNOUNCEMENT OF CONTINUATION POLICY.// 
+ 
+RMKS/1.  This NAVADMIN announces an update to reference (a) to provide 
+notification of the date of the FY-23 Active Duty-Navy Line O-6 Expanded 
+Continuation Selection Board along with the associated letter to the board 
+(LTB) submission deadline. 
+ 
+2.  Paragraph 8.a of ref (a) is modified to read:  The FY-24 Active-Duty Navy 
+O-7 Line and Staff Promotion Selection Boards convene 20 September 2022.  The 
+FY-23 Active Duty-Navy Line O-6 Expanded Continuation Selection Board will 
+immediately follow these boards. 
+ 
+3.  Paragraph 10.e of ref (a) is modified to add the following as the last 
+line of the table headed by 
+*Continuation For       Convening Date     Due Date / Time*: 
+URL/RL CAPT             20 SEP 22          9 SEP 22 / 2359 CT 
+ 
+4.  All other provisions of reference (a), remain in effect. 
+ 
+5.  This NAVADMIN will be canceled for record purposes on 30 September 2022. 
+ 
+6.  Released by Rear Admiral J. P. Waters, Acting N1B.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
