@@ -1,0 +1,131 @@
+ROUTINE 
+R 231545Z AUG 22 MID200080147571U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 186/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/SPECIAL DUTY ASSIGNMENT PAY UPDATE FOR NUCLEAR TRAINED SAILORS// 
+ 
+REF/A/DOC/OPNAV/5OCT17// 
+REF/B/DOC/DOD/11JAN19// 
+ 
+NARR/REF A IS OPNAVINST 1160.6C, SPECIAL DUTY ASSIGNMENT PAY PROGRAM.   
+REF B IS DOD INSTRUCTION 1340.26 CHANGE 1, ASSIGNMENT AND SPECIAL DUTY 
+ASSIGNMENT PAY.// 
+ 
+RMKS/1.  This NAVADMIN announces an update to the special duty 
+assignment pay (SDAP) rate structure for nuclear trained Sailors 
+with scheduled implementation.  Additionally, this NAVADMIN notifies 
+the Fleet of upcoming pay changes for those Sailors meeting SDAP 
+requirements.  No action is required by commands or MyNavy Career 
+Center (MNCC) organizations to implement this revised SDAP 
+structure.  Requirements to be eligible (e.g., active Navy enlisted 
+classification (NEC), UIC, etc.) for SDAP in line with references 
+(a) and (b) remain in effect.  This revision has no impact on SDAP 
+assignment for reactor department conventional machinists mate (MM) 
+and engineman (EN) Sailors.  Current SDAP levels remain in effect 
+for reactor department conventional MM and EN Sailors.  This SDAP 
+rate structure change goes into effect 60 days after the release of 
+this NAVADMIN. 
+ 
+2.  Purpose.  The updated SDAP structure better aligns compensation 
+to the high level of training, qualifications, and responsibilities 
+held throughout the totality of a nuclear-trained Sailors career. 
+This rate structure supports detailing marketplace initiatives by 
+incentivizing service at-sea, prototype assignments, and increased 
+demands for supervisor NECs which are key to safe and reliable 
+nuclear plant operation. 
+ 
+3.  The SDAP rates for nuclear-trained Sailors are as follows for 
+reactor department master chiefs (RDMC), engineering department 
+master chiefs (EDMC), aircraft carrier nuclear division leading 
+chief petty officers (CVN DLCPO), Naval Nuclear Prototype Unit 
+(NPTU) and all active nuclear NECs: 
+ 
+Billet / NEC            Level    Pay              Change 
+RDMC/EDMC/CVN DLCPO     7        525.00           +75.00 
+N33Z NEC                6        450.00           New 
+NPTU W/SUPERVISOR NEC   6        450.00           No change 
+SEA W/SUPERVISOR NEC    5        375.00           No change 
+SHORE W/SUPERVISOR NEC  3        225.00           -75.00 
+SEA W/OPERATOR NEC      2        150.00           No change 
+SHORE W/OPERATOR NEC    1         75.00           -75.00 
+ 
+4.  Eligibility.  Active nuclear NECs are required in order to be 
+eligible to receive SDAP for nuclear trained Sailors.  Reference (a) 
+consolidates all SDAP pay and policy. 
+    a.  SDAP for nuclear trained Sailors is authorized at the rate 
+commensurate with the primary NEC held.  The only billet based SDAP 
+authorizations are associated with SDAP level 7, in which case, 
+individuals are required to be serving in the billet recognized in 
+paragraph 4.d below. 
+    b.  Nuclear-trained Sailors at Navy Recruiting Commands will not 
+be affected by this SDAP restructure and retain full eligibility for 
+Navy Recruiting Command assigned SDAP, which takes precedence. 
+    c.  Sailors holding NEC N59X or N89X may be eligible to receive 
+SDAP while still performing duties assigned.  Specific approval must 
+be obtained from the Deputy Chief of Naval Operations (OPNAV N133D) 
+and will be started and stopped by N133D. 
+    d.  Additional details for each category are as follows: 
+        (1) SDAP Level 7.  Payable only to nuclear trained Sailors 
+serving in the following billets:  EDMC, RDMC, TYCOM/GROUP/ISIC 
+EDMC, TYCOM RDMC, Naval Reactors command master chief (CMC), Naval 
+Nuclear Propulsion Training Command CMC, NPTU CMC, Nuclear Enlisted 
+Quality Control Advisor (N133D2), Enlisted Submarine and Nuclear 
+Assignment (PERS 403CA), or CVN DLCPO.  CVN DLCPOs must be serving 
+as reactor electrical, reactor mechanical, reactor laboratories, 
+reactor propulsion, or reactor controls division leading chief petty 
+officer.  Additionally, CVN DLCPOs are eligible for SDAP Level 7 
+when serving as reactor training division officer.  Only one person 
+per command can be paid SDAP for each billet.  During periods of 
+turnover, the incumbent will maintain level 7 until relieved. 
+        (2) SDAP Level 6.  Payable to nuclear trained Sailors 
+holding an active N33Z NEC and all instructor staff members with a 
+supervisor NEC at any NPTU. 
+        (3) SDAP Level 5.  No change to this SDAP level and remains 
+payable to nuclear trained Sailors in an at-sea assignment with a 
+supervisor NEC and without N33Z NEC.  Also payable to nuclear 
+trained Sailors with a supervisor NEC assigned to nuclear repair 
+tenders stationed in Guam. 
+        (4) SDAP Level 3.  Payable to nuclear trained Sailors in a 
+shore assignment with a supervisor NEC and without a N33Z NEC. 
+        (5) SDAP Level 2.  Payable to nuclear trained Sailors in an 
+at-sea assignment with an operator NEC. 
+        (6) SDAP Level 1.  Payable to nuclear trained Sailors in a 
+shore assignment with an operator NEC. 
+ 
+6.  Implementation.  OPNAV N133D will implement all pay changes on 
+behalf of commands for all Sailors requiring pay rate changes.  The 
+estimated completion date of all pay adjustments is 74 days after 
+the date of this NAVADMIN.  If a Sailor holds an NEC within a 
+category not impacted by the updated SDAP structure (e.g., operator 
+at-sea, supervisor at-sea), no changes will occur to that Sailors 
+assigned SDAP.  Commands and MNCC organizations remain responsible 
+for executing SDAP changes not associated with the revised SDAP 
+structure specified in this NAVADMIN (e.g., gains, losses, and pay 
+discrepancy resolution).  Sailors are encouraged to closely monitor 
+and review their leave and earning statement following 
+implementation.  Additionally, commands are required to complete 
+their annual recertification in line with reference (a). 
+ 
+7.  Point of contact.  OPNAV N133D2A at (703)604-5492 or email at 
+bullnuke(at)navy.mil. 
+ 
+8.  This message will remain in effect until superseded or 
+cancelled. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

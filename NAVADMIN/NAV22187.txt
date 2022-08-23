@@ -1,0 +1,79 @@
+ROUTINE 
+R 231718Z AUG 22 MID200080147769U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 187/22
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/AUG// 
+ 
+SUBJ/UPDATED COVID-19 VACCINATION OPTION - NOVAVAX// 
+ 
+REF/A/DOC/SECDEF/24AUG21// 
+REF/B/MSG/CNO/24AUG21// 
+REF/C/MSG/CNO/221849ZFEB22// 
+ 
+NARR/REF A IS THE SECRETARY OF DEFENSE MEMO MANDATING CORONAVIRUS DISEASE 
+2019 VACCINATION FOR DEPARTMENT OF DEFENSE SERVICE MEMBERS. 
+REF B IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY.   
+REF C IS NAVADMIN 042/22, UPDATED COVID CONSOLIDATED DISPOSITION AUTHORITY 
+DATA REPORTING REQUIREMENTS AND LESSONS LEARNED. 
+ 
+RMKS/1.  Purpose.  To inform Navy Service Members that the Novavax 
+Coronavirus disease (COVID-19) vaccine is now available. 
+ 
+2.  The Food and Drug Administration recently approved the Novavax 
+COVID-19 vaccine under an emergency use authorization for a two-dose 
+primary series to individuals 18 years of age and older. 
+Unvaccinated Navy Service Members who choose to receive the Novavax 
+COVID-19 vaccine series satisfy the vaccine requirement specified in 
+references (a) and (b).  Additional vaccines that also meet that 
+requirement include Janssen (manufactured by Johnson and Johnson), 
+Pfizer-BioNTech, and Moderna. 
+ 
+3.  Action.  Commanders are directed to counsel any unvaccinated 
+Navy Service Members under their command regarding the fact that 
+receiving the Novavax vaccine series satisfies the requirement in 
+references (a) and (b).  Additionally, commanders shall provide such 
+Service Members the following link which provides more information 
+regarding all authorized COVID-19 vaccines, 
+https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html.  If 
+an unvaccinated Service Member becomes fully vaccinated for COVID- 
+19, it is the Navy’s intent to retain that Service Member, barring 
+other misconduct or reasons for involuntary separation. 
+ 
+4.  Action.  Commanders are directed to report any previously 
+unvaccinated Navy Service Member who completes an approved vaccine 
+series via email to both of the following addresses: 
+ALTN_Navy_Religious_Accommodations(at)navy.mil and 
+altn_n1_navy_scr.fct(at)navy.mil.  Include the Service Members DoD 
+ID number in all such reports.  Commanders shall also ensure the 
+Medical Readiness Reporting System is updated to be consistent with 
+information submitted to the Department of the Navy COVID tracking 
+site. 
+ 
+5.  Novavax is now available at all military treatment facilities 
+and most civilian vaccination sites.  Contact the Bureau of Medicine 
+and Surgery (BUMED) point of contact (POC) below if there are any 
+issues with availability in your area. 
+ 
+6.  POCs.  OPNAV POC:  CAPT Jason Grizzle, 
+ALTN_N1_NAVY_SCR.FCT(AT)NAVY.MIL Religious Accommodations: 
+ALTN_Navy_Religious_Accommodations(at)navy.mil. 
+Vaccine availability (BUMED):  HMC Jose Jimenez, 
+jose.a.jimenez142.mil(at)mail.mil. 
+ 
+7.  Released by VADM Richard J. Cheeseman, Jr., COVID Consolidated 
+Disposition Authority. 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
