@@ -1,0 +1,100 @@
+ROUTINE
+R 241753Z AUG 22 MID200080150432U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 188/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/BACCALAUREATE DEGREE COMPLETION PROGRAM UPDATE - INFORMATION WARFARE 
+OPTION//
+
+REF/A/DOC/12AUG22//
+REF/B/MSG/CNO WASHINGTON DC/141518ZMAR22//
+REF/C/DOC/8JUN15//
+
+NARR/REF A IS PROGRAM AUTHORIZATION 147, THE BACCALAUREATE DEGREE COMPLETION 
+PROGRAM.   
+REF B IS NAVADMIN 066/22, BACCALAUREATE DEGREE COMPLETION PROGRAM.   
+REF C IS NAVMED P-117, MANUAL OF THE MEDICAL DEPARTMENT.
+
+RMKS/1.  This NAVADMIN promulgates reference (a), supplements reference (b), 
+and announces changes to the Baccalaureate Degree Completion Program (BDCP) 
+to add information warfare (IW) options.
+
+2.  Along with the unrestricted line (URL) communities listed in references 
+(a) and (b), the BDCP has now been expanded to include IW communities, 
+specifically cryptologic warfare (CW), cyber warfare engineer (CWE), 
+intelligence (Intel), information professional (IP), and oceanography 
+(OCEANO).
+
+3.  BDCP boards will continue to convene in conjunction with URL and IW 
+professional recommendation boards to select highly qualified applicants to 
+attend Officer Candidate School (OCS) during the fiscal year 2023 and beyond 
+shipping years.
+
+4.  Specific IW BDCP academic requirements are outlined below:
+    a.  CW.  Major fields of study directly related to science, technology, 
+engineering, and mathematics (STEM) are most strongly preferred but not 
+required.
+    b.  CWE.  Degrees in computer science and computer engineering are 
+strongly preferred, other technical majors will be considered on a case-by-
+case basis, including but not limited to cyber operations, mathematics, 
+information systems, software engineering and other computer-related 
+disciplines.
+    c.  INTEL.  Major fields of study in international relations with a 
+regional focus (e.g., Middle East or Asian studies), political science, 
+history, or STEM are strongly preferred but not required.
+    d.  IP.  Major fields of study directly related to information systems, 
+cybersecurity, computer science, computer engineering, electrical 
+engineering, operations research, applied statistics, or other STEM fields 
+are preferred but not required.
+    e.  OCEANO.  Major fields of study directly related to science, 
+meteorology, oceanography, mathematics, physics, and engineering are most 
+strongly preferred but not required.
+
+5.  BDCP applicants must meet pre-commissioning or accession physical 
+standards in line with reference (c), as well as any additional requirements 
+(specifically security clearance eligibility requirements for the IW 
+communities) imposed by the program authorization for the specific designator 
+for which they have applied.
+
+6.  Applicants may only request consideration for one community in their 
+application.  Interested CWE candidates should contact the CWE Officer 
+Community Management (OCM) to understand the unique pre- requisite screening 
+for consideration for CWE.
+
+7.  All selectees, with the exception of CWE, will complete OCS in Newport, 
+RI.  CWE selectees will attend Officer Development School
+(ODS) instead of OCS.  If a selectee fails to successfully complete OCS or 
+ODS for any reason other than injury, the selectee will be required to serve 
+the remainder of their enlisted contract.
+
+8.  Applicants interested in applying for BDCP should refer to references (a) 
+and (b) for additional program details.
+Additionally, if additional questions remain, including board convening dates 
+and deadlines, applicants should contact their local Navy officer recruiter 
+or command career counselor (if the interested member is in the Navy 
+Reserve).  Additionally, questions may be referred to the BDCP Program 
+Manager:  LT Megan Wilson, Branch Head, General Officer Accessions (CNRC 
+N311) at (901) 874-
+9419 or via e-mail at megan.c.wilson.mil(at)us.navy.mil.  Questions 
+concerning BDCP IWC options may be referred to the IWC OCM (BUPERS
+317) at (901) 874-3123 or via e-mail at BUPERS 31_IWC_FCT(at)navy.mil.
+
+9.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
