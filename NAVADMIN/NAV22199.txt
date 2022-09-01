@@ -1,0 +1,92 @@
+ROUTINE 
+R 311806Z AUG 22 MID200080170703U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 199/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/ADVANCEMENT EXAMINATION READINESS REVIEW 1ST AND 2ND QUARTER FISCAL YEAR 
+2023 SCHEDULE AND IDENTIFICATION OF FLEET SUBJECT MATTER EXPERTS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/151617ZSEP17// 
+REF/B/DOC/COMNAVPERSCOM/5NOV18// 
+ 
+NARR/REF A IS NAVADMIN 229/17, REALIGNMENT OF RESPONSIBILITY FOR RECRUITMENT 
+AND SELECTION OF FLEET SUBJECT MATTER EXPERTS FOR ADVANCEMENT EXAMINATION 
+READINESS REVIEWS.   
+REF B IS MILPERSMAN ARTICLE 1401-020, ADVANCEMENT EXAM READINESS REVIEW 
+(AERR).// 
+ 
+RMKS/1.  This NAVADMIN announces the Advancement Examination Readiness 
+Review (AERR) schedule from October 2022 to April 2023.  AERR events 
+provide an opportunity for selected Fleet subject matter experts (FSME) 
+from Fleet and shore-based commands to impact their respective ratings 
+by updating and validating the examination question bank.  Selected 
+chief, senior chief, and master chief petty officers on Active Duty, 
+Training and Administration of the Reserves, and Reservists currently 
+on Active Duty for Operational Support may take part in the process. 
+AERRs enable the Navy to advance the most qualified and rating- 
+knowledgeable Sailors. 
+ 
+2.  AERRs are held at Naval Education and Training Professional 
+Development Center (NETPDC) in Pensacola, FL.  Temporary duty travel 
+(TDY) in support of AERR events is considered mission critical and is 
+flag officer approved.  All costs pertaining to TDY are funded by 
+NETPDC.  All travel will be in line with Department of the Navy 
+regulations at the time of the scheduled AERR. 
+ 
+3.  In line with reference (a), type commanders (TYCOM) and rating 
+sponsors will recruit rating FSMEs, select AERR attendees plus two 
+alternate members, and provide names and contact information to NETPDC 
+via e-mail at NETPDC_AERR_mailbox(at)navy.mil with a subject line of 
+AERR selectees.  Provide above information no less than 45 days prior 
+to the AERR convening date with the exception of the 16 - 29 October 
+convening which requires the above information no less than 30 days 
+prior. 
+ 
+4.  The following AERRs are scheduled from October 2022 through March 
+2023 and are subject to change.  AERR schedule is in the following format: 
+ 
+Convene Date:                  Rating (number of FSMEs required) 
+16 - 29 October                ABH (6), EMN (6), ITS(EW) (6), YN (6) 
+27 November - 10 December      LS (6), PS (6) 
+4 - 17 December                TM (6) 
+22 - 28 January                STG (6) 
+22 January - 4 February        EOD (6), RP (6), HT (6) 
+5 - 11 February                AWS (6), BM (6) 
+26 February - 4 March          AG (6) 
+26 February - 11 March         AWR (6), LN (6), SW (6), EN (6) 
+5 - 11 March                   EM (6), IS (6) 
+5 - 18 March                   AE (6) 
+12 - 18 March                  ITS(RM) (6), MMA (6) 
+19 March - 1 April             CE (6), MM (6) 
+26 March - 1 April             AZ (6), STS (6) 
+ 
+5.  In line with reference (b), nomination waivers with accompanying 
+justification must be approved by NETPDC prior to TYCOM or rating 
+sponsor selections.  Due to financial constraints, applications from 
+outside the continental United States will not be approved at this 
+time. 
+ 
+6.  To view the most up-to-date AERR schedule, locate a specific rating 
+selection point of contact and download the AERR nomination package, 
+log into MyNavy Portal at https://www.mnp.navy.mil/ and select 
+Professional Resources/Navy Advancement Center (NAC)/AERR. 
+ 
+7.  Point of contact for this matter is the NETPDC Fleet Liaison, (850) 
+473-6169/DSN 753 or NETPDC_AERR_MAILBOX(at)navy.mil. 
+ 
+8.  Released by Rear Admiral J. P. Waters, Acting N1B.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

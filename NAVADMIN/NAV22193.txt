@@ -1,0 +1,233 @@
+ROUTINE 
+R 291252Z AUG 22 MID600052239958U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 193/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC//N4//AUG// 
+ 
+SUBJ/NAVY INTERIM GUIDANCE FOR THE LIFE CYCLE MANAGEMENT OF SHORE ELECTRONIC 
+SECURITY SYSTEMS// 
+ 
+REF/A/DOC/DOD/04MAY22// 
+REF/B/DOC/OPNAV/28JAN09// 
+REF/C/DOC/OPNAV/28MAY21 
+REF/D/DOC/CNIC/06JUN16// 
+REF/E/DOC/DOD/19JUL22// 
+REF/F/DOC/DOD/23APR15/ 
+REF/G/DOC/ICS/17SEP10// 
+REF/H/DOC/OPNAV/16MAY14/ 
+REF/I/DOC/SECNAV/12JUL19// 
+REF/J/DOC/DOD/24FEB12/ 
+REF/K/DOC/UFC/18JAN17// 
+REF/L/DOC/UFC/11SEP19// 
+REF/M/DOC/SECNAV/19JAN21// 
+ 
+NARR/REF A IS DOD S-5210.41-M, NUCLEAR WEAPON SECURITY MANUAL.   
+REF B IS OPNAVINST 5530.14E, NAVY PHYSICAL SECURITY AND LAW ENFORCEMENT 
+PROGRAM.   
+REF C IS OPNAVINST 5530.13D, THE CONVENTIONAL ARMS, AMMUNITION AND EXPLOSIVES 
+PHYSICAL SECURITY POLICY MANUAL.   
+REF D IS CNICINST 5530.14A, ASHORE PROTECTION PROGRAM.   
+REF E IS DODINST 8510.01, RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS.   
+REF F IS DODM O-5205.07, VOLUME 3 SPECIAL ACCESS PROGRAM (SAP) SECURITY 
+MANUAL:  PHYSICAL SECURITY.   
+REF G IS THE INTELLIGENCE COMMUNITY STANDARD 705-1, PHYSICAL AND TECHNICAL 
+SECURITY STANDARDS FOR SENSITIVE COMPARTMENTED INFORMATION FACILITIES.   
+REF H IS OPNAVINST 11010.20H, NAVAL FACILITY PROJECTS MANUAL.   
+REF I IS SECNAVINST 5510.36B, DEPARTMENT OF THE NAVY INFORMATION SECURITY 
+PROGRAM.   
+REF J IS DODM 5200.01 VOLUME 3, DOD INFORMATION SECURITY PROGRAM:  PROTECTION 
+OF CLASSIFIED INFORMATION.   
+REF K IS UFC 4-010-06, CYBERSECURITY OF FACILITY-RELATED CONTROL SYSTEMS.   
+REF L IS UFC 4-021-02, ELECTRONIC SECURITY SYSTEMS.   
+REF M IS SECNAVINST 5400.15D RESEARCH AND DEVELOPMENT, ACQUISITION, 
+ASSOCIATED LIFECYCLE MANAGEMENT, AND SUSTAINMENT RESPONSIBILITIES AND 
+ACCOUNTABILITY// 
+ 
+POC/MR. JAMES JOHNSON/OPNAV N4I3/CNO WASHINTON DC/TEL:  (703) 695-
+5516/DSN:  260-5516/EMAIL:  JAMES.A.JOHNSON13.CIV@US.NAVY.MIL// 
+ 
+RMKS/1.  Per references (a) through (m), this message provides interim 
+guidance to clarify requirements, and define life cycle responsibilities 
+associated with Electronic Security Systems (ESS) on Navy installations. 
+ 
+2.  Background.  Installation commanding officers have an inherent 
+responsibility to provide protection for their installations.  This is 
+accomplished through the employment of a defense in depth approach, to 
+include the use of ESS.  A lack of policy encouraging standardization of ESS 
+employment has resulted in inconsistent responsibilities and procurement 
+practices; fostering a wide variety of requirements, installation and 
+maintenance/sustainment practices.  Deputy Chief of Naval Operations, Fleet 
+Readiness and Logistics (OPNAV N4) intends to streamline and standardize the 
+procurement, installation, sustainment, and training for ESS across the shore 
+domain.  Overall goals are to reduce waste in resourcing across the Service, 
+improve existing and future system configurations and cyber fitness, and 
+reduce the need for various exchanges to engage with vendors for procurement 
+and sustainment of various systems. 
+ 
+3.  Policy. 
+    a.  Under the authority of OPNAV N4, and as a component of the Navy 
+Physical Security Program, ESS is understood to include integrated (or stand-
+alone) electronic systems that encompass interior and exterior intrusion 
+detection systems, closed circuit television or video surveillance systems 
+(for assessment of alarm conditions), access control systems, alarm reporting 
+systems for monitoring, control, and/or display; duress devices, and other 
+associated components such as data transmission media (DTM).  For the 
+purposes of this policy, DTM refers only to communications and network 
+components categorized as personal property per reference (h). 
+    b.  ESS for designated restricted areas will be procured and deployed in 
+accordance with references (b) through (m).  This includes security 
+requirements associated with installation perimeter access control and 
+restricted areas as defined by reference (b). 
+    c.  ESS for restricted areas will be centrally monitored at a location 
+from which law enforcement/security response can be dispatched.  Central 
+(regional) and local monitoring stations will be manned by certified 
+operators. 
+    d.  All ESS employment will be executed by a single warfare center for 
+execution of ESS projects in support of Navy requirements. 
+    e.  Existing ESS on Navy installations that are not required by 
+references (b) through (k), or validated by the Navy ESS Program, will be 
+directed to the technical manager for ESS support. 
+    f.  The Navy ESS technical manager will provide support to all Navy 
+tenants, including Commander, Naval Facilities Engineering Systems Command 
+(COMNAVFACENGSYSCOM) for construction and special projects (i.e. military 
+construction and facilities sustainment, and restoration and modernization 
+funded projects).  This technical support will extend to Navy tenants on 
+other Service installations, and off installation areas as deemed appropriate 
+by Director, Installations (OPNAV N4I) and Commander, Navy Installations 
+Command (CNIC).  This includes supporting non-Navy tenants on Navy 
+installations as needed. 
+    g.  Requests for exceptions shall use the waiver and exception process 
+defined in reference (b). 
+ 
+4.  Responsibilities. 
+    a.  OPNAV N4I, will: 
+        (1) Update reference (b) to ensure ESS requirements and definitions 
+are clearly defined for designated restricted areas; 
+        (2)Serve as the single Resource Sponsor for required Navy ESS; 
+        (3)Develop and validate requirements for all Navy ESS submitted 
+during the Program Objective Memorandum (POM) cycle; 
+        (4)Identify resources associated with existing non-CNIC ESS 
+requirements for realignment to OPNAV N4; 
+        (5)Publish guidance annually with business rules for year of 
+execution procurement and emergent needs. 
+    b.  CNIC will: 
+        (1) Act as the single Navy Program Office for ESS deemed valid by 
+OPNAV N4I.  All Navy ESS Program funded systems will be owned by, and the 
+responsibility of, the ESS Program; 
+        (2) Serve as the single budget submitting organization (BSO) and 
+System Owner for the Navy ESS Program; 
+        (3) Update reference (d) to ensure ESS requirements are defined for 
+all Echelon 2 and subordinate Commands; 
+        (4) Coordinate with Naval Information Warfare Center Atlantic 
+(NIWCLANT) to validate current ESS footprint for applicable restricted areas 
+on all installations; 
+        (5) Develop an education campaign for region and installation 
+personnel on Navy ESS programmatic and business cycle guidance; 
+        (6) Provide a report annually no later than the 4th quarter of each 
+fiscal year that includes a status of the program and emergent and planned 
+requirements for POM planning; 
+        (7) As office of primary responsibility for Navy ESS Program, 
+continue execution of other physical security equipment categorized as real 
+property (automated vehicle barriers, waterside security defense systems, 
+automated vehicle gates, automated pedestrian turnstiles) ensuring system 
+integration with ESS where feasible; 
+        (8) Ensure Navy ESS project management, execution and sustainment is 
+supported by and incorporated within the approved information management 
+system; 
+        (9) Maintain an inventory of all required Navy ESS located on Navy 
+installations; 
+        (10) Participate in and coordinate with applicable working groups 
+with the purpose of developing and standardizing processes supporting systems 
+standardization, cybersecurity, development of best practices, integration, 
+and life-cycle management (i.e. maintenance, sustainment, technology 
+refreshment) for ESS; 
+        (11) Ensure all installation and life cycle management of ESS adhere 
+to the requirements set forth in references (e) and (k); 
+        (12) Coordinate with Security Equipment Integration Working Group 
+(SEIWG) and participate in reoccurring events, to foster physical security 
+equipment interoperability ensuring compliance with SEIWG (SEIWG National 
+Information Exchange Model (NIEM) Information Exchange Package Documentation) 
+and NIEM standards, per DODI 8320.07; 
+        (13) Establish and maintain a formal training program to support end 
+user and technical support personnel system familiarization.  The training 
+will encompass the approved ESS Family of Systems. 
+    c.  Naval Information Warfare Systems Command (NIWCLAND) will: 
+        (1) Support the Navy ESS Program ensuring compliance with engineering 
+and cybersecurity standards; 
+        (2) Provide technical expertise in support of CNIC shore ESS program 
+management efforts. 
+    d.  NIWCLANT will: 
+        (1) Serve as the Technical Manager for Navy ESS, supporting N4I and 
+CNIC in Programming and Planning for shore ESS initiatives; 
+        (2) Execute requirements on behalf of CNIC for the procurement, 
+installation, training, and sustainment of ESS; 
+        (3) Provide training for ESS to system operators, physical security 
+specialists, and field service representatives.  Additional billets may be 
+added to participate in training, with approval from CNIC; 
+        (4) Provide COMNAVFACENGSYSCOM preliminary ESS layouts and one-line 
+diagrams to include in the construction project solicitation documents; 
+        (5) Review construction project design submittals and provide 
+comments to COMNAVFACENGSYSCOM on ESS layouts. 
+    e.  COMNAVFACENGSYSCOM will: 
+        (1)Serve as Technical Authority for facility engineering design and 
+construction in accordance with reference (m); 
+        (2) Ensure that construction projects include necessary 
+infrastructure (Real Property) as defined by reference (h) to support the ESS 
+when those systems are required; 
+        (3) Coordinate ESS infrastructure layouts for construction projects 
+with NIWCLANT; 
+        (4) Ensure that ESS is not acquired outside of the process described 
+above; 
+        (5) Notify the CNIC ESS Program office of all requests for ESS. 
+    f.  Regional Commands, Installation Commanding Officers and Tenant 
+Commands will: 
+        (1) Publish this policy to all subordinate commands/activities. 
+        (2) Ensure that ESS is not procured outside of the requirements 
+described above; 
+        (3) Ensure that ESS requirements are identified early in project 
+planning; 
+        (4) Direct all requests for ESS to the POCs identified by the CNIC 
+ESS Program office, via the information management system approved by OPNAV 
+N4I; 
+        (5)Enable the installation physical security department as the single 
+point of contact at the installation level to support ESS requests; 
+        (6) Designate in writing installation physical security personnel to 
+act on behalf of Installation Commanding Officer and Installation SECO by 
+participating in facilities planning discussions (MILCON, FSRM, etc.) 
+ensuring physical security and ESS requirements are identified; 
+        (7) Ensure installation physical security personnel are identified as 
+the initial POC for ESS project oversight, maintenance, and sustainment. 
+ 
+5.  Implementation Timeline and Funding responsibilities.  The following 
+tasks will be formalized via formal tasking system. 
+    a.  CNIC shall develop a plan for implementation and plan of action and 
+milestones that accounts for all actions required to achieve full operational 
+capability. 
+    b.   Major milestones of policy implementation (i.e. programming of 
+resources, execution of resources, project execution, operator training and 
+certification) will be provided to the applicable stakeholders to allow 
+reasonable response and action. 
+    c.   Mission owners with existing (or planned) contracts shall reference 
+guidance published by the Program Management Office.  Mission owners with 
+requirements that will not be funded by the Program Office shall initiate 
+coordination with the technical manager to initiate planning and project 
+execution. 
+ 
+6.  Applicability.  This message applies to all Navy installations and the 
+tenants aboard Navy installations, with the exception of tenants who have 
+security requirements per reference (a).  Navy tenants aboard other Service 
+installations will adhere to the host Service ESS policy.  This policy 
+remains in effect until the new revision of reference (b) is released. 
+ 
+7.  Released by VADM R. L. Williamson, N4.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

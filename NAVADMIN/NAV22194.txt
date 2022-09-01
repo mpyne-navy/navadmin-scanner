@@ -1,0 +1,104 @@
+ROUTINE 
+R 291705Z AUG 22 MID600052240667U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 194/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/AUG// 
+ 
+SUBJ/NAVY ORGANIZATION MANAGEMENT - ORGANIZATION CHANGE REQUEST PROCESS// 
+ 
+REF/A/DOC/13 OCT 11// 
+REF/B/DOC/16 MAY 14// 
+ 
+AMPN/Reference (a) is OPNAVINST 5400.44.   
+Reference (b) is the Standard Navy Distribution List.// 
+ 
+RMKS/1.  Purpose.  To update procedures and processes for submission of 
+Organization Change Request (OCR) actions and Standard Navy Distribution List 
+(SNDL) to Director, Navy Staff (DNS) for changes and modifications.  On 
+2 May 2022, the Department of the Navy (DON) transitioned to Enterprise Task 
+Management Solution System (ETMS2).  References (a) and (b) are under 
+revision.  This NAVADMIN serves to update the OCR submission process and 
+cancels any and all paragraphs mentioning Navy Organization Request 
+Management System (NORMS). 
+ 
+2.  DNS 12 is responsible  for maintaining the SNDL and control and approval 
+of all Naval OCRs. 
+ 
+3.  Processing Procedure Changes.  The Navy organization change process is 
+processed and completed using ETMS2.  ETMS2 is the official DON tasking 
+system allowing for electronic submission, approvals, and coordination of all 
+submissions. 
+ 
+4.  ETMS2 taskers will be initiated by the submitting organization. 
+    a.  Tasker Subjects will start with the OCR Action, the acronym "OCR," 
+followed by the abbreviated form of the Organization's name, followed by the 
+actionable organization. 
+    b.  OCR Action Abbreviations for Subjects: 
+        (1) Establish - EST 
+        (2) Disestablish - DISEST 
+        (3) Home Port Change - HPC 
+        (4) Rename Organization - RENAME 
+        (5) Modification - MOD 
+        (6) Decommissioning - DECOM 
+        (7) ISIC Change - ISIC 
+        (8) Relocate - REL 
+    c.  Example Tasker subjects: 
+        (1) HPC OCR - USFF - USS ROSS (DDG 71) 
+        (2) RENAME OCR - CPF - OFFICE OF NAVAL INTELLIGENCE 
+        (3) EST OCR - CPF - NAVAL SPECIAL WARFARE ASSESSMENT COMMAND 
+ 
+5.  Suspense date.  Enter date 60 days before the promulgation date listed in 
+submitted OCR.  For HPC, enter 90 days before the promulgation date. 
+ 
+6.  Origin.  Select "Navy" from the drop down menu. 
+ 
+7.  Standard Subject Identification Code.  Select "5000-55 Program Oversight 
+(General Administration.") 
+ 
+8.  Classification.  For unclassified OCRs, select "UNCLASSIFIED." For 
+classified OCRs, select "SIPR Action Tracker" and upload the unclassified 
+version of the OCR to the document library.  Additionally, create a SIPR 
+ETMS2 tasker and send to "OPNAV DNS 12 Organization Management." 
+ 
+9.  Priority.  Mark as "Normal." 
+ 
+10.  Authority.  For Home Port Changes, select "SECNAV." For all other 
+actions, select "DNS." 
+ 
+11.  Action.  Select "Approve." 
+ 
+12.  Category.  Select "Administration." 
+ 
+13.  OPNAV 5400/1 will be uploaded into the Original Documents library. 
+ 
+14.  "My Instructions" section of ETMS2 tasker should cover the following: 
+     a.  POC (Name, email, phone number) 
+     b.  Reason from OCR (OPNAV 5400/1) block 4.j. 
+     c.  Promulgation Date and Effective Dates 
+     d.  If applicable, any special considerations DNS should be aware of 
+while processing the request. 
+ 
+15.  To send the OCR to DNS, use the "Manage Assignments" action button and 
+send to "OPNAV DNS 12 Organization Management" as the Office of Primary 
+Responsibility (OPR). 
+ 
+16.  For questions or concerns regarding OCRs, please contact the Navy 
+Organization Management Team at dns12navyorgmgt(at)us.navy.mil. 
+ 
+17.  Applicability.  This NAVADMIN is applicable to all commands who submit 
+OCRs to DNS or on behalf of subordinate commands. 
+ 
+18.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
