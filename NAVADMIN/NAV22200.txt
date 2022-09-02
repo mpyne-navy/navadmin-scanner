@@ -1,0 +1,111 @@
+ROUTINE
+R 012034Z SEP 22 MID600052244375U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+NAVY INSIDER THREAT HUB ELEMENT WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 200/22
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP//
+
+SUBJ/U.S. NAVY INSIDER THREAT AWARENESS MONTH//
+
+REF/A/DOC/NDAA/23DEC16//
+AMPN/REF A IS NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2017, 
+SECTION 951//
+ 
+POC/SEAWARD/CIV/NIA-N7/TEL:  (703) 604-5471/
+EMAIL:  ARLENE.SEAWARD.CIV(AT)US.NAVY.MIL//
+
+RMKS/1.  This NAVADMIN announces the Navys observance of and participation in 
+the National Insider Threat Awareness Month (NITAM) during September 2022. 
+The NAVADMIN also informs of the divestiture of the Department of the Navy 
+(DON) Insider Threat Analytic Hub and establishment of the Navy Insider 
+Threat Analytic Hub (Navy Hub).
+
+2.  The National Counterintelligence and Security Center and the National 
+Insider Threat Task Force launched NITAM in 2019, partnering with federal 
+agencies across the government and industry to educate about the risks posed 
+by insiders and the role of insider threat programs.
+    a.  The theme for NITAM 2022 is Critical Thinking in Digital Spaces. 
+Digital Spaces include virtual technology, such as various social media 
+platforms that can be utilized by malicious actors to circumvent national 
+security.  By recognizing these issues, the workforce will be more resilient 
+to tactics, such as social engineering, solicitation by adversaries, and 
+malignant information spread through digital means.  To promote NITAM, Navy 
+will produce a Counter -Insider Threat video and distribute various 
+educational products, including flyers, posters, brochures, and notepads.  
+The intent is for Navy personnel to recognize indicators of potential insider 
+threats and report them to the newly formed Navy Insider Threat Hub.
+    b.  Protecting Navy Sailors, civilians, contractors, and their families 
+from insider threats is a Navy priority.  The Navy Insider Threat Program 
+will use the month of September 2022 to promote insider threat awareness 
+throughout the Fleet.  Navys intent is to assist and inform commanders and 
+provide commands with early intervention assistance for individuals that may 
+be in need, facing hardships in their lives, or demonstrating potentially 
+malicious behavior in the workplace.
+
+3.  Insider Threat Definition.  As defined in reference (a), a threat 
+presented by a person who:
+    a.  Has, or once had, authorized access to information, a facility, 
+network, person, or resource of the Department; and
+    b.  Wittingly, or unwittingly, commits:
+        (1)  An act in contravention of law or policy that resulted in, or 
+might result in, harm through the loss or degradation of government or 
+company information, resources, or capabilities; or
+        (2)  A destructive act, which may include physical harm to another in 
+the workplace.
+
+4.  The Navy Insider Threat Program is designed to prevent, detect, deter, 
+and mitigate insider threats.  The program focuses on measures aimed at 
+preventing unauthorized disclosure of classified information, as well as 
+identifying and deterring future workplace violence or harm to Navy personnel 
+or resources.
+
+5.  Pursuant to an Under Secretary of the Navy directive, the consolidated 
+DON Insider Threat Analytic Hub (USN and USMC) was dissolved on 5 July 2022. 
+Per direction, Deputy Chief of Naval Operations for Information Warfare 
+(OPNAV N2N6)/Naval Intelligence Activity (NIA) assumed operational control of 
+the newly formed Navy Insider Threat Analytic Hub on that date.  The U.S. 
+Navy administratively and operationally manages the Navys Insider Threat 
+Analytic Hub.  OPNAV N2N6, through Director NIA, assumes management, 
+oversight, and programmatic control of the newly formed Navy Hub.
+
+6.  The Navy Hub is established to receive Sailor, civilian, or contractor 
+reporting of potential insider threats which may be observed within the 
+workplace or during social/after-hours situations.  Reporting to the Navy Hub 
+or to Navy Criminal Investigative Service (NCIS) is anonymous and requires 
+positive action by anyone who observes or perceives potential malicious or 
+harmful activity throughout the Navy.
+
+7.  The Navy Insider Threat Program encourages everyone to be observant of 
+behaviors of concern and to report them so early intervention can occur, 
+leading to positive outcomes for at-risk individuals and reduced risks to our 
+organizations, information or personnel.  Recognize the Potential Risk 
+Indicator signs and report insider threat concerns anonymously to the Navy 
+Insider Threat Analytic Hub at (703) 695-7700, insiderthreat.fct(at)navy.mil, 
+or https://www.secnav.navy.mil/itp/Pages/default.aspx.
+
+8.  Counter-Insider Threat educational and training resources can be found at
+https://www.cdse.edu/Training/Security-Posters/Insider-Threat/ and can be 
+posted in common areas.  Mandatory Counterintelligence Awareness training 
+given annually by NCIS or online in Total Workforce Management System 
+discusses Insider Threat and what you can do to respond to potential 
+malicious activity.
+
+9.  The Navy will continue to support national and Department of Defense 
+efforts to counter insider threats.  Keeping the workforce safe requires your 
+vigilance and timely reporting of any observed suspicious activity or 
+potentially threatening behaviors.  This partnership is essential to our 
+nation’s ability to counter the threat from within.
+
+10.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
