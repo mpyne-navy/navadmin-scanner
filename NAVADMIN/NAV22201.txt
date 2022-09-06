@@ -1,0 +1,172 @@
+ROUTINE 
+R 061718Z SEP 22 MID600052258323U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 201/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTION DC/N1/SEP// 
+ 
+SUBJ/FISCAL YEAR 2023 GENERAL MILITARY TRAINING REQUIREMENTS// 
+ 
+REF/A/DOC/OSD/DODI 1322.31/20FEB20// 
+REF/B/DOC/OSD/DODI 5200.48/06MAR20// 
+REF/C/DOC/DUSN/SECNAVINST 3070.2A/09MAY19// 
+REF/D/MSG/COMPACFLT PEARL HARBOR HI/050047ZOCT21/-/NOTAL// 
+REF/E/MSG/COMUSFLTFORCOM NORFOLK VA/031956ZFEB22// 
+ 
+NARR/REF A IS DOD INSTRUCTION 1322.31, COMMON MILITARY TRAINING. 
+REF B IS DOD INSTRUCTION 5200.48, CONTROLLED UNCLASSIFIED INFORMATION.   
+REF C IS SECNAVINST 3070.2A, OPERATIONS SECURITY.   
+REF D IS A MESSAGE ANNOUNCING SUICIDE PREVENTION CONTINUUM DISCUSSION GUIDE.   
+REF E IS A MESSAGE ANNOUNCING IMPLEMENTATION OF TACTICAL COMBAT CASUALTY CARE 
+TIER 1 PRE-DEPLOYMENT TRAINING.// 
+ 
+RMKS/1.  This NAVADMIN announces general military training (GMT) 
+requirements for fiscal year (FY) 2023. 
+ 
+2.  FY-23 Mandatory GMT: 
+    a.  These requirements must be completed by all military personnel during 
+the FY.  Civilian supervisors of military personnel are encouraged to 
+complete these GMT topics, as applicable. 
+    b.  The following are mandatory GMT topics in FY-23: 
+        (1) Equal Opportunity, Harassment, and Resolution Options. 
+        (2) Domestic Abuse. 
+        (3) Operations Security (OPSEC) and Controlled Unclassified 
+Information (CUI) (refer to paragraph 2.c). 
+        (4) Sexual Assault Prevention and Response (SAPR) Awareness. 
+        (5) Cyber Awareness Challenge. 
+        (6) Counterintelligence Awareness and Reporting. 
+        (7) Suicide Prevention. 
+    c.  Commands may combine OPSEC and CUI into one training session.  The 
+training should be tailored to meet the specific needs of that unit. 
+        (1) Commands have the option to complete CUI training via 
+alternate means as long as they meet the minimum training requirements of 
+reference (b), section 2.10.g. 
+        (2) When feasible, OPSEC training should be conducted in person or 
+through approved video conferencing technology.  At a minimum, personnel must 
+be aware of their units tailored critical information and indicators list in 
+line with reference (c). 
+    d.  Commands may elect to complete cyber awareness challenge training 
+using instructor-led or computer-based methods.  Additional guidance will be 
+provided in the FY-23 Cybersecurity Awareness Challenge NAVADMIN. 
+    e.  The recommended method of delivery for SAPR and Suicide Prevention 
+annual training is via face-to-face, small group facilitated discussions.  If 
+in-person, face-to-face delivery is not feasible, facilitated small group 
+training using approved video conferencing technology is considered face-to-
+face, fully meeting training requirements.  SAPR and Suicide Prevention 
+training is not authorized for delivery via non-Department of Defense (DoD) 
+approved collaborative technology (e.g., Facebook, Zoom, etc.).  Senior 
+commanders have the authority to issue more restrictive guidance to their 
+subordinate commands. 
+    f.  Suicide Prevention annual training should include a continuum of 
+messaging, education, and awareness throughout the year.  Commands should 
+leverage the guidance provided by the Suicide Prevention Month and SAPR 
+Prevention Month Tool Kits, emphasizing the importance of maintaining a 
+continuous dialogue on prevention. Commands who participate in the year-long 
+Commander, Pacific Fleet and U.S. Fleet Forces Command Suicide Prevention 
+Continuum, detailed in reference (d), will meet the annual GMT 
+requirement.  The FY-23 update to the Suicide Prevention Continuum will be 
+available no later than 1 October 2022 at https://flankspeed.sharepoint-/  
+mil.us/sites/CPF-HQ-N1/SuicidePrevention. 
+ 
+3.  FY-23 Command Discretion GMT: 
+    a.  Command discretion GMT is not required at any specified 
+periodicity but may have situational requirements (i.e., initial 
+entry, pre-deployment, career milestones, etc.).  Commanding 
+officers (CO) should train their personnel at a time and place that 
+best meets their command and mission needs. 
+    b.  COs may assign the following topics at their discretion: 
+        (1) Influence Awareness - Countering Disinformation. 
+        (2) Anti-terrorism Level 1. 
+        (3) Privacy Act. 
+        (4) Navy Energy. 
+        (5) Center for Development of Security Excellence Insider 
+Threat Course. 
+        (6) Combating Trafficking in Persons. 
+        (7) Operational Risk Management. 
+        (8) Personal Financial Management. 
+        (9) Sexual Health and Responsibility. 
+        (10) Traumatic Brain Injury. 
+        (11) Records Management. 
+    c.  Tactical Combat Casualty Care - Tier 1 is no longer listed 
+as a GMT.  Deploying units should refer to applicable Type Commander 
+guidance in line with reference (e). 
+    d.  Personal Financial Management training does not have a 
+required annual periodicity but is instead mandatory at personal and 
+professional touchpoints across the military lifecycle in line with 
+reference (a). 
+    e.  Financial Readiness touchpoint courses are available via 
+Navy e-Learning (search for the title *touchpoint* under the Course 
+Catalog tab) and the MyNavy Financial Literacy mobile app.  If 
+preferred, in-person training can be provided by a Fleet and Family 
+Support Center Personal Financial Manager, a Command Financial 
+Specialist, or a Navy Reserve Center-assigned Personal Financial 
+Counselor.  In-person training information and resources can be 
+found at https://www.mynavyhr.navy.mil/Support-Services/21st-Century-
+Sailor/Family-Readiness/Personal-Financial-Mgmt/ and 
+https://www.mnp.navy.mil/group/general-skills-training/gmt/. 
+    f.  Records management training should be completed by 
+administrative personnel who manage and maintain records on a 
+routine basis. 
+ 
+4.  Additional Information: 
+    a.  Detailed requirements for each topic are listed on the GMT 
+webpage and should be reviewed thoroughly by commands prior to 
+assigning training.  The webpage provides topic-specific information 
+such as: 
+        (1) Instructor and documentation requirements. 
+        (2) Training in combined military-civilian sessions. 
+        (3) Links to instructor guides and other training products. 
+    b.  The GMT webpage can be found on the MyNavy Portal at 
+https://www.mnp.navy.mil/group/general-skills-training/gmt/. 
+    c.  Current SAPR and Suicide Prevention training materials are 
+not designed for individual self-study.  Training using methods 
+other than facilitated small group sessions will be challenging. 
+The following *self-care* disclaimer should be added at the 
+beginning of each SAPR or Suicide Prevention training session, 
+whether it be in person or not:  *We understand participating in 
+this training may be difficult for some.  If you need counseling or 
+advocacy support at any time, please contact your local Sexual 
+Assault Response Center (SARC), Victim Advocate (VA), Chaplain, or 
+counselor for help or contact the DoD Safe helpline at 
+https://www.safehelpline.org/ or 877-995-5247, the Military Crisis Line at 
+800-273-8255, or Military One Source at https://www.militaryonesource.mil/, 
+or 800-342-9647.* 
+    d.  Feedback, lessons learned, and recommendations for more 
+effective training delivery are encouraged.  Please provide your 
+recommendations or refer any questions to the following points of 
+contact: 
+        (1) SAPR training:  LT Evelyn Zaleski, N17, 
+evelyn.m.zaleski.mil(at)us.navy.mil. 
+        (2) Suicide Prevention Training:  Ms. Ruth Cassidy, N17, 
+ruth.cassidy(at)navy.mil. 
+        (3) Training policy:  LCDR Jonathan Greenberg, N13M7T, 
+jonathan.d.greenberg(at)navy.mil. 
+    e.  SAPR training materials will not be loaded onto publically 
+accessible websites (e.g., YouTube, Facebook, etc.).  Additionally, 
+the following disclaimer should be added at the beginning of each 
+SAPR training session not conducted in person:  *We understand 
+participating in SAPR training can be difficult.  If you need 
+advocacy support at any time, please contact the on-call SARC/VA at 
+[please insert contact information for the local SARC or VA] or the 
+DoD Safe helpline at https://www.safehelpline.org/ or 877-995-5247.* 
+ 
+5.  GMT questions or feedback should be sent via e-mail to 
+gmt.distribution(at)navy.mil. 
+ 
+6.  This NAVADMIN will remain in effect until superseded or 30 
+September 2023, whichever occurs first. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
