@@ -1,0 +1,43 @@
+R 161621Z SEP 22 MID600052304223U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 207/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N71/SEP// 
+ 
+SUBJ/MODIFICATION TO THE ACADEMIC YEAR 2023-2024 STRATEGIST AND NATIONAL 
+SECURITY FELLOWSHIPS AND GRADUATE EDUCATION SCHOLARSHIP PROGRAMS CALL 
+FOR APPLICATIONS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N7/091429ZJUN22// 
+ 
+AMPN/REF A IS NAVADMIN 133/22, ACADEMIC YEAR 2023-2024 STRATEGIST AND 
+NATIONAL SECURITY FELLOWSHIPS AND GRADUATE EDUCATION SCHOLARSHIP PROGRAMS 
+CALL FOR APPLICATIONS// 
+ 
+RMKS/1.  This NAVADMIN announces a modification to paragraph 3 of 
+reference (a).  The modification extends the application due date. 
+ 
+2.  Paragraph 3 is modified to read:  AY2023-24 applications (including 
+all supplemental information) are due to Navy Personnel Command 
+NLT 07 October 2022. 
+ 
+3.  All other provisions of reference (a), remain in effect. 
+ 
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+5.  Released by Vice Admiral J. W. Hughes, Deputy Chief of Naval 
+Operations for Warfighting Development (N7).// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

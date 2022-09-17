@@ -1,0 +1,66 @@
+ROUTINE 
+R 161741Z SEP 22 MID600052304706U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+CMC WASHINGTON DC 
+COMDT COGARD WASHINGTON DC 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 210/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/FISCAL YEAR 2022 COPERNICUS AWARD NOMINATION// 
+ 
+POC/LUND/CIV/AFCEA EDUCATIONAL FOUNDATION/TEL:  (703) 631-6147 
+/EMAIL:  EDFOUNDATION(AT)AFCEA.ORG// 
+ 
+RMKS/1.  The Copernicus Award recognizes individual contributions to naval 
+warfare in Command, Control, Communications, Computers, and Intelligence 
+(C4I), Information Systems, Cyber Operations, and Information Warfare.  The 
+award is sponsored by Armed Forces Communications and Electronics Association 
+(AFCEA) International and the United States Naval Institute (USNI). 
+ 
+2.  Award criteria and eligibility.  Fiscal year 2022 nominees must have made 
+a specific, demonstrable contribution to the advancement of C4I, Information 
+Systems, or Cyber Operations.  Contributions can be technical in nature, but 
+may also originate from doctrinal, financial, organizational, or other 
+dimensions of information systems.  The contribution should involve 
+exceptional initiative, leadership, and insight within the nominee area of 
+expertise.  All U.S. Navy, U.S. Marine Corps, U.S. Coast Guard, and Civil 
+Service personnel are eligible for nomination.  Up to 30 awardees will be 
+selected.  Each nominating command is limited to two nominees.  No contractor 
+or team (more than one person) nominations will be accepted.  Nominations 
+must be unclassified. 
+ 
+3.  Nominations and presentation.  The awardees will be selected from 
+nominations received from U.S. Navy, U.S. Marine Corps, and U.S. Coast Guard 
+(including Joint/North Atlantic Treaty Organization) commands, afloat and 
+ashore.  Nominations must be on letterhead, be submitted by email in PDF 
+format, and must not contain any Personally Identifiable Information. 
+Nominations for Commanding Officers or Officers-in-Charge must be signed by 
+their Immediate Superior in Command.  Flag endorsements and letters of 
+recommendation are neither required nor desired.  The nomination template and 
+additional nomination package information, as well as the most up-to-date 
+point of contact information can be found at 
+https://www.afcea.org/awards/forms/FY22AFCEACopernicusNominationTemplate.pdf, 
+and award information can be found at https://www.afcea.org/afcea-
+international-awards-program. 
+Nominations must be submitted no later than 1 November 2022 to 
+edfoundation(at)afcea.org.  Late nominations will not be considered. 
+ 
+4.  AFCEA International and USNI will make the final selections.  The Deputy 
+Chief of Naval Operations for Information Warfare will announce the awardees 
+via naval message.  The annual Copernicus Awards ceremony will be held at the 
+AFCEA International/USNI WEST 2023 Conference in San Diego, California 
+at the San Diego Convention Center. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

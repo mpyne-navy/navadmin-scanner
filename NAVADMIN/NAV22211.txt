@@ -1,0 +1,85 @@
+ROUTINE 
+R 161823Z SEP 22 MID600052304936U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 211/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC// 
+ 
+SUBJ/ NAVY 247TH BIRTHDAY COMMEMORATION EXECUTION ORDER// 
+ 
+REF/A/DOC/CNO/OPNAVINST 5726.8B// 
+REF/B/MSG/CNO/R 2412246Z JUN 22// 
+ 
+AMPN/REF A IS THE OPNAVINST 5726.8B OUTREACH:  AMERICA'S NAVY/ 
+REF B IS NAVADMIN 137/22 247TH NAVY BIRTHDAY PLANNING ORDER// 
+ 
+RMKS/1. This message is a Chief of Naval Operations (CNO) Execution Order 
+(EXORD) for events in support of the Navy's 247th Birthday celebration 
+(NAVYBDAY) on 13 October 2022. EXORD is to be carried out in accordance with 
+references (a) and (b). 
+ 
+2.  SITUATION. 
+    a. Beginning with the establishment of our Navy in 1775 and continuing to 
+our current modern fleet, our Navy has stood the watch.  We continue to 
+deploy forward as our nation's vital maritime maneuver force; persistent, 
+versatile, and capable of winning any fight and ready for the challenges of 
+an unpredictable future.  Highlighting our Navy's enduring ability to remain 
+fully ready to respond to and effectively deter potential threats; the theme 
+for this year's Navy Birthday is "On Watch-24/7 for 247 Years." 
+    b. Current health protection levels regarding COVID-19 across COCOMs vary 
+greatly and will impact the extent to which events and commemorations for the 
+247th Navy Birthday can occur. 
+ 
+3.  MISSION. As much as possible and within the bounds of personnel safety, 
+operational availability, and existing local, state, and federal restrictions 
+on gatherings and travel, commands are directed to find creative ways to 
+celebrate the Navy's 247th Birthday. 
+ 
+4.  EXECUTION. 
+    a.  Phase I (Planning and program development of the 247th NAVYBDAY) 
+Planning actions and the collection of a full listing of planned events are 
+ongoing. 
+    b.  This EXORD directs the shift to Phase II, which encompasses the final 
+preparations for the 247th NAVYBDAY celebration execution (13 October). 
+Reference (b) provides guidance in executing events in support of the 247th 
+NAVYBDAY celebration. 
+    c.  Tasking: 
+        (1) All commands: 
+           (a) Ensure Commanding Officers and Officers in Charge plan for and 
+commemorate the 247th NAVYBDAY to the best of their ability. 
+           (b) Execute the 247th NAVYBDAY Communication Plan 
+(history.navy.mil/birthday) and participate in planned virtual outreach as 
+operationally feasible. 
+           (c) Report all commemorative events and lessons learned to Naval 
+History and Heritage Command (NHHC) Communication and Outreach Division NLT 
+28 October 2022 using the downloadable reporting spreadsheet in the online 
+birthday toolkit. 
+    d.  Administrative: 
+        (1) NAVYBDAY toolkit can be found at history.navy.mil/browse-by-topic 
+/commemorations-toolkits/navy-birthday 
+        (2) The online toolkit features a wide variety of historical and 
+communication resources to aid in the development of local commemorative 
+activities, including documents, articles, downloadable photos and art, 
+logos,graphics, Plan of the Day/Week notes, videos, blog posts, ceremony 
+scripts, ceremony program templates, speeches from previous celebrations, and 
+guidance including previous NAVADMINs establishing the celebrations. 
+        (3) Development of some of those resources is ongoing. They will be 
+added as they are received - check back frequently. 
+ 
+5. Point of contact.  NHHC POC, Ms. Stefanie Lamay, COMM: (202)433-7880 
+stefanie.m.lamay.civ(at)us.navy.mil. 
+ 
+6.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

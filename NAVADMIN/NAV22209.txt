@@ -1,0 +1,67 @@
+ROUTINE 
+R 161724Z SEP 22 MID600052304456U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 209/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N4/SEP// 
+ 
+SUBJ/2021 ADMIRAL STAN ARTHUR AWARDS ANNOUNCEMENT// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/R 041618Z MAR 22// 
+ 
+AMPN/REFERENCE A IS ADMIRAL STAN ARTHUR AWARDS-CALL FOR CY 2021 NOMINATIONS 
+MESSAGE// 
+POC/CAPT MELISSIA WILLIAMS/OPNAV N4L5/WASHINGTON DC/TEL: (703)695-4723/EMAIL: 
+MELISSIA.A.WILLIAMS.MIL(AT)US.NAVY.MIL// 
+POC/LCDR DARTANYON KING/OPNAV N4L5C/WASHINGTON DC/TEL: (703)614-7963/EMAIL: 
+DARTANYON.KING1(AT)NAVY.MIL// 
+ 
+RMKS/1.  This award recognizes both military and civilian logisticians who 
+epitomize excellence in the realm of logistics planning and execution, 
+ensuring our delivery of capability and sustainment to the Fleet is hand-in-
+hand with timely provision of end-to-end logistics support, such that Navy 
+Infrastructure and Logistics are best postured to provide persistent support 
+in unpredictable environments.  It is with great pleasure that I announce the 
+2021 Admiral Stan Arthur Award Winners: 
+     a.  2021 Military Logistician of the Year is Captain John G. Montinola, 
+SC, USN, Comptroller, NAVSUP Weapon System Support. 
+     b.  2021 Civilian Logistician of the Year is Mr. Stephen A. Barrow, 
+     Maintenance Repair and Overhaul Logistics Department Head, Fleet 
+Readiness Center East. 
+     c.  2021 Logistics Team of the Year is the Logistics Team at Commander, 
+     Logistics Group Western Pacific / Commander Task Force 73. 
+ 
+2.  These awardees exemplify the importance of logistics to achieving the 
+Navy's mission and innovating across the DOTmLPF-P spectrum to advance our 
+competitive edge over our adversaries. 
+ 
+3.  2021 Admiral Stan Arthur Award Winner Runner-ups: 
+     a.  2021 Military Logistician of the Year runner-up is LS1(SW) Joseph 
+     Reboja, Tactical Network Readiness Branch Leading Material Manger, Naval 
+     Information Warfare. 
+     b.  2021 Civilian Logistician of the Year runner-up is Mr. Vince Barton, 
+     Hardware Engineering Lead, Naval Information Warfare. 
+     c.  2021 Logistics Team of the Year runner-up is the Reliability Control 
+     Board team, Naval Air Systems Command. 
+ 
+4.  Deputy Chief of Naval Operations, Fleet Readiness and Logistics (OPNAV 
+N4) will contact winning commands to make arrangements for the presentation 
+of plaques, cash awards and certificates.  Additionally, the winners will 
+have their names engraved on permanent display in the OPNAV N4 spaces. 
+ 
+5.  My heartiest congratulations to all of our award winners and nominees!   
+I would like to also extend my gratitude for the superlative innovative 
+solutions that have resulted in quantifiable benefits to the United States 
+Navy.  Bravo Zulu! 
+ 
+6.  Released by VADM R. L. Williamson, N4.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
