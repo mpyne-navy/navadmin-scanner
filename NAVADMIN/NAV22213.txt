@@ -1,0 +1,42 @@
+ROUTINE
+R 191517Z SEP 22 MID600052323835U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 213/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/2022 MERITORIOUS ADVANCEMENT PROGRAM SEASON TWO - E5 TIR CORRECTION//
+
+REF/A/MSG/CNO WASHINGTON DC/021525ZAUG22//
+
+NARR/REF A IS NAVADMIN 174/22, 2022 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
+TWO.
+
+RMKS/1.  This NAVADMIN amends reference (a) with respect to the time in rate
+(TIR) requirement for non-nuclear trained E-5s to advance to E-6 via the 
+Meritorious Advancement Program (MAP).
+
+2.  Paragraph 2.a. of reference (a) contained an administrative error. In 
+line with the normal 12-months TIR used in previous MAP seasons, paragraph
+
+2.a. of reference (a) is corrected to read: *E-5:  1 July 2021.*
+
+3.  All other tenets of reference (a) remain unchanged.
+
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first.
+
+5.  Released by Rear Admiral J. P. Waters, Acting N1B.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

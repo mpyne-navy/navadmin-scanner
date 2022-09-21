@@ -1,0 +1,87 @@
+ROUTINE
+R 191431Z SEP 22 MID600052323660U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 212/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/CALL FOR 2022 NAVY LANGUAGE PROGRAM AWARDS//
+
+REF/A/DOC/OPNAVINST 5400.46A/18MAY21//
+REF/B/DOC/DLIFLC/28NOV05 (NOTAL)//
+
+NARR/REF A IS OPNAVINST 5400.46A, COMMAND LANGUAGE PROGRAMS AND AWARDS.   
+REF B IS DEFENSE FOREIGN LANGUAGE INSTITUTE FOREIGN LANGUAGE CENTER PAMPHLET 
+351-1, EVALUATION GUIDELINES FOR DOD COMMAND LANGUAGE PROGRAMS.//
+
+RMKS/1.  This NAVADMIN solicits nominations for the Fiscal Year (FY)
+2022 Language Professional of the Year (LPOY), Command Language Program of 
+the Year (CLPOY) and Linguist of the Year (LOY) Awards in line with reference 
+(a).
+
+2.  Each year, Navy recognizes the most outstanding Command Language Program 
+(CLP), military and civilian language professionals, and non-career linguists 
+contributing to mission success through the use of foreign language.  The top 
+Navy CLP and the winner of the Shannon M. Kent Award for Language 
+Professional Excellence will go on to compete at the DoD level.  The DoD 
+program is managed by the Defense Language Institute Foreign Language Center 
+(DLIFLC) and recognizes the most outstanding military language professionals 
+(E6 and below) and CLPs across the military services.
+
+3.  Award Criteria:
+    a.  CLPOY.  Established by Chief of Naval Operations as an annual 
+recognition of the top Navy Command Language Program.
+    b.  LPOY.  Recognizes Sailors and Navy civilians whose occupational 
+specialties require proficiency in a foreign language.
+        (1) Shannon M. Kent Award for Language Professional Excellence 
+(cryptologic technician - interpretive (CTI) rating only, E-6 and below).
+        (2) Senior LPOY (CTI rating only, E-7 to E-9).
+        (3) Officer LPOY (foreign area officers (FAO) only).
+        (4) Civilian LPOY.
+    c.  LOY (open to all communities except CTI and FAO).
+Recognizes personnel who have distinguished themselves while using foreign 
+language skills, even though their primary duties do not require foreign 
+language proficiency.
+        (1) LOY (E-6 and below).
+        (2) Senior LOY (E-7 and above).
+        (3) Officer LOY.
+        (4) Civilian LOY.
+
+4.  Nomination Process.  Additional nomination criteria and package 
+requirements are provided in reference (a).  Templates are posted online at 
+https://www.mynavyhr.navy.mil on the Language and Culture page under Career 
+Management, along with this years essay topics for LPOY and LOY nominees 
+only, which will be announced in December.  In line with reference (b), Navy 
+may submit only one nomination to DoD for LPOY and CLPOY, therefore, type 
+commanders (TYCOM) (and equivalent commands) are requested to solicit 
+nominations from subordinate units and submit only their best candidate LPOY 
+and CLPOY to the Navy Language, Regional Expertise and Culture Office (OPNAV 
+N13F) for consideration.  The period of consideration for all awards is 1 
+October 2021 to 30 September 2022.
+
+5.  Submission.  Submit nomination packages by e-mail or DoD SAFE to OPNAV 
+N13F (ALTN_N13F1(at)navy.mil).  Packages without an endorsement from the 
+TYCOM (or equivalent command) will not be considered.  Due to processing 
+delays of traditional mail, hardcopy packages are not desired.
+
+6.  Deadline.  All nomination packages must be received no later than  
+31 March 2023 to be considered.
+
+7.  Point of Contact.  OPNAV N13F, ALTN_N13F1(at)navy.mil.
+
+8.  This NAVADMIN will remain in effect until 31 May 2023.
+
+9.  Released by Rear Admiral J. P. Waters, Acting N1B.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
