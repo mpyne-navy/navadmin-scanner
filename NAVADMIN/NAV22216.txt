@@ -1,0 +1,61 @@
+ROUTINE 
+R 271241Z SEP 22 MID200080258735U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 216/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N8/SEP// 
+ 
+SUBJ/NAVY WINNERS OF THE 2022 SECRETARY OF DEFENSE MAINTENANCE AWARDS// 
+ 
+REF/A/MSG/CNO/012025Z DEC 21// 
+REF/B/MSG/CNO/301907Z NOV 21// 
+REF/C/MEMO/OSD/31AUG22// 
+ 
+NARR/REF A IS NAVADMIN 273/21 ANNOUNCING COMPETITION FOR THE 2022 SECRETARY 
+OF DEFENSE (SECDEF) MAINTENANCE AWARDS FOR FIELD LEVEL UNITS AND COMMANDS. 
+REF B IS NAVADMIN 274/21 ANNOUNCING COMPETITION FOR THE 2022 SECRETARY OF 
+DEFENSE (SECDEF) ROBERT T. MASON DEPOT MAINTENANCE EXCELLENCE AWARD. 
+REF C IS OUSD(A&S) MEMO OF 31 AUG 22 ANNOUNCING THE 2022 SECRETARY OF DEFENSE 
+MAINTENANCE AWARD WINNERS.// 
+POC/RANDY PILKERTON/CIV/CNO WASHINGTON DC/N83I1/TEL: 703-695-4925// 
+E-MAIL: RANDY.S.PILKERTON.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  The annual Secretary of Defense Awards Program recognizes the 
+Department of Defense's (DoD) most outstanding field-level and depot-level 
+military maintenance units from a highly competitive field of candidates.  I 
+would like to extend my congratulations and gratitude for all Navy units that 
+submitted nomination packages in accordance with references (a) and 
+(b).  Each nominee should be proud of their accomplishments. 
+ 
+2.  Reference (c) announced the 2022 SECDEF Maintenance Award winners for the 
+entire DoD.  I am pleased to inform you that the following Navy Commands have 
+been selected as winners of the 2022 SECDEF Maintenance Awards: 
+a.  Field-Level Small Category: Strike Fighter Squadron ONE FOUR SEVEN  
+(VFA-147), Naval Air Station Lemoore, CA 
+b.  Field-Level Medium  Category: USS WINSTON S. CHURCHILL (DDG 81),  
+Naval Station Mayport, FL 
+c.  Field-Level Large Category: TRIDENT Refit Facility Kings Bay  
+(TRIREFFAC-KB), Naval Submarine Base, Kings Bay, GA 
+ 
+3.  All of the above winners will be formally recognized during the DoD 
+Maintenance Symposium at the SECDEF Maintenance Awards Ceremony on 13 
+December 2022.  The overall Phoenix Award winner will be announced at the 
+Awards Ceremony as well.  The Phoenix Award represents the very best of all 
+the field-level winners, and is the highest SECDEF award for field-level 
+maintenance. 
+ 
+4.  Please join me in congratulating each of our Navy winners for a job well 
+done; you represent the very best of our military maintenance community which 
+contributes directly to the readiness of our Navy.  BRAVO ZULU! 
+ 
+5.  Released by Mr. Neil W. T. Hogg, ADCNO, N8B.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
