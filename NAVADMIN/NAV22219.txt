@@ -1,0 +1,61 @@
+ROUTINE
+R 281901Z SEP 22 MID200080268197U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 219/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/SEP//
+
+SUBJ/CLOSURE OF THE NATIONAL DEFENSE SERVICE MEDAL (NDSM); CHANGES TO 
+ELIGIBILITY FOR THE GLOBAL WAR ON TERRORISM SERVICE MEDAL (GWOTSM) AND 
+CHANGES TO ELIGIBILITY FOR THE INHERENT RESOLVE CAMPAIGN MEDAL (IRCM)//
+
+REF/1/DOC/SECDEF/30AUG22/NOTAL//
+REF/B/DOC/USD P&R/24JUN22/NOTAL//
+
+REF/C/MSG/CNO/031952ZDEC04//
+NAR/REF A announced the termination of the NDSM.  REF B announced campaign 
+and service medal changes based on the end of the Afghanistan War and 
+termination of the combat mission in Iraq.  REF C is NAVADMIN 273/04.//
+
+RMKS/1.  Purpose.  To announce changes in eligibility for the National 
+Defense Service Medal (NDSM) and changes to the Global War on Terrorism 
+Service Medal (GWOTSM) and Inherent Resolve Campaign Medal (IRCM), as ordered 
+by references (a) and (b).
+
+2.  NDSM.  Effective 31 December 2022, the authorization to award the NDSM to 
+members of the U.S. Armed Forces serving on active duty on or after
+11 September, 2001, is terminated.  The United States is no longer conducting 
+combat operations of comparable scale for which the NDSM has been 
+historically authorized.  Navy personnel who serve in support of a designated 
+operation may continue to be eligible for the campaign, expeditionary, or 
+service medal associated with that operation.
+
+3.  GWOTSM.  Effective 11 September 2022, eligibility for the GWOTSM will be 
+limited to Service members who directly serve in a designated military 
+counter-terrorism (CT) operation for a minimum of 30 days (consecutive or 
+non-consecutive), or, regardless of time served, while on active duty, are 
+engaged in physical combat with, or by, a foreign terrorist or an individual 
+inspired or motivated by a foreign terrorist organization.
+Examples of qualifying service: deployed on orders for a designated CT 
+operation; directly supported a designated CT operation on a full-time basis 
+while assigned to an organization conducting such a CT operation.
+"Indirect support", as previously defined in reference (c), no longer 
+warrants award of the GWOTSM.
+
+4.  IRCM.  Effective 1 July 2022, eligibility for the IRCM is limited to the 
+country of Syria and its associated airspace and contiguous waters out to
+12 nautical miles.
+
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

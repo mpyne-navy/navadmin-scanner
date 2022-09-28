@@ -1,0 +1,167 @@
+ROUTINE
+R 281740Z SEP 22 MID200080267884U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 218/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/NAVY RESERVE PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, COMMANDER, 
+LIEUTENANT COMMANDER, LIEUTENANT, AND CHIEF WARRANT OFFICER IN THE LINE AND 
+STAFF CORPS//
+
+REF/A/DOC/OPNAV/11JUL11//
+REF/B/MSG/CNO WASHINGTON DC/211859ZDEC17//
+REF/C/DOC/OPNAV/28FEB12//
+REF/D/MSG/CNO WASHINGTON DC/041853ZAUG22
+REF/E/DOC/SECNAV/24JUL19//
+REF/F/DOC/COMNAVPERSCOM/23JUL07//
+
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM.
+REF B IS NAVADMIN 304/17, PHYSICAL READINESS PROGRAM POLICY CHANGES.
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY.   
+REF D IS NAVADMIN 176/22, POLICY UPDATE CONCERNING SERVICE-IN-GRADE 
+RETIREMENT.  ELIGIBILITY FOR ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR 
+RESERVE LIEUTENANT COMMANDERS.   
+REF E IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF F IS MILPERSMAN ARTICLE 1070-180, OFFICER PHOTOGRAPHS.//
+
+RMKS/1.  Congratulations to the following officers on their promotions to the 
+ranks indicated in this message.  This NAVADMIN is the authority for 
+effecting permanent officer promotions on the dates indicated.  Columns read 
+name and designator.
+                  PERMANENT PROMOTION TO CAPTAIN
+              SENATE CONFIRMATION DATE 01 AUGUST 2022
+                 DOR/EFF DATE 01 DECEMBER 2020 Caudill Christopher Lee  1115
+                  PERMANENT PROMOTION TO CAPTAIN
+           CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE
+             LINE 23 JUNE 2022      STAFF 1 AUGUST 2022
+DOR/EFF DATE 01 OCTOBER 2022
+Anderson Louise Marie    2305         Austin Obie Andrel       2905
+Bach James Donald        3107         Beattie Jodi Christina   1805
+Bess Darren Noble        1317         Brightman Heath Jordan   1815
+Brugler Suzanna G        1715         Bussell Stephan M        1515
+Byers Christian Micah    1315         Cagulada Michael C       1125
+Dalton Roy Bale III      1315         Dietrich Michelle Marie  1835
+Dillon Michael Richard   1115         Giusso Ronald Robert     2505
+Hardison Charity Cheri   1655         Jimenez Paul Anthony     2105
+Jones Mitchell Russell   6495         Judernatz Jeremy M       1315
+Knight Charles Edward II 1205         Kuehne Jonathan Peter    2105
+Martin Michael John      1527         Mcdermott Eric Thomas    1665
+Meymand Samira           2205         Morgan Christopher Lee   3105
+Motes Jason Alan         1115         Mudd Ryan M              1207
+Patron Julio Enrique Jr  1525         Powell Robert Alexis     1825
+Rountree Cameron M       1115         Rupnik Frank Thomas III  4105
+Skidmore Jesse Thomas    1125         Stockley Jay Edmond      1445
+Tostenrud Robert P       2105         Tranotti David Paul      1125
+Wall John Douglas Jr     5105         Wallace Aenon Jaffa      1315
+Wear Christopher E       1137
+                     PERMANENT PROMOTION TO COMMANDER
+                       DOR/EFF DATE 01 NOVEMBER 2021 Berthold Matthew George  
+1317
+FY-23 Commander Line Promotion Selection Boards results are pending Senate 
+Confirmation as of the preparation date of this message.
+FY-23 Commander Staff Corps Promotion Selection Boards results are pending 
+Senate Confirmation as of the preparation date of this message.
+                PERMANENT PROMOTION TO LIEUTENANT COMMANDER
+                         DOR/EFF DATE 01 JUNE 2018
+Ford David Gerald        1815
+                        DOR/EFF DATE 01 OCTOBER 2018
+Monroe Jeremy Langton    1315
+                        DOR/EFF DATE 01 FEBRUARY 2020
+Pingrey Jordan Siig      1315
+                        DOR/EFF DATE 01 DECEMBER 2020 Machado Daniel William 
+A 1325
+FY-23 Lieutenant Commander Line Promotion Selection Boards results are 
+pending Senate Confirmation as of the preparation date of this message.
+FY-23 Lieutenant Commander Staff Corps Promotion Selection Boards results are 
+pending Senate Confirmation as of the preparation date of this message.
+                   PERMANENT PROMOTION TO LIEUTENANT
+                      DOR/EFF DATE 01 AUGUST 2021
+Lally Shane Brian        1835
+                     DOR/EFF DATE 01 DECEMBER 2021 Peroutka Christopher Lee 
+1105
+                     DOR/EFF DATE 01 JANUARY 2022
+Mccullough Stacey D      1105         Mcquilkin Marlene F      2905
+                   DOR/EFF DATE 01 FEBRUARY 2022
+Randall Corey Dylan      1105
+                    DOR/EFF DATE 01 MARCH 2022
+Charles Yves Robert      2905
+                    DOR/EFF DATE 01 APRIL 2022
+Aldridge Warner Jr       4105         Bailey Ayesha            2905
+Bianco Jessica Mary      2905         Chabuz Jaime Eryn        2905
+Giannini Andrew          2905
+                     DOR/EFF DATE 01 MAY 2022
+Alexander Iyanna K       2305         Lewis Robin Mesha        2905
+Signorelli Stephanie L   2905         Sterneck Parker Blake    1105
+                     DOR/EFF DATE 01 JUNE 2022
+Mccormick Kelsey Marie   2905         Shoemaker Christopher C  2905
+                     DOR/EFF DATE 01 JULY 2022
+Mason Candy Sheree       2905         Page Matthew Aaron       4105
+Tran Alexander L S       2905
+                     DOR/EFF DATE 01 AUGUST 2022
+Brown Veronica Nichole   2905         Jean Christine L         2905
+FY-23 Lieutenant All-Fully-Qualified-Officer List results are pending 
+approval as of the preparation date of this message.
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-5 No officers 
+promoted in this category.
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-4 No officers 
+promoted in this category.
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-3 No officers 
+promoted in this category.
+
+2.  If a selected officer does not decline in writing prior to the projected 
+date of rank (noted above in paragraph 1), that officer is considered to have 
+accepted the promotion on the date indicated.  An officer who chooses to 
+decline promotion must submit the declination in writing to COMNAVPERSCOM 
+(PERS-806) within thirty (30) days of the release of this NAVADMIN.
+
+3.  The commanding officer (CO), the Secretary of the Navy, or his designee, 
+has the authority to delay projected promotions.  Upon the exercise of a 
+delay, the officer shall be notified in writing before the effective date of 
+the promotion, and not be tendered the promoting appointment.  The delay 
+authority will immediately forward the notification of delay with supporting 
+documentation to COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806).
+
+4.  COs are reminded of their responsibility to ensure the officers they are 
+promoting are mentally, physically, morally and professionally qualified in 
+accordance with 10 U.S.C. 14311.  Per reference (a), officers are ineligible 
+for promotion if they have failed the most recent Physical Fitness 
+Assessment.  COs shall verify the promoting officers information in the 
+Physical Readiness Information Management System to ensure compliance with 
+reference (a), as modified by reference (b), and delay the officers promotion 
+in accordance with paragraph 3 of this NAVADMIN, if required.
+
+5.  Prepare a Delivery of Permanent Appointment (NAVPERS FORM
+1421/7) (Rev 10-13).  Use this NAVADMIN as reference (a).  Use 10 U.S.C. 
+14308 as reference (b) for permanent lieutenants and above.
+Use 10 U.S.C. 12242 as reference (b) for chief warrant officers.
+Mail the completed form to COMNAVPERSCOM (PERS-806) or email via MyNavy 
+Career Center at askmncc.fct@navy.mil.
+
+6.  Training and Administration of Reserve (TAR) Officers should review 
+references (c) and (d) for minimum time-in-grade (TIG)/service-in-grade (SIG) 
+requirements for purposes of active- duty voluntary retirement.  (NOTE:  TIG 
+TAR LCDR voluntary retirements changed with the National Defense 
+Authorization Act 2021.  Update to reference (c) is pending.)  TAR officers 
+and those officers temporarily on active duty anticipating release from 
+active duty under reference (e) may accept promotion without incurring any 
+additional active-duty obligation.
+
+7.  New photographs are required for all officers within three months after 
+acceptance of promotion.  See reference (f), for specific requirements.
+
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
