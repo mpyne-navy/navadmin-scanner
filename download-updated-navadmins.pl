@@ -5,11 +5,28 @@ use v5.18;
 use Mojo::Date;
 use Mojo::DOM;
 use Mojo::Collection;
+use Mojo::JSON qw(decode_json);
 use Mojo::File;
 use Mojo::UserAgent;
 use Mojo::URL;
 
 use Time::HiRes qw(usleep);
+
+# Returns a JSON object keyed by NAVADMIN ID
+sub read_navadmin_metadata
+{
+    my $text = eval { Mojo::File->new("navadmin_meta.json")->slurp } // "{}";
+    return decode_json($text);
+}
+
+sub save_navadmin_metadata
+{
+    my $obj = shift;
+    my $json = Mojo::JSON::encode_json($obj);
+
+    my $file = Mojo::File->new("navadmin_meta.json");
+    $file->spurt($json);
+}
 
 # Reads a binary blob of HTML and pulls out list of .txt hyperlinks
 sub read_navadmin_listing
@@ -76,6 +93,7 @@ pull_navadmin_year_links($ua)->then(sub {
 })->wait;
 
 my %errors;
+my $metadata = read_navadmin_metadata();
 mkdir ("NAVADMIN") unless -e "NAVADMIN";
 
 say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
@@ -85,13 +103,17 @@ while (my $url = shift @navadmin_urls) {
     $name =~ s(^.*/)(); # Remove everything up to last /
     # The URL may have had lowercase chars, enforce it starting with "NAV"
     substr $name, 0, 3, "NAV";
+    my $shortname = (substr $name, 5, 3) . '/' . (substr $name, 3, 2);
     $name = "NAVADMIN/$name";
 
     my $req;
     if (-e $name) {
         my $ctime = (stat(_))[10];
         my $date = Mojo::Date->new($ctime)->to_string;
-        $req = $ua->get($url, { 'If-Modified-Since' => "$date" });
+        $req = $ua->get($url, {
+            'If-Modified-Since' => "$date",
+            'User-Agent'        => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            });
     } else {
         $req = $ua->get($url);
     }
@@ -106,6 +128,11 @@ while (my $url = shift @navadmin_urls) {
     } elsif (!$result->is_empty) {
         # Save file to disk
         say "Downloaded $name";
+        $metadata->{$shortname} = {
+            dl_date => time,
+            dl_url  => $url->to_string,
+        };
+
         $result->save_to($name);
     }
 
@@ -115,5 +142,7 @@ while (my $url = shift @navadmin_urls) {
 while (my ($url, $err) = each %errors) {
     say "$url failed: ", $err->{code}, " ", $err->{msg};
 }
+
+save_navadmin_metadata($metadata);
 
 say "Done";
