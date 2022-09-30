@@ -3,11 +3,15 @@
 use Mojolicious::Lite -signatures;
 use Mojolicious::Validator;
 
+use Mojo::File;
+use Mojo::JSON;
+
 use File::Glob;
 use List::Util qw(min);
 
 my %navadmin_by_year;
 my %navadmin_subj;
+my $navadmin_dl_metadata;
 my @SORTED_YEARS;
 
 # Set static content directory (must be done early, before routes are defined)
@@ -19,6 +23,10 @@ app->renderer->compress(1);
 hook(after_static => sub ($c) {
     $c->res->headers->cache_control('max-age=604800, public, immutable');
 });
+
+# Read in metadata from download phase
+my $file_text = eval { Mojo::File->new("navadmin_meta.json")->slurp; } // "{}";
+$navadmin_dl_metadata = Mojo::JSON::decode_json($file_text);
 
 # Find known NAVADMINs and build up data mapping for later
 foreach my $file (glob("NAVADMIN/NAV*.txt")) {
@@ -126,13 +134,16 @@ get '/NAVADMIN/:id/:twoyr'
 
     # Was text/plain specifically requested?
     if ($c->accepts('', 'txt')) {
-	return $c->reply->file($name);
+        return $c->reply->file($name);
     }
+
+    my $url = $navadmin_dl_metadata->{"$id/$twoyr"} // '';
 
     # Otherwise show a fancy web page
     $c->render(template => 'show-navadmin',
         navadmin_title => $title,
         filepath => $name,
+        url      => $url,
     );
 } => 'serve-navadmin';
 
@@ -290,6 +301,11 @@ __DATA__
 % $escaped =~ s{([a-zA-Z0-9._-]+)\([Aa][Tt]\)([a-zA-Z.]+\.[a-zA-Z]+)}{<a title="Decoded from $&" href="mailto:\L$1\@$2\E">\L$1\@$2</a>}g;
 <%= b($escaped) %>
 </pre>
+
+% if ($url) {
+<p><a href="<%= $url->{dl_url} %>" rel="nofollow noopener" target="_blank">Official source for this NAVADMIN</a></p>
+% }
+
 </div>
 
 @@ about.html.ep
