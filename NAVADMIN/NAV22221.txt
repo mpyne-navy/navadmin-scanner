@@ -1,0 +1,66 @@
+ROUTINE 
+R 301433Z SEP 22 MID200080280626U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 221/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/TEMPORARY INCREASE IN BAH RATES IN SELECT AREAS// 
+ 
+REF/A/DOC/USC/27DEC21// 
+REF/B/DOC/DASD/22SEP22// 
+ 
+NARR/REF A IS TITLE 37 U.S.C. 403(B)(8), BASIC ALLOWANCE FOR HOUSING.   
+REF B TEMPORARY INCREASE IN BASIC ALLOWANCE FOR HOUSING RATES APPROVED BY THE 
+DEPUTY ASSISTANT SECRETARY OF DEFENSE FOR MILITARY PERSONNEL POLICY.// 
+ 
+RMKS/1.  This NAVADMIN announces temporary basic allowance for 
+housing (BAH) increases for Sailors authorized BAH in 28 military 
+housing areas (MHA) from 1 October 2022 to 31 December 2022. 
+ 
+2.  In line with references (a) and (b), the Deputy Assistant Secretary of 
+Defense for Military Personnel Policy has approved temporary BAH rate 
+increases for MHAs that have experienced an average increase of 20 percent or 
+more in rental housing costs as determined by rental housing market data 
+collected by the Department of Defense (DoD) from March to August 2022.  Navy 
+centric MHAs listed include San Diego, CA (CA038), Miami/Fort Lauderdale, FL 
+(FL061), Kings Bay/Brunswick, GA (GA074), Newport, RI (RI256), and 
+Providence, RI (RI257).  A full list of the 28 MHAs impacted and frequently 
+asked questions can be found at  
+https://www.mynavyhr.navy.mil/References/Pay-Benefits/N130C/.  It is 
+important to note that if your MHA is not listed, you are not eligible for a 
+BAH increase.  Sailors are encouraged to review the 
+BAH rate charts carefully as rates vary within MHAs (i.e. some ranks may not 
+see an increase). 
+ 
+3.  The increased BAH rates are automatic and are only payable from 
+1 October 2022 to 31 December 2022 for Sailors authorized a housing 
+allowance in 1 of the 28 impacted MHAs.  No application nor supporting 
+documentation is required, the increase will automatically be applied to 
+those entitled to BAH in the affected MHAs.  Temporary increases in BAH rates 
+are not subject to rate protection, which means that it is possible Sailors 
+will see lower or higher BAH rates when the 2023 BAH rates become effective 
+on 1 January 2023.  That said, the temporary 2022 rates are based on the 
+same data being used in determining 2023 BAH rates and DoD is making every 
+effort to ensure these rates remain as stable as possible as we transition 
+into 2023.  Because the temporary rates vary within each MHA (dependent on 
+rank) and depend on actual rental market data, the BAH increase for those in 
+the 28 MHAs may be less or more than 20 percent. 
+ 
+4.  This NAVADMIN will remain in effect until superseded or 31 December 2022, 
+whichever occurs first. 
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
