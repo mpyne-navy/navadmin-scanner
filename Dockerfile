@@ -24,7 +24,7 @@ COPY navadmin-viewer.pl      \
 COPY NAVADMIN                /opt/navadmin-scanner/NAVADMIN/
 COPY assets                  /opt/navadmin-scanner/assets/
 
-RUN ./gen-miscoded-files-list | ./fix-miscoded-files && rm *miscoded*
+RUN ./gen-miscoded-files-list | ./fix-miscoded-files && rm *miscoded* && ./clean-rmks.pl
 
 EXPOSE 3000
 

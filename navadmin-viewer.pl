@@ -40,10 +40,15 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
     my $year = $twoyr + (($twoyr > 80) ? 1900 : 2000);
     $navadmin_by_year{$year}->{$id} = $file;
 
+    # Look for override file
+    my $filename = $file;
+    $filename =~ s,\.txt,.ctxt,;
+    $filename = $file unless -e $filename;
+
     # Try to find subject
     my @subj_lines = grep {
         m(^\s*SUBJ[/:]) .. m(//\s*$) # perl range operator
-    } split(/\r?\n/, Mojo::File->new($file)->slurp . " //");
+    } split(/\r?\n/, Mojo::File->new($filename)->slurp . " //");
 
     next unless @subj_lines;
 
@@ -128,7 +133,10 @@ get '/NAVADMIN/:id/:twoyr'
     return $c->reply->exception("Couldn't find the NAVADMIN!")
         unless $title;
 
-    my $name = "NAVADMIN/NAV$twoyr$id.txt";
+    my $name = "NAVADMIN/NAV$twoyr$id.ctxt";
+    $name = "NAVADMIN/NAV$twoyr$id.txt"
+        unless -e "$name";
+
     return $c->reply->not_found
         unless -e "$name";
 
