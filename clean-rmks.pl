@@ -54,22 +54,45 @@ sub simplify_rmks($path, $text)
     return $newtext;
 }
 
+sub decode_navadmin($path, $text)
+{
+    my $state = 'start';
+    my $chunk;
+    my $dtg = 'unknown';
+
+    for (split("\n", $text)) {
+        if ($state eq 'start') {
+            do { $dtg = $1; last } if /^(?:ROUTINE *)?(?:DTG )?(?:[ZRPO] ?)*([0-9]{6,}[zZ]+ [A-Za-z]{3,4} ?[0-9]{2})/;
+            do { $dtg = $1; last } if /^(?:[ZRPO] ?)*([0-9]{6} [A-Za-z]{3} ?[0-9]{2})/;
+        } else {
+            die "Unhandled state $state";
+        }
+    }
+
+    $dtg = uc $dtg;   # Some had lowercase months for some reason
+    $dtg =~ s,Z+,Z,g; # Some had consecutive 'Z' markers by accident
+    $dtg =~ s,([A-Z]{3})([0-9]{2}),\1 \2,g; # Missing space between month and year NAV06083
+    $dtg =~ s,([0-9]{6}) ([A-Z]{3}),\1Z \2,g; # Missing timezone NAV12002, NAV12020
+    $dtg =~ s,AUGY ,AUG ,;
+
+    say "$path: DTG is $dtg";
+}
+
 sub read_navadmin($path)
 {
     my $content = $path->slurp;
     my $result = simplify_rmks($path, $content);
 
     if ($result) {
-        say "$path: Writing override";
-
         my $newpath = $path->to_string;
         $newpath =~ s,\.txt$,.ctxt,; # c for canonical
 
         my $newfile = Mojo::File->new($newpath);
         $newfile->spurt($result);
-    } else {
-        say "$path: OK";
+        $content = $result;
     }
+
+    decode_navadmin($path, $content);
 }
 
 my @files;
