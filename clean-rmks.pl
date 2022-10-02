@@ -79,7 +79,7 @@ if (@ARGV) {
     @files = map { Mojo::File->new($_) } @ARGV;
 } else {
     # List all NAVADMINs if no file specified
-    @files = Mojo::File->new('NAVADMIN')->list_tree->each;
+    @files = Mojo::File->new('NAVADMIN')->list_tree->grep(qr/\.txt$/)->each;
 }
 
 foreach my $path (@files) {
