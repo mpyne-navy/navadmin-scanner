@@ -6,6 +6,6 @@ P 032330Z AUG 06
 
 NAVADMIN 220/06
 
-SUBJ/<font color='red'>Not Available-Personal For Message//
+SUBJ/Not Available-Personal For Message//
 
 NNNN

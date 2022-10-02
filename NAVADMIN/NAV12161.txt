@@ -2,7 +2,7 @@ ADMINISTRATIVE MESSAGE
 ROUTINE        
 DTG R 141938Z MAY 12
 NAVADMIN 161/12
-SUBJ/<font color='red'>Not Available - Personal For Message//
+SUBJ/Not Available - Personal For Message//
 NNNN
 
 

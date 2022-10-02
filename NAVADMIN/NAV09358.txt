@@ -2,5 +2,5 @@ ADMINISTRATIVE MESSAGE
 ROUTINE       
 R 112105Z DEC 09
 NAVADMIN 358/09
-SUBJ/<font color='red'>Not Available - Personal For Message//
+SUBJ/Not Available - Personal For Message//
 NNNN

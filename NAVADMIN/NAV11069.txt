@@ -2,7 +2,7 @@ ADMINISTRATIVE MESSAGE
 ROUTINE        
 DTG R 021444Z MAR 11
 NAVADMIN 069/11
-SUBJ/<font color='red'>Not Available - Personal For Message//
+SUBJ/Not Available - Personal For Message//
 NNNN
 
 

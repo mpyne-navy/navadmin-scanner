@@ -3,7 +3,7 @@ ROUTINE
 DTG R 261625Z SEP 12
 PSN 664771K31
 NAVADMIN 295/12
-SUBJ/<font color='red'>Not Available - Personal For Message//
+SUBJ/Not Available - Personal For Message//
 NNNN
 
 

@@ -2,7 +2,7 @@ ADMINISTRATIVE MESSAGE
 ROUTINE        
 DTG R 262213Z OCT 10
 NAVADMIN 349/10
-SUBJ/<font color='red'>Not Available - Personal For Message//
+SUBJ/Not Available - Personal For Message//
 NNNN
 
 

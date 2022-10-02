@@ -6,7 +6,7 @@ R 161604Z JAN 07 ZYB MIN ZYW PSN 706947K33
 
 NAVADMIN 008/07
 
-SUBJ/<font color='red'>Not Available-Personal For Message//
+SUBJ/Not Available-Personal For Message//
 
 NNNN
 
