@@ -1,0 +1,62 @@
+ROUTINE 
+R 041421Z OCT 22 MID200080298220U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+CMC WASHINGTON DC 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 225/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC/N2N6// 
+INFO CNO WASHINGTON DC//N2N6// 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT// 
+ 
+SUBJ/ANNOUNCEMENT OF THE UNITED STATES NAVY RECIPIENTS OF DEPARTMENT OF 
+DEFENSE COUNTERINTELLIGENCE AND HUMAN INTELLIGENCE AWARDS// 
+ 
+REF/A/DOC/DIA/S-22-10,081/DO/02AUG22// 
+ 
+NARR/REF A IS A DEFENSE INTELLIGENCE AGENCY OFFICIAL MEMORANDUM FROM ACTING 
+DIRECTOR FOR OPERATIONS ANNOUNCING THE 2021 DEPARTMENT OF DEFENSE 
+COUNTERINTELLIGENCE AND HUMAN INTELLIGENCE AWARD RECIPIENTS.// 
+ 
+RMKS/1.  This naval message announces the U.S. Navy recipients of the 2021 
+Department of Defense (DoD) Counterintelligence (CI) and Human Intelligence 
+(HUMINT) Enterprise Awards and the 2022 Ellis Award. 
+ 
+2.  I would like to announce that U.S. Navy officers, enlisted, and civilians 
+were the recipients of the following prestigious awards: 
+     a.  Steven R. Norton Excellence in Collaboration and Engagement Award, 
+Assigned Command - Defense Intelligence Agency. 
+     b.  HUMINT Overt Collector Individual Award, Assigned Command -  
+Navy Expeditionary Intelligence Command. 
+     c.  HUMINT Mission Support Team Award, Assigned Command -  
+Office of Naval Intelligence. 
+     d.  CI Operations Award Individual Award, Assigned Command -  
+Navy Expeditionary Intelligence Command. 
+     e.  Brigadier General Richard T. Ellis Award for Excellence in HUMINT 
+Collaboration, Assigned Command - J2 Joint Staff Intelligence. 
+ 
+3.  These awards demonstrate the growth and professionalism of the U.S. Navy 
+CI and HUMINT Community and are the result of the hard work and dedication 
+these our personnel put forth each day.  I congratulate this years winners 
+and commend those U.S. Navy personnel and teams that were nominated. 
+ 
+4.  The DoD CI and HUMINT Enterprise Awards Ceremony will be conducted 
+virtually on 23 September 2022 from 1030-1200.  Further details and a link to 
+the ceremony will be disseminated via email directly to the recipients. 
+ 
+5.  Point of contact for this matter is Mr. Stephen Carr, NIA-N3, email: 
+stephen.j.carr.civ(at)us.navy.mil; commercial:  (301) 669-4380. 
+ 
+6.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

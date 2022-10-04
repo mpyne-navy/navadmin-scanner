@@ -1,0 +1,113 @@
+ROUTINE 
+R 031651Z OCT 22 MID200080291603U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 223/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT// 
+ 
+SUBJ/2022 CYBERSECURITY AWARENESS MONTH AND FISCAL YEAR 2023 CYBER AWARENESS 
+CHALLENGE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/301719Z SEP 21// 
+REF/B/MSG/CNO WASHINGTON DC/282139Z OCT 21// 
+REF/C/DOC/SECNAVINST 5239.3C/2MAY16// 
+REF/D/MSG/CNO WASHINGTON DC/061718Z SEP 22// 
+ 
+NARR/REF A IS NAVADMIN 216/21, OCTOBER CYBERSECURITY AWARENESS MONTH. 
+REF B IS NAVADMIN 244/21, FISCAL YEAR (FY) 2022 CYBERSECURITY AWARENESS 
+CHALLENGE.   
+REF C IS SECNAV INSTRUCTION DEPARTMENT OF THE NAVY (DON) CYBERSECURITY 
+POLICY.   
+REF D IS NAVADMIN 201/22, FY23 GENERAL MILITARY TRAINING REQUIREMENTS// 
+ 
+POC/COTTERELL/CIV/OPNAV N2N6D7/TEL:  (703) 695-1858/E-MAIL: 
+DAWN.D.COTTERELL.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN supersedes references (a) and (b), announces October 
+2022 as National Cybersecurity Awareness Month, and provides guidance for the 
+Fiscal Year (FY23) Cyber Awareness Challenge (CAC) training requirement. 
+ 
+2.  Cybersecurity Awareness Month 
+    a.  Cybersecurity is a Navy priority and Commander's business.  Any 
+individual (officer/enlisted/active/reserve/dependent/civilian/contractor) 
+logging on to a Navy information system is immediately on the front lines of 
+the cyber battlespace. 
+    b.  In October, we will share cybersecurity-related content via the 
+Navy's media channels as part of the national campaign for raising 
+cybersecurity awareness.  We are adopting the Cybersecurity and 
+Infrastructure Security Agency's theme of "See Yourself in Cyber."   
+Individuals must make smart decisions at all network access points. 
+    c.  Cyber compliance alone will not keep us safe.  The annual cyber 
+awareness challenge does not equate to automatic defense of our networks.   
+Being cyber ready translates to warfighting and mission readiness. 
+        (1) You MUST follow policy.  You signed the Navy Acceptable Use 
+Policy and completed your annual cyber awareness challenge.  You know what is 
+and is not allowed on our networks.  Follow the rules. 
+        (2) You MUST report.  When something does not look right, report 
+it.  If someone is trying to do something that is not right, report it.  Do 
+NOT accept "this is just the way things are" or "this is not a big 
+deal."  Your Information Systems Security Manager (ISSM) and our 
+cybersecurity professionals are responsible for determining where the 
+reporting stops. 
+    d.  Our adversaries are constantly working to exploit our 
+vulnerabilities.  They have become more competent in challenging us by 
+stealing our data and developing ways to compromise Navy systems and 
+networks, including those that control our ships, aircraft, weapons, and 
+infrastructure.  These incidents have a cost, and put our Sailors and 
+maritime capabilities at risk. 
+    e.  A single user can impact the global force, and vigilance by everyone 
+will make the difference between continued mission success or failure to meet 
+the tasking of our nation.  I appreciate your commitment to keeping the Navy 
+safe by following cybersecurity best practices and policy each and every day 
+of the year. 
+ 
+3.  FY23 Cyber Awareness Challenge (CAC) 
+    a.  Per references (c) and (d), Navy personnel, civilians, and 
+contractors with access to unclassified or classified networks must complete 
+the Department of Defense (DoD) employee version of CAC by 1 September 2023. 
+    b.  Authorized methods for training delivery: 
+        (1) Commands may complete CAC training using instructor-led 
+delivery.  A command designated cyber security professional such as the ISSM 
+or Cybersecurity Workforce Program Manager must provide the instruction, and 
+utilize the course requirement ID set by Commander, Navy Installations 
+Command/Total Workforce Management Service (TWMS) Administration (TWMS 
+Requirement ID:  73944 - FY23 DoD Cyber Awareness Challenge).  This 
+requirement cannot be waived. 
+        (2) TWMS, https://twms/navy.mil/selfservice/login.asp; 
+        (3) Navy e-Learning (NEL), https://learning.nel.navy.mil/; 
+        (4) Defense Information Systems Agency (DISA) website,  
+https://cyber.mil/training/cyber-awareness-challenge/
+        (5) DISA Digital Video Discs (DVDs). 
+    d.  Ships can access the annual training from the NEL application hosted 
+on the Navy Information/Application Product Suite (NIAPS) server, eliminating 
+the need to reach back to shore hosted NEL websites.  The CAC 2023 course is 
+available via the NEL Afloat Learning Management System Pub Amendment 112 for 
+download by the NIAPS Administrator.  If unable to download Learning 
+Management System Pub Amendment 112. 
+    e.  Commanders are accountable for 100 percent completion of their 
+personnel. 
+    f.  Command training officers must validate or manually record training 
+via TWMS or Fleet Training Management and Planning System (FLTMPS)  
+(https://ntmpsweb.ncdc.navy.mil/fltmps/).  Report any discrepancies to the 
+Navy Training Management Planning System Operational Support office at 
+ntmps.support(at)navy.mil or (866) 438-2898/DSN 922-1867. 
+    g.  The Command ISSM is responsible for reporting compliance to meet 
+Federal Information Security Modernization Act of 2014 requirements.   
+Command ISSMs will disable accounts of users who do not complete training by  
+1 September 2023 and maintain non-compliance list of accounts that were 
+disabled. 
+ 
+4.  This NAVADMIN will remain in effect until cancelled or superseded. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

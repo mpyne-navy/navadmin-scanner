@@ -1,0 +1,39 @@
+ROUTINE 
+R 041337Z OCT 22 MID200080298021U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 224/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT// 
+ 
+SUBJ/2022 ASSOCIATION OF OLD CROWS OUTSTANDING NAVY UNIT AWARD WINNERS// 
+ 
+REF/A/DOC/AOC/30JAN22// 
+AMPN/REF A IS THE ASSOCIATION OF OLD CROWS LETTER FOR ANNUAL AWARD 
+NOMINATIONS.// 
+POC/NORTHROP/CTTCM/OPNAV N2N6WT/TEL:  (571)256-8542/EMAIL: 
+JAMES.E.NORTHROP.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  Congratulations to the following commands for their selection as the 
+2022 Association of Old Crows Outstanding Navy Unit Award winners: 
+     a.  Electronic Attack Squadron ONE THREE ZERO(VAQ-130) "Zappers" 
+     b.  USS Bainbridge (DDG 96) 
+     c.  Navy Information Operations Command Whidbey Island 
+ 
+2.  Their contributions to the Information Operations and Electronic Warfare 
+community are significant and noteworthy.  Well done and a hearty 
+congratulations to all for their outstanding efforts! 
+ 
+3.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+ 
+UNCLASSIFIED/ 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
