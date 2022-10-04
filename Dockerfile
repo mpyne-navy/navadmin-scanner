@@ -17,6 +17,7 @@ WORKDIR /opt/navadmin-scanner
 # Bare essentials to build and/or run the web app
 COPY navadmin-viewer.pl      \
      check-file-miscoded.pl  \
+     clean-rmks.pl           \
      navadmin_meta.json      \
      gen-miscoded-files-list \
      fix-miscoded-files      \
