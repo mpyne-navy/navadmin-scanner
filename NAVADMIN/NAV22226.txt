@@ -1,0 +1,127 @@
+ROUTINE
+R 052017Z OCT 22 MID200080315433U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 226/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/JANUARY 2023 CYCLE 258 ACTIVE-DUTY AND TRAINING AND ADMINISTRATION OF 
+THE RESERVES E-7 NAVY-WIDE ADVANCEMENT EXAMINATION//
+
+REF/A/DOC/BUPERS/19SEP18//
+REF/B/DOC/USD(P and R)/08AUG2022//
+REF/C/MSG/CNO WASHINGTON DC/201449ZDEC18//
+REF/D/MSG/CNO WASHINGTON DC/272057ZDEC18//
+REF/E/MSG/CNO WASHINGTON DC/N1/161157ZJUL20//
+
+NARR/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND NAVY RESERVE.  REF B IS USD P and R CONSOLIDATED 
+DEPARTMENT OF DEFENSE CORONAVIRUS DISEASE 2019 FORCE HEALTH PROTECTION 
+GUIDANCE AVAILABLE AT HTTPS://WWW.DEFENSE.GOV/SPOTLIGHTS/CORONAVIRUS-DOD-
+RESPONSE/LATEST-DOD-GUIDANCE/.  REF C IS NAVADMIN 312/18, ADVANCEMENT POLICY 
+UPDATE.  REF D IS NAVADMIN 316/18, ENLISTED ADVANCEMENT WORKSHEET.  REF E IS 
+NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM REVISED 
+BUSINESS RULES//
+
+RMKS/1.  This NAVADMIN announces guidance for the administration of the 
+January 2023 (Cycle 258) E-7 Navy-wide advancement examination for Active 
+Component and Training and Administration of the Reserves Sailors.
+
+2.  Timeline:
+    a.  30 November 2022:  Professional Military Knowledge - Eligibility Exam
+(PMK-EE) completion deadline.
+    b.  19 January 2023:  Exam date - Enlisted advancement worksheets (EAW) 
+will close one week after the exam date on the worksheet.
+    c.  In the event of a requirement to deviate from the single-day 
+administration date, a single-day administration waiver may be requested (up 
+to 31 January 2023) from Navy Personnel Command (PERS-8) in line with 
+reference (a).  Refer to reference (b) for additional details on capacity 
+limits, safety, and mitigation measures in the conduct of exams.
+
+3.  Eligibility requirements are in line with reference (a), and the 
+following information applies for cycle 258:
+    a.  Terminal eligibility date:  1 January 2024.
+    b.  Time-in-Rate (TIR) date:  On or before 1 January 2021.
+    c.  Early Promote (EP) TIR waiver date: on or before 1 January 2022.
+    d.  High-year tenure (HYT) date:  1 September 2023 or later, E-6 HYT 
+waivers must be approved prior to 19 January 2023.
+    e.  Security/Interim security clearance (if required):  Refer to chapter
+2 of reference (a).  All advancement eligible Sailors must have favorable 
+adjudication or update prior to 1 January 2023.
+    f.  Reporting Senior Cumulative Average Performance Mark Average (RSCA 
+PMA).  In line with reference (c), compute RSCA PMA for E-6 evaluations dated 
+from 1 January 2020 to 31 December 2022.
+    g.  Use of EAW is mandatory, in line with reference (d).
+    h.  E-7 PMK-EE remains a general eligibility requirement for all Sailors 
+(regardless of EP TIR waiver status) in line with reference (e), waivers are 
+normally not approved without extraordinary circumstances.
+
+4.  Exam Ordering:
+    a.  Ordering dates and TIR listings for both Sensitive Compartmented 
+Information (SCI) and non-SCI exams can be found on the Navy Enlisted 
+Advancement System (NEAS) website at https://neas.ncdc.navy.mil/.  Select 
+Exam and Ordering Date Chart.
+    b.  Additional SCI exams may be ordered from 
+sfly_cryptologic.products(at)navy.mil.  Order exams in line with reference 
+(a).
+    c.  Non-SCI exams for Sailors not included on the initial TIR list, must 
+be ordered in NEAS Web using a Department of Defense Identification Number.
+Orders submitted after supplemental TIR list closure will result in a 
+substitute exam being sent.
+    d.  Substitute Exams.  The deadline for ordering SCI and non-SCI 
+substitute exams is 31 January 2023.  Naval Education and Training 
+Professional Development Center, Fleet Services Branch (NETPDC N321) is the 
+approval authority.
+    e.  Educational Services Officers (ESOs) should verify placing exam 
+orders within 7-10 days of ordering at *View Previous Exam Orders* link via 
+the NEAS website, and should contact NETPDC N321 as needed for discrepancies.
+    f.  Rating Group separations (change from previous cycles):
+        (1) CTI:  Middle East/North Africa (Group 1), East/Far East (Group 
+2), Latin/South America (Group 3), Eastern Europe (Group 4).
+        (2) EMN, ETN and MMN: Submarine (Group 1), Surface (Group 2).
+        (3) MU:  Premier Band (Group 1), Fleet Band (Group 2).
+
+5.  Exam Administration and Answer Sheet Returns.  Conduct and return in line 
+with chapter 6 of reference (a).  The NEAS website contains an exam tote 
+board that displays status of receiving answer sheets.
+
+6.  Discrepancy Correction:
+    a.  Utilize the Enlisted Advancement Worksheet-Post Examination 
+Administrative Comments (EAW-PAC) process, refer to reference (d).
+    b.  A detailed discrepancy list can be found on the NEAS website.
+
+7.  Any additional information (exam verbatim, exam dates, and other related
+documents) regarding this cycle will be posted on the MyNavy HR advancements 
+site, located at *https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted-Career-Admin/Advancement/* and NEAS websites.
+
+8.  Points of Contact:
+    a.  For general or PMK-EE Mobile questions:  MyNavy Career Center (MNCC) 
+is available 24/7 by phone at 1-833-330-MNCC (1-833-330-6622) or via e-mail 
+at askmncc(at)navy.mil.
+    b.  PMK-EE completion score questions:  ntmps.support(at)navy.mil.
+    c.  SCI exam questions and orders:  (850) 473-5867/DSN 753, 
+sfly_cryptologic.products(at)navy.mil.
+    d.  Non-SCI exam questions and orders:  (850)473-6150/DSN 753, 
+usn.pensacola.netpdc.mbx.netpdc-n321-exam-orders(at)us.navy.mil.
+    e.  EAW-PAC issues, Exam records and discrepancies, administration
+inquiries: (850) 473-6148/DSN 753, usn.pensacola.netpdc.mbx.netpdc-n321-
+discrepancies(at)us.navy.mil.
+
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+10.  Released by RADM J. P. Waters, Acting N1B.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
