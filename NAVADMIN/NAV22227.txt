@@ -1,0 +1,116 @@
+ROUTINE 
+R 061423Z OCT 22 MID200080320364U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 227/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/NOTICE OF CONVENING NAVY RESERVE FY-24 LINE AND STAFF REAR ADMIRAL AND 
+REAR ADMIRAL (LOWER HALF) PROMOTION SELECTION BOARDS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/271415ZSEP19// 
+ 
+AMPN/REF A IS NAVADMIN 220/19, ELECTRONIC SUBMISSION OF LETTERS TO PROMOTION 
+AND SELECTION BOARDS THROUGH MYNAVY PORTAL. 
+ 
+RMKS/1.  The fiscal year (FY) 24 Promotion Selection Boards to recommend Navy 
+officers of the Selected Reserve serving on the Reserve Active-Status List 
+(RASL) in the grades of rear admiral (lower half) and captain Line and Staff 
+Corps for promotion to the grades of rear admiral and rear admiral (lower 
+half) will be convened as follows: 
+       15 NOV 22 - Unrestricted Line Rear Admiral 
+       16 NOV 22 - Unrestricted Line, Public Affairs, Information 
+                   Warfare Community, Supply Corps, Chaplain Corps, 
+                   and Civil Engineer Corps Rear Admiral (lower half) 
+ 
+2.  The following Navy reserve officers as indicated are the senior and 
+junior officers initially eligible for consideration for promotion in each 
+competitive category listed as of the date of this NAVADMIN.  In addition, 
+those reserve officers on the RASL who are senior to the senior initial 
+eligible officer for their respective competitive category are also eligible 
+for consideration. 
+                             Rear Admiral 
+   ------ Unrestricted Line (11X5/13X5) ------ 
+Sr Initial Eligible - Spivey, J. S.             000196-00  01 OCT 20 
+Jr Initial Eligible - Angermann, W. L.          000201-00  01 OCT 20 
+                       Rear Admiral (lower half) 
+         ------ Unrestricted Line (11X5/13X5) ------ 
+Sr Initial Eligible - White, B. M.              120544-00  01 NOV 19 
+Jr Initial Eligible - Wurtz, J. M.              121258-00  01 OCT 20 
+       ------ Public Affairs (1655) ------ 
+Sr Initial Eligible - Johnson, R. R.            120745-00  01 MAY 20 
+Jr Initial Eligible - Murphy, M. W. W.          121231-00  01 OCT 20 
+------ Information Warfare Community (18X5) ------ 
+Sr Initial Eligible - Simonpietri, M. J.        120541-00  01 NOV 19 
+Jr Initial Eligible - Gillooly, J. L.           121192-00  01 OCT 20 
+            ------ Chaplain Corps (4105) ------ 
+Sr Initial Eligible - Loney, T. K.              120205-00  01 JUN 19 
+Jr Initial Eligible - Dieter, M. G.             121270-00  01 OCT 20 
+             ------ Supply Corps (3105) ------ 
+Sr Initial Eligible - Laible, B. E.             120586-00  01 JAN 20 
+Jr Initial Eligible - Higgins, P. M.            121189-00  01 OCT 20 
+        ------ Civil Engineer Corps (5105) ------ 
+Sr Initial Eligible - Coyne, K. M.              120724-00  01 MAY 20 
+Jr Initial Eligible - Kelley, S. M.             121198-00  01 OCT 20 
+ 
+3.  Eligible officers may only communicate with a promotion selection board 
+via the Letter to the Board (LTB) process.  NAVADMIN 220/19 announced the 
+application known as Electronic Submission of Selection Board Documents 
+(ESSBD), accessible through MyNavy Portal (MNP).  ESSBD improves the speed, 
+transparency, and confidence of receipt over other LTB submission methods, 
+such as hard copy and e-mail submitted letters and related attachments, and 
+as such is the preferred submission vehicle. 
+    a.  ESSBD will be available for all promotion, advancement and selection 
+boards. 
+    b.  ESSBD allows board candidates to electronically submit LTBs in a 
+standard, consistent format, with or without attachments, and will allow the 
+candidate to see (for content and clarity) exactly what will be delivered and 
+presented to the board. 
+    c.  To use ESSBD, candidates must access document services through MNP at 
+https://www.mnp.navy.mil/group/my-record.  On-screen instructions will direct 
+follow on actions as necessary. 
+    d.  Submission and subsequent receipt acknowledgement for LTBs submitted 
+via ESSBD or other means does not constitute confirmation of eligibility for 
+the boards to which LTBs are submitted.  If required, a full visual user 
+guide is available at https://www.mnp.navy.mil/group/advancement-and-
+promotion. 
+    e.  LTBs must be received by Navy Personnel Command not later than 2359 
+(central time) 10 days prior to the convening date of the respective 
+board.  Submitters are cautioned not to wait until the deadline date to 
+submit LTBs via ESSBD or other available avenues. 
+Selection To               Convening Date       Due Date / Time 
+Rear Admiral               15 NOV 22            04 NOV 22 / 2359 CT 
+Rear Admiral (lower half)  16 NOV 22            05 NOV 22 / 2359 CT 
+    f.  If sending a board package from a non-NMCI network 
+(bumed.mil, eu.navy.mil, etc.), please review procedures provided in 
+NAVADMIN 220/19. 
+    g.  The written communication may call attention to the board any matter 
+concerning the record of the officer that the officer considers important.  
+ Written communication may include, as enclosures, correspondence from any 
+individual concerning the eligible officer.  Correspondence not originated by 
+the eligible officer, including endorsement to the letter of the eligible 
+officer and letters written on behalf of that officer, must contain a 
+written acknowledgement by the eligible officer that he or she desires such 
+correspondence be presented to the board. 
+Correspondence without such an acknowledgement is considered third-party 
+correspondence and will be returned without being presented to the 
+board.  Classified correspondence will not be accepted.  All officers are 
+reminded it is their responsibility to ensure their personnel records are 
+substantially accurate and complete. 
+ 
+4.  Merit reorder will not be authorized for the subject boards. 
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
