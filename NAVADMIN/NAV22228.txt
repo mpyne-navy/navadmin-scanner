@@ -1,0 +1,86 @@
+ROUTINE 
+R 062115Z OCT 22 MID200080322231U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 228/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE II// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/B/MSG/CNO WASHINGTON DC/011634ZJUN22// 
+REF/C/MSG/CNO WASHINGTON DC/230112ZAUG08// 
+REF/D/MSG/CNO WASHINGTON DC/022009ZDEC19// 
+ 
+NARR/REF A IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY 
+(DMAP).   
+REF B IS NAVADMIN 127/22, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE I 
+UPDATE.   
+REF C IS NAVADMIN 234/08, SEA SHORE FLOW ENLISTED CAREER PATHS.   
+REF D IS NAVADMIN 274/19, SEA SHORE FLOW ENLISTED CAREER PATHS UPDATE. 
+ 
+RMKS/1.  This NAVADMIN announces Detailing Marketplace Assignment Policy 
+(DMAP) Phase II.  Beginning with the December 2022 MyNavy Assignment (MNA) 
+cycle, Active Component Sailors in the following four sea-intensive ratings 
+will be incorporated into DMAP in line with references (a) and (b) as well as 
+additional guidance below: 
+          MM(B130)          IC(B230) 
+          DC(B200)          RS(B730) 
+DMAP Phase I ratings (ABH, ABF, GSM, and CS) continue in DMAP. 
+ 
+2.  Sailors on sea duty in these four DMAP Phase II ratings with projected 
+rotation dates (PRD) on or before 1 December 2023 may opt out of DMAP for 
+their upcoming assignment process and enter the legacy sea shore flow 
+marketplace in line with references (c) and (d) by submitting an Electronic 
+Personnel Action Request (NAVPERS 1306/7) to their detailer, via their 
+command no later than 15 November 2022.  All other Sailors in the four DMAP 
+Phase II ratings will be automatically enrolled in DMAP and have their PRDs 
+updated accordingly. 
+ 
+3.  References (a) and (b) are now applicable to DMAP Phase II ratings. 
+Anywhere guidance is specified for DMAP Phase I ratings will now be read as 
+applying to both Phase I and Phase II ratings. 
+ 
+4.  DMAP program information including quota allocations, Sailor Scoring 
+Criteria (see Distribution Guidance Memorandum 4092-2206), and frequently 
+asked questions can be found at the Detailing Marketplace tab on the MyNavy 
+HR website at https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Enlisted/Detailing-Marketplace/. 
+ 
+5.  To ensure clarity with respect to references (a) and (b), all DMAP 
+Sailors who are not selected for a journeyman (E-5) sea tour or a shore tour 
+after three MNA cycles will have their PRDs adjusted to align with their soft 
+end of active obligated service and remain eligible for continued 
+opportunities in the Marketplace until end of active obligated service. 
+ 
+6.  DMAP Sailors are encouraged to respond to pulse surveys after negotiating 
+for orders in order to help continue to enhance DMAP. 
+ 
+7.  Points of Contact: 
+    a.  For specific rate/rating/Navy enlisted classification questions and 
+concerns, Sailors should contact their respective community manager or 
+detailer. 
+    b.  For general career information, including questions about Detailing 
+Marketplace Incentive Program, Advance-to-Position, Command Advance to 
+Position, or Continuous Sea Duty Credit, contact MyNavy Career Center contact 
+center at 833-330-MNCC (6622) or askmncc(at)navy.mil. 
+    c.  For DMAP questions, contact the MyNavy HR DMAP team at 
+DMAP.fct(at)navy.mil. 
+ 
+8.  This message will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

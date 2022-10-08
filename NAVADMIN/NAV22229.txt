@@ -1,0 +1,131 @@
+ROUTINE 
+R 062125Z OCT 22 MID200080322270U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 229/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/FY-23 SENIOR ENLISTED ADVANCEMENT-TO-POSITION SELECTION BOARD RESULTS 
+AND ROUND TWO WAY AHEAD// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/051745Z AUG 22// 
+REF/B/DOC/BUPERS/19SEP18// 
+ 
+NARR/REF A IS NAVADMIN 178/22, ANNOUNCEMENT OF THE FY-23 SENIOR ENLISTED 
+ADVANCEMENT-TO-POSITION SELECTION BOARD.   
+REF B IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+ 
+RMKS/1.  Congratulations to the following personnel who have been selected 
+for advancement by the first round of the Fiscal Year 2023 Senior Enlisted 
+Advancement-to-Position Selection Board. 
+ 
+2.  Read each line from left to right:  rank, name, and gaining command. 
+ 
+               Active Duty Navy E-8 selects: 
+ABEC Mim H. Robinson Jr. 	CVN 73 GEO WASH 
+ABFC Ray Holland IV. 		LHD 5 BATAAN 
+ABHC Eric M. Martin 		CVN 73 GEO WASH 
+ABHC Kalen W. Willi  		CVN 73 GEO WASH 
+ABHC Matthew A. Beilke        LHD 5 BATAAN 
+ACC William R. Bowman         CVN 73 GEO WASH 
+ADC Kevin P. Johnson		VFA 146 
+AMC John R. Alba        	HSC 6 
+AOC Joshua M. Allen		LHD 5 BATAAN 
+ASC Federico Munoz Jr.        CVN 73 GEO WASH 
+ATC Jason K. Blanchard        VAW 116 
+ATC Ronald O. Harrison        CVN 68 NIMITZ 
+CSC Angel L. Melendez		CVN 73 GEO WASH 
+CSC Victor B. Cruz		DDG 73 DECATUR 
+CSC Calvin E. Brown Jr.       LSD 50 CARTER H 
+CSC Dorrance J. Larson        DDG 93 CH HOON 
+DCC Carlos H. Rodriguez        LPD 19 MESA VERDE 
+DCC Anthony R. Pagliarini	 LSD 50 CARTER H 
+EMC Kristen E. Bowen		 LPD 19 MESA VERD 
+EMC Aldo Rodriguez 		 LSD 50 CARTER H 
+EMC Melissa L. Siewert         CVN 73 GEO WASH 
+EMC Florzeus D. Villanueva	 CVN 73 GEO WASH 
+ENC Anthony J. Benoit		 LPD 19 MESA VERDE 
+ETC Daniel R. Kelley 		 CVN 73 GEO WASH 
+ETC Clifford A. Barman         LPD 19 MESA VERD 
+FCC Kathryn G. Carnes  		 CVN 73 GEO WASH 
+FCC Sean M. Mizner  		 CCSG 11 
+FCC Joshua R. Mitchell         COMDESRON 9 
+GMC Ricardo Lopez 		 CVN 68 NIMITZ 
+GMC Nicolas S. Sutherland	 CVN 73 GEO WASH 
+GSEC Thomas J. Claypool        DDG 108 W MEYER 
+GSMC Miguel M. Noriega         DDG 60 P HAMLTN 
+ITC Chris J. Alegria 		 LPD 19 MESA VERD 
+ITC Christopher D. Johnson	 LPD 19 MESA VERD 
+LSC Nicole A. Weil		 CVN 73 GEO WASH 
+LSC Walter a. Cerdaleal        CVN 73 GEO WASH 
+LSC Yosniel Valdez 		 CVN 73 GEO WASH 
+LSC Anthony M. Rourick         CVN 68 NIMITZ 
+OSC Warren E. Morales		 DDG 60 P HAMILTN 
+OSC Chris E. Shaw			 LHD 5 BATAAN 
+PSC Carlos Rivas 			 LHD 5 BATAAN 
+QMC Sean M. Appelberg          CVN 73 GEO WASH
+ 
+              Active Duty Navy E-9 selects: 
+ABHCS Anthony Jones 		CVN 73 GEO WASH 
+ABHCS Richard C. Aguirre 	CVN 73 GEO WASH 
+AOCS Chad T. McCracken        CVN 68 NIMITZ 
+ATCS Eric J. Rott			CVN 68 NIMITZ 
+ATCS John E. Mickey IV.       CVN 73 GEO WASH 
+AZCS Rogelio Viramontes       CVN 68 NIMITZ 
+CSCS Tatisha A. Loring        CVN 73 GEO WASH 
+DCCS John D. Potter		CVN 73 GEO WASH 
+ENCS Terrance R. Murphy       LPD 19 MESA VERD 
+ETCS Tiffany R. Barber        LHD 5 BATAAN 
+FCCS Jamie A. Harris		LHD 5 BATAAN 
+GSCS Nicholas S. Morin        CVN 68 NIMITZ 
+HTCS James R. Reams		LHD 5 BATAAN 
+ITCS Scott M. Ohrum Jr.       LHD 5 BATAAN 
+ITCS Nina R. Palsis		CCSG 11 
+LSCS Rigo P. Calilung		CVN 68 NIMITZ 
+LSCS Frances C. Estrada       CVN 73 GEO WASH 
+MMCS Ronald D. Guillot Jr.	COMPHIBRON 8 
+MMCS Corey J. Kumpula		LHD 5 BATAAN 
+MMCS Landon K. Miner 		CVN 68 NIMITZ 
+NCCS Jorge P. Carrilloburbano CVN 73 GEO WASH 
+ 
+3.  Selectees should contact their detailer to coordinate orders and any 
+required in-route training.  Frocking is authorized after Selectees have been 
+operationally screened and obligate for service through the projected 
+rotation date listed in their orders but no earlier than 30 days prior to 
+transfer from losing command.  The gaining command will be responsible for 
+permanently advancing Selectees upon reporting for duty following any  
+in-route training. 
+ 
+4.  Round two: 
+    a.  Reference (a) guidance continues to apply as modified below. 
+    b.  In order to maximize selection opportunity, applicants for round two 
+are encouraged to apply to all billets for which they are qualified. 
+    c.  Applicants are encouraged to use the electronic submission selection 
+board documents link via BUPERS online to submit additional correspondence to 
+the selection board.  If your most recent evaluation is not posted to your 
+electronic service record, include it in a Letter to the Board. 
+    d.  Billet options are available now on the MyNavy HR website in line 
+with reference (a). 
+    e.  Timeline: 
+24 OCT 2022:  Application deadline. 
+04 NOV 2022:  Letter to the Board deadline. 
+14-18 NOV 2022:  Selection board. 
+ 
+5.  Points of contact:  CDR Todd Grahek at todd.m.grahek.mil(at)us.navy.mil 
+or HMCM Fernando Gonzalez at fernando.gonzalez90.mil(at)us.navy.mil. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
