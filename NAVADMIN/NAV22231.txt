@@ -1,0 +1,60 @@
+ROUTINE 
+R 121746Z OCT 22 MID600052357941U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+NAVADMIN 231/22 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC 
+ 
+SUBJ/2022 CNO NAVAL HISTORY ESSAY CONTEST WINNERS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/031658MAR22// 
+ 
+NARR/REF A IS NAVADMIN 050/2022 CNO NAVAL HISTORY ESSAY CONTEST. 
+POC/Dr. Peter D. Haynes, Captain, U.S. Navy (Ret.)//LOC: WASHINGTON, 
+DC/EMAIL: peter.d.haynes.civ(AT)us.navy.mil// 
+ 
+RMKS/1.  The Chief of Naval Operations (CNO) announces the winners of the 
+2022 CNO Naval History Essay Contest. 
+ 
+2.  Admiral Gilday announced the annual CNO Essay Contest in reference (a). 
+    a.  Due to the exceptional quality of the essays, judging was again 
+challenging.  Entrants submitted 71 essays: 8 in the Professional Historian 
+category and 63 in the Rising Historian category. 
+    b.  Congratulations to the winners and BZ to all the entrants as the 
+overall quality of this year's essays was superb. 
+ 
+3.  Winners of the 2022 CNO Naval History Essay Contest. 
+    a.  Professional Historian Category: 
+        (1)  First Prize: LtCol Peter Owen, USMC (Ret.) for his essay "Marine 
+Aviation in the Pacific War: The Right Tool to Support the Fleet, But Seldom 
+the Landing Force." 
+        (2)  Second Prize: Mr. Andrew Blackley for his essay "An Object 
+Lesson on Allied Interoperability: The Failure of the 
+ABDA Command, 1942." 
+    b.  Rising Historian Category: 
+        (1)  First Prize: CDR Matt Wright, USN, for his essay "Just in Time 
+Production." 
+        (2)  Second Prize: Maj Dustin Nicholson, USMC, for his essay "Some 
+Principles of Littoral Campaigns - From the Solomons to the Falkland to 
+Today." 
+        (3)  Third Prize: LT Kyle Cregge, USN, for his essay "Avoiding 
+ABDACOM's Annihilation: Lessons for Today from 1942." 
+ 
+4.  Admiral Gilday will recognize the awardees at a ceremony on 25 October 
+2022 in Annapolis, MD. 
+ 
+5.  For questions, please contact Dr. Peter D. Haynes, NHHC: email: 
+peter.d.haynes.civ(AT)us.navy.mil. 
+ 
+6.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

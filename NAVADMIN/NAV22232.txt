@@ -1,0 +1,30 @@
+ROUTINE 
+R 121624Z OCT 22 MID600052357675U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 232/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT// 
+ 
+SUBJ/THIS IS AN UNNUMBERED NAVADMIN// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/R 031651Z OCT 22// 
+REF/B/MSG/CNO WASHINGTON DC/R 031606Z OCT 22// 
+ 
+RMKS/1.  NAVADMIN 223/22 was inadvertently transmitted under two different 
+date-time groups. 
+ 
+2.  Cancel reference (b).  Reference (a) will be used for historical 
+reference. 
+ 
+3.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
