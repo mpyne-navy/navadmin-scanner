@@ -1,0 +1,80 @@
+ROUTINE 
+R 201941Z OCT 22 MID200080382880U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 238/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/UPDATED FY-24 ACTIVE-DUTY LIMITED DUTY OFFICER AND CHIEF WARRANT OFFICER 
+IN-SERVICE PROCUREMENT BOARD// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/31MAY22// 
+AMPN/REF A IS NAVADMIN 125/22, FY-24 ACTIVE-DUTY LIMITED DUTY OFFICER AND 
+CHIEF WARRANT OFFICER IN-SERVICE PROCUREMENT BOARD// 
+ 
+RMKS/1.  This NAVADMIN announces the extension of the application due date 
+provided in reference (a) to 1 November 2022 for all non-nuclear power and 
+nuclear power Active Limited Duty Officer and Chief Warrant Officer (LDO/CWO) 
+candidate who was directly impacted by Hurricane Ian. 
+ 
+2.  Applications must be received by MNCC no later than 1 November 2022.   
+Submit applications via e-mail to cscselboard(at)navy.mil. 
+E-mails must be encrypted using a military e-mail account to protect 
+personally identifiable information (PII).  Applicants who are unable to 
+submit applications as outlined above due to current operational locations 
+may mail their application via USPS to the address listed below.  When 
+mailing PII, individuals must use DD Form 2923 Privacy Act Data Cover Sheet 
+and double wrap the package. 
+DD Form 2923 may be accessed by using the following Web address: 
+https://www.disa.mil/-/media/Files/DISA/About/Privacy-Office/dd2923.pdf.   
+The inner package must be labeled with the privacy warning *CUI - PRIVACY 
+SENSITIVE Any misuse or unauthorized disclosure may result in both civil and 
+criminal penalties* and use a tracking feature.  Correspondence mailed via 
+USPS must use the following address: 
+Navy Personnel Command Customer Service Center (BUPERS-074) 
+President, FY-24 Active Duty LDO/CWO In-service 
+Procurement Board FY-24181 
+5720 Integrity Drive 
+Millington TN 38055 
+    a.  DoD SAFE and Electronic Submission of Selection Board (ESSBD) via 
+BUPERS Online are not supported or authorized means to submit applications or 
+addendums. 
+    b.  Mailed applications must be postmarked no later than 1 
+November 2022.  Addendums to applications must be received no later 
+than 15 December 2022. 
+ 
+3.  Nuclear Power LDO (620X) applications must be sent to the pers- 
+422b_desk.fct(at)navy.mil inbox.  Applications should be scanned and 
+submitted via encrypted e-mail.  Applicants who are unable to submit 
+applications as outlined due to operational commitments must contact the 
+selection board sponsor at nukeldo(at)navy.mil for alternate delivery 
+methods. 
+ 
+4.  Points of contact: 
+    a.  For application/addendum and eligibility questions contact the ISP 
+Board Sponsor at (901) 874-3170/DSN 882, or via e-mail at 
+npc_ldo-cwo_selbd.fct(at)navy.mil. 
+    b.  For general LDO/CWO career path and policy questions contact 
+the LDO/CWO Officer Community Managers at (901) 874-2464/DSN 882, or via 
+email at ldocwoocm.fct(at)navy.mil. 
+    c.  For nuclear-trained Sailor application and eligibility questions, 
+contact the LDO/CWO Nuclear Officer Detailer, at (901) 874-3938/DSN 882, or 
+via e-mail at nukeldo(at)navy.mil. 
+ 
+5.  This NAVADMIN will remain in effect until superseded or 30 September 
+2023, whichever comes first. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
