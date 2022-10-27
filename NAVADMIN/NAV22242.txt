@@ -1,0 +1,60 @@
+ROUTINE
+R 261814Z OCT 22 MID200080395866U
+FM CHINFO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 242/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/OCT//
+
+SUBJ/MILITARY MENTORS FOR UNITED STATES SENATE YOUTH PROGRAM 2023//
+
+REF/A/DOC/OSD/7OCT2023/-/NOTAL//
+
+NARR/Ref A is ATSD memo issuing requesting the services nominate officers to 
+serve as military mentors for the 2023 Senate Youth Program.//  
+POC/Ms. Melissa Heintz/Civ/CHINFO/LOC:  WASHINGTON, DC/TEL:  (703) 614-4283
+/EMAIL:  MELISSA.L.HEINTZ.CIV(AT)US.NAVY.MIL//
+
+RMKS/1.  In support of reference (a), this NAVADMIN issues guidance for 
+officers interested in serving as military mentors in Department of Defense 
+(DoD) 2023 Senate Youth Program.
+
+2.  As specified in reference (a), the DoD is soliciting nominations for 17 
+military officers (O-2 through O-5) to serve as ambassadors of the Armed 
+Forces in support of the 61st Annual United States Senate Youth Program 
+(USSYP) to be hosted during the March 4-11, 2023 timeframe.  This educational 
+experience for outstanding high school juniors and seniors interested in 
+pursuing careers in public service was established in 1962 and is one of the 
+longest standing commitments of the Office of the Secretary of Defense to a 
+national youth program.  USSYP military mentors represent their individual 
+Service components and serve as role models for the 104 USSYP student 
+delegates, two from each state, the District of Columbia, and the Department 
+of Defense Education Activity.  They exemplify the highest standards of 
+decorum and protocol, facilitate inclusive and insightful debate and 
+discussion among the students, and assist USSYP staff with implementation of 
+the program agenda.  Each military mentor is assigned a group of student 
+delegates for the duration of the program, presenting a unique opportunity 
+for these bright and influential young Americans to gain a better 
+understanding of DoD's mission, people, and interrelationship with the other 
+branches of the federal government.  Nominees must be available for all 
+training and program participation, March 2-11, 2023.  Application 
+requirements are specified at https://pa.sp.pentagon.mil 
+/SenateYouthProgram/SitePages/Home.aspx.  The deadline to apply is November 
+11, 2022.  The Office of the Assistant to the Secretary of Defense for Public 
+Affairs will announce military mentor selections by January 6, 2023.
+
+3.  For additional questions pertaining to this NAVADMIN, please contact Ms.
+Melissa Heintz at (703) 614-4283.
+
+4.  Released by RDML R. M. Perry, Chief of Information.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
