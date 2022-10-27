@@ -1,0 +1,223 @@
+ROUTINE
+R 271941Z OCT 22 MID200080398841U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 244/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT//
+
+SUBJ/SELECTION OF APPLICANTS FOR THE FY-23 SEAMAN TO ADMIRAL-21 COMMISSIONING 
+PROGRAM//
+
+REF/A/DOC/OPNAV/14DEC09//
+REF/B/DOC/BUMED/11JUN15//
+
+NARR/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS
+APPLICATION ADMINISTRATIVE MANUAL.   
+REF B IS THE MANMED, NAVMED P-117, CHAPTER 15, PHYSICAL EXAMINATIONS AND 
+STANDARDS FOR ENLISTMENT, COMMISSION, AND SPECIAL DUTY.//
+
+RMKS/1.  This NAVADMIN announces selections for the Fiscal Year (FY)
+2023 Seaman to Admiral-21 (STA-21) program.  STA-21 is the premier
+commissioning source providing the highest levels of education and
+leadership training for our Sailors.  These highly motivated Sailors will be
+among the leaders of our Navy well into the 21st Century.
+The selection board received 265 highly competitive selection packages from
+well-qualified Sailors and 79 outstanding Sailors were selected, making the
+selection this year a challenging task.  Those who applied should be very
+proud of their accomplishments and continue their outstanding performance to
+ensure professional growth and increase their chance of selection in a
+future board.
+Congratulations to all of the selectees!
+
+2.  Selectees are (read name, rate, and option assigned):
+ANOP, SIDNEY COLE                   IT2               SWO
+AQUINO, ALEX MCKENZIE               EMN3              NUCLEAR
+BELL, ALEX KRISTOPHER               EMN3              NUCLEAR
+BELLIN, ZACHARY ADAM                MMN3              NUCLEAR
+BERNALPADILLA, ERICK GILBERTO       EMN3              NUCLEAR
+BERRY, AARON MICHAEL                EMN3              NUCLEAR
+BRAMBILA, JUAN PABLO                AZ1               PILOT
+BRANDT, JENNIFER H                  EMN3              NUCLEAR
+BROADBEAR, SHAWN THOMAS             MMN3              NUCLEAR
+BUNKER, GAVIN P                     ETN2              NUCLEAR
+CALUCAG, REGIENALD ALEJO            CS2               CORE
+CARD, DANIEL DEAN                   ND1               EOD
+CARTER, ELIZABETH BRONWYN           ETN3              NUCLEAR
+CHERRY, ANDREW KYLE                 ETN3              NUCLEAR
+CLARKE, DANA NIELLE                 ETN3              NUCLEAR
+COSICO, ABRAHAM M                   EMN1              NUCLEAR
+CRACOVIA, JUSTIN STANISLAUS         ETN2              NUCLEAR
+DELRIOLANE, DANIEL JOEL             IT1               IP
+DICRISTINA, SHARON LAUREL           DC1               SWO
+DOUGLAS, AISHA MAGRET               HM2               NURSE
+DUFFIELD, NATHAN MICHAEL            STS1              SWO
+DURK, DANIEL STEVEN                 AT1               PILOT
+ELLIOTT, DAVID MATTHEW              MMN2              NUCLEAR
+FRIEDMAN, GABRIELLE LEAH            ETN3              NUCLEAR
+GIBSON, JIREH J                     ETN2              NUCLEAR
+GOODWIN, SAWYER ROBERTSON           ETN2              NUCLEAR
+GUBLER, MAXWELL LARSEN              MMN3              NUCLEAR
+GUTIERREZ, KADEN COLE               ETN3              NUCLEAR
+HAMM, HOLDEN KINDRED                MMN3              NUCLEAR
+HAMP, QUENTIN TYLER                 ETN2              NUCLEAR
+HENDRICKS, TAYLA DEONDRA            IT1               SWO
+HILDEBRAND, MICHAEL LAWRENCE        MMN3              NUCLEAR
+HORNKOHL, JOSHUA RICHARD            AM2               PILOT
+HUMUD-ARBOLEDA, BRYANT              ETN1              NUCLEAR
+HURLEY, VANCE STEVEN                MMN1              NUCLEAR
+JIMENEZ, ROLANDO                    EMN1              NUCLEAR
+JOHNSON, EVAN S                     ETN2              NUCLEAR
+JONES, BRANDON CHARLES              MMN3              NUCLEAR
+KAUTZMAN, JOSHUA PETER              AWR2              NFO
+KEANAAINA, ASHTON ELIJAHKAH         MMN2              NUCLEAR
+KESSLER, JACOB NICHOLAS             ETNC              NUCLEAR
+KIM, PAUL YONG                      ET1               SWO/ED
+KING, DAVID JOSHUA                  EMN3              NUCLEAR
+KOESTLER, NICHOLAS ANDREW           EMN2              NUCLEAR
+KOTO, ANDREA                        MMN2              NUCLEAR
+KRISCHE, PAUL ERICH                 EMN1              NUCLEAR
+LAWRENCE, AUSTIN MICHAEL            SO1               SPECWAR
+LEE, DANIEL H                       ETN3              NUCLEAR
+MARES, SEBASTIAN KRISTOPHER         ETN3              NUCLEAR
+MAYER, JORDAN D                     AWO1              NFO
+MCCRACKEN, KYLE LAUREN              EMN3              NUCLEAR
+MILLER, JOHNATHAN MATTHEWAU         EMN1              NUCLEAR
+MORIN, ALEXANDER DEVAN              EMN2              NUCLEAR
+MORRISON, JACK KELLER               ETN2              NUCLEAR
+MYRIN, MANUEL WILLIAM               MMN2              NUCLEAR
+NEWBY, KELLEN ALEXANDER             MMN3              NUCLEAR
+OCONNOR, PATRICK WILLIAM            MMN1              NUCLEAR
+PERRY, NATHANIEL AVERY              ETN2              NUCLEAR
+PRIVETTE, JACQUELINE L              EMN2              NUCLEAR
+RAMIREZPLASCENCIA, LUIS A           CM1               CEC
+RANDALL, PAUL CRAIG                 EMN3              NUCLEAR
+RECIO, JASMINE A                    MMN2              NUCLEAR
+REYNOLDS, SAMANTHA JEAN             ETN3              NUCLEAR
+ROSA, LANDON CHRISTOPHER            EMN2              NUCLEAR
+SAGY, YARDEN                        MMN3              NUCLEAR
+SALISBURY, SHAYNE CLAYTON           MMN2              NUCLEAR
+SCHACHER, SAMANTHA J                GM2               SWO
+SHAFFER, NATHAN DANIEL              MMN3              NUCLEAR
+STEVENS, BRIAN S                    EMN3              NUCLEAR
+STOKER, JASON BRUCE                 MMN3              NUCLEAR
+STURGIS, JOSEPH RAYMOND             ETN1              NUCLEAR
+SWEAT, BRANDON JACOB                MMN2              NUCLEAR
+THAI, JONATHAN BA                   ETN3              NUCLEAR
+THOMAS, KAYLIN LEANNA               ETN2              NUCLEAR
+THOMPSON, ISAAC TAYLOR              EMN2              NUCLEAR
+TUCKER, LOCKE NATHANIEL             MMN2              NUCLEAR
+WHITNEY, TRAVIS BEXAR               EMN1              NUCLEAR
+WILLIAMS, CORY ALAN                 BM1               CORE
+WORTHEN, JESSE ADAM                 AM1               PILOT
+
+3.  The following personnel were designated as alternates (read name, rate,
+and option assigned):
+BETTS, JUSTUS A                     AG1               CORE
+BOUFFARD, ALEXANDER J               ET2               SWO
+CRANE, WILLIAM DAVID                ND1               EOD
+CRISTI, ROBRAINIER MACASINAG        AT1               NFO
+JOHNSON, JAMARIA TRASHUN            BU2               CEC
+LE, BINH XUAN                       CE2               SWO/ED
+OJUADE, OYINDAMOLA GRACE            CS2               NURSE
+PETERSON, KENDALL LYNN              AC1               PILOT
+RAMOS, VERNON SANTIAGO              IT1               IP
+RICHMOND, SCOTT ALEXANDER           SO1               SPECWAR
+
+4.  Selections are conditional upon the selectee remaining fully eligible in
+all respects, meeting physical qualifications for commissioning as
+determined by the Bureau of Medicine and Surgery (BUMED), and assignment by
+Naval Service Training Command (NSTC) to an approved Naval Reserve Officers
+Training Corps (NROTC) affiliated university based upon an official degree
+plan and acceptance letter from the university.  Upon completion of an NSTC
+approved baccalaureate degree program, selectees will receive appointments
+as Ensigns, USN.
+
+5.  Commanding officers should take the following actions:  Notify selectees
+and alternates of their selection and ensure they receive a copy of this
+message.  Also, notify NSTC N92 Selection and Placement (N92/STA-21) via
+e-mail at GRLK_STA21(at)navy.mil no later than 2 December 2022 of any
+selectee or alternate who does not desire to participate in the program.
+Immediately report to NSTC (N92/STA-21) all conditions or circumstances that 
+may disqualify a selectee or alternate from participating in the STA-21 
+program via e-mail at GRLK_STA21(at)navy.mil.
+
+6.  Selectees and alternates should take the following actions:
+Complete a physical examination for a training program leading to a
+commission in the unrestricted line, nurse corps, or civil engineering
+corps, as applicable, in line with references (a) and (b) at a military 
+treatment facility.  Note that many commissioning standards exceed the 
+enlisted standards required to remain on active duty.
+Ensure copies of completed physicals, Report of Medical History (DD2807-1),
+and Report of Medical Examination (DD2808), including Human Immunodeficiency
+Virus results from a test taken after 1 January 2022, are submitted no later
+than 1 December 2022 to: 
+
+    Commander
+    Naval Service Training Command
+    Attn:  N92/STA-21
+    320A DEWEY AVENUE BLDG 3
+    Great Lakes, IL 60088-2845
+    or via DoD SAFE (https//safe.apps.mil). 
+
+Aviation option selectees/alternates must have flight physicals uploaded
+directly into Aeromedical Electronic Resource Office by a flight surgeon,
+and submitted to Naval Aerospace Medical Institute.
+The selectees/alternates must be certified as qualified or have a waiver
+recommended by Naval Medicine Operation Training Center.  All required
+physical forms can be downloaded from the STA-21 homepage at
+https://www.netc.navy.mil/Commands/Naval-Service-Training-
+Command/STA21/.  Commands should not forward physical forms directly to
+BUMED.  Send acceptance letters from no more than three NROTC host or NROTC
+cross-town affiliated universities to the NSTC address listed above or via
+DoD SAFE. Application to more than one university is advisable.  Selectees
+will begin the STA-21 program with attendance at the Naval Science Institute
+(NSI) in 1 of 2 classes starting on approximately 13 February 2023 or 3
+April 2023 for a 6 week period.  Send an official degree plan from an NROTC
+host or NROTC cross-town affiliated university where they have been
+accepted.  Degree plans must cover the time actually attending college.
+Degree plans of selectees should begin with the summer term 2023.  All
+STA-21 selectees will be required to attend the NSI en-route to their
+assigned university.  Alternates:  Each alternate must complete the same
+actions outlined in paragraph 6 of this message.  If a primary selectee
+declines participation in the program, is determined to be not physically
+qualified, or otherwise becomes ineligible for continuation in the program
+prior to executing orders, a qualified alternate will be selected.  This
+notification often comes at the last minute, therefore, alternates who
+desire participation in the STA-21 program need to be complete with the
+actions listed above when notified.
+
+7.  The deadline for required degree plans and college admission
+documentation is 1 December 2022.  It is in the best interest of each
+selectee and alternate to submit verification of eligibility criteria as
+soon as possible to expedite university assignment and release of permanent
+change of station orders.  Selectees will not be ordered to NSI en-route to
+their assigned NROTC University until all conditions outlined in paragraph 6
+have been met.
+
+8.  The preferred method of delivery of all documents is through DoD SAFE
+utilizing email GRLK_STA21(at)navy.mil (ensure an email with the encrypted
+passphrase is also sent to GRLK_STA21(at)navy.mil).
+Documents can also be mailed to the address above.
+
+9.  Points of contact are:
+    a.  Ms. Rebecca Ludowise, rebecca.a.ludowise.civ(at)us.navy.mil.
+    b.  Mr. Jim Branch, james.r.branch8.civ(at)us.navy.mil.
+    c.  Mr. David Burmeister, david.a.burmeister.civ(at)us.navy.mil.
+
+10.  This NAVADMIN will remain in effect until superseded or canceled,
+whichever occurs first.
+
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
