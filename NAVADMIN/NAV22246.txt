@@ -1,0 +1,127 @@
+ROUTINE 
+R 281339Z OCT 22 MID200080400682U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 246/22 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC//N4//OCT// 
+ 
+SUBJ//NAVY PHYSICAL SECURITY TRAINING AND PROFESSIONAL DEVELOPMENT// 
+ 
+REF/A/DOC/SECNAV/14JUN19// 
+REF/B/DOC/DOD/09APR07// 
+REF/C/DOC/SECNAV/18SEP20// 
+ 
+NARR/REF A IS SECNAVINST 5500.36A, DEPARTMENT OF THE NAVY SECURITY 
+ENTERPRISE. 
+REF B IS DOD 5200.08-R, PHYSICAL SECURITY PROGRAM. 
+REF C IS SECNAVINST 5500.38, SECURITY PROFESSIONAL EDUCATION DEVELOPMENT 
+PROGRAM.// 
+POC/MR. JAMES JOHNSON/OPNAV N4I3/CNO WASHINGTON DC/TEL: (703) 695- 
+5516/DSN: 260-5516/EMAIL: JAMES.A.JOHNSON13.CIV@US.NAVY.MIL// 
+ 
+RMKS/1.  Purpose.  This NAVADMIN provides interim guidance to update 
+requirement, and define responsibilities associated with the development and 
+sustainment of Navy physical security training and professional development 
+as directed by the Vice Chief of Naval Operations in response to the Naval 
+Air Station (NAS) Pensacola shooting investigation. 
+ 
+2.  Background 
+    a.  Per reference (a), Physical Security is part of that security 
+concerned with physical measures designed to safeguard personnel; to prevent 
+unauthorized access to equipment, installations, material, and documents; and 
+to defend against espionage, sabotage, damage, and theft.  Commanding 
+officers have the inherent responsibility to safeguard Navy property inside 
+contiguous and non-contiguous fence lines and other disparately located Navy 
+owned property.  This is accomplished through the employment of a variety of 
+coordination and planning events, site-specific protective measures, and 
+security-in-depth.  The proficiency and skillset of the Navy physical 
+security community is critical to ensuring the corresponding physical 
+security plans and equipment are documented, coordinated, and maintained. 
+    b.  In accordance with reference (a), security is the responsibility of 
+all DON personnel (military, civilian, and contractor) and its proper 
+implementation will be directed by commanders and other leaders at each level 
+of the DON.  It shall be fostered through awareness, education, training, and 
+leadership.  Further, reference (b) directs Services to develop training, 
+qualification, and suitability requirements for dedicated security forces 
+(including contract security forces where employed, security technicians, and 
+physical security specialists).  OPNAV N4, in coordination with the commands 
+listed in paragraph 4 will develop and implement a standardized physical 
+security training and professional development roadmap to ensure commanding 
+officers have the greatest confidence in their staff and personnel are 
+empowered with necessary skills to execute their task. 
+ 
+3.  Policy 
+    a.  All physical security personnel (military, civilian, and contractor) 
+shall complete entry-level physical security training.  This applies to 
+physical security billets by name and billets considered collateral duties 
+performing physical security functions (installation and tenant level). 
+    b.  Navy physical security training will include the fundamental 
+knowledge for conducting surveys, security-in-depth, protection measures, 
+employment of electronic security systems, security planning and cross-
+functional area coordination. 
+    c.  Training will be scalable and made available across various platforms 
+to negate the barriers of travel restrictions or lack of travel funds. 
+    d.  Developed curriculum will be reviewed and updated as needed to remain 
+relevant and aligned with references (a) through (c), applicable higher 
+headquarters directives and guidance, and trending threats. 
+ 
+4.  Responsibilities 
+    a.  Director, Installations Division (N4I) will: 
+        (1) Serve as the Resource Sponsor and Office of Primary esponsibility 
+        to provide oversight, resourcing, and develop requirements, for Navy 
+physical security training and professional development. 
+        (2) Review and validate programming requirements for Navy physical 
+security training and professional development submitted during the Program 
+Objective Memorandum (POM) cycle. 
+    b.  Commander, Navy Installations Command (CNIC) will: 
+        (1) In the role as shore integrator, establish a professional 
+development program for the Navy physical security community. 
+        (2) Develop a professional development roadmap (Entry, Intermediate, 
+and Expert level) and associated training requirements, with guidelines for 
+all military, civilian and contractor personnel occupying a physical security 
+billet. 
+        (3) Incorporate the Navy physical security courses developed by the 
+Navy Education and Training Command (NETC)/Center for Security Forces 
+(CENSECFOR) into the training requirements for personnel assigned physical 
+security responsibilities. 
+        (4) Coordinate with NETC/CENSECFOR and other Service counterparts for 
+the analysis of training and professional development metrics and procedures 
+for continual process improvement. 
+    c.  Commander, Navy Education and Training Command will:  Direct the 
+CENSECFOR to execute the following: 
+        (1) Initiate a requirements review of references (a) through (c) and 
+other applicable higher headquarters guidance and directives to include all 
+available physical security course curricula (DoD, federal government, and 
+private industry best practices, etc.) to acquire a comprehensive 
+understanding of current training methods and innovations. 
+        (b) Develop a continuum of physical security courses that are 
+scalable across multiple training delivery platforms. 
+        (c) Develop training materials and a process for delivering 
+synchronous (certified via proctoring) and asynchronous virtual instruction 
+to meet professional development requirements for Entry, Intermediate, and 
+Expert level physical security specialists. 
+        (d) Review and update training periodically, to remain consistent 
+with higher headquarters guidance and directives. 
+    d.  Commanders, Navy Component Commands and Echelon Two Commands will: 
+        (1) Support development and implementation of the physical security 
+training and professional development roadmap, as required. 
+        (2) Ensure all personnel assigned physical security duties, per 
+subparagraph 3a, adhere to the requirements of this policy. 
+ 
+5.  Applicability.  This message applies to all Navy personnel assigned to 
+the duties of physical security specialists (including physical security 
+officers and/or managers) and charged with protecting Navy 
+installation/activity assets (including afloat, expeditionary, tenant,  
+off-installation and leased property/assets). 
+ 
+6.  Released by VADM R. L. Williamson, CNO N4.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

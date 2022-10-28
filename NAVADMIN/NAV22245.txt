@@ -1,0 +1,55 @@
+ROUTINE 
+R 272043Z OCT 22 MID200080399034U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 245/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/REMOVAL OF REQUIREMENT TO QUALIFY SENIOR IN RATE PRIOR TO ASSIGNMENT OF 
+THE N71Z NEC FOR NUCLEAR TRAINED SAILORS// 
+ 
+REF/A/DOC/OPNAV/6OCT21// 
+ 
+MPN/REF A IS OPNAVINST 1220.1F, CHANGING OR REMOVING NAVY ENLISTED 
+CLASSIFICATIONS CODES FOR NUCLEAR PROPULSION PLANT PERSONNEL.// 
+ 
+RMKS/1.  This NAVADMIN announces a change to the requirements to be assigned 
+the aircraft carrier (nuclear propulsion) Propulsion Plant Local Area Network 
+(PPLAN) administrator Navy enlisted classification (NEC) (N71Z). 
+ 
+2.  Effective immediately, this NAVADMIN removes the requirement for a 
+nuclear trained Sailor to be qualified in their senior-in-rate watch station 
+in line with reference (a) prior to being assigned the NEC N71Z. 
+ 
+3.  The requirements to be assigned the NEC N71Z PPLAN administrator are as 
+follows: 
+    a.  Sailor holds primary or secondary nuclear NEC (N1XO, N2XO, N1XS, or 
+N2XS). 
+    b.  Complete Network Plus or CompTIA A+ certification. 
+    c.  Attend approved naval reactors hands-on training developed by the 
+naval nuclear laboratory. 
+ 
+4.  In line with reference (a), the requirement to submit a Navy Enlisted 
+Classification (NEC) Change Request, NAVPERS 1221/6, to Nuclear Enlisted 
+Community Manager (OPNAV N133D) prior to NEC assignment remains in effect. 
+ 
+5.  Point of contact:  Nuclear Enlisted Programs and Community Manager (OPNAV 
+N133D2A) at (703)604-5492 or e-mail at bullnuke(at)navy.mil. 
+ 
+6.  This message will remain in effect until superseded or 
+cancelled. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSSIFIED//
