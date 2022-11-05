@@ -1,0 +1,86 @@
+ROUTINE
+R 041950Z NOV 22 MID200080418893U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 251/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/PHYSICAL READINESS PROGRAM CALENDAR YEAR 2023 PHYSICAL FITNESS 
+ASSESSMENT CYCLE ANNOUNCEMENT//
+
+REF/A/DOC/OPNAV/22APR22//
+REF/B/DOC/OPNAV/APR21//
+REF/C/DOC/OPNAV/FEB22//
+REF/D/DOC/BUPERS/01DEC21//
+REF/E/DOC/OPNAV/JAN22//
+
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM INSTRUCTION.   
+REF B IS NAVY PHYSICAL READINESS PROGRAM GUIDE 4, BODY COMPOSITION 
+ASSESSMENT.   
+REF C IS NAVY PHYSICAL READINESS PROGRAM GUIDE 5, PHYSICAL READINESS TEST.  
+REF D IS BUPERSINST 1610.10F, NAVY PERFORMANCE EVALUATION SYSTEM.   
+REF E IS NAVY PHYSICAL READINESS GUIDE 8, MANAGING PFA RECORDS FOR PREGNANT 
+SAILORS//
+
+RMKS/1.  This NAVADMIN announces a single Physical Fitness Assessment (PFA) 
+Cycle for calendar year (CY) 2023.
+
+1.  CY23 PFA Cycle.  The PFA cycle will be conducted from 1 February to 30 
+November 2023 in line with references (a) through (c).
+Additional Physical Readiness Guides are located at:
+https://www.mynavyhr.navy.mil/Support-Services/21st-Century-
+Sailor/Physical-Readiness/Guides/.  CY23 PFA cycle will be labeled *PFA Cycle 
+1 2023* in PRIMS-2.
+    a.  CFLs and Assistant CFLs (ACFL) will enter official CY23 PFA cycle 
+results under this label in PRIMS-2 and retain official body composition 
+assessment and physical readiness test score sheets for five years in line 
+with reference (a).  CFL and ACFLs are reminded to log into their PRIMS-2 
+account every 30 days to keep their account from being deactivated.
+    b.  Sailors have access to their physical readiness historical data 
+through MyNavy Portal, My Records and will electronically submit their 
+Physical Activity Risk Factor Questionnaire via MyNavy Portal upon receiving 
+their commands 10-week notification.
+    c.  There will be no excellent or above incentive exemption for CY23.  In 
+line with reference (a), commanders, commanding officers, and officers-in-
+charge are encouraged to use incentive programs for the physical readiness 
+program (special liberty, award certificates, etc.).
+    d.  Fitness Report and Evaluation Guidance.  In line with reference (d), 
+commands should enter a 1-letter code indicating the result of each official 
+PFA conducted during the reporting period in block 20.  Format for block 20 
+must be from oldest to most recent PFA performed during the reporting period.
+
+2.  Responses to Fleet Feedback.  The following items are provided for 
+clarification to frequently asked questions:
+    a.  CY22 PFA Closeout.  CFLs must enter PFA data by 30 November
+2022 in PRIMS-2.
+    b.  Postpartum Sailors.  In line with references (a) and (e), Sailors 
+remain in a pregnancy status from the time pregnancy is confirmed by a 
+military Health Care Provider (HCP) or civilian HCP until the end of the 12 
+months following a qualifying birth event.
+Sailors with pregnancy (postpartum) status which expires during the official 
+PFA cycle are exempt from participation in the PFA cycle.
+
+3.  For additional information, members may contact the Physical Readiness 
+Program Office:
+    a.  For policy related questions via e-mail at PRP(at)navy.mil.
+    b.  For PRIMS-2 related questions via e-mail at PRIMS(at)navy.mil.
+    c.  For policy or PRIMS-2 related questions via phone at (901) 874-2210/ 
+DSN 882.
+
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
