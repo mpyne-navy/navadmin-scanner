@@ -1,0 +1,53 @@
+ROUTINE 
+R 071751Z NOV 22 MID200080423693U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 252/22 
+ 
+SUBJ/ORDERING STOCK FORMS THROUGH DATA SERVICES ONLINE 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/OCT// 
+ 
+1.  As of 1 October 2021, Defense Logistics Agency (DLA) Document Services no 
+longer accepts Military Standard Requisitioning and Issue Procedures 
+(MILSTRIP) requisitions for stock forms, such as tags, cards, handbooks and 
+certificates, which consist of National Item Identification Numbers (NIIN) 
+beginning with LF. 
+The new Joint Forms Online (JFOL) powered by DLA Document Services Data 
+Services Online (DSO) website is not compatible with MILSTRIPs. Requisitions 
+submitted for LF NIINs since 1 October 2021 have not been processed. 
+ 
+2.  The Fleet has been advised to order stock forms through the DSO website 
+using their Government Purchase Card or through Military Interdepartmental 
+Purchase Requests (MIPRs) (DD Form 448 MIPR) or DD Form 282 (DoD Printing 
+Requisition/Order) located at https://www.esd.whs.mil/directives/forms/. 
+If near deployment, Fleet customers are advised to over-order items that may 
+deplete before returning to port. Contact DSOs Customer Support Center at 
+contact.docsvcs@dla.mil or 1-866-736-7010 for expedited delivery. The JFOL 
+user guide may be accessed at https://dso.dla.mil/dsf/JFOL_USER_GUIDE.pdf. 
+ 
+3.  A DLA task group is being established to explore potential courses of 
+action to better streamline the ordering process. In the meantime, all 
+commands that placed orders with MILSTRIPs after 1 October 2021 must cancel 
+those orders immediately and place a new order through the DSO website 
+(https://dso.dla.mil/DSF/SmartStore.aspx). 
+ 
+4.  Points of contact: 
+    a.  Mr. Bobby Branscum, JFOL Program Manager with DLA Document Services, 
+at Bobby.Branscum(AT)dla.mil. 
+    b.  Mrs. Sonya Martin, DON Forms Manager and Information Management 
+Control Officer, at Navy_FMO-IMCO_inquiry(AT)us.navy.mil. 
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
