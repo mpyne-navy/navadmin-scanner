@@ -1,0 +1,39 @@
+ROUTINE 
+R 171701Z NOV 22 MID600052466476U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 256/22 
+ 
+INFO CNO WASHINGTON DC //N1// 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/NOV// 
+ 
+SUBJ/247TH CHAPLAIN CORPS ANNIVERSARY MESSAGE// 
+ 
+RMKS/1.  On 28 November 1775, the Continental Congress directed that 
+divine services be held aboard all naval ships. In this act, the 
+Founders recognized the importance of the spiritual in the readiness 
+of Sailors and Marines. The spiritual readiness of Naval Service 
+personnel for the rigors of service and the test of conflict is just 
+as important today as it was 247 years ago. 
+ 
+2.  The men and women of the Chaplain Corps continue that work today. 
+At sea, ashore, and in the field, our chaplains are always there, 
+always seeking the good of those they serve. Thank you for your 
+legacy of care to our people. 
+ 
+3.  Happy 247th birthday, Chaplains! 
+ 
+4.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+Rear Admiral Gregory Todd, Chief of Chaplains.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

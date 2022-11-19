@@ -1,0 +1,79 @@
+ROUTINE 
+R 171731Z NOV 22 MID600052476609U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 257/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/EXECUTIVE OFFICER APPLICATIONS BEING ACCEPTED BY NAVY FLIGHT 
+DEMONSTRATION SQUADRON (BLUE ANGELS) FOR 2024-2025 SHOW SEASONS// 
+ 
+REF/A/DOC/CNATRA/18DEC20// 
+ 
+AMPN/REF A IS CNATRAINST 1301.4N, APPLICATION PROCEDURES AND QUALIFICATIONS  
+FOR OFFICERS OF THE NAVY FLIGHT DEMONSTRATION SQUADRON (BLUE ANGELS).// 
+ 
+RMKS/1.  The United States Navy Flight Demonstration Squadron (Blue Angels) 
+will select one executive officer (both Navy and Marine Corps officers are 
+encouraged to apply) for the 2024-2025 show seasons. 
+ 
+2.  Interested officers should submit applications in line with reference (a) 
+by 31 January 2023.  All applicants will contact their detailer or monitor 
+prior to applying to ensure adequate timing to complete a 2-year tour.   
+Manpower Management Officer Assignments (MMOA) will release a separate Marine 
+administrative change that outlines Marine applicant eligibility 
+requirements. 
+ 
+3.  Qualifications.  Executive officer applicants must be naval aviators or 
+naval flight officers with the rank of commander or lieutenant colonel and 
+should have approximately 1,750 flight hours. 
+Applicant selection criteria include demonstrated professional performance 
+and reputation, ability to serve as an ambassador of the Navy and Marine 
+Corps to public and international audiences, cohesiveness with other team 
+members who travel 300 days per year, with an additional heavy emphasis on 
+leadership, judgement, moral character, experience, and confidence. 
+ 
+4.  Reference (a) delineates application procedures. 
+    a.  Applications submitted via mail through 31 December 2022 should be 
+sent to: 
+     Commanding Officer 
+     Navy Flight Demonstration Squadron 
+     ATTN:  LCDR Chris Kapuschansky 
+     390 San Carlos Road, Suite A 
+     Pensacola, FL 32508-5508 
+    b.  Applications submitted via mail from 1 January 2023 through 
+31 January 2023 should be sent to: 
+     Commanding Officer 
+     Navy Flight Demonstration Squadron 
+     ATTN:  LCDR Chris Kapuschansky 
+     Naval Air Facility El Centro 
+     1605 Third Street 
+     Hangar 5 
+     El Centro, CA 92243 
+    c.  Applications may also be delivered in person through the application 
+deadline. 
+ 
+5.  For additional information, visit the Blue Angels website at 
+https://www.blueangels.navy.mil/ or contact the Blue Angels Applicants 
+Officer, LCDR Chris Kapuschansky, in Pensacola, FL at (850)452-2585/DSN 922 
+or El Centro, CA (January through Mid-March) at (760)339-2509/DSN 658 or via 
+e-mail at christopher.j.kapuschansky.mil(at)us.navy.mil. 
+ 
+6.  Final selections will be made no later than 31 May 2023. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or canceled. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//

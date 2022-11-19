@@ -1,0 +1,54 @@
+ROUTINE 
+R 171958Z NOV 22 MID200080475889U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 259/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/PUBLICATION OF BUPERSINST 1610.10F (EVALMAN) CHANGE ONE (CORRECTED 
+COPY)// 
+ 
+REF/A/DOC/BUPERS/1DEC21// 
+AMPN/REF A IS BUPERSINST 1610.10F, NAVY PERFORMANCE EVALUATION SYSTEM. 
+ 
+RMKS/1.  This NAVADMIN announces changes to reference (a), which are being 
+implemented as change 1.  File this NAVADMIN with reference (a) and implement 
+these changes effective immediately. 
+ 
+2.  Summary of Changes: 
+    a.  Modifies Table 1, page 9 of enclosure 1 to include *in no case, 
+however, should a total report period exceed 15 months without Bureau of 
+Naval Personnel (PERS-32) approval.* 
+    b.  Modifies the officer competitive category by adding 68xx under 
+Reserve limited duty officer or chief warrant officer to the officer (Line). 
+    c.  Modifies the officer competitive category by moving aviation (73xx) 
+to a new and separate line under submarine or nuclear (72xx/740x) under 
+Active chief warrant officer. 
+    d.  Includes the requirement for reporting seniors to add, in 
+addition to their address, their phone number in block 48 (evaluation) or 
+block 44 (fitness report and chief evaluation) to assist Commander, Navy 
+Personnel Command in making inquiries concerning the report. 
+    e.  Clarifies for officer and enlisted, if a detachment of reporting 
+senior reports are submitted, the reporting senior must submit reports on all 
+personnel in the same paygrade who are normally evaluated by that reporting 
+senior. 
+    f.  Includes the option for a Service Member to request for an immediate 
+superior in command review of a performance evaluation. 
+ 
+3.  For questions concerning these policy changes, contact the MyNavy Career 
+Center at (833) 330-6622 or via e-mail at askmncc(at)navy.mil. 
+ 
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+UNCLASSIFIED//
