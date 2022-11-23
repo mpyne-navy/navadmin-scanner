@@ -1,0 +1,86 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 231648Z NOV 22 MID200080505480U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 262/22 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/NOV/ 
+ 
+SUBJ//UNIFORM NATIONAL DISCHARGE STANDARDS IMPLEMENTATION NOTIFICATION// 
+ 
+REF/A/DOC/DOD/25OCT22// 
+REF/B/DOC/OPNAV/25JUN21// 
+ 
+NARR/REF A IS DOD MANUAL 4715.06, VOLUME 4, REGULATIONS ON VESSELS OWNED OR 
+OPERATED BY THE DEPARMENT OF DEFENSE: DISCHARGES INCIDENTAL TO NORMAL 
+OPERATIONS.  REF B IS OPNAV MANUAL 5090.1, ENVIRONMENTAL READINESS PROGRAM 
+MANUAL.// 
+ 
+RMKS/1.  This NAVADMIN announces the implementation of Uniform National 
+Discharge Standards (UNDS), Batch 2. 
+ 
+2.  Background 
+    a.  As of 25 October 2022, Navy vessels (United States Ship (USS), United 
+States Naval Service (USNS), combatant craft, service craft, boats, and any 
+other artificial contrivance) are required to comply with both existing UNDS 
+Batch 1 standards and the standards for the following new eleven UNDS Batch 2 
+discharges: 
+        (1) Catapult Water Brake Tank and Post-Launch Retraction Exhaust 
+        (2) Controllable Pitch Propeller Hydraulic Fluid 
+        (3) Deck Runoff 
+        (4) Firemain Systems 
+        (5) Graywater 
+        (6) Hull Coating Leachate 
+        (7) Motor Gasoline and Compensating Discharge 
+        (8) Sonar Dome Discharge 
+        (9) Submarine Bilgewater 
+        (10) Surface Vessel Bilgewater/Oil-Water Separator Effluent 
+        (11) Underwater Ship Husbandry 
+    b.  The UNDS Batch 1 and Batch 2 requirements can be found at 
+https://www.esd.whs.mil/dd/, in reference (a).  Batch 1 UNDS requirements can 
+also be found in reference (b). 
+    c.  Existing Navy operations should already be in compliance with most of 
+the Batch 2 discharge standards through the use of current systems and 
+practices.  However, the new requirements will impose some additional 
+reporting, information logging, and record-keeping responsibilities. 
+    d.  Vessels that inadvertently make a discharge that does not comply with 
+the UNDS standards must submit an UNDS non-compliance report within five 
+calendar days.  Use the UNDS Non-Compliance Report format found in reference 
+    (b), Appendix C-4 and provide an information copy the appropriate Navy 
+Regional Environmental Coordinator (REC) where the vessel is homeported.  If 
+the inadvertent UNDS discharge contained oil or fuel, then an Oil Spill 
+Report will also be required. 
+    e.  UNDS regulations are federal regulations, based on the federal Clean 
+Water Act and in conformance with the Coastal Zone Management Act.  It is 
+imperative that all Navy vessels are in full compliance with these 
+requirements, as failure to comply could result in civil actions against the 
+Navy. 
+    f.  The UNDS requirements supersede any standards currently in place for 
+a state or locality, and provide a single set of discharge standards 
+nationwide.  Attempts by a state or locality to apply additional state or 
+local regulations or permits to these discharges must be reported to the 
+appropriate Navy REC. 
+    g.  United States Coast Guard or state officials have the authority to 
+enforce UNDS requirements.  If such officials request access to vessels or 
+records, follow the procedures in reference (b), Chapter 35 and coordinate 
+with the appropriate Navy REC. 
+ 
+3.  Actions.  Commander, U.S. Fleet Forces (USFF) and Commander, Pacific 
+Fleet(COMUSPACFLT) promulgate to type commanders and all ships and 
+submarines. 
+Commander, Navy Installations Command (CNIC) promulgate to all installations 
+with small boats and to all Navy RECs.  All other echelon 2 commands, and 
+Office of Naval Research (ONR), promulgate to appropriate subordinate 
+commands. 
+ 
+4.  Released by VADM Ricky Williamson, N4.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
