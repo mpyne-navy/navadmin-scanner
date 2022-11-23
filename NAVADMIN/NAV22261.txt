@@ -1,0 +1,177 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 221631Z NOV 22 MID200080490292U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 261/22
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/SENIOR ENLISTED MARKETPLACE - E-9 BILLET BASED ADVANCEMENT//
+
+REF/A/DOC/BUPERS/020722//
+
+REF/B/DOC/COMNAVPERSCOM/110718//
+
+REF/C/DOC/COMNAVPERSCOM/050818//
+
+NARR/REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.  REF B IS MILPERSMAN 1306-
+1700, AVAILABILITY PROCESSING - GENERAL INFORMATION.
+REF C IS MILPERSMAN 1160-120, HIGH YEAR TENURE.//
+
+RMKS/1.  This NAVADMIN announces the Navy*s new Senior Enlisted Marketplace 
+(SEM) for Active Component (AC) Sailor advancement to master chief.  This is 
+the first phase in a process that will ultimately include all chief petty 
+officers and is a fundamental change in how the Navy advances senior enlisted 
+leaders.  In this first phase, all eligible E-8s, with the exception of those 
+listed in paragraph 2, will be screened (not selected) by an E-9 board.
+Those who successfully screen will not be automatically advanced, but will be 
+given the opportunity to apply for an E-9 position.  To advance to E-9, 
+successfully screened E-8s must be matched to an E-9 position via MyNavy 
+Assignment (MNA), obligate to serve the prescribed tour length, complete any 
+in-route training, and actually report to the E-9 billet.  In line with 
+reference (a), candidates must have their commanding officer*s recommendation 
+to advance and must meet normal time in rate requirements.
+
+2.  This NAVADMIN does not apply to the Command Senior Enlisted Leader 
+Program, Submarine Force, Surface Nuclear, Musician, Naval Special Warfare 
+(SO and SB), or Reserve Component Sailors.  Sailors in these communities will 
+continue to be advanced and detailed via legacy processes.
+
+3.  Screening board.  The SEM E-9 screening board will operate in the same 
+manner as the legacy E-9 selection board, with the exception that it will 
+provide a list of E-8s eligible to apply for
+E-9 positions and will identify up to the top 15% of screened E-8s as merit 
+screened.  Following the SEM E-9 screening board, a NAVADMIN will announce 
+the results with a full listing of those screened and will indicate those 
+that are merit screened with an asterisk next to their names.
+    a.  Merit screened Sailors are those E-8s whose records contain 
+documented sustained performance consistently superior to the performance of 
+other Sailors screened for advancement by the board.
+Merit screened Sailors will be given numerical advantage in the Sailor 
+scoring criteria used to determine E-9 assignments (described
+below) and will receive *concierge detailing*.  Specifically, merit screened 
+Sailors will be contacted by their detailer if they are not being recommended 
+for selection to one of their top two E-9 job preferences during an MNA 
+cycle.  In this conversation, merit screened Sailors may (1) agree to a lower 
+preference E-9 assignment,
+(2) agree to another E-9 assignment not previously on their list of 
+preferences, or (3) turn down lower priority orders in order to participate 
+in future MNA cycles within their 24 months of eligibility.
+
+4.  Marketplace.  Beginning with the August 2023 MNA cycle, both current E-9s 
+in their detailing window and those E-8s successfully screened at the SEM E-9 
+screening board will be able to apply and compete for E-9 jobs.  Current E-9s 
+will continue to enter the SEM based on existing MNA business rules.  All 
+screened E-8s may enter the SEM to apply for an E-9 position during an MNA 
+cycle within the first 24 months following the announcing NAVADMIN.  Screened 
+E-8s outside of the normal projected rotation date (PRD) window will have 
+their PRDs manually adjusted by PERS-4 to allow access to MNA in line with 
+para 4.a below, but will not transfer before completing a minimum of 12 
+months onboard their current command.
+    a.  MNA cycles.  Between May and July of each year, screened E- 8s will 
+not be allowed to participate in the MNA marketplace as
+PERS-8 conducts retention and advancement eligibility reviews for newly 
+screened E-8s and those remaining screened E-8s who were not matched to an E-
+9 position in the first year of their eligibility.
+Because there are five MNA cycles per year that are outside of the May to 
+July window (August, October, December, February and April), each screened E-
+8 will have any of ten MNA cycles to be matched to an E-9 assignment during 
+their 24 months of eligibility. If not aligned to an E-9 assignment after 24 
+months (10 MNA cycles), the member will lose their screened status and be 
+detailed as an E-8 at their PRD per current detailing policies.  In such a 
+case, the member will be reconsidered at the next E-9 screening board if they 
+continue to meet all eligibility requirements.
+    b.  Sailor Scoring Criteria.  The SEM is competitive.  As such, current 
+E-9s and screened E-8s will be evaluated utilizing weighted elements from a 
+paygrade specific Sailor Scoring Criteria (SSC) to compare Sailor attributes 
+in light of job requirements to determine who is recommended for each 
+available job.  For each job, detailers will use the SSC to select the 
+highest ranked eligible Sailor, with any exceptions approved by PERS-4.  Once 
+matched to a billet requirement, current E-9s and screened E-8s are required 
+to obligate service for the prescribed tour length set forth in their PCS 
+orders prior to detaching from their current command.  The SSC will be 
+available on the Detailing Marketplace website:
+(https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Enlisted/Detailing-Marketplace/) by 30 November 2022.
+    c.  There are three marketplace outcomes that can occur for screened E-
+8s:
+        (1) Matched to an E-9 position:  After passing all required 
+screenings and obligating service for the prescribed tour length, the member 
+can be frocked as early as 30 days prior to transfer and will permanently 
+advance to E-9 upon reporting to the E-9 billet following completion of any 
+required schools.  To ensure that Sailor outcomes are aligned with SEM 
+orders/obligations, there will be no type commander manning actions (such as 
+cross-decks, diverts or temporary additional duty) for Sailors assigned via 
+the SEM unless deemed absolutely essential by the applicable Fleet N1.
+       (2) Choose another E-8 assignment:  Sailors within their PRD window 
+who choose to be matched to another E-8 position will lose their screened 
+status at that point, but will be reconsidered by the next SEM E-9 screening 
+board if they retain all eligibility requirements.
+       (3) Not matched to a follow-on position during the first year:  Upon 
+passing the PERS-8 performance eligibility review (May- June), these Sailors 
+will maintain their screened status (including Merit Screened status if 
+applicable) for an additional year and will be automatically added to the 
+next SEM E-9 screening board announcement NAVADMIN (in a separate section).  
+These Sailors may then participate in the following August through April MNA 
+cycles, but may need to request a PRD shift with PERS-4, via NAVPERS 1306/7, 
+Electronic Personnel Action Request.
+    d.  Exceptions and limitations:
+        (1) If a Sailor is unable to report to their E-9 assignment, the 
+Sailor*s command must contact PERS-4 immediately, and if applicable, make the 
+Sailor *unavailable* to their detailer as prescribed in reference (b).  Once 
+the Sailor*s status is resolved, the Sailor can continue tracking to the 
+original E-9 assignment, if available.  If the original assignment is no 
+longer available, the Sailor and their command must work with the detailer to 
+determine a course of action for follow-on E-9 assignment.  Otherwise, the 
+Sailor will enter the E-8 marketplace per current detailing policies.
+        (2) E-8 Sailors who are already under orders to an E-8 billet when 
+the SEM screening message is released will normally execute those orders and 
+serve at least one year at the gaining command. In all other cases, the 
+screened E-8 will normally enter the E-9 SEM.
+        (3) Special and Incentive Pays.  Screened E-8s receiving Special Duty 
+Incentive Pay (SDIP) will continue to receive it if they continue to serve in 
+an SDIP eligible billet upon advancement to E-9.  If not yet receiving SDIP 
+when advanced to E-9, Sailors are not eligible to start SDIP until completion 
+of their service obligation for the E-9 position.
+        (4) High Year Tenure (HYT).  E-8 Sailors approaching their HYT length 
+of service (LOS) gate remain advancement eligible unless precluded by policy 
+contained in references (a) and (c).  Screened E-8s who actively participate 
+in the marketplace, will have their HYT LOS gate suspended, as applicable, 
+but not to exceed 24 months, unless otherwise waived in line with reference 
+(c).
+        (5) Advancement Recommendation.  As with other enlisted advancement 
+programs, advancement via the SEM process is conditional on the commanding 
+officer*s recommendation for advancement.
+
+5.  Additional details will be posted on the Detailing Marketplace website 
+(https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Enlisted/Detailing-Marketplace/).
+
+6.  Point of contact:  MyNavy Career Center: askmncc(at)navy.mil or 1-833-
+330-MNCC (6622).
+
+7.  This NAVADMIN will remain in effect until superseded or canceled.
+
+8.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
