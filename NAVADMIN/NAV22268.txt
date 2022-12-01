@@ -1,0 +1,56 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 301845Z NOV 22 MID200080535489U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 268/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/NOV// 
+ 
+SUBJ/NAVY ORGANIZATION MANAGEMENT - STANDARD NAVY DISTRIBUTION LIST// 
+ 
+REF/A/DOC/13 OCT 11// 
+REF/B/DOC/09 SEP 22// 
+ 
+AMPN/Reference A is OPNAVINST 5400.44A Organization Change Request 
+Instruction (currently under revision).  
+Reference B is the Standard Navy Distribution List.// 
+ 
+RMKS/1.  Purpose. To announce the update and revision to the Standard Navy 
+Distribution List (SNDL) OPNAVINST 5400.45A and new location of the SNDL 
+references. 
+ 
+2. The SNDL OPNAVINST 5400.45A main instruction remains posted to 
+Department of the Navy Issuances website. Starting December 2022, the 
+SNDL references will be accessible via the DNS-12 SharePoint website 
+located at: https://flankspeed.sharepoint-
+mil.us/sites/OPNAV/DNS/DNS1/DNS12/SitePages/Home.aspx. SNDL sections are 
+located within the Documents Library of the SharePoint website. 
+ 
+3. The transfer of the SNDL references to SharePoint is intended to 
+provide DON members up to date changes as revisions are conducted 
+within the document library. SharePoint documents provide near real- 
+time updates to the SNDL and will remove latency previously identified. 
+ 
+4. The OPNAVINST 5400.44A Organization Change Requests (OCR) instruction 
+is still in revision and anticipated release for early 2023. 
+ 
+5.  For questions or concerns regarding OCRs and SNDL updates or issues 
+with the new SharePoint site, please contact the Navy Organization 
+Management Team at dns12navyorgmgt(at)us.navy.mil. 
+ 
+6.  Applicability. This change affects all DON members who access and 
+utilize the SNDL. 
+ 
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
