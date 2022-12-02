@@ -1,0 +1,57 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 011554Z DEC 22 MID200080540216U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 269/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTION DC/N1/DEC//
+
+SUBJ/MANDATORY TRAINING FOR RECORDS MANAGEMENT AND CONTROLLED UNCLASSIFIED 
+INFORMATION//
+
+REF/A/DOC/SECDEF/MEMO/28OCT22//
+REF/B/MSG/OPNAV/061718ZSEP22//
+
+NARR/REF A IS DOD MEMORANDUM, TRAINING AND RECORDS SCHEDULING TO IMPROVE DOD 
+RECORDS MANAGEMENT AND CONTROLLED UNCLASSIFIED INFORMATION HANDLING.   
+REF B IS NAVADMIN 201/22, FISCAL YEAR 2023 GENERAL MILITARY TRAINING 
+REQUIREMENTS//.
+
+RMKS/1.  As directed in reference (a), all personnel must complete records 
+management and controlled unclassified information (CUI) training no later 
+than 15 January 2023.  Commands may provide this training online or in 
+person.  Specific training required:
+    a.  Records Management in the DON:  Everyones Responsibility
+(CIN:  DOR-RM-010-1.2).
+    b.  DoD Mandatory Controlled Unclassified (CUI) Training (CIN:
+TWMS-686564 or JS-US082).
+
+2.  Training is available on the MyNavy Portal General Military Training 
+website at https://www.mnp.navy.mil/group/general-skills-
+training/gmt/.
+
+3.  Commands will ensure completed training is documented in Fleet Training 
+Management and Planning System.
+
+4.  Point of contact is LCDR Jonathan Greenberg, Education and Training 
+Branch (OPNAV N13M7T), jonathan.d.greenberg.mil(at)us.navy.mil.
+
+5.  This NAVADMIN supersedes the records management and CUI training 
+requirement of reference (b) and will remain in effect until superseded or 30 
+September 2023, whichever occurs first.
+
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

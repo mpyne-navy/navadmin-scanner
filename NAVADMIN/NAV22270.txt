@@ -1,0 +1,567 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 011936Z DEC 22 MID200080541078U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 270/22
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/NOTICE OF CONVENING FY-24 ACTIVE-DUTY NAVY PROMOTION SELECTION BOARDS//
+
+REF/A/DOC/SECNAVINST 1420.3/28MAR2019//
+
+RMKS//1.  This NAVADMIN announces the notice of convening Fiscal Year (FY) 
+2024 promotion selection boards.  The FY-24 promotion selection boards to 
+recommend officers in the line and staff corps and chief warrant officers on 
+the active-duty list for permanent promotion to the grades of captain, 
+commander, lieutenant commander, and chief warrant officer will be convened 
+as follows: 
+
+     11 JAN 2023 - Unrestricted/Restricted Line Captain
+     7 FEB 2023 - Staff Corps Captain
+     14 FEB 2023 - Unrestricted/Restricted Line Commander
+     1 MAY 2023 - Staff Corps Commander
+     1 MAY 2023 - Staff Corps Lieutenant Commander
+     8 MAY 2023 - Unrestricted/Restricted Line Lieutenant Commander
+     5 JUN 2023 - Chief Warrant Officer 5/4/3
+
+2.  The Secretary of the Navy has authorized the release of the following 
+list indicating the names, active-duty list numbers and dates of rank of the 
+senior in-zone, junior in-zone and junior officer eligible for consideration 
+for promotion in each competitive category as of the date of this NAVADMIN.  
+In addition, those officers on the active-duty list and in the same 
+competitive category who are senior to the senior in-zone officer listed in 
+their category are considered above-zone and are also eligible for 
+consideration.
+                              Captain
+                               Line
+Unrestricted Line Officer (11XX/13XX)
+Senior in-zone -	CDR J. H. Adams II          024802-00   1 MAR 2018
+Junior in-zone -	CDR J. P. Houston           025096-25   1 MAR 2019
+Junior eligible -	CDR B. W. Muskopf           025572-50   1 SEP 2020
+               Special Duty Officer (Human Resources) (120X)
+Senior in-zone -	CDR C. L. Fletcher          025010-75   1 SEP 2018
+Junior in-zone -	CDR B. P. Henderson         025423-25   1 JAN 2020
+Junior eligible -	CDR S. D. Pamaran           025831-00   1 SEP 2021
+         Special Duty Officer (Permanent Military Professor) (123X)
+Senior in-zone -	CDR J. E. Hill              025047-50   1 OCT 2018
+Junior in-zone -	CDR S. M. Fishman           025315-50   1 SEP 2019
+Junior eligible -	CDR M. J. Dixon             025842-75   1 SEP 2021
+                    Engineering Duty Officer (14XX)
+Senior in-zone -	CDR R. D. Crisman           024942-75   1 SEP 2018
+Junior in-zone -	CDR R. D. Blanchard         025218-00   1 SEP 2019
+Junior eligible -	CDR A. J. Mills             025757-50   1 APR 2021
+         Aerospace Engineering Duty Officer (Engineering) (151X)
+Senior in-zone -	CDR S. J. Arenstein         024952-75   1 SEP 2018
+Junior in-zone -	CDR D. B. Farmer II         025313-50   1 SEP 2019
+Junior eligible -	CDR T. J. Hartman           025757-25   1 APR 2021
+           Aerospace Engineering Duty Officer (Maintenance) (152X)
+Senior in-zone -	CDR J. M. Holt              024842-00   1 AUG 2018
+Junior in-zone -	CDR R. F. Agullana          025120-00   1 JUN 2019
+Junior eligible -	CDR G. D. Guidry            025783-00   1 JUL 2021
+                  Special Duty Officer (Public Affairs) (165X)
+Senior in-zone -	CDR S. M. Flaherty          024952-25   1 SEP 2018
+Junior in-zone -	CDR J. M. Vasquez           025209-00   1 SEP 2019
+Junior eligible -	CDR F. M. Martin            025809-00   1 SEP 2021
+                    Special Duty Officer (Foreign Area) (17XX)
+Senior in-zone -	CDR C. L. Wallace           025103-25   1 APR 2019
+Junior in-zone -	CDR M. P. Allan             025249-00   1 SEP 2019
+Junior eligible -	CDR M. G. Tomsik            025719-25   1 DEC 2020
+                    Special Duty Officer (Oceanography) (180X)
+Senior in-zone -	CDR C. J. Gon               024940-50   1 SEP 2018
+Junior in-zone -	CDR B. D. McKeon            025216-50   1 SEP 2019
+Junior eligible -	CDR C. M. Sisti             025706-25   1 OCT 2020
+                 Special Duty Officer (Cryptologic Warfare) (181X)
+Senior in-zone -	CDR A. F. Young             024884-25   1 SEP 2018
+Junior in-zone -	CDR K. L. Podrazik          025332-50   1 SEP 2019
+Junior eligible -	CDR H. P. Cronley           025721-50   1 DEC 2020
+              Special Duty Officer (Information Professional) (182X)
+Senior in-zone -	CDR N. A. Walker            025042-75   1 OCT 2018
+Junior in-zone -	CDR S. T. Hodgkinson        025413-25   1 DEC 2019
+Junior eligible -	CDR D. T. Scott             025944-50   1 SEP 2021
+                   Special Duty Officer (Intelligence) (183X)
+Senior in-zone -	CDR C. F. Clausen           024859-00   1 SEP 2018
+Junior in-zone -	CDR B. G. Hampton           025154-25   1 SEP 2019
+Junior eligible -	CDR C. M. Michalski         025589-00   1 SEP 2020
+             Special Duty Officer (Cyber Warfare Engineer) (184X) Senior in-
+zone -  N/A Junior in-zone -  N/A Junior eligible - N/A
+            Special Duty Officer (Maritime Space Officer) (187X)
+Senior in-zone -	CDR L. M. Gorsky            025029-75   1 SEP 2018
+Junior in-zone -	CDR C. E. Jenkins IV        025047-00   1 OCT 2018
+Junior eligible -	CDR J. D. Elfe              025904-25   1 SEP 2021
+                   Limited Duty Officer (Surface) (61XX)
+Senior in-zone -	CDR B. C. Pitkin            024798-75   1 MAR 2018
+Junior in-zone -	CDR M. J. Klauer            025133-25   1 JUL 2019
+Junior eligible -	CDR J. N. Belmonte          025719-75   1 DEC 2020
+                   Limited Duty Officer (NUC SUB) (62XX)
+Senior in-zone -	CDR G. F. Notaro            024895-00   1 SEP 2018
+Junior in-zone -	CDR S. D. Gray              025178-75   1 SEP 2019
+Junior eligible -	CDR R. E. Horton            025790-50   1 AUG 2021
+                   Limited Duty Officer (Aviation) (63XX)
+Senior in-zone -	CDR G. M. Shelley           024443-50   1 SEP 2016
+Junior in-zone -	CDR D. S. Schoenrock        025143-50   1 AUG 2019
+Junior eligible -	CDR P. S. Gomez             025514-25   1 SEP 2020
+                   Limited Duty Officer (General Line) (64XX)
+Senior in-zone -	CDR S. J. Savage            024891-50   1 SEP 2018
+Junior in-zone -	CDR E. E. Goslee            025181-25   1 SEP 2019
+Junior eligible -	CDR J. A. Vaught            025729-25   1 JAN 2021
+                                 Staff Corps
+                              Medical Corps (210X)
+Senior in-zone -	CDR S. F. McGrath           024749-50   1 OCT 2017
+Junior in-zone -	CDR A. J. Perez             025017-25   1 SEP 2018
+Junior eligible -	CDR J. C. Mattingly         025657-50   1 SEP 2020
+                               Dental Corps (220X)
+Senior in-zone -	CDR L. C. Chongruk          025104-75   1 APR 2019
+Junior in-zone -	CDR S. A. Hocker            025271-25   1 SEP 2019
+Junior eligible -	CDR A. G. Hassell           025784-75   1 JUL 2021
+                          Medical Service Corps (230X)
+Senior in-zone -	CDR S. A. Hazelrigg         024899-75   1 SEP 2018
+Junior in-zone -	CDR C. A. Griswold          025383-00   1 OCT 2019
+Junior eligible -	CDR M. J. Horner            025962-87   1 OCT 2021
+                      Judge Advocate Generals Corps (250X)
+Senior in-zone -	CDR K. J. Kelly             024762-50   1 NOV 2017
+Junior in-zone -	CDR T. C. Huffstetler       024954-50   1 SEP 2018
+Junior eligible -	CDR J. E. LoftusWilliams    025346-25   1 SEP 2019
+                             Nurse Corps (290X)
+Senior in-zone -	CDR K. W. Surin             024886-75   1 SEP 2018
+Junior in-zone -	CDR E. J. Ferguson          025223-00   1 SEP 2019
+Junior eligible -	CDR C. L. Abuzeid           025682-25   1 OCT 2020
+                            Supply Corps (310X)
+Senior in-zone -	CDR C. T. Wilson            024927-25   1 SEP 2018
+Junior in-zone -	CDR M. E. Thomas            025378-00   1 OCT 2019
+Junior eligible -	CDR J. R. Marsh             025739-75   1 FEB 2021
+                           Chaplain Corps (410X)
+Senior in-zone -	CDR S. Contreras            025054-00   1 NOV 2018
+Junior in-zone -	CDR J. C. VanDyke           025176-75   1 SEP 2019
+Junior eligible -	CDR G. W. Orris             025762-75   1 MAY 2021
+                         Civil Engineer Corps (510X)
+Senior in-zone -	CDR J. D. Spinks            024880-75   1 SEP 2018
+Junior in-zone -	CDR A. B. Hunt              025213-75   1 SEP 2019
+Junior eligible -	CDR S. H. Parks             025774-25   1 JUN 2021
+               Limited Duty Officer (General Staff) (653X) Senior in-zone -  
+N/A Junior in-zone -  N/A Junior eligible - N/A
+                              Commander
+                                Line
+                Unrestricted Line Officer (11XX/13XX)
+Senior in-zone -	LCDR  T. A. Krasnicki       045072-00   1 MAR 2019
+Junior in-zone -	LCDR  T. A. Flynn           046113-50   1 OCT 2019
+Junior eligible -	LCDR  Z. W. McIntyre	    047870-50   1 SEP 2021
+           Special Duty Officer (Human Resources) (120X)
+Senior in-zone -	LCDR D. L. Aguilar          044800-00   1 SEP 2018
+Junior in-zone -	LCDR A. H. Godfrey          046180-00   1 DEC 2019
+Junior eligible -	LCDR B. F. Austin           048031-50   1 SEP 2021
+     Special Duty Officer (Permanent Military Professor) (123X) Senior in-
+zone -  N/A Junior in-zone -  N/A Junior eligible - N/A
+                   Engineering Duty Officer (14XX)
+Senior in-zone -	LCDR C. W. Fredrick         045093-50   1 MAR 2019
+Junior in-zone -	LCDR R. B. Carelli          046271-00   1 FEB 2020
+Junior eligible -	LCDR M. F. Walters          048004-00   1 SEP 2021
+         Aerospace Engineering Duty Officer (Engineering) (151X)
+Senior in-zone -	LCDR D. A. Tantillo         045018-50   1 JAN 2019
+Junior in-zone -	LCDR K. L. Keymer           046251-50   1 FEB 2020
+Junior eligible -	LCDR D. A. Dierks           048845-50   1 SEP 2022
+          Aerospace Engineering Duty Officer (Maintenance) (152X)
+Senior in-zone -        LCDR B. O. Smith	    043860-55   1 SEP 2017
+Junior in-zone -	LCDR J. P. Horowitz         045233-00   1 JUL 2019
+Junior eligible -	LCDR M. D. McGhee           047639-50   1 AUG 2021
+          Special Duty Officer (Public Affairs) (165X)
+Senior in-zone -	LCDR J. W. Hontz            044086-00   1 APR 2018
+Junior in-zone -	LCDR S. A. Brophy           045853-50   1 SEP 2019
+Junior eligible -	LCDR K. F. Schonberg        047603-00   1 JUL 2021
+             Special Duty Officer (Foreign Area) (17XX)
+Senior in-zone -	LCDR D. K. Zivnuska         044495-00   1 SEP 2018
+Junior in-zone -	LCDR T. Cheng               045669-00   1 SEP 2019
+Junior eligible -	LCDR M. J. Veloria          047213-50   1 OCT 2020
+              Special Duty Officer (Oceanography) (180X)
+Senior in-zone -	LCDR J. P. Vanes            044828-50   1 SEP 2018
+Junior in-zone -	LCDR J. D. Carter           045874-00   1 SEP 2019
+Junior eligible -	LCDR T. O. Green            047328-00   1 NOV 2020
+            Special Duty Officer (Cryptologic Warfare) (181X)
+Senior in-zone -	LCDR B. F. Clare            044735-50   1 SEP 2018
+Junior in-zone -	LCDR A. D. Martin           045920-00   1 SEP 2019
+Junior eligible -	LCDR J. L. Millwood         047236-00   1 OCT 2020
+         Special Duty Officer (Information Professional) (182X)
+Senior in-zone -	LCDR M. P. Baucum           045099-50   1 MAR 2019
+Junior in-zone -	LCDR D. G. Valencia         046136-50   1 OCT 2019
+Junior eligible -	LCDR J. P. Crisafulli       048393-50   1 OCT 2021
+               Special Duty Officer (Intelligence) (183X)
+Senior in-zone -	LCDR M. T. Holden           044715-50   1 SEP 2018
+Junior in-zone -	LCDR R. A. Virginia Jr      045805-00   1 SEP 2019
+Junior eligible -	LCDR B. J. Indahl           047109-00   1 SEP 2020
+            Special Duty Officer (Cyber Warfare Engineer) (184X)
+Senior in-zone -	LCDR T. B. Meadors          044620-50   1 SEP 2018
+Junior in-zone -	LCDR F. N. Bush             045928-00   1 SEP 2019
+Junior eligible -	LCDR J. O. Lawrie           048404-00   1 OCT 2021
+            Special Duty Officer (Maritime Space Officer) (187X)
+Senior in-zone -	LCDR M. S. Brock            041246-00   1 JUL 2015
+Junior in-zone -	LCDR G. W. Palanca          046134-50   1 OCT 2019
+Junior eligible -	LCDR R. J. Ellwood          047797-50   1 SEP 2021
+                   Limited Duty Officer (Surface) (61XX)
+Senior in-zone -	LCDR L. L. Johnson II       043125-50   1 JUL 2017
+Junior in-zone -	LCDR J. W. Bunte            044378-50   1 SEP 2018
+Junior eligible -	LCDR J. C. Butler Jr        046562-00   1 SEP 2020
+                   Limited Duty Officer (NUC SUB) (62XX)
+Senior in-zone -	LCDR J. R. Collins          043361-00   1 SEP 2017
+Junior in-zone -	LCDR J. S. Smith            044941-50   1 NOV 2018
+Junior eligible -	LCDR E. Watson III          047373-00   1 JAN 2021
+                   Limited Duty Officer (Aviation) (63XX)
+Senior in-zone -	LCDR E. D. Nunez            044326-00   1 SEP 2018
+Junior in-zone -	LCDR K. M. Bengston         045446-50   1 SEP 2019
+Junior eligible -	LCDR D. J. Pratt            047546-50   1 JUN 2021
+                   Limited Duty Officer (General Line) (64XX)
+Senior in-zone -	LCDR D. L. Motley           043936-50   1 DEC 2017
+Junior in-zone -	LCDR S. L. Hood             044892-00   1 SEP 2018
+Junior eligible -	LCDR R. G. Cunningham       046592-50   1 SEP 2020
+                                     Staff Corps
+                                  Medical Corps (210X)
+Senior in-zone -	LCDR J. M. Rice             043866-00   1 OCT 2017
+Junior in-zone -	LCDR D. T. Larson           044876-00   1 SEP 2018
+Junior eligible -	LCDR R. J. Trentacosta      047108-50   1 SEP 2020
+                                 Dental Corps (220X)
+Senior in-zone -	LCDR J. B. Negron           044431-00   1 SEP 2018
+Junior in-zone -	LCDR K. S. Harris           045977-50   1 OCT 2019
+Junior eligible -	LCDR R. G. Arnold           047776-00   1 SEP 2021
+                           Medical Service Corps (230X)
+Senior in-zone -	LCDR J. M. Sank             044247-50   1 SEP 2018
+Junior in-zone -	LCDR C. Y. Peters           045298-00   1 SEP 2019
+Junior eligible -	LCDR M. D. Gibboney         047133-50   1 OCT 2020
+                       Judge Advocate Generals Corps (250X)
+Senior in-zone -	LCDR T. D. Poindexter       043710-00   1 SEP 2017
+Junior in-zone -	LCDR B. J. Colberg          044311-50   1 SEP 2018
+Junior eligible -	LCDR L. I. McCarl           046377-00   1 MAY 2020
+                             Nurse Corps (290X)
+Senior in-zone -	LCDR A. C. Davis            043703-00   1 SEP 2017
+Junior in-zone -	LCDR S. M. Hoff             045540-50   1 SEP 2019
+Junior eligible -	LCDR S. A. McCarty          047024-50   1 SEP 2020
+                            Supply Corps (310X)
+Senior in-zone -	LCDR A. Durakovic           044942-50   1 NOV 2018
+Junior in-zone -	LCDR J. N. Higgins          046306-00   1 MAR 2020
+Junior eligible -	LCDR E. M. Courtney         048050-00   1 SEP 2021
+                          Chaplain Corps (410X)
+Senior in-zone -	LCDR L. J. Brant            044224-00   1 SEP 2018
+Junior in-zone -	LCDR M. W. Drayton          045276-75   1 SEP 2019
+Junior eligible -	LCDR I. P. Underhile        048446-00   1 DEC 2021
+                          Civil Engineer Corps (510X)
+Senior in-zone -	LCDR R. E. Cuevas           044924-00   1 OCT 2018
+Junior in-zone -	LCDR R. R. Depersia         045978-50   1 OCT 2019
+Junior eligible -	LCDR R. J. Oboyle           047687-00   1 SEP 2021
+                  Limited Duty Officer (General Staff) (653X)
+Senior in-zone -	LCDR B. M. Wood             045280-00   1 SEP 2019
+Junior in-zone -	LCDR A. Alshabazz           045323-50   1 SEP 2019
+Junior eligible -	LCDR C. S. Walton           047709-50   1 SEP 2021
+                            Lieutenant Commander
+                                    Line
+                    Unrestricted Line Officer (11XX/13XX/19XX)
+Senior in-zone -	LT B. W. Williams           150829-00   1 DEC 2017
+Junior in-zone -	LT K. D. Lafevers           157325-00   1 NOV 2018
+Junior eligible -	LT R. M. Boelsche           168033-00   1 JUN 2020
+                  Special Duty Officer (Human Resources) (120X)
+Senior in-zone -	LT B. F. Britt              154269-00   1 JUN 2018
+Junior in-zone -	LT V. C. Johnson            160263-00   1 JUN 2019
+Junior eligible -	LT D. Romine                176185-00   1 JUN 2021
+         Special Duty Officer (Permanent Military Professor) (123X) Senior 
+in-zone -  N/A Junior in-zone -  N/A Junior eligible - N/A
+                         Engineering Duty Officer (14XX)
+Senior in-zone -	LT J. D. Marks              151189-00   1 JAN 2018
+Junior in-zone -	LT M. T. Lavris             157301-00   1 NOV 2018
+Junior eligible -	LT E. L. Nobile             174529-00   1 JUN 2021
+             Aerospace Engineering Duty Officer (Engineering) (151X)
+Senior in-zone -	LT D. J. Whitsett II        147541-00   1 JUN 2017
+Junior in-zone -	LT D. J. Whitsett II        147541-00   1 JUN 2017
+Junior eligible -	LT K. M. Nelson             153325-00   1 JUN 2018
+       Aerospace Engineering Duty Officer (Maintenance) (152X)
+Senior in-zone -	LT S. C. Lillard Jr         157697-00   1 JAN 2019
+Junior in-zone -	LT F. Fungo                 165039-00   1 FEB 2020
+Junior eligible - LT B. A. M. Fajardo               176287-00   1 JUN 2021
+             Special Duty Officer (Public Affairs) (165X)
+Senior in-zone -	LT M. J. Valania            160223-00   1 JUN 2019
+Junior in-zone -	LT S. B. Phillips           163673-00   1 OCT 2019
+Junior eligible -	LT B. B. Petkovski          183805-00   1 JUN 2022
+              Special Duty Officer (Foreign Area) (17XX)
+Senior in-zone -	LT N. M. Tsusaki            160247-00   1 JUN 2019
+Junior in-zone -	LT B. J. Keaton             165035-00   1 FEB 2020
+Junior eligible -	LT B. G. Rallet             172005-00   1 JAN 2021
+              Special Duty Officer (Oceanography) (180X)
+Senior in-zone -	LT M. A. Koletsos           158425-00   1 MAR 2019
+Junior in-zone -	LT R. M. Munion             163711-00   1 OCT 2019
+Junior eligible -	LT E. M. Flynn              177077-00   1 JUL 2021
+          Special Duty Officer (Cryptologic Warfare) (181X)
+Senior in-zone -	LT A. Leon                  157039-00   1 NOV 2018
+Junior in-zone -	LT M. R. B. Dowden          164141-00   1 DEC 2019
+Junior eligible -	LT A. Serratoguillen        173209-00   1 MAY 2021
+        Special Duty Officer (Information Professional) (182X)
+Senior in-zone -	LT B. A. Sacks              160277-00   1 JUN 2019
+Junior in-zone -	LT M. J. Fowler             166271-00   1 MAY 2020
+Junior eligible -	LT J. S. Virk               178085-00   1 OCT 2021
+              Special Duty Officer (Intelligence) (183X)
+Senior in-zone -	LT G. M. Hansen             158737-00   1 APR 2019
+Junior in-zone -	LT D. R. Ward               165519-00   1 APR 2020
+Junior eligible -	LT J. F. Garcia             178435-00   1 NOV 2021
+         Special Duty Officer (Cyber Warfare Engineer) (184X)
+Senior in-zone -	LT J. B. Landrum            158115-00   1 FEB 2019
+Junior in-zone -	LT G. I. Basior             165587-00   1 APR 2020
+Junior eligible -	LT V. K. Jencks             180305-00   1 MAY 2022
+         Special Duty Officer (Maritime Space Officer) (187X)
+Senior in-zone -	LT S. L. Ewing              141209-00   1 JUN 2016
+Junior in-zone -	LT R. M. Franzino           165153-00   1 FEB 2020
+Junior eligible -	LT C. K. Roberts            170533-00   1 SEP 2020
+                Limited Duty Officer (Surface) (61XX)
+Senior in-zone -	LT M. G. Kennedy Jr         150741-00   1 NOV 2017
+Junior in-zone -	LT T. A. Lea                156915-00   1 OCT 2018
+Junior eligible -	LT A. K. Nauth              171035-00   1 OCT 2020
+                Limited Duty Officer (NUC SUB) (62XX)
+Senior in-zone -	LT S. M. Dyer               150977-00   1 DEC 2017
+Junior in-zone -	LT H. E. Baltrip            157563-00   1 DEC 2018
+Junior eligible -	LT J. A. Martin             171591-00   1 DEC 2020
+                Limited Duty Officer (Aviation) (63XX)
+Senior in-zone -	LT W. A. Davenport          152201-00   1 APR 2018
+Junior in-zone -	LT R. J. Trinidad           158805-00   1 APR 2019
+Junior eligible -	LT M. D. Shaw               172969-00   1 APR 2021
+              Limited Duty Officer (General Line) (64XX)
+Senior in-zone -	LT D. E. Flake Jr           150947-00   1 DEC 2017
+Junior in-zone -	LT J. T. Crump              159037-00   1 MAY 2019
+Junior eligible -	LT M. A. Vanwyck            171601-00   1 DEC 2020
+                             Staff Corps
+                         Medical Corps (210X)
+Senior in-zone -	LT M. N. Gaona              151007-00   6 DEC 2017
+Junior in-zone -	LT C. E. Bustamante         156055-62  20 JUL 2018
+Junior eligible -	LT M. E. Traglia            170713-40  30 SEP 2020
+                         Dental Corps (220X)
+Senior in-zone -	LT R. Sonnabend             151459-00   2 JAN 2018
+Junior in-zone -	LT R. W. Crawford           156284-00  18 AUG 2018
+Junior eligible -	LT C. I. Y. Horie           169857-00  16 JUN 2020
+                    Medical Service Corps (230X)
+Senior in-zone -	LT R. C. Lindsay            146877-00   1 JUN 2017
+Junior in-zone -	LT L. Cortez                157857-00   1 JAN 2019
+Junior eligible -	LT J. P. Clark              165933-50  17 APR 2020
+               Judge Advocate Generals Corps (250X)
+Senior in-zone -	LT M. E. Martino            145265-00   1 FEB 2017
+Junior in-zone -	LT C. K. Tolbert            151603-00   1 FEB 2018
+Junior eligible -	LT C. M. Krzan              163937-00   1 NOV 2019
+                             Nurse Corps (290X)
+Senior in-zone -	LT T. Y. Isreal             146731-00   1 JUN 2017
+Junior in-zone -	LT D. M. Brackup            157819-00   1 JAN 2019
+Junior eligible -	LT B. A. Gluckman           170909-00   1 OCT 2020
+                              Supply Corps (310X)
+Senior in-zone -	LT J. B. Woods              156791-00   1 OCT 2018
+Junior in-zone -	LT M. C. Anderson           165773-00   1 APR 2020
+Junior eligible -	LT J. M. Wollberg           177503-00   1 SEP 2021
+                             Chaplain Corps (410X)
+Senior in-zone -	LT N. M. Suddath            143527-00   1 JUN 2016
+Junior in-zone -	LT J. C. Caliba             149711-00   1 AUG 2017
+Junior eligible -	LT J. J. Kwon               157775-00   1 JAN 2019
+                      Civil Engineer Corps (510X)
+Senior in-zone -	LT V. G. Alberico           153957-00   1 JUN 2018
+Junior in-zone -	LT Z. B. Eskew              162007-00   1 JUN 2019
+Junior eligible -	LT Z. J. White              174317-00   1 JUN 2021
+                 Limited Duty Officer (General Staff) (653X)
+Senior in-zone -	LT G. R. Laney              156925-00   1 OCT 2018
+Junior in-zone -	LT D. J. Brown              158623-00   1 MAR 2019
+Junior eligible -	LT J. R. Lamb               172611-00   1 MAR 2021
+                         Chief Warrant Officer, W-5
+                  Chief Warrant Officer (Surface) (71XX)
+Senior in-zone -	CWO4 S. D. Carpenter        963337-00   1 FEB 2018
+Junior in-zone -	CWO4 B. Broussard           963601-00   1 JUN 2019
+Junior eligible -	CWO4 C. G. Firmacion        963939-00   1 JAN 2021
+                Chief Warrant Officer (Subsurface) (72XX, 740X)
+Senior in-zone -	CWO4 W. H. Johnson II       963513-00   1 JAN 2019
+Junior in-zone -	CWO4 S. K. Hobson           963613-00   1 JUL 2019
+Junior eligible -	CWO4 J. T. Senecal          963721-00   1 FEB 2020
+                    Chief Warrant Officer (Aviation) (73XX)
+Senior in-zone -	CWO4 D. W. Stottlemyer Jr   963495-00   1 NOV 2018
+Junior in-zone -	CWO4 T. Tweet               963631-00   1 AUG 2019
+Junior eligible -	CWO4 S. L. Flemens          964017-00   1 APR 2021
+   Chief Warrant Officer (General Line/Staff) (741X, 748X, 749X, 75XX)
+Senior in-zone -	CWO4 R. L. Goode Jr         963591-00   1 MAY 2019
+Junior in-zone -	CWO4 A. C. May              963817-00   1 AUG 2020
+Junior eligible -	CWO4 C. P. Duran            964103-00   1 JUN 2021
+         Chief Warrant Officer (Information Warfare) (78XX)
+Senior in-zone -	CWO4 T. F. Owen III         963403-00   1 JUN 2018
+Junior in-zone -	CWO4 D. H. Norman           963539-00   1 FEB 2019
+Junior eligible -	CWO4 R. E. Courton          963921-00   1 DEC 2020
+                      Chief Warrant Officer, W-4
+                  Chief Warrant Officer (Surface) (71XX)
+Senior in-zone -	CWO3 B. A. Singletary       977798-00   1 OCT 2019
+Junior in-zone -	CWO3 D. Taylor              978156-00   1 JUN 2020
+Junior eligible -	CWO3 B. D. Dorsey           978558-00   1 JUN 2021
+             Chief Warrant Officer (Subsurface) (72XX, 740X)
+Senior in-zone -	CWO3 J. B. Rasor            977862-00   1 NOV 2019
+Junior in-zone -	CWO3 B. S. Sheltmire        978158-00   1 JUN 2020
+Junior eligible -	CWO3 C. D. Whitman          978516-00   1 JUN 2021
+                  Chief Warrant Officer (Aviation) (73XX)
+Senior in-zone -	CWO3 T. N. Benesch          977802-00   1 OCT 2019
+Junior in-zone -	CWO3 C. Rodriguez           978152-00   1 JUN 2020
+Junior eligible -	CWO3 T. F. Walsh            978554-00   1 JUN 2021
+ Chief Warrant Officer (General Line/Staff) (741X, 748X, 749X, 75XX)
+Senior in-zone -	CWO3 B. O. Cross            977836-00   1 OCT 2019
+Junior in-zone -	CWO3 A. Gamboa              978154-00   1 JUN 2020
+Junior eligible -	CWO3 D. H. Freel            978536-00   1 JUN 2021
+         Chief Warrant Officer (Information Warfare) (78XX)
+Senior in-zone -	CWO3 K. G. Jackson Jr       977814-00   1 OCT 2019
+Junior in-zone -	CWO3 T. B. Duncan           978150-00   1 JUN 2020
+Junior eligible -	CWO3 C. M. Alexander        978550-00   1 JUN 2021
+                       Chief Warrant Officer, W-3
+                   Chief Warrant Officer (Surface) (71XX)
+Senior in-zone -	CWO2 J. J. Guilmet          985652-00   1 OCT 2020
+Junior in-zone -	CWO2 K. J. Eaton            986076-00   1 JUN 2021
+Junior eligible - N/A
+             Chief Warrant Officer (Subsurface) (72XX, 740X)
+Senior in-zone -	CWO2 B. K. Ronne            985678-00   1 OCT 2020
+Junior in-zone -	CWO2 K. A. Kaiser           986092-00   1 JUN 2021
+Junior eligible - N/A
+                  Chief Warrant Officer (Aviation) (73XX)
+Senior in-zone -	CWO2 J. A. Pampaloni        985658-00   1 OCT 2020
+Junior in-zone -	CWO2 N. B. Mathis           986090-00   1 JUN 2021
+Junior eligible - N/A
+     Chief Warrant Officer (General Line/Staff) (741X, 748X, 749X, 75XX)
+Senior in-zone -	CWO2 A. S. Jackson          985654-00   1 OCT 2020
+Junior in-zone -	CWO2 D. A. Birch            986065-00   1 JUN 2021
+Junior eligible - N/A
+           Chief Warrant Officer (Information Warfare) (78XX)
+Senior in-zone -	CWO2 R. Noriega             985656-00   1 OCT 2020
+Junior in-zone -	CWO2 T. J. Henderson        986056-00   1 JUN 2021
+Junior eligible - N/A
+
+3.  In accordance with section 619 of title 10, U.S. Code and reference (a), 
+and pursuant to CNO's recommendation, the Secretary of the Navy has excluded 
+from consideration for promotion those officers whose established separation 
+dates are within 90 calendar days after the convening date of the board for 
+which they would have otherwise been eligible.  The Secretary of the Navy has 
+approved an exception for the following competitive categories:  Medical 
+Corps, Medical Service Corps, Nurse Corps, and Dental Corps.  The board may 
+consider officers in those competitive categories who have an established 
+separation date within 90 calendar days after the board.
+
+4.  For promotion to the grade of lieutenant and chief warrant officer 2, an 
+All-Fully-Qualified-Officers List (AFQOL) consisting of those officers 
+recommended for promotion on their recent fitness reports will be sent to the 
+Secretary.  The Secretary will certify the AFQOL and forward the list with 
+Limited Duty Officer permanent appointments attached to the Secretary of 
+Defense.  Those officers determined not fully qualified for promotion will be 
+omitted from the AFQOL constituting a failure of selection (FOS).  The All-
+Fully- Qualified (AFQ) standard applies to all designators.  The AFQ standard 
+will also be utilized for the mid-year active-duty lieutenant Judge Advocate 
+General's Corps and Chaplain Corps promotions and any officers 
+administratively missed when the original lists were compiled.
+
+5.  Only eligible officers may communicate with a promotion selection board 
+via the letter to the board (LTB) process.  NAVADMIN
+220/19 announced the introduction of a new application known as Electronic 
+Submission of Selection Board Documents (ESSBD), accessible through MyNavy 
+Portal (MNP).  ESSBD improves the speed, transparency and confidence of 
+receipt over previous Letter To the Board (LTB) submission methods, such as 
+hard copy and e-mail submitted letters and related attachments.
+    a. ESSBD provides board candidates with the capability to electronically 
+submit LTBs in a standard, consistent format, with or without attachments and 
+will allow the candidate to see (for content and clarity) exactly what will 
+be delivered and presented to the board.
+    b. To utilize ESSBD, candidates must access document services through MNP 
+at https://www.mnp.navy.mil/group/my-record.  On-screen instructions will 
+direct the submitter thereafter.
+    c. Submission and subsequent receipt acknowledgement for LTBs submitted 
+via ESSBD or other means does not constitute confirmation of eligibility for 
+the boards to which LTBs are submitted.  If required, a full visual user 
+guide is available at https://www.mnp.navy.mil/group/advancement-and-
+promotion.
+    d.  LTBs must be received by Navy Personnel Command not later than 2359 
+(central standard time) (CST) 10 days prior to the convening date of the 
+respective board, as noted below.  Submitters are cautioned to not wait until 
+the deadline date to submit LTBs via ESSBD or other available avenues. 
+
+Selection To                     Convening Date  Due Date / Time
+URL/RL Captain 			     11 JAN 23    31 DEC 22 / 2359 CST
+Staff Corps Captain		     7 FEB 23     27 JAN 23 / 2359 CST
+URL/RL Commander 	                 14 FEB 23    3 FEB 23 / 2359 CST
+Staff Corps Commander		     1 MAY 23     20 APR 23 / 2359 CST
+Staff Corps Lieutenant Commander   1 MAY 23     20 APR 23 / 2359 CST
+URL/RL Lieutenant Commander	     8 MAY 23     27 APR 23 / 2359 CST
+Chief Warrant Officer 5/4/3	     5 JUN 23     25 MAY 23 / 2359 CST 
+
+    e.  If unable to use ESSBD, the CSCSELBOARD(at)navy.mil mailbox account 
+is capable of receiving encrypted correspondence in line with Department of 
+Defense policy.  If sending a board package from a non-NMCI network 
+(bumed.mil, eu.navy.mil, etc.), please review procedures listed in NAVADMIN 
+220/19.
+    f.  The written communication may call the board's attention to any 
+matter concerning the record of the officer that the officer considers 
+important.  Written communication may include, as enclosures, correspondence 
+from any individual concerning the eligible officer.  Correspondence not 
+originated by the eligible officer, including endorsement to the letter of 
+the eligible officer and letters written on behalf of that officer, must 
+contain a written acknowledgement by the eligible officer they desires such 
+correspondence be presented to the board.  Correspondence without such an 
+acknowledgement is considered third party correspondence and will be rejected 
+without being presented to the board.  Classified correspondence will not be 
+accepted.
+
+6.  Questions regarding LTB submission should be directed to MyNavy Career 
+Center by calling 1-833-330-MNCC (1-833-330-6622/DSN: 882-6622).
+
+7.  The Secretary of the Navy has authorized the active-duty list line and 
+staff corps promotion boards for the grades of captain, commander and 
+lieutenant commander to reorder their recommended promotion list based on 
+particular merit as allowed by section 616 of title 10, U.S. Code.  An 
+officer may be placed higher on a promotion list only if the officer receives 
+the recommendation of at least a majority of the members of the board.  For 
+officers recommended to be placed higher on a promotion list, the board will 
+recommend the order in which those officers should be placed on the list.
+
+8.  In-zone and above-zone eligible officers in the grades of chief warrant 
+officer 2/3/4, lieutenant, lieutenant commander and commander, whose 
+placement on the active-duty list is within one year of the convening dates 
+of these boards, are automatically deferred unless they specifically request 
+to be considered.  The officer may waive this deferment and request 
+consideration for promotion, in writing, emailed to 
+NPC_Officer_SELBD_Elig_Waivers.fct(at)navy.mil or mailed to: 
+
+    Commander, Navy Personnel Command (PERS-802)
+    5720 Integrity Drive
+    Millington, TN 38055-0000 
+
+For in-zone and above-zone eligible line officers in the grade of commander, 
+the request must be received by PERS-802 not later than 2359 CST 15 days 
+prior to the convening date of the respective board.  For in-zone and above-
+zone eligible staff corps officers in the grade of commander, in-zone and 
+above-zone eligible line and staff corps officers in the grade of lieutenant 
+commander and lieutenant, and in-zone and above-zone chief warrant officers, 
+the request must be received by PERS-802 not later than 2359 CST 30 days 
+prior to the convening date of the respective board.  Specifically: 
+
+Selection To                    Convening Date  	Due Date / Time
+URL/RL Captain 			    11 JAN 23     	26 DEC 22 / 2359 CST
+Staff Corps Captain		     7 FEB 23      	7 JAN 23 / 2359 CST
+URL/RL Commander 	                14 FEB 23     	14 JAN 23 / 2359 CST
+Staff Corps Commander              1 MAY 23      	31 MAR 23 / 2359 CST
+Staff Corps Lieutenant Commander   1 MAY 23      	31 MAR 23 / 2359 CST
+URL/RL Lieutenant Commander	     8 MAY 23     	8 APR 23 / 2359 CST
+Chief Warrant Officer 5/4/3/2	     5 JUN 23      	5 MAY 23 / 2359 CST
+
+9.  All officers are reminded of their responsibility to ensure the 
+completeness and accuracy of their official records prior to the convening 
+date of the board.
+
+10.  Questions regarding promotion should be directed to the MyNavy Career 
+Center by calling 1-833-330-MNCC (1-833-330-6622/DSN:  882-6622) or emailing 
+ASKMNCC(at)navy.mil.  Additional information is also available at 
+https://www.mnp.navy.mil/group/advancement-and-promotion/p-officer-promotion-
+resources-and-links, then click on the websites side (vice systems side) of 
+the blue header.  Once on the websites side, click on the NPC Promotion 
+Boards link.
+
+11.  This NAVADMIN will be canceled for record purposes on 30 September 2024.
+
+12.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
