@@ -1,0 +1,53 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 021309Z DEC 22 MID200080545443U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+NAVINSGEN WASHINGTON DC 
+SECNAV WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 271/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+SUBJ/NAVAL INSPECTOR GENERAL MONTHLY REPORTING REQUIREMENT 
+ 
+RMKS/1.  In order to enhance Navy Inspector General (IG) professionalization, 
+enterprise excellence and internal IG Enterprise transparency, the Naval 
+Inspector General (NAVIG) is initiating a formal NAVIG monthly reporting 
+requirement.  This information is typically not available by other automated 
+means and in many cases is already being reported to the IG's commander. 
+ 
+2.  This NAVADMIN formalizes the reporting requirement and leverages the 
+authority designated by Secretary of the Navy for managing IG 
+matters.  Request all Commanders who employ IGs acknowledge receipt via their 
+IGs. 
+ 
+3.  For reporting, Commanders who employ IGs will submit monthly reports via 
+the Naval Inspector General SharePoint portal under "Monthly Required 
+Reporting (MRR)" tab between the 15th and end of each month.  The reporting 
+topics are: 
+    External Entity Oversight 
+    High Visibility Issues 
+    Workforce Reductions/Attrition 
+    Certification Status 
+    Upcoming Inspections Schedule 
+    Significant Inspection Findings 
+    Command Directed Inquiries (CDIs) 
+    Media communications/contacts 
+ 
+4.  NAVIG will send a separate email directly to Navy Enterprise IGs to 
+provide additional reporting instructions. 
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+Vice Admiral John Fuller, Naval Inspector General (NAVIG). 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
