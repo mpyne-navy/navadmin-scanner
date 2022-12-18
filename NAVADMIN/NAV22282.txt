@@ -1,0 +1,101 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 161552Z DEC 22 MID200080596222U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 282/22 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1//MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/FY-23 SENIOR ENLISTED ADVANCEMENT-TO-POSITION SELECTION BOARD ROUND TWO 
+RESULTS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/062125Z OCT 22// 
+REF/B/DOC/BUPERS/19SEP18// 
+ 
+NARR/REF A IS NAVADMIN 229/22, FY-23 SENIOR ENLISTED ADVANCEMENT-TO-POSITION 
+SELECTION BOARD RESULTS AND ROUND TWO WAY AHEAD.   
+REF B IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+ 
+RMKS/1.  Congratulations to the following personnel who have been selected 
+for advancement by the second round of the Fiscal Year 2023 Senior Enlisted 
+Advancement-to-Position (SEA2P) Selection Board. 
+ 
+2.  Read each line from left to right:  rank, name, and gaining 
+command. 
+            Active Duty Navy E8 Select: 
+ABEC Victor M. Paulino 		CVN 78 FORD 
+ABHC Ashton O. Hemphill 	CVN 73 GEO WASH 
+ABHC Andrew J. McDougle 	CVN 78 FORD 
+ADC  Marshall D. Perry  	CVN 78 FORD 
+AEC  Amber L. Parmerlee 	COM CVW 2 
+AEC  Joshua J. Stevens 		VAQ 136 
+AEC  John W. Delrusso Jr. 	VFA 192 
+AMC  Ian J. Eby 			VAW 113 
+AMC  Craig C. Heady 		VFA 192 
+AMC  Nigel B. Belulia 		VFA 97 
+AOC  Keith J. Foster  		CVN 73 GEO WASH 
+AOC  Kirk L. Godair   		CVN 78 FORD 
+ATC  Tyler J. Curlew 		CVN 78 FORD 
+CSC  Gerald C. Foxworth 	CVN 78 FORD 
+CSC  Damieon Colvin 		CG 59 PRINCETON 
+CSC  Donovan T. Nuusolia 	DD 70 HOPPER 
+ETC  Djuan E. Brown 		CVN 70 VINSON 
+ETC  Kahlil A. Hopkins 		CVN 78 FORD 
+ETC  Dkendrick L. Brown 	CVN 78 FORD 
+FCC  Kristina M. Macdonald 	COMDESRON 1 
+FCC  Joseph L. Phillips 	CVN 78 FORD 
+GSMC Clifford C. Lorenz 	DDG 104 STERETT 
+ITC  Emily L. Guidangen 	COMDESRON 1 
+ITC  Timrichard A. Ticoy 	CVN 73 GEO WASH 
+LSC  Jorge L. Gaitan 		CVN 73 GEO WASH 
+LSC  Felix K. Tofah 		CVN 73 GEO WASH 
+LSC  Kenneth R. King 		CVN 78 FORD 
+LSC  Dominique M. Sherrod 	CVN 78 FORD 
+MMC  Luis O. Rosario 		CVN 78 FORD 
+OSC  Dora D. Mapp 		CCSG 1 
+OSC  Jeffrey T. Cook 		COMDESRON 1 
+OSC  Nicholas H. Herbert 	CG 59 PRINCETON 
+OSC  Merrit L. Rhodes 		CVN 78 FORD 
+OSC  Jeremiah D. Dunson 	DDG 100 KIDD 
+QMC  Michael A. Rogers 		CVN 70 VINSON 
+ 
+            Active Duty Navy E9 Select 
+ADCS Domonik L. Rosa 		VFA 192 
+AOCS Renaldo L. Collier 	CVN 70 VINSON 
+AECS Wade A. Stone 		VAQ 136 
+FCCS Leonard A. Neely Jr.  	CVN 70 VINSON 
+ITCS Gary R. Spigarelli II 	CVN 78 FORD 
+LSCS Jeffrey J. Quick		CVN 78 FORD 
+MMCS Danny Arno			CVN 70 VINSON 
+MMCS Donandrew R. Paredes  	CVN 73 GEO WASH 
+OSCS Geraldo Anzaldo		CVN 78 FORD 
+PSCS Momodu B. Koroma		CVN 78 FORD 
+ 
+3.  Selectees should contact their detailer to coordinate orders and any 
+required in-route training.  Frocking is authorized after selectees have been 
+operationally screened and obligate for service through the projected 
+rotation date listed in their orders but no earlier than 30 days prior to 
+transfer from losing command.  The gaining command will be responsible for 
+permanently advancing selectees upon reporting for duty following any 
+in-route training. 
+ 
+4.  The completion of the SEA2P pilot boards represent a powerful instance of 
+the gains possible for both the Navy and its Sailors by giving individuals 
+the opportunity to compete for marketplace advancements.  Expect to see 
+billet based advancement programs continue to grow in size and scope to 
+address fleet readiness demands. 
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

@@ -1,0 +1,87 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151449Z DEC 22 MID600052519799U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+SECNAV WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 281/22 
+ 
+INFO CNO WASHINGTON DC //N1// 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/NOV// 
+ 
+SUBJ/MANDATORY USE OF RISK  MANAGEMENT INFORMATION SYSTEM FOR MISHAP 
+REPORTING// 
+ 
+REF/A/DOC/SECNAV/12JUNE2020// 
+AMPN/REF A IS BUSINESS CAPABILITY REQUIREMENTS DOCUMENT RISK MANANGEMENT 
+INFORMATION 
+ 
+RMKS/1. This NAVADMIN issues guidance for mishap and hazard reporting 
+information in Risk Management Information system (RMI). RMI is a single 
+program of record to improve Navy and Marine Corps safety management. 
+Reference (a) defines the RMI program of record and is endorsed by the 
+Assistant Secretary of the Navy for Energy, Installations and Environment 
+(ASN EI&E).  By capturing and analyzing Safety Incident Reporting data in a 
+single location, the RMI initiative facilitates a safety environment 
+for Navy and Marine Corps personnel and enables the enterprise to preserve 
+combat readiness and save lives. 
+ 
+2. Background. 
+     a. RMI consolidates existing legacy and core safety programs, risk 
+management systems, applications, and data. This consolidation of 
+previously disparate, parochial systems is a tangible example of us - as a 
+naval force - Getting Real, and Getting Better. 
+RMI's Streamlined Incident Reporting (SIR) provides a baseline of classes of 
+mishaps, hazard reports (HAZREPs) and near misses, and it will provide the 
+basis for analysis and trending to improve safety and risk management. RMI 
+SIR is a single, integrated system for reporting aviation, afloat, ground, 
+and motor vehicle mishaps and is compliant with Department of Defense (DOD) 
+safety business rules. RMI SIR synthesizes incident report data into useful 
+products for improving risk and safety conditions, and it vastly expands the 
+capabilities for safety professionals and leadership to identify trends and 
+produce analyses that lead to recommendations and mishap prevention. 
+     b. RMI will also enable improved safety reporting efficiency by reducing 
+the amount of time DON users spend entering or reentering safety data into a 
+system. RMI SIR is a web-enabled, role-based mishap reporting and analysis 
+system that is accessible worldwide with a Common Access Card (CAC). RMI SIR 
+uses a proven Government-Off-The-Shelf (GOTS) web application customized for 
+the Navy and Marine Corps that builds upon the Air Force Safety Automated 
+System (AFSAS) platform. 
+ 
+3. Policy. All commands are directed to use RMI SIR Module as the sole 
+program of record to submit mishap and hazard report information no later 
+than 1 January 2023 with the exception of NAVFAC commands. NAVFAC commands 
+will transition to RMI SIR reporting NLT 1 March 2023. After these dates, 
+Commands must cease reporting mishaps in the Enterprise Safety Application 
+Management System (ESAMS). 
+ 
+3. System integration with ESAMS. 
+     a. RMI is a one-stop shop for mishap reporting that will back feed 
+mishap information into ESAMS to enable program support in ESAMS while it 
+remains online for Safety Program Management (SPM). RMI SIR will feed mishap 
+information to ESAMS daily for commands who are current users of ESAMS or 
+commands that have not opted out of the ESAMS feed. This automatic back feed 
+will allow ESAMS users to continue to use the other modules 
+within ESAMS that rely on mishap information. 
+     b. This shift to RMI SIR for all mishap and hazard reporting is the next 
+     step in the phased transition to RMI for all reporting and SPM 
+functions. Future NAVADMINs will provide the timeline for the eventual shift 
+of SPM functions into RMI. 
+ 
+4. Points of contact.  Mr. Jonathan Wilson, 757-444-3520 x7156, 
+jonathan.d.wilson2.civ(AT)us.navy.mil or Mr. Christopher Rew, 757-444-3520 
+x7192, christopher.e.rew.civ(AT)us.navy.mil. 
+ 
+5. Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
