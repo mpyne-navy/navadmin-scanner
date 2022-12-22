@@ -1,0 +1,64 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 222018Z DEC 22 MID600052529828U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 291/22
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/GOVERNMENT TRAVEL CHARGE CARD USE IN SUPPORT OF PERMANENT CHANGE OF 
+STATION TRAVEL//
+
+REF/A/GENADMIN/CNO WASHINGTON DC/021900ZJUN22//
+
+AMPN/REF A IS NAVADMIN 129/22, MANDATORY USE OF THE NAVY PERSONNEL AND PAY 
+(NP2) MYPCS TRAVEL VOUCHER SUBMISSION TOOL AND GOVERNMENT TRAVEL CHARGE CARD 
+(GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL.//
+
+RMKS/1.  Purpose.  To announce an update to reference (a) and revision to 
+paragraph 2c for the mandatory use of the MyPCS Travel Voucher and Government 
+Travel Charge Card (GTCC) for permanent change of station (PCS) travel 
+expenses.  Phase III of the rollout which requires all paygrades to use the 
+GTCC for PCS travel expenses is on hold.
+
+2.  Timeline.  On 1 January 2022, Phase I of the mandatory use of the MyPCS 
+Travel Voucher and GTCC for PCS travel was implemented for all Active Duty 
+(AD) and Training and Administration of the Reserve
+(TAR) in paygrades E-9 and O-6 and above.  Mandatory use of the MyPCS Travel 
+Voucher and GTCC for PCS will expand to other paygrades as reflected below.
+    a.  MyPCS Travel Voucher.  As of 1 July 2022, all AD and TAR Service 
+Members in all paygrades are required to use the MyPCS Travel Voucher for 
+submission of PCS travel claims, except for members reporting to commands 
+listed in paragraph 10c of reference (a).  Mandated use of the MyPCS Travel 
+Voucher was previously expanded to include Selected Reservists executing 
+Active Duty for Operational Support and Officer Recall PCS orders.
+    b.  GTCC Phase II.  As of 1 July 2022, all Service Members in paygrades 
+E-7 and above and O-4 and above are required to use the GTCC for PCS travel 
+expenses.
+    c.  GTCC Phase III.  Phase III of the rollout is on hold.
+Further guidance will be released once all requirements have been met to 
+support mandatory use of the GTCC for all hands.
+
+3.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
