@@ -1,0 +1,74 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 091417Z JAN 23 MID600052595030U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 003/23
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/FISCAL YEAR 2023 NAVY INFORMATION TECHNOLOGY PROCUREMENT REQUIREMENTS
+AND SUBMISSION GUIDANCE//
+
+REF/A/MSG/CNO WASHINGTON DC/221457Z NOV 19//
+REF/B/LTR/OPNAV N2N6/19 OCT 18//
+REF/C/DOC/OPNAV N2/N6G31 V1.1/18 DEC 20//
+REF/D/MEMO/OPNAV N2N6G/28 APR 20//
+REF/E/MSG/CNO WASHINGTON DC/091517Z JUN 21//
+
+NARR/REF A IS NAVADMIN 263/19, NAVY FISCAL YEAR 2020 GUIDELINES FOR
+EXECUTION OF INFORMATION TECHNOLOGY (IT) PROCUREMENT REQUEST (ITPR) POLICY.
+REF B IS THE NAVY POLICY AND REQUIREMENTS FOR THE NAVY ITPR PROCESS.   
+REF C IS THE ITPR PROCESS GUIDE V1.1.   
+REF D IS THE DEPUTY CHIEF OF NAVAL OPERATIONS N2N6G MEMORANDUM, ACCELERATION 
+OF THE DELEGATION OF INFORMATION TECHNOLOGY PROCUREMENT REQUEST $500K OR 
+GREATER.   
+REF E IS NAVADMIN 122/21, NAVY CLOUD IMPLMENTATION PLAN//  
+POC/MEGAN CANE/CIV/OPNAV N2N6D/TEL:  (703)692-1657/ 
+EMAIL: MEGAN.A.CANE.CIV(at)US.NAVY.MIL//
+
+RMKS/1.  This NAVADMIN provides additional guidance to references (a) and
+(b), Navy Information Technology Procurement Requirements (ITPR) policies.
+ITPRs will be submitted electronically via the Navy Information Technology
+Approval System (NAV-ITAS) per reference (c), found at
+https://navitas.navy.mil /index.aspx.
+    a.  Reference (d) sets Echelon II Chief Information Officer (CIO)
+approval authority.  Echelon II CIOs have discretion to set local approval
+threshold amounts for assigned Echelon III and below commands.  Investments
+that are $20 million or greater will be routed through an additional
+Department of Navy Deputy Chief Information Officer (Navy) (DDCIO(N))
+approval step.
+    b.  ITPRs for the procurement of multi-functional device and print
+device products and/or services from Defense Logistics Agency (DLA) must be
+submitted by 22 June 2023 in order to meet the DLA procurement cut-off date
+of 1 July 2023.  Requests submitted after 22 June 2023 will not be
+considered without documented extenuating circumstances.
+    c.  Cloud services shall be provisioned per reference (e).
+    d.  ITPRs containing data center/data server items must route through
+the Data Center/Data Server Approval process to be reviewed and approved by
+DDCIO(N), and in some cases Department of Navy CIO.
+    e.  Requests for Navy Public Affairs requirements consumable items and
+peripheral devices (imaging devices) should be nominally reviewed and 
+approved at each Echelon II/III command and DDCIO(N) per its threshold 
+approval authority.
+
+2.  ITPR submitters should contact their Echelon II Customer Service
+Representatives (CSR) with any questions about the ITPR policy or any
+guidelines issued herein.  Information on Echelon II CSRs can be found on
+the NAV-ITAS site at https://navitas.navy.mil/ContactUs.aspx.
+
+3.  For references or additional information, please refer to the DDCIO(N)
+SharePoint site at https://portal.secnav.navy.mil/orgs/OPNAV/N2N6/DDCION
+/SitePages/Home.aspx
+
+4.  Released by VADM Jeffery E. Trussler, Deputy Chief of Naval Operations
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
