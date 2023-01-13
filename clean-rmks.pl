@@ -57,15 +57,33 @@ sub simplify_rmks($path, $text)
 sub decode_navadmin($path, $text)
 {
     my $state = 'start';
-    my $chunk;
     my $dtg = 'unknown';
+    my %rules = (
+        start => [
+            [ qr/^(?:ROUTINE *)?(?:DTG )?(?:[ZRPO] ?)*([0-9]{6,}[zZ]+ [A-Za-z]{3,4} ?[0-9]{2})/
+                => sub { $dtg = $1; $state = 'mtf' }
+            ],
+            [ qr/^(?:[ZRPO] ?)*([0-9]{6} [A-Za-z]{3} ?[0-9]{2})/
+                => sub { $dtg = $1; $state = 'mtf' }
+            ],
+        ],
 
-    for (split("\n", $text)) {
-        if ($state eq 'start') {
-            do { $dtg = $1; last } if /^(?:ROUTINE *)?(?:DTG )?(?:[ZRPO] ?)*([0-9]{6,}[zZ]+ [A-Za-z]{3,4} ?[0-9]{2})/;
-            do { $dtg = $1; last } if /^(?:[ZRPO] ?)*([0-9]{6} [A-Za-z]{3} ?[0-9]{2})/;
-        } else {
-            die "Unhandled state $state";
+        mtf => [
+            [ qr/./ => sub { $state = 'end' }
+            ],
+        ],
+    );
+
+    LINE: for my $line (split("\n", $text)) {
+        last if $state eq 'end';
+        my $ruleList = $rules{$state} or die "Unhandled state $state";
+
+        for my $rule (@$ruleList) {
+            my ($re, $sub) = ($rule->[0], $rule->[1]);
+            if ($line =~ $re) {
+                $sub->();
+                next LINE;
+            }
         }
     }
 
