@@ -74,23 +74,32 @@ get '/' => sub {
         map { ($_, scalar keys %{$navadmin_by_year{$_}}) } @SORTED_YEARS,
     };
 
-    my $latest_year = $SORTED_YEARS[0];
-    my $two_digit_year = sprintf("%02d", $latest_year % 100);
+    state @msg_list;
 
-    # Find the most recent messages in the current year to display them first
-    my $msg_bounds = min($year_counts->{$latest_year}, 8) - 1;
-    my @last_eight_ids = (reverse sort keys %{$navadmin_by_year{$latest_year}})[0..$msg_bounds];
-    my @last_eight = @navadmin_subj{map { "$_/$two_digit_year" } @last_eight_ids};
-    my $last_eight = [map { {
-        id    => $_,
-        twoyr => $two_digit_year,
-        subj  => $navadmin_subj{"$_/$two_digit_year"}
-    } } @last_eight_ids];
+    # Find the most recent messages in the current and last year to display
+    # them first
+    if (!@msg_list) {
+        for my $year ($SORTED_YEARS[0], $SORTED_YEARS[1]) {
+            my $two_digit_year = sprintf("%02d", $year % 100);
+
+            my $msg_bounds = min($year_counts->{$year}, 8 - @msg_list) - 1;
+            last if $msg_bounds < 0; # stop if the list is full
+
+            my @last_msg_ids = (reverse sort keys %{$navadmin_by_year{$year}})[0..$msg_bounds];
+            my @last_msg = @navadmin_subj{map { "$_/$two_digit_year" } @last_msg_ids};
+
+            push @msg_list, map { {
+                id    => $_,
+                twoyr => $two_digit_year,
+                subj  => $navadmin_subj{"$_/$two_digit_year"}
+            } } @last_msg_ids;
+        }
+    }
 
     $c->render(template => 'index',
         years       => \@SORTED_YEARS,
         year_counts => $year_counts,
-        last_eight  => $last_eight,
+        last_eight  => \@msg_list,
     );
 };
 
