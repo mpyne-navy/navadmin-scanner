@@ -1,0 +1,62 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 112139Z JAN 23 MID600052628036U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 005/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN// 
+ 
+SUBJ/REMOVAL OF COVID-19 VACCINATION MANDATE// 
+ 
+REF/A/DOC/NDAA-FY23/HR 7900// 
+REF/B/DOC/SECDEF/10JAN23// 
+REF/C/MSG/CNO WASHINGTON DC/311913ZAUG21// 
+REF/D/MSG/CNO WASHINGTON DC/132050ZOCT21// 
+REF/E/MSG/CNO WASHINGTON DC/152239ZNOV21// 
+REF/F/MSG/CNO WASHINGTON DC/151203ZDEC21// 
+REF/G/MSG/CNO WASHINGTON DC/302215ZMAR22// 
+ 
+NARR/REF A IS THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FY-23. 
+REF B IS SECDEF MEMO TITLED RESCISSION OF COVID-19 VACCINATION REQUIREMENT 
+FOR MEMBERS OF THE ARMED FORCES.   
+REF C IS NAVADMIN 190/21, 2021-2022 NAVY MANDATORY COVID-19 VACCINATION AND 
+REPORTING POLICY.   
+REF D IS NAVADMIN 225/21, COVID-19 CONSOLIDATED DISPOSITION AUTHORITY (CCDA). 
+REF E IS NAVADMIN 256/21, CCDA GUIDANCE TO COMMANDERS.   
+REF F IS NAVADMIN 283/21, CCDA EXECUTION GUIDANCE TO COMMANDERS.   
+REF G NAVADMIN 083/22, CCDA INTERIM GUIDANCE REGARDING MEMBERS REQUESTING 
+RELIGIOUS ACCOMMODATION FROM COVID-19 VACCINATION REQUIREMENTS. 
+ 
+RMKS/1.  On 23 December 2022, reference (a) directed the Secretary of Defense 
+(SecDef) to rescind the coronavirus disease 2019 (COVID-19) vaccination 
+mandate within 30 days.  On 10 January 2023, SecDef rescinded the mandate for 
+all branches of the armed forces in line with reference (b).  The actions 
+below align the Navy with this guidance. 
+a.  Cancel reference (c). 
+b.  All commands will immediately discontinue administrative separation 
+processing of Navy Service Members solely for refusing the COVID-19 vaccine, 
+including those with approved separation letters. 
+c.  All commands will immediately suspend any new adverse administrative 
+actions associated with refusing the COVID-19 vaccine as described in 
+references (c) through (g). 
+ 
+2.  Updated operational guidance will be promulgated in a follow-on standard 
+operational guidance serial. 
+ 
+3.  Additional detailed guidance regarding implementation of this policy will 
+be promulgated via future NAVADMIN. 
+ 
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
