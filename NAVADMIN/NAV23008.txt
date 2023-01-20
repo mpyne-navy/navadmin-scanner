@@ -1,0 +1,145 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 191946Z JAN 23 MID200080668118U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS
+NAVADMIN 008/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN// 
+ 
+SUBJ/EXPANSION OF THE MILITARY PARENTAL LEAVE PROGRAM// 
+ 
+REF/A/DOC/USC/27DEC21// 
+REF/B/LTR/USD/04JAN23// 
+REF/C/LTR/ASN/17JAN23// 
+REF/D/MSG/CNO WASHINGTON DC/211800ZJUN18// 
+REF/E/DOC/COMNAVPERSCOM/08NOV18// 
+REF/F/MSG/COMNAVRESFOR NORFOLK VA/302155ZJUN22// 
+REF/G/DOC/OPNAV/12DEC14// 
+REF/H/DOC/OPNAV/22APR22// 
+REF/I/DOC/COMNAVPERSCOM/22AUG02// 
+ 
+NARR/ REF A IS TITLE 10 U.S.C. SECTION 701 OUTLINES THE AUTHORITY TO 
+EXPAND THE MILITARY PARENTAL LEAVE PROGRAM.   
+REF B IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS DIRECTIVE-
+TYPE MEMORANDUM 23-001, EXPANSION OF THE MILITARY PARENTAL LEAVE PROGRAM. 
+REF C IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE AFFAIRS) 
+DIRECTIVE-TYPE MEMORANDUM, DEPARTMENT OF THE NAVY GUIDANCE FOR EXPANSION OF 
+THE MILITARY PARENTAL LEAVE PROGRAM.  
+REF D IS NAVADMIN 151/18, MILITARY PARENTAL LEAVE PROGRAM.   
+REF E IS MILPERSMAN 1050-415, PARENTAL LEAVE PROGRAM.   
+REF F IS ALNAVRESFOR, NAVY RESERVE COMPONENT MATERNITY LEAVE POLICY AND 
+GUIDELINES.   
+REF G IS OPNAVINST 1754.4A, NAVY ADOPTION REIMBURSEMENT POLICY.   
+REF H IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM.   
+REF I IS MILPERSMAN 1050-180, CONVALESCENT LEAVE.// 
+ 
+RMKS/1.  This NAVADMIN announces the expansion of the Military 
+Parental Leave Program in line with references (a) through (c). 
+This NAVADMIN cancels reference (d) and supersedes reference (e). 
+Reference (f) is unaffected by this guidance. 
+ 
+2.  Effective 27 December 2022, reference (b) implements 12 weeks of 
+non-chargeable leave for all Active Component (AC) members, Reserve 
+Component (RC) members who perform full-time active duties for 
+longer than 12 consecutive months, and RC members performing duty 
+under a call or order to active service for more than 12 consecutive 
+months.  In the event of a live birth, 12 weeks of non-chargeable 
+leave is authorized for the birth parent and non-birth parent.  For 
+the birth parent, the 12 weeks is in addition to convalescent leave 
+authorized by a medical provider and approved by a member's 
+commanding officer (CO).  The 12 weeks of non-chargeable leave is 
+also authorized for qualifying adoptions and long-term foster 
+situations and may be taken in one increment or multiple increments. 
+If taken in multiple increments, each increment must be for at least 
+7 days.  Unless extended in line with reference (b), parental leave 
+expires 1 year after the qualifying event. 
+ 
+3.  The Navy parental leave program will be executed in line with 
+reference (b).  Read reference (b) in its entirety.  Guidance 
+contained in this NAVADMIN is to be used as a supplement to 
+reference (b). 
+ 
+4.  Proof of Parentage for the Non-birth Parent:  Paragraph 2.b.(2) 
+of reference (b) requires proof of parentage for non-birth parents 
+to qualify for parental leave.  Examples of proof of parentage 
+include: 
+a.  being listed, with consent, as a parent on the birth 
+certificate of the child or other government issued document, 
+b.  acknowledgement in writing of an obligation to support the 
+child, either by voluntary agreement or court order, or 
+c.  registration, or pending registration, in the Defense 
+Enrollment Eligibility Reporting System (DEERS). 
+ 
+5.  Qualifying Adoption.  In addition to the definition of an 
+adoption in reference (b), a qualifying adoption is one that 
+qualifies for reimbursement of adoption expenses in line with 
+reference (g). 
+ 
+6.  Appeal Process if Incremental Parental Leave is disapproved. 
+Paragraph 3.a.(1) of reference (b) requires establishment of an 
+elective appeal process if a CO disapproves a request to take 
+parental leave in more than one increment.  Members may appeal 
+disapproval to the Immediate Superior in Command of their respective 
+unit. 
+ 
+7.  Requesting Parental Leave:  The appropriate category of parental 
+leave must be requested through e-Leave in Navy Standard Integrated 
+Personnel System (NSIPS).  NSIPS, to include NSIPS Web Afloat, will 
+be updated to reflect the expanded Military Parental Leave.  The 
+following procedures will be used for requesting parental leave in 
+NSIPS until the update is completed: 
+a.  Select Primary Caregiver Leave (PCL) and the appropriate 
+absence reason in block 12a.  If the parental leave is for placement 
+of a child in long-term foster care, the absence reason is to be 
+left blank. 
+b.  Requests for parental leave that exceed 42 days must be 
+submitted as separate PCL periods. 
+c.  Leave approvers are responsible for ensuring parental leave 
+is approved within the limits outlined in this NAVADMIN to include 
+maintaining record of a members parental leave balance for each 
+qualifying event. 
+ 
+8.  Navy-wide Advancement Exam (NWAE).  Parental leave is an 
+authorized reason for ordering a substitute exam when the leave does 
+not permit administration on the regularly scheduled NWAE date under 
+and within guidelines, limitations, and timelines outlined in 
+published exam cycle messages. 
+ 
+9.  Physical Fitness Assessment (PFA): 
+a.  The authorized deferment period from participating in the PFA 
+as listed in reference (h), or any future PFA update, begins from 
+the time a health care provider confirms the member is pregnant 
+until the end of 12 months following the member giving birth to a 
+child. 
+b.  Utilization of parental leave by the non-birth parent is not 
+justification for non-participation in PFAs. 
+ 
+10.  No member will be disadvantaged in their career, including 
+limitations in their assignments (except where members voluntarily 
+agree to accept an assignment limitation), performance appraisals, 
+or selection for professional military education or training, solely 
+because they take any of the non-chargeable leave outlined herein. 
+ 
+11.  Additional information, including reference (b), can be found 
+at:  https://www.mynavyhr.navy.mil/References/Pay-Benefits/N130C/. 
+Point of contact for this matter is the office of Pay and Allowances 
+(OPNAV N130C) and can be reached via e-mail at 
+nxag_n130c(at)navy.mil. 
+ 
+12.  This NAVADMIN will remain in effect until superseded or 
+canceled.  Updates to references (e) and (i) reflecting the changes 
+in this NAVADMIN will be released at a later date. 
+ 
+13.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
