@@ -1,0 +1,61 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 231226Z JAN 23 MID200080675402U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 010/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JAN// 
+ 
+SUBJ/FY-24 CHAPLAIN CORPS ADVANCED EDUCATION PROGRAM (CORRECTED COPY)// 
+ 
+REF/A/DOC/COCINST/16FEB22// 
+NARR/REF A IS COCINST 1521.1E, CHAPLAIN CORPS ADVANCED EDUCATION PROGRAM. 
+ 
+RMKS/1.  This NAVADMIN solicits applications and provides guidance 
+for the FY-24 Chaplain Corps Advanced Education Program (CHC AEP). 
+ 
+2.  The CHC AEP raises the level of Navy chaplain professional 
+competency beyond the minimum professional and educational 
+qualifications.  Additionally, the CHC AEP provides knowledge, skills 
+and abilities that complement training and education conducted 
+through the Naval Chaplaincy School (NCS).  Applicants should be 
+available to commence their studies in the Fall term of CY-24. 
+Pursuant to reference (a), a CHC AEP selection committee will convene 
+before 1 June 2023. 
+ 
+3.  The FY-24 CHC AEP will consist of: graduate programs at civilian 
+educational institutions in Ethics, Religion in Culture, or 
+Homiletics; graduate level programs at military service colleges and 
+schools; and pastoral care residencies. 
+ 
+4. Eligibility: All applicants for the FY-24 CHC AEP must be Active 
+Component Navy Chaplains (Designator: 4100) and able to complete a 
+utilization tour without a waiver following completion of the 
+program.  See reference (a) for additional eligibility criteria. 
+ 
+5. PII free application packages shall be submitted to LT Richard W. 
+Griffin at richard.w.griffin2.mil(AT)us.navy.mil with a carbon copy to 
+LT Youree H. Posey at youree.h.posey.mil(AT)us.navy.mil.  Completed 
+packages shall have a subject line of "FY-24 Chaplain Corps Advanced 
+Education Program", contain a single PDF file, and reach NCS NLT 
+15 April 2023. 
+ 
+6.  Point of contact is LT Richard W. Griffin, Advanced Education 
+Program Manager who can be reached at (401)-841-3930 or via e-mail at 
+richard.w.griffin2.mil(AT)us.navy.mil. 
+ 
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on 
+behalf of Rear Admiral Gregory N. Todd, Chief of Chaplains.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
