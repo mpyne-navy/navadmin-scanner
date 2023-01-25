@@ -1,0 +1,110 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 241353Z JAN 23 MID200080679203U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 014/23 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/NAVADMIN/ CNO WASHINGTON DC/JAN// 
+ 
+SUBJ/ MEDICAL RETENTION REVIEWS FOR THE NAVY SELECTED RESERVE MEMBER// 
+ 
+REF/A/DOC/RESPERMAN 6000-010/23MAR20// 
+REF/B/DOC/ DODINST 6130.03, VOL. 2/4SEP20// 
+REF/C/DOC/ DODINST 6490.07/5FEB10// 
+ 
+NARR/REF A IS COMMANDER NAVY RESERVE FORCE POLICY FOR RESERVE MEDICAL. 
+REF B IS DoDI 6130.03, VOL. 2 ON MEDICAL STANDARDS FOR MILITARY SERVICE: 
+RETENTION.   
+REF C IS DoDI 6490.07 ON DEPLOYMENT-LIMITING MEDICAL CONDITIONS FOR SERVICE 
+MEMBERS AND DOD CIVILIAN EMPLOYEES. 
+ 
+RMKS/1.  The purpose of this Navy Administrative (NAVADMIN) message is to 
+communicate required contents and routing procedures for Medical Retention 
+Reviews (MRR) for Navy selected Reserve members, as required by references 
+(a) and (b).  This communication is in advance of an update to the 
+NAVMED P-117, Chapter 15, Article 23. 
+ 
+2.  Echelon 5 medical departments will initiate an MRR if they determine 
+that a Navy Reserve member has a service-limiting condition, which was not 
+incurred on Active orders, does not improve within the period of Temporarily 
+Not Physically Qualified (TNPQ), and the condition meets at least one of 
+the following: 
+    a.  Does not meet published retention standards in reference (b) and any 
+future published Navy and Marine Corps-specific retention standards. 
+    b.Makes Reserve member incapable of serving on a large deck surface 
+ship with the medical support of a senior medical officer; 
+    c.Requires a waiver to deploy per reference (c); or 
+    d.Makes Reserve member incapable of working in an operational setting 
+for at least six months without access to specialty medical care. 
+    e.If it is unclear whether a Navy MRR submission is necessary and 
+consistent with applicable guidance, the echelon 5 medical representative 
+must discuss with the next higher echelon.  MRR submissions are often 
+unnecessary for conditions that meet published medical retention standards 
+and do not interfere with drilling or mobilization.  Medical representatives 
+will consider both medical standards and the members ability to 
+satisfactorily perform appropriate military duties commensurate with the 
+members office, grade, rank, or rate.  A condition that does not necessitate 
+an MRR, or which has been determined physically qualified (PQ) during an MRR, 
+might still require an area of responsibility waiver if the Reserve member is 
+mobilizing to a more restrictive theater. 
+ 
+3.  The Navy MRR package will be sent, via appropriate chain of command, to 
+the echelon 4 Medical Director for submission. 
+ 
+4.  The echelon 4 Medical Director will review Navy MRR packages and provide 
+one of the following recommendations regarding qualification for retention: 
+    a.Physically qualified:  For Navy Selected Reserve deemed PQ for 
+retention, echelon 4 will provide documentation of PQ status and a Page 13 
+for entry into the members medical record. 
+    b.Physically qualified for retention but with potential Mobilization 
+limitations:  For Navy Selected Reserve deemed PQ but with potential 
+Mobilization limitations, echelon 4 will submit determination to 
+NAVPERSCOM (PERS-95) for message release. 
+    c.Not physically qualified (NPQ):  All NPQ determinations by the echelon 
+4 Medical Director will be routed to BUMED-N34 to determine whether NPQ 
+retention is recommended, or NPQ retention is not recommended, prior to 
+sending to PERS. 
+For NPQ determinations, when a recommendation can be made regarding retention 
+in the Reserve Component, BUMED will send the recommendation to NAVPERSCOM 
+(PERS-95) for adjudication and final action. 
+    d.If a recommendation cannot be made regarding retention (e.g., 
+incomplete information, not enough time after treatment initiated to 
+demonstrate stability or instability), the echelon 4 Medical Director or 
+BUMED-N34 will request further information from the cognizant echelon 5 
+medical representative and the member via the members administrative chain of 
+command. 
+ 
+5.  Receipt of Veterans Affairs disability compensation for one or more 
+service-connected conditions does not, in and of itself, render a Service 
+member unfit for retention.  Before initiating a Navy MRR, it is the 
+responsibility of the echelon 4 and echelon 5 medical personnel to assess 
+whether a Veteran Affair compensable condition will likely affect performance 
+of duty, retention, or prevent the member from safely or effectively 
+fulfilling duties during a mobilization or deployment commensurate with the 
+members office, grade, rank, or rate. 
+ 
+6.  Echelon 3 may develop standard operating procedures to assist echelon 5 
+medical representatives on identifying conditions that require a Navy MRR. 
+ 
+7.  Navy Bureau of Medicine and Surgery points of contact for procedural 
+questions regarding this policy can be reached at 
+usn.ncr.bumedfchva.list.m34@health.mil.  This mailbox is not configured to 
+receive email containing protected health information or personally 
+identifiable information. 
+ 
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
