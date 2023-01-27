@@ -74,6 +74,9 @@ sub decode_msg_head($head)
         REF => [ ],
     );
 
+    my %single_line_fields = map { ($_, 1) }
+        qw(REF MSGID);
+
     my @lines = split(/\r?\n/, $head);
     my $in_field = 0;
     my $partial_field = '';
@@ -121,16 +124,23 @@ sub decode_msg_head($head)
             my ($field, $payload) = split(' ', $line, 2);
             $set_field->($field, $payload);
         } elsif ($line =~ /^[A-Z]+ *\//) {
-#           say "line has a slash [$line]";
+#           say STDERR "line has a slash [$line]";
             # slash
-            if ($line !~ m,// *$, && $line !~ m,^REF/,) {
+            my ($field_id) = (split(/\//, $line, 2)); # ignore second part
+
+#           say STDERR "\tField is $field_id";
+
+            if ($line !~ m,// *$, && !exists $single_line_fields{$field_id}) {
                 # this line only has part of the field. Don't parse until we
                 # have the whole field
-#               say "\tline is partial [$line]";
+#               say STDERR "\tline is partial [$line]";
                 $in_field = 1;
                 $partial_field = $line;
                 next;
             }
+
+            # Check for things like SUBJ//blah blah// (first // should be /)
+            $line =~ s,^([A-Z]+)//([A-Z]),\1/\2,;
 
             # Got the whole field here, read it
             my ($field, $payload) = split(/ *\/ */, $line, 2);
