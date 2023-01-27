@@ -9,6 +9,7 @@ use feature 'signatures';
 
 use Mojo::File;
 use Mojo::JSON qw(encode_json);
+use List::Util qw(first);
 
 sub usage()
 {
@@ -81,14 +82,48 @@ sub decode_msg_head($head)
     my $in_field = 0;
     my $partial_field = '';
 
+    my $trim = sub($text) {
+        my $res = $text;
+        $res =~ s/^ +//;
+        $res =~ s/ +$//;
+        $res;
+    };
+
+    # sets REF text amplification e.g. 'REF B IS MILPERSMAN 1200-200'
+    my $set_ref_ampn = sub($id, $ampn) {
+        my $ref = first { $_->{id} eq $id } @{$fields{REF}};
+        die "Unknown field $id" unless $ref;
+        $ref->{ampn} = $ampn;
+    };
+
     my $set_field = sub($field, $payload) {
-        my $val = $payload;
-        $val =~ s/^ +//;
-        $val =~ s/ +$//;
+        my $val = $trim->($payload);
 
         if ($field eq 'REF') {
             my ($id, $info) = split(/\//, $val, 2);
             push @{$fields{REF}}, { id => $id, text => $info };
+        } elsif ($field eq 'NARR') {
+            my @refs = split(/REF ([A-Z]+) /, $val);
+            # this should give us a result like '', 'A', 'IS NAVADMIN 304/17', 'B', etc.
+#           say STDERR encode_json(\@refs);
+            if (((scalar @refs) % 2) != 1 || $refs[0] ne '') {
+                say STDERR "Unrecognized NARR";
+                return;
+            }
+
+            shift @refs;
+            my %ref_ampns = @refs; # convert to hash
+            if (my $bad_key = first { length $_ > 1 } keys %ref_ampns) {
+                say STDERR "Key $bad_key is malformed in NARR fields";
+                return;
+            }
+
+            for my $ampn_id (keys %ref_ampns) {
+                my $ampn = $trim->($ref_ampns{$ampn_id});
+                $ampn =~ s/^IS //; # Sometimes not present...
+                $ampn =~ s/,.*$//; # Remove anything after a comma if present
+                $set_ref_ampn->($ampn_id, $ampn);
+            }
         } else {
             $fields{$field} = $val;
         }
