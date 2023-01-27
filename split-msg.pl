@@ -79,11 +79,15 @@ sub decode_msg_head($head)
     my $partial_field = '';
 
     my $set_field = sub($field, $payload) {
+        my $val = $payload;
+        $val =~ s/^ +//;
+        $val =~ s/ +$//;
+
         if ($field eq 'REF') {
-            my ($id, $info) = split(/\//, $payload, 2);
+            my ($id, $info) = split(/\//, $val, 2);
             push @{$fields{REF}}, { id => $id, text => $info };
         } else {
-            $fields{$field} = $payload;
+            $fields{$field} = $val;
         }
     };
 
