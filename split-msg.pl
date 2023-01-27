@@ -123,7 +123,7 @@ sub decode_msg_head($head)
         } elsif ($line =~ /^[A-Z]+ *\//) {
 #           say "line has a slash [$line]";
             # slash
-            if ($line !~ m,// *$,) {
+            if ($line !~ m,// *$, && $line !~ m,^REF/,) {
                 # this line only has part of the field. Don't parse until we
                 # have the whole field
 #               say "\tline is partial [$line]";
