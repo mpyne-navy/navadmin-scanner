@@ -131,6 +131,14 @@ strings except for `REF`, which if present will be an array of objects.
     2. `text, the remainder of the field, normally containing reference type, date, etc.
     3. `ampn`, "amplification", optional part of the message but normally has more info on what the reference is (e.g. NAVADMIN 142/18).
 
+* build-reference-list.pl -- Walks through all NAVADMINs in the checked-out
+  repo (preferring .ctxt versions over .txt versions) and reads in the
+  references of each NAVADMIN to build a cross-reference tracker, which is
+  output as JSON data.  Debugging messages are output to STDERR.  The same
+  message reading library is used as for split-msg.pl.
+
+## Test Suite
+
 A test suite can be run testing this script against the repository database of
 NAVADMIN messages, if the Perl "Test::Harness" module is installed.  If so, you
 can run the `prove` command: `prove -I modules -r`, which recursively runs all
