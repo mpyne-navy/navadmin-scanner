@@ -33,6 +33,11 @@ Subsequently (based on whether a `.has-run` file is present) it will only check
 for NAVADMINs for the current year, and will use the timestamp of existing
 NAVADMIN files to re-download from the server if the NAVADMIN is changed.
 
+The web application will provide a hyperlink to the original (official) source
+if the chosen hyperlink is provided in `navadmin_meta.json`.  The download
+script does this by default but you have to remember to check the updated
+meta.json back into the repository.
+
 ## Serving up NAVADMINs
 
 You can run `./navadmin-viewer.pl daemon` to run a simple Web server (also
@@ -83,3 +88,50 @@ Once you have a working container then getting it published and available to
 the wider world can be done using the vast array of platform services that are
 now available, including AWS, Azure, Google, [Fly](https://fly.io/) and
 probably a hundred others.
+
+# Auxiliary NAVADMIN admin
+
+Some other scripts are popping up in this repo to help with cleaning up and
+parsing the downloaded NAVADMIN messages.
+
+## NAVADMIN Cleansing
+
+These scripts are used when building the Docker container immediately prior to
+deployment.  The changes they make are performed each deployment without
+updating the file in the git repository and without making textual changes to
+the NAVADMINs themselves.
+
+* check-file-miscoded.pl -- reads in a list of files and then writes out a message if any character set issues are present.
+* gen-miscoded-files-list -- A shell script using check-file-miscoded.pl against all downloaded NAVADMINs
+* fix-miscoded-files -- A shell script reading in a list of files and a specific issue and then updating the file to correct the issue
+
+This script makes minor edits to the NAVADMINs passed on the command line, or
+to all NAVADMINs if no specific files are mentioned, trying to correct
+obviously errorneous mistakes and simplify multiple possible forms for a
+message feature (e.g. GENTEXT/RMKS) into a single format for easier
+understanding later.  This writes the result into a separate .ctxt file to
+avoid the potential for accidentally committing the result needlessly.
+
+* clean-rmks.pl -- as above
+
+## NAVADMIN Parsing
+
+I'm now working on a script that can read in a NAVADMIN and try to reformat it into a computer-readable form.
+
+* split-msg.pl -- Reads in a NAVADMIN filename and prints out a JSON blob with the decoded contents of the NAVADMIN.
+
+The JSON output of the above script is an object containing three fields:
+
+1. `head`, a string with the newline-separated text of the NAVADMIN including all radio formatting codes.
+2. `body`, a string with the newline-separated text of the NAVADMIN body, including other associated radio formatting (e.g. the `BT` at the end).
+3. `fields`, an object containing best-effort decoding attempt at the fields in the header.  All sub-fields that are read will be
+strings except for `REF`, which if present will be an array of objects.
+  * Each object in the `REF` array will have up to three entries:
+    1. `id`, the REF ID as identified in the message (A, B, etc).
+    2. `text, the remainder of the field, normally containing reference type, date, etc.
+    3. `ampn`, "amplification", optional part of the message but normally has more info on what the reference is (e.g. NAVADMIN 142/18).
+
+A test suite can be run testing this script against the repository database of
+NAVADMIN messages, if the Perl "Test::Harness" module is installed.  If so, you
+can run the `prove` command: `prove -I modules -r`, which recursively runs all
+modules under `t/`.
