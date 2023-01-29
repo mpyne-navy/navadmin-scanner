@@ -19,6 +19,7 @@ COPY navadmin-viewer.pl      \
      check-file-miscoded.pl  \
      clean-rmks.pl           \
      navadmin_meta.json      \
+     build-reference-list.pl \
      gen-miscoded-files-list \
      fix-miscoded-files      \
          /opt/navadmin-scanner/
