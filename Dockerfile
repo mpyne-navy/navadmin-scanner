@@ -25,8 +25,10 @@ COPY navadmin-viewer.pl      \
          /opt/navadmin-scanner/
 COPY NAVADMIN                /opt/navadmin-scanner/NAVADMIN/
 COPY assets                  /opt/navadmin-scanner/assets/
+COPY modules                 /opt/navadmin-scanner/modules/
 
-RUN ./gen-miscoded-files-list | ./fix-miscoded-files && rm *miscoded* && ./clean-rmks.pl && ./build-reference-list.pl >cross-refs.json 2>/dev/null
+RUN ./gen-miscoded-files-list | ./fix-miscoded-files && rm *miscoded* && ./clean-rmks.pl
+RUN ./build-reference-list.pl >cross-refs.json
 
 EXPOSE 3000
 
