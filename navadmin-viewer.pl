@@ -152,7 +152,7 @@ get '/NAVADMIN/:id/:twoyr'
     my $index = "$id/$twoyr";
 
     my $title = $navadmin_subj{$index};
-    return $c->reply->exception("Couldn't find the NAVADMIN!")
+    return $c->reply->not_found("Couldn't find NAVADMIN $index!")
         unless $title;
 
     my $name = "NAVADMIN/NAV$twoyr$id.ctxt";
@@ -543,3 +543,11 @@ refer back to this one:</summary>
 
   </body>
 </html>
+
+@@ not_found.html.ep
+% layout 'default';
+% title 'NAVADMIN not found';
+
+<div class="notification is-warning is-size-4 has-text-centered">
+    The page or NAVADMIN you are looking for could not be found.
+</div>
