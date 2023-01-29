@@ -12,6 +12,7 @@ use List::Util qw(min);
 my %navadmin_by_year;
 my %navadmin_subj;
 my $navadmin_dl_metadata;
+my $cross_refs;
 my @SORTED_YEARS;
 
 # Set static content directory (must be done early, before routes are defined)
@@ -27,6 +28,12 @@ hook(after_static => sub ($c) {
 # Read in metadata from download phase
 my $file_text = eval { Mojo::File->new("navadmin_meta.json")->slurp; } // "{}";
 $navadmin_dl_metadata = Mojo::JSON::decode_json($file_text);
+
+my $cross_ref_data = eval { Mojo::File->new("cross-refs.json")->slurp; } // '';
+$cross_ref_data //= q(
+"NAVADMINs": {}
+);
+$cross_refs = Mojo::JSON::decode_json($cross_ref_data);
 
 # Find known NAVADMINs and build up data mapping for later
 foreach my $file (glob("NAVADMIN/NAV*.txt")) {
@@ -62,6 +69,11 @@ foreach my $file (glob("NAVADMIN/NAV*.txt")) {
 }
 
 @SORTED_YEARS = reverse sort keys %navadmin_by_year;
+
+# Add a helper in templates to grab NAVADMIN title by id
+helper title_from_id => sub ($c, $id) {
+    return $navadmin_subj{$id};
+};
 
 # Now that we've loaded all NAVADMINs we are aware of, define the Web site
 # routes that we will support using Mojolicious::Lite's DSL.
@@ -137,8 +149,9 @@ get '/NAVADMIN/:id/:twoyr'
     my $c = shift;
     my $id = $c->stash('id');
     my $twoyr = $c->stash('twoyr');
+    my $index = "$id/$twoyr";
 
-    my $title = $navadmin_subj{"$id/$twoyr"};
+    my $title = $navadmin_subj{$index};
     return $c->reply->exception("Couldn't find the NAVADMIN!")
         unless $title;
 
@@ -154,13 +167,17 @@ get '/NAVADMIN/:id/:twoyr'
         return $c->reply->file($name);
     }
 
-    my $url = $navadmin_dl_metadata->{"$id/$twoyr"} // '';
+    my $url = $navadmin_dl_metadata->{$index} // '';
+
+    # Will be an array of NAVADMINs that link to this one in format "xxx/yy"
+    my $cross_ref = $cross_refs->{NAVADMINs}->{$index} // [];
 
     # Otherwise show a fancy web page
     $c->render(template => 'show-navadmin',
         navadmin_title => $title,
         filepath => $name,
         url      => $url,
+        crossref => $cross_ref,
     );
 } => 'serve-navadmin';
 
@@ -308,9 +325,35 @@ __DATA__
   </ul>
 </nav>
 
+<div class="content">
 <h3 class="title"><%= $navadmin_title %>:</h3>
 
-<div class="content">
+% if (scalar @$crossref) {
+<details class="crossrefs mb-3">
+<summary>
+<span class="tag"><%= scalar @$crossref %></span> NAVADMINs are known that
+refer back to this one:</summary>
+<table class="table">
+<thead>
+  <tr>
+    <th>NAVADMIN ID</th>
+    <th>Title</th>
+  </tr>
+</thead>
+<tbody>
+% for my $cr (@$crossref) {
+% my ($refid, $reftwoyr) = split('/', $cr);
+  <tr>
+    <td>NAVADMIN <%= $cr %></td>
+    <td><a href="<%= url_for('serve-navadmin', id => $refid, twoyr => $reftwoyr) %>"><%= title_from_id($cr) %></a></td>
+  </tr>
+% }
+</tbody>
+</table>
+</details>
+% }
+
+<main>
 <pre>
 % my $content = Mojo::File->new($filepath)->slurp;
 % my $escaped = b($content)->decode('UTF-8')->xml_escape;
@@ -318,6 +361,7 @@ __DATA__
 % $escaped =~ s{([a-zA-Z0-9._-]+)\([Aa][Tt]\)([a-zA-Z.]+\.[a-zA-Z]+)}{<a title="Decoded from $&" href="mailto:\L$1\@$2\E">\L$1\@$2</a>}g;
 <%= b($escaped) %>
 </pre>
+</main>
 
 % if ($url) {
 <p><a href="<%= $url->{dl_url} %>" rel="nofollow noopener" target="_blank">Official source for this NAVADMIN</a></p>
