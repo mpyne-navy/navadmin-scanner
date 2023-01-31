@@ -35,7 +35,8 @@ my %refs = (
 # Each key should map to a regex with a capture group that pulls out the
 # series/ID of the instruction for the type that corresponds to the key
 my %ref_scanners = (
-    NAVADMINs => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
+    NAVADMINs  => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
+    OPNAVINSTs => qr/^OPNAVINST *([0-9]{4,5}\.[0-9][A-Z]?)\b/,
 );
 
 foreach my $path (@files) {
@@ -74,7 +75,7 @@ foreach my $path (@files) {
             } keys %ref_scanners;
         next unless $dest_dictionary;
 
-        $dest_ref =~ s/-/\//;
+        $dest_ref =~ s/-/\//; # NAVADMIN 123-92 rather than 123/92
 
         $refs{$dest_dictionary}->{$dest_ref} //= [ ];
         push @{$refs{$dest_dictionary}->{$dest_ref}}, $cur_navadmin;
