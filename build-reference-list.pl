@@ -10,6 +10,7 @@ use lib 'modules';
 
 use MsgReader qw(read_navadmin_from_file);
 
+use List::Util qw(first);
 use Mojo::JSON qw(encode_json);
 
 # Get list of all available NAVADMINs, preferring .ctxt version if available
@@ -29,6 +30,12 @@ my @files = Mojo::File->new('NAVADMIN')
 my %refs = (
     NAVADMINs =>  { },
     OPNAVINSTs => { },
+);
+
+# Each key should map to a regex with a capture group that pulls out the
+# series/ID of the instruction for the type that corresponds to the key
+my %ref_scanners = (
+    NAVADMINs => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
 );
 
 foreach my $path (@files) {
@@ -60,16 +67,17 @@ foreach my $path (@files) {
         my $ampn = $ref->{ampn} // undef;
         next unless $ampn;
 
-        if ($ampn =~ /^NAVADMIN/) {
-            my ($dest_navadmin) = $ampn =~ /([0-9]{3} *[\/-]? *[0-9]{2})\b/;
-            if (!$dest_navadmin) {
-                say STDERR "Can't figure out dest NAVADMIN in $cur_navadmin REF ", $ref->{id}, " dest $ampn";
-                next;
-            }
-            $dest_navadmin =~ s/-/\//;
-            $refs{NAVADMINs}->{$dest_navadmin} //= [ ];
-            push @{$refs{NAVADMINs}->{$dest_navadmin}}, $cur_navadmin;
-        }
+        my $dest_ref;
+        my $dest_dictionary =
+            first {
+                ($dest_ref) = $ampn =~ $ref_scanners{$_};
+            } keys %ref_scanners;
+        next unless $dest_dictionary;
+
+        $dest_ref =~ s/-/\//;
+
+        $refs{$dest_dictionary}->{$dest_ref} //= [ ];
+        push @{$refs{$dest_dictionary}->{$dest_ref}}, $cur_navadmin;
     }
 }
 
