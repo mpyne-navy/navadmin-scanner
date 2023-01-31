@@ -1,115 +1,138 @@
 CLASSIFICATION: UNCLASSIFIED// 
 ROUTINE 
-R 251546Z JAN 23 MID200080682680U 
-FM CNO WASHINGTON DC 
+R 272032Z JAN 23 MID200080689541U 
+FM COMUSFLTFORCOM NORFOLK VA 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
+SECNAV WASHINGTON DC 
+CTF 80 
 BT 
 UNCLAS 
  
 NAVADMIN 015/23 
  
-PASS TO OFFICE CODES: 
-FM CNO WASHINGTON DC//N7// 
-INFO CNO WASHINGTON DC//N7// 
-MSGID/GENADMIN/CNO WASHINGTON DC/N7/JAN// 
+MSGID/GENADMIN/COMUSFLTFORCOM NORFOLK VA/N00/JAN// 
  
-SUBJ/MIT SEMINAR XXI CLASS OF ACADEMIC YEAR 2023-2024 CALL FOR APPLICATIONS// 
+SUBJ/U.S. FLEET FORCES COMMAND LIMITED DUTY AND DISABILITY EVALUATION SYSTEM 
+IMPROVEMENT SPRINT// 
  
-RMKS/1.  This is the call for applications for the Academic Year 2023-2024 
-(AY23-24) Massachusetts Institute of Technology (MIT) Seminar XXI - Foreign 
-Policy, International Relations, and the National Interest.  Seminar XXI 
-represents a unique opportunity for future policy leaders to share 
-perspectives while cultivating their understanding of the intricate 
-relationships among economy, society, and culture in the international 
-environment.  Seminar XXI Fellows develop broad perspectives and analytical 
-skills that enable them to evaluate and formulate national policy. 
+REF/A/DOC/COMNAVPERSCOM/090518// 
+REF/B/DOC/OPNAV/25SEP18// 
  
-2.  Seminar XXI is an educational program for current and future leaders in 
-the U.S. national security and foreign policy communities.  Administered by 
-MIT's Center for International Studies, the program is intended for 
-professionals with significant potential to move into key decision-making 
-roles in the next 5-10 years.  Program participants, known as Fellows, come 
-from a wide range of sponsoring organizations including the armed forces, 
-Federal agencies, non-governmental organizations, and private companies.  The 
-goal of Seminar XXI is to equip rising military officials and civilian 
-executives with the multi-dimensional analytic skills needed to understand 
-foreign relations and shape effective policy options for the United States. 
+NARR/REF A IS MILPERSMAN 1300-1400, LIMITED DUTY.   
+REF B IS OPNAVINST 1300.20, DEPLOYABILITY ASSESSMENT AND ASSIGNMENT 
+PROGRAM.// 
  
-3.  Course Schedule.  Participants will meet for a total of nine sessions 
-during the 2023-24 academic year, beginning in September 2023 and ending in 
-May 2024. Sessions will include one (1) introductory session; three (3) 
-weekend sessions in Warrenton, VA; and five (5) weeknight sessions in 
-Washington, D.C. 
+RMKS/1. Chief of Naval Operations has designated Commander, U.S. Fleet Forces 
+Command (COMUSFLTFORCOM) as the supported Commander to lead a SPRINT 
+addressing the number, distribution, and care of the Navy's Limited Duty 
+(LIMDU) and Disability Evaluation System (DES) Sailors throughout the Navy. 
+The SPRINT will work in parallel to an existing OPNAV N1 led effort to 
+address LIMDU and DES, and will focus on taking immediate action to improve 
+the oversight and management of LIMDU personnel and alleviate the friction in 
+the LIMDU process. In order to achieve the desired end state, a  
+Cross-Functional Team (CFT) of stakeholders is working to identify specific 
+actions to improve our LIMDU process and will report back to me no later than 
+28 February 2023. In the interim, the following guidance will empower 
+commanders (CDRs), commanding officers (COs), and officers-in-charge (OICs) 
+to set the foundation for positive Navy-wide actions targeted at the LIMDU 
+Sailor population. 
  
-4.  Eligibility.  Navy Seminar XXI Fellows will be Navy officers (O5-O7) and 
-civilians (GS14-15, SES, or equivalent) with clear promotion potential, and 
-opportunity to apply these skills in their future assignments in the Navy. 
-This application process is open only to individuals serving in Navy 
-organizations, in the Office of the Secretary of Defense (OSD), or other 
-offices without dedicated Seminar XXI quotas attached to commands located 
-within a 225-mile driving distance from the National Capital Region for the 
-entire period of September 2023 through May 2024.  Navy personnel in 
-Government and Defense Agencies with MIT Seminar XXI programs or at the Joint 
-Staff must apply through their parent organizations.  Please contact the 
-OPNAV N7 POCs listed in this NAVADMIN for questions on eligibility. 
+2. The Navy must shift from a passive to an active posture on both LIMDU and 
+DES management. LIMDU and DES Sailors are a valuable and permanent part of 
+our Navy. Their primary mission is returning to full duty or departing the 
+service with dignity. They deserve the full support and focused commitment of 
+their leadership team. In all cases, when Sailors either become LIMDU or are 
+assigned to a new command in a LIMDU status, leadership must fully integrate 
+these Sailors into all aspects of the command to the maximum extent 
+practical. CDRs, COs, and OICs remain responsible to facilitate and ensure 
+LIMDU Sailors attend all of their necessary medical and administrative 
+appointments, which is their primary mission. As such, leadership must be 
+thoughtful and deliberate in assigning duties, which can be completed between 
+appointments, actively support the command's mission, and reinforce the 
+importance of each Sailor to the command. Active case management will require 
+action from Bureau of Medicine and Surgery (BUMED) and Navy Personnel 
+Command (PERS) to provide proper training and education on LIMDU and DES 
+management and increase precision in the distribution of LIMDU and DES 
+Sailors as vetted by the TYCOM and ISIC. Finally, in instances where command 
+leadership is charged with the responsibility of leading Sailors requiring 
+added support (e.g., non-ambulatory, acute treatment requirements, out-of-
+rate with no employment opportunities, etc.), it is imperative that the chain 
+of command elevate concerns in a timely manner, for barrier removal and 
+resolution by higher echelon. 
  
-5.  Program Specifics.  A total of twelve (12) Navy officers and Civilians 
-will be selected for the AY23-24 Seminar XXI fellowships.  Selectees must 
-meet minimum attendance requirements and are encouraged to attend every class 
-with the full support of their command.  There is no tuition cost to the 
-participants or their individual commands, regardless of duty 
-station.  However, participants or their commands are responsible for all 
-non-tuition expenses, including travel, for Seminar XXI meetings and 
-activities. 
+3. Immediate actions assigned by COMUSFLTFORCOM as the Supported Commander to 
+be completed NLT 28 February 2023: 
+a. Per ref (a), all commands are required to appoint a Deployability 
+Coordinator (DC). 
+b. Effective with the release of this message, COMUSFLTFORCOM directs that 
+all Navy commands with a LIMDU population in excess of 50 Sailors SHALL 
+appoint a DC as a primary duty. 
+c. For Navy commands with a LIMDU population less than 50 Sailors, the DC may 
+be appointed as a collateral duty. 
+d. Commands SHALL appoint additional primary or collateral duty DCs as 
+necessary to ensure that the ratio of DCs to LIMDU Sailors does not exceed 
+1:50. 
+e. Commands SHALL review both refs (a) and (b) to ensure full compliance with 
+the current policy regarding LIMDU and DES Sailors. 
+f. Commands SHALL proactively update their command manning documents to 
+accurately reflect the status of LIMDU and DES Sailors. Leadership SHALL 
+coordinate with Navy Medical Readiness and Training Command (NMRTC) and PERS-
+45, the subject matter experts on policy matters, in updating their command 
+manning documents. This will remediate a significant factor in the 
+enterprise-wide confusion regarding the number and distribution of LIMDU 
+Sailors that arise when Sailors are assigned incorrect accounting category 
+code (ACC) or Navy enlisted classification (NEC) codes. 
+g. To help in executing the above actions, CDRs, COs, OICs, and other triad 
+members are required to review the existing CO's Tool Kit for  
+Non-Deployability located on the MyNavyHR website, located at the following:  
+https://www.mynavyhr.navy.mil/Career-Management/Detailing/Deployability/.  
+Awareness of available resources, the common lexicon and terminology, and 
+basic deployability determination process will empower CDRs, COs, and OICs to 
+more effectively manage their LIMDU and DES Sailors. 
+h. Reporting instructions on completion of steps in paragraphs 3a through 3c 
+will be promulgated SEPCOR. 
  
-6.  Admission Process.  For AY23-24, MIT will select a total of 80 personnel 
-across the Federal Government.  Of these, 12 will be Navy nominees.  A Navy 
-selection panel will choose, from all Navy applicants, those 12 individuals 
-with the best combination of experience, accomplishments, and clear potential 
-for significant future advancement and leadership positions. 
+4. Next steps: 
+a. The LIMDU and DES CFT will examine areas of the LIMDU and DES process that 
+are outside of the CDRs, COs, and OICs' ability to control. The first 
+challenge for the CFT is to look at the 
+distribution of LIMDU and DES Sailors with the goal of improving the 
+precision of the LIMDU distribution process. Additionally, the process for 
+placing LIMDU and DES Sailors in-rate must be scrutinized. Factors such as 
+rank, berthing accommodations, command mission, opportunities to conduct in-
+rate work, and the ability/inability of the individual to conduct such work 
+must be assessed by respective TYCOMs/ISICs in conjunction with  
+PERS-40/PERS-45 as appropriate, to be validated by the receiving command 
+prior to Sailors arrival. 
+b. For the command DCs, the LIMDU and DES CFT will direct that formal 
+education be established and standardized by BUMED and PERS to be facilitated 
+by NMRTC no later than 28 February 2023. At a minimum, the training will 
+cover the Health Insurance Portability and Accountability Act (HIPAA) 
+guidance, Privacy Act guidance, and guidance for frontline supervisors on how 
+to engage their Sailors without violating confidentiality standards. The 
+purpose of the training is to ensure that DCs have the necessary tools to 
+help their LIMDU Sailors return to service, not to further restrict 
+information from the command. In addition to the formalized training, the 
+NMRTC will establish and promulgate a training plan no later than 28 February 
+2023 for DCs to develop the ability to review current cases with enough 
+information and detail to assess the progress of LIMDU and DES Sailors in 
+their path to recovery or separation in accordance with ref (a). 
  
-7.  Application Package.  Each nomination package must include the following: 
-an application letter including a personal statement, a Curriculum Vitae 
-(CV), and two letters of recommendation (one of which should be from the 
-individual's reporting senior).  Prospective applicants should contact OPNAV 
-N7 to request templates for the required documents.  All applications should 
-be submitted by applicants directly to OPNAV N712; copy your ranking 
-authority as applicable. The deadline for submission of all individual 
-application materials to OPNAV N712 is 17 February 2023.  Reserve Officers, 
-please contact OPNAV N095 for appropriate guidance, as the reserve process 
-may vary. 
+5. The LIMDU and DES CFT has already started gathering data from the Fleet on 
+the challenges faced by the CDRs, COs, and OICs in executing the LIMDU and 
+DES process as currently established in policy. This CFT will conduct a 
+SPRINT to refine and improve areas accessible in the short term and then hand 
+off the long term process improvements to the OPNAV N1 led effort. 
  
-8.  Organization Rankings.  Organizations should rank all candidates 
-submitting application packages from their command.  Military and civilian 
-applicants should be ranked separately, although a combined ranking may also 
-be submitted. A template for the ranking memorandum can be requested from the 
-N712 POCs. The deadline for rankings, if applicable, is 24 February 2023. 
+6. Points of contact for the LIMDU and DES CFT are CAPT Darren T. Dugan, 
+COMUSFLTFORCOM N01SAP, via e-mail at darren.t.dugan.mil(at)us.navy.mil or CDR 
+Nathan M. Williams, COMUSFLTFORCOM N01SAP Deputy, via e-mail at 
+nathan.m.williams.mil(at)us.navy.mil. 
  
-9.  The selection panel will meet in March and nominees will be notified upon 
-completion of panel deliberations by early April 2023.  OPNAV N7 will also 
-provide the list of the 12 Navy nominees selected by the panel to the MIT 
-Seminar XXI Admissions Board by early April 2023.  Navy nominees accepted by 
-MIT will be notified by mid-June 2023. 
- 
-10.  Reutilization/service obligation.  Military MIT Seminar XXI Fellows 
-incur a service obligation that is three times (3x) the number of months of 
-the fellowship. 
- 
-11.  Application Materials and OPNAV N7 POCs.  Send requests for application 
-document templates and any questions to the OPNAV N712 POCs: 
-       a.  Branch Head: CDR Anne C. Stehlin; Comm (571) 256-4784; 
-Cell (703) 835-7501; E-mail: anne.c.stehlin.mil@us.navy.mil 
-       b.  Deputy Branch Head: Ms. Jennifer Rigdon Teter;  
-Comm (703) 692-1934; 
-E-mail: jennifer.c.rigdonteter.civ@us.navy.mil 
-       c.  Contract Support: Ms. Hannah Olivieri; Comm (703) 695-5461; 
-Email: hannah.g.olivieri.ctr@us.navy.mil 
- 
-12.  Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
-Warfighting Development (N7).// 
+7. From Foundry to Fleet, Forged to Fight!  ADM Caudle sends.// 
  
 BT 
-#0001 
+#0009 
 NNNN 
 CLASSIFICATION: UNCLASSIFIED//
