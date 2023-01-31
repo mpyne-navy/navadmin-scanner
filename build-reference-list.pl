@@ -28,15 +28,19 @@ my @files = Mojo::File->new('NAVADMIN')
     ->each;
 
 my %refs = (
-    NAVADMINs =>  { },
-    OPNAVINSTs => { },
+    NAVADMINs   => { },
+    OPNAVINSTs  => { },
+    SECNAVINSTs => { },
+    DODINSTs    => { },
 );
 
 # Each key should map to a regex with a capture group that pulls out the
 # series/ID of the instruction for the type that corresponds to the key
 my %ref_scanners = (
-    NAVADMINs  => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
-    OPNAVINSTs => qr/^OPNAVINST *([0-9]{4,5}\.[0-9][A-Z]?)\b/,
+    NAVADMINs   => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
+    OPNAVINSTs  => qr/^OPNAVINST *([0-9]{4,5}\.[0-9][A-Z]?)\b/,
+    SECNAVINSTs => qr/^SECNAVINST *([0-9]{4,5}\.[0-9][A-Z]?)\b/,
+    DODINSTs    => qr/^DODINST *([0-9]{4,5}\.[0-9]{1,2})\b/,
 );
 
 foreach my $path (@files) {
