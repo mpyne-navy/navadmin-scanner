@@ -1,0 +1,23 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 011342Z FEB 23 MID200080699979U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+SUBJ/UNNUMBERED NAVADMIN 
+THIS IS AN UNNUMBERED NAVADMIN// 
+ 
+MSGID /CNO WASHINGTON DC/N2N6/-/JAN/23// 
+POC/YN2(AW) CLIFFORD BAGLEY/EA/N2N6/CNO WASHINGTON DC// 
+COMM 703-614-0281// 
+ 
+NARR/Navadmin number 07-23 will be annotated as unused number. 
+Navadmins are required sequential numbering for accountability purposes and 
+07-23 was issued but will not be released as a NAVADMIN message.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

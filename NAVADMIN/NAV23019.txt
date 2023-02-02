@@ -1,0 +1,62 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 311553Z JAN 23 MID200080697082U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 019/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN// 
+ 
+SUBJ/FY-24 PERMANENT MILITARY PROFESSOR SELECTION BOARD// 
+ 
+REF/A/DOC/OPNAV/01OCT21// 
+ 
+AMPN/REF A IS OPNAVINST 1520.40C, PERMANENT MILITARY PROFESSOR AND 
+PERMANENT MILITARY INSTRUCTOR PROGRAMS.// 
+ 
+RMKS/1.  This NAVADMIN announces the Fiscal Year (FY) 2024 Permanent Military 
+Professor (PMP) selection board for officers matriculating at graduate school 
+in August 2024.  The FY-24 PMP selection board may select up to a total of 12 
+PMPs for assignment to the United States Naval Academy or Naval Postgraduate 
+School. 
+ 
+2.  Reference (a) provides specific application and eligibility 
+guidance.  Applications are due to the Out-Service Education Placement and 
+Special Fellowships Division (PERS-443) no later than 30 May 2023.  Submit 
+via encrypted e-mail to PERS-440_submit.fct(at)navy.mil or mail to: 
+        Navy Personnel Command (PERS-443) 
+        5720 Integrity Drive 
+        Millington, TN 38055-4400 
+ 
+3.  For requirements and a list of available academic disciplines 
+refer to the MyNavy HR website at https://www.mynavyhr.navy.mil/Career-
+Management/Community-Management/Officer/Active-OCM/Restricted-Line/Permanent-
+Military-Professor/. 
+ 
+4.  Officer Community Managers will review applicants for release based on 
+community health and needs.  PERS-443 will review all PMP applicants to 
+ensure eligibility guidelines have been met prior to releasing the applicant 
+to the board. 
+ 
+5.  Points of contact: 
+    a.  PMP Education Placement is LT Jake Jepsen, (901) 874-3996 or 
+via e-mail at jacob.a.jepsen.mil(at)us.navy.mil 
+    b.  PMP Community Manager is CDR Shaina Hogan, (901) 874-4511 or 
+via e-mail at shaina.m.hogan.mil(at)us.navy.mil 
+ 
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

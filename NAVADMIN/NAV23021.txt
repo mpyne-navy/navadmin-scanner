@@ -1,0 +1,67 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 011216Z FEB 23 MID200080699739U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 021/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/JAN// 
+ 
+SUBJ/TRANSITION OF RECORDS STORAGE AND SERVICES TO COMMERCIAL STORAGE// 
+ 
+REF/A/DOC/OMB/MEMO/23DEC22// 
+ 
+NARR/REF A IS OFFICE OF MANAGEMENT AND BUDGET M-23-07 MEMORANDUM FOR HEADS OF 
+EXECUTIVE DEPARTMENTS AND AGENCIES UPDATE TO TRANSITION TO ELECTRONIC 
+RECORDS. 
+ 
+RMKS/1.  This NAVADMIN provides guidance to Navy commands on the 
+implementation of reference (a) regarding transition of records storage and 
+services from the National Archives and Records Administration (NARA) Federal 
+Records Centers (FRC) to a commercial storage facility.  NARA will no longer 
+accept new transfers of records to any FRC after 30 June 2024.  In order to 
+ensure that Navy commands have a location to send records after 30 June 2024, 
+the Navy has established a contract with Iron Mountain for storage and 
+service of Navy records.  Records currently stored at the FRCs will remain at 
+those facilities. 
+ 
+2.  To train personnel on the transition to commercial storage, effective 
+immediately, all commands must cease transfer of permanent and temporary 
+unclassified analog records in all formats (e.g. paper, microfiche, 
+microfilm, audio, video, photographs, maps, architectural drawings) to NARA 
+FRCs through the Archives and Records Centers Information System (ARCIS) 
+Portal.  Electronic records will continue to be stored in electronic record 
+keeping systems.  Commands will work through their echelon I/II Records 
+Managers (RM) to begin new transfers of all records to Iron Mountain Inc. 
+through the use of the Iron Mountain Connect Portal (IMConnect 
+Portal).  Transfer of classified records will not be available until 1 March 
+2023.  Therefore, all commands may continue to transfer their classified 
+records to the FRCs until notified by their command RM. 
+ 
+3.  Standard Operations Procedures (SOP) to request an IMConnect Portal 
+account and to transfer records to Iron Mountain can be accessed via the 
+Department of the Navy, Assistant for Administration, Directives and Records 
+Management (DON /AA DRMD) 
+Portal: https://portal.secnav.navy.mil/orgs/DUSNM/DONAA/DRM/SitePages/Home.as
+px.  On the home page, go to Popular Links and then click on the blue 
+tile, "IMConnect Documents." 
+ 
+4.  Points of contact for questions are James Willson-Quayle, DNS-16, 
+james.willson-quayle.civ(AT)us.navy.mil and 
+maurice.a.king2.civ(AT)us.navy.mil. 
+ 
+5.  This NAVADMIN will remain in effect until superseded. 
+ 
+6.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

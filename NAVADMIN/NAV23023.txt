@@ -1,0 +1,124 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 011913Z FEB 23 MID200080700872U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 023/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/2023 MERITORIOUS ADVANCEMENT PROGRAM SEASON ONE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/021525ZAUG22// 
+REF/B/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/C/MSG/CNO WASHINGTON DC/062115ZOCT22// 
+REF/D/MSG/CNO WASHINGTON DC/161157ZJUL20// 
+ 
+NARR/REF A IS NAVADMIN 174/22, 2022 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
+TWO.   
+REF B IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP).   
+REF C IS NAVADMIN 228/22, DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP) 
+PHASE II.   
+REF D IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.// 
+ 
+RMKS/1.  This NAVADMIN extends reference (a) and announces the policy and 
+guidance for Calendar Year (CY) 2023 Meritorious Advancement Program (MAP) 
+Season One for Active Duty (Active Component (AC) and Training and 
+Administration of the Reserve (TAR)) Sailors.  CY-23 MAP Season One will run 
+from 1 March through 15 April 2023.  This season continues the added 
+preseason window for commands to verify user hierarchies and unit 
+identification code (UIC) assignments ahead of the season.  The timeline in 
+paragraph 3 contains details. 
+ 
+2.  MAP will target approximately 20 percent of total advancements during CY-
+23, with roughly half of the available MAP quotas allocated for each of the 
+two MAP seasons during the year.  The two-season framework aligns MAP with 
+the Navy-wide advancement exam (NWAE).  This is to ensure any unused MAP 
+quotas are included in the NWAE cycle and to emphasize the intent of MAP to 
+select and reward top performing Sailors.  To meet the required time-in-rate 
+(TIR) for MAP advancement eligibility, Sailors must have a date of rank no 
+later than the following: 
+    a.  E-5:  1 January 2022. 
+    b.  E-5 (Nuclear-Trained Sailors):  1 January 2021. 
+    c.  E-4 and below:  No TIR requirement. 
+ 
+3.  Timeline: 
+    a.  MAP Pre-season:  6-19 February 2023. 
+    b.  MAP Quotas Uploaded:  20 February 2023. 
+    c.  CY-23 MAP Season One:  1 March - 15 April 2023. 
+ 
+4.  In line with references (b) and (c), MAP advancement to ABH2, ABF2, GSM2 
+CS2, MM2, IC2, DC2, and RS2 for AC Sailors is not authorized, due to those 
+Sailors having advancement opportunities within Detailing Marketplace 
+Assignment Policy (DMAP).  Additional details are located on the MyNavy HR 
+DMAP website, https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Enlisted/Detailing-Marketplace/ 
+ 
+5.  Commands are required to have two Navy Standard Integrated Personnel 
+System (NSIPS) MAP user roles (command reviewer and command reporting senior) 
+in order to submit MAP advancement(s), exception(s) to policy (ETP), and 
+additional MAP quota requests through NSIPS.  NSIPS Web Afloat users and 
+commands without access to NSIPS should refer to paragraph 5a for 
+instructions on submitting their MAP advancements.  The system will use 
+authoritative data to determine eligibility, however, commands are required 
+to locally validate that MAP candidates have successfully completed the 
+professional military knowledge eligibility examination requirement prior to 
+the first day of the MAP season (1 March 2023) as outlined in reference 
+(d).  For training on user roles, log into NSIPS via 
+https://www.nsips.navy.mil/, click on the training tab, then click 
+MAP tutorial. 
+    a.  NSIPS Web Afloat users and commands without access to NSIPS must 
+submit a MAP nomination request via e-mail directly to their immediate 
+superior in charge (ISIC), type commander (TYCOM), or budget submitting 
+office (BSO)/Echelon II command using the meritorious certification letter 
+(MCL).  The letter must be signed by the commanding officer and should 
+address any ETP and/or additional quotas requested.  Sample MCLs and detailed 
+information regarding the offline process can be found via MyNavy Portal 
+(MNP)at https://www.mnp.navy.mil/group/advancement-and-promotion/a- 
+enlisted-advancement-resources-and-links, then select the *Websites* 
+tab in the blue banner, then select the MAP homepage. 
+    b.  Quota usage, modifications, and distribution will be managed within 
+the NSIPS environment.  BSO and command quotas will be uploaded into NSIPS on 
+20 February 2023 and can be found under the quota summary report tab.  The 
+list of points of contact for each BSO/Echelon II command and a list of 
+parent and subordinate UICs can also be found on the above website.  Quotas 
+can also be found via MNP at  
+https://www.mnp.navy.mil/group/advancement-and-promotion/a-  
+enlisted-advancement-resources-and-links, then select the *Websites* 
+tab in the blue banner, then select the MAP homepage. 
+    c.  Additional quotas can be requested using the quota request option by 
+the command reviewer user role.  Commands must contact their BSO to determine 
+a timeline for additional quota requests. Whether or not command quotas are 
+authorized, all commands have the opportunity to request quotas from their 
+BSO/Echelon II commands, via their ISIC and TYCOM, unless the rating is not 
+authorized for MAP in line with paragraph 4. 
+    d.  NSIPS will automatically determine if an ETP is required using 
+predetermined criteria.  Sailors in ratings requiring security clearances and 
+rates/pay grades requiring TIR waivers will be automatically routed for 
+adjudication.  The request will be routed through the ISIC, TYCOM, and 
+BSO/Echelon II commands using a hierarchical workflow. 
+    e.  NSIPS will not automatically generate an ETP for nuclear-trained 
+Sailors.  Commands desiring to advance nuclear-trained Sailors not meeting 
+the TIR requirement must request an ETP from Director, Military Personnel 
+Plans and Policy (OPNAV N13) via the Nuclear Program Manager (OPNAV N133). 
+ 
+6.  Point of Contact:  MyNavy Career Center (MNCC) at (833) 330-6622 
+or askmncc(at)navy.mil. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
