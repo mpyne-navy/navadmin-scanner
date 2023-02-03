@@ -1,0 +1,81 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 021845Z FEB 23 MID200080704010U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 024/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// 
+ 
+SUBJ/FISCAL YEAR 2022 COPERNICUS AWARD WINNERS ANNOUNCEMENT// 
+ 
+POC/SARAH FISCHETTI LUND/CIV/AFCEA EDUCATIONAL FOUNDATION/TEL: (703) 631-6147 
+/EMAIL:  EDFOUNDATION(AT)AFCEA.ORG 
+ 
+REF/A/MSG/CNO WASHINGTON DC/161741Z SEP 22// 
+AMPN/REF A IS NAVADMIN 210/22, FISCAL YEAR 2022 COPERNICUS AWARD NOMINATION// 
+ 
+RMKS/1.  The Chief of Naval Operations is pleased to congratulate the fiscal 
+year 2022 Copernicus Award winners.  The Copernicus Award recognizes 
+individual contributions to Naval Warfare in the disciplines of Command, 
+Control, Communications, Computers, and Intelligence, Information Systems or 
+Information Warfare.  Armed Forces Communication and Electronics Associations 
+(AFCEA) International and the U.S. Naval Institute (USNI) have selected the 
+following Copernicus Award winners for fiscal year 2022: 
+    a.  OS1 Justice Batiste, USCG, USCG C5I Service Center-Engineering 
+Services Division (C5I-ESD) 
+    b.  Mr. James P. Boylan, Naval Undersea Warfare Center Division, Newport 
+    c.  ITSCS Brandon T. Bryant, USN, Submarine Force Atlantic 
+    d.  Mr. James R. Elliott, Combat National Mission Team ONE, Marine Corps 
+Cyberspace Warfare Group 
+    e.  LCDR Anthony J. Foss, USCG, USCG C5I Service Center-Intelligence 
+Service Center (C5ISC) 
+    f.  ENS Nathan M. Garcia, USN, Naval Special Warfare Development Group 
+(NSWDG) 
+    g.  LT Corey O. Grey, USN, Submarine Group SEVEN (CSG-7) 
+    h.  LCDR Benjamin T. Harper, USN, Joint Special Operations Command 
+    i.  1stLt Alexander B. Holme, USMC, 4th Marine Regiment 
+    j.  Mr. Michael Karpawich, Naval Supply Systems Command Weapon Systems 
+Support 
+    k.  ITCS Taylor D. Kelley, USN, US Naval Computer and Telecommunications 
+Station Far East Detachment Diego Garcia 
+    l.  LT Rooya K. Khan, USN, White House Communication Agency 
+    m.  CTRC Nicholas J. Korinis, USN, Naval Special Warfare Tactical 
+Development and Evaluation Squadron ONE 
+    n.  CTR1 Josef E. Luedloff, USN, Navy Information Operations Command, 
+Whidbey Island 
+    o.  ITC Thomas J. Maginley, USN, USS DEVASTATOR (MCM 6) 
+    p.  ET2 James R. McCreesh, USN, Special Reconnaissance Team TWO 
+    q.  SSgt Jonathan T. McDonnell, USMC, Marine Corps Forces Cyberspace 
+Command (MARFORCYBER) 
+    r.  LCDR Paul S. Moe, USN, Carrier Strike Group FIVE and Commander Task 
+Force SEVEN ZERO 
+    s.  CWO3 Christopher M. Port, USMC, II Marine Expeditionary Force 
+    t.  Capt Thomas A. Schmitt, USMC, 2d Light Armored Reconnaissance 
+Battalion, 2d Marine Division 
+    u.  MSgt George F. Spaniel III, USMC, 1st Reconnaissance Battalion, 1st 
+Marine Division 
+    v.  Mr. David C. Thomas, Marine Corps System Command 
+    w.  GySgt Tyler J. Truesdale, USMC, II Marine Expeditionary Force 
+Information Group 
+    x.  Sgt Matthew D. Welter, USMC, 5th Air Naval Gunfire Liaison Company, 
+Psychological Operations Brigade 
+    y.  LT Paul A. Williams, USN, Cryptologic Warfare Activity SIXTY SEVEN 
+ 
+2.  All Copernicus Award winners will receive an invitation from AFCEA and 
+USNI inviting them, their spouse/guest, and their Commanding Officer to 
+attend an awards reception and presentation ceremony held at the AFCEA 
+International/USNI WEST 2023 Conference in San Diego, California at the 
+San Diego Convention Center on 14 February 2023. 
+ 
+3.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
