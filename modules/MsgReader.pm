@@ -136,8 +136,8 @@ sub decode_msg_head($head)
 
             for my $ampn_id (keys %ref_ampns) {
                 my $ampn = $trim->($ref_ampns{$ampn_id});
-                $ampn =~ s/^IS //; # Sometimes not present...
-                $ampn =~ s/,.*$//; # Remove anything after a comma if present
+                $ampn =~ s/^IS //i; # Sometimes not present...
+                $ampn =~ s/,.*$//;  # Remove anything after a comma if present
                 $set_ref_ampn->($ampn_id, $ampn);
             }
         } else {
