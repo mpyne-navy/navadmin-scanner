@@ -1,0 +1,213 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 071805Z FEB 23 MID200080715767U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 027/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/RETENTION EXCELLENCE AWARD//
+
+REF/A/MSG/CNO WASHINGTON DC/121637ZNOV19//
+REF/B/PUB/BUPERS/17JAN17//
+REF/C/MSG/CNO WASHINGTON DC/162058ZAPR18//
+REF/D/MSG/CNO WASHINGTON DC/231840ZAPR18//
+REF/E/DOC/OPNAV/29JUL22//
+
+NARR/REF A IS NAVADMIN 254/19, CULTURE OF EXCELLENCE.   
+REF B IS BUREAU OF NAVAL PERSONNEL CAREER COUNSELOR HANDBOOK.   
+REF C IS NAVADMIN 095/18, BRILLIANT ON THE BASICS II PART A REVISITING THE 
+BASICS.   
+REF D IS NAVADMIN 100/18, BRILLIANT ON THE BASICS II PART B ENGAGEMENT.   
+REF E IS OPNAVINST 1040.11E, NAVY ENLISTED RETENTION AND CAREER DEVELOPMENT 
+PROGRAM.//
+
+RMKS/1.  This NAVADMIN highlights the Navy's Fiscal Year (FY) 2022 retention, 
+outlines the FY-23 retention environment, provides FY-23 reenlistment rate 
+benchmarks, and Retention Excellence Award (REA) criteria.  Additionally, it 
+reemphasizes our commitment to promoting a culture of excellence in line with 
+references (a) through (e), and the need to continue retaining the best 
+talent in a forward- operating, diverse, and talent-rich Navy team.
+
+2.  FY-22 Retention:
+    a.  In FY-22, we achieved the following combined reenlistment and reserve 
+affiliation rates:
+        (1) Zone A: 68% (62% benchmark).
+        (2) Zone B: 67% (68% benchmark).
+        (3) Zone C: 85% (85% benchmark).
+    b.  We fell short of the Zone A attrition benchmark of 4% or less:
+        (1) United States Fleet Forces: 5.8%.
+        (2) United States Pacific Fleet: 5.6%.
+
+3.  FY-23 retention environment.  As we progress through this FY, we remain 
+dedicated to attracting, developing, and retaining the very best talent.
+    a.  Fleet Readiness.  We are building a robust marketplace to mitigate 
+gaps at sea and maximize fleet readiness, which is foundational to meeting 
+the Navy mission.  Our Sailors will be afforded opportunities to participate 
+in the marketplace as they manage their careers.
+    b.  All Hands on Deck.  To maximize retention, an *all hands on
+deck* approach is required.  It is imperative everyone plays an active part 
+in ensuring the Navy retains the right Sailors.  Last year we introduced 
+changes in the REA program to further incentivize operational units to 
+maximize retention by being the *Best in Class*
+(BIC) for their platform type while maintaining the REA Legacy for the rest 
+of the Navy until all units can be transitioned into a BIC.
+    c.  FY-23 Goal.  This FY we are asking that you put additional effort 
+into retaining talented Sailors (on Active Duty or in the Reserves).  As 
+such, you will see that we have set the reenlistment rate benchmarks 2% above 
+each platforms 3-year average (for REA BIC), or 2% above last FYs performance 
+(for REA Legacy).
+
+4.  Importance of Reserve Affiliation.  Maintaining the best retention 
+environment for fleet readiness remains our top priority.
+We depend on both the Active and Reserve Component to maintain Fleet 
+readiness.  Simply stated, we cannot build a Navy who can fight and win 
+without a total force effort.  The strategic depth provided by our Navy 
+Reserve team has supported critical missions everywhere we operate, ranging 
+from Coronavirus Disease 2019 response to flying key resupply missions around 
+the world and from shore to operating forward in remote locations.  
+Consequently, retention through reserve affiliation (RA) remains a strategic 
+imperative and will be factored into REA computations.  RA can occur greater 
+than 180 days from Active Duty separation, however, it must be within the 
+same FY.
+
+5.  FY-23 Reenlistment Rate Benchmarks:
+    a.  REA BIC.  In FY-23 we will continue a competitive REA BIC distinction 
+for certain (Type 2 and Type 4) operational platform types.  The BIC 
+distinction highlights those commands who are optimizing the principles in 
+line with references (a) through (c) to retain an operationally ready, 
+diverse, and talented force.  REA BIC includes 18 platform types provided 
+below.  Units not identified as REA BIC will continue to be identified as REA 
+Legacy and follow REA benchmarks outlined in paragraph 5b.
+        (1) Reenlistment rates with RA.  Commands who meet their specific 
+platform reenlistment rate benchmark targets (including RA) in Zones A, B, 
+and C and remain at or below the Navy's Zone A attrition benchmark of 4% for 
+at least two quarters or the FY overall, will be awarded the REA.  The 
+Immediate Superior in Command (ISIC) will evaluate commands who meet the ship 
+class REA criteria and determine, from those commands, their BIC nominee.  
+BIC nominees will be awarded based on ISIC determined metrics as long as they 
+meet the minimum REA benchmarks.  Those commands identified by the ISICs as 
+BIC nominees will be forwarded to their respective Type Commander (TYCOM) for 
+additional review, endorsement, and final selection.  TYCOMs will then 
+forward finalized REA BIC awardees to the Echelon II command for the release 
+of a recognition message.
+        (2) FY-23 BIC reenlistment benchmarks (including RA): 
+
+Platform Type     ZONE A      ZONE B      ZONE C
+CG                74%         76%         95%
+CVN               66%         75%         92%
+DDG               74%         78%         94%
+EOD               88%         84%         95%
+HSC               75%         79%         96%
+HSM               79%         80%         93%
+LHA and LHD       74%         82%         96%
+LPD               74%         78%         96%
+LSD               78%         82%         91%
+MCM               75%         88%         95%
+NMCB              63%         75%         98%
+SSBN              76%         83%         94%
+SSGN              75%         79%         90%
+SSN               70%         73%         88%
+VAQ               70%         75%         95%
+VAW               79%         77%         96%
+VFA               68%         78%         91%
+VP                73%         78%         97%
+Zone A attrition benchmark is set at 4% or less. 
+
+    b.  REA Legacy.  All other Echelon II and III commands must meet or 
+exceed the following aggregate reenlistment rates (with RA) and attrition 
+benchmarks to become eligible for the REA Legacy award:
+        (1) Zone A:  70%.
+        (2) Zone B:  70%.
+        (3) Zone C:  87%.
+Zone A attrition 4% or less.
+
+6.  REA Criteria for both Legacy and BIC.  If commands meet or exceed the FY-
+23 reenlistment benchmarks (including RA) and are at or below the attrition 
+benchmark, they are eligible to receive the REA.  The benchmarks must be met 
+for at least two quarters or the FY overall.  Additionally, ISICs and TYCOMs 
+can utilize retention or Sailor related metrics to determine final 
+eligibility.
+    a.  Computation Exceptions.  A zone with zero transactions at or before 
+the end of active obligated service will qualify as the percentage required 
+in that particular zone if the command has qualifying transactions in the 
+other zones.  Only two zones may be allowed to default to the minimum 
+benchmark in that particular zone.
+    b.  Commands must have a minimum of one zone of qualifying transactions 
+to be eligible for the REA.  Exceptions to policy (ETP) may be considered on 
+a case-by-case basis for small commands with no junior Sailors.  Echelon II 
+commands, TYCOMs and ISICs will determine the necessity of an ETP.
+    c.  Loss transactions on a Sailor transferred from a command due to 
+pending separation, a medical, or legal hold will reflect on the command 
+where the Sailor was last attached in an accounting category code 100 status.
+    d.  Sailors separated due to other medical reasons or disability, will 
+not be counted towards the 4% or less attrition benchmark and commands will 
+utilize reference (b) to adjust computed attrition in Zone A to be submitted 
+to their ISIC or TYCOM.
+    e.  Requests for ETPs of any award element in paragraph 5, must be 
+submitted in writing via the respective ISIC or TYCOM with specific 
+justification.  ETP requests must be signed by the commanding officer.  
+Requests disapproved at any level will not be considered.  Disapprovals at 
+ISIC or TYCOM level do not need to be forwarded to their respective Echelon 
+II command.  Command ETP final approval authority resides with Echelon II 
+commands.
+    f.  An eligible command must have a rated Navy counselor (NC) or a 
+billeted Command Career Counselor (CCC) with the Navy enlisted classification 
+(NEC) 806R in order to be eligible for the REA.  In the event, the CCC billet 
+is gapped or there is an unplanned loss, the command retains REA eligibility 
+while the ISIC supports the interim CCC in the collection and submission of 
+retention data.
+    g.  TYCOM and direct reporting NCs will evaluate and submit eligible 
+commands to their respective Echelon II command no later than 1 December 
+2023.
+
+7.  REA Legacy and BIC Announcement Recognition.  Echelon II commands should 
+announce their FY-23 REA Legacy and BIC recipients following the 
+consolidation of Echelon III commands and direct reporting command 
+submissions no later than 31 December 2023.
+    a.  Following the announcement message, REA BIC awardees may fly the BIC 
+pennant (blue, with a silver anchor) and paint their anchor gold as 
+applicable.
+     b.  REA Legacy award winners and BIC contenders who meet benchmarks and 
+who are not selected for BIC distinction can fly the REA pennant (gold, with 
+a blue anchor) and paint their anchor haze grey.
+
+8.  Career Counselor of the Year (CCOY).  A key to the successful execution 
+of brilliant on the basics as detailed in references (c) and (d) is 
+recognition.  CCOY provides an opportunity to recognize CCCs who manage an 
+outstanding Career Development Program and serve a critical role in the 
+military life cycle of a Sailor's career.
+The CCOY program is maintained at the Echelon II command level and is open to 
+rated NC and unit CCCs with the NEC 806R.
+
+9.  Points of Contact:
+    a.  Personnel, Manpower, and Training, Fleet Career Counselor.
+NCCM(SW/AW/IW) James Osborne, at (703) 604-5353/DSN 664 or via e- mail at 
+james.r.osborne.mil(at)us.navy.mil.
+    b.  U.S. Fleet Forces, Fleet Career Counselor.  NCCM(SW/AW) Crystal Webb, 
+at (757)836-7780/DSN 836 or via e-mail at crystal.p.webb.mil(at)us.navy.mil.
+    c.  U.S. Pacific Fleet, Fleet Career Counselor.
+NCCM(SW/SCW/FMF) Judith Jimenez, at (808) 474-5848/DSN 315 or via e- mail at 
+judith.m.jimenez2.mil(at)navy.mil.
+    d. Fleet Engagement Team (BUPERS-3).  Mr. Randy Miller, at (901) 874-
+2376/DSN 882 or via e-mail at randy.a.miller4.civ (at)us.navy.mil.
+    e.  Enlisted Force Plans and Policy Branch (OPNAV N132).  Mr.
+Glenn Arrington, at (703) 604-5089/DSN 664 or via e-mail at 
+glenn.arrington.civ(at)us.navy.mil.
+
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
