@@ -1,0 +1,128 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 152142Z FEB 23 MID600052759268U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 038/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/FEB// 
+ 
+SUBJ/U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL GUIDANCE 8.0// 
+ 
+REF/A/MSG/CNO/191436ZOCT22// 
+REF/B/MSG/SECNAV/201839ZJAN23// 
+REF/C/DOC/USD(PR)/30JAN2023// 
+REF/D/MSG/CNO/041827ZAUG21// 
+REF/E/OPNAVINST F3100.6K/10AUG21// 
+ 
+NARR/ REF A is NAVADMIN 234/22, U.S. NAVY COVID-19 STANDARDIZED OPERATIONAL 
+GUIDANCE 7.0. 
+REF B is ALNAV 009/23 RESCISSION OF COVID-19 VACCINATION REQUIREMENT FOR 
+MEMBERS OF THE ARMED FORCES. 
+REF C is USD P&R CONSOLIDATED DEPARTMENT OF DEFENSE CORONAVIRUS DISEASE 2019 
+FORCE HEALTH PROTECTION GUIDANCE available at 
+https://www.defense.gov/Spotlights/Coronavirus-DOD-Response/Latest-DOD-
+Guidance/ (Select "Health Protection Guidance" tab from the site menu on the 
+left). 
+REF D is NAVADMIN 165/21, SOVEREIGN IMMUNITY POLICY. 
+REF E is OPNAVINST F3100.6K, SPECIAL INCIDENT REPORTING PROCEDURES. 
+POC/OPNAV/COVID CELL, (703) 571-2822//EMAIL: 
+OPNAV_COVID_CRISIS_RESPONSE_CELL@US.NAVY.MIL. 
+ 
+RMKS/1. This NAVADMIN provides updated COVID-19 Standardized Operational 
+Guidance (SOG 8.0), and rescinds and replaces reference (a) in its entirety, 
+including the requirement that all personnel assigned to operational 
+Navy units be fully vaccinated against COVID-19. Reference (b) rescinded 
+the COVID-19 vaccination requirement for Department of the Navy Service 
+members. Under no circumstances shall a Commander mandate that any Navy 
+Service member receive the COVID-19 vaccination. 
+ 
+2.  Steady State COVID-19 Posture. Commanders at all levels are directed 
+to balance operational employment with the health and safety of their 
+units in accordance with current USD (P&R) Force Health Protection Guidance 
+(reference (c)). Commanders and medical providers are also encouraged to 
+consider the COVID-19 Operational Risk Management Matrix for Deployments 
+(available at https://media.defense.gov/2023/Feb/13/2003160523/-1/-
+1/0/BUMED%20NAVY%20COVID-19%20OPERATIONAL%20RISK%20MATRIX.PDF as a tool to 
+evaluate risks to mission, force, and individuals. 
+ 
+3.  Mission Risk.  Commanders should seek advice from medical providers 
+regarding medical readiness of personnel to inform deployment and other 
+operational mission decisions. COVID-19 vaccination status shall not be 
+a consideration in assessing individual service member suitability for 
+deployment or other operational missions. Commanders retain the authority 
+to implement Health Protection Measures at any time or manner deemed 
+necessary in support of operational safety and effectiveness, and where 
+necessary, to restrict movement of service members in order to comply with 
+host nation quarantine regulations. Geographic Navy Component Commanders 
+(GNCC) will coordinate with country teams and local authorities to 
+identify any host nation requirements related to COVID-19 testing 
+or vaccination status that may restrict or create conditions-based 
+criteria for liberty. 
+ 
+4.  Sovereign Immunity. U.S. Government policy protects the sovereign 
+immunity of warships, naval auxiliaries, and aircraft, including protecting 
+crew information to the maximum extent possible. Within the context of COVID-
+19, host nations may request or require crew or ship information that exceeds 
+that authorized by U.S. policy or international law. 
+ 
+4.a.  GNCCs will assess and determine in advance any host nation quarantine 
+regulation requirements that may challenge U.S. sovereign immunity policy 
+(see reference (d) for additional guidance). In all cases, GNCCs shall 
+authorize the minimum information necessary to meet operational requirements. 
+The Navy Declaration of Health (NAVMED 6210/3) is the only authorized form 
+for providing health information to foreign officials. If required by the 
+host nation, the GNCC may authorize Commanders to include on the NAVMED 
+6210/3 or on a separate U.S. generated document accompanying the NAVMED 
+6210/3 (e.g., Command Letterhead) that their unit is 100% vaccinated, those 
+disembarking have tested negative within the required timeframe, or that 
+those disembarking have received a COVID-19 vaccine booster. GNCC authority 
+to approve these COVID-19 related exceptions to sovereign immunity policy may 
+be delegated no further than the numbered Fleet Commander. 
+ 
+4.b.  Exceptions to Policy (ETP). Where host nation quarantine regulations 
+create requirements outside of the exceptions listed in paragraph 4.a, GNCCs 
+shall determine, in accordance with reference (d), whether such requirements 
+constitute a potential waiver of sovereign immunity. Any action the GNCC 
+determines may constitute a waiver of sovereign immunity must be coordinated 
+with OPNAV N3N5 for approval no later than five days ahead of need. To avoid 
+setting precedence beyond COVID-19, ETPs will be messaged to the host nation 
+as explicitly linked to the pandemic. Requests shall include justification 
+for port selection, host nation mitigation and testing requirements, 
+alternate port options, impact to mission if the request is denied, medical, 
+legal, collection and privacy risk, and feedback from country team 
+coordination. ETP notifications and requests may be sent via record message 
+traffic or to the OPNAV N3N5 Legal and Oceans Policy Advisor. 
+ 
+4.c.  Guidance for Commanders.  Per GNCC direction, Commanders 
+shall comply with domestic and foreign quarantine regulations for port entry 
+and document compliance on NAVMED 6210/3.  Absent GNCC approval in advance, 
+Commanders will not submit to host nation COVID-19 testing nor provide 
+individual or collective medical data, copies of health records, nor any 
+supplementary or locally-demanded health forms, and shall not grant access 
+to ship or crew health records or allow the same to be searched or inspected 
+by host nations. If compelling circumstances require a Commander to acquiesce 
+to additional host nation requirements without obtaining an ETP or GNCC 
+concurrence (e.g., personnel emergency, weather avoidance), report the event 
+and circumstances as soon as practicable to OPNAV N3N5 via the chain of 
+command. 
+ 
+5.  Reporting Procedures.  Individual COVID-19 cases do not need to be 
+reported. Medical providers shall report pandemic or infectious disease 
+related medical evacuations, hospitalizations, and deaths via Disease 
+Reporting System, internet (DRSi). OPREP-3 Navy Blue messages are required 
+for significant shipboard operational impacts due to pandemic or infectious 
+disease. Format messages per reference (e). 
+ 
+6.  Released by VADM E. H. Black, III, Deputy Chief of Naval Operations for 
+Operations, Plans and Strategy, OPNAV N3N5.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
