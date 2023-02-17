@@ -1,0 +1,136 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 161707Z FEB 23 MID600052784205U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 042/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/PHYSICAL FITNESS ASSESSMENT FAILURE RESET// 
+ 
+REF/A/DOC/OPNAV/22APR22// 
+REF/B/DOC/COMNAVPERSCOM/01APR22// 
+REF/C/DOC/BUPERS/18AUG22// 
+REF/D/DOC/BUPERS/07FEB22// 
+ 
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM.   
+REF B IS MILPERSMAN-1160-030, ENLISTMENTS AND REENLISTMENTS UNDER CONTINUOUS 
+SERVICE CONDITIONS.   
+REF C IS BUPERSINST 1610.10F CH-1, NAVY PERFORMANCE EVALUATION SYSTEMS.   
+REF D IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+ 
+RMKS/1.  This NAVADMIN announces a one-time reset of all physical 
+fitness assessment (PFA) failures.  As such, all Active Component 
+(AC) and Reserve Component (RC) officers and enlisted Sailors shall 
+be counted as having zero past PFA failures prior to the date of 
+this NAVADMIN when considering authority to reenlist, advance, 
+promote, or execute other career continuation transitions such as 
+extensions and duty station transfers.  All other programs and 
+processes that take PFA failures into account, such as officer 
+commissioning programs, selection or screening boards, special duty 
+screenings, etc. will continue to consider any past PFA failures in 
+line with normal procedures. 
+ 
+2.  Because the challenges of preparing for and executing the 
+limited number of PFAs throughout the Coronavirus disease pandemic 
+potentially placed some Sailors at a disadvantage, this reset is 
+intended to level the playing field and ensure every Sailor with the 
+drive to continue has an opportunity to meet fitness standards and 
+serve in our Navy to the maximum extent desired.  This policy does 
+not supersede the need for an effective command-level culture of 
+fitness.  It remains incumbent upon individual Sailors to invest in 
+their personal health and wellness in order to maintain warfighting 
+readiness. 
+ 
+3.  This reset empowers commanding officers (CO) to restore 
+retention and advancement recommendations, as a modification to 
+current policy requirements detailed in references (a) and (b) which 
+mandate their removal after subsequent PFA failures.  The decision 
+to remain in the Navy beyond the normal end of active obligated 
+service (EAOS) or expiration of obligated service (EOS) is 
+voluntary. 
+ 
+4.  Implementation guidance: 
+    a.  Officer personnel: 
+        (1) Career Progression Department (PERS-8) will cease 
+processing any officers for administrative separation (ADSEP) based 
+solely on successive failures of the PFA. 
+        (2) Special cases or circumstances may be raised via the 
+exception to policy process to the Officer Plans and Policy Branch 
+(OPNAV N131). 
+    b.  Enlisted personnel.  This NAVADMIN serves as the authority 
+to restore recommendations without the completion of a mock or 
+official PFA. 
+        (1) To restore retention and advancement eligibility 
+withdrawn through an adverse evaluation, the command must issue a 
+non-adverse special evaluation as in line with reference (c), unless 
+precluded by other policy.  With retention and advancement 
+recommendations restored, Sailors may negotiate for orders, or 
+extend onboard and obligate service through their full tour of duty. 
+They may also reenlist and compete for advancement via the Navy-wide 
+advancement exam (NWAE), or advancement selection board, as 
+applicable. 
+        (2) To restore advancement for a Sailor whose selection for 
+advancement has been withheld due only to PFA failure, commands 
+should follow the procedures of reference (d) to restore a withheld 
+advancement recommendation.  Contact Naval Education and Training 
+Professional Development Center (NETPDC) N321 for additional 
+guidance on restoring advancement eligibility, using the point of 
+contact in paragraph 6. 
+        (3) Cancelling an approved separation or fleet reserve 
+request that was based on PFA failures: 
+            (a) Those with approved fleet reserve or retirement 
+(including AC and Ready Reserve) must create and route a fleet 
+reserve or retirement cancellation request via Navy Standard 
+Integrated Personnel System retirements and separations citing this 
+NAVADMIN. 
+            (b) Those with approved separation orders from Active 
+Duty must submit a special request or authorization (NAVPERS 1336/3) 
+to their CO, citing this NAVADMIN requesting to remain on Active 
+Duty. 
+            (c) In both cases, it is imperative that the command pay 
+and personnel administrators submit the requests to cancel 
+separations or retirements to the Transaction Service Center (TSC) 
+Norfolk, prior to the separation or retirement date.  This will 
+ensure the cancellation of the transaction to avoid separating a 
+Sailor who wants to stay Navy. 
+            (d) Selected Reserve Sailors are encouraged to 
+coordinate separation cancellations or modifications closely with 
+their Navy reserve activity (NRA) and Navy reserve unit chains of 
+command.  NRAs are encouraged to contact Reserve Officer 
+Administration (PERS-911) or Enlisted Reserves (PERS-913) via their 
+reserve readiness and mobilization command for cancellation of 
+separations that are within 30 days. 
+        (4) Continuing an approved separation or fleet reserve 
+request that was based on PFA failures: 
+           (a) Sailors who are approved for separation or fleet 
+reserve due to PFA policy for a date on or before 30 April 2023 may 
+continue their current plans without change. 
+           (b) Sailors who are approved for separation or fleet 
+reserve on or after 1 May 2023 may continue their current plans 
+without change, however, separations will be deemed voluntary. 
+ 
+5.  The Nuclear Propulsion Program (NNPP) Manager, (OPNAV N133), 
+will remain the single point of contact for NNPP personnel PFA 
+matters including instructor screenings and ADSEPs. 
+ 
+6.  Point of contact is the MyNavy Career Center at 
+askmncc(at)navy.mil or 1-833-330-MNCC (6622).  For advancement 
+eligibility questions contact NETPDC N321: (850) 473-6148/DSN 751, 
+usn.pensacola.netpdc.mbx.netpdc-n321-discrepancies(at)us.navy.mil. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
