@@ -1,0 +1,77 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 241342Z FEB 23 MID600052811455U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 053/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC/N2N6// 
+INFO CNO WASHINGTON DC//N2N6// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// 
+ 
+SUBJ/2022 U.S. NAVY COUNTERINTELLIGENCE AND HUMAN INTELLIGENCE SUPERIOR 
+ACHIEVEMENT AWARDS SOLICITATION// 
+ 
+RMKS/1.  Purpose.  Solicit nominations for the first annual U.S. Navy 
+Counterintelligence (CI) and Human Intelligence (HUMINT) Superior Achievement 
+Awards.  The CI and HUMINT Superior Achievement Awards consist of six 
+separate awards:  HUMINT Collector Award, Foreign Military Intelligence 
+Collection Activities (FORMICA) Collector Award, CI Agent Award, HUMINT Team 
+Award, CI Team Award, and CI/HUMINT Management and Oversight Team Award. 
+ 
+2.  Eligibility.  The eligibility period for all awards is 1 January 2022 to 
+31 December 2022.  These awards recognize U.S. Navy civilian employees, 
+active duty personnel, and reservists in an active duty status, who performed 
+CI or HUMINT activities and distinguished themselves during calendar year 
+2022.  Activities performed by U.S. Navy Sailors and civilians while assigned 
+or under the operational control outside of the U.S. Navy are also eligible.   
+U.S. Navy contractors may not be submitted for awards.  Nominations for team 
+awards can include no more than twenty-five personnel. 
+ 
+3.  Nomination Package Criteria.  Nomination packages will be assessed 
+according to significance/impact, relative difficulty and operational 
+complexity, level of innovation, and resourcefulness.  Individual and team 
+awards may capture sustained performance throughout the calendar year or 
+focus on individual operations, deployments, support activities, or other 
+shorter-term actions that occurred during the calendar year.  The target 
+population for the FORMICA Collector Award are those Sailors and civilians 
+who are graduates of the Navy's FORMICA Course and have no other HUMINT or CI 
+training.  The target population for the CI/HUMINT Management and Oversight 
+Team Award are the Fleet N2X staffs, or similar oversight management staffs 
+at Navy commands with organic CI/HUMINT personnel. 
+ 
+4.  Submission Instructions.  Nomination packages can be classified no higher 
+than Top Secret//SCI.  Packages must be submitted electronically via NIPRNET, 
+SIPRNET, or JWICS depending on classification level.  Commands should avoid 
+including unnecessary personal identifiable information in nomination 
+packages.  Recent fitness reports, evaluations, or awards are not required in 
+nomination packages and should not be included in submissions. 
+    a.  Nominations should not exceed two pages.  Use Times New Roman 12 
+point font and mark the document with the appropriate classification 
+markings, per Controlled Access Program Coordination Office guidelines.  List 
+in order the award category, nominee/team name, job series, and rank/grade, 
+nominee organization, location and point of contact, summary of achievements, 
+and impact of achievements in the context of the criteria in paragraph 3.  
+For all award nominations, submit an endorsement letter from the leadership 
+chain of command for the individual or team being nominated for an award. 
+    b.  The current command of the nominee(s) must forward all nomination 
+packages to Mr. Stephen Carr at stephen.j.carr.civ(at)us.navy.mil.  For 
+classified package submissions, email Mr. Carr on SIPRNET at 
+stephen.j.carr1(at)navy.smil.mil or JWICS at carrste(at)nmic.ic.gov. 
+Nomination packages must be submitted no later than 30 days after release of 
+this NAVADMIN.  Award recipients will be notified by 30 June 2023.  Awards 
+will be forwarded to respective commands by 31 July 2023. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
