@@ -1,0 +1,84 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 012058Z MAR 23 MID200080774560U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 061/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N4/MAR// 
+ 
+SUBJ/READINESS BASED SPARING - INTERIM CHANGE (CORRECTED COPY)// 
+ 
+REF/A/DOC/OPNAV/17NOV2022// 
+NARR/REF A IS OPNAVINST 4442.5B, READINESS BASED SPARING// 
+ 
+POC/CAPT ANDREW OSWALD/OPNAV N4L/CNO WASHINGTON DC/TEL: (703) 695-4758/EMAIL: 
+ANDREW.J.OSWALD2.MIL@US.NAVY.MIL// 
+ 
+RMKS/1.  Purpose.  Pending formal amendment to reference (a), this interim 
+change adds a new readiness threshold to reference (a).  This interim change 
+is effective upon the release of this message. 
+ 
+2.  Background.  Endurance supply measures the days a system remains fully 
+operational without an off ship requisition. 
+ 
+3.  Changes.  Endurance supply (Es) is added to amend reference (a), 
+subparagraph 3a.  Reference (a), subparagraph 3a is hereby amended and will 
+read as follows: 
+    a.  This instruction describes the application of readiness based sparing 
+(RBS) methodology to spares and repair parts allowance determination to 
+ensure that prescribed readiness thresholds and objectives at the lowest 
+possible cost. RBS thresholds are expressed as operational availability (Ao); 
+or full mission-capable (FMC) and/or mission capable rates.  Per reference 
+(a), the term RBS applies to single echelon and single indenture systems, as 
+well as their multi-echelon and multi-indenture extensions, where applicable. 
+RBS applies to all methods of product support whether by organic or 
+commercially provided practices.  In addition to these measures, Es may be 
+used for the systems listed below and will use readiness thresholds to 
+include Es RBS: 
+        (1) AG9140 Ship Service Gas Turbine Generator (SSGTG) 
+        (2) AN/SLQ-32(V)6 and SLQ-32(V)7 Electronic Warfare Suites 
+        (3) AN/SPG-62 Fire Control Radar (Illuminators) 
+        (4) AN/SPQ-9B Radar 
+        (5) AN/SPS-73(V)18 Radar 
+        (6) AN/SPS-75 Search Radar 
+        (7) AN/SPS-77 Search Radar 
+        (8) AN/SPY-1D and SPY1D(V) Radars 
+        (9) AN/SQQ-89 Naval Anti-submarine Warfare (ASW) System 
+        (10) AN/WSC-9A(V)3 Satellite Comms (Navy Multi-Band Terminal, NMT) 
+        (11) Fairbanks Morse Ship Self Service Generators (SSDGs), all 
+variants 
+        (12) High Pressure Air Compressors (HPACs), all variants 
+        (13) LCS-2 Class Waterjets, all variants 
+        (14) LM2500 Gas Turbine Module (GTM) 
+        (15) LPD-17 Class Electrical and Machinery Control Systems (ECS-MCS) 
+ECS-MCS 
+        (16) LPD-17 Class Main Propulsion Diesel Engines (MPDEs), all types 
+        (17) Mk 110 57mm Gun 
+        (18) Mk 15 Phalanx CIWS SeaRAM Variant 
+        (19) Mk 15 Phalanx Close-in Weapon Systems (CIWS) 
+        (20) Mk 41 Vertical Launching System (Mk 41 VLS) 
+        (21) Mk 57 NATO SEASPARROW Missile System (NSSM) 
+        (22) MT30 (LCS-1 Class GTM) 
+        (23) MTU 20V 8000 Series (LCS-2 Class MPDEs) 
+        (24) Ship Self-Defense System (SSDS) 
+        (25) Shipboard Air Conditioning Plants, all variants 
+        (26) Shipboard Refrigeration Systems, all variants 
+        (27) Ships Signal Exploitation Equipment Increment Echo & Foxtrot 
+(SSEE INC E & F) 
+        (28) Unmanned Aerial Vehicle (UAV) Common Automatic Recovery System 
+(UCARS) 
+ 
+4.  This interim change will be incorporated into the next revision of 
+reference (a). 
+ 
+5.  Released by VADM R. L. Williamson, CNO N4.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

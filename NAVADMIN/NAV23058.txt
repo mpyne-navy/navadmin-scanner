@@ -1,0 +1,120 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 282114Z FEB 23 MID200080760127U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 058/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/NAVY SUPPLEMENTAL GUIDANCE TO COMMAND NOTIFICATION OF PREGNANCY POLICY, 
+ADMINISTRATIVE ABSENCE AND TRAVEL FOR NON-COVERED REPRODUCTIVE HEALTH CARE//
+
+REF/A/MSG/SECNAV/271542ZFEB23//
+REF/B/MSG/SECNAV/271617ZFEB23//
+REF/C/DOC/OPNAV/12MAR18//
+
+NARR/REF A IS ALNAV 017/23, COMMAND NOTIFICATION OF PREGNANCY POLICY.   
+REF B IS ALNAV 018/23, ADMINISTRATIVE ABSENCE OR TRAVEL FOR NON-COVERED 
+REPRODUCTIVE HEALTH CARE.   
+REF C IS OPNAVINST 6000.1D, NAVY GUIDELINES CONCERNING PREGNANCY AND 
+PARENTHOOD.//
+
+RMKS/1.  This NAVADMIN provides interim supplemental guidance to references 
+(a) and (b) to ensure our Sailors and their families have access to 
+reproductive health care, regardless of where they are stationed in service 
+to our Nation.  In doing so, this guidance ensures the privacy of protected 
+health information.  All hands shall be made immediately aware of this 
+guidance.
+
+2.  Approval Timeline and Appeals.  References (a) and (b) provide the 
+methodology that must be applied for command notification of pregnancy and 
+approval of administrative absence or funded travel for non-covered 
+reproductive health care.
+    a.  Approval Timeline.  Commanding officers (CO) or approval authorities 
+must act promptly and with appropriate discretion when considering a request 
+for administrative absence or funded temporary duty (TDY) travel.  If a 
+command structure does not have a designated CO, the approval authority is 
+defined as the head of the unit, activity, or organization who holds command 
+and control authority.  Due to the time-sensitive nature of many reproductive 
+health care, approval decisions should be made no later than (NLT) 5 days 
+after the request is submitted.
+    b.  Appeal Process.  If the CO or approval authority denies the 
+administrative absence or funded travel for non-covered reproductive health 
+care, the CO or approval authority must notify the first O6/GS15 or higher 
+immediate superior in command (ISIC).  The Service Member may appeal the 
+request to the same O6/GS15 or higher ISIC. Appeal decisions should be made 
+promptly, NLT than 5 days after the request is denied.
+
+3.  Administrative Procedures:
+    a.  Requesting administrative absence.  The Navy Standard Integrated 
+Personnel System (NSIPS) will be used for non-covered reproductive healthcare 
+requests.  NSIPS (to include NSIPS Web Afloat) will be updated to reflect 
+administrative absence for non- covered reproductive health care.  Until this 
+update is completed, the following procedures will be used:
+        (1) Select *Convalescent* in block 12a of the leave request.  Input 
+comment *Administrative Absence for Non-Covered Reproductive Health Care* in 
+block 24.  Do not input any Health Insurance Portability and Accountability 
+Act (HIPAA) information into NSIPS.
+        (2) Administrative absence requests will be limited to the lesser of 
+21 days, or the minimum number of days essential to receive the required care 
+and travel needed to access the care by the most expeditious means of 
+transportation practicable.
+        (3) Requests for convalescent leave following receipt of non-covered 
+reproductive health care must be submitted as a separate convalescent leave 
+period and may be approved based on a recommendation from a Department of 
+Defense (DoD) health care provider or a non-DoD health care provider from 
+whom the Service Member is receiving care.
+        (4) Leave approvers are responsible for ensuring the duration of the 
+administrative absence is the minimum amount required to receive the required 
+care and requisite travel within the limits outlined in this NAVADMIN.
+    b.  Requesting funded TDY travel.  If requesting funded TDY travel, the 
+request shall be submitted in Defense Travel System
+(DTS) as a routine TDY.  No HIPAA information will be uploaded into DTS as 
+part of substantiating documentation for funded travel.
+
+4.  Command Tracking Requirement.  Reference (b) guidance requires the Navy 
+to track administrative absences and travel costs executed by all authorized 
+travelers for non-covered reproductive health care.  Until a permanent 
+solution is implemented at a later date, the following is required:
+    a.  Commands shall send monthly reports to 
+ALTN_pregnancyandparenthood(at)navy.mil.
+    b.  Reports shall use the template located at
+https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Parenthood-
+Pregnancy/ which includes the required data in paragraphs 7.c.4(a) through 
+paragraph 7.c.4(e) of reference (b).
+
+5.  Reference (c) will be updated to reflect new guidance and policies.
+
+6.  Additional resources.  Additional fact sheets and frequently asked 
+questions are located at the below addresses:
+a.	 https://www.health.mil/News/In-the-Spotlight/Ensuring-Access-to-
+Reproductive-Health-Care
+   b.  https://www.mynavyhr.navy.mil/References/Messages/ALNAV-2023/
+   c.  https://www.mynavyhr.navy.mil/References/Messages/NAVADMIN-2023/
+d.  https://www.med.navy.mil/Navy-Marine-Corps-Public-Health-Center/Womens-
+Health/
+e.  https://www.mynavyhr.navy.mil/Support-Services/Culture-
+Resilience/Parenthood-Pregnancy/
+f.  The Navy Fact Sheet will be available on the Navy Messages page at 
+www.mynavyhr.navy.mil/References/Messages/NAVADMIN-2023/.
+
+7.  Point of contact for this matter is People and Culture (OPNAV N174)  
+via e-mail at ALTN_pregnancyandparenthood(at)navy.mil.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled.
+
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
