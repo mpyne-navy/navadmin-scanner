@@ -1,0 +1,107 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 031435Z MAR 23 MID200080778338U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 064/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/SKILLBRIDGE EMPLOYMENT SKILLS TRAINING GUIDANCE UPDATE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/171359ZSEP15// 
+REF/B/DOC/DOD/JUN2019// 
+ 
+NARR/REF A IS THE NAVADMIN 160/22, SKILLBRIDGE EMPLOYMENT SKILLS TRAINING 
+GUIDANCE.   
+REF B IS THE DOD FINANCIAL MANAGEMENT REGULATION.// 
+ 
+RMKS/1.  This NAVADMIN message updates SkillBridge registration procedures to 
+be conducted within the new SkillBridge application portal.  It additionally 
+institutes new policy controls.  Reference (a) remains in full effect except 
+as modified below. 
+ 
+2.  Policy and procedure changes in this NAVADMIN are effective immediately 
+for all new SkillBridge applicants.  In line with reference (a), Sailors with 
+prior command approval are grandfathered and may start or continue their 
+SkillBridge program as approved by their command.  Sailors without command 
+approval must reapply under the guidelines of this message. 
+ 
+3.  From this point forward, Sailors desiring to participate in SkillBridge 
+must register and apply for SkillBridge approval using the application portal 
+via MyNavy Education at https://myeducation.netc.navy.mil/.  E-mail 
+registrations are no longer being accepted.  Application portal instructions 
+can be found at  
+https://www.mynavyhr.navy.mil/Career-Management/Transition/SkillBridge/.  
+ 
+4.  SkillBridge is intended to provide transition assistance and skill 
+development for Service members leaving the Navy.  However, it is not an 
+entitlement and participation does impact readiness.  As such, the time 
+allowed for program participation is now based on paygrade.  If approved, 
+SkillBridge must occur prior to any terminal leave or permissive temporary 
+duty associated with separation, fleet reserve, or retirement.  The following 
+limits indicate the maximum amount of time prior to the actual separation, 
+fleet reserve, or retirement date that SkillBridge participation can 
+commence. 
+    a.  Tier one (enlisted E5 and below) - 180 days or less. 
+    b.  Tier two (enlisted E6-E9) - 120 days or less. 
+    c.  Tier three (officers O4 and below) - 120 days or less. 
+    d.  Tier four (officers O5 and above) - 90 days or less. 
+ 
+5.  SkillBridge applications for tier four personnel shall not be approved if 
+participation would result in a gapped billet. Additionally, tier four 
+applicants now require positive endorsement from the Director, Military 
+Personnel Plans and Policy (OPNAV N13) before they can begin 
+SkillBridge.  Commanding officers (CO) must certify in any approval for tier 
+four applicants that SkillBridge participation will not result in a gap.  The 
+Office of the Chief of Naval Personnel (OPNAV) SkillBridge registrar will 
+forward command-approved requests for tier four personnel to OPNAV N13.  The 
+registrar will then notify applicants of OPNAV N13's decision. 
+ 
+6.  Personnel who have received service-funded education, to include tuition 
+assistance, under-graduate and post-graduate education, will not be permitted 
+to start SkillBridge until all obligated service for that education is 
+complete. 
+ 
+7.  Officers must fulfill their minimum service requirement for commissioning 
+prior to starting SkillBridge. 
+ 
+8.  Officers serving under a retention bonus will not be permitted to start 
+SkillBridge until the service obligation for that bonus is complete. 
+ 
+9.  COs should consider whether allowing SkillBridge participation by Sailors 
+in receipt of skill or billet-based special and incentive pays would 
+negatively impact mission readiness.  In line with reference (a), COs are 
+always fully authorized to deny or curtail SkillBridge requests in light of 
+mission readiness impacts. 
+ 
+10.  Sailors who relinquish an overseas housing allowance or overseas 
+military housing to return to the continental United States for SkillBridge 
+participation are not currently eligible for a housing allowance in line with 
+reference (b).  This is a recognized gap that OPNAV is actively working with 
+the Department of Defense in order to develop a solution. 
+ 
+11.  All other policies in reference (a) remain in effect. 
+ 
+12.  Additional resources are available at 
+https://www.mynavyhr.navy.mil/Career-Management/Transition/SkillBridge/. 
+ 
+13.  Direct all questions regarding SkillBridge policy to 
+navy_skillbridge.fct(at)navy.mil or by phone at (703) 604-5310. 
+ 
+14.  This message will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+15.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
