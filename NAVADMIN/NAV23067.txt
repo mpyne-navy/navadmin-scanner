@@ -1,0 +1,63 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 131658Z MAR 23 MID200080804647U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 067/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/MAR// 
+ 
+SUBJ/RECOGNITION OF UNITS INVOLVED IN RETROGRADE OPERATION FROM AFGHANISTAN, 
+OPERATION ALLIES REFUGE AND OPERATION ALLIES WELCOME// 
+ 
+REF/A/DOC/DOD/7OCT2022// 
+REF/B/DOC/DOD/20JUN19// 
+REF/C/DOC/SECNAV/16AUG2019// 
+ 
+NARR/REF A IS MEMORANDUM FOR SECRETARIES OF THE MILITARY DEPARTMENTS, 
+CHAIRMAN OF THE JOINT CHIEFS OF STAFF, DIRECTOR OF ADMINSTRATION AND 
+MANAGEMENT TITLED: WAY FORWARD FOR RECOGNIZING UNITS INVOLVED FOR OPERATION 
+ALLIES REFUGE (OAR) AND ALLIES WELCOME (OAW). 
+REF B IS DOD 1348.33M VOL 2, SECDEF MANUAL OF MILITARY DECORATIONS AND 
+AWARDS. 
+REF C IS SECNAV M-1650.1, NAVY AND MARINE CORPS AWARDS MANUAL.// 
+ 
+RMKS/1.  As required by reference (a), the following guidance is provided for 
+the awarding of the Meritorious Unit Commendation for units in support of 
+retrograde operations from Afghanistan. 
+ 
+2.  On 31 August 2022, the Secretary of Defense (SECDEF) announced that all 
+units involved in the retrograde operation from Afghanistan, Operation ALLIES 
+REFUGE (OAR) and Operation ALLIES WELCOME (OAW), will be awarded, based on 
+the President's direction, the Meritorious Unit Commendation (MUC) or its 
+Service-specific equivalent. 
+ 
+3.  Units involved in the designated operations will be awarded the MUC or 
+sister service equivalent unit award unless the unit has already been 
+recognized with an equivalent or higher-level unit award. 
+ 
+4.  All Navy military and civilian personnel who were assigned to the 
+decorated units during the periods noted, and were present and participated 
+in the actions for which decorated, are eligible for this award. 
+ 
+5.  Inputs for eligible Navy units are due to the CNO Awards Branch via 
+designated Echelon 2 commands prior to 24 March 2023 in response, and 
+uploaded to ETMS2 Tasker Number DON-221012-C6D6. 
+ 
+6.  For questions regarding this message, contact cnoawards(AT)us.navy.mil or 
+(703) 695-0053. 
+ 
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
