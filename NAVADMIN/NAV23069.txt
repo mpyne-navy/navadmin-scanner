@@ -1,0 +1,69 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151716Z MAR 23 MID600052873634U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 069/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/SEA SERVICE AFFINITY GROUP ANNUAL CONFERENCES AND SYMPOSIUMS// 
+ 
+REF/A/DOC/OSD/26JAN16// 
+REF/B/DOC/SECNAV/17DEC19// 
+ 
+NARR/REF A IS DEPARTMENT OF DEFENSE CONFERENCE GUIDANCE VERSION 4.0. 
+REF B IS SECNAVINST 5050.6, DEPARTMENT OF THE NAVY CONFERENCE MANAGEMENT 
+PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces the support of the Navy for Fleet 
+participation and attendance at the Sea Service Affinity Group 
+(SSAG) conferences and symposiums. 
+ 
+2.  The Navy has longstanding relationships with the SSAGs of our 
+Nation, the Association of Naval Services Officers, the Sea Services 
+Leadership Association, and the National Naval Officers Association. 
+These affinity groups have a long and storied history of cultivating 
+and preparing our Sailors to achieve great success during their 
+naval careers through mentorship and leadership development 
+opportunities, including regional and national conferences and 
+symposiums. 
+ 
+3.  Participation and attendance at the SSAG national events are 
+encouraged.  Senior Navy leaders and others will be present to 
+engage our Sailors on issues facing the Fleet. 
+ 
+4.  Limited registration funding for these events is centrally 
+available from the Navy Culture and Force Resilience Office (OPNAV 
+N17) and the coordinator can be contacted via e-mail at 
+altn_usn_inclusion_and_diversity@navy.mil.  Subject to the 
+procedures outlined in references (a) and (b) pertaining to 
+conference attendance, local commanders are encouraged to promote 
+attendance at local SSAG events and use available temporary assigned 
+duty funding to facilitate travel to non-local SSAG events. 
+ 
+5.  SSAG national conference dates and locations are as follows: 
+    a.  Association of Naval Services Officers Eastern Region 
+Professional Development Symposium:  6 to 8 June 2023, Norfolk, VA. 
+    b.  Sea Service Leadership Associations Joint Women's Leadership 
+Symposium:  29 June to 1 July 2023, San Diego, CA. 
+    c.  National Naval Officers Association Annual Leadership, 
+Professional Development and Training Symposium:  31 July to 4 
+August 2023, San Diego, CA. 
+ 
+6.  For questions concerning SSAG event participation, contact OPNAV 
+N17 via e-mail at altn_usn_inclusion_and_diversity@navy.mil. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
