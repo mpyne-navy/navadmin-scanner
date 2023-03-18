@@ -1,0 +1,82 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 171404Z MAR 23 MID200080811317U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 074/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/ACADEMIC YEAR 2024 NURSE CORPS MEDICAL ENLISTED COMMISSIONING PROGRAM 
+SELECTION BOARD// 
+ 
+REF/A/DOC/OPNAV/14DEC09// 
+AMPN/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.// 
+ 
+RMKS/1.  This NAVADMIN message solicits applications for the Academic Year 
+(AY) 2024 Nurse Corps Medical Enlisted Commissioning Program (NC MECP) 
+selection board.  The AY-24 NC MECP selection board will convene in the Fall 
+of 2023.  NC MECP provides a path for Active Duty (AD) and Training and 
+Administration of the Reserve (TAR) enlisted Sailors and Marines in any 
+rating or military occupational specialty who already have some college 
+credit to obtain a baccalaureate degree in nursing and a commission in the 
+NC. Reserve Component enlisted Sailors in any status other than TAR are 
+not eligible. 
+ 
+2.  Applications must be postmarked by 1 September 2023 and mailed to: 
+ 
+    Commanding Officer 
+    Naval Medical Leader and Professional Development Command 
+    Attn:  HMDT, 16th Floor 
+    8955 Wood Road 
+    Bethesda MD 20889-5611 
+ 
+Any additional required documentation not yet available for the original 
+application package must be received no later than 15 September 
+2023.  Incomplete packages will not be reviewed by the board. 
+ 
+3.  Reference (a), chapters 1, 2, and 5, provide application procedures and 
+requirements which should be read in their entirety. Additional application 
+information can be found via MyNavy Portal (MNP) 
+at https://www.mnp.navy.mil/group/career-planning/commissioning-programs on 
+the NC MECP link.  Applicants must not have reached their 42nd birthday by 
+the time of initial commission. Age waivers will not be granted.  A Marine 
+administrative message will outline conditional release procedures for AD 
+Marines who are selected to participate in the program. 
+ 
+4.  Amplifying information for the AY-24 NC MECP selection board: 
+    a.  Applicants assigned to a nuclear training command or who hold a 
+nuclear Navy enlisted classification and are applying for the 
+AY-24 NC MECP selection board must obtain conditional release from nuclear-
+field duty prior to submitting their application for consideration.  To 
+obtain a conditional release, an applicant must submit an Enlisted Personnel 
+Action Request (NAVPERS 1306/7) to the Nuclear Propulsion Program Management 
+Office (OPNAV N133) via their detailer. 
+    b.  Applicants not assigned to nuclear programs must submit a 
+NAVPERS 1306/7 to their enlisted community manager to obtain the conditional 
+release. 
+ 
+5.  Once approved, the selection board results will be released and posted 
+via MNP at the NC MECP link. 
+ 
+6.  Point of contact is Ms. Beverly D. Kemp, Naval Medical Leader and 
+Professional Development Command, who can be reached at (301) 319-4520/ 
+DSN 285 or via e-mail at beverly.d.kemp.civ@health.mil. 
+ 
+7.  This NAVADMIN message will remain in effect until superseded or 
+30 September 2024, whichever occurs first. 
+ 
+8.  Released by Ms. Lisa M. St. Andre, Acting N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
