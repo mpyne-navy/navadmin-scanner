@@ -1,0 +1,142 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 301924Z MAR 23 MID200080856298U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+NAVADMIN 080/23 
+ 
+SUBJ/FY-24 NAVY ACTIVE AND RESERVE COMPONENT ENLISTED ADVANCEMENT SELECTION 
+BOARDS FOR CHIEF PETTY OFFICER// 
+ 
+REF/A/DOC/BUPERS/07FEB22// 
+REF/B/MSG/CNO WASHINGTON DC/221540ZDEC22// 
+REF/C/MSG/CNO WASHINGTON DC/102127ZDEC20// 
+REF/D/DOC/MILPERSMAN/14JUN18// 
+REF/E/MSG/CNO WASHINGTON DC/271415ZSEP19// 
+ 
+NARR/REF A IS BUPERSINST 1430.16G, CHANGE TRANSMITTAL 1, 
+ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF THE U.S. NAVY AND U.S. 
+NAVY RESERVE.  REF B IS NAVADMIN 288/22, HIGH YEAR TENURE PLUS 
+PILOT.  REF C IS NAVADMIN 320/20, IMPLEMENTATION OF NAVY ENLISTED 
+CLASSIFICATION CODE N33Z IDENTIFYING NUCLEAR ENGINEERING WATCH 
+SUPERVISOR AND PROPULSION PLANT WATCH SUPERVISOR QUALIFICATIONS. 
+REF D IS MILPERSMAN 1220-040, SUBMARINE QUALIFICATIONS DESIGNATION 
+FOR ENLISTED MEMBERS.  REF E IS NAVADMIN 220/19, ELECTRONIC 
+SUBMISSION OF LETTERS TO PROMOTION AND SELECTION BOARDS THROUGH 
+MYNAVY PORTAL.// 
+ 
+RMKS/1.  This NAVADMIN provides guidance for the Fiscal Year (FY) 
+2024 Navy Active and Reserve Component Enlisted Advancement 
+Selection Boards for Chief Petty Officer.  The Active Component (AC) 
+and Training and Administration of the Reserves (TAR) cycle is 258 
+and the Selected Reserve (SELRES) cycle is 112.  For board purposes, 
+the Reserve Component (RC) board will consider TAR under cycle 258, 
+and will consider SELRES and those serving on voluntary and 
+involuntary recall and mobilization orders under cycle 112. 
+Mobilized individual ready reserve and canvasser recruiter personnel 
+are considered under the SELRES requirements for advancement. 
+ 
+2.  RC Timeline: 
+    a.  30 April 2023:  Rating change deadline. 
+    b.  16 May 2023, 2359 CST:  Letter to the board (LTB) deadline. 
+    c.  30 May 2023:  Board convenes. 
+    d.  10 June 2023:  Board adjourns. 
+ 
+3.  AC Timeline: 
+    a.  27 May 2023:  Rating change deadline. 
+    b.  12 June 2023, 2359 CST:  LTB deadline. 
+    c.  26 June 2023:  Board convenes. 
+    d.  21 July 2023:  Board adjourns. 
+ 
+4.  Eligibility Criteria.  Candidates must meet and maintain the 
+eligibility requirements outlined in chapters 2 and 11 of reference 
+(a) and this NAVADMIN prior to the scheduled board convening date 
+through the adjournment of the board.  The authoritative sources 
+required to reflect candidate eligibility are the Enlisted Master 
+File for AC and TAR and the Navy Standard Integrated Personnel 
+System for SELRES and those serving on voluntary and involuntary 
+recall and mobilization orders, mobilized individual ready reserve 
+and canvasser recruiter personnel.  Refer to paragraph 616 of 
+reference (a) for candidate validation procedures.  Eligibility 
+requirements include: 
+    a.  Candidates must be selection board eligible in the correct 
+competitive group on their profile sheet.  Candidates should 
+register for e-mail notification for profile sheet updates via 
+MyNavy Portal (MNP) at https://www.mnp.navy.mil/group/advancement-  
+and-promotion/my-advancement.  Select "My Profiles" then 
+"Advancement Profile Sheet Information-Individual."  Information may 
+change on a weekly basis and both command and Sailor should continue 
+to verify. 
+    b.  Terminal eligibility date:  1 January 2024. 
+    c.  Time-In-Rate (TIR) date:  1 January 2021.  If an early 
+promote (EP) TIR waiver is granted, the evaluation used to grant the 
+EP TIR waiver must be made available to the board. 
+    d.  High Year Tenure (HYT) and HYT Plus Pilot.  In line with 
+reference (b), all Fleet Reserve requests are considered voluntary. 
+Affected Sailors will be automatically removed from board 
+consideration. 
+    e.  Security clearance requirements (if required).  Refer to 
+chapter 2 of reference (a). 
+    f.  Rate specific and competitive group eligibility 
+requirements.  Candidates must meet special requirements for certain 
+ratings, as outlined in paragraph 203 of reference (a). 
+        (1) Nuclear-trained Sailors must hold additional Navy 
+Enlisted Classification code N33Z to indicate engineering watch 
+supervisor or propulsion plant watch supervisor qualification in 
+line with reference (c). 
+        (2) Refer to reference (d) for non-nuclear submarine Sailors 
+designations for advancement eligibility. 
+ 
+5.  Record review and communication with selection board:  refer to 
+reference (e). 
+    a.  LTBs should be submitted via the electronic submission of 
+selection board documents (ESSBD).  If unable to use ESSBD and for 
+more information on LTBs, visit the following link: 
+https://www.mynavyhr.navy.mil/Career-Management/Boards/Active-Duty-
+Enlisted/General-Information/ 
+    b.  All LTBs and each enclosure must contain the candidates full 
+name and 10 digit Department of Defense (DOD) identification number. 
+Candidates must verify that the correct board number is on their 
+signed cover letter.  Board numbers are: 
+        (1) Board #335 for SELRES. 
+        (2) Board #336 for TAR. 
+        (3) Board #360 for AC. 
+ 
+6.  Board results will be posted via BUPERS Online and released by 
+subsequent NAVADMIN.  Board selectee profile sheets will be 
+published by Naval Education and Training Professional Development 
+Center (NETPDC) within 30 days of selection board results being 
+released. 
+ 
+7.  Additional information regarding this cycle will be posted via 
+MNP. 
+    a.  AC boards:  https://www.mnp.navy.mil/group/advancement-and-  
+promotion/active-duty-enlisted. 
+    b.  RC boards:  https://www.mnp.navy.mil/group/advancement-and-  
+promotion/reserve-enlisted. 
+ 
+8.  Points of Contact: 
+    a.  MyNavy Career Center, (833) 330-6622 or via e-mail at 
+askmncc@navy.mil.  Do not submit LTBs to this e-mail. 
+    b.  Selection Board Eligibility Branch (PERS-802), (901) 874- 
+4537/DSN 882 e-mail at NPC_enlisted_selbd_elig@navy.mil.  Do not 
+submit LTBs to this e-mail. 
+    c.  NETPDC (N321), (850) 473-6148/DSN 753 or via e-mail at 
+usn.pensacola.netpdc.mbx.netpdc-n321-discrepancies@us.navy.mil. 
+ 
+9.  This message will remain in effect until canceled or superseded. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

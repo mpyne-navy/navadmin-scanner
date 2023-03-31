@@ -1,0 +1,66 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 311846Z MAR 23 MID200080859570U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 082/23 
+ 
+SUBJ/CHANGES TO SENIOR ENLISTED PERFORMANCE EVALUATION PROCESS// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+REF/A/DOC/BUPERS/01DEC21// 
+ 
+AMPN/REF A IS BUPERSINST 1610.10F, CHANGE 1, NAVY PERFORMANCE EVALUATION 
+SYSTEM.// 
+ 
+RMKS/1.  This NAVADMIN provides changes, effective immediately, to 
+the reporting occasions of Command Master Chiefs (CMDCM) and Command 
+Senior Chiefs (CMDCS) serving in the Active and Reserve Component. 
+    a.  The Master Chief Petty Officer of the Navy (MCPON), Fleet 
+Master Chiefs (FLTCM), Force Master Chiefs (FORCM), and CMDCMs who 
+carry the 8CMC Navy enlisted classification code (NEC) and directly 
+report to a flag or general officer will no longer receive periodic 
+and detachment of individual reports. 
+    b.  CMDCMs who carry the 8CMC NEC and do not directly report to 
+a flag or general officer are only required to receive detachment of 
+individual reports in line with reference (a). 
+    c.  CMDCSs will now receive periodic reports ending on 15 
+November and will continue to receive reports as required by 
+reference (a). 
+    d.  Chiefs of the Boat (COB) in the pay grade of E8 or E9 will 
+continue to receive periodic reports ending on 15 September or 15 
+April, respectively.  In occasions when a COB would be in the same 
+summary group as other senior chiefs or master chiefs (for COBs that 
+are an E9), the reporting senior may elect to adjust the COB's 
+billet subcategory to SPECIAL01 in the billet subcategory block 
+(Block 21) of the evaluation, separating them from the regular 
+summary group. 
+    e.  Source-rated master chiefs or senior chiefs who serve in 
+senior enlisted leader roles (e.g., collateral duty positions) will 
+continue to receive reports in line with reference (a). 
+ 
+2.  Reporting seniors are encouraged to document deficiencies in 
+performance or behavior in a special report. 
+ 
+3.  Performance evaluation training materials, including the eNavFit 
+user guide, video tutorials, best practices, and frequently asked 
+questions are available on the NPC website at 
+https://www.mynavyhr.navy.mil/Career-Management/Performance-
+Evaluation/eNAVFIT/.  The Performance Evaluation Transformation and 
+eNavFit team will continue providing live training sessions via 
+Microsoft Teams on a bi-monthly basis through Fiscal Year 2023. 
+ 
+4.  For questions and concerns regarding these policy changes, 
+contact FORCM Christian Detje at (901) 874-3030 or via e-mail at 
+christian.d.detje.mil@us.navy.mil. 
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
