@@ -1,136 +1,140 @@
-CLASSIFICATION: UNCLASSIFIED//
-
-ROUTINE
-
-R 121417Z APR 23 MID200080889941U
-
-FM CNO WASHINGTON DC
-
-TO NAVADMIN
-
-INFO CNO WASHINGTON DC
-
-BT
-UNCLAS
-
-NAVADMIN 084/23
-
-PASS TO OFFICE CODES:
-FM CNO WASHINGTON DC//N1//
-INFO CNO WASHINGTON DC//N1//
-
-MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR//
-
-SUBJ/APPLICATION FOR ASSIGNMENT TO THE U.S. NAVY CEREMONIAL GUARD//
-
-REF/A/DOC/COMNAVPERSCOM/19NOV22//
-REF/B/DOC/DOD/15DEC98//
-REF/C/DOC/DOD/30NOV98//
-REF/D/DOC/SECNAVINST/14APR15//
-REF/E/MSG/NAVADMIN/091914ZMAR22//
-
-NARR/REF A IS MILPERSMAN ARTICLE 1306-907, NAVY CEREMONIAL GUARD.
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 131239Z APR 23 MID200080892372U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 084/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
+ 
+SUBJ/APPLICATION FOR ASSIGNMENT TO THE U.S. NAVY CEREMONIAL GUARD 
+(CORRECTED COPY)// 
+ 
+REF/A/DOC/COMNAVPERSCOM/19NOV22// 
+REF/B/DOC/DOD/15DEC98// 
+REF/C/DOC/DOD/30NOV98// 
+REF/D/DOC/SECNAVINST/14APR15// 
+REF/E/MSG/NAVADMIN/091914ZMAR22// 
+REF/F/MSG/CNO WASHINGTON DC/121417ZAPR23// 
+ 
+NARR/REF A IS MILPERSMAN ARTICLE 1306-907, NAVY CEREMONIAL GUARD. 
 REF B IS DOD DIRECTIVE 5210.55, DEPARTMENT OF DEFENSE PRESIDENTIAL SUPPORT 
-PROGRAM.  
+PROGRAM.   
 REF C IS DOD INSTRUCTION 5210.87, SELECTION OF DOD MILITARY AND CIVILIAN 
 PERSONNEL AND CONTRACTOR EMPLOYEES FOR ASSIGNMENT TO PRESIDENTIAL SUPPORT 
-ACTIVITIES.
-REF D IS SECNAVINST 6810.1, OPHTHALMIC SERVICES.  REF E IS NAVADMIN 064/22, 
-BUPERSINST 1000.22C MANAGEMENT OF NAVY UNIFORMED PERSONNEL DIAGNOSED WITH 
-PSEUDOFOLLICULITIS BARBAE (PFB) UPDATE//
-
-RMKS/1.  This NAVADMIN solicits motivated officer (O3-O5) and enlisted (E4-
-E9) applicants for duty with the United States National Ceremonial Guard 
-(USNCG).  Interested volunteers, who meet the criteria described below and in 
-references (a) through (c), are eligible to apply for billets as early as 15 
-months from their projected rotation date.
-
-2.  Enlisted approved applicants are eligible to receive one of two Special 
-Duty Assignment Pays, either as a Recruit Division Commander (NEC-8RDC) 
-(limited billets) or as Staff Ceremonial Specialist.
-
-3.  Established in 1931, the USNCG is a Presidential support unit in line 
-with references (b) and (c) and is the official ceremonial unit of the Navy.  
-Located in Washington, D.C., the primary mission of the USNCG is to represent 
-the service in Presidential, Joint Armed Forces, Navy, and public ceremonies 
-in the National Capital Region and around the world.  Members of the USNCG 
-participate in some of the most prestigious ceremonies including Presidential 
-inaugurations, State Funerals, White House ceremonies, and arrival ceremonies 
-for foreign officials in our Nation's capital.  In addition, the USNCG 
-conducts all funeral honors for Navy personnel and their dependents buried in 
-the Arlington National Cemetery.  Elements of the command, such as the U.S. 
-Navy Drill Team and the U.S. Navy Color Guard, regularly represent the Navy 
-in public events (Navy Weeks, Fleet Weeks, public parades, ship's 
-commissioning ceremonies, and professional sporting events) across the 
-country.
-
-4.  Volunteers (both officer and enlisted) must be strong leaders who are 
-ready to serve as role models to large numbers of junior Sailors.  Volunteers 
-must always operate with maturity and tact and be exceptional and disciplined 
-representatives of the U.S.
-Navy, both on and off duty.  They must have an impeccable appearance, 
-excellent military bearing, and meet the following height requirements 
-(waiverable by USNCG commanding officer (CO) on a case-by-case basis for 
-exceptional candidates):
-    a.  Male:  minimum 6 feet.
-    b.  Female:  minimum 5 feet 5 inches.
-
+ACTIVITIES. 
+REF D IS SECNAVINST 6810.1, OPHTHALMIC SERVICES.   
+REF E IS NAVADMIN 064/22, BUPERSINST 1000.22C MANAGEMENT OF NAVY UNIFORMED 
+PERSONNEL DIAGNOSED WITH PSEUDOFOLLICULITIS BARBAE (PFB) UPDATE. 
+REF F IS NAVADMIN 084/23, APPLICATION FOR ASSIGNMENT TO THE U.S. NAVY 
+CEREMONIAL GUARD.// 
+ 
+RMKS/1.  This NAVADMIN amends reference (f) and solicits 
+motivated officer (O3-O5) and enlisted (E4-E9) applicants for 
+duty with the United States National Ceremonial Guard (USNCG). 
+Interested volunteers, who meet the criteria described below and 
+in references (a) through (c), are eligible to apply for billets 
+as early as 15 months from their projected rotation date. 
+ 
+2.  Enlisted approved applicants are eligible to receive one of 
+two Special Duty Assignment Pays, either as a Recruit Division 
+Commander (NEC-8RDC) (limited billets) or as Staff Ceremonial 
+Specialist. 
+ 
+3.  Established in 1931, the USNCG is a Presidential support unit 
+in line with references (b) and (c) and is the official 
+ceremonial unit of the Navy.  Located in Washington, D.C., the 
+primary mission of the USNCG is to represent the service in 
+Presidential, Joint Armed Forces, Navy, and public ceremonies in 
+the National Capital Region and around the world.  Members of the 
+USNCG participate in some of the most prestigious ceremonies 
+including Presidential inaugurations, State Funerals, White House 
+ceremonies, and arrival ceremonies for foreign officials in our 
+Nation's capital.  In addition, the USNCG conducts all funeral 
+honors for Navy personnel and their dependents buried in the 
+Arlington National Cemetery.  Elements of the command, such as 
+the U.S. Navy Drill Team and the U.S. Navy Color Guard, regularly 
+represent the Navy in public events (Navy Weeks, Fleet Weeks, 
+public parades, ship's commissioning ceremonies, and professional 
+sporting events) across the country. 
+ 
+4.  Volunteers (both officer and enlisted) must be strong leaders 
+who are ready to serve as role models to large numbers of junior 
+Sailors.  Volunteers must always operate with maturity and tact 
+and be exceptional and disciplined representatives of the U.S. 
+Navy, both on and off duty.  They must have an impeccable 
+appearance, excellent military bearing, and meet the following 
+height requirements (waiverable by USNCG commanding officer (CO) 
+on a case-by-case basis for exceptional candidates): 
+    a.  Male:  minimum 6 feet. 
+    b.  Female:  minimum 5 feet 10 inches. 
+ 
 5.  Volunteers (both officer and enlisted) must meet the minimum 
-qualifications contained in references (a) through (c) and the following 
-additional requirements:
-    a.  No driving under the influence or driving while intoxicated 
-convictions within the last 5 years.
-    b.  No excessive debt.  The command financial specialist should evaluate 
-the debt-to-income ratio of the member.
-    c.  Be able to participate in public ceremonies without glasses (contact 
-lenses are acceptable).  While assigned to the USNCG, Navy medicine is 
-authorized to provide prescription contact lenses at the government's expense 
-in line with reference (d).
-    d.  Be capable of strenuous marching, drilling, and prolonged standing.
-    e.  Must be a U.S. citizen and hold at minimum a valid secret clearance.
-    f.  No trait below 3.0 for the past three evaluation periods.
-    g.  Overall physical fitness test category score is a good low or higher 
-and within body composition assessment standards.
-    h.  Must be able to shave to conduct Navy and Joint ceremonies on a 
-routine basis.  Due to mission requirements and tasking, the USNCG must 
-maintain a tighter standard than is outlined in reference (e).  Members 
-diagnosed with Pseudofolliculitis barbae, please contact the USNCG to discuss 
-the possibility of a waiver.
-
-6.  Interested enlisted candidates meeting the above requirements must submit 
-a completed Enlisted Personnel Action Request (NAVPERS 1306/7) to their 
-rating detailer via their CO, requesting release to shore special programs 
-for assignment to the USNCG.  Once released, the Shore Special Programs 
-Branch
-(PERS-4010) detailer will release a screening message to the command with 
-application requirements.  Once the application package is received and 
-reviewed, a telephone interview will be arranged with the USNCG command 
-master chief.  Because of the challenging nature of duty onboard the USNCG, 
-enlisted candidates whose records reflect that they have succeeded in this 
-assignment may be viewed positively on future enlisted advancement boards.
-
-7.  Interested officers should contact their detailer and review references 
-(a) through (c) for specific requirements.  A telephone interview will be 
-arranged with the USNCG CO and the following additional requirements:
-    a.  Submit a copy of the last three fitness reports.
-    b.  Full-length official photograph in the uniform of the day.
-    c.  Last three performance fitness assessment cycle results.
-
-8.  Additional information may be found on the USNCG website at:
-https://ndw.cnic.navy.mil/About/Tenant-Commands/United-States-
-Navy-Ceremonial-Guard/ or
-https://www.facebook.com/usnceremonialguard/.  Check out the U.S.
-Navy's official YouTube channel for a video about the Navy Ceremonial Guard 
-at https://www.youtube.com/watch?v=6jxEiPQzJCY.
-
+qualifications contained in references (a) through (c) and the 
+following additional requirements: 
+    a.  No driving under the influence or driving while 
+intoxicated convictions within the last 5 years. 
+    b.  No excessive debt.  The command financial specialist 
+should evaluate the debt-to-income ratio of the member. 
+    c.  Be able to participate in public ceremonies without 
+glasses (contact lenses are acceptable).  While assigned to the 
+USNCG, Navy medicine is authorized to provide prescription 
+contact lenses at the government's expense in line with reference 
+(d). 
+    d.  Be capable of strenuous marching, drilling, and prolonged 
+standing. 
+    e.  Must be a U.S. citizen and hold at minimum a valid secret 
+clearance. 
+    f.  No trait below 3.0 for the past three evaluation periods. 
+    g.  Overall physical fitness test category score is a good 
+low or higher and within body composition assessment standards. 
+    h.  Must be able to shave to conduct Navy and Joint 
+ceremonies on a routine basis.  Due to mission requirements and 
+tasking, the USNCG must maintain a tighter standard than is 
+outlined in reference (e).  Members diagnosed with 
+Pseudofolliculitis barbae, please contact the USNCG to discuss 
+the possibility of a waiver. 
+ 
+6.  Interested enlisted candidates meeting the above requirements 
+must submit a completed Enlisted Personnel Action Request 
+(NAVPERS 1306/7) to their rating detailer via their CO, 
+requesting release to shore special programs for assignment to 
+the USNCG.  Once released, the Shore Special Programs Branch 
+(PERS-4010) detailer will release a screening message to the 
+command with application requirements.  Once the application 
+package is received and reviewed, a telephone interview will be 
+arranged with the USNCG command master chief.  Because of the 
+challenging nature of duty onboard the USNCG, enlisted candidates 
+whose records reflect that they have succeeded in this assignment 
+may be viewed positively on future enlisted advancement boards. 
+ 
+7.  Interested officers should contact their detailer and review 
+references (a) through (c) for specific requirements.  A 
+telephone interview will be arranged with the USNCG CO and the 
+following additional requirements: 
+    a.  Submit a copy of the last three fitness reports. 
+    b.  Full-length official photograph in the uniform of the day. 
+    c.  Last three performance fitness assessment cycle results. 
+ 
+8.  Additional information may be found on the USNCG website at: 
+https://ndw.cnic.navy.mil/About/Tenant-Commands/United-States-Navy-
+Ceremonial-Guard/ or https://www.facebook.com/usnceremonialguard/.   
+Check out the U.S. Navy's official YouTube channel for a video about  
+the Navy Ceremonial Guard at https://www.youtube.com/watch?v=6jxEiPQzJCY. 
+ 
 9.  This NAVADMIN will remain in effect until superseded or canceled, 
-whichever comes first.
-
-10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
-
-BT
-#0001
-NNNN
-
+whichever comes first. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
 CLASSIFICATION: UNCLASSIFIED//
-
