@@ -1,0 +1,165 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 211622Z APR 23 MID200080920782U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 094/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
+ 
+SUBJ/NAVY RESERVE PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, COMMANDER, 
+LIEUTENANT COMMANDER, LIEUTENANT, AND CHIEF WARRANT OFFICER IN THE LINE AND 
+STAFF CORPS// 
+ 
+REF/A/DOC/OPNAV/11JUL11// 
+REF/B/MSG/CNO WASHINGTON DC/211859ZDEC17// 
+REF/C/DOC/OPNAV/28FEB12// 
+REF/D/MSG/CNO WASHINGTON DC/041853ZAUG22 
+REF/E/DOC/SECNAV/24JUL19// 
+REF/F/DOC/COMNAVPERSCOM/23JUL07// 
+ 
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM. 
+REF B IS NAVADMIN 304/17, PHYSICAL READINESS PROGRAM POLICY CHANGES. 
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE-DUTY.   
+REF D IS NAVADMIN 176/22, POLICY UPDATE CONCERNING SERVICE-IN-GRADE 
+RETIREMENT ELIGIBILITY FOR ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR 
+RESERVE LIEUTENANT COMMANDERS.   
+REF E IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF F IS MILPERSMAN ARTICLE 1070-180, OFFICER PHOTOGRAPHS.// 
+ 
+RMKS/1.  Congratulations to the following officers on their promotions to the 
+ranks indicated in this message.  This NAVADMIN is the authority for 
+effecting permanent officer promotions on the dates indicated.  Columns read 
+name and designator. 
+                   PERMANENT PROMOTION TO CAPTAIN 
+           CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE 
+              LINE 23 JUNE 2022      STAFF 1 AUGUST 2022 
+                     DOR/EFF DATE 01 MARCH 2023 
+ Whitsell Renee Daws      3105 
+                      DOR/EFF DATE 01 MAY 2023 
+ Blazek Marissa Louise    1115         Debolt Eric M            1115 
+ Doerr Angela             1325         Faust Christopher A      2105 
+ Guthrie Adam Davidson    3105         Henleybrown Kimberly M   2205 
+ Hill Tyson Kenneth       1815         Magee Ken William        2505 
+ Mansfield Michael T      1835         Moreno Mark Christopher  4105 
+ Parthun William Eric     2305         Rose Arlen Brion         1117 
+ Steigelman Timothy E     1115 
+                   PERMANENT PROMOTION TO COMMANDER 
+                       DOR/EFF DATE 01 MAY 2023 
+ Adair Theresa Ann        1835         Becknell Jeffrey Scott   1125 
+ Blackman Adam Richard    1125         Boehm Caitlin Annika     1115 
+ Bolton Vicki             2905         Borromeo Kyra Tishalei   1115 
+ Bui Allen Nghiem         1825         Chan Laura Fong          1665 
+ Clonch Brandon Michael   1815         Cooper Timothy Joseph    1115 
+ Craig Adam Lawrence      1315         Deal Leonard Andrew      1205 
+ Derks Matthew Charles    1515         Frere Andrea D           2205 
+ Godfrey Felicia Lashawn  1207         Johnston Timothy Brian   3105 
+ Livingston William C     1137         Orr Douglas Martin       4105 
+ Pierce Howard Shane      2905         Pierce Michael T Jr      2505 
+ Rigney Abigail Lynn      1115         Rupp Erik Paul           3105 
+ Ryan Jennifer Meyer      1325         Sherman Bradley Neil     2105 
+ Tompson Graham Carroll   1115         Wu Daren                 2105 
+                 PERMANENT PROMOTION TO LIEUTENANT COMMANDER 
+                       DOR/EFF DATE 01 JANUARY 2021 
+ Reed Adam Joseph         1105 
+                        DOR/EFF DATE 01 MAY 2023 
+ Agunbiade Victor O       1207         Byrd Stephen Ryan        1125 
+ Chaffee Preston A        1115         Christie Alexander S     1305 
+ Claassen Sally K         2205         Cohen Brent Alexander    3107 
+ Corbin Randall Dejohn    3105         Cummins Gregory Taylor   3105 
+ Davis Justin Gates       2505         Davis Rodney Lee         1815 
+ Dawson Christopher K     1825         Dougherty Madeline E     1315 
+ Driscoll Tyler William   1665         Fazzino Victorio M       6495 
+ Galarza Christopher L    1115         Gleason Augustus M       2105 
+ Gonzalez David Jr        1525         Graeter Paul C           1125 
+ Hanson Christopher R     1655         Hart Adrienne Denise     1205 
+ Henry Stuart Isaac       3105         Jennings Shelby Thomas   2205 
+ Keller Joseph W IV       1835         Kesler Devon Tyler       1835 
+ Khokhar Balal Ahmad      5105         Klenk Walker Lee         1125 
+ Medina Christine Berry   2305         Mims Calen Lee           1115 
+ Nevins Matthew D         1115         Nicholson Robert Martin  1805 
+ Okeefe Ethan Curtis      1835         Pang Jeffrey Alan        1125 
+ Phifer Barrett William   2905         Reid Ricardo Alonso      1445 
+ Reyes Josue Manuel       2905         Swanton Alan Lee         1325 
+ Tomlinson Christopher C  1125         Totton Joseph William    4105 
+ Vanosdale Sean M         1125         Waldo Nicholas James     1305 
+ Walearemu Olawale James  2905         Williams Joshua Steven   1125 
+                      PERMANENT PROMOTION TO LIEUTENANT 
+                          DOR/EFF DATE 01 MAY 2023 
+ Anderson Matthew A       5105         Arnold Tymmber Lizette   1815 
+ Austin Shawn Patrick     1205         Azumah Benedictus Kodzo  5105 
+ Bender James Alan        5105         Castillo James Jr        1945 
+ Cody Leonard S III       1815         Ehret Jonathan P         1835 
+ Ellis Zachary T          1665         Higgins Scott Robert     1465 
+ Kennedy Charles C        1835         Krum Jarad Andrew        1835 
+ Menard Megan Elizabeth   1945         Miley Seth Robert        5105 
+ Murray Andrew C          5105         Nelson Eddison M Jr      1945 
+ Ragasa Ferdinand M       1665         Ramos Thomas J           1665 
+ Reiss James Edward       1945         Richards Michael Frank   1835 
+ Robinson Christopher     3165         Sawinski Eric K          1465 
+ Smith Travis Ross        1465         Tomeny Matthew Luis      1945 
+ Tulino Vincent Anthony   1465         Vanwingerden Cornelis J  2905 
+ Vera Caitlin Esther      1945 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-5 
+No officers promoted in this category. 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-4 
+No officers promoted in this category. 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-3 
+No officers promoted in this category. 
+ 
+2.  If a selected officer does not decline in writing prior to the projected 
+date of rank (noted above in paragraph 1), that officer is considered to have 
+accepted the promotion on the date indicated.  An officer who chooses to 
+decline promotion must submit the declination in writing to COMNAVPERSCOM 
+(PERS-806) within thirty (30) days of the release of this NAVADMIN. 
+ 
+3.  The commanding officer (CO), the Secretary of the Navy, or his designee, 
+has the authority to delay projected promotions.  Upon the exercise of a 
+delay, the officer shall be notified in writing before the effective date of 
+the promotion and not be tendered the promoting appointment.  The delay 
+authority will immediately forward the notification of delay with supporting 
+documentation to COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806). 
+ 
+4.  COs are reminded of their responsibility to ensure the officers they are 
+promoting are mentally, physically, morally, and professionally qualified in 
+accordance with section 14311 of title 10, U.S. Code.   In line with 
+reference (a), officers are ineligible for promotion if they have failed the 
+most recent Physical Fitness Assessment.  COs shall verify the promoting 
+officer's information in the Physical Readiness Information Management System 
+to ensure compliance with reference (a), as modified by reference (b), and 
+delay the officers promotion in accordance with paragraph 3 of this NAVADMIN, 
+if required. 
+ 
+5.  Prepare a Delivery of Permanent Appointment (NAVPERS FORM 1421/7)  
+(Rev 10-13).  Use this NAVADMIN as reference (a).  Use section of title 10, 
+U.S. Code 14308 as reference (b) for permanent lieutenants and above.  Use 
+section of title 10, U.S. Code 12242 as reference (b) for chief warrant 
+officers.  Mail the completed form to COMNAVPERSCOM (PERS-806) or email via 
+MyNavy Career Center at askmncc.fct@navy.mil. 
+ 
+6.  Training and Administration of Reserve (TAR) Officers should review 
+reference (c) and reference (d) for minimum time-in-grade (TIG)/service-in-
+grade requirements for purposes of Active-Duty voluntary 
+retirement.  (NOTE:  TIG TAR lieutenant commander voluntary retirements 
+changed with National Defense Authorization Act 2021.  Update to reference 
+(c) is pending.)  TAR officers and those officers temporarily on active-duty 
+anticipating release from active-duty under reference (e) may accept 
+promotion without incurring any additional active-duty obligation. 
+ 
+7.  New photographs are required for all officers within three months after 
+acceptance of promotion.  See reference (f) for specific requirements. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

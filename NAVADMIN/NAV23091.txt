@@ -1,0 +1,159 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 211537Z APR 23 MID200080920642U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 091/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
+ 
+SUBJ/BEREAVEMENT LEAVE PROGRAM// 
+ 
+REF/A/LTR/USD/29MAR23// 
+REF/B/LTR/ASN/14APR23// 
+ 
+NARR/REF A IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS 
+DIRECTIVE-TYPE MEMORANDUM 23-003, BEREAVEMENT LEAVE FOR SERVICE MEMBERS.   
+REF B IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE AFFAIRS) 
+DIRECTIVE-TYPE MEMORANDUM, DEPARTMENT OF THE NAVY GUIDANCE FOR BEREAVEMENT 
+LEAVE FOR SERVICE MEMBERS.// 
+ 
+RMKS/1.  This NAVADMIN message announces Navy policy and procedures for 
+bereavement leave in line with references (a) and (b). 
+ 
+2.  This NAVADMIN applies to all Active Component (AC), Training and 
+Administration of the Reserve (TAR), and Reserve Component (RC) Service 
+Members performing duty under a call or order to active service for more than 
+12 consecutive months who experienced the death of their spouse or child on 
+or after 25 June 2022. 
+ 
+3.  Eligibility: 
+a.  A Service Member whose spouse or child died on or after 25 June 2022 and 
+has less than 30 days of accrued ordinary leave on the date of such death is 
+eligible for up to 14 days of non-chargeable bereavement leave. 
+b.  A Service Member whose spouse or child died on or after 25 June 2022 and 
+has 30 or more days of accrued ordinary leave on the date of such death is 
+not eligible for bereavement leave until the point the Service Member has an 
+accrued leave balance of less than 30 days.  In this case, the Service Member 
+may be authorized emergency leave in connection with such death.  If the 
+accrued leave account is reduced below 30 days while taking leave, command 
+leave administrators (CLA) will ensure any remaining leave taken in 
+connection with such death is converted to bereavement leave and is not 
+chargeable to the Service Member. 
+ 
+4.  Using Bereavement Leave: 
+a.  Bereavement leave must be completed within the period between the date of 
+death and 14 days after the funeral, burial, or memorial service of the 
+deceased spouse or child, whichever occurs last.  Commanding officers (CO) 
+may approve bereavement leave to be taken later if operational requirements 
+or other extenuating circumstances prevented the bereavement leave from being 
+taken as described above. 
+b.  Bereavement leave is taken in one increment in connection with the death 
+of a spouse or child and is counted in calendar days.  A Service Member may 
+request and be approved for less than 14 days of bereavement leave, and then 
+extend such leave to a total of 14 days with the approval of the CO. 
+c.  Bereavement leave may be taken in combination with other types of leave 
+such as emergency, ordinary, advance, and convalescent.  When used in 
+combination with other types of leave, bereavement leave must be used during 
+the bereavement period delineated in paragraph 4.a of this NAVADMIN. 
+ 
+5.  Unused Bereavement Leave: 
+a.  Bereavement leave not taken within the period described in paragraph 4.a 
+of this NAVADMIN will be forfeited except if due to operational requirements 
+or other extenuating circumstances. 
+b.  Any amount of bereavement leave remaining unused at the time of 
+separation or retirement from active service will be forfeited. 
+c.  Bereavement leave may not be transferred to create a shared benefit. 
+d.  Any bereavement leave authorized by this NAVADMIN for an RC Service 
+Member not taken by the time of their release from active service will be 
+forfeited. 
+(1) The period of active service of RC Service Member may not be extended 
+solely to permit the Service Member to take leave authorized by this 
+NAVADMIN. 
+(2) RC Service Members will not be recalled to active service to utilize 
+bereavement leave. 
+ 
+6.  Limitations: 
+a.  No more than 14 consecutive days of bereavement leave will be authorized 
+to a Service Member in connection with the death of a spouse or child. 
+b.  A Service Member will not be authorized bereavement leave in connection 
+with the death of a person who is not their spouse or child.  However, 
+Service Members may be authorized emergency leave, as appropriate, for such 
+deaths. 
+c.  A Service Member whose misconduct resulted in the death of their spouse 
+or child will not be authorized bereavement leave. 
+d.  A Service Member will not be authorized bereavement leave in connection 
+with a stillbirth or miscarriage. 
+ 
+7.  Validation of Death of Spouse or Child.  COs may consider self-
+certification of the death of the spouse or child by a Service Member to 
+approve a request for bereavement leave.  However, Service Members must 
+provide administratively acceptable documentation within 30 calendar days 
+after completion of bereavement leave or other leave if taken in combination 
+with bereavement leave.  If the Service Member fails to provide the required 
+documentation within the specified time period, their leave account will be 
+reduced by the number of days of bereavement leave taken. 
+ 
+8.  Retroactive Period.  Bereavement leave described in this NAVADMIN is 
+retroactive to 25 June 2022.  Service Members who were charged leave in 
+connection with the death of a spouse or child during the period between 25 
+June 2022 and the date of this NAVADMIN may request such leave be restored if 
+the Service Members would have otherwise been authorized bereavement leave 
+without reduction of their leave balance.  This retroactive period does not 
+apply to Service Members who separated or retired from active service. 
+a.  The CO may restore any charged leave if provided administratively 
+acceptable documentation of the death of the spouse or child of the Service 
+Member.  Leave restoration within 12 months of the transaction date can be 
+processed by the CLA via e-Leave in Navy Standard Integrated Personnel System 
+(NSIPS).  Leave transactions that occurred greater than 12 months prior to 
+the attempted restoration will require a Defense Workload Operations Web 
+System transaction to the Defense Finance and Accounting Services (DFAS) via 
+the servicing Transaction Service Center or Regional Support Center. 
+b.  The CO must determine the leave balance of the requesting Service Member 
+at the time of death of their spouse or child in order to determine how much 
+leave is to be restored. 
+(1) Example 1:  If a Service Member had a chargeable leave balance of 36 days 
+at the time of death of the spouse or child and took 15 days of ordinary or 
+emergency leave immediately following the death, 9 days of ordinary leave 
+will be restored. 
+(2) Example 2:  If a Service Member had an ordinary leave balance of 28 days 
+at the time of death of the spouse or child and took 20 days of chargeable 
+leave immediately following the death, 14 days of leave will be restored. 
+(3) Example 3:  If a Service Member had an ordinary leave balance of 60 days 
+at the time of death of the spouse or child and took 30 days of chargeable 
+leave immediately following the death, the Service Member is not eligible for 
+any leave restoration. 
+c.  The CLA, with the approval of the CO, is authorized to modify or cancel 
+leave transactions to restore leave. 
+ 
+9.  Requesting Bereavement Leave: 
+a.  Bereavement leave must be requested through e-Leave in NSIPS. 
+b.  NSIPS has been updated to reflect bereavement leave and must be selected 
+in block 12a (type of leave). 
+c.  NSIPS Web Afloat has not been updated to reflect bereavement 
+leave.  Until the update is completed, select convalescent leave for any 
+period that would otherwise be requested as bereavement leave.  Annotate in 
+the remarks: "CONVALESCENT LEAVE SUBMITTED IN LINE WITH NAVADMIN 091/23 FOR 
+BEREAVEMENT LEAVE ENTITLEMENT." 
+ 
+10.  Point of contact for this matter is the Office of Pay and Allowances 
+(OPNAV N130C) and can be reached via e-mail at 
+nxag_n130c@navy.mil. 
+ 
+11.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.  A MILPERSMAN article will also be released at a 
+later date reflecting the entitlement in this NAVADMIN. 
+ 
+12.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
