@@ -1,0 +1,49 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 261712Z APR 23 MID120000007825U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 095/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
+ 
+SUBJ/REVISION TO ADVANCE PAYMENT OF DISLOCATION ALLOWANCE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/021900ZJUN22// 
+REF/B/DOC/SECDEF/22SEP22// 
+ 
+NARR/REF A IS NAVADMIN 129/22, MANDATORY USE OF THE NAVY PERSONNEL AND PAY 
+(NP2) MYPCS TRAVEL VOUCHER SUBMISSION TOOL AND GOVERNMENT TRAVEL CHARGE CARD 
+(GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL.   
+REF B IS SECDEF MEMO, TAKING CARE OF OUR SERVICE MEMBERS AND FAMILIES.// 
+ 
+RMKS/1.  This NAVADMIN provides amplifying guidance to paragraphs 
+5.b.6 and 7.a of reference (a) regarding the timelines and processing of 
+dislocation allowance (DLA) payments. 
+ 
+2.  In line with reference (b), DLA payments for all entitled Service Members 
+will now be paid as early as 30 days prior to the approved permanent change 
+of station (PCS) transfer date.  As of 1 March 2023, Navy Pay and Personnel 
+Support Center (NPPSC) has updated the Application for Transfer and Advances 
+(NPPSC Form 1300/1), to incorporate the changes in this NAVADMIN. 
+ 
+3.  All Command Pay and Personnel Administrators (CPPA) are required to 
+submit NPPSC Form 1300/1 no less than 60 days prior to a member's approved 
+PCS transfer date in order to allow sufficient processing time by the Travel 
+Processing Center (TPC).  The TPC will process requested advances on the 
+NPPSC Form 1300/1 within 30 days of the approved PCS transfer date. 
+ 
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
