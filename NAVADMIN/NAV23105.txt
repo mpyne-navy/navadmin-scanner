@@ -1,0 +1,81 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 051811Z MAY 23 MID120000048160U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 105/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/MAY// 
+ 
+SUBJ/INSTALLATION ACCESS CONTROL PROGRAM UPDATES IN REGARDS TO THE 
+TERMINATION OF THE DOD CIVILIAN RETIREE IDENTIFICATION CARD// 
+ 
+REF/A/MEMO/OUSD P&R/17FEB2023// 
+REF/B/MEMO/OUSD P&R/26AUG2009// 
+REF/C/REF/OUSD I&S/02JAN2019// 
+REF/D/REF/CNIC-M 5530.2/04JUN2020// 
+ 
+NARR/REF A IS THE OUSD P&R MEMO ANNOUNCING THE TERMINATION OF THE DOD 
+CIVILIAN RETIREE ID CARDS. 
+REF B IS THE OUSD P&R MEMO ANNOUNCING THE DOD CIVILIAN RETIREE ID CARDS. 
+REF C IS THE DODM 5200.08, VOL. 3, DOD PHYSICAL SECURITY PROGRAM: 
+ACCESS TO DOD INSTALLATIONS. 
+REF D IS THE CNIC M-5530.2, NAVY INSTALLATION ACCESS CONTROL.// 
+ 
+POC/JAMES A JOHNSON/CIV/OPNAV N4I3/CNO WASHINGTON DC/ 
+EMAIL: JAMES.A.JOHNSON13.CIV(AT)US.NAVY.MIL/TEL: 703-695-5516// 
+ 
+RMKS/1.  Per reference (a), issuance of Department of Defense (DoD) Civilian 
+Retiree Identification (ID) Cards has been terminated.  Previously issued DoD 
+Civilian Retiree ID Cards will be effective through 31 August 2023.  This 
+NAVADMIN provides amplifying guidance to ensure appropriate communication and 
+access control measures are in place. 
+ 
+2.  Background and Purpose.  Reference (b) established the use of trusted 
+credentials for civilian retirees at the discretion of the installation 
+commanders.  DoD ID's enabled Commanding Officers to authorize limited use of 
+morale, welfare, and recreation (MWR) activities on the installation of the 
+DoD civilian retirees.  This was allowed as the authorized purpose for 
+access.  Per reference (a), this credential will no longer be issued, 
+effective immediately.  Previously issued DoD Civilian Retiree ID cards will 
+remain valid through 31 August 2023, at which point they will no longer be 
+accepted as a valid form of ID.  Personnel shall coordinate with the 
+respective Visitor Control Center (VCC) where they will be processed in 
+accordance with local policy.  Defense Biometric Identifications Systems 
+(DBIDS) credentials will be issued to eligible personnel upon positive 
+identification of the individual, visual inspection of an SF-50 indicating 
+retirement from civilian government service, and vetting for 
+fitness.  Visit https://www.uscis.gov/sites/default/files/document/forms/i-
+9.pdf for more information on acceptable forms of identification.  DBIDS 
+credentials issued to eligible personnel will include "MWR Facility 
+Privileges" on the back in the "Remarks" box, and be assigned to the 
+"Facility Use" (Yellow) category during enrollment as delignated in reference 
+(c). 
+ 
+3.  The limited use of MWR activities by DoD civilian retirees will remain at 
+the discretion of the installation Commanding Officer. 
+ 
+4.  Commander, Navy Installations Command will ensure that installation VCC 
+processes will continue to follow the procedures outlined in reference (d), 
+and will advertise the use of the DBIDS pre-registration portal 
+(https://dbids-global-enroll.dmdc.mil/preenrollui/#!/) to alleviate customer 
+wait times.  The DBIDS pre-registration portal now meets DoD requirements and 
+can be used in place of the SECNAV Form 5512/1.  Installations will update 
+local access control policies, training, and public guidance (websites, 
+Public Affairs Officer messaging, etc.) to ensure visitors are aware of the 
+process and option to register prior to arrival. 
+ 
+5.  Installation Access Control personnel will refer to reference (d) and the 
+DBIDS Wiki (https://paws.dmdc.osd.mil/wiki/) for further information and 
+training modules in support of executing the access control program. 
+ 
+6.  Released by VADM R. L. Williamson, USN, CNO N4.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
