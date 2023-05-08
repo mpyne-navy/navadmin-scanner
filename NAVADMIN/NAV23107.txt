@@ -1,0 +1,50 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 221859Z MAY 23 MID120000059251U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 107/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/MAY// 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+SUBJ//ANNOUNCING 2023 WINNERS OF THE NEW YEAR'S DAY DECK LOG POEM CONTEST// 
+ 
+POC/NHHC DECK LOG PROGRAM//LOC: WASHINGTON, DC/EMAIL: 
+NHHC_HAD_DeckLogs(at)us.navy.mil// 
+ 
+RMKS/1.  The Naval History and Heritage Command (NHHC) is excited to announce 
+the winners of the 2023 New Year's Day Deck Log Poem Contest: 
+    a.  USS BUNKER HILL (CG-52), written by LT Artem Sherbinin. 
+    b.  USS FITZGERALD (DDG-62), written by GM2 Austin Canterbury. 
+    c.  USS FARRAGUT (DDG-99), written by QM3 Anthony Bentley. 
+ 
+2.  The winning poems and author biographies can be found at 
+https://www.history.navy.mil/research/archives/resources-for-the-fleet/deck-
+logs/new-years-contest/2022.html 
+ 
+3.  The focus of the New Year's Day Deck Log contest is to celebrate the 
+voices of our Sailors and to preserve a Navy tradition.  A deck log is the 
+official record maintained by all commissioned U.S. Navy vessels.  While 
+regulations normally restrict the types of entries in logbooks, the Navy has 
+long held the tradition of the Midnight New Year's Poem.  The first entry of 
+the New Year, written in verse, allows Sailors to express their creativity 
+about the experiences of shipboard life and their pride in their 
+command.  The contest also serves to remind the Fleet of the importance of 
+the deck log as a historical document; one that preserves for future 
+generations the actions and voices of our United States Sailors. 
+ 
+4.  Congratulations to the winners! 
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
