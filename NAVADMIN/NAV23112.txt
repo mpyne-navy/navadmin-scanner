@@ -1,0 +1,96 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151906Z MAY 23 MID600053021716U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 112/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
+ 
+SUBJ/TUITION ASSISTANCE UPDATE TWO// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/281919ZSEP21// 
+AMPN/REF A IS NAVADMIN 214/21, TUITION ASSISTANCE POLICY UPDATE.// 
+ 
+RMKS/1.  This NAVADMIN updates Tuition Assistance (TA) and Navy 
+College Program for Afloat College Education (NCPACE) management 
+controls announced in reference (a) and provides guidance on Sailor 
+enrollment with the U.S. Naval Community College (USNCC).  All prior 
+controls not altered by this NAVADMIN remain in place. 
+ 
+2.  The following management controls update reference (a) and are 
+effective for all TA and NCPACE courses approved after the release 
+of this NAVADMIN: 
+a.  Active Duty and Training and Administration of Reserve 
+enlisted Sailors with less than 16 years of Active service must have 
+at least 6 months remaining from the course start date until their 
+end of active obligated service or as extended. 
+b.  Enlisted reservists must be on Active Duty orders and must 
+have at least 6 months remaining from the course start date until 
+the end date of their orders. 
+c.  All TA or NCPACE funded courses must be completed while the 
+member is on Active Duty. 
+d.  Sailors may be enrolled in up to a maximum of two concurrent 
+courses.  Required laboratory courses with unique course 
+identification numbers are exempt from this limit.  The two course 
+limit in line with fiscal quarter announced in reference (a) is 
+rescinded. 
+e.  Officers with a minimum of 8 years of prior enlisted Active 
+Duty service (Army, Navy, Marine, Air Force, Coast Guard) including 
+limited duty officers (LDO) and chief warrant officers (CWO) are 
+eligible to use TA or NCPACE at all officer ranks.  All other 
+officers become eligible upon promotion to O3. 
+f.  Sailors may submit applications in the MyNavy Education 
+portal (https://myeducation.netc.navy.mil/) between 7 and 120 days 
+prior to the term start date. 
+(1) Command Approval and application forwarding must occur 
+at least seven days prior to the term start date. 
+(2) It is the Sailor's responsibility to ensure timely 
+submission and command approval of TA and NCPACE applications. 
+(3) After command approval, vouchers may be authorized and 
+funded by Naval Education and Training Professional Development 
+Center (NETPDC), subject to funding availability. 
+(4) Sailors must not begin a TA or NCPACE course prior to 
+receiving an authorized and funded voucher. 
+ 
+3.  The USNCC provides naval-relevant associate's degrees in 
+Military Studies, Nuclear Engineering Technology, General Studies 
+with Computer Studies Specialization, Cybersecurity and Information 
+Assurance, Organizational Leadership, Aviation Maintenance, Data 
+Analytics, Uncrewed Systems, and Logistics with a Maritime Focus. 
+Interested Sailors should visit https://www.usncc.edu/ to learn more. 
+ 
+4.  Policies pertaining to TA or NCPACE eligible Sailors with 
+approved degree plans who also participate in USNCC courses: 
+a.  TA or NCPACE course terms shall not overlap with USNCC 
+course terms.  Command approvers must verify. 
+b.  TA or NCPACE courses that transfer to USNCC will count 
+toward the 120 semester hour career cap on TA and NCPACE. 
+c.  Courses funded by USNCC do not count toward the 120 semester 
+hour career cap on TA and NCPACE. 
+ 
+5.  For questions regarding TA or NCPACE eligibility, degree plans 
+or other education funding options, contact the Navy College Virtual 
+Education Center (NCVEC) at 1-833-330-MNCC (6622).  Choose Option 3 
+"Education and Training", then Option 1 "NCVEC."  Sailors may also 
+submit an inquiry via the issue tracker feature in the MyNavy Education 
+portal (https://myeducation.netc.navy.mil/), located on the top right of 
+their record. 
+ 
+6.  For questions concerning TA or NCPACE policy, contact Mr. Jim 
+Johnson at (703)604-5256/DSN 664 or via e-mail at 
+james.p.johnson.civ@us.navy.mil. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
