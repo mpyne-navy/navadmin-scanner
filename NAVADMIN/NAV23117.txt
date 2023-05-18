@@ -1,0 +1,63 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 181623Z MAY 23 MID120000096714U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 117/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
+ 
+SUBJ/PERMANENT PROFESSIONAL RECRUITER COMMUNITY DESIGNATOR APPROVAL// 
+ 
+REF/A/DOC/NAVPERSCOM/4MAY19// 
+ 
+AMPN/REF A IS MILPERSMAN ARTICLE 1001-020, FULL-TIME SUPPORT OF THE 
+NAVY RESERVE OFFICER PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN message announces the establishment of the 
+Training and Administration of the Reserve (TAR) Permanent 
+Professional Recruiter (PPR) Officer Designator 1287 within the 
+restricted line. 
+ 
+2.  TAR PPR community establishment is a major milestone in 
+supporting the Navy Reserve recruiting community and will help 
+ensure Navy Reserve recruiting develops key relationships within 
+communities to establish market penetration in an increasingly 
+challenging recruiting environment.  PPRs will provide established 
+recruiting expertise with consistent corporate knowledge for the 
+Navy Reserve, maintain historical knowledge, and facilitate seamless 
+communication in a designated geographical location to deliver 
+recruiting support.  Developing the Navy Reserve PPR community is 
+critical to supporting Navy Reserve recruiting and directly 
+affecting warfighting readiness. 
+ 
+3.  PPRs will be assigned to specified geographic locations as 
+determined by Navy Recruiting Command based on Reserve Component 
+market data. 
+ 
+4.  The PPR community will build its officer inventory by selecting 
+officers each year through the semi-annual TAR officer transfer and 
+redesignation board process.  Qualified officers are encouraged to 
+apply for transfer or redesignation into the PPR community through 
+this process.  Future NAVADMINs will announce the dates for upcoming 
+transfer boards, associated requirements, and application deadlines. 
+Reference (a) provides more detailed information about the PPR 
+designator. 
+ 
+5.  Point of contact for this matter is CDR Mark Macnamara, TAR 
+Officer Community Manager, at (901) 874-4346 or via e-mail 
+mark.b.macnamara.mil@us.navy.mil. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
