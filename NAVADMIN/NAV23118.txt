@@ -1,0 +1,71 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 191321Z MAY 23 MID120000102769U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 118/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/BLENDED RETIREMENT SYSTEM CALENDAR YEAR 2024 CONTINUATION PAY RATES//
+
+REF/A/DOC/NDAA/25NOV15//
+REF/B/DOC/NDAA/23DEC16//
+REF/C/MSG/CNO WASHINGTON DC/271444ZSEP16//
+REF/D/DOC/COMNAVPERSCOM/22FEB20//
+
+NARR/REF A IS SECTIONS 631 THROUGH 635 OF NATIONAL DEFENSE AUTHORIZATION ACT 
+FOR FISCAL YEAR 2016, SUBTITLE D - DISABILITY PAY, RETIRED PAY, AND SURVIVOR 
+BENEFITS.   
+REF B IS SECTIONS 631 THROUGH 633 OF NATIONAL DEFENSE AUTHORIZATION ACT FOR 
+FISCAL YEAR 2017, SUBTITLE D - DISABILITY PAY, RETIRED PAY, AND SURVIVOR 
+BENEFITS.
+REF C IS NAVADMIN 217/16, ANNOUNCEMENT OF THE BLENDED RETIREMENT SYSTEM FOR 
+THE UNIFORMED SERVICES.   
+REF D IS THE MILITARY PERSONNEL MANUAL ARTICLE 1810-081, CONTINUATION PAY FOR 
+MEMBERS ENROLLED IN THE BLENDED RETIREMENT SYSTEM.//
+
+RMKS/1.  This NAVADMIN announces the Blended Retirement System (BRS) mid-
+career continuation pay (CP) rates for Calendar Year 2024 (CY- 24).  The CY-
+24 CP rates are:
+a.  Total CP for Active Component is two and a half times the monthly basic 
+pay for a Service Member of that grade who has reached
+12 years of service (YOS).
+b.  Total CP for Training and Administration of the Reserves is two and a 
+half times the monthly basic pay for a Service Member of that grade who has 
+reached 12 YOS.
+c.  Total CP for Selected Reserve is half the monthly basic pay for a Service 
+Member of that grade who has reached 12 YOS.
+
+2.  In line with references (a) and (b), Service Members who want to receive 
+the mid-career CP are reminded that they must be enrolled in BRS and request 
+CP before 12 YOS.  The CP election is made via Navy Standard Integrated 
+Personnel System (NSIPS) which can be accessed via MyNavy Portal Quick Links.  
+For Service Members who have provided NSIPS with an up-to-date email address, 
+NSIPS will send an email notification of CP eligibility at 11 years 6 months 
+YOS, 11 years 9 months YOS and a final reminder at 11 years 11 months YOS.
+Service Members who are unable to elect CP through NSIPS may manually elect 
+CP through their command career counselor.  CP information to include details 
+on electing CP can be found in references (c) and (d).  A copy of the CY-24 
+CP rate memorandum can be found at https://www.mynavyhr.navy.mil/Support-
+Services/Culture-Resilience/Family-Readiness/Personal-Financial-Mgmt/.  For 
+any other CP issues, Service Members should reach out to MyNavy Career Center 
+at 833-330-MNCC or askmncc.fct@navy.mil.
+
+3.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
