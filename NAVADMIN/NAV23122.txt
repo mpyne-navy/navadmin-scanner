@@ -1,0 +1,123 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 221806Z MAY 23 MID120000113350U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 122/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/DNS/MAY// 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+SUBJ/UPDATE TO CHIEF OF NAVAL OPERATIONS DELEGATION OF AWARDING AUTHORITY FOR 
+MILITARY AWARDS// 
+ 
+REF/A/MSG/CNO/281601ZAP2022// 
+REF/B/DOC/SECNAV/28MARCH2019// 
+REF/C/DOC/SECNAV/29MAY2019// 
+REF/D/DOC/SECNAV/16AUG2019 
+ 
+NARR/REF A IS CNO MSG, DELEGATION OF AWARDING AUTHORITY FOR MILITARY AWARDS. 
+REF B IS SECNAV'S MEMO AUTHORIZING THE COMBAT ACTION RIBBON, STRIKE/FLIGHT 
+AIR MEDAL, AND THE "V", "C", AND "R" DEVICES FOR CERTAIN SPECIAL WARFARE 
+OVERSEAS CONTINGENCY OPERATIONS. 
+REF C IS SECNAVINST 1650.1J, DEPARTMENT OF THE NAVY MILITARY AWARDS POLICY. 
+REF D IS SECNAV M-1650.1, NAVY AND MARINE CORPS AWARDS MANUAL. 
+ 
+RMKS/1.  Reference (a) is hereby amended as stated below. 
+ 
+2.  The purpose of this NAVADMIN is to update the Chief of Naval Operations' 
+(CNO) delegation of awarding authority for valor and combat awards in 
+accordance with references (b) and (c). Additionally, this NAVADMIN updates 
+the delegation of military awarding authority for valor and combat medals 
+delegated by the CNO to subordinate commanders. 
+ 
+3.  Delegation of military awarding authority (valor and combat awards).  The 
+authority to approve valor and combat awards is delegated by CNO to 
+subordinate commanders subject to the following limitations. 
+    a.  Commander, U.S. Fleet Forces Command; Commander, U.S. Pacific Fleet; 
+Commander, U.S. Naval Forces Europe, U.S. Naval Forces Africa (COMUSNAVEUR 
+USNAVAF), and Commander, U.S. Naval Forces Central Command 
+(COMUSNAVCENT) are delegated authority to approve the "V", "C", AND "R" 
+devices for O-6 and below Navy and Marine Corps personnel under their 
+command for all authorized operations in support of the Global War on 
+Terrorism.  Specific authority is granted to approve: Legion of Merit with 
+"C" or "R" device (L1, L2) Bronze Star Medal with "V" device (BV) 
+Purple Heart Medal (only for combat related incidents for actions that 
+occurred within the most recent three years) Meritorious Service Medal 
+with "R" device (M2) Air Medal with "V" or "C" device and on Strike/Flight 
+basis (AH, A1, AS) Navy and Marine Corps Commendation Medal with "V", "C", 
+or "R" device (CV, C1,C2) Navy and Marine Corps Achievement Medal with "C" 
+or "R" device (N1, N2) Combat Action Ribbon (CAR) (only for actions that 
+occurred within the most recent three years). 
+    b.   COMUSNAVEUR USNAVAF and COMUSNAVCENT may sub-delegate authority to 
+approve the Strike/Flight Air Medal to their subordinate task force 
+commanders who are of Flag and General rank.  Sub-delegation is not 
+authorized for the Air Medal when awarded for single mission meritorious 
+achievement (AF) or heroic achievement (AH), nor for award of the Air Medal 
+with the "C" device (A1). 
+    c.  Commander, U.S. Naval Forces Southern Command is delegated authority 
+to approve for O-6 and below Navy and Marine Corps personnel under your 
+command all awards listed in subparagraph 3.a with the exception of the 
+Legion of Merit. 
+    d. Commander, Naval Special Warfare Command (COMNAVSPECWARCOM) is 
+delegated authority to approve for O-6 and below Navy and Marine Corps 
+personnel under your command all awards listed in subparagraph 3.a with the 
+exception of the Legion of Merit and the Strike/Flight Air Medal. 
+    e.  Commander, U.S. Fleet Cyber Command (COMFLTCYBERCOM) is delegated 
+authority to approve for O-6 and below Navy and Marine Corps personnel under 
+your command all awards with "R" device listed in subparagraph 3.a with the 
+exception of the Bronze Star Medal, the Purple Heart Medal, the Strike/Flight 
+Air Medal, and the CAR. 
+    f. In addition to the delegation cited above, COMUSNAVEUR USNAVAF, 
+COMUSNAVCENT, COMNAVSPECWARCOM, and COMFLTCYBERCOM are authorized to approve 
+combat awards commensurate with their authority to qualifying Navy and Marine 
+Corps personnel participating in special operations conducted within the U.S. 
+Central Command and U.S. Africa Command area of responsibility for those 
+operations that do not fall under Operations INHERENT RESOLVE, FREEDOM'S 
+SENTINEL, and ENDURING FREEDOM.  This authorization is effective from 23 
+December 2016 to a date to be determined. 
+        (1) This is not a blanket approval of these awards to all 
+participants in these operations.  For each individual case, awarding 
+authorities must verify that all criteria for these awards, as contained in 
+references (c) and (d) are met. 
+All operations covered under this authority constitute a single designated 
+operation for purposes of this limitation, i.e. only one CAR may be awarded 
+under this authority.  An individual may qualify for a subsequent award of 
+the CAR for active participation in combat within a different designated 
+operation. 
+        (2) Delegated authorities are responsible for keeping record of all 
+operations for which combat awards have been authorized.  A quarterly report 
+that contains the name of the operation commencement and termination date 
+will be submitted to the Chief of Naval Operations (DNS-13) for record 
+keeping purposes only. 
+These operations will not be included in reference (d). 
+ 
+4.  Awarding Authority Policy: 
+    a.  Awarding authorities will ensure eligibility requirements and award 
+adjudication are compliant by following the guidelines in references (c) and 
+(d). 
+    b.  Awarding authority extends only to award nominations that are 
+compliant with statutory and regulatory policy, including time limits. 
+    c.  Officers exercising delegated awarding authority are not authorized 
+to permit awards to be signed by another individual "By direction" of the 
+awarding authority. 
+    d.  Except as noted in subparagraph 4.b., no further sub-delegation is 
+authorized. 
+    e.  CNO may revoke awarding authority from Navy Commanders at any time 
+for non-compliance with awards regulations. 
+ 
+5.  This delegation of award approval authority remains effective until 
+rescinded by future correspondence. 
+ 
+6.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

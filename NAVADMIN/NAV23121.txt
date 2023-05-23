@@ -1,0 +1,78 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 221612Z MAY 23 MID120000112947U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+NAVINSGEN WASHINGTON DC 
+SECNAV WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 121/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+SUBJ/ NAVAL INSPECTOR GENERAL POLICY FOR INVESTIGATIONS CONDUCTED BY COMMAND 
+INSPECTORS GENERAL 
+ 
+REF/A/MEMO/NAVIG/Policy Memorandum Number 2023-01 
+REF/B/DOC/SECNAVINST 5430.57H/17DEC19// 
+REF/C/10 USC  8014 
+REF/D/10 USC  8020 
+REF/E/10 USC  8032 
+REF/F/DOC/SECNAVINST 5430.7S/26AUG21// 
+REF/G/JAGINST 5800.7G, CH-1 
+REF/H/OPNAVINST 5102.1E/23SEP21// 
+ 
+NARR/REF A is Naval Inspector General Policy Memorandum Number 001 on Command 
+Inspector General Investigations 
+ 
+RMKS/1. On 4 May 2023, the Naval Inspector General (NAVIG) implemented 
+reference (a) in accordance with his authority in reference (b). The purpose 
+of the new policy is to more closely align the NAVIG Enterprise with the 
+scope of investigations to which other Services appoint Inspectors General 
+(IG), as well as to ensure independence and avoid conflicts in furtherance of 
+the mission of the NAVIG Enterprise to operate "without command influence, 
+pressure, coercion, or fear of reprisal" in accordance with reference (b). 
+ 
+2. Reference (a) is effective on date of issuance for new investigations, but 
+allows for conclusion of ongoing investigations that were commenced prior to 
+issuance. 
+ 
+3. In accordance with references (b) through (f), which establish the roles 
+and authorities of the NAVIG, the new policy guidance clarifies that NAVIG 
+Enterprise personnel shall not conduct, or be involved in conducting, 
+investigations of matters that are not IG appropriate or that are conducted 
+under other authorities, such as Preliminary Inquiries or 
+Command Investigations pursuant to reference (g) and safety investigations 
+pursuant to reference (h). 
+ 
+4. Reference (a) allows activity commanders with an assigned command IG to 
+direct IG-appropriate investigations by their respective command IGs and 
+personnel in the NAVIG Enterprise.  All such investigations must be conducted 
+in accordance with applicable DOD, SECNAV, and NAVIG regulations, policies, 
+and guidance. 
+    a.  Unless commanders are granted a written exception by NAVIG, NAVIG 
+Enterprise personnel shall not conduct, or be assigned to conduct, 
+investigations of matters that are not IG-appropriate or that are conducted 
+under other authorities. 
+    b. Commanders retain the authority to implement corrective actions as 
+they deem appropriate. 
+    c.  Reference (a) does not affect other aspects of IG work such as 
+reviews, assessments, and inspections that command IGs perform to support the 
+command. 
+ 
+5. The Office of the Naval Inspector General will provide the signed policy 
+directly to Echelon I and II Enterprise IGs and it is available to all NAVIG 
+Enterprise personnel on the NAVIG internal SharePoint site. 
+ 
+6. Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+VADM John V. Fuller, Naval Inspector General (NAVIG). 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
