@@ -1,0 +1,401 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 241504Z MAY 23 MID120000126542U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 125/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/FY-24 ACTIVE-DUTY NAVY E9 SENIOR ENLISTED MARKETPLACE SCREENING BOARD 
+RESULTS.//
+
+REF/A/MSG/CNO WASHINGTON DC/221631ZNOV22//
+REF/B/DOC/BUPERS/07FEB22//
+
+NARR/REF A IS NAVADMIN 261/22, SENIOR ENLISTED MARKETPLACE - E-9 BILLET BASED 
+ADVANCEMENT.  
+REF B IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.
+
+RMKS/1.  Congratulations to the following personnel who have been screened 
+for master chief petty officer by the Fiscal Year 2024 Active-Duty Navy E9 
+Screening Board.  Strong competition between qualified professionals is one 
+of the strengths of the Navy and your screening speaks highly of your 
+abilities.
+
+2.  This NAVADMIN is not authorization for advancement or immediate frocking.  
+Specific dates of advancement will be determined by the reporting date listed 
+in Permanent Change of Station (PCS) orders to a billet at the next higher 
+paygrade.  Personnel listed below may be frocked in line with reference (a), 
+if qualified, no earlier than 30 days prior to the execution of PCS orders 
+directing the member to a billet at the next higher paygrade.  The gaining 
+command will be responsible for validating eligibility and permanently 
+advancing selectees upon reporting for duty (ACC 100) following any en route 
+training.
+
+3.  Members are directed to verify their screened status via BUPERS Online.  
+The screened list below is in alphabetical order by rate within competitive 
+category.  Read each line from left to right, name and numerical order of 
+advancement.  Note:  An (*) by the name indicates the selectee was merit 
+screened in line with reference (a).
+         ABCM - MASTER CHIEF AVIATION BOATSWAINS MATE
+      ACEVES ALEJAN     009         ANGEL DAVE LA *   001
+      CAMPBELL DAVI     015         DODGE DAMIAN *    002
+      GREENE CHRIST     013         HUNTER WILLIA     008
+      JOHNSON TERAH     011         JOYLES MORDEN     010
+      LEONARD KEARS     005         ROBERTS SEAN      004
+      SAVOY SHAVEN      003         SMITH DEQUON      014
+      VALIS SEAN GR     012         VELASCO JACKI     007
+         ACCM - MASTER CHIEF AIR TRAFFIC CONTROLLER
+      ADKINS ADRIAN     002         AKANDE MARY *     001
+         AFCM - MASTER CHIEF AIRCRAFT MAINTENANCEMAN
+      AYBAR LUIS AN     017         BAUER DAVID B  *  003
+      BERUMEN RENE      024         BLANCO JUSTIN     010
+      BRASS CHARLES     023         BROWN HERBIEC     028
+      BURLEY BRIAN      012         CASTRO ISAI       030
+      CONNOR JOHN R     011         CUNNINGHAM MO     029
+      DEASIS JIMMY      009         DEMORIZI HERN     016
+      DOMINGUEZ ISA     031         DUBEY MARK ED     007
+      HUNEYCUTT BEN     033         JARVIS FIDEL      018
+      LOGAN TIMOTHY *   004         MATEO BRYAN E     006
+      MCCULLOUGH DO     008         MIESSNER ALFR     005
+      MINOGLIO ANGE     015         MUN YOUNGSU       022
+      NKERE EMEFRE      021         OLMOS RINGO M     025
+      OTTOWAY ALBER     032         SISON ANGEL R *   001
+      SMITH ANDREW      026         STROBEL CHRIS     014
+      TAKADA MARK B     027         TAYLOR NIKUMA *   002
+      VILLACIS JOHN     013         WILKERSON VAN     019
+      YUMUL BRYAN L     020
+             AGCM - MASTER CHIEF AEROGRAPHERS MATE
+      JACKSON CHARL *   001         JENKINS STEPH     002
+           AOCM - MASTER CHIEF AVIATION ORDNANCEMAN
+      ANDERSON KEND *   002         ANDERSON RODE     008
+      DOWDELL LACRE *   001         IRVIN CHAD JE     004
+      MIRANDA RAHAR     005         RASH JOHN CHA     006
+      SALAZAR PEDRO     003         WEAVER DAVID      007
+         ASCM - MASTER CHIEF AVIATION SUPPORT EQUIPMENT
+                          TECHNICIAN
+      CAMACHO HECTO     002         VELA PAUL OSC *   001
+     AVCM - MASTER CHIEF AVIONICS MAINTENANCE TECHNICIAN
+      ARNSTEIN ADAM     020         BOOTH QUINCY      014
+      BREAULT JUSTI     015         CAMPBELL MATT     023
+      COOK ROBERT C     006         FISHER JUSTIN     016
+      FORRESTAL BRE *   001         FOSTER BROC W     011
+      GAILLARD JONA *   004         GOODWIN SHERM     022
+      GRAVLEE HUBBA *   002         HARDEN TRACY      013
+      HERRERO JORGE     024         KOLDEWYN JONA     021
+      LAFFEY CHRIST     005         LAM LONG THAN     027
+      LIDDLE WILLIA *   003         MCGUFFEE ALAN     009
+      ORTIZ ANGEL M     010         PARKER TIMOTH     028
+      PENDLETON BRA     018         PINA ISMAEL       019
+      RAPIER BRET R     012         RIVERS TERREN     017
+      SPINK JOSEPH      008         TAGG MICHAEL      026
+      TEWKSBURY CLA     025         WESSELS JAMES     007
+       AWFCM - MASTER CHIEF NAVAL AIRCREWMAN MECHANICAL
+      BROWN JIMMY L *   001         CARRILLO ARMA     002
+         AWOCM - MASTER CHIEF NAVAL AIRCREWMAN OPERATOR
+      CUNNINGHAM GR *   001         HEUPEL JASON      004
+      JONES AUSTIN      002         TWINING MICHA     003
+         AWRCM - MASTER CHIEF NAVAL AIRCREWMAN TACTICAL
+                           HELICOPTER
+      GOTELLI CHRIS     002         REMMERS KEVIN *   001
+      SHAFFER DANIE     003         SHRUM KYLE FR     006
+      SIGMAN JOHN C     004         SUMAN TANNER      005
+        AWSCM - MASTER CHIEF NAVAL AIRCREWMAN HELICOPTER
+      DOVE JUSTIN H *   001         RICE BRANDEN      002
+        AWVCM - MASTER CHIEF NAVAL AIRCREWMAN AVIONICS
+      BALLARD WILLI     002         MIGUEZ JAKE S *   001
+           AZCM - MASTER CHIEF AVIATION MAINTENANCE
+                       ADMINISTRATIONMAN
+      GRANT JESSICA     004         HOUGHTON KEIT     003
+      NOBLE PATRICK *   001         VANDERBILT AU     002
+            BMCM - MASTER CHIEF BOATSWAINS MATE
+      ANDREASEN JER     003         BLACKMAN GABR     005
+      CARHEE FARON      009         DRUMM PATRICK     002
+      ESPARZA SAID      011         HERRERA ERNES     008
+      HYLES EON CAR     007         KELSO JENNIFE     006
+      KISH BRETT DA     010         SAILOR NICOLE *   001
+      WALKER DONALD     004
+                  CBCM - SEABEE MASTER CHIEF
+      AUDIE BRANDON     004         BINON ADAM CH     005
+      BISHOP RONALD     008         BLANDING WILL     011
+      DALY JACQUELY     007         DEGANNES NYRO     012
+      DORSEY BRAYLO     006         KLEFFEL CRAIG     009
+      MARTIN MARCUS *   001         MOLINA BAYARD     010
+      MORGAN MATTHE     003         PELANGKA BRYA     013
+      QUEENLACOMBE      002
+            CSCM - MASTER CHIEF CULINARY SPECIALIST
+      BAILEY WEBSTE     008         BENTON PRINCE     011
+      BRATHWAITE MO     013         ESCUDERO ADRI     010
+      FREITAS MICHA     012         GANOZA MARCEL     009
+      GUEVARRA MARC *   001         JOHANSEN ALDA     004
+      MAGRI JOSEPH      014         PARIGI PATRIC     015
+      RICHARDSON CA     006         ROBLES ANEURI *   002
+      WHITMAN TIMOT     005         YANAGIHARA RI     003
+      YAUNG DAVID       007
+          CTICM - MASTER CHIEF CRYPTOLOGIC TECHNICIAN
+                         INTERPRETIVE
+      BOUWMAN THOMA     006         BURK RONALD L     011
+      DODDS JOANA L     003         GREIFZU KATE      004
+      HURLEY ANDREA     002         KEATING KIMBE     007
+      KOSCIANSKI JO     012         MARKS PETER A     008
+      MIDKIFF BENJA     010         RAHMAN NAZMA      005
+      SPRADLIN JACO     009         WALTER ANTHON *   001
+   CTMCM - MASTER CHIEF CRYPTOLOGIC TECHNICIAN MAINTENANCE
+      DORTAMARTINEZ *   001         KLOSTERMEIER      002
+    CTNCM - MASTER CHIEF CRYPTOLOGIC TECHNICIAN NETWORKS
+      CAPLES TAMELA     008         GENTRY IAN CO     010
+      HENDRICKS TRI     009         MADARIAGA BAI     011
+      MUMFORD WILLI     002         PHILLIPS AMAN     007
+      PORTER JOSHUA  *  001         SHELMIRE CARL     006
+      SYKES DOUGLAS     004         VOELK JESSE K     005
+      WHITE SHANICC     003
+   CTRCM - MASTER CHIEF CRYPTOLOGIC TECHNICIAN COLLECTION
+      BELL BRANDON      011         BILICKI JAMES     010
+      CAMPOLO VINCE     003         EADY LASHUNDA     005
+      GRAHAM JEFFRE     007         GRAMKOW TRAVI     006
+      KAY MALCOLMN *    001         MABE JEREMY G     002
+      MARTIN WARREN     008         SWOPE DON         009
+      WRIGHT DALE H     004
+    CTTCM - MASTER CHIEF CRYPTOLOGIC TECHNICIAN TECHNICAL
+      BIXBY GARY WI     007         BLACKWELL JON     002
+      MACFARLAND AD     003         STANCHFIELD R     004
+      STONE ERIC LE     005         SWENSON LEVI *    001
+      WRACHFORD DAV     006
+             DCCM - MASTER CHIEF DAMAGE CONTROLMAN
+      ALTAMIRANO CH *   001         FERRER PATRIC     005
+      HARVILLE CHUC     003         LAUSTEN ANDRE     006
+      LEGGINS DAMON     002         MCCOY DAMARCU     007
+      YATES THEODOR     004
+          EMCM - MASTER CHIEF ELECTRICIANS MATE
+      DOOLEY WILLIA     002         FELZ FREDERIC *   001
+                  ENCM - MASTER CHIEF ENGINEMAN
+      BLAIR STEVEN      006         EWSUK WILLIAM     007
+      LLOYD WILMOT      009         LOGAR GEORGE      005
+      MARIN RUDY        004         PUGH ISAAC SH     002
+      ROMERO ANGEL *    001         SCHIFFMAN DAN     003
+      SHAFFER ROBER     008
+         EODCM - MASTER CHIEF EXPLOSIVE ORDNANCE DISPOSAL
+                           TECHNICIAN
+      BLAND JOE WES     008         BORGWARDT TYL     006
+      BRECUNIER JUS     019         BROWN SHANNON     005
+      BRYAN DEVON P     010         CHRISTMAS JOH     012
+      CLAY JOHN ALL     009         COURTNEY CHRI     004
+      DESTEFANO JOS *   001         DLUGOLECKI GR     015
+      FISHER HARVEY     007         GRANT ALEXAND     017
+      HENSEN THOMAS     016         KNICK JASON D *   002
+      LEMUS CHRISTI     018         MALONEY JOSEP *   003
+      MILLER JACOB      021         ROTHER BRYAN      014
+      SUTTERBY SILA     011         THOMAS ANTHON     020
+      WADDELL JAMES     013
+            ETCM - MASTER CHIEF ELECTRONIC TECHNICIAN
+      FAUSTINO OSCA     009         GIDDINGS CHAR     005
+      HOUSE BRANDON     002         JACOBS JOSEPH     012
+      LAPITAN JEREM     006         LEGGE RYAN AL     003
+      MEPPELINK MIC     008         PANLAQUI JORD  *  001
+      PONGSUVANRAT      010         STUMBAUGH COR     011
+      TROUTMAN JASO     004         WILLIAMS JAME     007
+            FCACM - MASTER CHIEF FIRE CONTROLMAN AEGIS
+      BAKER JACOB  *    001         BRYANT CHIANT *   003
+      DIXON JOHN GL     011         IRWIN MATTHEW     009
+      JORGENSEN JEF     006         LADERA CHRIST     004
+      LANGLOIS JOSH     020         LITTMAN DANIE     016
+      MARTIN JASMIN     013         MCCOY ELIZABE     015
+      PENA OSCAR MI     005         PEURIFOY CHRI     012
+      PLUID LYLE SP     008         QUIGG SEAN DA     007
+      RAMIREZ JERIC     019         RODDY ALBERT      010
+      SHOOK DOUGLAS  *  002         SPEARS CHARLE     018
+      STEWART RICHA     017         TOLMAN SCOTT      021
+      WALKOWIAK AND     014
+             FCCM - MASTER CHIEF FIRE CONTROLMAN
+      AITKEN DAVID      008         BAKER ANDREW      010
+      BECKER JACOB      004         BINNERT RICHA     005
+      DAVIS STEVEN      007         KUNTZLEMAN ER     009
+      LEE BRIAN THO     003         MURRAY JOSHUA *   001
+      PEARSON IVAN      002         THOMAS KATRIN     006
+              GMCM - MASTER CHIEF GUNNERS MATE
+      BLEVINS NATHA     003         SAUNDERS JESS     004
+      SEMINARA JOSH  *  001         STEARNS ROBER     002
+        GSCM - MASTER CHIEF GAS TURBINE SYSTEM TECHNICIAN
+      CORBATONARIAS     011         DAVIS JAMES R     010
+      HALL ROHAN ST     009         HUDSON DARREL     007
+      LAPID LITO AM  *  001         LITTLE GINAI      013
+      ORTIZ ALEXIS      005         PFAUS MICHAEL     012
+      SREDNICKI RAF     004         STORRIER GARY     006
+      TILI JOSEPH W     003         WIGGAN MARK P     002
+      WILLIAMS MICH     008
+           HMCM - MASTER CHIEF HOSPITAL CORPSMAN
+      BARLEY ODELL      012         BERRY BRANDON     039
+      BISMONTE LOUI     034         BOLLINGER ARL     049
+      BUTLER CORY J     022         COLUMNA JANMI     051
+      CONNER RETROY     010         DELAPENA EDDI *   008
+      DICKERSON SHI     048         DONGUINES FRE     029
+      DREW JOSHUA D     053         DUNCAN PAUL A *   003
+      EAVENSON FRAN     020         FLANNAGAN STE     052
+      FLORES BENNY      014         GAINES CEDRIC *   005
+      GILBERT RYAN      016         HILL GRANT  J *   006
+      HUCKLEBERRY J     030         JOHNSON TRIST     024
+      JOHNSON XAVIE     032         KEENE LUKE LA     055
+      KING ROHAN AN     015         KIRK GERALDIN *   001
+      KITCHEN JONAT     025         KRAIKOOM CHAR     026
+      LANNING RODNE     021         LAUMAKIS JOSE     047
+      LEASIOLAGI JO     045         LUNA RITCHIEN     035
+      MADDALENA OLG     043         MAKUCHOWSKI S     019
+      MARTIN THOMAS     023         MASON MICHAEL     046
+      MEDINALIMA AL     028         MORENO RICHAR     054
+      NALUZ MARK LA     042         NOLEN JENNIFE     036
+      NYECHE ANDERS     009         OLAES DENNIS  *   002
+      PITTMAN SHAWN     031         RAIFORD LOUIS     013
+      RAMIREZ JEFFR     050         RAPADA RUSTY      041
+      REYES LUIS JO     033         STARKS BARRYO     044
+      TAYLOR SAJATA     038         TAYLOR TYLER *    004
+      TOSTON DAVID  *   007         TURNER CHELSE     040
+      WATTON MATTHE     017         WATTS CHEVAS      037
+      WATTS HEATHER     011         WILLIAMSON RO     018
+      ZINA MICHAEL      027
+         HTCM - MASTER CHIEF HULL MAINTENANCE TECHNICIAN
+      BUBB BRADLEY      002         CLIFTON DOMIN     005
+      EVANS LYLE LA     003         FITZGERALD JO     007
+      FLESHMAN JOHN     009         MAYS CHANCE W     004
+      NEWCOMB NEWK *    001         PARKER JOHN R     010
+      PAWLOWSKI LUC     006         REED GARY WIL     008
+          ICCM - MASTER CHIEF INTERIOR COMMUNICATIONS
+                         ELECTRICIAN
+      DOWNS NICHOLA     002         LEE MATTHEW R  *  001
+           ISCM - MASTER CHIEF INTELLIGENCE SPECIALIST
+      GARCIA ELIZAB     003         GORHAM ASHLEY  *  001
+      HINDS TAMMY D     004         WEAVER NATALI     002
+       ITCM - MASTER CHIEF INFORMATION SYSTEMS TECHNICIAN
+      ANDERSON ARIE     022         BEELER SEAN B     026
+      BENEDICT KEVI     013         BENNETT WILLI     010
+      BRANNON CASEY     017         BRINKLEY BOBB     015
+      COPELAND ARRI *   002         DONATE JONATH     024
+      DRAYDEN JAMES     030         FLORES FRANK      007
+      FRANKLIN JOSE  *  004         GARCIA JUAN G     016
+      HOGWOOD NICHO     027         HOLLINGSWORTH *   005
+      JONES RICHARD     029         JOSEPH INDIA      021
+      KARP NICHOLAS     020         KELLY DAVID S     009
+      KILLEBREW JOH     019         KIMBROUGH DEN     023
+      KUNKLE PAUL E     012         LAMBERT BRAND *   001
+      LOVELAND JASO     011         MCLAIN KELLEY     006
+      MORRIS JEREMY     025         MURPHY JOSHUA     014
+      PATTON BICKIA     036         PEACHEY SARAH     035
+      PIPOLO FRANK      032         RIEKER BENJAM *   003
+      ROMMELSMITH T     018         SASSER JOSHUA     033
+      SMITH DEMARIO     028         STAFFEND MONI     034
+      WOLF MIGNONE      031         WOODSON TERRA     008
+               LNCM - MASTER CHIEF LEGALMAN
+      JARESS KEVIN *    001         MARTINEZ DANA     002
+          LSCM - MASTER CHIEF LOGISTICS SPECIALIST
+      ASIATICO RYAN     011         BALOGO JANVIN     009
+      BARNES DARNEL     003         BETTS ABUBAKA     007
+      GRECIA RUFFO      005         HOU CALVIN        004
+      KELLY JOSEPH      012         ORTEGA DAISY      006
+      PUNCH JENNIFE     013         SESAY YAYAH       002
+      SMILEY BLANCA *   001         TRADY JENNIE      010
+      WILLIAMS JOEL     008
+              MACM - MASTER CHIEF MASTER AT ARMS
+      AMES BENJAMIN     005         CAEZZA NATALI     004
+      FREEMAN JOSHU     007         GONZALEZ GUAD *   001
+      JONES JASON E     003         KALAPA TUIOFA     008
+      STOCKWELL SEA     006         VARGAS KRISTA     002
+        MCCM - MASTER CHIEF MASS COMMUNICATIONS SPECIALIST
+      HIRAYAMA BARR     002         SCHULTZ MARK *    001
+           MMCM - MASTER CHIEF MACHINISTS MATE
+      ABALOS WARLIT     006         BARTON MICHAE     016
+      ESPINAL MARIA *   003         FORD JUSTIN O     024
+      JOINER JAMES *    002         JONES DEVAN J     008
+      KUZINSKI MICH     022         LABRADOR BELL     023
+      MARTIN RYAN T     009         MATRO RONREX      004
+      MCGILL ADAM E     021         OXENDINE ANTH  *  001
+      RAUSCH JUSTIN     014         REED ERIC JEF     005
+      RICKETTS KAYO     011         ROBBINS ANTHO     012
+      SALGADOGOMEZ      018         SORIANO ROGEL     010
+      TATE DEON EDW     019         TIQUI NOLAN K     017
+      TRAYLOR CASEY     015         WILLISON ANDR     020
+      WILSON ALLEN      013         YERACARBALLO      007
+                MNCM - MASTER CHIEF MINEMAN
+      COATES GARRET *   001         GEARY DEREK E     002
+            MRCM - MASTER CHIEF MACHINERY REPAIRMAN
+      PIERCE BRIAN  *   001
+        NCCM - MASTER CHIEF NAVY COUNSELOR (RECRUITER)
+      ANDREWS TIMOT     008         BAILEY DUSTIN     011
+      BLAKE CHRISTO     006         FITZMAURICE S *   001
+      GREENE ALTERI *   002         ISAAC WOOLDED     009
+      KIMBALL SANDR     012         LEJEUNE JAROD     007
+      MCNAIR SALEEM     003         NOBLE JUSTIN      010
+      ROCHA HUMBERT     013         VALENCIAHERED     005
+      VARGAS JOHN P     004         WILLIAMS BENJ     014
+         NCCM - MASTER CHIEF NAVY COUNSELOR (COUNSELOR)
+      ARIASMARTINEZ *   001         BATTEN DELETH     002
+      REED JESSE FR     003         TAYLOR MARSHE     004
+      THOMAS PAMELA     005
+          OSCM - MASTER CHIEF OPERATIONS SPECIALIST
+      EDWARDS TREVO     004         FRANCE DANE S     010
+      FRANKS CHARLE     007         GILLEY MATTHE     006
+      HAYDEN ZACHAR     005         IZQUIERDO RIU     009
+      JOHNSON JOCOL     012         JONES ISIS LA     011
+      MILTON DAWN D     002         MYHAND MARICO     008
+      PALMER TIFFAN     013         RODRIGUEZ BEN     003
+      UNDERWOOD LAM *   001
+        PRCM - MASTER CHIEF AIRCREW SURVIVAL EQUIPMENTMAN
+      ALVAREZ CARLO     002         BARTON ERICA      005
+      CASWELL SARAH     003         JOHNSON ROBER     004
+      SORENSEN BENJ *   001
+          PSCM - MASTER CHIEF PERSONNEL SPECIALIST
+      BUCKLEY ANNA      002         CHODNICKI KRZ     003
+      DATENG SONIA      008         DREW CLAYTON      010
+      ERIKSON SPENC     009         FOSUENNINFUL  *   001
+      PETTEE MELISS     005         RICHARDS DUSH     004
+      TORRES MARK A     006         VELAZQUEZ CES     007
+            QMCM - MASTER CHIEF QUARTERMASTER
+      NICOL HENRY O     002         PEARSON JOHN *    001
+      STONE CANDICE     003         TORRES LUIS G     004
+        RPCM - MASTER CHIEF RELIGIOUS PROGRAM SPECIALIST
+      JOHNSON CHRIS *   001
+        RSCM - MASTER CHIEF RETAIL SERVICES SPECIALIST
+      ANGIUS VICTOR     003         AYALA PABLO E     006
+      FORTE LATORYA     009         MAGBAG ALEXAN     007
+      MENDOZA PAUL      010         MITCHELL SHOW     008
+      PASCAL JAMES      005         QUAMINA IMRON     002
+      SMITH SYRESS *    001         SORRELL MARKI     004
+         STGCM - MASTER CHIEF SONAR TECHNICIAN SURFACE
+      JUAREZ ERIC M     002         MARKHAM RYAN      003
+      PALLITTO NICH *   001
+               YNCM - MASTER CHIEF YEOMAN
+      BASKIN MAKEBA     010         BROADUS AMY D  *  001
+      DAVIS CURTIS      007         DEMSON PHILIP     009
+      ECHOLS JEVON      005         FINLEY ANGELA     006
+      LALIBERTY BRI     003         QUIMBY SHERRI     008
+      SIMMONS QUITA     004         THOMAS DELMAS     002
+
+4.  For general career information, including questions about Senior Enlisted 
+Marketplace, contact the MyNavy Career Center at 833-330-MNCC (6622) or 
+askmncc@navy.mil.
+
+5.  For further questions, contact the MyNavy HR Senior Enlisted Marketplace 
+team at SrEnlistedMarket.fct@navy.mil.
+
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
