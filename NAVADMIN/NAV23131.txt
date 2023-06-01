@@ -1,0 +1,169 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 311716Z MAY 23 MID120000156396U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 131/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY// 
+ 
+SUBJ/FALL 2023 SELECTED RESERVE E-4 THROUGH E-6 ADVANCEMENT (CYCLE 113)// 
+ 
+REF/A/DOC/COMNAVPERSCOM/13JAN20// 
+REF/B/DOC/BUPERS/19SEP18// 
+REF/C/MSG/CNO WASHINGTON DC/N1/201449ZDEC18// 
+REF/D/MSG/CNO WASHINGTON DC/N1/161157ZJUL20// 
+REF/E/OPS ALERT/NPPSC/19FEB21// 
+REF/F/OPS ALERT/NPPSC/15MAR21// 
+REF/G/MSG/CNO WASHINGTON DC/221540ZDEC22// 
+REF/H/MSG/CNO WASHINGTON DC/201449ZDEC18// 
+ 
+REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF B IS NAVADMIN 316/18, ENLISTED ADVANCEMENT WORKSHEET.   
+REF C IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.   
+REF D IS OPS ALERT 007-21, PMK-EE REQUIREMENTS FOR E-3 NEW ACCESSIONS.   
+REF E IS OPS ALERT 011-21, PMK-EE REQUIREMENTS FOR E-4 NEW ACCESSIONS.   
+REF F IS NAVADMIN 288/22, HIGH YEAR TENURE PLUS PILOT.   
+REF G IS NAVADMIN 312/18, ADVANCEMENT POLICY UPDATE. 
+ 
+RMKS/1.  This NAVADMIN announces guidance regarding administration of the 
+Fall 2023 (cycle 113) Navy-wide Advancement Examination (NWAE) for Selected 
+Reserve (SELRES) and Prior Service Reenlistment Eligibility Reserve (PRISE-R) 
+Sailors.  Cycle 113 includes those SELRES candidates serving on voluntary 
+recall, mobilization, or as canvasser recruiters. 
+ 
+2.  SELRES E-4 candidates will continue to compete for advancement via the 
+alternate final multiple score (A-FMS).  E-4 advancement candidates will not 
+participate in the NWAE, but will be given the opportunity to compete for 
+advancement via continued use of an A-FMS rank-order method, without the 
+inclusion of an examination score from a proctored examination. 
+ 
+3.  Cycle 113 will be the first cycle in which the E-4 NWAE will not be 
+administered specifically for normal PRISE-R E-3 to E-4 advancement or to 
+make a rate permanent for E-4 to E-4 PRISE-R Sailors.  Policy changes will be 
+promulgated in a PRISE-R specific NAVADMIN.  Additionally, reference (a) will 
+be updated to reflect the policy changes. 
+ 
+4.  In line with references (b) and (c), the enlisted advancement worksheet 
+(EAW) is the authoritative source of all data used to determine cycle 113 
+eligibility.  Commands are to accurately validate, complete, and finalize all 
+EAWs in the navy standard integrated personnel system (NSIPS).  EAW 
+discrepancies may be addressed via the post-examination administration 
+comment (PAC) process after worksheets are locked for the cycle. 
+ 
+5.  Timeline: 
+a.  30 June 2023.  Professional Military Knowledge – Eligibility Examination 
+(PMK-EE) completion deadline.  In line with reference (d), PMK-EE remains 
+mandatory once per paygrade for all Sailors to be eligible for NWAE cycle 
+participation.  Refer to references (e) and (f) regarding special exceptions 
+for new accessions. 
+b.  1-31 August 2023.  Examination administration. 
+c.  31 August 2023.  EAW completion due date for E-4 to E-6 
+candidates. 
+ 
+6.  Cycle 113 specific eligibility requirements: 
+a.  Terminal Eligibility Date for E-4 to E-6 is 1 January 24. 
+b.  Minimum Time-in Rate (TIR): 
+(1) E-6 - 1 January 2021 
+(2) E-5 - 1 January 2023 
+(3) E-4 - 1 July 2023 
+c.  E-6 candidate TIR requirements for early promote (EP) can be waived by 
+one year with commanding officer (CO)/officer-in-charge (OIC) approval.  EAW 
+must be created manually for all who receive a waiver.  EP candidates are 
+still bound by the same PMK-EE deadline as regular TIR candidates. 
+d.  High-year tenure (HYT).  In line with reference (g), all SELRES are 
+automatically approved to continue service through 30 September 2024 and all 
+Fleet Reserve or retirement requests prior to this date are considered 
+voluntary.  In EAW, the "HYT Exceeded" entry may reflect "Yes" - when 
+applicable, select "Yes" for "HYT Waived". 
+e.  Security/Interim security clearance (if required):  Refer to chapter 2 of 
+reference (b).  All NWAE candidates must have applicable adjudication (Top 
+Secret or Secret) or CO or OIC interim clearance dated prior to 1 August 
+2023.  If clearance is revoked, an examination is not authorized until the 
+discrepancy is corrected. 
+f.  Performance mark average (PMA).  Compute PMA for all E-4 and E-5 
+candidates and reporting senior's cumulative average (RSCA) PMA for E-6 
+candidates in line with references (b) and (h).  Use all evaluations in 
+current paygrade with an ending date that falls within following periods: 
+       (1) E-4 - 1 January 2023 to 31 July 2023 
+       (2) E-5 - 1 June 2022 to 31 July 2023 
+       (3) E-6 - 1 August 2020 to 31 July 2023 
+ 
+7.  Examination Ordering: 
+a.  In line with reference (a), ordering dates and TIR listings for all 
+examination are on the Navy Enlisted Advancement System (NEAS) 
+website:  https://neas.ncdc.navy.mil/.  Select "Examinations" and "Ordering 
+Date Chart". 
+b.  Sensitive Compartmented Information (SCI) examinationss not 
+included on initial TIR list must be ordered from 
+sfly_cryptologic.products@navy.mil.  Order examinations in line with 
+reference (b). 
+c.  Examinations ordered for non-SCI examination candidates not 
+on initial TIR list must be ordered in NEAS Web using Department of 
+Defense Identification Number. 
+d.  Educational Services Officers (ESOs) should verify placing examinations 
+orders within 7-10 days of ordering at "View Previous Examinations Orders" 
+link via the NEAS website, and should contact Naval Education and Training 
+Professional Development Center (NETPDC N321) as needed for examination order 
+inquiries and issues. 
+e.  Reference (b) contains ordering information for Sailors in 
+congressionally designated combat zones and approved contingency operations 
+areas (CDCZ/ACOA) or recalled reservists.  Examinations will be ordered by 
+the Active Duty command unit identification code where the Sailor is 
+assigned. 
+ 
+8.  Examination administration.  Administer examination and return answer 
+sheets in line with chapter 6 of reference (b).  An examination tote board on 
+the NEAS website displays current status of receiving answer sheets. 
+a.  When an examination is not used during the normally scheduled 
+administrations, do not destroy the examination prior to 1 October 2023 as 
+the examination may be used for administration in support of an authorized 
+"late administration" prior to this date. 
+b.  All SELRES late administration requests will be routed through the Navy 
+Reserve Force ESO, carbon copy to immediate superior in command (ISIC) 
+ESO.  Force ESO will request authorization from NETPDC N321 for approval and 
+carbon copy all points of contact. 
+ 
+9.  Discrepancy Correction: 
+a.  A detailed discrepancy list can be found on the NEAS website.  Utilize 
+the EAW PAC process for correcting discrepancies and refer to reference (c). 
+b.  For guidance on missed examinations due to CDCZ/ACOA, refer to reference 
+(b). 
+ 
+10.  Examination/A-FMS results will be available via NEAS profile sheets. 
+ 
+11.  All additional information for this cycle is posted on the MyNavy HR 
+advancements site, located at 
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted-Career-Admin/Advancement/ and NEAS websites. 
+ 
+12.  Points of contact: 
+a.  MyNavy Career Center:  (833) 330-6622, askmncc@navy.mil. 
+b.  PMK-EE:  ntmps.support@navy.mil. 
+c.  SCI examination questions and orders:  (850) 473-5867/DSN 753, 
+sfly_cryptologic.products@navy.mil. 
+d.  Non-SCI, supplemental orders:  (850) 473-6150/DSN 753, 
+usn.pensacola.netpdc.mbx.netpdc-n321-exam-orders@us.navy.mil. 
+e.  NWAE examination records or discrepancies:  EAW PAC submissions or  
+(850) 473-6148/DSN 753.  Pre/post examination administration 
+inquiries:  usn.pensacola.netpdc.mbx.netpdc-n321-discrepancies@us.navy.mil. 
+f.  Reserve Force ESOs:  CNRFC_Reserve_Forces_ESO@navy.mil. 
+ 
+13.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+14.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
