@@ -1,0 +1,86 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 071535Z JUN 23 MID120000193253U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 136/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUN// 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS 
+INFO CNO WASHINGTON DC//DNS 
+ 
+SUBJ/UNIT AWARDS PROCESS IMPROVEMENTS// 
+ 
+REF/A/DOC/SECNAV/16AUG2019// 
+NARR/REF A IS SECNAV M-1650.1 NAVY AND MARINE CORPS AWARDS MANUAL.// 
+ 
+RMKS/1. The purpose of this NAVADMIN is to enhance efficiency across the 
+Department of the Navy (DON) by providing amplifying guidance for 
+originating, endorsing, and processing recommendations to assist awarding 
+authorities in recognizing deserving units with an appropriate award within 
+an acceptable time period.  The basic eligibility and criteria contained in 
+reference (a) remains unchanged. 
+ 
+2. The typical unit award in the last year has taken more than 700 days from 
+the end of the meritorious period and more than 400 days from the date or 
+origination to receive a decision from the approval authority.  This timeline 
+is simply not acceptable.  Unit decorations must be originated as soon as 
+practicable after the distinguishing act or period of service to be 
+recognized. 
+ 
+3. The following guidance, timelines, and best practices for unit awards are 
+provided to facilitate a smooth process for final disposition. 
+    a.  Recommendations shall be initiated no later than 60 days following 
+the completion of the meritorious period for which the award is being 
+recommended and shall be routed through either the Administrative (for 
+sustained performance) or Operational (for deployment) Chain of 
+Command.  Additionally, unit awards must reach the CNO Awards Branch (DNS-13) 
+no later than 120 days from the end of the meritorious period.  Any 
+recommendation not submitted in a timely manner must be accompanied by a 
+letter with full explanation of the circumstances that caused the delay.  The 
+letter must also include actions the submitting command is taking to prevent 
+future late unit awards submissions.  "Administrative oversight" is not an 
+acceptable explanation. 
+    b.  Errors or missing information in the submitted recommendation 
+adversely affect processing and adjudication.  Endorsing Commanders have the 
+responsibility to return the award submission to the originator if it is not 
+submitted in accordance with reference (a) and this NAVADMIN.  Common errors 
+observed include: 
+        (1) Incorrect cited unit.  The cited unit's name listed in Block 6 
+should match Standard Navy Distribution List (SNDL) naming conventions.  The 
+SNDL can be accessed via https://flankspeed.sharepoint-
+mil.us/sites/OPNAV/DNS/DNS1/DNS12/SitePages/Home.aspx. 
+        (2) Meritorious dates in the Summary of Action (SOA) and proposed 
+citation must match the date indicated in Block 17. 
+        (3) The actions of the participating commands referenced in the 
+citation, must match what is in the SOA. 
+        (4) Any unit mentioned in the SOA must be included in the 
+participating command supplemental. 
+        (5) Missing or incomplete list of participating commands- 
+participating command lists are either missing or incomplete.  All commands 
+listed must also have Unit Identification Code listed. 
+        (6) OPNAV 1650/14 Unit Award Recommendation that does not have all 
+appropriate endorsers will be returned without action. 
+        (7) An estimated total number of personnel (Officer, Enlisted, U.S. 
+Civilians, other U.S. Armed Forces, or Foreign Militaries) who would be 
+eligible to participate in the award if approved must be included with the 
+recommendation. 
+ 
+4.  Point of Contact is DNS-13, at (703) 695-0053 or via e-mail at CNO awards 
+AT us.navy.mil.  Additional award resources can also be located at: 
+https://flankspeed.sharepoint-mil.us/sites/OPNAV/DNS/DNS1/DNS-
+13/SitePages/Home.aspx 
+ 
+5.  This NAVADMIN will remain in effect until superseded or cancelled. 
+ 
+6.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
