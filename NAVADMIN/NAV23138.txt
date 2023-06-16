@@ -1,0 +1,96 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 071651Z JUN 23 MID600053048568U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 138/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N71/JUN// 
+ 
+SUBJ/FY-24 GRADUATE EDUCATION VOUCHER PROGRAM// 
+ 
+REF/A/DOC/OPNAVINST 1520.37B/26FEB13// 
+AMPN/REF A IS GRADUATE EDUCATION VOUCHER (GEV) POLICY.// 
+ 
+RMKS/1. This NAVADMIN provides details on the Graduate Education Voucher 
+(GEV) program and guidance for FY-24 program application.  Eligibility, 
+obligated service requirements, subspecialty utilization tour, and authorized 
+program benefits are prescribed in reference (a). Where information differs 
+between this NAVADMIN and reference (a), this NAVADMIN takes precedence. 
+ 
+2. FY-24 GEV Opportunities. 
+   a. The GEV program provides an opportunity for selected Unrestricted Line 
+Officers assigned to shore duty, whose career paths may not provide adequate 
+opportunity for full-time education, to attain Navy relevant graduate 
+education in selected areas of study during off-duty hours. 
+   b. GEV funding is for off-duty master degree programs, which meet the 
+requirements of at least one approved Navy subspecialty code as verified by 
+Naval Postgraduate School. 
+   c. For FY-24, 30 GEV quotas for select unrestricted line officers are 
+planned, subject to funding availability, and all quotas must be allocated by 
+16 June 2024. 
+   d. Quotas are allocated as follows: 
+      Aviation officers - 11 
+      Submarine officers - 7 
+      Surface Warfare officers - 9 
+      NSW officers - 2 
+      EOD officers - 1 
+   e. FY-24 quotas by area of study, subspecialty for an area of study, and 
+warfare area are: Computer Science (6203P/G) 
+                    AV 1   SUB 0   SURFACE 0   NSW 0  EOD 0 
+Computer Network Operations and Technology (6209P/G) 
+                    AV 0   SUB 1   SURFACE 0   NSW 0  EOD 0 
+Cyber Systems and Operations (6208P/G) 
+                    AV 0   SUB 0   SURFACE 2   NSW 0  EOD 0 
+Engineering (5XXXP/G) 
+                    AV 5   SUB 3   SURFACE 3   NSW 0  EOD 0 
+Operations Research Analysis (3211G) 
+                    AV 2   SUB 2   SURFACE 1   NSW 0  EOD 0 
+Regional/National Security Studies (2XXXP/G) 
+                    AV 3   SUB 1   SURFACE 3   NSW 2  EOD 1 
+ 
+3. Policy Updates. 
+   a. Travel funding considerations will only be made for distance learning 
+programs that have 20 percent or less mandated university main campus 
+residency requirements. International travel will not be funded. 
+   b. GEV participants must submit GEV authorization documents to the school 
+prior to the term start date to receive funding for the term. GEV funding 
+will only be provided after an initial education plan is approved. 
+ 
+4. Application and Selection Process. 
+   a. Eligible officers may request consideration for a FY-24 GEV quota by 
+submitting a formal letter of application to Commander, Navy Personnel 
+Command (COMNAVPERSCOM) - PERS 41/42/43 as appropriate. 
+   b. FY-24 GEV applications will only be accepted from officers who have 
+earned AQD 282 or 283 through their community talent management board. 
+   c. Selection and notification of selection for the FY-24 GEV applications 
+quotas are made by PERS 41/42/43 throughout the fiscal year until they are 
+allotted or by 16 June 2024, whichever comes first. 
+   d. Application and program specifics may be found in reference (a) and at 
+the Navy College Program website (https://www.navycollege.navy.mil/).  
+Under Sailors select 
+a) Additional Funding Programs and then  
+b) Officer. 
+ 
+5. Points of contact. 
+   a. For FY-24 GEV quota availability contact your detailer. 
+   b. For policy questions, e-mail LT Matt Hinkson at 
+matthew.b.hinkson.mil@us.navy.mil. 
+ 
+6. This message will remain in effect until superseded or cancelled, 
+whichever occurs first. 
+ 
+7. Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
+Warfighting Development (N7).// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
