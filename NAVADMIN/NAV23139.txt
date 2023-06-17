@@ -1,0 +1,132 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151929Z JUN 23 MID600053056955U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 139/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/REVISIONS TO COMMAND CLIMATE ASSESSMENTS// 
+ 
+REF/A/DOC/DOD/20DEC22// 
+REF/B/DOC/CNO WASHINGTON DC/03NOV21// 
+REF/C/DOC/CNO WASHINGTON DC/26JUN18// 
+ 
+NARR/REF A IS DODI 6400.11, DEPARTMENT OF DEFENSE INTEGRATED PRIMARY 
+PREVENTION POLICY FOR PREVENTION WORKFORCE AND LEADERS.   
+REF B IS OPNAVINST 5354.1H, NAVY HARASSMENT PREVENTION AND MILITARY EQUAL 
+OPPORTUNITY PROGRAM MANUAL.   
+REF C IS THE COMMAND RESILIENCE TEAM GUIDE.// 
+ 
+RMKS/1.  This NAVADMIN revises the timeframe and process for command climate 
+assessments (CCA), to include responsibilities for commanders, commanding 
+officers, officers-in-charge, and civilian equivalents (subsequently referred 
+to as commanders) and immediate superior in command (ISIC). 
+ 
+2.  Desired Outcome.  The Navy's goal is to produce people, leaders, and 
+teams that are ready for combat, or to support those who go forward.  The CCA 
+process, leveraging the Defense Organizational Climate Survey (DEOCS) 
+provides commanders with invaluable and actionable insight into their 
+commands so that local conditions get better over time. 
+ 
+3.  CCA (revised timeline and process).  Reference (a) changed the time frame 
+for annual CCAs and change of command CCAs.  The command resilience team 
+(CRT) should leverage references (b) and (c), and administer CCA in line with 
+the following: 
+    a.  Annual CCA: 
+       (1) Consist of a DEOCS, and involve consideration of multiple sources 
+of information such as administrative records review, reports, interview 
+data, focus groups, or other existing data. 
+       (2) Start no earlier than 1 August and conclude by 30 November, which 
+is called the CCA fielding window. 
+       (3) Must initiate the DEOCS no later than 31 October. 
+       (4) Is considered complete when the commander signs their executive 
+summary and plan of action and milestones (POAM). 
+       (5) Should be debriefed to the ISIC within 60 calendar days of 
+completion.  Email review and reply are not acceptable. 
+       (6) For 2023, all commanders must conduct an annual CCA during the CCA 
+fielding window, regardless of when their last CCA occurred. 
+       (7) Commanders who conducted a CCA between 1 February 2023 and 31 July 
+2023, and who do not have significant changes in DEOCS results from DEOCS 
+conducted during the required period (1 August 2023 - 31 October 2023), are 
+not required to conduct an administrative records review, interview, and 
+focus group data review. 
+    b.  Change of Command CCAs: 
+       (1) Must occur within 90 days after assumption of command or office. 
+       (2) If the change of command occurs outside of the annual CCA fielding 
+window, the change of command CCA should not include a DEOCS if one has been 
+conducted in the last calendar year. 
+       (3) Consists of a review of the previous CCA(s) to assess progress and 
+make adjustments, and should include a review of updated administrative 
+records, reports, interview data, focus groups, and other data as available. 
+       (4) Must be debriefed to the ISIC within 30 calendar days of 
+completion.  Email review and reply are not acceptable. 
+ 
+4.  CCA Responsibilities (commander and ISIC): 
+    a.  Survey Participation: 
+       (1) All Service Members and civilian employees in the command or 
+organization must have the opportunity to participate, but survey 
+participation is voluntary.  However, commanders, command leadership and 
+command resilience team (CRT) members should actively promote maximum survey 
+participation and provide opportunities for all personnel (military and DoD 
+civilians) to take surveys during work hours. 
+       (2) Commanders should be transparent with their Sailors.  The 
+consistent best practice for increasing survey participation is a thorough 
+debrief of the CCA, and then following through on POAM actions, with the 
+status briefed to the command on a periodic basis. 
+       (3) Historically, the Navy has averaged about 40 percent DEOCS 
+participation.  The higher the voluntary survey participation is in a unit, 
+the higher the confidence commanders can have that the results represent the 
+views of the unit. 
+       (4) Commanders and CRT members should pay special attention to the 
+written comments in the DEOCS as they may provide awareness of previously 
+undetected issues to the attention of the CRT. 
+    b.  Protective and Risk Factors.  DEOCS provides data on protective and 
+risk factors.  These factors provide leading indicators of successful mission 
+accomplishment and the potential for harmful behaviors such as suicide and 
+sexual assault. Commanders remain accountable for totality of their climate, 
+but based on Navy-wide data, the following guidance is provided: 
+       (1) Protective Factors.  Within the 11 protective factors, commanders 
+should prioritize the development of Connectedness and Inclusion. 
+       (2) Risk Factors.  Within the 11 risk factors, commanders must 
+actively reduce conditions that result in moderate-high stress, frequent 
+workplace hostility, and presence of harassing behaviors (sexual and 
+racial).  This includes taking action to address microclimates within a 
+command where these risk factors are high. 
+       (3) Additional information on protective and risk factors is 
+contained on the fact sheet posted with this NAVADMIN on 
+https://www.mynavyhr.navy.mil/. 
+    c.  ISIC Responsibilities.  ISICs may adjust the timing of the Annual CCA 
+or change of command CCA based on operational requirements. 
+    d.  Echelon 2 Commanders.  By 31 March each year, each echelon 2 must 
+report annual CCA ISIC debrief status to Navy Culture and Resilience Office 
+(OPNAV N17), breaking out commands that have requested a waiver or are 
+incomplete. 
+ 
+5.  Prevention and Response Programs (OPNAV N170) will set up several town 
+halls for command climate specialists to discuss and answer questions about 
+the new CCA process and requirements. Command Triad and CRT members are 
+highly encouraged to attend.  Town hall dates will be posted 
+on https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Equal-
+Opportunity/Command-Climate-Specialists/. 
+ 
+6.  Questions about the CCA process can be forwarded to the appropriate 
+echelon 2 command climate specialists, the Integrated Primary Prevention 
+Program mailbox, OPNAV_IPP.fct@navy.mil; or Navy Harassment and Military 
+Equal Opportunity Advice Line, at (703) 604-1037 or via e-mail at 
+MILL_Navy_EO_Advice@navy.mil. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
