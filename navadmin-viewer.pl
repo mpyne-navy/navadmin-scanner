@@ -29,10 +29,8 @@ hook(after_static => sub ($c) {
 my $file_text = eval { Mojo::File->new("navadmin_meta.json")->slurp; } // "{}";
 $navadmin_dl_metadata = Mojo::JSON::decode_json($file_text);
 
-my $cross_ref_data = eval { Mojo::File->new("cross-refs.json")->slurp; } // '';
-$cross_ref_data //= q(
-"NAVADMINs": {}
-);
+my $cross_ref_data = eval { Mojo::File->new("cross-refs.json")->slurp; };
+$cross_ref_data  //= q( { "NAVADMINs": {} } );
 $cross_refs = Mojo::JSON::decode_json($cross_ref_data);
 
 # Find known NAVADMINs and build up data mapping for later
