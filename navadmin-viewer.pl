@@ -165,7 +165,7 @@ get '/NAVADMIN/:id/:twoyr'
         return $c->reply->file($name);
     }
 
-    my $url = $navadmin_dl_metadata->{$index} // '';
+    my $meta = $navadmin_dl_metadata->{$index} // '';
 
     # Will be an array of NAVADMINs that link to this one in format "xxx/yy"
     my $cross_ref = $cross_refs->{NAVADMINs}->{$index} // [];
@@ -174,7 +174,7 @@ get '/NAVADMIN/:id/:twoyr'
     $c->render(template => 'show-navadmin',
         navadmin_title => $title,
         filepath => $name,
-        url      => $url,
+        metainfo => $meta,
         crossref => $cross_ref,
     );
 } => 'serve-navadmin';
@@ -352,6 +352,28 @@ refer back to this one:</summary>
 % }
 
 <main>
+% if ($metainfo) {
+<div class="level">
+  <div class="level-left">
+    % if ($metainfo->{links}) {
+        % for my $link (@{$metainfo->{links}}) {
+        <a rel="noopener nofollow" class="level-item button is-link" target="_blank"
+           href="<%= b($link->{url}) %>">
+          <%= $link->{text} %>
+        </a>
+        % }
+    % }
+  </div>
+
+  <div class="level-right">
+    <a rel="noopener nofollow" class="level-item button is-info" target="_blank"
+       href="<%= b($metainfo->{dl_url}) %>">
+      Official NAVADMIN
+    </a>
+  </div>
+</div>
+% }
+
 <pre>
 % my $content = Mojo::File->new($filepath)->slurp;
 % my $escaped = b($content)->decode('UTF-8')->xml_escape;
@@ -360,10 +382,6 @@ refer back to this one:</summary>
 <%= b($escaped) %>
 </pre>
 </main>
-
-% if ($url) {
-<p><a href="<%= $url->{dl_url} %>" rel="nofollow noopener" target="_blank">Official source for this NAVADMIN</a></p>
-% }
 
 </div>
 
