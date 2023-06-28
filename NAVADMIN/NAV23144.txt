@@ -1,0 +1,56 @@
+RTTUZYUW RHOIAAA0001 1781806-UUUU--RHSSSUU
+ZNR UUUUU
+R 271804Z JUN 23 MID120000258758U
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS 
+
+NAVADMIN 144/23
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+ 
+SUBJ/CHANGE TO NUCLEAR OFFICER BONUS AND INCENTIVE PAY RATES//
+ 
+REF/A/DOC/OPNAV/25APR23//
+AMPN/REF A IS OPNAVINST 7220.11J, Nuclear Officer Bonus and Incentive Pay 
+Program.//
+ 
+RMKS/1.  This NAVADMIN announces an update to the nuclear officer bonus and 
+incentive pay continuation bonus (COBO) rates and structure for initial 
+contracts, major commanders, and major program managers.  Reference (a) 
+contains a comprehensive change summary.
+ 
+2.  Reference (a) increases the amount payable to 1120 submarine officers 
+entering initial nuclear officer COBO agreements. Increased payments will be 
+executed as follows:
+    a.  A submarine officer entering an initial COBO agreement on or after 
+the effective date of this revision is eligible for an increased first 
+payment of $50K with subsequent payments in line with reference (a).
+    b.  Submarine officers are eligible to renegotiate initial COBO contracts 
+and receive the one time higher payment if their report date to submarine 
+officer advanced course was on or after 1 January 2023.  Contracts may be 
+renegotiated on the officer's existing contract anniversary or commissioning 
+date and must be at least 3 years in length.  All renegotiations with 
+anniversary dates on or later than 25 April 2023 will be preserved.
+ 
+3.  Reference (a) expands eligibility for COBO contracts at the major command 
+rate to all served or serving 1120 and 1110 (nuclear surface warfare 
+officers) major commanders and major program managers regardless of time in 
+service.  Eligible officers may renegotiate their contract for the higher 
+rate and must be willing to accept follow on orders.  Eligible officers may 
+preserve their anniversary date provided the anniversary date is on or later 
+than 25 April 2023.  All other renegotiations will be in line with reference 
+(a).
+ 
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+ 
+BT
+#0001
+NNNN 
+UNCLASSIFIED//
+

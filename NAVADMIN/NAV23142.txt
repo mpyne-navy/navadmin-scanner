@@ -1,0 +1,95 @@
+RTTUZYUW RHOIAAA0001 1771703-UUUU--RHSSSUU
+ZNR UUUUU
+R 261703Z JUN 23 MID120000254396U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC//DNS//
+CNO WASHINGTON DC//N1//
+BT
+UNCLAS
+ 
+NAVADMIN 142/23
+ 
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/-/JUN/
+ 
+SUBJ/FY-22 NAVY SAILORS OF THE YEAR//
+ 
+REF/A/DOC/OPNAV/02FEB2015//
+ 
+RMKS/1.  I am pleased to announce the selection of the Fiscal Year
+2022 Navy Sailors of the Year.
+ 
+Commander, Submarine Force, Atlantic:
+HM1(SS) Weldon, James B., USS CALIFORNIA (SSN 781)
+ 
+Commander, Submarine Force U.S. Pacific Fleet:
+EMN1(SS) Gaston, Jeffrey L., USS ALABAMA GOLD (SSBN 731)
+ 
+Commander, Naval Surface Force, Atlantic:
+ABF1(AW/SW/IW) Cobb, Deasmen I. E., USS ARLINGTON (LPD 24)
+ 
+Naval Surface Force U.S. Pacific Fleet:
+OS1(SW) Searle, Skylar T., USS CHARLESTON (LCS CREW 216)
+ 
+Commander, Naval Air Force, Atlantic:
+ABH1(AW/SW) Weaver, Sirita T., USS JOHN C. STENNIS (CVN 74)
+ 
+Commander, Naval Air Force U.S. Pacific Fleet:
+AD1(AW/SW) Jenkins, Kasadra J., (VAW 117)
+ 
+Commander, Naval Information Forces:
+IT1(IW/SW/AW) Shainin, Brian M. P., NCTS, Naples, Italy
+ 
+Commander, Navy Expeditionary Combat Command:
+CE1(SCW/EXW) Coppock, Janice N., NMCB-5
+ 
+Reserve Force:
+CTR1(IW/EXW) McClintock, Lewis A., NR C10F NIOCHI NIC (CNIFR)
+ 
+Commander, Navy Installations Command:
+HT1(SW) Bascar, Panfilo M., COMFEACT SASEBO, JAPAN
+ 
+Bureau of Medicine and Surgery:
+HM1(SW/AW/IW) Hunter, Travis S., NAVMEDREADTRACMD ROTA SP
+ 
+Naval Special Warfare Command:
+SB1(SWCC/EXW) Pignato, Jonathan V., NAVSPECWAR ATC DET STENNIS
+ 
+Commander, Naval Education and Training Command:
+ND1(DWS/EXW) McCain, Chase S., NAVDIVESALVTRACEN (NDSTC), Panama City,
+Florida
+ 
+Commander, U.S. Fleet Forces Command (Sea):
+OS1(SW/AW) Tomkin, Kandace M., COMCARSTRKGRU 8
+ 
+Commander, U.S. Fleet Forces Command (Shore):
+HM1(FMF) Rufohuse, Heather R., Field Medical Training Battalion-East
+ 
+Commander, U.S. Pacific Fleet (Sea):
+OS1(SW/AW) Yeager, Matthew A., COMSEVENTHFLT
+ 
+Commander, U.S. Pacific Fleet (Shore):
+LS1(AW/SW/IW) Nagara, Putra H., CFWP ASD MISAWA
+ 
+Navy Shore:
+YN1 (SW/DV) Phillips, Camron, NAV REG MA RCC NORFOLK VA
+ 
+2.  The competition was robust and reflected the highest caliber of Sailors 
+serving throughout the world.  Each of these Sailors represented their 
+commands and the entire enlisted community with distinction.
+ 
+3.  These outstanding Sailors will be advanced to Chief Petty Officer
+the week of 24 September 2023.
+ 
+4.  NPC will ensure these Sailors are removed from the E-7 selection board 
+eligibility lists.
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+ 
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
