@@ -1,9 +1,9 @@
-CLASSIFICATION: UNCLASSIFIED// 
-ROUTINE 
-R 232039Z JUN 23 MID120000249370U 
-FM CNO WASHINGTON DC 
+RTTUZYUW RHOIAAA0001 1771557-UUUU--RHSSSUU 
+ZNR UUUUU 
+R 261556Z JUN 23 MID120000254061U 
+FM CNO WASHINGTON DC//N1// 
 TO NAVADMIN 
-INFO CNO WASHINGTON DC 
+INFO CNO WASHINGTON DC//N1// 
 BT 
 UNCLAS 
  
@@ -11,55 +11,54 @@ NAVADMIN 141/23
  
 MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
  
-SUBJ/NAVY HEALTH OF THE FORCE SURVEY// 
+SUBJ/NAVY HEALTH OF THE FORCE SURVEY (CORRECTED COPY)// 
  
 REF/A/DOC/DOD/20DEC22// 
 REF/B/MSG/CNO WASHINGTON DC/151929ZJUN23// 
 REF/C/DOC/CNO WASHINGTON DC/08FEB23// 
  
 NARR/REF A IS DODI 6400.11, DEPARTMENT OF DEFENSE INTEGRATED PRIMARY 
-PREVENTION POLICY FOR PREVENTION WORKFORCE AND LEADERS.   
-REF B IS NAVADMIN 139/23, REVISIONS TO COMMAND CLIMATE ASSESSMENTS.   
+PREVENTION POLICY FOR PREVENTION WORKFORCE AND LEADERS.  
+REF B IS NAVADMIN 139/23, REVISIONS TO COMMAND CLIMATE ASSESSMENTS.  
 REF C IS THE HEALTH OF THE FORCE CALENDAR YEAR 2022 REPORT.// 
  
 RMKS/1. Request all personnel currently on Active Duty participate in the 
-Navy's annual Health of the Force (HoF) survey.  This voluntary and 
+Navy's annual Health of the Force (HoF) survey. This voluntary and 
 confidential survey will remain open through 31 August 2023, takes less than 
 20 minutes to complete, and can be accessed on military or personal computers 
-and on mobile devices at:  
-https://usnavy.gov1.qualtrics.com/jfe/form/SV_3mk65UxcLQgMMjl. 
+and on mobile devices at: 
+usnavy.gov1.qualtrics.com/jfe/form/SV_3mk65UxsLQgMMjI. 
 Command triads are encouraged to lead the way by taking the survey themselves 
 and emphasize its value within their commands. 
  
-2.  In 2023, the HoF survey was accelerated due to the new timing for command 
+2. In 2023, the HoF survey was accelerated due to the new timing for command 
 climate assessments contained in references (a) and (b). 
 In 2024, the HoF survey will launch in March. 
  
-3.  The HoF Survey is used for three reasons: 
-    a.  Enables a comprehensive view of the Navy that is used to develop 
-Navy's HoF report.  The 2022 HoF report is reference (c) and available at: 
-https://www.mynavyhr.navy.mil/Portals/55/Reference/Publications/CY2022_HOF_FI
-NAL_8_Feb_23.pdf?ver=NfT0FRHSJlgEtWk0mE22lQ%3D%3D. 
-    b.  With sufficient participation, allows the Navy to measure key metrics 
-for each of Navy's 17 communities.  This data is used for Navy Leader 
-Development Framework (NLDF) briefs from community leads to the Chief and/or 
-Vice Chief of Naval Operations.  NLDFs now occur within 90 days of the 
-assumption of command, and every 12-to-18 months thereafter. 
-    c.  Provides the Navy with an opportunity to evaluate the programs and 
-policies that impact Sailors' personal and professional 
-lives. 
+3. The HoF Survey is used for three reasons: 
+a. Enables a comprehensive view of the Navy that is used to develop Navy's 
+HoF report. The 2022 HoF report is reference (c) and available at: 
+https://www.mynavyhr.navy.mil/Portals/55/Reference/Publications/CY20 
+22_HOF_FINAL_8_Feb_23.pdf?ver=NfT0FRHSJlgEtWk0mE22lQ%3D%3D. 
+b. With sufficient participation, allows the Navy to measure key metrics for 
+each of Navy's 17 communities. This data is used for Navy Leader Development 
+Framework (NLDF) briefs from community leads to the Chief and/or Vice Chief 
+of Naval Operations. NLDFs now occur within 90 days of the assumption of 
+command, and every 12-to- 18 months thereafter. 
+c. Provides the Navy with an opportunity to evaluate the programs and 
+policies that impact Sailors' personal and professional lives.
  
-4.  In logging into the survey, participants will be asked for their 
-Department of Defense Identification (DOD ID) number.  DoD ID numbers will 
-not be used to link answers to a particular respondent and confidentiality 
-will be maintained. 
+4. In logging into the survey, participants will be asked for their 
+Department of Defense Identification (DOD ID) number. DoD ID numbers will not 
+be used to link answers to a particular respondent and confidentiality will 
+be maintained. 
  
-5.  Questions about the survey can be sent to the Navy Survey Office (OPNAV 
-N176), Dr. Jen Jebo at Jennifer.l.jebo.civ@us.navy.mil. 
+5. Questions about the survey can be sent to the Navy Survey Office (OPNAV 
+N176), Dr. Jen Jebo at Jennifer.l.jebo.civ@us.navy.mil.
  
-6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+6. Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
  
 BT 
 #0001 
 NNNN 
-CLASSIFICATION: UNCLASSIFIED//
+UNCLASSIFIED//
