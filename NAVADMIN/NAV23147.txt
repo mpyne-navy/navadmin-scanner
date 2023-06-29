@@ -1,0 +1,85 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 291512Z JUN 23 MID120000265852U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 147/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN// 
+ 
+SUBJ/ESTABLISHMENT OF THE CYBER WARFARE TECHNICIAN (CWT) RATING// 
+ 
+REF/A/DOC/JAN2023 
+AMPN/REF A IS NAVPERS 18068, NEOCS MANUAL// 
+ 
+RMKS/1.  This NAVADMIN announces the establishment of the Cyber Warfare 
+Technician (CWT) rating and the disestablishment of the Cryptologic 
+Technician-Networks (CTN) rating.  The CWT rating will incorporate all 
+members of the CTN rating in the short term and then evolve from there. 
+ 
+2.  The CWT rating will utilize the former CTN Rating Control Number (RCN) of 
+1677 and the following information applies: 
+     a.  The personnel and billets to receive the new rating will be CTNs 
+serving in an Enlisted Manning Code (EMC) of B525 and RCN of 1677.  This will 
+effectively change all existing CTN billets and personnel to the new rating. 
+     b.  The following NECs will carry over to the personnel and billets that 
+were converted to the new rating:  H07A, H11A, H12A, 
+H13A, H14A, H15A, H16A, H29A, H30A, H31A, H32A, H34A, H41A, H42A, 
+703C, 702C, 708A, 732A, 771B, 785B, 785C, 785D, and 785K. 
+ 
+3.  In line with reference (a), the CWT rating will retain all Occupational 
+Standards (OCCSTDs) listed under the CTN service rating.  This establishment 
+will remove formal associations with the remaining Cryptologic Technician 
+fields and highlight the Navy's ability to conduct military operations in and 
+through cyberspace. 
+The CWT rating will apply to both Active Duty and Selected Reserve 
+(SELRES) Sailors and associated billets.  
+ 
+4.  The establishment of the new rating became effective on 28 June 
+2023.  All CTN billets and personnel will be changed to CWT on this 
+date.  All CTNs will be required to change their rating badge to the new CWT 
+rating badge within twelve months of release of this message.  All rating 
+specific incentive pays currently offered to CTN Sailors will be offered to 
+CWT personnel (e.g. SDAP, SRB, etc). 
+ 
+5.  The advancement exam will be changed from CTN to CWT.  All advancement 
+requirements for CTN remain in effect for CWT. 
+ 
+6.  There will be no changes to the E7/8/9 evaluation and selection board 
+processes.  Selection boards will utilize the CTN Enlisted Career Path (ECP) 
+in the absence of updated CWT ECP.  Current policies exercised will continue 
+unaltered. 
+ 
+7.  As with the CTN rating, the CWT Enlisted Career Path (ECP) will not be 
+defined by a Sea/Shore flow. Current policies exercised will continue 
+unaltered. 
+ 
+8.  This NAVADMIN does not implement any changes for Commander, Navy 
+Recruiting Command.  Current business rules, quotas, and incentives exercised 
+for CTN will apply for CWT. 
+ 
+9.  This NAVADMIN does not modify any previous guidance concerning Early 
+Separation, Fleet Reserve, Conversion Packages, or Career Waypoints requests. 
+ 
+10.  The primary points of contact are: 
+     a.  Enlisted Community Manager (ECM), LCDR Andy Thaxton, 
+Information Warfare Enlisted Community Manager (BUPERS-327),  
+(901) 874-3492, andy.m.thaxton.mil@us.navy.mil; 
+     b.  Rating Technical Advisor (TECHAD), CTNCM Jeremy Stahl,  
+(901) 874-2967, jeremy.a.stahl.mil@us.navy.mil; and 
+     c.  Type Commander (TYCOM) Rating Lead, CTNCM Christopher Fisher 
+(757) 203-3312, christopher.m.fisher20.mil@us.navy.mil. 
+ 
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
