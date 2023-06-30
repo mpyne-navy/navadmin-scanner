@@ -1,0 +1,130 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 291935Z JUN 23 MID120000266674U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 150/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/GENADMIN/CNO/N7/JUN// 
+ 
+SUBJ/FINAL SELECTION AND ASSIGNMENTS FOR ACADEMIC YEAR 2023-24 FEDERAL 
+EXECUTIVE FELLOWSHIP (FEF), U.S. NAVY HUDSON FELLOWSHIP, CNO'S FELLOWSHIP AT 
+THE COUNCIL ON FOREIGN RELATIONS, SECRETARY OF DEFENSE EXECUTIVE FELLOWS 
+(SDEF), SECRETARY OF DEFENSE STRATEGIC THINKERS PROGRAM (SDSTP), POLITICO-
+MILITARY MASTER'S (PMM), OLMSTED, AND MIT SEMINAR XXI 
+ 
+REF/A/MSG/CNO WASHINGTON DC/091429ZJUN22// 
+REF/B/MSG/CNO WASHINGTON DC/141745ZNOV22// 
+REF/C/MSG/CNO WASHINGTON DC/251546ZJAN23// 
+ 
+NARR/Ref A is the Academic Year 2023-2024 Strategist and National Security 
+Fellowships and Graduate Education Scholarship Programs call for 
+applications, NAVADMIN 133/22. 
+Ref B is the Academic Year 2023-2024 Multi-Board Results for Strategist and 
+National Security Fellowships and Graduate Education Scholarship Programs, 
+NAVADMIN 255/22. 
+Ref C is the MIT Seminar XXI Class of Academic Year 2023-2024 Call for 
+Applications, NAVADMIN 017/23.// 
+ 
+RMKS/1. This NAVADMIN announces the final selection and assignments for the 
+AY 2023-24 Federal Executive Fellowship, U.S. Navy Hudson Fellowship, CNO's 
+Fellowship at the Council on Foreign Relations, Secretary of Defense 
+Executive Fellowship, Secretary of Defense Strategic Thinkers Program, 
+Politico-Military Master's Program, Olmsted Scholars, and MIT Seminar XXI 
+Program. 
+ 
+2. Federal Executive Fellowship (FEF) Program: 
+NAME                       RANK  DESIG  INSTITUTION 
+Ajoy, Patricia H.          CAPT  1710   Chicago Council 
+Aliberti, David M.         CDR   1320   Center for Strategic and Int'l 
+                                        Studies (CSIS)/U.S. Naval 
+                                        Institute (USNI) 
+Bond, Robert L. Jr.        LCDR  1830   Institute for Defense Analyses 
+Clough, Gavin H.           CDR   1710   Atlantic Council 
+Dorsey, Jonathan D.        CDR   1310   Stimson Center 
+Grenoble, William L.       CDR   1830   Harvard University 
+Hammond, Michael C.        LCDR  1810   Georgia Tech 
+Hoffman, Bradley R.        LCDR  1830   Stanford University 
+Janigian, Alan M.          LCDR  1110   MIT 
+Patel, Pratiksha           LCDR  1117   Carnegie Mellon University 
+Rosarda, Thelmar A.        LCDR  1110   Center for a New American 
+                                        Security (CNAS) 
+Strand, Breanna N.         LCDR  1317   Univ. of Texas-Austin 
+Wachtel, Jonathan G.       LCDR  1710   Tufts University 
+ 
+3. U.S. Navy Hudson Fellowship Program at St. Antony's College, 
+University of Oxford: 
+NAME                       RANK  DESIG 
+Robb, Douglas A.           CDR   1110 
+ 
+4. CNO's Fellowship at the Council on Foreign Relations: 
+NAME                       RANK  DESIG 
+Barrientos, John P.        CAPT  1110 
+ 
+5. Secretary of Defense Executive Fellows (SDEF): 
+NAME                       RANK  DESIG  INSTITUTION 
+Chandler, Robert H.        CDR   1320   Amazon 
+MacNeil, Benjamin S.       CDR   1130   VMware 
+Rogers, Jamie H.           CDR   1510   Raytheon Intelligence & Space 
+Summerlin, Mark T.         CDR   1510   Microsoft Federal 
+ 
+6. Secretary of Defense Strategic Thinkers Program (SDSTP) at Johns 
+Hopkins University School of Advanced International Studies (SAIS): 
+NAME                       RANK  DESIG 
+Kennedy, Charles R.        LCDR  1310 
+Wrigley, David J.          CDR   1310 
+ 
+7. Politico-Military Master's (PMM) Program: 
+NAME                       RANK  DESIG  INSTITUTION 
+Arnold, Jeffrey J.         LCDR  1830   Harvard Kennedy School 
+Geimer, Montana W.         LT    1810   Johns Hopkins University SAIS 
+Halsell, James D.          LCDR  1120   Johns Hopkins University SAIS 
+Intoccia, Matthew J.       LCDR  1110   Johns Hopkins University SAIS 
+Jestrab, Marek C.          LCDR  1110   University of Washington 
+Laden, Zachary J.          LCDR  1310   Harvard Kennedy School 
+Lock, Kodi M.,             LCDR  1110   Johns Hopkins University SAIS 
+Trezise, Meredith E.       LCDR  1320   Johns Hopkins University SAIS 
+ 
+8. Olmsted Scholars Program: 
+NAME                       RANK  DESIG  LOCATION 
+Manchigiah, Christopher A. LT    1310   Bratislava, Slovakia 
+Margot, Sean B.            LCDR  1830   Paris, France 
+Martin, Julie M.           LT    1120   Sofia, Bulgaria 
+McSharry, Mark B.          LCDR  1140   Berlin, Germany 
+Schleisman, Patricia A.    LT    1830   Hanoi, Vietnam 
+ 
+9. MIT Seminar XXI Fellowship: 
+NAME                       RANK  DESIG 
+Ahlstrom, Jonathan V.      CDR   1120 
+Burkett, David L.          CAPT  1110 
+Carter, Christopher J.     CAPT  1120 
+Cooper, Maxwell L.         CIV 
+Franklin, Billy D.         CAPT  1327 
+Goscinski, Rose A.         CAPT  1110 
+Healy, Gareth J.           CAPT  1140 
+Hicks, Christina M.        CAPT  1820 
+Loughran, Robert E.        CAPT  1310 
+Ogden, Thomas M.           CAPT  1110 
+Smith, Gregory A.          CAPT  1320 
+Taddiken, Brian C.         CAPT  1120 
+ 
+10. Points of Contact: 
+       a. OPNAV N712 Fellowship and Scholarship Programs Branch Head: 
+CDR Anne Stehlin; Comm (571) 256-4784; Email: anne.c.stehlin.mil@us.navy.mil 
+       b. OPNAV N712 Deputy Branch Head: Ms. Jennifer Rigdon Teter; 
+Comm (703) 692-1934; E-mail: jennifer.c.rigdonteter.civ@us.navy.mil 
+ 
+11. Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
+Warfighting Development, OPNAV (N7).// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
