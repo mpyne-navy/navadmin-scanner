@@ -1,0 +1,214 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 101613Z JUL 23 MID120000291651U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 155/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/BASIC NEEDS ALLOWANCE UPDATE ONE// 
+ 
+REF/A/DOC/USC/29DEC22// 
+REF/B/DOC/DOD/1JUL23// 
+REF/C/DOC/ASN/14DEC22// 
+REF/D/DOC/CNO/22DEC22// 
+ 
+NARR/REF A IS TITLE 37 U.S.C. 402(B), BASIC NEEDS ALLOWANCE FOR MEMBERS ON 
+ACTIVE SERVICE IN THE ARMED FORCES.   
+REF B IS DEPARTMENT OF DEFENSE INSTRUCTION 1341.15, BASIC NEEDS ALLOWANCE.   
+REF C IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE AFFAIRS) 
+DELEGATION MEMO - BASIC NEEDS ALLOWANCE.   
+REF D IS NAVADMIN 289/22, BASIC NEEDS ALLOWANCE.// 
+ 
+RMKS/1.  This NAVADMIN announces updates to Navy policy and procedures for 
+the basic needs allowance (BNA). 
+ 
+2.  In line with reference (a), reference (b) established change one to the 
+Department of Defense policy for BNA.  Reference (c) authorizes the Chief of 
+Naval Personnel to implement BNA policy. This NAVADMIN supersedes reference 
+(d).  The BNA program provides a monthly allowance to Sailors whose gross 
+household income (GHI) and household size places them below 150 percent of 
+Federal Poverty Guidelines (FPG) for their permanent duty station (PDS) 
+location. BNA provides additional income to address the difference between 
+GHI from the previous calendar year (CY) and 150 percent of the FPG for the 
+current CY.  These references, frequently asked questions, templates, and 
+other BNA resources can be found here: 
+https://www.mynavyhr.navy.mil/References/Pay-Benefits/. 
+ 
+3.  Eligibility.  In line with paragraph 3.2.a of reference (b), eligibility 
+for BNA requires that a Sailor meets all of the following criteria: 
+    a.  They have completed initial entry training (IET).  For purposes of 
+BNA, this coincides with a Sailor arriving at the first PDS after completion 
+of all required training at any location, including training locations that 
+are considered a PDS. 
+    b.  Their GHI during the most recent CY did not exceed 150 percent of the 
+FPG for that year. 
+    c.  They have dependents enrolled in Defense Enrollment Eligibility 
+Reporting System (DEERS) and listed on their Dependency Application/Record of 
+Emergency Data (NAVPERS 1070/602). 
+    d.  They voluntarily applied for BNA and were certified by Navy Pay and 
+Personnel Support Center (NPPSC). 
+ 
+4.  Ineligibility.  In line with paragraph 3.2.b of reference (b), Sailors 
+are ineligible to receive BNA if any of the following items apply: 
+    a.  They have not completed IET. 
+    b.  They do not have any dependents. 
+    c.  Their GHI during the most recent CY exceeded 150 percent of the FPG 
+for that year. 
+    d.  Their current, annualized GHI exceeds 150 percent of the FPG for the 
+previous CY. 
+    e.  They are a midshipman at the United States Naval Academy or in the 
+Naval Reserve Officer Training Corps. 
+ 
+5.  Screening.  NPPSC will conduct monthly screenings.  No input from Sailors 
+or commands is required for this screening.  NPPSC will provide each command 
+a list of Sailors who have screened as potentially eligible for BNA via 
+enterprise Customer Relationship Management (eCRM), if available, and an 
+email to the command triad and command pay and personnel administrators 
+(CPPA).  Commands can also review potentially eligible members by reviewing 
+BNA reports available in the enhanced Unit Commander's Financial Report 
+(eUCFR). 
+ 
+6.  Notification.  Sailors who screen as potentially eligible to receive BNA 
+will be officially notified by their chain of command via an Administrative 
+Remarks (NAVPERS 1070/613) and be provided an application cover sheet as 
+described in paragraph 13. 
+    a.  Units are required to report to NPPSC the total number of Sailors 
+notified each month by the fifth day of the following month. Units will use 
+the BNA Monthly Report described in paragraph 13 and submit to NPPSC via 
+eCRM, if available, or via email using nppsc- audit@us.navy.mil.  The report 
+will include all subordinate unit identification codes that do not have their 
+own commanding officer (CO).  Reports are not required if there have been no 
+notifications. 
+    b.  If a Sailor is notified via NAVPERS 1070/613 that they may be 
+eligible for BNA, they have 180 days to submit an application or they will be 
+deemed ineligible until rescreened.  Sailors who are notified during IET have 
+180 days to apply after arrival at their first PDS after completion of IET or 
+they will be deemed ineligible until rescreened. 
+    c.  Once notified of potential eligibility to receive BNA, Sailors should 
+further determine their eligibility based on their total GHI before starting 
+an application.  Resources available to assist Sailors include but are not 
+limited to their CPPAs, Personal Financial Managers (PFM) at the local Fleet 
+and Family Support Center (FFSC), and their command financial specialists 
+(CFSs). Additional resources can be found at: 
+https://www.mynavyhr.navy.mil/References/Pay-Benefits/. 
+ 
+7.  Application Process: 
+    a.  Sailors may submit an application whether or not they have been 
+notified as potentially eligible for BNA. 
+    b.  Sailors in IET cannot submit an application until they have arrived 
+at the first PDS after completion of all required training at any location, 
+including training locations that are considered a PDS. 
+    c.  Sailors in receipt of separation orders may not apply for BNA. 
+    d.  Applications will be submitted to NPPSC via eCRM or sent via email 
+using nppsc-audit@us.navy.mil if eCRM is not available at the command.  This 
+application should be in a single .pdf file and must include the following: 
+        (1) Completed application cover sheet signed by the CPPA or other 
+designated verifying official and endorsed by the CO. 
+        (2) Supporting documentation to confirm GHI in line with the 
+definition of GHI in section g.2 of reference (b). 
+        (3) Copy of NAVPERS 1070/613 screening notification, if applicable. 
+    e.  Additional GHI considerations are described in paragraph 3.4.b.(8) 
+and (9) of reference (b). 
+    f.  Sailors are encouraged to seek assistance during the application 
+process.  Personnel available to assist with the application include but are 
+not limited to CPPAs, PFMs at the FFSC, and CFSs. 
+ 
+8.  Application Adjudication.  NPPSC is the adjudicating authority for BNA 
+applications.  Adjudication will occur within 30 days of receipt of a 
+complete, verified application endorsed by the CO. NPPSC will adjudicate 
+applications as certified, ineligible, or incomplete, and will provide a 
+detailed explanation of the outcome via eCRM or e-mail. 
+    a.  Correspondence to Sailors will be expeditiously retrieved from eCRM 
+or e-mail by the command and delivered to the Sailor.  The Sailor is required 
+to initial the correspondence next to their name to confirm receipt. 
+    b.  If an application is adjudicated as certified, BNA is effective on 
+the date of certification and first payment will be made within 30 
+days.  Counseling requirements listed in paragraph 3.7.c of reference (b) 
+will be explained in the certification notification letter to the Sailor. 
+    c.  NPPSC will maintain documentation, disaggregated by month, of all 
+items listed in paragraph 3.5.f of reference (b). 
+ 
+9.  Special BNA Eligibility Considerations.  See paragraph 3.2.c of reference 
+(b).  BNA will terminate 60 days after Sailors become ineligible due to their 
+monthly GHI, when annualized, exceeding 150 percent of the previous year 
+FPG.  For example, a Sailor that receives a promotion and becomes ineligible 
+for BNA due to the pay increase, will continue to receive BNA at the 
+previously calculated rate for 60 days after the date of promotion. 
+ 
+10.  Computation of Allowance.  Monthly BNA payment is equal to 1.5 times the 
+most recently published annual FPG for the CY during which the allowance is 
+paid based on the Sailor household size, minus the Sailor's GHI during the 
+previous calendar year, divided by 12.  A sample BNA payment computation and 
+information on BNA proration for periods of duty under 30 days are found in 
+Figure 1 and paragraph 3.6.c of reference (b), respectively. 
+ 
+11.  Recertification Requirements: 
+    a.  In line with paragraph 3.7.b of reference (b), for Sailors receiving 
+BNA, recertification by NPPSC is required if any of the following occur: 
+        (1) 12 months has elapsed since their BNA was last certified. 
+        (2) Their monthly, recurring GHI increases by $150 or more per month. 
+        (3) The number of dependents in their household changes. 
+    b.  If GHI increases by $150 or more per month due to changes other than 
+military compensation, Sailors receiving BNA are responsible to notify NPPSC 
+via their CPPA through eCRM or email within 60 days.  NPPSC will monitor 
+changes in military compensation and will recertify eligibility when military 
+compensation increases. 
+        (1) GHI changes that require notification to NPPSC will be submitted 
+to NPPSC using the GHI update document described in paragraph 13.  A new 
+application is not required when providing routine GHI updates. 
+        (2) Failure to notify NPPSC within 60 days of a qualifying GHI change 
+may result in termination of BNA eligibility and recoupment of any 
+overpayment. 
+        (3) GHI updates do not require CO endorsement.  CO endorsement is 
+required for applications only. 
+    c.  NPPSC will automatically recertify and recalculate BNA payments due 
+to changes in military compensation or number of dependents of a 
+participating Sailor as long as DEERS is current and updated by the 
+Sailor.  NPPSC will provide an updated adjudication via eCRM or email 
+detailing any changes to BNA status. 
+    d.  No later than 10 January each year, Sailors receiving BNA will submit 
+a GHI update document with substantiating documentation to NPPSC to establish 
+their previous CY GHI. 
+ 
+12.  Reserve Component (RC).  Members of the RC on Active Duty as defined in 
+Section 101 of Title 37, U.S.C. may apply for BNA if otherwise eligible.  For 
+purposes of BNA, if the Active Duty orders are for temporary duty, the PDS is 
+the Navy Reserve Center to which the member is assigned.  If the active duty 
+orders involve a PCS, the new PDS location is used for purposes of BNA. 
+ 
+13.  BNA Documents.  Specific tools and templates are required to be utilized 
+during the screening, notification, and application processes.  All items can 
+be found here:  https://www.mynavyhr.navy.mil/References/Pay-Benefits/. 
+    a.  The following document templates are required to be used in the 
+execution of BNA: 
+        (1) NAVPERS 1070/613.  Utilized for all official notifications once a 
+Sailor is screened as potentially eligible. 
+        (2) Application Cover Sheet.  Required to be utilized for application 
+submission to NPPSC via eCRM or email. 
+        (3) GHI Update Document.  Submitted by Sailors receiving BNA when 
+criteria are met as described in paragraph 11.b and by 10 January each CY. 
+        (4) BNA Monthly Report.  Units will submit the reporting template 
+monthly via eCRM or email no later than the fifth day each month with total 
+number of Sailors notified of potential eligibility.  No report is required 
+if no Sailors were notified. 
+ 
+14.  This NAVADMIN will remain in effect until superseded or canceled, or 31 
+July 2028, whichever occurs first.  POC for BNA policy is the Military Pay 
+and Compensation Policy Branch (OPNAV N130).  OPNAV N130 can be reached via 
+email at NXAG_N130C@navy.mil. 
+ 
+15.  Released by Ms. Lisa M. St. Andre, Acting N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

@@ -1,0 +1,55 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 101520Z JUL 23 MID120000291471U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 153/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUN// 
+ 
+SUBJ/2023 ANNUAL DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER AWARD CALL 
+FOR NOMINATIONS// 
+ 
+REF/A/DOC/DOD CIO/15JUNE2023// 
+NARR/REF A IS THE 2023 DOD CIO AWARDS PROGRAM GUIDANCE.// 
+POC/MERCADO/MIL/OPNAV N2N6D/EMAIL: HARVEY.A.MERCADO.MIL(AT)US.NAVY.MIL 
+/PHONE:  571-256-8291// 
+ 
+RMKS/1.  This NAVADMIN announces the call for nominations for the 2023 
+Department of Defense (DoD) Chief Information Officer (CIO) Awards Program 
+that recognizes individuals and teams for exceptional achievements in DoD 
+Information Technology (IT) and Digital Modernization, focused in the 
+following capabilities:  Cybersecurity;  information enterprise;  IT 
+optimization;  electromagnetic spectrum superiority;  command, control, and 
+communications;  IT and cyberspace resourcing and workforce; and Special 
+Access Program IT. 
+ 
+2.  The eligibility period is July 2022 to June 2023. 
+ 
+3.  Active duty service members (officers and enlisted) in the grade O-6 and 
+below or DoD civilians GS-15 and below are eligible.  Contractors may be 
+recognized as part of a team, if led by military or DoD civilian. 
+ 
+4.  Submission requirements are outlined in reference (a), located in the 
+folder 'Guidance' at  
+https://dodcio.sp.pentagon.mil/sites/Collaboration/Awards/ProgramDocuments/Fo
+rms/AllItems.aspx. 
+Nomination packages must be unclassified and submitted to LT Harvey Mercado 
+at harvey.a.mercado.mil(AT)us.navy.mil no later than 23 July 2023 for 
+processing.  Nominations received after 23 July 2023 will not be considered, 
+and those submitted directly to DoD CIO will be rejected.  Ensure you use 
+bullet format and have input for each criteria element listed in reference 
+(a);  N/A is not acceptable. 
+ 
+5.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+ 
+UNCLASSIFIED// 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
