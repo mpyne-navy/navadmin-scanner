@@ -1,0 +1,151 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 141823Z JUL 23 MID120000297181U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 156/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JUN// 
+ 
+SUBJ/FLANK SPEED CONTINUED JOURNEY// 
+ 
+REF/A/MSG/OPNAV N2N6/071910ZFEB22// 
+REF/B/DOC/SECNAV/26JUL22// 
+ 
+NARR/REF A IS NAVADMIN 030/22 THAT PROVIDED AN OVERALL FLANK SPEED UPDATE 
+DURING FY22. REF B IS THE DEPARTMENT OF DEFENSE INSTRUCTION 5200.48 ON 
+CONTROLLED UNCLASSIFIED INFORMATION. 
+ 
+POC/ANDREJ STARE/CIV/OPNAV N2N6D2D3/TEL: (571) 256-8283 
+/EMAIL: ANDREJ.P.STARE.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN provides updates to the latest Flank Speed 
+capabilities and efforts since the last update provided in reference (a).   
+As we continue to enhance users' experience, we ask for the Flank Speed 
+community, from the top-down, to embrace the vast capabilities offered.   
+Continue to leverage the information and training available on the Flank 
+Speed HUB and provide feedback to help drive our future capabilities. 
+ 
+2.  Flank Speed (FS) guidance, account management, infrastructure updates, 
+and collaboration capabilities. 
+    a.  The FS community is reminded of their responsibility to protect their 
+personal data and Controlled Unclassified Information (CUI) per reference 
+(b).  Site and Teams owners are responsible for protecting hosted CUI.  For 
+additional CUI guidance and restrictions, users can access the CUI Primer 
+site that is available on the FS Hub's Self Service and Support Page.  In 
+addition, users can visit the Department of the Navy (DON) Chief Information 
+Officer website for DON guidance on CUI 
+(https://www.doncio.navy.mil/ContentView.aspx?id=13349). 
+    b.  Account Management: 
+       (1)  FS Account Services Tool (FsAST).  The Move, Add, Change/Naval 
+Enterprise Cloud Service Tool was replaced by FsAST to manage FS accounts.   
+Claimant Contract Technical Representatives (CTRs), or other authorized 
+account managers, can use FsAST to request new accounts, service changes, and 
+command transfers. Contact the FsAST Team for submission and processing 
+questions at FsAST(at)us.navy.mil and for application support at FsAST- 
+Support(at)us.navy.mil. 
+       (2)  Non-Person Entity (NPE) Accounts.  CTRs or account managers can 
+request NPE accounts through FsAST.  Examples of NPE accounts are email 
+distribution lists or shared mailboxes.  The accounts are provisioned in 
+Defense Enterprise Provisioning Online and require the utilization of Defense 
+Instruction System Agency's naming convention.  For a copy of the NPE naming 
+convention template, or for additional guidance, contact the FsAST Team. 
+        (3)  Account Disablement.  Common causes for account disablements are 
+Common Access Card (CAC) revocations, tenant entitlement changes (i.e., 
+moving from Navy to Army), or cybersecurity network violations per DoDI 
+8170.01.  If account issues are preventing users from accessing FS, they need 
+to contact their Command Information Technology Support Staff, Information 
+Systems Security Manager, FS Champion Representative, or Service Desk for 
+support. 
+    c.  Infrastructure and Application Updates: 
+        (1)  Navy Marine Corps Intranet (NMCI) 'H' Drive and scan storage.   
+Users' personal NMCI 'H' Drives are scheduled for decommission; however, the 
+formal decommission dates are to be determined at this time.  Customers are 
+encouraged to move all files from their 'H' drive to their FS OneDrive.  A 
+list of blocked file types can be accessed via FathomBot.  Customers can 
+still scan files to their personal drives until the implementation of a final 
+scan to file solution. 
+        (2)  SharePoint Online (SPO).  Over 146,000 sites have migrated to 
+FS.  Site Collection Administrators (SCAs) are reminded to maintain the 
+material on their SPO sites current. 
+             (a)  Guest customers who cannot view SPO sites should ask their 
+SCA to validate their external sharing setting.  The setting should be set to 
+'on' in order to view SPO sites. 
+             (b)  SharePoint Framework (SPFx) applications at the site 
+collection are approved for use by SPO developers in FS. 
+        (3)  The Power Platform, a suite of tools that enable customers to 
+create automated workflows, data visualizations, and applications, will be 
+available to all customers on the network, using a virtual private network 
+(VPN) or from home without a VPN, starting 1 June 2023.  Click here to learn 
+more about the efficiencies the Power Platform delivers and how it can 
+support mission objectives: https://flankspeed.sharepoint-
+mil.us/sites/NAVWAR_PWR_Nexus. 
+    d.  Collaboration Capabilities.  Explore and leverage the vast 
+capabilities to collaborate in FS.  Navigate to 
+https://portal.apps.mil to see the suite of available applications. 
+Allow and make time to save time, innovate, and grow. 
+        (1)  Department of Defense (DoD) Cross-Tenant Collaboration and Guest 
+Communication is available in Teams by utilizing the full email address of 
+the DoD or Commercial M365 customers to chat and call across tenants.  Guides 
+are available on the FS Hub's Self Service and Support Page that detail how 
+to use cross-tenant capabilities. 
+        (2)  Mark all Teams and Groups Private during setup.  Public teams 
+must be approved by the echelon II and can be requested via the FS Hub. 
+        (3)  Teams meetings can be recorded with transcriptions. 
+Recordings are automatically deleted after 60 days if not adjusted by the 
+customer. 
+  (4)  Nautilus Virtual Desktop (NVD) is the Navy's Virtualized Desktop 
+Solution set.  NVD is currently scaling up to 50,000 customers in order to 
+further analyze use cases, cloud consumption, and workforce resiliency it 
+delivers.  NVD can be used from any compatible device, any network, and 
+without the need of a VPN connection.  No data ever resides on the endpoint 
+device when using NVD; this removes potential for a data spillage to occur 
+from NVD to a personal, company, or kiosk device.  Contact the Command FS 
+representative to obtain access to NVD. 
+ 
+3.  The FS Hub is the centralized location for related documentation, 
+guidance, policy, and support 
+(https://flankspeed.sharepoint-
+mil.us/sites/Flank_Speed_Hub/SitePages/Home.aspx). 
+  The FS Hub will provide customers with: 
+    a.  The Capabilities Roadmap that shows completed and targeted 
+capabilities for the current fiscal year. 
+    b.  The Dashboards site that provides various FS data metrics. 
+Users who have a Power BI report that can benefit the larger FS community are 
+encouraged to submit an online intake form on the Dashboards site so it can 
+be shared with the larger FS community. 
+    c.  The Digital Suggestion Box, which is a feedback mechanisms to guide 
+future services and support. 
+    d.  The Records Management Hub for training, guidance, and announcements. 
+    e.  The SPO Information Hub for CUI guidance and SPO Ticketing System. 
+    f.  Self Service and Support resources like FathomBot, "How To" guides, 
+tips, video tutorials, policies, governance, and more. 
+    g.  Weekly live training and events on the Virtual Training calendar. 
+    h.  FS Evolve 365 learning portal that offers on-demand self-help 
+training with thousands of 'snackable' videos and guidance. 
+    i.  The FS Hub community page that connects our workforce with 
+communities of common interest, such as, Coffee with a Customer Engineer to 
+discuss common issues, Co-Developers Team, Power Platform Team, Innovation 
+Team, FS Training Team, Navy Section 508 Team, Outside the contiguous United 
+States Champion Network, and Navy Champion Network (NCN) who are 
+collaborative, supportive, forward leaning, and resourceful. 
+ 
+4.  Get Real, Get Better (GRGB).  Our efforts aim to improve the customer 
+experience and close the gap on commercial parity.  The Voice of the Customer 
+will help lead our actions towards GRGB as noted in the CNO's remarks 
+https://www.navy.mil/Resources/Blogs/Detail/Article/2894808/get-real-get-
+better/. 
+ 
+5.  This NAVADMIN will remain in effect until cancelled or superseded, 
+whichever occurs first. 
+ 
+6.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
