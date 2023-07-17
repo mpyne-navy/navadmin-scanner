@@ -129,8 +129,8 @@ while (my $url = shift @navadmin_urls) {
         # Save file to disk
         say "Downloaded $name";
         $metadata->{$shortname} //= { };
-        $metadata->{dl_date} = time;
-        $metadata->{dl_url}  = $url->to_string;
+        $metadata->{$shortname}->{dl_date} = time;
+        $metadata->{$shortname}->{dl_url}  = $url->to_string;
 
         $result->save_to($name);
     }
