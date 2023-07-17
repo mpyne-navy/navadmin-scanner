@@ -1,0 +1,40 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 171404Z JUL 23 MID120000301854U
+FM CNO WASHINGTON DC//DNS//
+TO NAVADMIN
+BT
+UNCLAS
+ 
+NAVADMIN 157/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/50TH ANNIVERSARY OF WOMEN IN MILITARY CHAPLAINCY//
+
+RMKS/1.  On 2 July 1973, Rev. Dianna Pohlman was commissioned as a Navy 
+Chaplain.  The Navy was the first of all our nation's Armed Forces to open 
+military chaplaincy to women.
+
+2.  Over the last fifty years, the women of the Chaplain Corps have 
+distinguished themselves in war and peace.  Their devotion to the spiritual 
+readiness of Sailors, Marines, and Coast Guardsmen, even when facing 
+discrimination, represents the best of our nation.
+
+3.  The Chaplain Corps, and our Navy, are stronger and more ready for the 
+fight when we represent the incredible diversity of our nation.  Please join 
+me in honoring the women of the Chaplain Corps for fifty years of faithful 
+service.
+
+4.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+Rear Admiral Gregory Todd, Chief of Chaplains.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
