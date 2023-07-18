@@ -1,0 +1,73 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 181818Z JUL 23 MID120000305485U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 158/23
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/JUL//
+
+SUBJ/POLICY FOR ACTIVATION AND EMPLOYMENT OF RESERVE COMPONENT FORCES IN FY24 
+AND BEYOND//
+
+REF/A/DOC/SECNAV/30JAN2023//
+REF/B/MSG/OPNAV/012005ZFEB23//
+REF/C/DOC/-/TITLE 10 U.S.C.//
+
+NARR/Reference (a) is SECNAV Memo of 30JAN2023, which expands the ability to 
+access Reserve Component (RC) Sailors for involuntary activation.  
+Reference (b) is NAVADMIN defining employment policy for Reserve Component 
+forces in FY23.   
+Reference (c) is Title 10 U.S.C.
+
+RMKS/1. This NAVADMIN defines policy for the activation and employment of 
+Reserve Component (RC) forces, IAW reference (a).
+This updated policy replaces reference (b) and provides guidance to the Force 
+for utilization and fulfillment of Individual Augmentation (IA) requirements. 
+This guidance will remain in effect indefinitely, or until canceled or 
+superseded.
+
+2. Policy. A Total Force sourcing policy enables the Navy's flexible response 
+to global crisis, while supporting the RC focus on growing capacity and 
+capability to compete in a high-end conflict. RC sourcing for Total Force 
+requirements will continue primarily via volunteer IAs, while a small percent 
+of non-volunteer activations may be required. When necessary, involuntary 
+activation of SELRES members will be accomplished through billet-based 
+activation (BBA) in accordance with the guidance contained in reference (a). 
+BBA requires Sailors' IA mobilization billets to be an exact or substantial 
+match for the duties and responsibilities for which SELRES are assigned or 
+trained. Selection workflow as described ensures RC Sailors maintain currency 
+for strategic competition either by fulfilling IA requirements that 
+contribute substantially to maintaining their specific billet or core 
+capability skills, thereby providing training and experience for RC Sailors, 
+and ultimately enhancing warfighting readiness. The Navy's policy for Total 
+Force sourcing ensures non-volunteer activations are both limited, and 
+contribute to Sailors' warfighting readiness within the context of Strategic 
+Competition if enacted.
+
+3. RC personnel are authorized and highly encouraged to volunteer for 
+mobilization opportunities. Volunteer activations will continue to be viewed 
+favorably for promotion and advancement, as directed in selection board 
+convening orders and precepts.
+
+4. In addition to mobilizations, the RC provides support to Total Force 
+missions via voluntary Active Duty for Operational Support (ADOS), Active 
+Duty for Training (ADT), and Definite Recalls. AC commands may plan and 
+budget for continued and expanded application of these order types to access 
+additional RC support.
+
+5. POC, E-MAIL, COM: CDR Ernest Jessop (OPNAV N0955), 
+ernest.k.jessop.mil@us.navy.mil, (703) 695-9339.
+
+6. Released by Vice Admiral John Mustin, OPNAV N095, Chief of Navy Reserve.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
