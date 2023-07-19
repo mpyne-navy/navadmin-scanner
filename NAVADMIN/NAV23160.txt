@@ -1,0 +1,134 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 191622Z JUL 23 MID120000309006U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 160/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SELECTED RESERVE ADVANCEMENT TO WARFIGHTING POSITIONS PROGRAM PHASE I//
+
+REF/A/DOC/SECNAV//30JAN23//
+REF/B/DOC/USC//1JAN21//
+REF/C/MSG/CNO WASHINGTON DC/012005ZFEB23//
+REF/D/DOC/BUPERS/07FEB22//
+
+NARR/REF A IS SECNAV MEMO, POLICY REGARDING INVOLUNTARY MOBILIZATION OF 
+RESERVE PERSONNEL FOR INDIVIDUAL AUGMENT REQUIREMENTS.  REF B IS TITLE 10 
+U.S. CODE.  REF C IS NAVADMIN 018/23, POLICY FOR ACTIVATION AND EMPLOYMENT OF 
+RESERVE COMPONENT FORCES.  REF D IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL 
+FOR ENLISTED PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.//
+
+RMKS/1.  This NAVADMIN announces the implementation of the Advancement to 
+Warfighting Positions (A2WP) Program Phase I for enlisted Selected Reserve 
+(SELRES) Sailors.  Future A2WP Phases will be announced in subsequent 
+NAVADMIN messages.
+
+2.  Background.  Reference (a) directs Total Force sourcing of individual 
+augmentation (IA) requirements through Service policies that implement 
+careful management of SELRES mobilizations within reference (b) authorities.  
+In line with reference (c), Reserve Component (RC) Sailors are authorized and 
+highly encouraged to volunteer for mobilization opportunities.  These 
+activations will continue to be viewed favorably for career development and 
+advancement.  In that spirit, A2WP serves as a tangible incentive to 
+encourage volunteers for critical mobilization requirements, coupling 
+permanent advancements with select activations.
+
+3.  Policy.  E-4 and E-5 SELRES Sailors who meet all eligibility requirements 
+for advancement to the next higher paygrade (e.g., commanding officer's 
+recommendation, time-in-rate, professional military knowledge eligibility 
+exam, etc.) can apply in ZipServe for select mobilization requirements one 
+paygrade higher than their current rank.  These select mobilization 
+requirements will be clearly labeled as authorized for the A2WP Program in 
+the general remarks section of the advertisement in ZipServe.  If selected 
+for the mobilization, Sailors will permanently advance to the next higher 
+paygrade upon reporting to the ultimate duty station in line with their 
+mobilization orders.  Their time-in-rate date will be established in line 
+with reference (d).
+     a.  Selected Sailors must obligate through extension or reenlistment to 
+complete 36 months of service within 60 days prior to their activation start 
+date.  Any Sailor with an end of obligated service date that already matches 
+or exceeds the duration of this requirement is not required to incur 
+additional service.
+     b.  Selected Sailors must sign an Administrative Remarks (NAVPERS 
+1070/613) acknowledging that they will be reassigned to a SELRES Inactive 
+Duty Training (IDT) billet commensurate with their new paygrade within six 
+months after demobilization.  They will have the ability to apply for 
+available IDT billets in MyNavy Assignment after demobilization.
+     c.  Sailors who are unable to complete the training track en route to 
+the mobilization ultimate duty station will no longer be eligible for 
+advancement under this program.  Sailors who are re- missioned to another 
+mobilization requirement before reporting to their original ultimate duty 
+station due to no fault of their own will maintain A2WP eligibility and 
+permanently advance to the next higher paygrade upon reporting to their 
+ultimate duty station in line with their revised mobilization orders.
+
+4.  A2WP Quotas.  The number of A2WP quotas available depends on the number 
+of annual IA requirements tasked by U.S. Fleet Forces Command to the Navy 
+Reserve and the community health of corresponding SELRES ratings.  With 
+support from the Director, Military Personnel Plans and Policy (OPNAV N13), 
+A2WP quotas will be established by the Chief of Navy Reserve at least 
+annually.
+
+5.  Selection Criteria.  Commander, Navy Reserve Force Command
+(CNRFC) will establish A2WP applicant selection criteria and implement a 
+selection process to select the best and fully qualified applicants while 
+meeting timely IA sourcing requirements.  More information will be posted on 
+the MyNavy Reserve Homeport at
+https://private.navyreserve.navy.mil/cnrfc/n-codes/N3/pages/n35_home.aspx.  
+Navy Reserve Centers and Navy Reserve Activities maintain responsibility for 
+ensuring that assigned SELRES Sailors meet advancement eligibility 
+requirements.
+
+6.  Additional Responsibilities.  Navy Training and Administration of the 
+Reserves (TAR) Detailing Branch (PERS-46), will ensure that mobilization 
+orders for A2WP-selected Sailors include appropriate instructions for the 
+ultimate duty stations and supporting Transaction Service Centers or Regional 
+Support Centers to process advancements.  CNRFC will track and support 
+mobilized Sailors'
+advancements associated with the A2WP Program.
+
+7.  Other Incentives.  This program is designed to supplement and not replace 
+other incentive programs.  As such, Sailors selected for A2WP will maintain 
+eligibility for other monetary and non-monetary incentives to which they 
+would be otherwise entitled in line with applicable authorities and 
+instructions.  If necessary, OPNAV N13 will adjudicate exceptions to Navy 
+policy required to meet the intent of this program.
+
+8.  Points of Contact:
+a.  For advancement eligibility questions, Sailors should contact their Navy 
+Reserve Center or Navy Reserve Activity educational services officer.
+     b.  For specific rate, rating, and Navy enlisted classification 
+questions and concerns, Sailors should contact their respective community 
+manager.
+     c.  For mobilization eligibility questions, contact CNRFC (N35) at 
+navresfor_cnrfc_n35@us.navy.mil.
+     d.  For A2WP policy questions, contact CDR Brad Smith, Reserve Policy 
+Branch (OPNAV N13R), (703)604-5102 or via e-mail at 
+david.b.smith24.mil@us.navy.mil.
+
+9.  This NAVADMIN will remain in effect until superseded or canceled.
+
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
