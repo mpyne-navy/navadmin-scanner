@@ -1,0 +1,68 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 201324Z JUL 23 MID120000312001U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 161/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SPECIAL LEAVE ACCRUAL POLICY CHANGES//
+
+REF/A/DOC/USC/23DEC22//
+REF/B/DOC/DOD/16JUN09//
+REF/C/DOC/COMNAVPERSCOM/22JAN10//
+REF/D/DOC/COMNAVPERSCOM/25SEP18//
+
+NARR/REF A IS TITLE 10 U.S.C., SECTION 701.  
+REF B IS DEPARTMENT OF DEFENSE INSTRUCTION 1327.06, LEAVE AND LIBERTY POLICY 
+AND PROCEDURES.  
+REF C IS MILPERSMAN 1050-070, SPECIAL LEAVE ACCRUAL.
+REF D IS MILPERSMAN 7220-340, LUMP SUM PAYMENT FOR ACCRUED LEAVE.//
+
+RMKS/1.  This NAVADMIN announces upcoming changes to Special Leave Accrual 
+(SLA) policy mandated by reference (a).  The most impactful of the upcoming 
+changes is that Service Members will lose any SLA leave in excess of 90 days 
+(vice 120 days) on September 30, 2023 unless they had more than 90 days of 
+SLA leave on the books on December 31, 2022.  Other anticipated changes are 
+that SLA leave will only be held for up to two years (vice three years) and 
+that the first flag officer in the chain of command will need to approve SLA 
+leave accrual in most cases.
+
+2.  Reference (b) will be updated to reflect the specifics of the new 
+requirements soon and will be announced in a separate NAVADMIN.
+This notice is intended to allow affected Service Members time to use the 
+leave they have earned.  Unit commanders should continue to minimize the loss 
+of leave within the constraints of operational requirements.
+
+3.  Point of contact for this matter is Pay and Allowances (OPNAV N130C), at 
+(703) 604-5475/DSN 664, or via e-mail at nxag_n130c(@)navy.mil.  Additional 
+information can be found at https://www.mynavyhr.navy.mil/References/Pay-
+Benefits/N130C/.
+
+4.  This NAVADMIN will remain in effect until superseded or cancelled.  
+Updates to references (c) and (d) to reflect changes to SLA leave policy will 
+be released at a later date.
+
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
