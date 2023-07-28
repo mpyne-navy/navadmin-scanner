@@ -1,0 +1,195 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 281333Z JUL 23 MID120000331985U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO SECNAV WASHINGTON DC 
+CNO WASHINGTON DC 
+SSO NAVY WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 169/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL// 
+ 
+SUBJ/ U.S. NAVY SPECIAL SECURITY OFFICE SENSITIVE COMPARTEMENTED INFORMATION 
+(SCI) POLICY AND SCI FACILITY (SCIF) OPERATIONS// 
+ 
+REF/A/DOC/SECDEF MEMO/30JUN2023// 
+REF/B/DOC/DODM 5200.01 V-3/19MAR2013// 
+REF/C/DOC/DODM 5105.21 V-2/19OCT2012// 
+REF/D/DOC/SECNAVINST 5510.30C/24JAN2020// 
+REF/E/DOC/SECNAV-M 5510.36B/12JUL2019// 
+REF/F/DOC/ICD 705/23APR2012// 
+REF/G/DOC/ICD 702/26AUG 2022// 
+REF/H/DOC/DIA MSG/DTG 111726ZMAR2019// 
+REF/I/DOC/SSO NAVY NISPD/001-23/DTG 301806ZJAN2023// 
+ 
+NARR/REF A DIRECTS SECURITY REVIEWS AND FOLLOW-ON ACTIONS TO IMPROVE COMMAND 
+ACCOUNTABILITY OF CLASSIFIED NATIONAL SECURITY INFORMATION (CNSI).   
+REF B PROVIDES DOD INFORMATION SECURITY PROGRAM MANAGEMENT AND GUIDANCE.   
+REF C PROVIDES SCI POLICY GUIDANCE SPECIFIC TO THE PROTECTION OF CNSI AND 
+SCIF OPERATIONS.   
+REFS D AND E ARE THE DON POLICY AND GUIDANCE FOR COMMADER'S IMPLEMENTATION OF 
+THE PERSONNEL SECURITY AND INFORMATION SECURITY PROGRAMS.   
+REF F GOVERNS THE TECHNICAL SPECIFICATIONS FOR CONSTRUCTION AND MANAGEMENT OF 
+SCIFS. 
+REF G ESTABLISHES POLICY THAT INTEGRATES, ENHANCES, AND OPTIMIZES THE IC 
+TECHNICAL SECURITY AND SIGNALS COUNTERMEASURES (TSSC) PROGAM. 
+REF H IS THE DIA SUPPLEMENT ESTABLISHING TECHNICAL COUNTERMEASURE REVIEW 
+(TCR) PROCESSING STANDARDS.   
+REF I PROMULGATES DIRECTOR OF NAVAL INTELLIGENCE/NAVY HEAD OF INTELLIGENCE 
+COMMUNITY ELEMENT DIRECTION TO REQUIRE INSTALLATION OF RADIO FREQUENCY (RF) 
+SHIELDING FOR ALL NEW CONSTRUCTION/RENOVATION OF DON SCIFS.// 
+ 
+POC/MR. BENJAMIN HULBERT/CIV/NIA N7/ARLINGTON VA/TEL: (703) 604-6136/ 
+EMAIL: BENJAMIN.D.HULBERT.CIV(AT)US.NAVY.MIL/SCIF MANAGEMENT// 
+POC/MR. GLENN CLAY/CIV/NIA N7/ARLINGTON VA/TEL: (703) 604-6121/ 
+EMAIL: GLENN.E.CLAY.CIV(AT)US.NAVY.MIL/SCI POLICY/SETA// 
+ 
+RMKS/1.  This NAVADMIN identifies several actions aimed at increasing 
+Sensitive Compartmented Information (SCI) security and security awareness; 
+and reinforcement of existing and emerging SCI facility (SCIF) security and 
+requirements.  Reference (a) directed several actions, as part of a wide-
+ranging security review, to ensure individual and collective accountability 
+for Classified National Security Information (CNSI).  Commanders and Heads of 
+DON Activities (herein referred to as Commanders) should review reference (a) 
+and examine current procedures and readiness to identify adjustments that 
+improve Navy's security posture. 
+ 
+2.  Commanders are responsible for overall management, functioning, and 
+effectiveness of their SCI Information Security Program (ISP). References are 
+provided to assist commands in understanding authorities and responsibilities 
+regarding the security of CNSI, Navy Special Security Office (SSO) 
+authorities and responsibilities, ISP awareness, Personally Owned Portable 
+Electronic Device (P-PED) use in SCIFs, and evolving radio-frequency (RF) 
+shielding/TEMPEST Countermeasure requirements. 
+ 
+3.  Per reference (a) through (e), the Deputy Chief of Naval Operations for 
+Information Warfare (DCNO N2N6)/Director of Naval Intelligence (DNI)/Navy 
+Head Intelligence Community Element (HICE) has overall responsibility for the 
+implementation and oversight of the Navy SCI Security Program.  Special 
+Security Office, Navy (SSO Navy) is designated the Cognizant Security 
+Authority (CSA) for the Department of the Navy (DON) and is responsible for 
+the security management, implementation, and oversight of DON's SCI security 
+program (Secretariat, Navy, and Marine Corps). 
+ 
+4.  Personnel Security.  As the responsible security authority, Commanders 
+must ensure all personnel have a valid and appropriate security clearance, 
+have executed an appropriate non-disclosure agreement, and have a valid need 
+to know before allowing access to CNSI at any level.  Command implementation 
+of "need to know" principles is essential to ensuring the security of 
+CNSI.  No individual shall be deemed to have a need to know solely by virtue 
+of grade, title, position, or clearance level.  Further, when a person with a 
+previously established need to know changes position or status, the 
+requirement must be re-validated or access removed. 
+    a.  Per reference (a), Commanders are responsible to ensure that all 
+cleared Navy personnel are included and accounted for in the Defense 
+Information System of Security (DISS) (DoD's designated system for tracking 
+personnel clearences) by 31 August 2023. 
+    b.  Per reference (a), Commanders, with their Command Security Manager, 
+will conduct a comprehensive review of assigned personnel against their 
+Security Management Office (SMO) code list contained within DISS, ensuring 
+each individual is accounted.  Upon completion, commands will validate to the 
+RSSO that all cleared Navy personnel are assigned to the appropriate SMO Code 
+by 31 August 2023, annotating necessary changes to the list. 
+    c.  Per reference (a), Commanders at all levels who manage personnel that 
+are not in Intelligence Community billets but require continuing access to 
+SCI will review and revalidate the continuing need for their personnel to 
+have access to SCI and ensure that those personnel have a valid SCI non-
+disclosure agreement on file with their assigned Regional SSO (RSSO) by 30 
+September 2023. 
+ 
+5.  Information Security.  Commanders who manage SCIFs are responsible for 
+protecting CNSI maintained in that SCIF.  Commanders must have an established 
+system of security checks performed at the close of each duty day and 
+implement random entry and exit security searches of personal belongings in 
+SCIFs on a routine basis to protect unauthorized or accidental removal of 
+CNSI from the SCIF. Commanders will ensure hand carrying of classified 
+material is minimized to the greatest extent possible per established 
+procedures and policy and does not pose unacceptable risk to the information. 
+    a.  Commanders must approve, in writing, all equipment used to reproduce 
+CNSI and post the approval in a conspicuous location. Commanders will ensure 
+activity security procedures are in place to appropriately safeguard CNSI 
+that may be retained in copiers, facsimile machines, computers, other IT 
+peripherals, and display systems. 
+    b.  Commanders are responsible to ensure prompt and appropriate 
+management, mitigation, and investigative action is taken in cases of 
+compromise, unauthorized disclosure, or loss of classified information or 
+Controlled Unclassified Information (CUI). Commanders or security personnel 
+shall report any violation of reference (e) or loss or compromise of 
+classified information or CUI, as determined by a security inquiry, 
+preliminary inquiry, or command investigation, to DISS.  Commanders will 
+advise their ISIC of compromises within their area of security responsibility 
+or assigned personnel.  If you do not have security cognizance over the 
+incident, ensure the incident is reported to the appropriate authority, to 
+include forwarding the incident to your Command SSO, Navy RSSO, and SSO Navy. 
+    c.  Personally-owned portable electronic devices (P-PED) (such as 
+wireless phones of any type, any wireless technology, and/or smart watches), 
+including fitness tracking devices (such as FITBITS, rings, and other fitness 
+tracking devices), pose an unacceptable risk to CNSI.  Per references (a), 
+(b), (c) and (f), Navy SCI security policy prohibits the introduction into a 
+SCIF of any P-PED that contains embedded modems, cameras, microphones, or any 
+capability to electronically record, store, and/or transmit data, text, 
+images, video, or audio data.  Electronic medical devices, including but not 
+limited to implanted medical devices (e.g. pacemakers, electronic nerve 
+stimulators), hearing aids, insulin pumps, blood glucose monitors, and 
+supporting equipment may be permitted in a DON SCIF with approval from their 
+Navy RSSO. Requests for wear or use of electronic medical devices will be 
+considered upon receipt of orders from a physician.  It is the responsibility 
+of all individuals who are SCI cleared and work in a SCIF to not allow the 
+introduction of unauthorized P-PEDs into SCIFs.  The unauthorized 
+introduction of a P-PED into a SCIF will be deemed a security incident and 
+can result in the loss of access to a DON SCIF and/or SCI. 
+ 
+6.  SCIF Physical Security.  Accordingly to the Department of State Security 
+Environment Threat List and the National Security Agency Information 
+Assurance Technical Capabilities Report, over the past five years the 
+technical threat level has increased across a number of categories due to 
+advances in technology.  These threats seek and take advantage of SCIF 
+vulnerabilities, requiring an increased technical security posture to protect 
+CNSI.  Enhancements, captured in references (g) and (h), to existing and 
+future SCIFs are required to defeat this growing threat.  Per reference (a), 
+Commanders will ensure that all accredited SCIFs comply with the requirements 
+in reference (f).  SSO Navy or the Navy RSSO serves as a resource to assist 
+Commanders in implementing reference (f). 
+    a.  To ensure that SCIFs provide necessary security, reference (i) 
+requires the installation of an approved RF shielding product on all SCIF 
+perimeter surfaces (walls, floors, ceilings, windows, and doors) of new SCIF 
+construction projects or when DIA issues an update to the TEMPEST 
+Countermeasure Review (TCR) for an existing SCIF.  This includes SCIFs 
+previously accredited under Director of Central Intelligence Directive 6/9 
+standards.  This requirement also applies to collateral facilities under 
+consideration for conversion to a SCIF. 
+    b.  SCIFs that receive an updated TCR requiring RF shielding will submit 
+a Plan of Action and Milestone (POA&M) per references (h) and (i) for 
+submission to DIA using a standard memorandum format signed by the Command 
+Senior Intelligence Officer and routed through the local Navy RSSO and SSO 
+Navy.  The POA&M will provide a timeline and corrective actions to ensure 
+resolution of the TCR requirements. The POA&M will cover the expected 
+timeline for receipt of funding for the project, estimated project initiation 
+and completion dates, and temporary TEMPEST mitigations until the RF 
+shielding requirement is achieved.  Prior to the commencement of construction 
+of the SCIF, a Construction Security Plan must be approved by DIA, via the 
+Navy RSSO and SSO Navy. 
+    c.  Due to the anticipated costs of the new requirements, SSO Navy 
+strongly encourages all commands to survey their respective SCIF 
+accreditation and TCRs to determine if they fall under one of the situations 
+listed above that may require an application of TEMPEST countermeasures.   
+Commands identifying possible deficiencies should begin working with their 
+RSSO now to identify solutions and program for construction. 
+    d.  SCIFs with a DIA-approved POA&M and granted temporary TEMPEST 
+accreditation will not be authorized to install any wireless information 
+technology systems within the SCIF perimeter until applicable IC wireless 
+policies are approved by DIA. 
+ 
+7.  This NAVADMIN will remain in effect until cancelled or superseded. 
+ 
+8.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
