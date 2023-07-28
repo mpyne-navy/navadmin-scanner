@@ -1,0 +1,134 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 272200Z JUL 23 MID120000330589U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 168/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/NAVY-WIDE APPRENTICE (E1 - E4) ADVANCEMENT CHANGES//
+
+REF/A/DOC/BUPERS/07FEB22//
+REF/B/DOC/NPPSC/19FEB21//
+REF/C/MSG/CNO WASHINGTON DC/N1/161157ZJUL20//
+REF/D/MSG/CNO WASHINGTON DC/N1/311716ZMAY23//
+REF/E/DOC/COMNAVPERSCOM/01DEC22//
+REF/F/MSG/CNO WASHINGTON DC/N1/201449ZDEC18//
+
+NARR/REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS OPS ALERT 007-21 (PMK-EE).  
+REF C IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.  
+REF D IS NAVADMIN 131/23, FALL 2023 SELECTED RESERVE E-4 THROUGH E-6 
+ADVANCEMENT (CYCLE 113).  
+REF E IS MILPERSMAN ARTICLE 1510-033, GOVERNING ADVANCED ELECTRONICS FIELD, 
+ADVANCED TECHNICAL FIELD AND NUCLEAR FIELD RATINGS.  
+REF F IS NAVADMIN 312/18, ADVANCEMENT POLICY CHANGE.//
+
+RMKS/1.  This NAVADMIN changes apprentice (E-1 - E-4) advancements into a 
+time-in-service (TIS) based construct, effective 1 July 2024.
+This change will better regulate advancement through E-4 in order to provide 
+a solid foundation for billet based advancements (BBA) into the journeyman 
+ranks (E-5 and E-6).  It also provides a more predictable and transparent 
+advancement path to E-4 for all Sailors and ensures that every Sailor can be 
+in a position to make a re- enlistment decision as an E-4 prior to the end of 
+their initial obligated service.
+
+2.  As a modification to reference (a), all E-1 through E-4 advancements will 
+transition on 1 July 2024 to a TIS-based construct.  TIS requirements to 
+advance from E-1 through E-4 will be as follows:
+    a.  E-1 - E-2: 9 months TIS.
+    b.  E-2 - E-3: 18 months TIS.
+    c.  E-3 - E-4: 30 months TIS.
+
+3.  Eligibility.  The only two requirements to be eligible to advance E-1 
+through E-4 are to maintain a commanding officer's (CO) retention and 
+promotion recommendation and meet the required TIS.
+E-2 through E-4 advancements will be automatically effected by the Navy 
+Standard Integrated Personnel System (NSIPS).  This NAVADMIN removes all 
+other associated E-4 advancement eligibility criteria listed in references 
+(a) through (d), to include the requirement to complete E-4 Professional 
+Military Knowledge Eligibility Exam (PMK-
+EE) for any advancement program.  E-4 time-in-rate dates for advancement 
+eligibility to E-5 will be established based on advancement month to E-4.  
+For Selected Reserve (SELRES) Sailors, the effective date for purposes of TIS 
+is the pay entry base date.
+
+4.  Exclusions.  This new policy does not include nuclear, advanced 
+technical, and electronic field Sailors who already obligate for additional 
+service in order to advance to E-4.  Those Sailors will continue to receive 
+an accelerated advancement for service in those needed skill sets in line 
+with reference (e).  Additionally, Sailors in the Professional Apprenticeship 
+Career Track (PACT) program will continue to earn rating designations and 
+advancement to E-4 in line with PACT program requirements, with a timeline 
+that is similar to TIS-based advancements described above.
+
+5.  Meritorious Advancement Program (MAP).  MAP to E-4 will remain for top-
+performing Sailors that have necessary experience as an E-3.
+A specified number of quotas will be made available for COs to request to 
+advance those Sailors utilizing the MAP function of NSIPS.  Detailed guidance 
+will be provided in advance of each MAP season.  SELRES Sailors should refer 
+to the annual Reserve MAP ALNAVRESFOR messages for further guidance.
+
+6.  Sailors reduced in rate below E-4.  In order to advance, Sailors must 
+receive their CO's advancement recommendation and the member will be required 
+to serve six months at their reduced paygrade and any subsequent paygrades, 
+or meet required TIS gates (whichever is later).
+
+7.  Transition.  While this new TIS-based construct does not go into effect 
+until 1 July 2024, the Fall 2023 advancement cycles (260 and
+113) for E-4 advancements will be adjusted to help transition the force into 
+a fully TIS based system over the next year.
+Specifically, calculations via the alternative final multiple score
+(A-FMS) are now heavily weighted towards longer TIS, there are increased 
+quotas for ratings with historically slower advancement timing, and there is 
+no requirement to complete PMK-EE for E-4.  The A-FMS computations will 
+replace the E-4 FMS computations in reference (f).  There will not be a 
+Spring 2024 advancement  cycle for E-4 advancements due to implementation of 
+the TIS based system on 1 July 2024.
+
+8.  In order to facilitate this transition, commands are directed to finalize 
+or certify all cycle E-4 enlisted advancement worksheets
+(EAW) in NSIPS as "Eligible for Advancement" or "Not Eligible for 
+Advancement" for the Fall 2023 advancement cycles.  The only criteria 
+necessary to validate advancement eligibility for the Fall
+2023 advancement cycles are required time-in-rate and current CO's 
+advancement recommendation.  Commands should refrain from completing manual 
+EAWs and instead rely on NSIPS to validate cycle eligibility prior to EAW 
+closeout dates.  Each Sailor's Educational Services Officer (ESO) must 
+certify E-4 EAWs as eligible if these two conditions are met.  EAW closeout 
+dates are promulgated in the cycle NAVADMINs.
+
+9.  This NAVADMIN represents a fundamental process change for first- term 
+Sailors and guarantees advancement opportunity to E-4 for eligible Sailors 
+currently in the process of deciding to "Stay Navy."  Those who do decide to 
+"Stay Navy" will soon thereafter become eligible to compete for billet based 
+advancements into Journeyman leadership roles within the detailing 
+marketplace.
+
+10.  This NAVADMIN will remain in effect unless otherwise cancelled.
+
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+

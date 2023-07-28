@@ -1,0 +1,236 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 272125Z JUL 23 MID120000330492U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 166/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/SELF-INITIATED REFERRAL PROCESS FOR MENTAL HEALTH EVALUATIONS OF SERVICE 
+MEMBERS - THE BRANDON ACT//
+
+REF/A/DOC/DOD/05MAY23//
+REF/B/MSG/SECNAV WASHINGTON DC/111916ZJUL23//
+REF/C/DOC/OPNAV N17/JUL23//
+REF/D/MSG/SECNAV WASHINGTON DC/222101ZFEB23//
+REF/E/DOC/DOD/17AUG11//
+REF/F/DOC/DOD/13JUL22//
+REF/G/DOC/DOD/28MAR13//
+
+NARR/REF A IS DIRECTIVE-TYPE MEMORANDUM 23-005, SELF-INITIATED REFERRAL 
+PROCESS FOR MENTAL HEALTH EVALUATIONS OF SERVICE MEMBERS.
+REF B IS ALNAV 054/23, IMPLEMENTATION OF BRANDON ACT.  
+REF C IS THE MENTAL HEALTH PLAYBOOK VERSION 1.1.  
+REF D IS ALNAV 015/23, INDIVIDUAL MEDICAL READINESS ELEMENTS, GOALS, AND 
+METRICS POLICY UPDATE.  
+REF E IS DEPARTMENT OF DEFENSE INSTRUCTION 6490.08, COMMAND NOTIFICATION 
+REQUIREMENTS TO DISPEL STIGMA IN PROVIDING MENTAL HEALTH CARE TO SERVICE 
+MEMBERS.  
+REF F IS DEPARTMENT OF DEFENSE INSTRUCTION 6490.04, MENTAL HEALTH EVALUATIONS 
+OF MEMBERS OF THE MILITARY SERVICES.  
+REF G IS DEPARTMENT OF DEFENSE INSTRUCTION 6495.02, VOLUME 1, SEXUAL ASSAULT 
+PREVENTION AND RESPONSE:  PROGRAM PROCEDURES.//
+
+RMKS/1.  This NAVADMIN sets forth the self-initiated referral process for the 
+mental health evaluation of Service Members as directed in references (a) and 
+(b), commonly referred to as the Brandon Act.  This NAVADMIN applies to 
+Service Members serving on Active Duty assigned to Navy commands.  This 
+NAVADMIN ensures prompt implementation of reference (a) for Service Members 
+serving on Active Duty with Navy commands.  For Service Members not serving 
+on Active Duty, command plans and arrangements for referral requests will be 
+established as soon as practicable.
+
+2.  Seeking Help Overview
+    a.  Said simply, mental health is health, and the health of our people is 
+critical to being ready to fight and win.  For most Sailors, mentorship, 
+support, and problem-solving skills will give them what they need to stay in 
+the fight.  In addition, command programs such as Warrior Toughness and 
+Expanded Operational Stress Control are designed to help provide additional 
+skills and coping mechanisms for managing the stress that accompanies 
+military service.
+     b.  However, there are times when our people need additional help, and 
+seeking this help is a sign of strength.  As a result, Navy commanders, 
+leaders, supervisors, and civilian and military managers at all levels must 
+continue to normalize talking about mental health issues, destigmatize 
+seeking mental health care, and strongly encourage Service Members to make 
+use of health and mental wellness resources throughout their careers.
+    c.  To make it easier for commands and Service Members to navigate the 
+care options available, Navy produced the Mental Health Playbook, which has 
+been updated to support this NAVADMIN.
+Reference (c) includes an abundance of helping options including, but not 
+limited to, Chaplains, Military and Family Life Counseling, Military 
+OneSource, embedded mental health counselors, Fleet and Family Support 
+Centers, Military OneSource, and the Veterans Crisis Line.  As a best 
+practice, Service Members should download the Mental Health Points of Contact 
+or Mental Health Resources Roadmap fillable PDFs to record local contact 
+information for the relevant resources before they are needed.  Files can be 
+downloaded at the following website:  https://www.mynavyhr.navy.mil/Support-
+Services/Culture-Resilience/Leaders-Toolkit/Mental-Health-Playbook.
+    d.  Service Members serving on Active Duty may directly schedule an 
+appointment through the military health system for mental health care without 
+a referral from their Primary Care Manager (PCM).
+This direct route is the most straightforward option and the specific steps 
+will depend on the local resources available.  This option is currently 
+unavailable for Selected Reserves (SELRES) and Individual Ready Reserve (IRR) 
+Service Members.  Guidance for SELRES and IRR Service Members will be 
+published in phase two in line with reference (a).
+        (1) For Service Members in commands with an assigned embedded mental 
+health provider (e.g., aircraft carriers, NECC, submarines), the embedded 
+mental health provider is the primary source for mental health care.
+        (2) For Service Members in units without an embedded mental health 
+provider, Service Members may contact their local military mental health 
+clinic or closest military treatment facility (MTF) to schedule an initial 
+appointment with a behavioral health provider.
+Service Members may also schedule an appointment by reporting directly to a 
+MTF.
+        (3) Service Members experiencing suicidal ideation constitutes an 
+emergency.  Suicidal ideations are defined by thinking about, considering, or 
+planning for suicide.
+            (a) Service Members within the Continental United States
+(CONUS) experiencing suicidal ideation should call the Veterans Crisis Line 
+at 988 and press 1, or go directly to the nearest emergency room.
+            (b) Service Members outside the Continental United States 
+(OCONUS) experiencing suicidal ideation should call Europe:
+00800 1273 8255 or DSN 118, Korea:  080-855-5118 or DSN 118,
+Philippines:  Dial #MYVA or 02-8550-3888 and press 7.  For all other 
+locations reach out via the Veterans Crisis Line by following the country 
+code dialing procedures to call the CONUS 800 number (1-800-
+273-8225 and press 1).  Alternatively, Service Members can open a chat at 
+https://www.veteranscrisisline.net/get-help-now/chat/ and request a phone 
+call from the crisis line responder who will call them at any OCONUS location 
+or follow local procedures to access emergency care.
+
+3. The Brandon Act does not change existing referral processes for network 
+care. Military Service Members cannot be seen for specialty care including 
+mental health care in the civilian healthcare network without a referral.  
+Referrals to the network are made by the Service Member's PCM or Mental 
+health professional (MHP) at the local MTF.
+
+4.  Self-Initiated Referral for a Mental Health Evaluation
+    a.  Service Members:
+        (1) Service Members who prefer to have their chain of command 
+involved with scheduling a mental health care appointment through the 
+military health system, in line with reference (a), can receive assistance 
+from the commanding officer (CO) or from a supervisor in paygrade E-6 and 
+above by specifically requesting a self-initiated referral for mental health 
+evaluation (MHE).
+        (2) A self-initiated referral may be requested for any reason or on 
+any basis including, but not limited to, personal distress, personal 
+concerns, trouble performing duties, and functioning in daily activities that 
+may be attributable to possible changes in mental health.  Service Members 
+are not required to provide a reason or basis to request and receive a 
+referral.  This process is considered a voluntary, self-initiated referral 
+and is not the same process directed for a command-directed MHE.
+        (3) Service Members serving on Active Duty may request a self-
+initiated referral at any time and in any environment including, but not 
+limited to:
+            (a) Assigned to CONUS locations.
+            (b) Assigned to OCONUS locations.
+            (c) In a deployed setting.
+            (d) Assigned to a temporary duty station.
+            (e) On leave.
+       (4) Mental health issues that may affect Service Members'
+readiness to deploy, ability to perform their assigned mission, or fitness 
+for retention in military service are reportable medical issues in line with 
+reference (d).  Service Members have a responsibility to report mental health 
+issues that may impact their individual medical readiness status, such mental 
+health issues must be reported to their command in line with reference (d).
+    b.  A supervisor is defined by reference (a) as a member of the Armed 
+Forces within or out of a Service Member's official chain of command who 
+exercises supervisory authority over the Service Member and who is authorized 
+in line with reference (a) to make a referral for a MHE.  Referral requests 
+made to civilian supervisors will be forwarded to an appropriate uniformed 
+member (as determined by the civilian supervisor and consistent with 
+reference (a)) who exercises supervisory authority over the requesting 
+Service Member.  COs or supervisors, as defined in reference (a), who are in 
+the grade of E-
+6 or above must:
+        (1) Ensure measures are in place so Service Members under their 
+leadership understand the procedures to request a self- initiated referral 
+for a MHE.  Service Member requests for mental health support are 
+opportunities for leaders to connect with their Service Members and further 
+establish trust through use of active listening skills.  See reference (c), 
+section 2 "Having Effective Conversations with People in Need" for guidance 
+on active listening.
+        (2) Refer the Service Member to a mental health provider for a MHE as 
+soon as practicable.
+            (a) In making the referral, the CO or supervisor must consider 
+the unique circumstances of the timing of the self- initiated referral, 
+including the accessibility of MTFs, clinics, and embedded mental health 
+services, as well as the availability of mental health providers.  As 
+applicable, COs or supervisors should use existing mental health resources 
+and processes (e.g., embedded mental health) to connect Service Members with 
+MHEs and care.
+            (b) Supervisors may call the local mental health clinic or 
+closest MTF to schedule the Service Member's initial MHE.
+Supervisors may also accompany the Service Member to the clinic in person to 
+schedule their appointment.
+            (c) Supervisors will provide the Service Member with the date, 
+time, and place of the scheduled MHE.  Supervisors are not entitled to 
+information from a mental health provider regarding the results of the MHE 
+except for information that may be disclosed to command in line with 
+references (c) and (e).  Supervisors may call the clinic to confirm 
+completion of the MHE and inquire on any duty limitations only.
+            (d) For Service Members assigned to locations without a mental 
+health provider, telehealth options will suffice.  If no telehealth option is 
+available, schedule the Service Member with an appropriately privileged 
+primary care provider.
+            (e) If COs have concerns about Service Member behavior, 
+significant changes in performance, or fitness for duty, please see reference 
+(f) for command-directed MHE procedures.
+        (3) If a Service Member voluntarily shares information indicating 
+that they were the victim of a sexual assault, the CO, leadership team, or 
+other member of the chain of command must comply with the requirements in 
+reference (g) and all other applicable policy.  A Service Member's decision 
+to share or not share such information does not affect their ability to make 
+a restricted report pursuant to reference (g).
+        (4) Reduce stigma by treating referrals for MHEs in a manner similar 
+to referrals for other medical services, to the maximum extent practicable.
+    c.  Mental Health Providers
+        (1) Administer the mental health evaluation as soon as practicable.
+        (2) Communicate with the CO or supervisor consistent with references 
+(c) and (e).  Follow all appropriate guidance in line with requirements for 
+the confidentiality of health information pursuant to the Health Insurance 
+Portability and Accountability Act of 1996, applicable privacy laws, and 
+associated Department of Defense guidance.  Disclosures to the command are 
+limited to confirming that the MHE was provided pursuant to the referral, a 
+disclosure authorized by reference (e), and any other disclosure for which 
+the Service Member provided authorization.
+        (3) Assess Service Member fitness for duty and document all MHEs in 
+the medical record.
+
+5.  Annual Training Requirement.  Upon release of developed training, COs, 
+supervisors, and Service Members will receive annual training, on how to 
+recognize personnel who may require a MHE, the process of how a Service 
+Member may obtain a self-initiated referral for a MHE, and privacy 
+protections.
+
+6.  Questions about the self-initiated referral process for MHEs of Service 
+Members should be directed to Ms. Leah Fletcher, Navy Culture & Force 
+Resilience Office, e-mail Leah.M.Fletcher6.civ@us.navy.mil and Captain 
+Melissa Lauby, Bureau of Medicine and Surgery, e-mail 
+Melissa.D.Lauby.mil@health.mil.
+
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
