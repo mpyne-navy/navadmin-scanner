@@ -1,0 +1,103 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 011639Z AUG 23 MID120000340198U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 174/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/UPDATE TO PRIOR SERVICE RE-ENLISTMENT ELIGIBILITY - RESERVE
+(PRISE-R) POLICY//
+
+REF/A/DOC/COMNAVPERSCOM/13JAN2020//
+REF/B/DOC/BUPERS/07FEB2022//
+
+NARR/REF A IS MILPERSMAN 1133-061, PRIOR SERVICE RE-ENLISTMENT ELIGIBILITY - 
+RESERVE (PRISE-R) PROGRAM.   
+REF B IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.//
+
+RMKS/1.  This NAVADMIN provides updated policy guidance for administration of 
+the Prior Service Re-enlistment Eligibility-Reserve (PRISE-R) program in line 
+with reference (a), which applies to certain prior service Sailors recruited 
+into the Reserve Component with a temporary rating or paygrade, with the 
+option to make these permanent by completing professional development 
+requirements.  Sailors requiring rating-specific training (A or C
+schools) are not affected and are still required to complete program 
+requirements in line with reference (a) to make their rating permanent.
+
+2.  The requirement for all Selected Reserve (SELRES) E-4 candidates to take 
+the Navy-wide advancement exam (NWAE) to compete for advancement to E-4 is 
+eliminated.  Effective immediately, all PRISE-R Sailors who have not 
+completed program requirements through the NWAE, and have no rating-specific 
+training requirements, will have their temporary rating made permanent.  
+Commander, Navy Reserve Forces Command (COMNAVRESFORCOM) will remove the 
+"Targeted Reentry Program" manpower availability status code in Navy Standard 
+Integrated Personnel System (NSIPS) and submit a single consolidated Navy 
+enlisted classification (NEC) Change Request (NAVPERS 1221/6) to Enlisted 
+Placement Management (PERS-4013) requesting removal of conversion NEC for all 
+affected Sailors.
+
+3.  PRISE-R Sailors who wish to revert to their prior rating may do so by 
+contacting their command career counselor for the most current 
+COMNAVRESFORCOM guidance and eligibility requirements.  This authorization 
+applies only to Navy Veterans (NAVET).  Other service veterans (OSVET) are 
+not eligible to apply for rate reversion.
+Sailors seeking rating conversion can apply via career waypoints through the 
+Reserve Component (RC) to RC module.
+
+4.  New Prior Service Affiliations/Accessions.  The PRISE-R program is open 
+to qualifying NAVETs and OSVETs as a path to Navy Reserve affiliation via a 
+change in rate or occupational specialty upon transition to the SELRES.  All 
+personnel will meet specific rating requirements and program requirements in 
+line with reference (a) with the below program updates, though waivers may be 
+authorized on a case-by-case basis.
+    a.  Applicants who affiliate in a non-service school required rating will 
+have their rate made permanent upon reporting to the Navy Reserve Center 
+(NRC) or Navy Reserve Activity (NRA).
+    b.  Applicants may not have prior non-judicial punishment or convictions 
+in civilian or military courts within the previous 36 months.
+    c.  Applicants in the pay grade of E-4 must have a time in service (TIS), 
+as calculated from their adjusted pay entry base date
+(PEBD) upon enlistment, of fewer than 12 years.
+
+5.  Advancement Eligibility.  Starting with NWAE cycle 113, PRISE-R Sailors 
+affected by this NAVADMIN with their now permanent rating may participate for 
+advancement as long as all eligibility requirements are met in line with 
+reference (b) and the applicable NWAE cycle NAVADMIN, utilizing the paygrade-
+specific advancement methodology promulgated via the NWAE cycle NAVADMIN.  
+All prior service Sailors with a break in service must have a time-in-rate
+(TIR) recalculation completed in line with reference (b) prior to their 
+advancement exam.  The new TIR must be updated in NSIPS by the Sailor's NRC 
+or NRA.
+
+6.  Enlisted Incentives.  PRISE-R Sailors may be eligible for a SELRES 
+enlisted incentive upon completion of PRISE-R program requirements.  PRISE-R 
+Sailors affected by this NAVADMIN have met their PRISE-R program requirements 
+and should contact their NRC/NRA command career counselor or bonus incentive 
+coordinator for guidance on requesting a SELRES enlisted incentive.  
+Eligibility criteria for SELRES enlisted incentives may be found on the Navy 
+Reserve homeport website at: https://private.navyreserve.navy.mil/cnrfc/N-
+Codes/N1/CNRFC_N112/SitePages/Home.aspx.
+
+7.  Points of Contact:
+    a.  COMNAVRESFORCOM PRISE-R Program Manager:
+usn.norfolk.comnavresforcomva.mbx.cnrfc-prise-r@us.navy.mil
+    b.  BUPERS-352 Reserve Enlisted Community Manager:
+ISCM Nicholas Ferguson, Nicholas.e.ferguson4.mil@us.navy.mil.
+
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

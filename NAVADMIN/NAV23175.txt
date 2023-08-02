@@ -1,0 +1,79 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 012010Z AUG 23 MID120000340851U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 175/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/2022 SHANNON M. KENT AWARD FOR LANGUAGE PROFESSIONAL EXCELLENCE, 
+LANGUAGE PROFESSIONALS OF THE YEAR, LINGUISTS OF THE YEAR AND COMMAND 
+LANGUAGE PROGRAM OF THE YEAR ANNOUNCEMENT// 
+ 
+REF/A/DOC/OPNAVINST 5400.46A/18MAY21// 
+REF/B/DOC/DLIFLC/28NOV05 (NOTAL)// 
+ 
+NARR/REF A IS OPNAVINST 5400.46A, COMMAND LANGUAGE PROGRAMS AND AWARDS.   
+REF B IS DLIFLC PAMPHLET 351-1, EVALUAT ION GUIDELINES FOR DOD COMMAND 
+LANGUAGE PROGRAMS.// 
+ 
+RMKS/1.  This NAVADMIN announces the Shannon M. Kent Award for 
+Language Professional Excellence and the Senior Language 
+Professional, Civilian Language Professional, Navy (non-career) 
+Linguist, Navy (non-career) Senior Linguist, and Command Language 
+Program of the Year for Fiscal Year (FY) 2022. 
+ 
+2.  All nominees deserve congratulations for their successful use of 
+foreign language skills as key operational enablers.  Having 
+considered all entries, it is my distinct pleasure to announce the 
+2022 Navy award winners: 
+    a.  Shannon M. Kent Award for Language Professional Excellence: 
+        CTI1(IW/EXW) Mason Lunsford, Cryptologic Warfare Activity 
+SIXTY SEVEN 
+    b.  Senior Language Professional of the Year: 
+        CTIC(IW/SW/AW) Jamie Biro, Information Warfare Training 
+Command, Monterey CA 
+    c.  Civilian Language Professional of the Year: 
+        Mr. Sepehr Sepahrom, Brooks Center for Maritime Engagement 
+    d.  Linguist of the Year: 
+        HM2 Arshad Khan, Navy Medicine Readiness and Training 
+Command, Quantico, VA 
+    e.  Senior Linguist of the Year: 
+        BMC(SW/AW) Serhiy Dubenko, Defense Threat Reduction Agency 
+    f.  Command Language Program of the Year: 
+        Navy Information Operations Command Georgia (NIOC GA) 
+ 
+3.  As the winners of the Shannon M. Kent Award for Language 
+Professional Excellence and Command Language Program of the Year, 
+CTI1 Lunsford and NIOC GA will go on to compete at the Department of 
+Defense level and will be recognized at the FY-23 Advanced Command 
+Language Program Manager Workshop, 12-14 September 2023. 
+ 
+4.  Language, regional expertise, and culture (LREC) capabilities 
+play a significant role in modern naval operations.  In the current 
+operational environment, LREC is central to everything from 
+humanitarian aid operations to building lasting relationships with 
+our foreign partners.  LREC importance is clearly evident in the 
+contributions of the winners listed above as well as those of their 
+competition. 
+ 
+5.  I extend my sincere appreciation for the continuing support of 
+these vital Navy language programs and outstanding Sailors.  To our 
+award winners, thank you for your ongoing dedication and 
+professionalism.  Please accept my congratulations for a job 
+exceptionally well done! 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

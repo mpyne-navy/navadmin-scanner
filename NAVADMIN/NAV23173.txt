@@ -1,0 +1,650 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 011450Z AUG 23 MID120000339890U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 173/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG//
+
+SUBJ/FY-24 NAVY RESERVE E7 ADVANCEMENT SELECTION BOARDS RESULTS//
+
+REF/A/DOC/BUPERS/19SEP2018//
+AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+
+GENTEXT/RMKS/1.  Congratulations to the following personnel who have been 
+selected for advancement to chief petty officer by the FY-24 Navy Reserve E7 
+Selection Boards.  Strong competition between qualified professionals is one 
+of the strengths of our Navy and your selection speaks highly of your 
+abilities.
+
+2.  This NAVADMIN is not authorization for advancement.  Specific dates of 
+advancement will be published by Commanding Officer, Naval Education and 
+Training Professional Development Center Pensacola, FL.  Personnel listed 
+below may be frocked in accordance with reference (a) if qualified.
+
+3.  Members are directed to verify their select status via BUPERS On-Line.  
+The selection list is in alphabetical order by rate within competitive 
+category.  Read each line from left to right, name, and numerical order of 
+advancement.  Categories of advancement are selected reservist and training 
+and administration of the reserves. 
+
+              Selected Reservist Chief
+   ABFC - Chief Aviation Boatswains Mate Fuel Handling
+Ameel Adam Ra     002         Bey Egypt         003
+Eck Ryan Matt     001         Obregon David     004
+    ABHC - Chief Aviation Boatswains Mate Aircraft
+                     Handling
+Aldana Aristi     004         Gunn Britney      006
+Johnson Brand     003         Ramirez Jose      005
+Seloti Leti S     001         Victoria Carl     007
+Weber David M     002
+         ACC - Chief Air Traffic Controller
+Holmes Ryan J     003         Mock Kendra A     002
+Moreira David     001
+        ADC - Chief Aviation Machinists Mate
+Bagert Joshua     007         Bryk Edward F     006
+Cosioflores E     003         Smith Steven      005
+Tripp Mary Fr     004         Turbeville Je     001
+Wheeler Jamie     002
+        AEC - Chief Aviation Electricians Mate
+Colaianni Bri     004         Holte Samuel      005
+Mellinger Cli     003         Oconnell Anth     001
+Pick Justin D     006         Zullo Matthew     002
+            AGC - Chief Aerographers Mate
+Belliotti Bri     001         Olivas George     003
+Ruiz Raul         002
+      AMC - Chief Aviation Structural Mechanic
+Bolden Daniel     004         Chen Qi           009
+Crowsey Jerem     001         Fisher Jason      002
+Garvilles Eug     006         Hixson Andrew     008
+Juarezboothe      011         Kennedy Derek     012
+Kleinpell Ada     007         Ramage Wendel     003
+Tinebra David     010         Williams Nata     005
+       AMEC - Chief Aviation Structural Mechanic
+                (Safety Equipment)
+Hartwell Mich     001         Lopez Rodrigo     002
+Martinelli Je     004         Williams Andr     003
+          AOC - Chief Aviation Ordnanceman
+Lanigan Thoma     001         Ortiz Paul Mi     002
+     ATC - Chief Aviation Electronics Technician
+Hart Matthew      002         Nicewonger Wi     003
+Rupe Michael      001         Young Dacomis     004
+      AWFC -  Chief Naval Aircrewmen Mechanical
+Arguello Jacq     009         Barrett Megan     006
+Campbell Erne     015         Coe Jessica R     017
+Crowe Mary El     002         Dematteo Just     013
+Dyer Joshua W     010         Goetze James      007
+Griswold Kyle     011         Haynes Jareem     012
+Maxwell Clayt     016         Melendez Domi     014
+Mendoza Scott     004         Robles Alfred     008
+Scott Benjami     003         Tolar Caley M     005
+Turner Kevin      001
+      AWOC - Chief Naval Aircrewmen Operator
+Alvares Carlo     007         Bayford David     002
+Bender Ryan M     004         Bulger Scott      008
+Gerety Keith      006         Meredith Brya     001
+Speake Hunter     005         Waddell Tymot     003
+   AWRC - Chief Naval Aircrewmen Tactical-Helicopter
+Mahs Alex Edw     001         Sell Aaron Sc     003
+Torres Ryan M     002
+        AWSC - Chief Naval Aircrewmen Helicopter
+Cook Derek Au     001
+  AZC - Chief Aviation Maintenance Administrationman
+Banjade Gaura     001         Goodwin Khali     002
+Paz Daniel Fe     004         Sanchez Bianc     003
+            BMC - Chief Boatswains Mate
+Berry Harlan      006         Cooke Nathan      010
+Graham Scott      005         Hernandez Jos     001
+Kimple Shane      011         Theargood Bri     009
+Tierney Natha     004         Tuttle Ronald     007
+Vandevick Lac     002         Welch Ronald      008
+Williams Thom     003
+                 BUC - Chief Builder
+Burkhardt Aus     023         Copeland Chri     013
+Cowen John Th     019         Crain Dylan R     017
+Elliottblack      011         Falvo Gregory     003
+Foley Kathlee     009         Harrington Ry     020
+Mccree Dennis     005         Mcnew Brian S     014
+Murray Jonath     015         Pell William      006
+Perry Alma Bu     016         Pham Quoctuan     022
+Reed Cody Way     001         Rubio David       007
+Salcedoruiz H     008         Stewart Derri     010
+Sweitzer Nath     002         Tackett James     021
+Vanzuiden Den     012         Warner Ryan M     004
+Webster Stanl     018
+        CEC - Chief Construction Electrician
+Crissup Steve     005         Ledbetter Dou     001
+Lopez Stacia      004         Martin Christ     002
+Pinckney Robe     006         Williamson Ju     003
+         CMC - Chief Construction Mechanic
+Crook Jonatha     004         Daulton Diand     007
+Fox William J     005         Gross Kortney     006
+Mctague Andre     008         Roadinger Mic     001
+Root Will Iii     002         Sherr Adam Se     009
+Stanner Kyle      003
+          CSC - Chief Culinary Specialist
+Butcher Tamek     006         Cullen Lisa A     005
+Flores Roxana     004         Gonzalez Tahi     007
+Mathews Shene     002         Minor Jamika      003
+Ulmer Trevor      001
+  CTIC - Chief Cryptologic Technician Interpretive
+Baerwolf Mich     004         Bragdon Richa     003
+Breckinridge      006         Canner Aleksa     002
+Hoekema Brand     001         Treu Jessica      005
+   CTNC - Chief Cryptologic Technician Networks
+Bryan Brandon     001         Evergreen Hea     004
+Kern Richard      003         Wattenphul Aa     002
+    CTRC - Chief Cryptologic Technician Collection
+Beebe Scott R     004         Decker Kimber     001
+Diederich Bri     007         Moretti Salva     002
+Pletcher Jare     005         Scott Riana A     003
+Tompkins Sean     006         Warner Jacob      008
+    CTTC - Chief Cryptologic Technician Technical
+Chaput Joshua     001         Clopton Rober     002
+Johnson Feles     004         Mccoy Casey B     003
+Vitukevich Ma     005
+           DCC - Chief Damage Controlman
+Castillo Luis     001
+             EAC - Chief Engineering Aid
+Alvaradogonza     002         Jimenez Jose      001
+Mckinley Bria     003
+           EMC - Chief Electricians Mate
+Baldwin Tommy     004         Brown Jeremy      002
+Brown Kimberl     008         Burt Brenden      012
+Carden John T     006         Cornwall Ryan     009
+Diaz Jorge Jo     013         Fowble Roland     001
+Graham Roy Gl     003         Gutierrezmend     015
+Hare Matthew      005         Holbach Andre     011
+Novak Donald      007         Ortegonroa Ma     014
+Rangel Robert     010
+             ENC - Chief Engineman
+Alfarogarcia      002         Blake Anita M     004
+Brown Stevonn     023         Calametti Rya     025
+Campos Joe Le     013         Carter Gregor     026
+Cash Ernest M     001         Castro David      022
+Croteau Wade      016         Davenport Bre     015
+Dees Adam Jus     017         Degraaf Alexa     010
+Hartman Nicho     009         Mccorkle Clay     019
+Mendoza Melis     011         Monsalve Carl     018
+Mulligan Scot     014         Newton Michae     006
+Nickels Chase     005         Pittman Dillo     024
+Price Ashley      021         Rabb Branden      008
+Segovia Omar      020         Turner Justin     007
+Vosberg Danie     012         Wiggins Brad      003
+          EOC - Chief Equipment Operator
+Bourtikachvil     002         Brillant Math     009
+Brown Daric M     003         Calder Cale K     004
+Lemke Jason R     005         Mangum Matthe     008
+Ross Tom Ezra     007         Snyder Wayne      001
+Stoffel Brian     006
+         ETC - Chief Electronic Technician
+Battaglini Pa     008         Beckford Chri     017
+Burns Amber R     012         Carson Joshua     007
+Falk Jeremy P     002         Gunn Stacey K     015
+Hirahara Laur     010         Howard Brian      006
+Levenson Alex     005         Lloyd Justin      013
+Marshall Shan     009         Mcconnell Tim     001
+Moeller Keara     016         Mosley Andrew     003
+Parmer Timmot     018         Sims Gerald I     011
+Sommers Antho     014         Tarumoto Rebe     004
+Watts Justin      019
+     ETVC - Chief Electronics Technician, Submarine,
+                    Navigation
+Caraway Evan      002         Jaime Christo     001
+          FCAC - Chief Fire Controlman Aegis
+Fisher Jeromy     001
+             FCC - Chief Fire Controlman
+Annal James M     004         Huerta Humber     005
+Jongeward Rut     001         Li Scott Zhuo     003
+Livermore Gav     006         Reese Timothy     002
+             GMC - Chief Gunners Mate
+Bojorquez Adr     008         Chest Michael     005
+Dassow Jason      001         Dietz Justin      014
+Evans Shelsea     006         Figueroa Carl     002
+Flores Rhea A     007         Hutchinson Ch     010
+Koll Anthony      004         Leary Megan S     011
+Liggett Wa Jr     016         London Richar     012
+Merritt Danie     018         Rhodes Ryan C     015
+Rounds Gabrie     013         Sewell David      017
+Thompson Mich     003         Zhang Alexand     009
+      GSMC - Chief Gas Turbine System Technician
+                   (Mechanical)
+Beery Tanner      002         Gomez Stephan     003
+Ichangai Mose     001         Matthews Davi     004
+          HMC - Chief Hospital Corpsman
+Allen John Cl     020         Alvarado Bree     062
+Anderson Ian      028         Anderton Jaco     055
+Apontezayas A     040         Atwell Michel     001
+Ayoub Marian      051         Bai Sung Woon     026
+Batoon Miko R     015         Begger Christ     002
+Benoza Robert     033         Blackmon Tian     069
+Brewton Antho     050         Brown Buel An     036
+Bux Michael Y     073         Chacon Carlos     044
+Christenson B     035         Colly Michael     038
+Corro Kyle Jo     082         Craig Thomas      049
+Dean Kyetta J     024         Dietrich Garr     078
+Dietz Aaron F     054         Digirolamo Je     010
+Dominguez Dav     031         Echevarri Adr     061
+Fabunmi Micha     058         Fisher Robert     076
+Fontenot Kenn     021         Garcia Eric M     014
+Gasparovic An     081         Greenawalt Ja     075
+Hansen Zachar     083         Haywood Shuni     060
+Hellberg Marg     017         Helm Kascade      059
+Henry Charmai     023         Hill Jon Wayn     065
+Hinman Matthe     027         Holly John Pa     066
+Huynhbreiland     004         Jarvis Ryan C     011
+Jenkins Joshu     084         Key Nicole Ma     053
+Kisselman Ash     042         Knight Brian      003
+Kurosaki Mark     068         Lee Frank         056
+Leibrock Sean     006         Lozano Luis A     074
+Macleod James     064         Mcleod Joshua     009
+Meadows Sherr     070         Meyer Jared B     072
+Monticue Dani     039         Morey Gregory     085
+Mosley Steven     052         Muhammad Aliy     077
+Packer Jylian     087         Pilot Tristan     046
+Prime Michael     005         Ramos Jessica     008
+Randle Cornel     043         Reese Reginal     029
+Reyes Marc Al     048         Robinson Jame     086
+Roepke Abygai     063         Roque Alexand     013
+Rosen Laurenc     057         Salmond Danie     019
+Schafer Thoma     012         Serpe Enrico      047
+Shahan Jayson     045         Shanahan Brid     007
+Sotherden Sco     022         Sposari Leon      067
+Tangonan Ianl     071         Thomsen Chris     025
+Tomsik Robert     016         Torrefiel Iri     034
+Vergara Salva     018         Vetan Daniel      079
+Vitek Robert      030         Webb Johnatha     032
+Weigel Alexan     037         Welker Amanda     080
+Zachery Melis     041
+       HTC - Chief Hull Maintenance Technician
+Arena Floyd W     011         Brooks Megan      016
+Chapman Tosha     015         Decraene Kyle     014
+Griffin Dakot     013         Gudmundson Je     007
+Hacking Benja     009         Kay Raquel Pa     008
+Laurenson Tif     004         Mann Ryan Mic     002
+Montalvo Ryan     006         Patrick Jacob     010
+Rasmussen Tyl     003         Rousseau Ryan     005
+Sweetin Johnn     001         Taculad Jeann     012
+Trejo Felicit     017
+          ISC - Chief Intelligence Specialist
+Aguilar Terra     037         Allemond Beth     039
+Becker Jennif     040         Bemis Christi     036
+Bent Lindsey      034         Booker Michae     044
+Bradley Chris     004         Brock Benjami     035
+Browning Holl     029         Bryant Tyrees     031
+Buff Lara Noe     006         Chargualaf Mi     047
+Craig Christo     002         Ernst Nathan      048
+Freeman James     041         Furr Johnatha     020
+Glover Daniel     013         Goyburu Alfre     003
+Grable Lee Mi     008         Hallmon Warre     027
+Halter Cather     015         Hamiltonriver     055
+Haynes Derric     032         Hearld Christ     005
+Henson Ryan J     023         Hernandez Jor     012
+Himmelberger      007         Hise Andrew A     045
+Johnson Joshu     053         Kretschmaier      038
+Lake Francis      019         Lane James Ke     001
+Mackey Mitche     014         Majewski Matt     050
+Mallette Darr     042         Martin Mildre     028
+Mccormick Car     046         Merriman Jzan     016
+Miller Timoth     033         Monhollon Tan     026
+Munoz Jose An     009         Nye Julie Ann     025
+Owens James A     022         Pierre Dobson     024
+Pottratz Jenn     049         Reyes Philip      054
+Ricchio Nicho     043         Roman Edwin J     018
+Rose Jared Gu     017         Schmidt Emma      051
+Skopovi Boris     011         Stenberg Robe     010
+Thoman Andrew     057         Upkes Tucker      021
+Waiters Lorea     052         Walker Hannah     030
+Walker Kahlid     058         Watson Caitli     056
+       ITC - Chief Information Systems Technician
+Alexander Arl     028         Aragon Alexis     013
+Bell Justin R     038         Bornhoeft Dan     050
+Cloud Sean Ph     002         Collins James     011
+Cruz Edward       021         Delgadillo Ma     009
+Doyle Ariel R     041         Dugasdavis Ma     048
+Ferrer Christ     051         Foster Courtn     005
+Foulk Matthew     020         Friend Natash     023
+Gagne Matthew     022         Gamboa Mary B     043
+Harris Rafael     026         Hendershot Ja     004
+Holliday Jose     017         Huffman Erich     029
+Hutcheson Ran     016         Lagman Mark A     012
+Lee Samuel So     006         Lyons Ric Iii     003
+Manfreda Broo     042         Maxon Wendy A     035
+Mcwhorter Jul     030         Moser Kenneth     049
+Nation James      018         Nolan Joshua      047
+Park Gerald C     008         Pierson Dalla     034
+Polintan Paul     045         Posse Marcelo     040
+Riveratorres      014         Robertson Rac     019
+Sartin Stephe     036         Saylor Jonath     015
+Schappell Ada     033         Soward Johnat     027
+Spencer Garre     025         Sum Jacquelyn     052
+Szalay Robert     010         Taylor Blake      039
+Towler Quinto     024         Tuazon Gerald     031
+Valadez Julia     001         Vint Brenden      046
+Wensel Ryan J     044         Wentland Jona     032
+Wozniak Jeffr     037         Yencsik Rober     007
+                LNC - Chief Legalman
+Brantley Dero     002         Bryan Tonya L     009
+Cary Regina C     007         Connor Kennet     006
+Dauterive Jos     005         Guerrero Gabr     001
+Hodges Arnold     003         Kettles Nina      011
+Reyes Shiara      010         Vance Marteri     004
+Wright Whitne     008
+        LSC - Chief Logistics Specialist
+Allen Michael     009         Backman Nicko     028
+Beardsley Hea     032         Bertini Corey     007
+Castro Ernest     012         Crawford Thom     003
+Cuesta Sandra     022         Dyer James Jr     002
+Floyd Charmai     033         Garske Rachel     014
+Heath Jeffrey     011         Hermiller Nic     004
+Hutsakun Nual     001         Ingram Christ     026
+Jarrett Isaac     018         Jeon Jaeyoung     023
+Lawrence Keis     029         Monterrosa An     031
+Muoho Michael     005         Ngure Francis     024
+Nonles Everet     027         Pignatelli Sp     025
+Pirkle Matthe     006         Reyes Aissa D     034
+Rublyov Const     020         Scalera Josep     015
+Schuh Michell     008         Solis Raymond     030
+Steckler Teri     017         Stuckey Jonat     021
+Terry Sylv Jr     013         Toledo Mary L     010
+Wood Justin M     019         Zamoratercero     016
+             MAC - Chief Master At Arms
+Acree Joshua      008         Albright Ian      018
+Allen Matthew     076         Arnett Steven     058
+Auguste Wilgi     071         Baessell Jare     028
+Baker Barring     065         Barreira Fern     064
+Birch Bradley     005         Brady David M     023
+Burns Taylor      015         Busier Mark A     026
+Camarillo Dan     043         Canfield Adam     061
+Cardiel Chris     052         Carroll Chari     062
+Chutz Douglas     017         Collier Katie     031
+Cook Devin Ka     070         Cordes Michae     034
+Cothran Sean      075         Deangelo Matt     044
+Debrowski Ash     048         Diaz Ashley V     077
+Dockins Debra     049         Dolan Matthew     004
+Donaldson Cor     025         Drapeau Lance     033
+Dwire Daniel      029         Eaker Benjami     013
+Edwards Steel     055         Emanuelson Jo     024
+Erickson Robe     050         Garcia Daniel     057
+Garey Craig A     059         Gastiaburusim     069
+Gehringer Mic     053         Gleason David     011
+Gonzalez Juan     074         Goode Jessica     063
+Gurnett Timot     012         Halvorson Tho     001
+Heinrich Ryan     019         Henschel Dust     002
+Holewinski Mi     007         Hollis Jazmyn     079
+Homza John Pa     046         Isabella Hann     072
+Kazemi Natiya     021         Kelly Daren J     022
+Kennedy Drake     073         Knapik Danial     047
+Knapp Aaron M     037         Kruger Heidi      084
+Lindon Willia     054         Lynch Michael     038
+Martineztorre     056         Mcconnell Dav     030
+Meyer Shawn A     042         Miyose Bryson     040
+Moore Timothy     006         Moreno Johnny     010
+Negri Alessan     009         Owens Anthony     081
+Padilla Micha     014         Pfaffmann Val     085
+Puga Francisc     032         Ramirez Zacha     060
+Rickard Amand     020         Rivera Jose A     041
+Roberson Thom     003         Santos Jesus      035
+Schumacher Ja     066         Segelstrom Na     039
+Sevilla Makis     068         Silva Joseph      067
+Skopayko Thom     080         Stidham Matth     016
+Thomas Katali     082         Tuminello She     078
+Velez Evelyn      083         Vergara Mervi     045
+Werlinger Dav     036         White Darring     051
+Wilson Timoth     027
+      MCC - Chief Mass Communications Specialist
+Bonilla Ernes     002         Faram Mark Da     001
+Ives Steven A     003         Navarrete Vic     005
+Quintero Orla     006         Rolin Sarah J     004
+  MMAC - Chief Machinists Mate, Non-Nuclear, Submarine
+                     Auxillary
+Helms Robert      001
+            MMC - Chief Machinists Mate
+Diehl Kurt Ro     002         Hornish Joe S     008
+Johnson Sheen     001         Loughbom Robe     005
+Nicolas Krist     007         Queen Travis      006
+Storm Cameron     004         Teitel Amanda     003
+Williams Dani     009
+                MNC - Chief Mineman
+Becker Henry      002         Bird Jason Al     008
+Blair Kenton      005         Boulier David     001
+Buck Michael      009         Morrow Vance      007
+Plant Joseph      006         Rudiger Josep     004
+Walter Brian      003
+           MRC - Chief Machinery Repairman
+Campos Edgar      005         Lowers Olga L     004
+Lyles Sanah B     001         Mckeethan Wil     003
+Pauli Aaron C     002         Piernicky Joh     007
+Sowl Garrett      006
+               NDC - Chief Navy Diver
+Brooks Kevin      001         Vuiller Ian A     002
+          OSC - Chief Operations Specialist
+Ajilore Evely     002         Barrionuevo A     005
+Brady Amanda      017         Bursee Charle     007
+Cole Dejacque     004         Davis Kenneth     008
+Doakes Willie     006         Gilliland Ada     019
+Hamilton Tesh     016         Jarecki Shand     010
+Johnson Mark      001         Kuchenmeister     021
+Latshaw Phili     011         Liriano Leoni     009
+Lu David          020         Matte William     023
+Matulac Rober     013         Pivac Paul Jo     003
+Plesnarski Ra     014         Rayford Lamar     012
+Ring Caroline     022         Schuler Andre     015
+Tan Yongsi        024         Tolksdorf Jon     018
+        PRC - Chief Aircrew Survival Equipmentman
+Plaza Mark Da     002         Smith Brandon     003
+Strain Kevin      001
+         PSC - Chief Personnel Specialist
+Byerly Kitara     008         Calosa Ariel      003
+Ciullo Brando     009         Edwards Tinis     002
+Fournet Lewis     011         Newkirk Antho     007
+Pham Van Quan     006         Thipkhoonok W     010
+Vaz Gilberto      005         Vegamorales S     001
+Venturanza Ra     004
+             QMC - Chief Quartermaster
+Espinosa Mari     005         Giralde Jerem     001
+Gutierrez Dan     004         Koers Mitchel     002
+Palmer Dashaw     003
+       RPC - Chief Religious Program Specialist
+Paz Mary Leti     003         Pornovets Mic     001
+Rosadoarroyo      002
+      SBC - Chief Special Warfare Boat Operator
+Jetkins Levi      001         Meece Kyle St     003
+Schroeder Rob     002
+        SOC - Chief Special Warfare Operator
+Haas Geary Mi     001         Haskan Thomas     004
+Lalley Nathan     002         Smith Matthew     003
+       STGC - Chief Sonar Technician Surface
+Babbick Arin      001
+            SWC - Chief Steelworker
+Biladeau Elis     002         Kolesar Brand     004
+Snyder Weston     003         Styer Zachary     001
+           TMC - Chief Torpedomans Mate
+Beard Mitchel     001         Goslin Michae     002
+             UTC - Chief Utilitiesman
+Arroyojaime P     005         Heintzelman K     003
+Howard Andrew     002         Kellum Jerone     004
+Werner Kyle W     001
+               YNC - Chief Yeoman
+Anders Crysta     003         Armstrong Jua     027
+Biache Kimber     017         Birkrem Chris     007
+Bock Andrew J     038         Boone Chad Th     005
+Cardeno Chris     042         Castagneto Lu     037
+Chen Yu Wen       026         Coe Alexander     035
+Cribbs Justin     020         Dalfonso Jada     041
+Devera Nathan     036         Dumich Emilie     046
+Faircloth Bri     001         Frelin David      015
+Garcia Camill     047         Garcia Gabrie     040
+Garcia Pablo      033         Hendrickson A     016
+Lovely Okevia     006         Luallen Brand     018
+Luna Garrett      023         May Melissa A     039
+Mcnichol Lisa     021         Means Cheree      028
+Mejicano Rica     022         Mershon Matth     032
+Morris Sharon     025         Nardone Kolma     010
+Osorio Albert     002         Reyes Ginger      029
+Rhoades Elain     048         Richardson Ry     004
+Rogers Adam R     011         Rosa Sean And     019
+Rushing Celic     044         Saenz William     030
+Schmutte Skyl     034         Shumpert Rick     012
+Sierra Stepha     045         Wallace Laure     008
+Welsh Jesse J     014         Wheatley Kenj     013
+Wienke Macie      043         Williams Fabi     031
+Woods Mathew      024         Wymore Joshua     009
+     Training And Administration Of The Reserves Chief
+          ADC - Chief Aviation Machinists Mate
+ Breiner Chris     008         Chandler Chri     005
+ Hong Mikyung      001         Landrum Sean      010
+ Mccrea Natali     007         Mitchell Bria     004
+ Netrow Bobby      003         Owens Angelic     002
+ Sarle Richard     006
+       AEC - Chief Aviation Electricians Mate
+Canilao Jarek     005         Fraser Brian      004
+Hensley Eric      002         Hicks Jeremia     001
+Lafleur Chris     003
+      AMC - Chief Aviation Structural Mechanic
+Elder Josh Jb     002         Garcia Rusbel     003
+Hamilton Clar     005         Mailman Jamie     004
+Mcclure Laure     001
+      AMEC - Chief Aviation Structural Mechanic
+               (Safety Equipment)
+Griffin Garth     002         Huerta Jeffer     001
+          AOC - Chief Aviation Ordnanceman
+Bailey Daren      001
+    ASC - Chief Aviation Support Equipment Technician
+Blaugher Patr     001
+     ATC - Chief Aviation Electronics Technician
+Aeono Alexand     003         Asrouch Patri     010
+Beagles John      004         Gallagher Tay     009
+Garside Court     007         Gorman Russel     001
+Jones Collin      008         Martin John D     002
+Minturn Kyle      006         Torres Sarita     005
+    AWFC - Chief Naval Aircrewmen Mechanical
+Clow Ilah Nic     002         Fallow Wesley     004
+Miles James C     001         Nitzsche Mica     006
+Smeal Timothy     005         Sylvestre Cul     009
+Vanpelt Justi     003         Weaver Justin     008
+   AZC - Chief Aviation Maintenance Administrationman
+Daum Audrey S     001         Gutierrez Mic     004
+Kelly Milton      003         Moore Deirdre     002
+           BMC - Chief Boatswains Mate
+Calderon Step     001         Gueta Isiah C     008
+Hall Gabriell     002         Jones Farrod      007
+Leones Renmel     004         Pile Mervin L     005
+Resnick Barre     003         Woodcock Anth     006
+          DCC - Chief Damage Controlman
+Brown Joseph      001         Hunter Monica     005
+Kuykendall Mi     003         Mesa David Ad     004
+Ryan Robert C     006         Vargas Vincen     002
+           EMC - Chief Electricians Mate
+Devaughn Rosh     001         Lloyd Derek M     003
+Raatz Hunter      004         Richardson Ja     002
+          ETC - Chief Electronic Technician
+Ackley Donald     006         Alsharif Same     003
+Benes Stanley     005         Cress Devin C     004
+Doney Zachari     001         Okotiuero Vic     002
+           HMC - Chief Hospital Corpsman
+Barrera Caitl     020         Carr Daniel J     014
+Clark Rebecca     016         Clarke Luna D     010
+Davis Ryan Jo     017         Doakes Daniel     009
+Ehbrecht Fran     004         Garrett Natha     024
+Gullett Susan     005         Harris Christ     022
+Kamara Lukman     019         Kiernan James     006
+Langley Cathe     023         Mendoza Kenny     008
+Michaels Mall     018         Orlanda Chris     015
+Santillan Hec     013         Scheckel Mark     007
+Spence Alton      002         Unverrichcarp     021
+Vue Chong         011         Washington To     003
+White Daniel      001         Wilson Mauric     012
+     ITC - Chief Information Systems Technician
+Barnes Joseph     001         Chandler Samu     002
+Harvey Shaka      003
+        LSC - Chief Logistics Specialist
+Collins Micha     005         Coreas Edwin      013
+Doll William      007         Downer Omar A     015
+Fielding Sach     004         Greene Justin     003
+Guillory Kedm     008         Matthews Kend     014
+Oses Abigail      001         Salyers Nicol     002
+Tinsley Jacqu     011         Ududua Topaz      009
+Wolfe Christo     010         Woodworth Ale     012
+Yao Jin Ming      006
+       NCCC - Chief Navy Counselor (Counselor)
+Carpenter Nic     014         Cates Tyler M     016
+Crabtree Jona     017         Deal Damon Ra     004
+Devlin Angela     007         Farris Jennif     008
+Freeman Jessi     012         Gaitten Chris     011
+Gonzalez Epif     006         Gray Melissa      010
+Hufford Matth     002         Lamprich Joel     001
+Medeiros Jaso     005         Oneal Gregory     013
+Stanford Asha     003         Walter Kristo     009
+Wynn Shanna E     015
+        NCRC - Chief Navy Counselor (Recruiter)
+Awbrey Jerric     003         Barkley Caleb     002
+Biri Elizabet     017         Cabrera Luis      019
+Calbang Joshu     014         Cathey Reynol     012
+Crayton Brian     016         Deboer Seth M     004
+Estep Michael     020         Evans Tiffany     011
+Fisher Debora     005         Fleming Otis      022
+Gomez Carlos      018         Gonyaw Theodo     024
+Lacroix Derek     006         Nelson Tiffan     013
+Okiharagaines     010         Palanivelu Na     009
+Panchenko Rya     015         Ramirez Steph     021
+Shuck Jeffrey     007         Stafford Liza     023
+Stevenson Tho     001         Yambo Christo     008
+       PRC - Chief Aircrew Survival Equipmentman
+Anderson Jarv     002         Farr Shayna D     004
+Hanson Richar     005         Kochman Scott     001
+Scott Anthony     003
+         PSC - Chief Personnel Specialist
+Adeyemi Sheri     032         Akinyemi Olay     018
+Coldiron Robe     010         Constantino K     027
+Culligan Aaro     024         Cummings Clif     015
+Darrisaw Jasm     016         Delarosa Paul     021
+Edwards Ryan      013         Frost Ronnie      019
+Garcia Albert     001         Gatica Monica     005
+Hanson Emmanu     014         Hays Christop     002
+Hennies Sean      033         Kessler Jonat     012
+Leavell Demar     020         Leopold Patri     007
+Miller Gary A     022         Morrison Shel     029
+Mosley Darius     028         Ndukah Obioma     030
+Nelson Wendal     017         Oross Andrew      025
+Ortega Steve      011         Pelikan Joann     026
+Razon Judy Ga     031         Rowland Johnn     003
+Schmidt Chris     023         Shaffer Todd      009
+Smith James E     008         Spruill Regin     006
+                YNC - Chief Yeoman
+Ball Dylan Ja     016         Bell Taylor E     030
+Belyeu Ashley     015         Blyleven Step     010
+Bracamonte Ad     002         Bridgeford Au     035
+Brunson Domin     028         Cotton Rosaly     014
+Davis Omar Le     007         Emanuel Nicho     009
+Hale Jendaya      025         Hines Dusty L     037
+Hudson Richar     008         Jessie Lakita     001
+Karnes Trista     029         Kelly Christo     021
+Kroll Jamie R     026         Lanecowart De     032
+Lester Kourtn     018         Lewis Jessica     013
+Lochard Raina     005         Lovan Brice L     017
+Martinez Anne     034         Mcbride Sarit     023
+Melendez Dawn     024         Milford Ketur     006
+Mitchell Jena     036         Nolan Lyndsey     004
+Osborne Travi     027         Parkes Wayde      003
+Randall Morga     019         Rapier Kelci      012
+Ryan Gregory      022         Santens Loren     033
+Sotelo Cecili     011         Tavale Paris      031
+Whitaker Jami     020
+
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

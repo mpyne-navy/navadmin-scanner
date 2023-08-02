@@ -1,0 +1,89 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 012014Z AUG 23 MID120000340864U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 176/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/NAVY MATERNITY UNIFORM PILOT PROGRAM ENHANCEMENT// 
+ 
+REF/A/DOC/CNO WASHINGTON DC/15DEC21// 
+REF/B/DOC/COMNAVPERSCOM/23AUG21// 
+ 
+NARR/REF A IS NAVADMIN 284/21, NAVY MATERNITY UNIFORM PILOT PROGRAM. 
+REF B IS NAVPERS 15665J, U.S. NAVY UNIFORM REGULATIONS.// 
+ 
+RMKS/1.  This NAVADMIN announces an enhancement to the Navy Maternity Uniform 
+Pilot Program (MPP) by providing participating Sailors options for issued 
+maternity uniforms during their pregnancy. 
+ 
+2.  Background.  Since January 2022, over 850 MPP Sailors have received one 
+set of each type of authorized maternity uniform in line with references (a) 
+and (b).  All components and items were delivered to the selected home of 
+each participant and ready for wear at no personal cost. 
+ 
+3.  Based on participant feedback, the Navy MPP will be expanded by offering 
+a choice of sea bag component options to each participant to better align 
+issued uniforms with daily duties and individual command uniform 
+requirements. 
+ 
+4.  Effective immediately, the Navy MPP will begin offering four maternity 
+sea bag options.  Participants will also have the option to update their 
+selection if uniform requirements change as directed by their 
+command.  Available options include: 
+    a.  Standard Option.  One of each type of maternity uniform and 
+a cardigan sweater. 
+    b.  Waterfront Option.  Two sets of Navy Working Uniforms (NWU), one 
+Service Uniform, one Dress Uniform (Service Dress Blue or White), and a 
+cardigan sweater. 
+    c.  Ashore Staff Option A.  One set of NWUs, two Service Uniforms, one 
+Dress Uniform (Service Dress Blue or White), and a cardigan sweater. 
+    d.  Ashore Staff Option B.  Two Service Uniforms, one or two Dress 
+Uniforms (Service Dress Blue or White one each), and a cardigan sweater. 
+ 
+5.  For more information regarding the Navy MPP uniforms, program 
+participation, eligibility criteria and application process, please refer to 
+the following Navy MPP information sources: 
+    a.  The Navy MPP Application and Participation Guidance and Instructions 
+may be found at: 
+https://www.mynavyhr.navy.mil/References/US-Navy-Uniforms/Maternity-Pilot-
+Program/. 
+    b.  Navy MPP Questions, Concerns, and Feedback may submitted to: 
+maternitypilot@nexweb.org. 
+    c.  Navy MPP Helpline:  1-855-MPP-NAVY 
+    d.  Navy MPP Uniform Measurements Guide may be found at: 
+https://vimeo.com/646945725 
+    e.  Questions regarding this NAVADMIN should be addressed to the 
+Uniform Matters Office (OPNAV N13X) at Navy_MPP.fct@navy.mil or LS1 
+Meagan Cobia, Uniform Matters Special Assistant, 
+meagan.l.cobia.mil@us.navy.mil. 
+    f.  Questions regarding the Navy MPP program execution, 
+available uniforms, uniform measurements, shipping, and delivery 
+should be addressed to MPPcommunicationsteam@nexweb.org or contact 
+Mr. Paul Shields, Associate Director, Uniform Program Management 
+Office, paul.shields@nexweb.org or Mr. Peppino Panecaldo, Supply 
+Systems Analyst, peppino.panecaldo@nexweb.org. 
+    g.  Questions regarding parenthood and pregnancy policies should 
+be addressed to MyNavy HR Parenthood and Pregnancy Policy personnel, 
+at ALTN_PregnancyandParenthood@navy.mil. 
+ 
+6.  Feedback and recommendations regarding Navy uniform and grooming policies 
+are welcomed and can be provided via MyNavy Portal at 
+https://www.mnp.navy.mil/, select Professional Resources, U.S. Navy Uniforms 
+and "Ask The Chiefs" or via the MyNavy UNIFORMS App. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

@@ -1,0 +1,211 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 281639Z JUL 23 MID120000332400U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO SECNAV WASHINGTON DC
+CNO WASHINGTON DC
+NAVY INSIDER THREAT HUB ELEMENT WASHINGTON DC
+
+BT
+UNCLAS
+NAVADMIN 170/23
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/JUL//
+
+SUBJ/POLICY AND GUIDANCE REGARDING THE U.S. NAVY INSIDER THREAT PROGRAM//
+
+REF/A/EXECUTIVE ORDER 13587/07OCT2011//
+REF/B/DOC/SECNAVINST 5510.37A/28OCT2019//
+REF/C/DOC/NDAA FOR FY17, SECTION 922/30NOV2016//
+REF/D/MEMO/DUSN(I&S)/24JUN2022/NOTAL//
+REF/E/DOC/OPNAVINST 5510.165A/01OCT2015//
+REF/F/MSG/ALNAV 070/042232ZOCT07//
+REF/G/DOC/INTELLIGENCE COMMUNITY DIRECTIVE 700-2/JUN2011//
+REF/H/MSG/NAVADMIN 015/211340ZJAN16//
+REF/I/DOC/CNSSD 504/SEP2016//
+REF/J/DOC/NATIONAL INSIDER THREAT TASK FORCE/21NOV2012//
+REF/K/DOC/SECNAVINST 5510.37A/28OCT2019//
+REF/L/MEMO/OPNAV N2N6/MAR2022//
+REF/M/MSG/NIWC PACIFIC SAN DIEGO CA/052306ZOCT21// POC/MR. NEVILLE 
+SMITH/CIV/NIA N7/ARLINGTON VA/TEL: (703) 604-
+5472/EMAIL: NEVILLE.R.SMITH.CIV(AT)US.NAVY.MIL/POLICY//
+POC/MS. ANGELA ONEAL/CIV/NIA N7/ARLINGTON VA/TEL: (703) 604-
+5743/EMAIL: ANGELA.R.ONEAL2.CIV(AT)US.NAVY.MIL/RANDOM POLYGRAPH// POC/MR. 
+TYREE SCOTT/NIA N7/SUITLAND MD/TEL: (301) 669-2898/EMAIL:
+TYREE.C.SCOTT.CIV(AT)US.NAVY.MIL/NAVY UAM CENTER//
+
+NARR/REF A DIRECTS STRUCTURAL REFORMS TO CLASSIFIED NETWORKS TO ENSURE 
+RESPONSIBLE SAFEGUARDING OF CLASSIFIED INFORMATION CONSISTENT WITH PRIVACY 
+AND CIVIL LIBERTIES.  
+REF B PROMULGATES POLICY AND RESPONSIBILITIES FOR THE INSIDER THREAT PROGRAM 
+(INTP).  
+REF C DIRECTS DOD TO ESTABLISH A PROGRAM FOR INFORMATION SHARING PROTECTION 
+AND INSIDER THREAT MITIGATION.  
+REF D SEPARATES THE SINGLE DEPT OF NAVY (DON) INSIDER THREAT ANALYTIC HUB TO 
+ONE FOR NAVY AND ONE FOR MARINE CORPS. 
+REF E ESTABLISHES THE NAVY INTP.  
+REF F SETS POLICY ON PERSONALLY IDENTIFIABLE INFORMATION INDIVIDUAL 
+AWARENESS, TRAINING, COMPLIANCE, AND REPORTING.  
+REF G DESCRIBES USE OF AUDIT DATA FOR COUNTERINTELLIGENCE, INFORMATION 
+ASSURANCE, BUSINESS ANALYTICS, PERSONNEL SECURITY, AND OTHER AUDIT NEEDS.  
+REF H DESCRIBES MEASURES TO MITIGATE AND DETER POTENTIAL INSIDER THREAT TO 
+CLASSIFIED INFORMATION, SYSTEMS, AND NETWORKS.  
+REF I DEFINES USER ACTIVITY MONITORING REQUIREMENTS.  
+REF J LEVERAGES EXISTING LAWS, STATUTES, AND RESOURCES TO COUNTER INSIDER 
+THREAT.  
+REF K ESTABLISHES THE DON INTP.  
+REF L DELEGATES AUTHORITY AND RESPONSIBILITY TO NAVAL INTELLIGENCE ACTIVITY 
+TO MANAGE AND OVERSEE NAVYS INTP.  
+REF M ADDRESSES UPDATED MCAFEE ENDPOINT PRODUCTS TO SUPPORT CANES SW2.X AND 
+SW3 STIG REQUIREMENTS ON CANES CENTRIXS (SR) AND SENSITIVE COMPARTMENTALIZED 
+INFORMATION (SCI) SECURITY ENCLAVES ON FORCE AND UNIT LEVEL PLATFORMS.//
+
+RMKS/1.  Navys InTP identifies potential malicious insiders within the U.S. 
+Navy and reports those personnel to leadership to prevent or mitigate 
+activity that could be harmful to Navy personnel, resources, or information.  
+InTP is a centralized Navy Program, mandated by reference (a) and focused on 
+early identification and reporting of any potential malicious activity.  This 
+NAVADMIN identifies critical actions to further posture the InTP to help 
+every Navy command guard against such threats and to mature processes and 
+readiness to stay ahead of the constantly evolving threat.  In addition to 
+the InTP, this message tasks Commands to take actions to empower Navys User 
+Activity Monitoring (UAM), giving the UAM access to critical information 
+sources that aid in identifying Insider Threats through online communications 
+activities.  We must work together to increase our chances in early 
+identification of such threats to our mission.
+
+2.  InTP has six lines of operation: (1) Navy Insider Threat (InT) policy, 
+(2) UAM on Navy classified networks and systems, (3) Navy InT Analytical Hub 
+operations, (4) Random Polygraph Program for Navy Privileged Users (PU), (5) 
+Navy InT Strategic Engagement and Outreach Program, and (6) posturing Navy to 
+meet National Insider Threat Task Force and DoD InTP standards.  Navy InTP is 
+managed by OPNAV N2N6 serving as the Navy Executive Agent for Insider Threat.
+
+3.  Insider Threat: Commanders, Directors, and Supervisors at all echelons 
+must establish a culture of InT awareness and deterrence by reinforcing InT 
+training and education and emphasizing Sailors and employees duties and 
+responsibilities to notify appropriate leadership of suspicious behaviors or 
+activities.  A single insider threat, through any number of malicious 
+activities, can directly and negatively impact readiness, morale, trust, and 
+credibility of the Navy within the United States and with our allies abroad.  
+A malicious insider with the appropriate access can cause significant impact 
+to the Fleet and the Joint force, harming our ability to accomplish our 
+Nations mission.  Commanders must be watchful for the InT and ensure prompt, 
+decisive action is taken when provided with evidence of a potential malicious 
+insider.  At a minimum, Commanders will:
+    a.  Develop command policies that support Navy InTP, as outlined in 
+reference (e), and comply with National, DoD, DON, and Navy InTP policies, 
+including, but not limited to, those pertaining to OPNAVINST 5510.165.  
+Include procedures to report perceived InTs to the Policy POC listed above.
+    b.  Designate a command InT Representative to coordinate with the Navy 
+InTP.  Email the InT Representatives contact information to the Policy POC 
+listed above.
+    c.  Upon receipt of a Navy Insider Threat Risk Analysis (ITRA) memorandum 
+from the Navy InT Hub, report to the InT Hub all mitigating actions taken 
+within 30 days of initial receipt of the ITRA.
+    d.  Direct all cleared employees complete InT awareness
+training: DON-CIAR-1.0-NCIS Counterintelligence and Insider Threat Awareness 
+and Reporting Training available in TWMS at 
+https://twms.dc3n.navy.mil/login.asp.  Training must be completed 30 days of 
+initial employment, entry-on-duty, or following the granting of access to 
+classified information and annually thereafter.  Report completion to the 
+Command InT Representative.
+    e.  Report potential InT activity via the command InT Representative or 
+directly to the Navy Insider Threat Hub.  InT reports of potential malicious 
+insider activity can be submitted through the DON InT Reporting Portal at 
+www.secnav.navy.mil/itp or by contacting the Navy InT Hub at (703) 695-7700 
+or insiderthreat.fct(AT)navy.mil.
+        (1) Navy Reporting Criteria and Potential Risk Indicators
+(PRI) for InT are listed below.  Any activity observed under the listed 
+criteria should be reported to the chain of command and to the Navy InT Hub.  
+All reports made to the Navy Hub will be compliant with personally 
+identifiable information (PII) handling standards per reference (f).
+            Criteria 1: Serious Threats (e.g. threatening violence in the 
+workplace)
+            Criteria 2: Allegiances Against the United States/Terrorism (e.g. 
+expressing ill-will towards the government)
+            Criteria 3: Espionage/Foreign Considerations (e.g.
+unreported foreign contacts or relationships)
+            Criteria 4: Unusual Behavior and Signs of Excessive Stress (e.g. 
+extreme changes in behavior)
+            Criteria 5: Criminal, Violent, or Abusive Conduct (e.g.
+involvement in criminal activity)
+            Criteria 6: Financial Considerations (e.g. unexplained
+affluence)
+            Criteria 7: Self-Destructive Behaviors or other Behavioral 
+Considerations (e.g. suicidal ideations)
+            Criteria 8: Security Infractions or Violations (e.g.
+willful or negligent compromise of classified data)
+            Criteria 9: Misuse of Information Technology (e.g.
+negligent misuse; malicious damage/destruction)
+            Criteria 10: Personnel Security and Human Resources 
+Considerations (e.g. absent without leave)
+    f.  For Navy ashore SIPRNet and JWICS network owners and afloat units 
+operating CANES:
+         (1) Provide the Navy InTP access to appropriate data streams (i.e. 
+audit logs, Lightweight Directory Access Protocol (LDAP), Active Directory, 
+etc.) and records to allow for effective Insider Threat Program analysis.
+             (a) Provide LDAP data in .csv file format to the Navy UAM POC 
+listed above.  LDAP data transfer and ingestion will occur by the eigth day 
+of the first month of each quarter (8 January, 8 April, 8 July, and 8 
+October).  The Navy UAM Center will maintain secure control of the data, 
+ensuring only authorized personnel are permitted to review LDAP data.
+             (b) LDAP data must contain:
+                 1.  User Principal Name (UPN)
+  2.  User DoD ID Number
+                 3.  Common name
+                 4.  Command
+                 5.  Department
+                 6.  Email address
+                 7.  Supervisor
+                 8.  Telephone number
+                 9.  Title
+         (2) Provide the Navy InTP a POC for all network owners and 
+alternates, to include the Information System Security Manager
+(ISSM) name, email address, and contact number.
+         (3) Maintain and share situational awareness of the network 
+environment with the Navy InTP to facilitate accurate identification of 
+anomalous activity, for example network outage vice sabotage.
+         (4) Incorporate InT mitigation requirements into planning, 
+programming, readiness, and inspection decisions.
+         (5) For Commands with CANES SW2/SW3 installed per reference (m), 
+report ship name, CANES install date, and ship Information System Security 
+Manager (ISSM) contact information to the UAM POC listed above.  Once 
+received the Navy UAM Center will provide a testing schedule to validate UAM 
+access.
+
+4.  Random Counterintelligence (CI) Polygraph Program for Privileged Users 
+(PU): Recent high-profile compromises highlight the need to increase the 
+frequency of Random CI Polygraph Program for PUs, those with system 
+administrator or similar accesses. Per reference (h) and to better respond to 
+this type of threat, Commands will ensure Navy PUs with enhanced access to 
+JWICS receive a CI polygraph once every two years.
+    a.  InTP will manage and coordinate the Random CI Polygraph Program for 
+PUs with both NCIS and the associated command.  InTP will enroll all PUs in 
+DoDs continuous monitoring program and random polygraph pool to ensure 
+appropriate management.
+    b.  Commands that manage Navy JWICS networks and systems will provide a 
+list of military, civilian, and contractor PU to the Navy InTP Polygraph POC 
+listed above.  Provide an Excel spreadsheet indicating the name of the PU, 
+classified systems of privileged access, job function, DoD ID number, 
+command, and date of last polygraph.  Commands will maintain an inventory of 
+PUs and routinely review and revalidate PU status to verify the privileges 
+are commensurate with the individuals job requirements.
+
+5.  This NAVADMIN will remain in effect until cancelled or superseded.
+
+6.  Released by VADM Jeffrey E. Trussler, Deputy Chief of Naval Operations 
+for Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
