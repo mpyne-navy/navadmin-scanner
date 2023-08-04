@@ -1,0 +1,43 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 031515Z AUG 23 MID120000345242U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 179/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS//
+
+SUBJ/USS ARIZONA MEMORIAL TROPHY WINNER//
+
+REF/A/DOC/CNO/14MAR2016//
+
+AMPN/REF A is OPNAVINST 3590.11G, The Arleigh Burke Fleet Trophy, Marjorie 
+Sterrett Battleship Fund Award, and USS ARIZONA Memorial Trophy.//
+
+RMKS/1. It is an honor to announce USS GRAVELY (DDG 107) as the 2021-2022 USS 
+ARIZONA Memorial Trophy winner! BRAVO ZULU to this year's runner up, USS 
+SPRUANCE (DDG 111).
+
+2. The USS ARIZONA Memorial Trophy is awarded biennially to the ship 
+achieving the greatest combat readiness in strike warfare, surface fire 
+support, and anti-surface warfare.
+
+3. USS GRAVELY's accomplishments are a testament to the professionalism and 
+dedication of her crew and set a combat readiness benchmark for all to 
+emulate.  Your hard work and commitment to excellence embody the relentless 
+fighting spirit of USS ARIZONA and are deserving of this prestigious award.
+
+4. Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
