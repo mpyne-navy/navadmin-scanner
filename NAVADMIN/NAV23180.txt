@@ -1,0 +1,158 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 042018Z AUG 23 MID120000348886U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 180/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC//AUG/ 
+ 
+SUBJ/75 YEARS OF POWERING MARITIME DOMINANCE - CALDWELL SENDS// 
+ 
+RMKS/1. On Friday 4 August 2023, we commemorated the 75th Anniversary of the 
+founding of the Naval Nuclear Propulsion Program (NNPP) with then Captain 
+Rickover as its FIRST director. In recognition of this anniversary, Naval 
+Reactors (NR) kicked-off a year-long tribute to the program and our people. 
+This message invites you to find ways to COMMEMORATE, CELEBRATE and CONTINUE 
+the legacy of our Program. 
+ 
+2. Importantly, the NR legacy and contributions to the U.S. Navy are not the 
+product of one individual, but are the result of phenomenal work over decades 
+by a collection of highly dedicated individuals, including active duty 
+members, federal employees in the Department of Navy and the Department of 
+Energy and other agencies, our partners in industry, our allies, and our 
+strong supporters on Capitol Hill. The Fleet has played and continues to play 
+an important role in delivering the platforms, the capabilities, and the 
+leaders that the NNPP produces. 
+ 
+3. First, I want to COMMEMORATE the bold vision of Admiral Rickover and the 
+tireless efforts of his team 75 years ago; they made the impossible, 
+possible.  The NNPP came into existence on 4 August 1948 and just seven years 
+later, USS NAUTILUS (SSN 571) went to sea, changing naval sea power forever! 
+Just three years later, on 3 August 1958, the crew of NAUTILUS sailed under 
+the North Pole for the first time ever. Such a journey was previously 
+unthinkable, but this single event demonstrated the awesome, asymmetric 
+advantage that nuclear power afforded our Navy. This remarkable 
+accomplishment proved that the NAUTILUS could go to any ocean in the world, 
+anytime, and remain there virtually as long as desired. 
+a. The pace of the program in these early years was astounding. When NAUTILUS 
+went under the ice, the Navy was already sailing four fully-operational 
+nuclear powered submarines.  We were also building the first nuclear powered 
+aircraft carrier - USS ENTERPRISE (CVN 68) with eight reactor plants. And our 
+first strategic ballistic missile submarine, USS GEORGE WASHINGTON (SSBN 598) 
+would go on the first strategic deterrent patrol within the next two years. 
+b. We could not have achieved this without Admiral Rickover's leadership. His 
+relentless energy, uncompromising high standards, and courageous impatience 
+transformed our Navy, transformed U.S. industry and shipbuilding, and built 
+the enduring culture of technical excellence that fuels the nuclear Navy to 
+this very day. 
+ 
+4.  Second, I want to CELEBRATE the Program's contributions to America's 
+national defense over many decades including one of the most important 
+legacies of Admiral Rickover, that of delivering results. Over the life of 
+the Program we have operated 273 reactors, taken 562 reactor cores critical, 
+including 33 different designs, and steamed over 171 million miles 
+accumulating 7500 reactor years of safe operations. Today the U.S. Navy 
+operates 99 reactors and 79 nuclear powered warships including (fittingly) 
+the HYMAN G. RICKOVER (SSN 795) that just completed sea trials. Right now, 
+the largest, most capable warship ever built - USS GERALD R. FORD (CVN 78) - 
+is on her maiden deployment in European waters underway on nuclear power. 
+Concurrently this past week, 30 of our submarines were on patrol or operating 
+at sea with several executing missions that even Admiral Rickover could not 
+have imagined. 
+a. Over the life of the Program, there has been an amazing legacy that 
+includes: Longer lived reactor cores and components; stunning advancements in 
+submarine acoustic quieting that make our submarines extremely difficult to 
+find; truly impressive achievements in the application of material science 
+and manufacturing techniques; highly innovative designs including modular 
+construction methods and simplified human machine interfaces; and an 
+unwavering commitment to technical knowledge and operator training. 
+b. The Program has also made strong commitments to our partners and allies.   
+Most notably, our friendship with the United Kingdom's Nuclear Propulsion 
+Program is built on the 1958 MDA and is strengthened today by our combined 
+efforts to support DREADNOUGHT delivery. Also, over the decades the Navy and 
+State Department have teamed to expand our global presence.  This is best 
+exemplified in the USS RONALD REAGAN (CVN 76)'s continuous deployment 
+out of Yokosuka, Japan, and recent first-ever port calls by nuclear powered 
+vessels in Vietnam and Iceland. 
+ 
+5. Finally, we should reflect on our future and our collective responsibility 
+to CONTINUE Admiral Rickover's legacy of innovation and delivering results 
+for the U.S. Navy. Today, we are building a reactor core that will have the 
+longest service life of any core in our Program for the COLUMBIA - over 40 
+years without refueling. We are taking our knowledge and application of 
+acoustic quieting to the next level with the electric drive on COLUMBIA, 
+performance enhancements on VIRGINIA submarines, and we are laying the 
+technical groundwork for the next generation of fast-attack submarine to 
+include greater stealth, speed, and payload volume. And we are investing in 
+and advanced manufacturing techniques such as additive manufacturing, 
+robotics, and machine learning to reduce costs, construction timeline and 
+maintenance spans. Our pursuit of innovative designs and concepts will enable 
+the next generation of instrumentation and control systems and has put us on 
+an aggressive path to revolutionize initial operator training through 100 
+percent use of high fidelity immersive trainers. Finally, under AUKUS we are 
+stepping up technology sharing with the United Kingdom and we are 
+aggressively moving forward to assist Australia in building their own nuclear 
+submarine capability creating an unprecedented strategic advantage for our 
+three countries. 
+ 
+6.  COMMEMORATING our Program's 75-year history allows us to reflect on our 
+past achievements with great pride, but as we CELEBRATE, we are also thinking 
+about CONTINUUING to Power Maritime Dominance for the next 75 years. We 
+remain committed to the principles of responsibility and stewardship that 
+Admiral Rickover annealed into the Program. 
+Our future success will depend on the strong support and lasting trust of the 
+great partners we have developed over decades, so accordingly, I want to 
+express my deep gratitude to: 
+a. Our highly trained Sailors, Chiefs and Officers in the Fleet who enforce 
+and maintain our Program's high standards on the deck plate and continue to 
+speak and live "the language of Rickover!" 
+b. Our Congressional leaders in the House and Senate who fund and support our 
+efforts to maintain the world's greatest nuclear powered warships. 
+c. Our nuclear capable shipyards, vendors, and DOE laboratories who continue 
+to carry what Admiral Rickover termed "the burdens of a strong defense" in 
+designing, building, and maintaining our fleet. 
+d. Our DOE partners, especially those at the National Nuclear Security 
+Administration, who collaborate with and help fund the research and 
+development efforts so vital to our program. 
+e. Our colleagues at the Nuclear Regulatory Commission who have been, and 
+continue to be, valued partners in all we do. 
+f. And our foreign partners, including the United Kingdom, Australia and 
+Japan, to name only a few, who help us expand the reach of our nuclear 
+powered Fleet. 
+ 
+7.  I invite and encourage you to help us celebrate our 75th Anniversary, to 
+include recognizing our nuclear trained Sailors, your command, and Program 
+accomplishments throughout the next year. 
+There will be many occasions to COMMEMORATE historical events, CELEBRATE 
+individual Sailors and command achievements, and CONTINUE to challenge what's 
+possible. Fittingly an upcoming important date will be the USS HYMAN G. 
+RICKOVER (SSN 795) Commissioning on 14 October 2023. I ask that you consider 
+other opportunities to tell our story including: Recruiting and STEM 
+events; Port visits and tours; Command awards and all-hands events; Ship 
+birthdays; and social media and individual Sailor highlights. My team is 
+standing by to hear your ideas, suggestions, and help highlight your efforts. 
+We have made resources available online at: 
+https://www.dvidshub.net/unit/NNPP.  The NR Anniversary is an active public 
+affairs posture, please contact my POC for the communications plan or 
+assistance. 
+ 
+8.  Point of contact.  NR POC is Kellie Randall, kellie.m.randall.civ 
+(AT)us.navy.mil. 
+ 
+9.  ADM Caldwell sends. 
+ 
+10. Released by Mr. Andrew Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
