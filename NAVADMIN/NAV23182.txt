@@ -1,0 +1,49 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 091844Z AUG 23 MID120000359700U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 182/23
+
+PASS TO OFFICE CODES:
+INFO CNO WASHINGTON DC//DNS//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/-/AUG//
+
+SUBJ/2022-23 MASTER CHIEF PETTY OFFICER OF THE NAVY DELBERT D. BLACK 
+LEADERSHIP AWARD SELECTION//
+
+REF/A/DOC/OPNAV/02FEB2015//
+
+AMPN/REF A IS OPNAVINST 1650.36, THE MASTER CHIEF PETTY OFFICER OF THE NAVY 
+DELBERT D. BLACK LEADERSHIP AWARD// POC/JAMES/CMDCM/OPNAV N00D/-/TEL:  
+(703)695-2970/DSN: 225-2970/
+EMAIL: RICHARD.L.JAMES2.MIL(AT)US.NAVY.MIL//
+
+RMKS/1.  The Master Chief Petty Officer of the Navy is pleased to announce 
+the selection of STSCM Michael Micheli, stationed onboard USS INDIANA (SSN 
+789), as the 2022-23 MCPON Delbert D. Black Leadership Award recipient.
+
+2.  STSCM Micheli was selected from a field of outstanding finalists 
+representing the finest first-tour Command Master Chiefs, Command Senior 
+Chiefs, and Chiefs of the Boat in the Navy.  Congratulations to him and the 
+other finalists.
+
+3.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
