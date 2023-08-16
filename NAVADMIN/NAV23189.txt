@@ -1,0 +1,67 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151453Z AUG 23 MID600053251048U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 189/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC 
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/AUG// 
+ 
+SUBJ/NAVY ORGANIZATION MANAGEMENT - UPDATED ORGANIZATION CHANGE REQUEST 
+MANUAL AND OCR FORM// 
+ 
+REF/A/DOC/OPNAV/19 APR 23// 
+REF/B/DOC/OPNAV/09 NOV 22// 
+REF/C/DOC/OPNAV/JUN 2023// 
+ 
+AMPN/Reference (a) is OPNAVINST 5400.44B Navy Organization Change Manual. 
+Reference (b) is the Standard Navy Distribution List. 
+Reference (c) is the OPNAV 5400-1 Form revision June 2023.// 
+ 
+RMKS/1. Purpose. Notify organizations of the latest revision and release of 
+the OPNAVINST 5400.44B Navy and updated OPNAV Form 5400/1. 
+ 
+2. Major updates to the OPNAVINST 5400.44B include the procedures and 
+processes for submission of Organization Change Request (OCR) actions and 
+Standard Navy Distribution List (SNDL) to Director, Navy Staff (DNS) for 
+changes and modifications.  On 2 May 2022, the Department of the Navy (DON) 
+transitioned to Enterprise Task Management Solution System (ETMS2). 
+References (a) and (b) are both revised to incorporate ETMS2 processes and 
+updated the location of the SNDL. 
+ 
+3. Reference (c) has been updated to enable electronic approvals and is to be 
+submitted to DNS12 with digital signatures versus wet ink scanned copies 
+uploaded to ETMS2. This allows for echelon 1 resource sponsors and 
+coordination echelon 2 organizations to additionally sign the same form 
+without multiple incomplete copies existing for submission to DNS 12. Form is 
+available for download from DLA Forms online 
+website: https://forms.documentservices.dla.mil/order/. 
+ 
+4. Due to issues with the OPNAV portal access for personnel without 
+flankspeed accounts, the SNDL is additionally hosted on a MilSuite and 
+updated quarterly: "https://www.milsuite.mil/book/groups/cno-dns12-navy-
+organization-management." The OPNAV portal will continue to host the primary 
+SNDL location and is updated as frequently as required by changes submitted 
+to the DNS 12 team: 
+" https://flankspeed.sharepoint-
+mil.us/sites/OPNAV/DNS/DNS1/DNS12/SitePages/Home.aspx ". 
+ 
+5.  For questions or concerns regarding OCRs, please contact your local 
+administrative team, echelon 2 point of contact, or the DNS 12 Navy 
+Organization Management Team at dns12navyorgmgt(at)us.navy.mil. 
+ 
+6.  Applicability.  This NAVADMIN is applicable to all commands who submit 
+OCRs to DNS or on behalf of subordinate commands. 
+ 
+7.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
