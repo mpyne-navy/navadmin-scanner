@@ -1,0 +1,124 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 161943Z AUG 23 MID600053257991U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 194/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/NAVAL SPECIAL WARFARE CHIEF WARRANT OFFICER RETENTION BONUS PROGRAM// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/261355ZFEB20// 
+REF/B/DOC/U.S.C./22DEC22// 
+REF/C/DOC/ASN MRA/28JUL23// 
+ 
+NARR/REF A NAVADMIN 049/20, RENEWAL OF NAVAL SPECIAL WARFARE SENIOR ENLISTED 
+AND CHIEF WARRANT OFFICER CRITICAL SKILLS RETENTION BONUS PROGRAM.   
+REF B IS SECTION 332 OF TITLE 37 U.S. CODE, GENERAL BONUS AUTHORITY FOR 
+OFFICERS.   
+REF C IS THE ASN MRA AUTHORIZATION OF THE CHIEF WARRANT OFFICER RETENTION 
+BONUS PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN cancels reference (a) and announces authorization of 
+the Naval Special Warfare (NSW) Chief Warrant Officer (CWO) Retention Bonus 
+(RB) program. 
+ 
+2.  Program Overview.  This bonus is authorized under references (b) and 
+(c).  The NSW program manager, OPNAV N137, will act as the NSW CWO RB program 
+manager.  All applications for this bonus will be submitted to the program 
+manager for processing and tracking.  CWOs will receive the bonus in a lump 
+sum payment, effective from the date of contract execution.  The program 
+manager may make adjustments within the limits of reference (c), as needed. 
+ 
+3.  Eligibility.  Effective 28 July 2023, NSW CWOs with the 7151 or 7171 
+designator who have between 20 and 28 years of active service (YOAS), will be 
+eligible to apply for the NSW CWO RB, but must also meet the following 
+eligibility criteria: 
+    a.  Be serving on Active Duty in the active component. 
+    b.  Have completed four years of active commissioned service. 
+    c.  Have the favorable recommendation of their commanding officer (CO) 
+for receipt of NSW CWO RB. 
+ 
+4.  Ineligibility: 
+    a.  CWOs serving under an existing critical skills retention bonus 
+contract or an existing accession bonus contract are not eligible to receive 
+a NSW CWO RB for service outlined in the original contract agreement. 
+    b.  CWOs with documented misconduct or below standard performance may be 
+removed from NSW CWO RB eligibility. 
+ 
+5.  Contract terms.  NSW CWO RB contract lengths, payments, and active 
+component service obligations are outlined below. 
+    a.  CWOs may sign a NSW CWO RB contract at 20 YOAS.  CWO2/CWO3s are 
+eligible to contract to 26 YOAS.  CWO4/CWO5s are eligible to contract to 30 
+YOAS.  If a CWO serves a partial year, that year will be prorated pursuant to 
+the bonus amount of that year.  Minimum contract length is two 
+years.  Contract phases may be combined as long as the CWO is eligible to 
+receive payments to the contracted end dates.  All CWOs must contract no 
+later than 28 YOAS.  Specific bonus amounts are graduated in line with YOAS. 
+        (1) Phase One NSW CWO RB.  Must be a CWO2 or above with a 7151 or 
+7171 designator to apply for a phase one bonus.  CWOs will have the 
+opportunity to receive up to 90,000 dollars in RB for phase one 
+contracts.  At a minimum, members must contract through 21 YOAS. 
+YOAS                Bonus Amount 
+20+                 20,000 dollars 
+21+                 20,000 dollars 
+22+                 25,000 dollars 
+23+                 25,000 dollars 
+        (2) Phase Two NSW CWO RB.  Must be CWO2 or above with a 7151 or 7171 
+designator to apply for a phase two bonus.  CWOs will have the opportunity to 
+receive up to 50,000 dollars in retention bonuses for phase two contracts. 
+YOAS                Bonus Amount 
+24+                 25,000 dollars 
+25+                 25,000 dollars 
+        (3) Phase Three NSW CWO RB.  Must be CWO4 or above with a 7151 or 
+7171 designator to apply for a phase three bonus.  CWOs must contract no 
+later than 28 YOAS.  CWOs will have the opportunity to receive up to 40,000 
+dollars in retention bonuses for phase three contracts. 
+YOAS                Bonus Amount 
+26+                 10,000 dollars 
+27+                 10,000 dollars 
+28+                 10,000 dollars 
+29+                 10,000 dollars 
+        (4) CWO RB Contract.  Contract phases may be combined as long as the 
+CWO is eligible to receive payments to the contracted end dates. 
+    b.  NSW CWO RB contracts will be for a minimum of two years and a 
+maximum of four years.  CWOs under the CWO RB contract will not submit a 
+request for retirement with an effective date that is prior to the completion 
+of the agreement. 
+ 
+6.  Program Execution: 
+    a.  CWOs should submit requests for NSW CWO RB to the program  manager 30 
+to 60 days prior to the requested start date. 
+    b.  Upon acceptance of an agreement of the CWO by the program manager, 
+the amount of the bonus becomes fixed and the CWO incurs a firm service 
+obligation. 
+    c.  CWOs will receive the bonus in a lump sum payment, effective from the 
+date of contract execution. 
+    d.  CWO RB requests for personnel who are being processed for 
+disciplinary action, additional qualification designator removal, or 
+restoration will be held in abeyance pending final resolution. 
+ 
+7.  Application.  The following documents are required: 
+    a.  Letter of the officer requesting a NSW CWO RB contract. 
+    b.  COs endorsement letter. 
+ 
+8.  Point of contact is the Naval Special Warfare Officer Community Manager 
+at (703) 604-5063/DSN 664 or via e-mail at SEAL_OCM@navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

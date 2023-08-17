@@ -1,0 +1,63 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 171631Z AUG 23 MID600053262830U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 197/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/NAVY WORKING UNIFORM TYPE III WEAR IN THE NATIONAL CAPITAL REGION// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N1/092007ZJUL20// 
+REF/B/DOC/COMNAVPERSCOM/23AUG21// 
+REF/C/MSG/COMNAVDIST WASHINGTON DC/151829ZAUG23// 
+REF/D/DOC/COMNAVDIST WASHINGTON DC/15AUG23// 
+ 
+NARR/REF A IS NAVADMIN 196/20, NAVY WORKING UNIFORM TYPE III AND FLIGHT SUIT 
+WEAR RESTRICTION IN THE NATIONAL CAPITAL REGION.   
+REF B IS NAVPERS 15665J, U.S. NAVY UNIFORM REGULATIONS.   
+REF C IS NAVAL DISTRICT WASHINGTON UPDATED UNIFORM POLICY FOR THE NATIONAL 
+CAPITAL REGION.   
+REF D IS NDWINST 1020.6A, UNIFORM POLICY AND REGULATIONS INSTRUCTION.// 
+ 
+RMKS/1.  This NAVADMIN supersedes reference (a) and updates reference (b) in 
+line with references (c) and (d), authorizing the expanded optional wear of 
+the Navy Working Uniform (NWU) Type III in the National Capital Region (NCR). 
+ 
+2.  Effective immediately, authorized wear of the NWU Type III, in line with 
+references (b) through (d), is expanded for all Navy personnel while in the 
+NCR: 
+    a.  The NWU Type III is authorized for wear at all locations in the NCR 
+with the exception of the National Mall area bounded by Capitol Hill and 
+surrounding Senate and House Staff offices, the White House and Executive 
+Office building, Department of State, and all monuments and memorials unless 
+specifically authorized for a Joint Task Force National Capital Region (JTF-
+NCR) mission.  The NWU Type III is authorized for wear at the Pentagon as the 
+alternate uniform of the day except on Fridays. 
+    b.  NWU Type III wear is authorized while commuting to and from work 
+using privately owned vehicles, government conveyance, public commuter 
+transportation (metro bus, metro rail, rideshare, commuter vans, taxis, and 
+ferries), and slug lines outside the Pentagon. 
+Wear is also authorized in office environments at headquarters staffs within 
+the NCR unless otherwise directed. 
+    c.  Flight suits are not included in this expanded NWU Type III 
+authorization.  Flight suits are only authorized in the NCR for personnel in 
+an actual flight duty status for that day. 
+ 
+3.  Retain this NAVADMIN until policy changes are incorporated in reference 
+(b), superseded or canceled, whichever occur first. 
+ 
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

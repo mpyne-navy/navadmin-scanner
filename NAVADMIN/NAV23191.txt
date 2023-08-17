@@ -1,0 +1,48 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 161936Z AUG 23 MID600053257930U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 191/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/SENATE CONFIRMATION OF OFFICERS SELECTED BY THE FY-24 ACTIVE-DUTY NAVY 
+CAPTAIN LINE AND STAFF CORPS BOARDS// 
+ 
+REF/A/MSG/SECNAV WASHINGTON/181452Z APR 23// 
+REF/B/MSG/SECNAV WASHINGTON/101454Z MAY 23// 
+REF/C/DOC/SECNAV/30OCT18// 
+ 
+NARR/REF A IS ALNAV 031/23, FY-24 ACTIVE-DUTY NAVY CAPTAIN LINE SELECTIONS.   
+REF B IS ALNAV 039/23 FY-24 ACTIVE-DUTY NAVY CAPTAIN STAFF CORPS 
+SELECTIONS.  REF C IS SECNAVINST 1420.2B, FROCKING OF COMMISSIONED 
+OFFICERS.// 
+ 
+RMKS/1.  This NAVADMIN announces the Senate confirmed nomination of the 
+officers listed in references (a) and (b) for promotion to the grade of 
+Active-Duty captain line in the U.S. Navy on 21 June 2023 and Active-Duty 
+captain staff corps on 21 June 2023. 
+ 
+2.  Frocking of officers is not authorized without specific approval from the 
+Chief of Naval Personnel.  Individual requests for frocking of officers 
+should be submitted in line with reference (c). 
+ 
+3.  Point of contact is Ms. Jacqueline Hoye at (901) 874-4127/DSN 882, or via 
+e-mail at Jacqueline.d.hoye.civ@us.navy.mil. 
+ 
+4.  This message is canceled for record purposes on 30 September 2023. 
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

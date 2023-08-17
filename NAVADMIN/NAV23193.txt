@@ -1,0 +1,57 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 161935Z AUG 23 MID600053257928U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 193/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/EVALUATIONS FOR SENIOR CHIEF PETTY OFFICERS SCREENED TO MASTER CHIEF 
+PETTY OFFICER// 
+ 
+REF/A/MSG/CNO/221531ZNOV22// 
+REF/B/DOC/BUPERS/10DEC21// 
+ 
+NARR/REF A IS NAVADMIN 261/22, SENIOR ENLISTED MARKETPLACE - E-9 BILLET BASED 
+ADVANCEMENT.   
+REF B IS BUPERSINST 1610.10F WITH CHANGE 1, NAVY PERFORMANCE EVALUATION 
+SYSTEM.// 
+ 
+RMKS/1.  This NAVADMIN provides guidance in support of reference (a) as it 
+relates to senior chief petty officer (SCPO) evaluations regulated by 
+reference (b).  Reporting seniors should take the following actions when 
+evaluating SCPOs who screened for master chief petty officer (MCPO) via the 
+Senior Enlisted Marketplace E-9 screening board: 
+    a.  Maintain screened SCPOs in their regular reporting periodicity. 
+(e.g. annual reports ending on 15 September) 
+    b.  Maintain screened SCPOs in their regular E-8 grouping per the 
+following: 
+        (1) Block 8:  "Regular" report usage required. 
+        (2) Block 21:  "N/A" unless another option applies (such as 
+Individual Augmentee). 
+        (3) Block 41:  When appropriate reporting seniors are encouraged to 
+document that a SCPO has not moved up in rankings/performance mark average 
+due to screened SCPOs in front of them. 
+ 
+2.  Additionally, in cases where a screened SCPO's performance would 
+negatively impact their screened status, reporting seniors are encouraged to 
+document deficiencies in performance or behavior in a special report. 
+ 
+3.  For questions and concerns regarding this policy, contact FORCM(AW/SW) 
+William P. Houlihan at (901) 874-3030, or via e-mail at 
+william.p.houlihan.mil@us.navy.mil. 
+ 
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
