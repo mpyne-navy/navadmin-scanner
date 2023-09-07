@@ -1,0 +1,102 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 051236Z SEP 23 MID600053318120U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+NAVY INSIDER THREAT HUB ELEMENT WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 211/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/U.S. NAVY INSIDER THREAT AWARENESS MONTH// 
+ 
+REF/A/DOC/NDAA/23DEC16// 
+ 
+AMPN/REF A IS NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2017, 
+SECTION 951// 
+POC/MS. ARLENE SEAWARD/CIV/NIA N7/ARLINGTON, VA/TEL: 
+(703) 604-5471/EMAIL:  ARLENE.SEAWARD.CIV(AT)US.NAVY.MIL/POLICY// 
+ 
+RMKS/1.  September is National Insider Threat Awareness Month (NITAM).  This 
+year the theme is Bystander Engagement, which means See Something, Say 
+Something, Do Something.  The Navys priority is to take care of its people, 
+which includes each of us knowing how to recognize insider threat indicators 
+and taking action when we see them.  This requires All Hands on Deck! 
+ 
+2.  The Navy Insider Threat Program developed a list of Insider Threat 
+Potential Risk Indicators (PRI) to help identify concerning behaviors and 
+appropriate actions to take.  A downloadable brochure can be found under the 
+documents tab at https://flankspeed.sharepoint-
+mil.us/sites/OPNAV/N2N6/NIA/InsiderThreat.  Concerning behaviors, such as 
+described by these PRIs, should be reported to your chain of command and to 
+the Navy Insider Threat Hub at (703) 695-7700, insiderthreat.fct(at)navy.mil, 
+or https://www.secnav.navy.mil/itp/Pages/default.aspx.  The Navy Insider 
+Threat Hub provides highly trained, multi-disciplinary, insider threat 
+analysts to assess the potential risk an insider may pose and help Navy 
+choose the best action.  When you report, you are providing the opportunity 
+to prevent or mitigate risks and restore the Sailor, civilian, or contractor 
+back to a trusted status. 
+ 
+3.  This month, a variety of events are offered to raise awareness regarding 
+insider threat.  Some are located in Washington, DC, while others are 
+online.  These events are listed below.  Check your local calendar to see if 
+there are others in your area.  The below events can also be found on Navys 
+Insider Threat Program website at https://flankspeed.sharepoint-
+mil.us/sites/OPNAV/N2N6/NIA/InsiderThreat. 
+    a.  6 September 23:  NITAM Fair hosted by the Office of the Under 
+Secretary of Defense for Intelligence and Security, (OUSD I&S). 
+Time:  1000  1400 EST.  Pentagon, Second Floor Apex 9/10. 
+    b.  14 September 23:  Navy Insider Threat Program Introduction, 
+Partnering with Defense Counterintelligence and Security Agency (DCSA).  The 
+Washington Navy Yard Shooting:  10 Years Later and A Survivors Account.   
+Time:  1200 - 1330 EST.  Register at https://www.cdse.edu/Training/Webinars-
+and-Conferences/. 
+    c.  18 September 23:  Discussion of the Random Polygraph Program at the 
+Office of Naval Intelligence.  Time:  1000 - 1200 EST. Registration is not 
+required.  Visitors must obtain onsite parking and building access.  Contact 
+POC, if you have questions. 
+    d.  20 September 23:  Virtual Deputy Under Secretary of the Navy, 
+Intelligence and Security (DUSN I&S) Insider Threat Symposium Part I. 
+Legal, time:  0800-0900 EST or 1400-1500 EST; Naval Criminal Investigative 
+Service (NCIS), time:  0900-1000 EST or 1500-1600 EST. To join, call 410-874-
+6751, Conference ID:  849 333 314#. 
+        (1) Legal:  Authorities for Insider Threat Programs, and 
+organizations and implementation of Insider Threat Programs within the 
+Department of the Navy. 
+        (2) NCIS:  Importance of providing de-escalation and de-confliction 
+services to Insider Threat Hubs. 
+    e.  21 September 23:  Virtual DUSN I&S Insider Threat Symposium Part 
+II.  Behavioral Science, time:  0800-0900 EST or 1400-1500 EST; 
+Data Science, time:  0900-1000 EST or 1500-1600 EST.  To join, call 
+410-874-6751, Conference ID: 899 664 293#. 
+        (1) Behavioral Science:  The role of the psychologist in the 
+Insider Threat Hub, resources and tools used to consult with the hubs, and 
+Psychologist Dos and Donts within the Subject Matter Expert role. 
+        (2) Data Science:  A holistic overview of data analytics in the 
+Defense Security Enterprise and ongoing data science strategic initiatives 
+within the DUSN I&S. 
+    f.  25 September 23:  Navy Insider Threat Program Virtual Brief with 
+Question and Answer Session.  Time:  1300-1400 EST.  Call 410-874-6751, 
+Conference ID:  801 314 078#. 
+    g.  27 September 23:  Partnering with National Security Agency, 
+Counter Intelligence Awareness & Operations Security.  Time:  0930-1100 
+EST.  Pentagon Conference Center, Room B9.  Visitors must obtain onsite 
+parking and building access.  Contact POC, if you have questions. 
+     h.  28 September 23:  Navy Virtual Insider Threat Briefing/Personnel 
+Security Town Hall Discussion and Q&A, sponsored by Deputy Under Secretary 
+for Intelligence & Security.  Time:  1300-1500 EST. 
+ 
+4.  The risk of insider threat vectors is higher than ever.  Remain vigilant 
+and if you See Something, then Say Something and Do Something.  Security is 
+everyone’s responsibility. 
+ 
+5.  Released by Mr. Scott Bray, Director of Naval Intelligence.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

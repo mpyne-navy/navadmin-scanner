@@ -1,0 +1,51 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 051231Z SEP 23 MID600053318102U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 210/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO//DNS//SEP 
+ 
+SUBJ/ANNOUNCEMENT OF OPNAV 1650/14 (Rev. AUG 23)// 
+ 
+REF/A/DOC/SECNAVINST 1650.1J/29MAY2019// 
+REF/B/DOC/SECNAV M-1650.1//16AUG2019// 
+REF/C/MSG/CNO/WASHINGTON DC/071535ZJUN 23// 
+ 
+NARR/REF A IS THE SECRETARY OF THE NAVY MILITARY AWARDS INSTRUCTION.   
+REF B IS THE NAVY AND MARINE CORPS AWARDS MANUAL.  
+REF C IS THE UNIT AWARDS PROCESS IMPROVEMENT NAVADMIN// 
+ 
+RMKS/1.  As of September 2023, OPNAV 1650/14 (Rev. Mar-2010) has been 
+superseded by OPNAV 1650/14 (Rev. Aug-2023).  All unit awards being 
+originated after 5 September 2023, must be submitted to the Director of 
+Administration (DNS-1), CNO Awards (DNS-13) utilizing OPNAV 1650/14 (Rev. 
+Aug-2023). 
+ 
+2.  The updated form can be accessed at:  
+https://forms.documentservices.dla.mil/order/. The site can be searched by 
+form number or title, using the drop down at the top. Once form has been 
+located, click the silver disc icon to download the form. 
+ 
+3.  Utilize the amplifying guidance in the instruction section on the form to 
+verify form is filled out correctly.  Discrepancies in the form will result 
+in delays in processing the award nomination and potential return to 
+submitting command for rework. 
+ 
+4.  Point of contact is the CNO Awards Branch (DNS-13), 
+cnoawards(AT)us.navy.mil, 703-695-0053. 
+ 
+5.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
