@@ -1,0 +1,75 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 142115Z SEP 23 MID120000441026U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 217/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/UNITED STATES NAVY SENIOR ENLISTED ACADEMY UPDATE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/061759Z JUL 20// 
+REF/B/DOC/MILPERSMAN/1306-925// 
+ 
+NARR/REF A IS NAVADMIN 191/20, UNITED STATES NAVY SENIOR ENLISTED ACADEMY 
+UPDATE.   
+REF B IS MILPERSMAN 1306-925, SENIOR ENLISTED ACADEMIES.// 
+ 
+RMKS/1.  This NAVADMIN announces the alignment with the U.S. Navy's 
+Enlisted Leadership Development continuum.  The U.S. Navy Senior 
+Enlisted Academy (SEA) has ensured capacity to afford every Navy 
+senior chief petty officer (SCPO) the opportunity to attend the SEA 
+prior to selection to master chief petty officer (MCPO). 
+ 
+2.  Starting in Fiscal Year (FY) 2026, all U.S. Navy Active Duty, 
+Training and Administration of the Reserves and Selected Reserve 
+SCPOs will be required to complete the SEA in Newport, Rhode Island, 
+or attend either the Air Force Senior Noncommissioned Officer 
+Academy, Marine Corps Senior Enlisted Academy, Coast Guard Senior 
+Enlisted Leadership Course, Army Sergeants Major Academy, or the 
+Joint Special Operations Forces Senior Enlisted Academy in order to 
+be eligible for advancement to MCPO.  Reference (a) reflects the 
+course construct and the number of classes offered per year.  From 
+the SEA and student perspectives, the current distance learning and 
+in-resident construct significantly reduces the Sailor's time away 
+from home and parent command, while not compromising educational 
+content. 
+ 
+3.  Those Sailors who have already earned the rank of MCPO or are 
+selected prior to the FY26 MCPO board will be grandfathered under 
+the old policy and will not be required to attend the SEA.  The 
+course still remains a requirement for those who apply for the 
+Command Senior Enlisted Leader program. 
+ 
+4.  Limited funding will be available during a permanent change of 
+station transfer.  The vast majority of SCPOs will attend the SEA on 
+temporary assigned duty orders.  The primary funding for the program 
+will come from Naval Education and Training Command. 
+ 
+5.  Eligibility requirements are provided in reference (b). 
+ 
+6.  For additional information, refer to the SEA website at 
+https://www.netc.navy.mil/SEA/ for the course schedule and 
+enrollment procedures. 
+ 
+7.  The Senior Enlisted Academy's points of contact are the SEA 
+Director at (401) 841-2912, the SEA Deputy Director at (401) 841- 
+4946, and the SEA Course Director at (401) 841-4944. 
+ 
+8.  This message will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
