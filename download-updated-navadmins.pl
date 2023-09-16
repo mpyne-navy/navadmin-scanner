@@ -25,7 +25,7 @@ sub save_navadmin_metadata
     my $json = Mojo::JSON::encode_json($obj);
 
     my $file = Mojo::File->new("navadmin_meta.json");
-    $file->spurt($json);
+    $file->spew($json);
 }
 
 # Reads a binary blob of HTML and pulls out list of .txt hyperlinks
