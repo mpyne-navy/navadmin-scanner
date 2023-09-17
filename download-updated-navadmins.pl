@@ -19,9 +19,8 @@ sub read_navadmin_metadata
     return decode_json($text);
 }
 
-sub save_navadmin_metadata
+sub save_navadmin_metadata ($obj)
 {
-    my $obj = shift;
     my $json = Mojo::JSON::encode_json($obj);
 
     my $file = Mojo::File->new("navadmin_meta.json");
@@ -29,9 +28,9 @@ sub save_navadmin_metadata
 }
 
 # Reads a binary blob of HTML and pulls out list of .txt hyperlinks
-sub read_navadmin_listing
+sub read_navadmin_listing ($html)
 {
-    my $dom = Mojo::DOM->new(shift);
+    my $dom = Mojo::DOM->new($html);
     my $links_ref = $dom->find('a')
         ->grep(sub { ($_->attr("href") // "") =~ qr([nN][aA][vV][^/]*\.txt\??)})
         ->map(attr => 'href')
@@ -42,10 +41,11 @@ sub read_navadmin_listing
 
 # Pulls the base website listing NAVADMINs and returns a promise that will
 # resolve to the links to the per-year web pages
-sub pull_navadmin_year_links
+#
+# Note the required Mojo::UserAgent must outlive this function since a promise
+# is returned
+sub pull_navadmin_year_links ($ua)
 {
-    my $ua = shift; # User agent must outlive this function
-
     my $cur_year = (localtime)[5] + 1900;
     my @years = '2016'.."$cur_year";
 
