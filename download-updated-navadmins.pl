@@ -57,7 +57,7 @@ sub pull_navadmin_year_links
     return Mojo::Promise->new->resolve(@urls);
 }
 
-my $ua = Mojo::UserAgent->new;
+my $ua = Mojo::UserAgent->new->request_timeout(10);
 my @navadmin_urls;
 
 pull_navadmin_year_links($ua)->then(sub {
@@ -108,26 +108,26 @@ while (my $url = shift @navadmin_urls) {
     my $shortname = (substr $name, 5, 3) . '/' . (substr $name, 3, 2);
     $name = "NAVADMIN/$name";
 
+    my %get_opts;
+
+    # File already exists, try to mirror instead of re-download
+    if (-e $name) {
+        my $ctime = (stat(_))[10];
+        $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
+        $get_opts{'User-Agent'} = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36";
+    }
+
     my $req;
     for my $u ($no_ver_url, $url) {
-        if (-e $name) {
-            my $ctime = (stat(_))[10];
-            my $date = Mojo::Date->new($ctime)->to_string;
-            $req = $ua->get($u, {
-                'If-Modified-Since' => "$date",
-                'User-Agent'        => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-                });
-        } else {
-            $req = $ua->get($u);
-        }
+        $req = eval { $ua->get($u, \%get_opts); };
 
-        # Break if the download succeeded
-        last unless $req->result->is_error;
-        say STDERR "Failed to download ver-less $u, trying again w/ ver=";
+        # Break if the download succeeded w/out raising an exception
+        last unless ($@ || $req->result->is_error);
+        say STDERR "Failed to download ver-less $u ($@), trying again w/ ver=";
     }
 
     my $result = $req->result;
-    if ($result->is_error) {
+    if ($@ || $result->is_error) {
         $errors{$url->to_string} = {
             code => $result->code,
             msg  => $result->message,
