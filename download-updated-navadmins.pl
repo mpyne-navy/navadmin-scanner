@@ -35,7 +35,6 @@ sub read_navadmin_listing
     my $links_ref = $dom->find('a')
         ->grep(sub { ($_->attr("href") // "") =~ qr([nN][aA][vV][^/]*\.txt\??)})
         ->map(attr => 'href')
-        ->map(sub { $_ =~ s/\?ver=.*$//; $_ })   # Some links end in ?ver=<gibberish>
         ->to_array;
 
     return @{$links_ref};
@@ -83,7 +82,7 @@ pull_navadmin_year_links($ua)->then(sub {
             close $fh;
         }
 
-        push @navadmin_urls, map { $req_url->clone->path($_) } (@links);
+        push @navadmin_urls, map { $req_url->clone->path_query($_) } (@links);
         return 1;
     })} (@_);
 
@@ -99,23 +98,32 @@ mkdir ("NAVADMIN") unless -e "NAVADMIN";
 say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
 
 while (my $url = shift @navadmin_urls) {
-    my $name = $url->to_string;
-    $name =~ s(^.*/)(); # Remove everything up to last /
-    # The URL may have had lowercase chars, enforce it starting with "NAV"
+    # Some links end in ?ver=<gibberish>, try them without ver first. But some
+    # require ?ver= part too...
+    my $no_ver_url = $url->clone->query({ver => undef});
+    my $name = $no_ver_url->path->parts->[-1]; # filename from URL
+
+    # The URL may have had lowercase chars, enforce filename starting with "NAV"
     substr $name, 0, 3, "NAV";
     my $shortname = (substr $name, 5, 3) . '/' . (substr $name, 3, 2);
     $name = "NAVADMIN/$name";
 
     my $req;
-    if (-e $name) {
-        my $ctime = (stat(_))[10];
-        my $date = Mojo::Date->new($ctime)->to_string;
-        $req = $ua->get($url, {
-            'If-Modified-Since' => "$date",
-            'User-Agent'        => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-            });
-    } else {
-        $req = $ua->get($url);
+    for my $u ($no_ver_url, $url) {
+        if (-e $name) {
+            my $ctime = (stat(_))[10];
+            my $date = Mojo::Date->new($ctime)->to_string;
+            $req = $ua->get($u, {
+                'If-Modified-Since' => "$date",
+                'User-Agent'        => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+                });
+        } else {
+            $req = $ua->get($u);
+        }
+
+        # Break if the download succeeded
+        last unless $req->result->is_error;
+        say STDERR "Failed to download ver-less $u, trying again w/ ver=";
     }
 
     my $result = $req->result;
