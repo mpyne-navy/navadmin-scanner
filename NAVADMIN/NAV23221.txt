@@ -1,0 +1,40 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 181933Z SEP 23 MID120000448799U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 221/23 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/2023 ASSOCIATION OF OLD CROWS OUTSTANDING NAVY UNIT AWARD WINNERS// 
+ 
+REF/A/DOC/AOC/17JAN23// 
+AMPN/REF A IS THE ASSOCIATION OF OLD CROWS LETTER FOR ANNUAL AWARD 
+NOMINATIONS.// 
+ 
+POC/NORTHROP/CTTCM/OPNAV N2N6WT/TEL:  (571) 256-8542/EMAIL: 
+JAMES.E.NORTHROP.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  Congratulations to the following commands for their selection as the 
+2023 Association of Old Crows Outstanding Navy Unit Award winners: 
+ 
+     a.  Naval Information Warfare Training Group (NIWTG) San Diego 
+     b.  Fleet Air Reconnaissance Squadron ONE (VQ-1) 
+     c.  USS FITZGERALD (DDG 62) 
+ 
+2.  Their contributions to the Information Operations and Electronic Warfare 
+community are significant and noteworthy.   
+Well done and a hearty congratulations to all, for their outstanding efforts! 
+ 
+3.  Released by Ms. Jennifer Edgin, Assistant Deputy Chief of Naval 
+Operations for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
