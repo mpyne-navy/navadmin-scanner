@@ -57,6 +57,88 @@ sub pull_navadmin_year_links ($ua)
     return Mojo::Promise->new->resolve(@urls);
 }
 
+# Returns a promise that, once resolved, will ensures the NAVADMIN pointed to
+# by $url is saved to disk.
+sub download_navadmin ($url, $ua, $metadata, $errors)
+{
+    # Some links end in ?ver=<gibberish>, try them without ver first. But some
+    # require ?ver= part too...
+    my $no_ver_url = $url->clone->query({ver => undef});
+    my $name = $no_ver_url->path->parts->[-1]; # filename from URL
+
+    # The URL may have had lowercase chars, enforce filename starting with "NAV"
+    substr $name, 0, 3, "NAV";
+    my $shortname = (substr $name, 5, 3) . '/' . (substr $name, 3, 2);
+
+    # Filename to download to
+    $name = "NAVADMIN/$name";
+
+    # If file already exists, try to mirror instead of re-download
+    my %get_opts;
+    if (-e $name) {
+        my $ctime = (stat(_))[10];
+        $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
+        $get_opts{'User-Agent'} = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36";
+    }
+
+    say "$shortname: Syncing $url";
+    my $req = $ua->get_p($no_ver_url, \%get_opts)
+                ->then(sub ($tx) {
+                        my $res = $tx->result;
+
+                        # Download w/out ?ver= didn't work, assume that is reason and try again
+                        if ($res->is_error) {
+                            say "$shortname: $url Download failed, retrying with ?ver query";
+                            return $ua->get_p($url, \%get_opts);
+                        }
+
+                        # Proceed with existing $tx
+                        return $tx;
+                    })
+                ->then(sub ($tx) {
+                        my $res = $tx->result;
+                        my $url = $tx->req->url->to_string;
+
+                        # If we failed it's time to give up
+                        if ($res->is_error) {
+                            $errors->{$url->to_string} = {
+                                code => $res->code,
+                                msg  => $res->message,
+                            };
+
+                            die "$shortname: Failed to download $url, " . $res->message . " (" . $res->code . ")";
+                        }
+
+                        if (!$res->is_empty) {
+                            # Save file to disk
+                            say "Downloaded $name";
+                            $metadata->{$shortname} //= { };
+                            $metadata->{$shortname}->{dl_date} = time;
+                            $metadata->{$shortname}->{dl_url}  = $url;
+
+                            $res->save_to($name);
+                        }
+
+                        # Add delay out of respect to the giant Sharepoint in the sky
+                        my $promise = Mojo::Promise->new(sub ($resolve, $reject) {
+                            Mojo::IOLoop->timer(0.2 => sub {
+                                $resolve->($name);
+                            });
+                        });
+
+                        return $promise;
+                    })
+                ->catch(sub ($err) {
+                        say STDERR "Error downloading $url: $err";
+                        $errors->{$url->to_string} = {
+                            code => 401,
+                            msg  => "$@",
+                        }
+                    });
+
+    return $req;
+}
+
 my $ua = Mojo::UserAgent->new->request_timeout(10);
 my @navadmin_urls;
 
@@ -91,65 +173,24 @@ pull_navadmin_year_links($ua)->then(sub {
     say "An error occurred! $_[0]";
 })->wait;
 
-my %errors;
+my $errors = { };
 my $metadata = read_navadmin_metadata();
 mkdir ("NAVADMIN") unless -e "NAVADMIN";
 
 say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
 
-while (my $url = shift @navadmin_urls) {
-    # Some links end in ?ver=<gibberish>, try them without ver first. But some
-    # require ?ver= part too...
-    my $no_ver_url = $url->clone->query({ver => undef});
-    my $name = $no_ver_url->path->parts->[-1]; # filename from URL
+my $result_promise = Mojo::Promise->map({concurrency => 6 }, sub {
+        download_navadmin($_, $ua, $metadata, $errors);
+    }, @navadmin_urls)
+    ->then(sub (@results) {
+        while (my ($url, $err) = each %$errors) {
+            say "$url failed: ", $err->{code}, " ", $err->{msg};
+        }
 
-    # The URL may have had lowercase chars, enforce filename starting with "NAV"
-    substr $name, 0, 3, "NAV";
-    my $shortname = (substr $name, 5, 3) . '/' . (substr $name, 3, 2);
-    $name = "NAVADMIN/$name";
+        save_navadmin_metadata($metadata);
 
-    my %get_opts;
+        say "Done";
+    });
 
-    # File already exists, try to mirror instead of re-download
-    if (-e $name) {
-        my $ctime = (stat(_))[10];
-        $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
-        $get_opts{'User-Agent'} = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36";
-    }
+$result_promise->wait;
 
-    my $req;
-    for my $u ($no_ver_url, $url) {
-        $req = eval { $ua->get($u, \%get_opts); };
-
-        # Break if the download succeeded w/out raising an exception
-        last unless ($@ || $req->result->is_error);
-        say STDERR "Failed to download ver-less $u ($@), trying again w/ ver=";
-    }
-
-    my $result = $req->result;
-    if ($@ || $result->is_error) {
-        $errors{$url->to_string} = {
-            code => $result->code,
-            msg  => $result->message,
-        };
-        say STDERR "Failed to download $url: ", $result->code;
-    } elsif (!$result->is_empty) {
-        # Save file to disk
-        say "Downloaded $name";
-        $metadata->{$shortname} //= { };
-        $metadata->{$shortname}->{dl_date} = time;
-        $metadata->{$shortname}->{dl_url}  = $url->to_string;
-
-        $result->save_to($name);
-    }
-
-    usleep (30000); # Some slowdown out of respect to the giant Sharepoint in the sky
-}
-
-while (my ($url, $err) = each %errors) {
-    say "$url failed: ", $err->{code}, " ", $err->{msg};
-}
-
-save_navadmin_metadata($metadata);
-
-say "Done";
