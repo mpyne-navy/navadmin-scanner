@@ -64,6 +64,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
     # Some links end in ?ver=<gibberish>, try them without ver first. But some
     # require ?ver= part too...
     my $no_ver_url = $url->clone->query({ver => undef});
+    my $dl_path = $url->path->parts->[-1]; # filename/query from URL
     my $name = $no_ver_url->path->parts->[-1]; # filename from URL
 
     # The URL may have had lowercase chars, enforce filename starting with "NAV"
@@ -81,14 +82,13 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
         $get_opts{'User-Agent'} = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36";
     }
 
-    say "$shortname: Syncing $url";
     my $req = $ua->get_p($no_ver_url, \%get_opts)
                 ->then(sub ($tx) {
                         my $res = $tx->result;
 
                         # Download w/out ?ver= didn't work, assume that is reason and try again
                         if ($res->is_error) {
-                            say "$shortname: $url Download failed, retrying with ?ver query";
+                            say "$shortname: Download failed, retrying $dl_path";
                             return $ua->get_p($url, \%get_opts);
                         }
 
@@ -107,6 +107,9 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
                             };
 
                             die "$shortname: Failed to download $url, " . $res->message . " (" . $res->code . ")";
+                        }
+                        else {
+                            say "$shortname: " . $res->code . " " . $res->message;
                         }
 
                         if (!$res->is_empty) {
