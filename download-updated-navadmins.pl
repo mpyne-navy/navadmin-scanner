@@ -143,41 +143,37 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
 }
 
 my $ua = Mojo::UserAgent->new->request_timeout(10);
-my @navadmin_urls;
 
 my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
     # This downloads each provided URL of the by-year page and extracts
-    # individual NAVADMIN URLs
+    # individual NAVADMIN URLs.
     my @promises = map { $ua->get_p($_)->then(sub ($tx) {
+        # $tx represents result of downloading by-year page
         my $req_url = $tx->req->url->to_abs;
         die "Failed to load $req_url: $tx->result->message"
             if $tx->result->is_error;
 
-        # Assume that if NAVADMIN folder doesn't exist, that we've never run
-        # Otherwise, that we just want updates for this year.
-        my @links = read_navadmin_listing($tx->result->body);
-
         my $year = (localtime(time))[5] + 1900;
         if (-e '.has-run' && $req_url !~ /-$year\/$/) {
-            return 1;
+            return (); # Already run, no additional URLs to grab
         } else {
             say "Loaded NAVADMINs for $req_url";
-
-            open my $fh, '>', '.has-run';
-            say $fh "NAVADMIN scanner has run";
-            close $fh;
+            Mojo::File->new('.has-run')->spew("NAVADMIN scanner has run");
         }
 
-        push @navadmin_urls, map { $req_url->clone->path_query($_) } (@links);
-        return 1;
+        # Decode web page result into URLs of individual NAVADMINs
+        my @links = read_navadmin_listing($tx->result->body);
+        return map { $req_url->clone->path_query($_) } (@links);
     })} (@urls);
 
     return Mojo::Promise->all(@promises);
 })->catch(sub ($err) {
     say "An error occurred! $err";
-})->then(sub {
-    # @navadmin_urls is now filled out, download them
+})->then(sub (@url_groups) {
+    # @url_groups is a nested list of url-lists (one batch per year). Flatten
+    # to one list and grab them all.
 
+    my @navadmin_urls = Mojo::Collection->new(@url_groups)->flatten->each;
     my $errors = { };
     my $metadata = read_navadmin_metadata();
     mkdir ("NAVADMIN") unless -e "NAVADMIN";
