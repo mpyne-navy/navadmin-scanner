@@ -488,8 +488,8 @@ refer back to this one:</summary>
 
 <div class="content">
 
-<p>These instructions were referenced by in the NAVADMIN database. This list is
-only a partial best guess.
+<p>These instructions were referenced by NAVADMINs in the NAVADMIN database.
+This list is only a partial best guess.
 
 <table class="table">
 <thead>
