@@ -145,9 +145,10 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
 my $ua = Mojo::UserAgent->new->request_timeout(10);
 my @navadmin_urls;
 
-pull_navadmin_year_links($ua)->then(sub {
-    my @promises = map { $ua->get_p($_)->then(sub {
-        my $tx = shift;
+my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
+    # This downloads each provided URL of the by-year page and extracts
+    # individual NAVADMIN URLs
+    my @promises = map { $ua->get_p($_)->then(sub ($tx) {
         my $req_url = $tx->req->url->to_abs;
         die "Failed to load $req_url: $tx->result->message"
             if $tx->result->is_error;
@@ -169,31 +170,32 @@ pull_navadmin_year_links($ua)->then(sub {
 
         push @navadmin_urls, map { $req_url->clone->path_query($_) } (@links);
         return 1;
-    })} (@_);
+    })} (@urls);
 
     return Mojo::Promise->all(@promises);
-})->catch(sub {
-    say "An error occurred! $_[0]";
-})->wait;
+})->catch(sub ($err) {
+    say "An error occurred! $err";
+})->then(sub {
+    # @navadmin_urls is now filled out, download them
 
-my $errors = { };
-my $metadata = read_navadmin_metadata();
-mkdir ("NAVADMIN") unless -e "NAVADMIN";
+    my $errors = { };
+    my $metadata = read_navadmin_metadata();
+    mkdir ("NAVADMIN") unless -e "NAVADMIN";
 
-say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
+    say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
 
-my $result_promise = Mojo::Promise->map({concurrency => 6 }, sub {
-        download_navadmin($_, $ua, $metadata, $errors);
-    }, @navadmin_urls)
-    ->then(sub (@results) {
-        while (my ($url, $err) = each %$errors) {
-            say "$url failed: ", $err->{code}, " ", $err->{msg};
-        }
+    return Mojo::Promise->map({concurrency => 6 }, sub {
+            download_navadmin($_, $ua, $metadata, $errors);
+        }, @navadmin_urls)
+        ->then(sub (@results) {
+            while (my ($url, $err) = each %$errors) {
+                say "$url failed: ", $err->{code}, " ", $err->{msg};
+            }
 
-        save_navadmin_metadata($metadata);
+            save_navadmin_metadata($metadata);
 
-        say "Done";
-    });
+            say "Done";
+        });
+});
 
-$result_promise->wait;
-
+$dl_promise->wait;
