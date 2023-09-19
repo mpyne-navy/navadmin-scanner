@@ -11,6 +11,8 @@ use Mojo::JSON;
 use File::Glob;
 use List::Util qw(min);
 
+no warnings "experimental::for_list";
+
 my %navadmin_by_year;
 my %navadmin_subj;
 my $navadmin_dl_metadata;
@@ -237,7 +239,11 @@ get '/known_instructions' => sub ($c) {
     my @inst_keys = grep { $_ ne 'NAVADMINs' } keys $cross_refs->%*;
     $data->@{@inst_keys} = ({}) x @inst_keys;
     for my $inst_key (@inst_keys) {
-        $data->{$inst_key} = [keys $cross_refs->{$inst_key}->%*];
+        my @inst_series      = keys   $cross_refs->{$inst_key}->%*;
+        my @inst_series_refs = values $cross_refs->{$inst_key}->%*;
+        # Convert list of NAVADMINs refs to size of the list
+        @inst_series_refs = map { scalar $_->@* } @inst_series_refs;
+        $data->{$inst_key}->@{@inst_series} = @inst_series_refs;
     }
 
     $c->stash(inst_keys => $data);
@@ -485,15 +491,29 @@ refer back to this one:</summary>
 <p>These instructions were referenced by in the NAVADMIN database. This list is
 only a partial best guess.
 
+<table class="table">
+<thead>
+  <tr>
+    <th>Directive</th>
+    <th>Number of References</th>
+  </tr>
+</thead>
+<tbody>
 % for my $cat (keys $inst_keys->%*) {
-    <h3><%= $cat %></h3>
+%   my $cat_name = $cat =~ s/s$//r;
 
-    <ul>
-%   for my $inst (sort $inst_keys->{$cat}->@*) {
-        <li><%= $inst %></li>
+%   my $inst_series_of_cat = $inst_keys->{$cat};
+%   my @inst_ids = sort keys $inst_series_of_cat->%*;
+%   for my $inst (@inst_ids) {
+    <tr>
+      <td><%= "$cat_name $inst" %></td>
+      <td><%= $inst_series_of_cat->{$inst} %></td>
+    </tr>
 %   }
-    </ul>
 % }
+</tbody>
+</table>
+
 </div>
 
 
