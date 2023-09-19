@@ -12,6 +12,8 @@ use Mojo::URL;
 
 use Time::HiRes qw(usleep);
 
+no warnings "experimental::for_list";
+
 # Returns a JSON object keyed by NAVADMIN ID
 sub read_navadmin_metadata
 {
@@ -184,7 +186,7 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
             download_navadmin($_, $ua, $metadata, $errors);
         }, @navadmin_urls)
         ->then(sub (@results) {
-            while (my ($url, $err) = each %$errors) {
+            for my ($url, $err) (%$errors) {
                 say "$url failed: ", $err->{code}, " ", $err->{msg};
             }
 
