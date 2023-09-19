@@ -252,7 +252,7 @@ get '/known_instructions' => sub ($c) {
         json => { json => $data },
         html => { template => 'list-inst' },
     );
-};
+} => 'list-inst';
 
 app->start;
 
@@ -555,6 +555,8 @@ only a partial best guess.
     <div id="navbarMenu" class="navbar-menu">
       <div class="navbar-start">
         <a href="/" class="navbar-item">Home</a>
+
+        <a href="<%= url_for('list-inst') %>" class="navbar-item">Instruction Cross-refs</a>
 
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
