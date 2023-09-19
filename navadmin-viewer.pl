@@ -1,5 +1,7 @@
 #!/usr/bin/env perl
 
+use v5.36;
+
 use Mojolicious::Lite -signatures;
 use Mojolicious::Validator;
 
@@ -228,6 +230,18 @@ get '/NAVADMIN/all' => sub {
         subjects => \%navadmin_subj
     );
 } => 'list-all';
+
+get '/known_instructions' => sub ($c) {
+    my $data = { };
+
+    my @inst_keys = grep { $_ ne 'NAVADMINs' } keys $cross_refs->%*;
+    $data->@{@inst_keys} = ({}) x @inst_keys;
+    for my $inst_key (@inst_keys) {
+        $data->{$inst_key} = [keys $cross_refs->{$inst_key}->%*];
+    }
+
+    $c->render(json => $data);
+};
 
 app->start;
 
