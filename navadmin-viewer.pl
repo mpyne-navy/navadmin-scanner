@@ -240,7 +240,12 @@ get '/known_instructions' => sub ($c) {
         $data->{$inst_key} = [keys $cross_refs->{$inst_key}->%*];
     }
 
-    $c->render(json => $data);
+    $c->stash(inst_keys => $data);
+
+    $c->respond_to(
+        json => { json => $data },
+        html => { template => 'list-inst' },
+    );
 };
 
 app->start;
@@ -461,6 +466,36 @@ refer back to this one:</summary>
     </tbody>
   </table>
 </div>
+
+@@ list-inst.html.ep
+% layout 'default';
+% title 'Instruction cross-reference';
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="<%= url_for %>"><%= stash 'title' %></a></li>
+  </ul>
+</nav>
+
+<h3 class="title"><%= stash 'title' %></h3>
+
+<div class="content">
+
+<p>These instructions were referenced by in the NAVADMIN database. This list is
+only a partial best guess.
+
+% for my $cat (keys $inst_keys->%*) {
+    <h3><%= $cat %></h3>
+
+    <ul>
+%   for my $inst (sort $inst_keys->{$cat}->@*) {
+        <li><%= $inst %></li>
+%   }
+    </ul>
+% }
+</div>
+
 
 @@ layouts/default.html.ep
 <!DOCTYPE html>
