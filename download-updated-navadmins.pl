@@ -103,7 +103,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
 
                         # If we failed it's time to give up
                         if ($res->is_error) {
-                            $errors->{$url->to_string} = {
+                            $errors->{$url} = {
                                 code => $res->code,
                                 msg  => $res->message,
                             };
