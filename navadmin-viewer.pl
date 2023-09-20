@@ -424,13 +424,14 @@ refer back to this one:</summary>
 </div>
 % }
 
-<pre>
 % my $content = Mojo::File->new($filepath)->slurp;
 % my $escaped = b($content)->decode('UTF-8')->xml_escape;
+% $escaped = b($content)->xml_escape unless length($escaped) > 0;
+% $escaped = "Unable to decode NAVADMIN :(" unless length($escaped) > 0;
 % $escaped =~ s{NAVADMIN ?([0-9][0-9][0-9])([-/])([0-9][0-9])}{<a href="/NAVADMIN/$1/$3">NAVADMIN $1$2$3</a>}g;
 % $escaped =~ s{([a-zA-Z0-9._-]+)\([Aa][Tt]\)([a-zA-Z.]+\.[a-zA-Z]+)}{<a title="Decoded from $&" href="mailto:\L$1\@$2\E">\L$1\@$2</a>}g;
-<%= b($escaped) %>
-</pre>
+<pre><%= b($escaped) %></pre>
+
 </main>
 
 </div>
