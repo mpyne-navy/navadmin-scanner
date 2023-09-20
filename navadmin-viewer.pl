@@ -237,7 +237,8 @@ get '/known_instructions' => sub ($c) {
     my $data = { };
 
     my @inst_keys = grep { $_ ne 'NAVADMINs' } keys $cross_refs->%*;
-    $data->@{@inst_keys} = ({}) x @inst_keys;
+    $data->{$_} = {} foreach @inst_keys;
+
     for my $inst_key (@inst_keys) {
         my @inst_series      = keys   $cross_refs->{$inst_key}->%*;
         my @inst_series_refs = values $cross_refs->{$inst_key}->%*;
