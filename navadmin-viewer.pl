@@ -563,12 +563,13 @@ This list is only a partial best guess.
 <tbody>
 % for my $cat (keys $inst_keys->%*) {
 %   my $cat_name = $cat =~ s/s$//r;
+%   my $cat_no_inst = $cat_name =~ s/INST$//r;
 
 %   my $inst_series_of_cat = $inst_keys->{$cat};
 %   my @inst_ids = sort keys $inst_series_of_cat->%*;
 %   for my $inst (@inst_ids) {
     <tr>
-      <td><%= "$cat_name $inst" %></td>
+      <td><a href="<%= url_for('show-inst-refs', cat => $cat_no_inst, series => $inst) %>"><%= "$cat_name $inst" %></a></td>
       <td><%= $inst_series_of_cat->{$inst} %></td>
     </tr>
 %   }
