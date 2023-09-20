@@ -47,7 +47,7 @@ sub split_up_navadmin($text)
     while (defined (my $line = shift @lines)) {
         # Look for header fields getting jammed together, this risks mixing
         # with the body
-        if ($in_head && $line =~ m,// *[^ ], && $line !~ m, *//[\r ]*$,) {
+        if ($in_head && $line =~ m,// *[^ ], && $line !~ m, *//[\r ]*$, && $line !~ m,// *REF ,) {
             my ($field, $rest) = split(/\/\/ */, $line, 2); # split into 2 fields max
             $field = "$field//";
             $line = $field;
