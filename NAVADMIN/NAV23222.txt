@@ -1,0 +1,88 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 191640Z SEP 23 MID120000453633U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 222/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N9// 
+INFO CNO WASHINGTON DC// 
+MSGID/GENADMIN/CNO WASHINGTON DC// 
+ 
+SUBJ/ATTENDANCE AT THE 2024 JOINT SERVICE AIR TRAFFIC CONTROL SYMPOSIUM// 
+ 
+REF/A/DOC/DOD/17NOV2011// 
+REF/B/DOC/JTR/20230712// 
+ 
+NARR/REF A is DOD Publication 5500.07-R Joint Ethics Regulation.  
+REF B is the Joint Travel Regulations.// 
+ 
+POC/Mr. Scott Swain/CIV/OPNAV/LOC: N980A/TEL: (703) 614-2638// 
+ 
+RMKS/1. The Air Traffic Control Association (ATCA) will hold the Joint-
+Service Air Traffic Control (ATC) Symposium in Myrtle Beach, SC at the 
+Sheraton Convention Center from 14-16 May 2024. This forum provides a vehicle 
+for senior military and civilian professionals to enlighten, inspire, enhance 
+retention, and educate E-4 through E-6 DoD air traffic controllers on the 
+technological advances, operational enhancements, and policy changes that 
+have taken place within the air traffic control profession. The event is a 
+combination of briefs, panels, working groups, and industry interaction. 
+Industry representatives for air traffic management equipment, simulators, 
+and software provide displays that serve to educate and prepare controllers 
+for future opportunities and challenges to military air traffic control. 
+ 
+Topics include: 
+- The Future of Naval Aviation and Air Force ATC 
+- US Navy and USMC Air Traffic Control Strategic Plan and Evolution Roadmap 
+- The National Airspace System 
+- ATC Equipment and Technology 
+- Landing Zone Operations 
+- Career Development and Advancement Opportunities 
+- Training and Readiness Discussions 
+ 
+2. Primary goals are to reinforce the professional excellence of the air 
+traffic control community and enhance retention within the critical E-4 
+through E-6 paygrades. While the focus is on our active duty members, all 
+DoN, USAF, Army, civil service, retired, enlisted, and officer ATC 
+professionals are cordially invited to attend. 
+ 
+3. Per reference (a) and (b), Commanding Officers may issue orders for 
+attendance at government expense after determining that the expenses, 
+including fees, travel costs, and other costs attributable to participation, 
+justify the objectives to be achieved. TAD orders may cover expenses to 
+support attendance and participation at the conference including 
+transportation and per diem per reference (b). 
+ 
+4. If funds are not available, permissive TAD orders may be issued. 
+Use of available government transportation and carpooling is encouraged to 
+enhance conference participation and to minimize travel expenses. Commands 
+may also reduce costs by using double occupancy for lodging. Rental cars are 
+highly discouraged and unnecessary for symposium participants. Participants 
+flying to the symposium should use a taxi or ridesharing to the hotel. 
+ 
+5. Uniform for this event: 
+Navy E-6 and below: Service Uniform 
+Navy E-7 and above: Service Khaki 
+Marine Corps: Service C 
+Air Force: Class B Service Uniform 
+Army: Class B Service Uniform 
+ 
+6. Hotel room reservation, symposium registration, and detailed information 
+regarding the ATC symposium are available at Joint Service ATC Symposium 
+(atca.org). 
+ 
+7. Questions regarding the symposium may be directed to CAPT Jeff Dugard 
+(703) 695-8534, DSN 224-2639, e-mail jeffery.n.dugard.mil@us.navy.mil. 
+ 
+8. Released by Mr. Chris A. Miller, Deputy Chief of Naval Operations for 
+Warfighting Requirements and Capabilities (N9), PTDO.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
