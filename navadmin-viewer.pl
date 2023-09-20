@@ -254,6 +254,30 @@ get '/known_instructions' => sub ($c) {
     );
 } => 'list-inst';
 
+get '/instruction/:cat/:series'
+=> [cat => [qw(DOD OPNAV SECNAV)], series => qr/[0-9]{4,5}\.[0-9]{1,2}[A-Z]?/]
+=> sub ($c) {
+    my $cat    = $c->stash('cat');
+    my $series = $c->stash('series');
+
+    if (!exists $cross_refs->{"${cat}INSTs"}->{$series}) {
+        $c->reply->not_found;
+        return;
+    }
+
+    my $refs_list = $cross_refs->{"${cat}INSTs"}->{$series};
+    $c->stash(
+        inst      => "${cat}INST $series",
+        inst_refs => $refs_list,
+        subjects  => \%navadmin_subj,
+    );
+
+    $c->respond_to(
+        json => { json => [map { "NAVADMIN $_" } @$refs_list] },
+        html => { template => 'show-inst-refs' },
+    );
+} => 'show-inst-refs';
+
 app->start;
 
 # This Perl tag closes out the Perl code and Perl will make everything *after*
@@ -471,6 +495,44 @@ refer back to this one:</summary>
 % }
     </tbody>
   </table>
+</div>
+
+@@ show-inst-refs.html.ep
+% layout 'default';
+% title "Cross references to $inst";
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="<%= url_for('list-inst') %>">Known Instructions</a></li>
+    <li class="is-active"><a href="<%= url_for %>"><%= stash 'title' %></a></li>
+  </ul>
+</nav>
+
+<h3 class="title"><%= stash 'title' %></h3>
+
+<div class="content">
+
+<p>This instruction was referenced by the following NAVADMINs in the NAVADMIN database.
+This list is only a partial best guess.
+
+<table class="table">
+<thead>
+  <tr>
+    <th>NAVADMIN</th>
+    <th>Subject</th>
+  </tr>
+</thead>
+<tbody>
+% for my $cross_ref ($inst_refs->@*) {
+  <tr>
+    <td><a href="/NAVADMIN/<%=$cross_ref%>">NAVADMIN <%= "$cross_ref" %></a></td>
+    <td><%= $subjects->{$cross_ref} %></td>
+  </tr>
+% }
+</tbody>
+</table>
+
 </div>
 
 @@ list-inst.html.ep
