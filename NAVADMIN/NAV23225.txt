@@ -1,0 +1,51 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 211846Z SEP 23 MID120000464896U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 225/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/SPECIAL LEAVE ACCRUAL POLICY UPDATE// 
+ 
+REF/A/DOC/DOD/16JUN09// 
+REF/B/DOC/CNO WASHINGTON DC/20JUL23// 
+REF/C/DOC/COMNAVPERSCOM/22JAN10// 
+REF/D/DOC/COMNAVPERSCOM/25SEP18// 
+ 
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION 1327.06, LEAVE AND LIBERTY 
+POLICY AND PROCEDURES, INCORPORATING CHANGE 5 DATED AUGUST 25, 2023.   
+REF B IS NAVADMIN 161/23, SPECIAL LEAVE ACCRUAL POLICY CHANGES.   
+REF C IS MILPERSMAN 1050-070, SPECIAL LEAVE ACCRUAL.   
+REF D IS MILPERSMAN 7220-340, LUMP SUM PAYMENT FOR ACCRUED LEAVE. 
+ 
+RMKS/1.  This NAVADMIN announces the implementation of special leave 
+accrual (SLA) policy changes directed in reference (a) and 
+previously described in reference (b). 
+ 
+2.  SLA policy changes are codified in detail in references (a) and 
+(b) which take precedence over conflicting guidance in references 
+(c) and (d).  Updates to references (c) and (d) will be released at a later 
+date. 
+ 
+3.  The point of contact for this matter is OPNAV N130C, at (703) 604-5475/ 
+DSN 664, or via e-mail at NXAG_N130C@navy.mil.  Additional information can be 
+found at: https://www.mynavyhr.navy.mil/References/Pay-Benefits/. 
+ 
+3.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first. 
+ 
+4.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

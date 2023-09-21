@@ -1,0 +1,99 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 211934Z SEP 23 MID120000465065U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 226/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/MONTGOMERY GI BILL PROGRAM UPDATE// 
+ 
+REF/A/DOC/DOD/28DEC22// 
+REF/B/DOC/BUPERS/5OCT04// 
+ 
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION 1322.16, MONTGOMERY GI BILL 
+PROGRAM.   
+REF B IS BUPERS INSTRUCTION 1780.1A, GI BILL EDUCATION BENEFITS PROGRAMS. 
+ 
+RMKS/1.  This NAVADMIN implements changes to the period of election to 
+enroll/disenroll from the Montgomery GI Bill (MGIB) as announced in reference 
+(a) and serves to update policies and procedures in reference (b).  These 
+changes have the potential to impact Sailor pay due to the fact that MGIB 
+will cost $1,200 for each Sailor who does not actively opt out of MGIB.  Note 
+that opting out of MGIB benefits does not impact the Service Member's Post  
+9-11 GI Bill benefits. 
+ 
+2.  Effective 5 January 2023, Active Duty Service Members are no longer 
+authorized to make a decision to opt out of MGIB during initial entry 
+training.  The opt out window will now occur between days 180 and 270 of 
+service, counted from the first day a member enters Active Duty.  During this 
+90-day window, all Service Members must be counseled and make a decision to 
+opt out of MGIB. 
+ 
+3.  Eligibility.  With the exception of graduates of the U.S. Naval Academy, 
+Reserve Officer Training Corps Scholarship Program, and members with prior 
+Active Duty service, all Service Members who enter Active Duty are 
+automatically enrolled in MGIB unless they opt out during the 90-day window 
+discussed in paragraph 2. 
+ 
+4.  Enrollment.  Eligible Active Duty Service Members will be automatically 
+enrolled under the MGIB Program, unless they decline this benefit.  In line 
+with reference (b), a signed MGIB Act of 1984 Basic Enrollment form (revised 
+September 2022), Department of Defense (DD) Form 2366, is required to be 
+signed by all eligible members.  Service Members may only complete the form 
+once and the election is irrevocable. 
+ 
+5.  Mandatory Counseling.  All Active Duty Service Members will be counseled 
+on the MGIB program at least once before their 270th day and must be given 
+the opportunity to opt out of MGIB between their 180th and 270th day of 
+Active Duty.  If not declined, payroll deduction for MGIB enrollment will 
+begin the month following the Service Member's 270th day at $100 per month 
+for 12 months.  Note that the Post 9-11 GI Bill is no cost to the Service 
+Member. 
+ 
+6.  Since the majority of affected Service Members will still be in the 
+training pipeline when they reach their decision window, MyNavy HR will 
+provide the required counseling and ensure a signed election form is received 
+and processed for those Service Members.  For Service Members who report to 
+their command before their election window, commands will be responsible for 
+taking the following actions: 
+    a.  Provide counseling on education opportunities.  MGIB New 
+Accession Counseling tool is available at 
+https://www.mynavyhr.navy.mil/Career-Management/Education/GI-Bill/MGIB-
+Enrollment/. 
+    b.  Advise Service Members of their 90-day MGIB election window to ensure 
+timely completion of enrollment/disenrollment requirements and to prevent 
+erroneous pay deductions.  No later than day 240 ensure all Service Members 
+have completed, electronically signed, and submitted the DD Form 2366 to 
+ensure timely processing ahead of day 270. 
+    c.  Command Pay and Personnel Assistants will submit DD Form 2366 to 
+MyNavy Career Center and must periodically review the Navy Standard 
+Integrated Personnel System to ensure that all Sailors at their command are 
+counselled and complete their election in the designated window. 
+ 
+7.  For specific instructions, best practices for counseling, completing and 
+submitting DD Form 2366, refer to training presentation at  
+https://www.mynavyhr.navy.mil/Career-Management/Education/GI-Bill/MGIB-
+Enrollment/. 
+ 
+8.  For questions concerning MGIB policy, contact LCDR Matthew Sullivan at 
+(703)604-5310 or matthew.c.sullivan16.mil@us.navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+ 
+CLASSIFICATION: UNCLASSIFIED//

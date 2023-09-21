@@ -1,0 +1,79 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 211808Z SEP 23 MID120000464761U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 224/23 
+ 
+INFO CNO WASHINGTON DC //N1// 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/NAVY ESPORTS TEAM APPLICATIONS// 
+ 
+REF/A/DOC/NPC/19APR18// 
+AMPN/REF A IS MILPERSMAN ARTICLE 1306-964, Recruiting Duty.// 
+ 
+RMKS/1.  This NAVADMIN announces the next application window for positions on 
+the Navy Electronic sports (Esports) Team by Commander, Navy Recruiting 
+Command (CNRC).  The Navy Esports Team significantly contributes to the 
+multi-faceted outreach campaign of CNRC by engaging with prospective Sailors 
+online and at gaming venues.  Centennials are moving into digital spaces for 
+most of their content consumption and social interactions, and the Esports 
+domain is one of the most popular and vibrant online arenas to date. 
+Connecting with future Sailors requires the Navy to be in the same spaces 
+where those future Sailors reside. 
+ 
+2.  Open to all Sailors E-5 and above, the qualifications to become a team 
+member are identical to the qualifications needed for recruiting duty.  Refer 
+to reference (a) for further details. 
+ 
+3.  Team member applicants will be screened for team fit and recruiting duty. 
+Upon selection, they will receive a set of three year orders to CNRC in 
+Millington, Tennessee.  All team members receive recruiting training at Navy 
+Recruiter Orientation Unit (NORU), Pensacola, Florida, en route to CNRC.  The 
+intent of NORU training will be to further develop communication skills and 
+to ensure that team members understand the types of information sought by 
+those inquiring about service in the Navy. 
+ 
+4.  The team members will operate at the Navy Esports facility which is 
+specifically designed for the team to practice, stream, and compete.  Upon 
+arrival at CNRC, they will develop a routine streaming cadence, encouraging 
+followers and viewers to interact with the members and outreach content, and 
+compete against high schools, colleges, and Esports league events across the 
+country. 
+ 
+5.  Team member applications will be accepted via a web portal that will be 
+open for a specified time period.  The next submission window is 1 October 
+through 1 December 2023. 
+ 
+6.  Additional Information: 
+    a.  Detailed requirements for this program are listed on the CNRC webpage 
+and should be reviewed thoroughly by individuals prior to submission.  The 
+webpage provides topic specific information such as: 
+        (1) An overview of the program 
+        (2) Submission portal for program application 
+        (3) Next available submission window 
+    b.  For information regarding the Navy Esports Team: 
+        (1) Visit MyNavy Portal at https://my.navy.mil//  
+        (2) Select *Quick Links* 
+        (3) Select *Navy Recruiting Command*, this will direct you to 
+            https://www.cnrc.navy.mil// 
+        (4) Under the CNRC webpage select *NRC Links* 
+        (5) Select *Esports* 
+ 
+7.  Point of contact is LT Aaron Jones, Navy Esports Division Director, at 
+aaron.r.jones28.mil@us.navy.mil. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
