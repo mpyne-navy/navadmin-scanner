@@ -236,7 +236,7 @@ get '/NAVADMIN/all' => sub {
 get '/known_instructions' => sub ($c) {
     my $data = { };
 
-    my @inst_keys = grep { $_ ne 'NAVADMINs' } keys $cross_refs->%*;
+    my @inst_keys = grep { $_ ne 'NAVADMIN' } keys $cross_refs->%*;
     $data->{$_} = {} foreach @inst_keys;
 
     for my $inst_key (@inst_keys) {
@@ -256,19 +256,22 @@ get '/known_instructions' => sub ($c) {
 } => 'list-inst';
 
 get '/instruction/:cat/:series'
-=> [cat => [qw(DOD OPNAV SECNAV)], series => qr/[0-9]{4,5}\.[0-9]{1,2}[A-Z]?/]
+=> [cat => [qw(MILPERSMAN DOD OPNAV SECNAV)], series => qr/[0-9]{4,5}[-\.][0-9]{1,3}[A-Z]?/]
 => sub ($c) {
     my $cat    = $c->stash('cat');
     my $series = $c->stash('series');
 
-    if (!exists $cross_refs->{"${cat}INSTs"}->{$series}) {
+    my $ref_type = "${cat}INST";
+    $ref_type = "MILPERSMAN" if $cat eq 'MILPERSMAN';
+
+    if (!exists $cross_refs->{$ref_type}->{$series}) {
         $c->reply->not_found;
         return;
     }
 
-    my $refs_list = $cross_refs->{"${cat}INSTs"}->{$series};
+    my $refs_list = $cross_refs->{$ref_type}->{$series};
     $c->stash(
-        inst      => "${cat}INST $series",
+        inst      => "$ref_type $series",
         inst_refs => $refs_list,
         subjects  => \%navadmin_subj,
     );
