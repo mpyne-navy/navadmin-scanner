@@ -558,6 +558,13 @@ This list is only a partial best guess.
 <p>These instructions were referenced by NAVADMINs in the NAVADMIN database.
 This list is only a partial best guess.
 
+% for my $cat_name (sort keys $inst_keys->%*) {
+%   my $cat_no_inst = $cat_name =~ s/INST$//r;
+%   my $inst_series_of_cat = $inst_keys->{$cat_name};
+%   my @inst_ids = sort keys $inst_series_of_cat->%*;
+
+<details>
+<summary><span class="tag is-info is-rounded"><%= scalar @inst_ids %></span> <%= "$cat_no_inst Instructions" %></summary>
 <table class="table">
 <thead>
   <tr>
@@ -566,21 +573,16 @@ This list is only a partial best guess.
   </tr>
 </thead>
 <tbody>
-% for my $cat (keys $inst_keys->%*) {
-%   my $cat_name = $cat =~ s/s$//r;
-%   my $cat_no_inst = $cat_name =~ s/INST$//r;
-
-%   my $inst_series_of_cat = $inst_keys->{$cat};
-%   my @inst_ids = sort keys $inst_series_of_cat->%*;
 %   for my $inst (@inst_ids) {
     <tr>
       <td><a href="<%= url_for('show-inst-refs', cat => $cat_no_inst, series => $inst) %>"><%= "$cat_name $inst" %></a></td>
       <td><%= $inst_series_of_cat->{$inst} %></td>
     </tr>
 %   }
-% }
 </tbody>
 </table>
+</details>
+% }
 
 </div>
 
