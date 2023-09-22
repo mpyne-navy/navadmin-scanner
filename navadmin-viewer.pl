@@ -530,10 +530,17 @@ This list is only a partial best guess.
 </thead>
 <tbody>
 % for my $cross_ref ($inst_refs->@*) {
-  <tr>
-    <td><a href="/NAVADMIN/<%=$cross_ref%>">NAVADMIN <%= "$cross_ref" %></a></td>
-    <td><%= $subjects->{$cross_ref} %></td>
-  </tr>
+  % if (exists $subjects->{$cross_ref}) {
+    <tr>
+      <td><a href="/NAVADMIN/<%=$cross_ref%>">NAVADMIN <%= "$cross_ref" %></a></td>
+      <td><%= $subjects->{$cross_ref} %></td>
+    </tr>
+  % } else {
+    <tr class="has-background-white-ter">
+      <td>NAVADMIN <%= "$cross_ref" %></td>
+      <td><span class="has-text-dark">NAVADMIN present in repository, but unviewable without server improvements</span></td>
+    </tr>
+  % }
 % }
 </tbody>
 </table>
