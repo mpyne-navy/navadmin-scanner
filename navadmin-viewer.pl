@@ -34,7 +34,7 @@ my $file_text = eval { Mojo::File->new("navadmin_meta.json")->slurp; } // "{}";
 $navadmin_dl_metadata = Mojo::JSON::decode_json($file_text);
 
 my $cross_ref_data = eval { Mojo::File->new("cross-refs.json")->slurp; };
-$cross_ref_data  //= q( { "NAVADMINs": {} } );
+$cross_ref_data  //= q( { "NAVADMIN": {} } );
 $cross_refs = Mojo::JSON::decode_json($cross_ref_data);
 
 # Find known NAVADMINs and build up data mapping for later
@@ -172,7 +172,7 @@ get '/NAVADMIN/:id/:twoyr'
     my $meta = $navadmin_dl_metadata->{$index} // '';
 
     # Will be an array of NAVADMINs that link to this one in format "xxx/yy"
-    my $cross_ref = $cross_refs->{NAVADMINs}->{$index} // [];
+    my $cross_ref = $cross_refs->{NAVADMIN}->{$index} // [];
 
     # Otherwise show a fancy web page
     $c->render(template => 'show-navadmin',
