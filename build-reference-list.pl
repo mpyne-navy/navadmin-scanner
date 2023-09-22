@@ -39,8 +39,8 @@ my %refs = (
 # series/ID of the instruction for the type that corresponds to the key
 my %ref_scanners = (
     NAVADMIN   => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
-    OPNAVINST  => qr/^OPNAVINST *([0-9]{4,5}\.[0-9][A-Z]?)\b/,
-    SECNAVINST => qr/^SECNAVINST *([0-9]{4,5}\.[0-9][A-Z]?)\b/,
+    OPNAVINST  => qr/^OPNAVINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
+    SECNAVINST => qr/^SECNAVINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
     MILPERSMAN => qr/^MILPERSMAN *([0-9]{4,5}-[0-9]{3})\b/,
     DODINST    => qr/^DODINST *([0-9]{4,5}\.[0-9]{1,2})\b/,
 );
@@ -53,7 +53,7 @@ foreach my $path (@files) {
 
     # Filter out issues
     if ($@) {
-        say STDERR "Failed to read from $path";
+        say STDERR "Failed to read from $path: $@";
         next;
     }
 
