@@ -151,7 +151,7 @@ sub decode_msg_head($head)
             # if we're reading a slash-separated field, append lines to field
             # until it ends in //.
             $partial_field .= $line;
-            if ($line =~ m,// *$,) {
+            if ($line =~ m,// *$, || $line =~ m,^ *$,) {
                 # end of field found
 
                 my ($field, $payload) = split(/ *\/ */, $partial_field, 2);
