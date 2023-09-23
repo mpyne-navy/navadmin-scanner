@@ -85,61 +85,58 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
     }
 
     my $req = $ua->get_p($no_ver_url, \%get_opts)
-                ->then(sub ($tx) {
-                        my $res = $tx->result;
+        ->then(sub ($tx) {
+            my $res = $tx->result;
 
-                        # Download w/out ?ver= didn't work, assume that is reason and try again
-                        if ($res->is_error) {
-                            say "$shortname: Download failed, retrying $dl_path";
-                            return $ua->get_p($url, \%get_opts);
-                        }
+            # Download w/out ?ver= didn't work, assume that is reason and try again
+            if ($res->is_error) {
+                say "$shortname: Download failed, retrying $dl_path";
+                return $ua->get_p($url, \%get_opts);
+            }
 
-                        # Proceed with existing $tx
-                        return $tx;
-                    })
-                ->then(sub ($tx) {
-                        my $res = $tx->result;
-                        my $url = $tx->req->url->to_string;
+            # Proceed with existing $tx
+            return $tx;
+            })
+        ->then(sub ($tx) {
+            my $res = $tx->result;
+            my $url = $tx->req->url->to_string;
 
-                        # If we failed it's time to give up
-                        if ($res->is_error) {
-                            $errors->{$url} = {
-                                code => $res->code,
-                                msg  => $res->message,
-                            };
+            # If we failed it's time to give up
+            if ($res->is_error) {
+                $errors->{$url} = {
+                    code => $res->code,
+                    msg  => $res->message,
+                };
 
-                            die "$shortname: Failed to download $url, " . $res->message . " (" . $res->code . ")";
-                        }
-                        else {
-                            say "$shortname: " . $res->code . " " . $res->message;
-                        }
+                die "$shortname: Failed to download $url, " . $res->message . " (" . $res->code . ")";
+            }
 
-                        if (!$res->is_empty) {
-                            # Save file to disk
-                            say "Downloaded $name";
-                            $metadata->{$shortname} //= { };
-                            $metadata->{$shortname}->{dl_date} = time;
-                            $metadata->{$shortname}->{dl_url}  = $url;
+            if (!$res->is_empty) {
+                # Save file to disk
+                say "Downloaded $name";
+                $metadata->{$shortname} //= { };
+                $metadata->{$shortname}->{dl_date} = time;
+                $metadata->{$shortname}->{dl_url}  = $url;
 
-                            $res->save_to($name);
-                        }
+                $res->save_to($name);
+            }
 
-                        # Add delay out of respect to the giant Sharepoint in the sky
-                        my $promise = Mojo::Promise->new(sub ($resolve, $reject) {
-                            Mojo::IOLoop->timer(0.2 => sub {
-                                $resolve->($name);
-                            });
-                        });
+            # Add delay out of respect to the giant Sharepoint in the sky
+            my $promise = Mojo::Promise->new(sub ($resolve, $reject) {
+                Mojo::IOLoop->timer(0.2 => sub {
+                    $resolve->($res->code);
+                });
+            });
 
-                        return $promise;
-                    })
-                ->catch(sub ($err) {
-                        say STDERR "Error downloading $url: $err";
-                        $errors->{$url->to_string} = {
-                            code => 401,
-                            msg  => "$@",
-                        }
-                    });
+            return $promise;
+            })
+        ->catch(sub ($err) {
+            say STDERR "Error downloading $url: $err";
+            $errors->{$url->to_string} = {
+                code => 401,
+                msg  => "$@",
+            }
+            });
 
     return $req;
 }
@@ -186,13 +183,19 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
             download_navadmin($_, $ua, $metadata, $errors);
         }, @navadmin_urls)
         ->then(sub (@results) {
+            my %code_count;
+            $code_count{$_->[0]}++ foreach @results;
+
+            for my ($code, $count) (%code_count) {
+                say "HTTP $code results: $count";
+            }
+            say "Total:            ", scalar @results;
+
             for my ($url, $err) (%$errors) {
                 say "$url failed: ", $err->{code}, " ", $err->{msg};
             }
 
             save_navadmin_metadata($metadata);
-
-            say "Done";
         });
 });
 
