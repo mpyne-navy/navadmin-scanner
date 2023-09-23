@@ -1,0 +1,54 @@
+#!/bin/bash
+
+# shows which specific NAVADMIN fields have been detected differently based on the changes
+# in the current working directory, as compared to git-HEAD.
+#
+# Requires jq, GNU parallel and coreutils installed
+
+set -euo pipefail
+
+if [ ! -e old.txt -o ! -e new.txt ]; then
+    echo "Run compare-output-changes.sh first to generate list of files that have changed at all"
+    exit 1
+fi
+
+if $(git status -s | grep -v '^?' | grep -q '^[A-Z]'); then
+    echo "You have staged changes, this is supported only for unstaged changes."
+    exit 1
+fi
+
+# Remove output file dir if it already exists to regenerate
+rm -rf out/
+mkdir -p out
+
+# Extract filename of NAVADMINs that had any difference in output and pass to
+# parallel to run split-msg to extract the field info using jq
+diff -u {old,new}.txt | \
+    grep '^+N'        | \
+    sed s/^.//        | \
+    cut -d: -f 1      | \
+    cut -d/ -f 2      | \
+    parallel  './split-msg.pl NAVADMIN/{} 2>/dev/null | jq .fields > "out/{.}-new.log"' || true
+
+# Stash changes and re-run to see what old version's output had been
+git stash push
+
+# Same exact command but save to different file name to allow comparison
+diff -u {old,new}.txt | \
+    grep '^+N'        | \
+    sed s/^.//        | \
+    cut -d: -f 1      | \
+    cut -d/ -f 2      | \
+    parallel  './split-msg.pl NAVADMIN/{} 2>/dev/null | jq .fields > "out/{.}-old.log"' || true
+
+# Bring the changes back in
+git stash pop
+
+# Show fields that have changed (if any)
+diff -u {old,new}.txt | \
+    grep '^+N'        | \
+    sed s/^.//        | \
+    cut -d: -f 1      | \
+    cut -d/ -f 2      | \
+    parallel diff -u "out/{.}-old.log" "out/{.}-new.log"
+

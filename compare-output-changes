@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# shows which files have changed if the current source is used as compared to git-HEAD.
+#
+# Requires jq, GNU parallel, and sha1sum installed
+
+set -euo pipefail
+
+if $(git status -s | grep -v '^?' | grep -q '^[A-Z]'); then
+    echo "You have staged changes, this is supported only for unstaged changes."
+    exit 1
+fi
+
+# The current working dir version is extracted first
+find NAVADMIN -name 'NAV*.txt' -print0 | \
+    parallel -0 'printf "{}: " ; ./split-msg.pl {}  2>/dev/null | jq --sort-keys -c . | sha1sum' | \
+    sort > new.txt
+
+# Stash changes, extract the sums of the old changes, and reapply changes
+git stash push
+
+# We have the old (git HEAD) version applied, re-run to see what the script output was then
+find NAVADMIN -name 'NAV*.txt' -print0 | \
+    parallel -0 'printf "{}: " ; ./split-msg.pl {}  2>/dev/null | jq --sort-keys -c . | sha1sum' | \
+    sort > old.txt
+
+# Reapply changes
+git stash pop
+
+# Show files whose detected headers have changed due to the current git changes
+diff -u {old,new}.txt | grep '^+N'

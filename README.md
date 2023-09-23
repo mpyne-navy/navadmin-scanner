@@ -143,3 +143,29 @@ A test suite can be run testing this script against the repository database of
 NAVADMIN messages, if the Perl "Test::Harness" module is installed.  If so, you
 can run the `prove` command: `prove -I modules -r`, which recursively runs all
 modules under `t/`.
+
+### Testing impact of decoder script changes
+
+If you have made *uncommitted* changes to the source code for the NAVADMIN
+parsing code (split-msg.pl or modules/MsgReader.pm) and want to see if it
+causes improper output or loss of previously-working detections, you can use
+some included scripts to make it easier to test.
+
+The `compare-output-changes` script on Linux installs (with auxiliary tools
+`jq`, `parallel` installed) will output files out.txt and new.txt. Each file
+will contain a line for each NAVADMIN in the database along with a checksum for
+the output of the split-msg.pl script when run on that NAVADMIN. out.txt uses
+the output of the last Git *commit*, while new.txt uses the output of your
+currently uncommitted changes.
+
+If the checksum in new.txt has changed from the same NAVADMIN in old.txt, then
+the changes may need to be looked at in more detail for that file.
+
+The most important changes would be in field detection, so there is a dedicated
+script for that as well, `compare-ref-field-changes`, which requires
+`compare-output-changes` to have run first.
+
+The script is very similar, except that instead of two files it generates two
+files for every NAVADMIN whose contents were not identical, under the `out/`
+directory, and then shows a list of all changes.  You can also do comparisons
+at the command line if you want to filter to a smaller list of changes.
