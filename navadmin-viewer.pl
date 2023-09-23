@@ -566,9 +566,18 @@ This list is only a partial best guess.
 This list is only a partial best guess.
 
 % for my $cat_name (sort keys $inst_keys->%*) {
+%   my $cat_has_dot = $cat_name =~ /INST$/;
 %   my $cat_no_inst = $cat_name =~ s/INST$//r;
 %   my $inst_series_of_cat = $inst_keys->{$cat_name};
-%   my @inst_ids = sort keys $inst_series_of_cat->%*;
+%   my @inst_ids;
+%   if ($cat_has_dot) { # avoid things like OPNAVINST 11051.1A sorting before 1200.1B
+%       @inst_ids = map { $_->[0] }
+%                   sort { $a->[1] <=> $b->[1] or $a->[0] cmp $b->[0] } # <=> forces numeric sort
+%                   map { [$_, substr($_, 0, index($_, '.'))] }
+%                       keys $inst_series_of_cat->%*;
+%   } else {
+%       @inst_ids = sort keys $inst_series_of_cat->%*; # plain string sort is fine for other types
+%   }
 
 <details>
 <summary><span class="tag is-info is-rounded"><%= scalar @inst_ids %></span> <%= "$cat_no_inst Instructions" %></summary>
