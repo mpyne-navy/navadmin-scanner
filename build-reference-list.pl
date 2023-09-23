@@ -42,7 +42,7 @@ my %ref_scanners = (
     OPNAVINST  => qr/^OPNAVINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
     SECNAVINST => qr/^SECNAVINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
     MILPERSMAN => qr/^MILPERSMAN *([0-9]{4,5}-[0-9]{3})\b/,
-    DODINST    => qr/^DODINST *([0-9]{4,5}\.[0-9]{1,2})\b/,
+    DODINST    => qr/^(?:DODINST|DEPARTMENT OF DEFENSE INSTRUCTION) *([0-9]{4,5}\.[0-9]{1,2})\b/,
 );
 
 foreach my $path (@files) {
