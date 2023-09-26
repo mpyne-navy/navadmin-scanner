@@ -1,0 +1,167 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 251812Z SEP 23 MID120000476836U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 230/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/NAVY RESERVE PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, COMMANDER, 
+LIEUTENANT COMMANDER, LIEUTENANT, AND CHIEF WARRANT OFFICER IN THE LINE AND 
+STAFF CORPS// 
+ 
+REF/A/DOC/OPNAV/11JUL11// 
+REF/B/MSG/CNO WASHINGTON DC/211859ZDEC17// 
+REF/C/DOC/OPNAV/28FEB12// 
+REF/D/MSG/CNO WASHINGTON DC/041853ZAUG22 
+REF/E/DOC/SECNAV/24JUL19// 
+REF/F/DOC/COMNAVPERSCOM/23JUL07// 
+ 
+NARR/REF A IS OPNAVINST 6110.1J, PHYSICAL READINESS PROGRAM. 
+REF B IS NAVADMIN 304/17, PHYSICAL READINESS PROGRAM POLICY CHANGES. 
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY.   
+REF D IS NAVADMIN 176/22, POLICY UPDATE CONCERNING SERVICE-IN-GRADE 
+RETIREMENT ELIGIBILITY FOR ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR 
+RESERVE LIEUTENANT COMMANDERS.   
+REF E IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF F IS MILPERSMAN ARTICLE 1070-180, OFFICER PHOTOGRAPHS.// 
+ 
+RMKS/1.  Congratulations to the following officers on their promotions to the 
+ranks indicated in this message.  This NAVADMIN is the authority for 
+effecting permanent officer promotions on the dates indicated.  Columns read 
+name and designator. 
+                     PERMANENT PROMOTION TO CAPTAIN 
+             CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE 
+                 LINE 21 JUNE 2023      STAFF 21 JUNE 2023 
+                        DOR/EFF DATE 01 OCTOBER 2023 
+ Allen Anton B            1527         Bierling Sandra L        2105 
+ Byrne Brendan Terence    2105         Carmody Christina Ann    2305 
+ Celentano Borya I        1317         Chatigny Matthew Thomas  1815 
+ Chuba Donna Marie        1525         Cook Christopher Paul    1665 
+ Davis Lance Lee          2105         Donahue Stephanie Anne   2905 
+ Duwel David Kenneth      1125         Fong Arthur Chi          1715 
+ Hoelscher Loren Curtis   1805         Jasiewicz Ronald C       2105 
+ Karp Ethan Howard        1317         Kearney Brendan Andrew   3105 
+ Keesee Amanda Nicole     1115         Kolb Matthew Vincent     1115 
+ Lamb Holli Karyn         1445         Lazzaretti Patrick C     1205 
+ Mccullough Matthew J     1315         Metzler Ryan Henry       6215 
+ Miller Grant Joseph      1835         Morris John Allen        2205 
+ Moss Julie Kim           3107         Murgia Justin Michael    1325 
+ Murphy Robin Sue         2905         Paynter Robert Allen Jr  1207 
+ Pennix Elisabeth Hope    2505         Perez Gustavo            1655 
+ Peters Ryan Elliot       1135         Sherman Steven Daniel    5105 
+ Steinbarger Shaun M      1315         Torres Gerardo           1825 
+ Turse Sarah E            1147         Voss Joel Richard        1315 
+ Walker Joseph Edward     1515         Zalma Melinda S L        4105 
+                      PERMANENT PROMOTION TO COMMANDER 
+                          DOR/EFF DATE 01 MAY 2022 
+ Raymond Brian Douglas    2305 
+                        DOR/EFF DATE 01 OCTOBER 2023 
+ Aguilargarcia Wilson J   2205         Alexander Sean Lamaar    1835 
+ Bellbryant Demetria B    1205         Benes Michael C          1525 
+ Bliss Heather Lee        1527         Brock Whitney Wardlaw    2905 
+ Brodhead Michael Roger   1815         Buck Jeffrey Scott       1325 
+ Byrne Paul M III         1315         Cannon William R         1115 
+ Cartledge Jonathan D     1315         Chance Colin Benjamin    1315 
+ Charbonnet Briede P      1665         Clardy Erica Marie       1715 
+ Conway Jovanni F Jr      1445         Cook John B              1515 
+ Czynski Mark C           1125         Darda Mary Ann           2305 
+ Dorrell Grant Eugene     6495         Duarte Shirley S         2105 
+ Fitzpatrick Kyle E       1835         Gabbard Benjamin James   1117 
+ Good Matthew W           1315         Greenway Stevie Ray      1207 
+ Halterman Galina N       3105         Hanks Lawrence Ryland    1117 
+ Harper Jeffrey Burke     1315         Herod Marcus Gurst       2105 
+ Hock Brian D             1315         Hogan Andrew Joseph      2105 
+ Johnson Karen Marjorie   2905         Kelly Trisha Jane        1117 
+ Knox Kenneth Michael     1115         Kohli Nita               2105 
+ Lapenta Daniel C         2505         Laverick Tyler Simmers   1665 
+ Mabus John Michael       4105         Mack Jared Wayne         2205 
+ Mackin Kyle Joseph       2105         Magder Joshua Gabriel    1315 
+ Malnati Nathan Lloyd     1317         Maltby Ann Elizabeth     2905 
+ Maxson Ashley Renee      1445         Mccreary Jeremy Adam     2105 
+ Meidenbauer Daniel M     1815         Meyer Dan Marshall       2105 
+ Miniter Craig Michael    1115         Morison Gregory Matthew  2505 
+ Musquiz Alejandro D      1825         Nelson Jonathan Kyle     5105 
+ Nelson Seamus Robert     1655         Nguyen Dalton Khac       1115 
+ Nneji Emmanuel Ifeanyi   3105         North Harold Lebron III  1115 
+ Notz Ross J              1315         Obialor Romanus C        2905 
+ Pekal Christine Diana    2905         Peranteau Nicholas J     1315 
+ Robie John Frances       1315         Rothenbach Victor Neal   3105 
+ Schnettler Shane M       1135         Secorjones Sarah E       2105 
+ Sheinis Daniel Marc      1835         Sisk Brian Richard       1125 
+ Sistrunk Jacob William   1125         Smart Matthew Stephen    1805 
+ Stevenson Robert Louis   1135         Stewart Patrick Ryan     1315 
+ Stratton Parker H        1135         Stridh Allison Pearl     3105 
+ Sullivan Timothy John    1317         Teixeira Jacqueline M    2305 
+ Teppo Walter Chauncey    1835         Visser Thomas E          1115 
+ Whildin Kevin M          1125         Whitney Nicholas P       2505 
+ Winder Samuel Banks      1125         Witt Wallace T III       1307 
+ Zintgraff Ryan Douglas   3107 
+                  PERMANENT PROMOTION TO LIEUTENANT COMMANDER 
+                        DOR/EFF DATE 01 NOVEMBER 2022 
+ Regnaud Thomas S         1137 
+ 
+FY-24 Lieutenant Commander Line and Lieutenant Commander Staff Corps 
+Promotion Selection Board results are pending Senate Confirmation as of the 
+preparation date of this message.  FY-24 Lieutenant All-Fully-Qualified-
+Officer List has been approved and is pending release.  FY-24 Chief Warrant 
+Officer W-5, W-4, W-3 Promotion Selection Board results are pending 
+administrative review as of the preparation date of this message. 
+ 
+2.  If a selected officer does not decline in writing prior to the projected 
+date of rank (noted above in paragraph 1), that officer is considered to have 
+accepted the promotion on the date indicated.  An officer who chooses to 
+decline promotion must submit the declination in writing to COMNAVPERSCOM 
+(PERS-806) within thirty (30) days of the release of this NAVADMIN. 
+ 
+3.  The commanding officer (CO), the Secretary of the Navy, or his designee, 
+has the authority to delay projected promotions.  Upon the exercise of a 
+delay, the officer shall be notified in writing before the effective date of 
+the promotion and not be tendered the promoting appointment.  The delay 
+authority will immediately forward the notification of delay with supporting 
+documentation to COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806). 
+ 
+4.  COs are reminded of their responsibility to ensure the officers they are 
+promoting are mentally, physically, morally and professionally qualified in 
+accordance with section 14311 of title 10, U.S. Code.  Per reference (a), 
+officers are ineligible for promotion if they have failed the most recent 
+Physical Fitness Assessment.  COs shall verify the promoting officer's 
+information in the Physical Readiness Information Management System to ensure 
+compliance with reference (a), as modified by reference (b), and delay the 
+officers promotion in accordance with paragraph 3 of this NAVADMIN, if 
+required. 
+ 
+5.  Prepare a Delivery of Permanent Appointment (NAVPERS FORM 1421/7) (Rev 
+10-13).  Use this NAVADMIN as reference (a).  Use section of title 10, U.S. 
+Code 14308 as reference (b) for permanent lieutenants and above.  Use section 
+of title 10, U.S. Code 12242 as reference (b) for chief warrant officers.   
+Mail the completed form to COMNAVPERSCOM (PERS-806) or email via My Navy 
+Career Center at askmncc.fct@navy.mil. 
+ 
+6.  Training and Administration of Reserve (TAR) Officers should review 
+references (c) and (d) for minimum time-in-grade (TIG)/service-in-grade 
+requirements for purposes of Active-Duty voluntary retirement.  (NOTE:  TIG 
+TAR LCDR voluntary retirements changed with National Defense Authorization 
+Act 2021; Update to reference (c) is pending.)  TAR officers and those 
+officers temporarily on active duty anticipating release from active duty 
+under reference (e) may accept promotion without incurring any additional 
+active-duty obligation. 
+ 
+7.  New photographs are required for all officers within three months after 
+acceptance of promotion.  See reference (f) for specific requirements. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
