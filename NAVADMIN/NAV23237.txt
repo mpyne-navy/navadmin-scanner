@@ -1,0 +1,155 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 031621Z OCT 23 MID120000504202U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 237/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/UPDATES TO THE NAVY ENLISTED LEADER DEVELOPMENT PROGRAM// 
+ 
+REF/A/DOC/CNO/01MAY19// 
+REF/B/DOC/MCPON/01MAY19// 
+REF/C/DOC/OPNAV/26APR21// 
+REF/D/MSG/CNO/092201ZNOV21// 
+ 
+NARR/REF A IS CHIEF OF NAVAL OPERATIONS LETTER, NAVY LEADER DEVELOPMENT 
+FRAMEWORK 3.0.   
+REF B IS LAYING THE KEEL.   
+REF C IS OPNAVINST 5351.2B, ENLISTED LEADER DEVELOPMENT CONTINUUM.   
+REF D IS NAVADMIN 254/21, UPDATES TO THE NAVY LEADER DEVELOPMENT PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN provides clarification on Enlisted Leader Development 
+(ELD) courses of instruction, the associated requirements for completion by 
+Naval Leadership and Ethics Command (NLEC) trained Fleet facilitators and 
+announces Command Enlisted Leader Development public site as well as the 
+associated shift to Enterprise Navy Training Reservation System (ENTRS), 
+Corporate Enterprise Training Activity Resource Systems (CETARS), and Catalog 
+of Navy Training Courses (CANTRAC) for all NLEC commands; including San Diego 
+and Dam Neck course advertisement, and student control functions.  Student 
+control and course advertisement functions for fleet facilitated courses will 
+use the ELD Flank Speed SharePoint site via the ELD public website. These 
+requirements will be incorporated into future revisions of references (a) 
+through (c). 
+ 
+2.  While overall responsibility for ELD rests with the unit commanding 
+officer, the executive officer in conjunction with the command master 
+chief/senior enlisted leader will plan, track, and ensure all Sailor's ELD 
+requirements are met prior to the 2025 deadline. It is highly recommended 
+that an E-7 or above is assigned as a command ELD coordinator to assist 
+command leadership with tracking and planning. In line with reference (d), 
+beginning in the calendar year 2025, ELD completion will be a prerequisite to 
+take the Navy-wide advancement exam for E-6 and E-7 as well as a 
+requirement to be eligible for selection to E-8 commencing with the Fiscal 
+Year 2026 Selection Board.  It is imperative that command leadership send the 
+right personnel at the right time to ELD courses to ensure personnel eligible 
+for advancement have attended the appropriate ELD course leading up to the 
+2025 deadline.  ELD courses for E-4s will still be available, but is not yet 
+a requirement for eligibility for advancement. 
+ 
+3.  ELD Courses of Instruction.  The Foundational Leader Development Course 
+is for Sailors in paygrades E-3 and E-4.  The Intermediate Leader Development 
+Course (ILDC) is for Sailors in paygrade E-5. The Advanced Leader Development 
+Course (ALDC) is for Sailors in paygrade E-6.  The Chief Petty Officer Leader 
+Development Course (CPO-LDC) is for Sailors in the paygrade of E-7.  All 
+courses are meant to be attended once a Sailor is wearing the applicable rank 
+and cannot be completed prior to being frocked or advanced.  CPO-LDC is not 
+the replacement for the CPO Selectee Leadership Course ("Teaching to the 
+Creed") and will not be conducted as part of CPO Initiation.  Sub-paragraphs 
+3a through 3e provide clarification on ELD program deployment. 
+    a.  ELD courses of instruction may only be taught by properly qualified 
+CPOs.  The Command Navy Leader Development Facilitator (C-NLDF) certification 
+course is for CPOs, senior chief petty officers (SCPO), and master chief 
+petty officers (MCPO) and certifies them to facilitate Foundational Leader 
+Development Course (FLDC), ILDC, and ALDC to the Fleet.  Only SCPOs or MCPOs 
+who have completed C-NLDF may attend the CPO Command Navy Leader Development 
+Facilitator Certification Course (CPO C-NLDF).  CPO C-NLDF is a separate 
+course from C-NLDF, which certifies SCPOs and MCPOs to facilitate CPO-LDC. 
+    b.  Course Length.  ELD courses are formal courses of instruction and 
+will not be shortened, edited, or otherwise altered. FLDC and ILDC are both 
+3-day courses of instruction.  ALDC is a 4-day course of instruction.  CPO-
+LDC is a 5-day course of instruction.  The curriculum for all course lines is 
+designed to be 8 hours of facilitation and instructional time per 
+day.  Requests to deviate from this schedule will be sent through NLEC points 
+of contact listed in paragraph 7. 
+    c.  Class Size.  FLDC, ILDC, ALDC, and CPO-LDC classes will have a 
+minimum of 8 students and a maximum of 20.  NLEC-led virtual FLDC, ILDC, and 
+ALDC courses have a minimum class size of 8 and a maximum of 16.  The C-NLDF 
+and CPO C-NLDF courses are offered exclusively in person and are only hosted 
+by NLEC staff with a minimum class size of 8 and a maximum of 12 students. 
+    d.  Coalition Approach.  ELD is designed around the concept of a shared 
+effort across the Navy's CPO Mess.  NLEC is responsible to conduct 25 percent  
+and Dam Neck schoolhouses.  Qualified ELD course facilitators throughout the 
+Fleet are intended to pick up 75 percent of the Fleet's needs via command-
+hosted classes.  ELD courses are best facilitated by CPOs outside of a 
+student's chain of command to enable a diversity of thoughts and ideas on 
+difficult topics. 
+    e.  Other Considerations.  Only current NLEC staff facilitators are 
+authorized to facilitate virtual FLDC, ILDC, and ALDC classes. The CPO-LDC 
+course is not offered virtually.  A minimum of two qualified facilitators is 
+required to conduct all ELD courses whether at NLEC or a local command.  Only 
+NLEC personnel qualified as a Master Navy Leader Development Facilitator are 
+authorized to qualify other personnel to facilitate ELD courses. 
+ 
+4.  Migration to CETARS, CANTRAC, and ENTRS.  NLEC San Diego and Dam Neck 
+have successfully migrated to CETARS, ENTRS, and CANTRAC as the primary means 
+to create and advertise ELD classes, control quotas, approve student 
+reservations, and convene and graduate classes via CETARS.  Student 
+reservations for NLEC San Diego and Dam Neck hosted classes will be completed 
+by individual command training departments using ENTRS.  Command training 
+officers and training departments are advised to include the student's e-mail 
+and first CPO in the chain of command's e-mail when creating reservations for 
+notifications of class seat approvals or changes.  ELD course schedules will 
+be posted in CANTRAC and separated by career development programs (CDP) for 
+NLEC San Diego and Dam Neck.  Training departments will ensure reservations 
+are being made for the correct CDP location.  Course completion for NLEC-
+hosted ELD courses will automatically populate into a Sailor's electronic 
+training jacket. 
+ 
+5.  The MyNavy Portal quick link for ELD will no longer be utilized. The ELD 
+public site is the primary website for ELD information, course descriptions, 
+and enrollment.  Fleet facilitators hosting ELD classes will continue to use 
+the ELD Sharepoint via ELD's public site by clicking on the enrollment tab at 
+the following link: https://www.netc.navy.mil/ELD/.  Student reservations for 
+non-NLEC hosted classes will be made using the ELD sharepoint via ELD's 
+public website.  It is imperative that Sailors add the first CPO in their 
+chain of command on the application form.  It is also imperative that upon 
+course completion, Sailors take either their graduation certificate or class 
+roster back to the command's training department to have their training 
+logged in the Fleet Training Management and Planning System (FLTMPS).  Fleet-
+hosted ELD classes do not automatically populate in the member's electronic 
+training jacket and must be loaded via FLTMPS. 
+ 
+6.  Naval Special Warfare (NSW) Course Equivalency.  Special Warfare Operator 
+(SO) and Special Boat Operator (SB) Sailors in paygrade E-6 must complete the 
+NSW leading petty officer (LPO), or Naval Special Warfare Development Group 
+(NSWDG) LPO courses in lieu of ALDC. Further, SO and SB Sailors in paygrade 
+E-7 must complete the NSW platoon leader or NSWDG team leader courses in lieu 
+of the CPO-LDC course. 
+ 
+7.  Points of Contact: 
+    a.  ELD Program Manager.  AVCM Steven Rush, NLEC Newport, RI at 
+(401)841-3347/DSN 312-841-3347, or via e-mail at 
+steven.a.rush.mil@us.navy.mil. 
+    b.  NLEC San Diego, CA.  CMDCM Chad Lunsford at (619)-556-8417, or via  
+e-mail at chad.l.lunsford.mil@us.navy.mil. 
+    c.  NLEC Dam Neck, VA.  CMDCM Katie Coleman at (757)-492-6161, or via  
+e-mail at kathryn.p.coleman.mil@us.navy.mil and BMCM Rob Bergmann at  
+(757)-492-8622, or via e-mail at robert.c.bergmann.mil@us.navy.mil. 
+ 
+8.  This NAVADMIN will remain in effect until superseded or canceled. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
