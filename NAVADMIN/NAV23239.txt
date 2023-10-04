@@ -1,0 +1,131 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 031957Z OCT 23 MID120000504966U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 239/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/SELECTED RESERVE ADVANCEMENT TO WARFIGHTING POSITIONS PROGRAM PHASE II// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/191622ZJUL23// 
+REF/B/DOC/BUPERS/07FEB22// 
+REF/C/DOC/COMNAVPERSCOM/06JUN20// 
+REF/D/DOC/COMNAVPERSCOM/UNDATED// 
+REF/E/DOC/COMNAVRESFOR/28MAR22// 
+REF/F/DOC/COMNAVRESFOR/13DEC22// 
+ 
+NARR/REF A IS NAVADMIN 160/23, SELECTED RESERVE ADVANCEMENT TO WARFIGHTING 
+POSITIONS PROGRAM PHASE I.  
+REF B IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF 
+THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF C IS MILPERSMAN 1910-158, SEPARATION BY REASON OF UNSATISFACTORY 
+PARTICIPATION IN THE READY RESERVE.   
+REF D IS MILPERSMAN 1001-150, NAVY RESERVE PARTICIPATION REQUIREMENTS. 
+REF E IS RESPERMAN 1001-010, SATISFACTORY PARTICIPATION IN THE NAVY RESERVE.   
+REF F IS RESPERSMAN 1570-010, INACTIVE DUTY TRAINING ADMINISTRATION.// 
+ 
+RMKS/1.  This NAVADMIN announces Advancement to Warfighting Positions (A2WP) 
+Program Phase II for enlisted Selected Reserve (SELRES) Sailors.  This phase 
+will commence on 1 October 2023 to coincide with the start of the first 
+quarterly MyNavy Assignment (MNA) cycle of Fiscal Year 2024. 
+ 
+2.  Background.  Reference (a) announced A2WP Phase I, which incentivizes 
+volunteers for critical individual augmentation mobilizations by coupling 
+permanent advancements with select activations.  SELRES Sailors are also 
+encouraged to apply for inactive duty training (IDT) billets in operational 
+units with preplanned activations.  A2WP Phase II serves as an incentive to 
+encourage volunteers to apply for critical IDT billets, connecting permanent 
+advancements with these assignments. 
+ 
+3.  Policy.  E-4 and E-5 SELRES Sailors who meet all eligibility requirements 
+for advancement to the next higher paygrade (e.g., commanding officer's 
+recommendation, time-in-rate (TIR), professional military knowledge 
+eligibility exam, etc.) can apply during the quarterly assignment cycle in 
+MNA for select IDT billets in operational units one paygrade higher than 
+their current rank. 
+These select billets will be clearly labeled as authorized for the A2WP 
+Program with the "hot jobs" tag.  If selected for the billet, Sailors will 
+permanently advance to the next higher paygrade upon reporting to the first 
+drill period with their new unit in line with their IDT orders.  Their TIR 
+date will be established in line with reference (b). 
+    a.  Selected Sailors must obligate through extension or reenlistment to 
+complete 60 months of service, within 60 days prior to their IDT orders start 
+date.  Any Sailor with an expiration of obligated service date that already 
+matches or exceeds the duration of this requirement is not required to incur 
+additional service. 
+    b.  Selected Sailors must sign an Administrative Remarks (NAVPERS 
+1070/613) acknowledging that they will attend the minimum annual IDT periods 
+and annual training with their unit.  Sailors must abide by the satisfactory 
+participation policy contained in references (d) and (e) and may be subject 
+to administrative action per references (c) and (f) if they fail to meet this 
+criteria. 
+    c.  Sailors who are disqualified for their IDT assignment prior to the 
+first drill weekend in their new unit will no longer be eligible for 
+advancement under this program. 
+    d.  Sailors otherwise eligible for this program, but not in their normal 
+projected rotation date window, should discuss options with their current 
+chain of command. 
+    e.  Sailors in dwell from prior mobilizations are required to sign a 
+Voluntary Waiver Acknowledgement for Mobilizing on Active Duty (NAVPERS 
+1300/25) to be eligible for this program, as participating units may have 
+preplanned activations scheduled. 
+ 
+4.  A2WP Phase II quotas.  The number of quotas available depends on the 
+warfighting readiness of operational units and the community health of 
+corresponding SELRES ratings.  With support from the Director, Military 
+Personnel Plans and Policy (OPNAV N13), A2WP quotas will be established by 
+the Chief of Navy Reserve at least annually. 
+ 
+5.  Selection criteria.  Commander, Navy Reserve Force (CNRFC) will establish 
+A2WP Phase II applicant selection criteria and implement a selection process 
+to select best and fully qualified applicants. More information will be 
+posted on the Navy Reserve Homeport at 
+https://www,private.navyreserve.navy.mil/Codes/N1/CNRFC_N121/Pages/NEW_N121_S
+ite.aspx.  Navy Reserve Centers and Navy Reserve Activities maintain 
+responsibility for ensuring that assigned SELRES Sailors meet advancement 
+eligibility requirements. 
+ 
+6.  Additional responsibilities.  CNRFC shall ensure that IDT orders for 
+A2WP-selected Sailors include appropriate instructions for Navy Reserve 
+Activities to support and process advancements. 
+ 
+7.  Other incentives.  A2WP is designed to supplement and not replace other 
+incentive programs.  As such, Sailors selected for A2WP will maintain 
+eligibility for other monetary and non-monetary incentives to which they 
+would be otherwise entitled in accordance with applicable authorities and 
+instructions.  Normally, A2WP Phase II billets will be authorized IDT 
+reimbursement funding to best support travel required for these 
+positions.  If necessary, OPNAV N13 will adjudicate exceptions to Navy policy 
+required to meet the intent of this program. 
+ 
+8.  Points of Contact: 
+    a.  For advancement eligibility questions, Sailors should contact their 
+Navy Reserve Center or Navy Reserve Activity Educational Services Officer. 
+    b.  For specific rate, rating, and Navy enlisted classification questions 
+and concerns, Sailors should contact their respective community 
+manager.  Contact information can be found on the SELRES Community Manager 
+page at https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted/Selected-Reserves/ 
+    c.  For IDT billet eligibility questions, contact CNRFC (N121) at:   
+usn.norfolk.comnavresforcomva.mbx.cnrfc-enlisted-assignments@us.navy.mil. 
+    d.  For A2WP policy questions, contact CDR Brad Smith, Reserve Policy 
+Branch (OPNAV N13R), (703)604-5102 or by e-mail at 
+david.b.smith24.mil@us.navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
