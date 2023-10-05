@@ -1,0 +1,94 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 051901Z OCT 23 MID120000514392U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 236/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTION DC/N1/OCT// 
+ 
+SUBJ/FISCAL YEAR 2024 GENERAL MILITARY TRAINING REQUIREMENTS// 
+ 
+REF/A/DOC/OPNAVINST 1500.22H/03SEP2015// 
+REF/B/DOC/DODI 8510.01/19JUL2022// 
+REF/C/DOC/DODI 5200.48/06MAR2020// 
+REF/D/DOC/DODD 5143.01/06APR2020// 
+REF/E/DOC/DODI 5015.02/17AUG2017// 
+REF/F/DOC/DODD 6495.01/10NOV2021// 
+REF/G/DOC/DODD 5240.06/31AUG2020// 
+REF/H/DOC/SECNAVINST 3070.2A/09MAY2019// 
+REF/I/DOC/OPNAVINST 1720.4B/18SEP2018// 
+ 
+NARR/REF A IS OPNAV INSTRUCTION 1500.22H, GENERAL MILITARY TRAINING PROGRAM.   
+REF B IS DOD INSTRUCTION 8510.01, RISK MANAGEMENT FRAMEWORK FOR DOD 
+INFORMATION TECHNOLOGY.   
+REF C IS DOD INSTRUCTION 5200.48, CONTROLLED CLASSIFIED INFORMATION.   
+REF D IS DOD DIRECTIVE 5143.01, UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE.   
+REF E IS DOD INSTRUCTION 5015.02, DOD RECORDS MANAGEMENT PROGRAM.   
+REF F IS DOD DIRECTIVE 6495.01, SEXUAL ASSAULT PREVENTION AND RESPONSE 
+PROGRAM. 
+REF G IS DOD DIRECTIVE 5240.06, COUNTERINTELLIGENCE AWARENESS AND REPORTING.   
+REF H IS SECNAV INSTRUCTION 3070.2A, OPERATIONS SECURITY.   
+REF I IS OPNAV INSTRUCTION 1720.4B, SUICIDE PREVENTION PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN issues Fiscal Year (FY) 2024 general military 
+training (GMT) requirements for all Navy Service Members.  These 
+requirements are mandated by Congress and the Department of Defense 
+in line with references (a) through (i).  In the competition with 
+our pacing challenge, the individual readiness of our people is our 
+warfighting advantage.  This GMT provides sailors baseline training 
+to protect fellow sailors from harm, protect our operations, and 
+protect our networks and information-key tenets that make us better 
+warfighters. 
+ 
+2.  In response to Fleet feedback, Navy has minimized mandatory GMT 
+topics.  In all cases, commanders are expected to use their judgment 
+to tailor GMT to best meet the needs of their command and ensure 
+critical concepts resonate in a way that makes us better. 
+ 
+3.  FY24 Mandatory GMT Topics: 
+    a.  Below are the Mandatory GMT topics for FY24: 
+(1) Controlled Unclassified Information (CUI). 
+(2) Records Management in the DON: Everyones Responsibility. 
+(3) NCIS Counterintelligence and Insider Threat Awareness 
+and Reporting. 
+(4) DOD Cyber Awareness Challenge 2024. 
+(5) FY24 Operations Security (OPSEC). 
+(6) Sexual Assault Prevention and Response (SAPR) Awareness. 
+(7) Suicide Prevention. 
+    b.  Mandatory GMT topics can be found on the GMT webpage at 
+https://www.mnp.navy.mil/group/general-skills-training/gmt/. 
+ 
+4.  FY24 Command Discretion GMT Topics: 
+    a.  Command discretion GMT is not required annually, but may 
+have situational requirements (e.g., initial entry, pre-deployment, 
+career milestones, personal financial readiness touchpoints, etc.) 
+    b.  Below are the Command discretion GMT topics for FY24: 
+(1) Antiterrorism Level I Awareness. 
+(2) Influence Awareness - Countering Disinformation. 
+(3) Navy Energy - Enabling Combat Operations. 
+(4) Center for Development of Security Excellence Counterintelligence. 
+(5) Operational Risk Management. 
+(6) Traumatic Brain Injury Training for Service Members. 
+(7) Personal Financial Management. 
+(8) Crew Endurance and Fatigue Management. 
+(9) Domestic Violence - All Hands. 
+    c.  Command Discretion GMT topics can be found on the GMT webpage at 
+https://www.mnp.navy.mil/group/general-skills-training/gmt/. 
+ 
+5.  This NAVADMIN will remain in effect until superseded or 30 September 
+2024, whichever occurs first. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
