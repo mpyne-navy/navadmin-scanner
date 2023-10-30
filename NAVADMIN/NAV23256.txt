@@ -1,0 +1,243 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 301505Z OCT 23 MID120000582978U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 256/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/SELECTION OF APPLICANTS FOR THE FY24 SEAMAN TO ADMIRAL-21 COMMISSIONING 
+PROGRAM// 
+ 
+REF/A/DOC/OPNAV/14DEC09// 
+REF/B/DOC/BUMED/11JUN15// 
+ 
+NARR/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.   
+REF B IS THE MANMED, NAVMED P-117, CHAPTER 15, PHYSICAL EXAMINATIONS AND 
+STANDARDS FOR ENLISTMENT, COMMISSION, AND SPECIAL DUTY.// 
+ 
+RMKS/1.  This NAVADMIN announces selections for the Fiscal Year (FY) 2024 
+Seaman to Admiral-21 (STA-21) program.  STA-21 is the premier commissioning 
+source providing the highest levels of education and leadership training for 
+our Sailors.  These highly motivated men and women will be among the leaders 
+of our Navy well into the 21st Century.  The selection board received 436 
+highly competitive selection packages from well-qualified Sailors and 79 
+outstanding Sailors were selected, making the selection this year a 
+challenging task.  Those who applied should be very proud of their 
+accomplishments and continue their outstanding performance to ensure 
+professional growth and to increase their chance of selection in a future 
+board.  Congratulations to all of the selectees! 
+ 
+2.  Selectees are (read name, rate, and option assigned): 
+ 
+ABRAHAM, ALEXANDER MICHAEL      MMN3          NUCLEAR 
+ADDEO, ETHAN HUNTER             MMN2          NUCLEAR 
+ALLEN, DAVORISE LASHAUN         AS1           SWO 
+ALTIZER, MATTHEW EVERETT        EMN3          NUCLEAR 
+ANDERSON, ELIJAH MARCEL         ETN2          NUCLEAR 
+ARNOLD, ERIC WILLIAM            MMN1          NUCLEAR 
+BECK, TRISTAN JAMESON           EMN3          NUCLEAR 
+BOHM, TYLER RICHARD             MMN2          NUCLEAR 
+BURRIS, MICHAEL HENNY           EMN1          NUCLEAR 
+CASHMAN, KYLE ROBERT            MMN1          NUCLEAR 
+COLLYER, RYAN JOSEPH            EMN2          NUCLEAR 
+COTE, JOSHUA KEITH              MMN2          NUCLEAR 
+COVINGTON, JARRETT LEE           MA1          IP 
+DELACRUZ, CARLOS HUMBERTO       ETN3          NUCLEAR 
+EARHART III, DARRELL WAYNE      ETN2          NUCLEAR 
+ECHEVERRIA, NELSON              MMN1          NUCLEAR 
+ELDER, PEYTON RAE               EMN2          NUCLEAR 
+ESCAMILLA, ANDREW MICHAEL       MMN1          NUCLEAR 
+FAISON, KHADIJAH KEVONN         BM1           NURSE 
+FIREY, KEGAN DANIEL             EMN2          NUCLEAR 
+FLOHR, CHRISTOPHER GERARD       MMN2          NUCLEAR 
+FRIAS, MARTIN A                 AS1           PILOT 
+GOLD, WHITNEY MARIE             SN            NUCLEAR 
+GONZALES, ADRIAN XAVIER         MMN3          NUCLEAR 
+GOODRICH, NATALIE RAE           MMN2          NUCLEAR 
+HAINES IV, JOSEPH MONROE        ETN2          NUCLEAR 
+HAYES, JEREMIAH ALEXANDER       EMN3          NUCLEAR 
+HAYNES, ZACHARY DANIEL          ETN3          NUCLEAR 
+HENDRICKSON, JANNAH CARLA TR    NC1           CORE 
+HICKS, DEANDRE JAMISON          MMN1          NUCLEAR 
+HILTON, TIERNEY KES             MMN3          NUCLEAR 
+HIMMELMAINES, SKYLER AUSTIN     ETN2          NUCLEAR 
+HOFFMAN, GARRET WADE            EMN2          NUCLEAR 
+HUDSON, JAMES COLEMAN           MMN2          NUCLEAR 
+HUFF, MARCUS G                  MMN2          NUCLEAR 
+JACOBS, AARON JAMES             MMN1          NUCLEAR 
+JAUREGUI, JAZLYN                ETN2          NUCLEAR 
+KELLER, CHRISTOPHER LANE        AME1          PILOT 
+KENNEDY, LOGAN ADRIAN           MMN1          NUCLEAR 
+LEHMAN, ERIC CHRISTIAN          ETN1          SWO/ED 
+LOS, PATRYK                     ETN3          NUCLEAR 
+LOWRY, BRANDON MICHAEL          MMN3          NUCLEAR 
+LUO, MAN                        AD1           CEC 
+MABON, NOA IRL                  ETN3          NUCLEAR 
+MALLORY, JAMES AMERGIN          MMN1          NUCLEAR 
+MARSH, TYLER KANITZ             ETN3          NUCLEAR 
+MARTIN, BRENDAN JOSEPH          MMN2          NUCLEAR 
+MCKEEL, AUSTIN RYAN             MMN2          NUCLEAR 
+MILES, JOSEPH ALEX              MMN1          NUCLEAR 
+MILLER, BRADLEY ALLEN           EMN2          NUCLEAR 
+MILLER, ROGER STEVEN            EMN3          NUCLEAR 
+MITCHELL, JAMES L               ETN1          NUCLEAR 
+MONTGOMERY, WYATT ANDREW        MMN2          NUCLEAR 
+MOSS, TAHJIIR NIGEL JIZZAH      AWF1          PILOT 
+MOUTOS, CHRISTOS TIMOTHY        ITS1          SWO 
+MOY, DANIEL R                   HM1           SWO 
+MUCHAI, OWEN MAINA              ETN3          NUCLEAR 
+NEWSOME, ANDREW LAWRENCE        AWR1          NFO 
+PETERSON, KENDALL LYNN          AC1           PILOT 
+PURCELL, MACKENZIE O            ETN1          NUCLEAR 
+RAMOS, VERNON SANTIAGO          IT1           CORE 
+READINGER, CHARLES JOHN         MMN1          NUCLEAR 
+RIGGIN, MICHAEL AADRON          ETN1          NUCLEAR 
+RUSSELL, JAMES ROBERT           MMN3          NUCLEAR 
+SACCO, ALEC PRESTON             EN2           SWO 
+SCHMIDT, JOSEPH ROBERT          ETN2          NUCLEAR 
+SHANNON, PATRICK RYAN           EOD1          EOD 
+SIMKINS, ADRIEN MICHAEL JULI    ETN3          NUCLEAR 
+STOUT, MERLIN JOSEPH            ETN3          NUCLEAR 
+TUMANG, EPHRAIM L               MMN3          NUCLEAR 
+VELEZ, NICHOLAS ALEXANDER       ETN3          NUCLEAR 
+WAGNER, JOSEPH EDWARD           ETN3          NUCLEAR 
+WALKER III, JOHN HENRY          MMN2          NUCLEAR 
+WATSON, BAILEY MACKENZIE        CTT1          NFO 
+WENBURG, CARTER LINCOLN         MMN3          NUCLEAR 
+WIDBY, BRADLEY JAMES            MR1           SWO 
+WILLIAMS, CHRISTOPHER SHEA      AO1           CORE 
+WISURI, WYATT PATRICK ALVIN     EMN3          NUCLEAR 
+WITT, JOSHUA PAUL EUGENE        MMN1          NUCLEAR 
+ 
+3.  The following personnel were designated as alternates  
+(read name, rate, and option assigned): 
+ 
+ANWANWAN, JOHN DAVID            LS1           CORE 
+ARMENTROUT, TYLER JORDAN        MMN2          NUCLEAR 
+BAILEY, RAYMOND BRENNAN         ETN2          NUCLEAR 
+BENOIST, AIDAN LEE              EMN3          NUCLEAR 
+BOLEK, MICHAEL ALEXANDER        ETN2          NUCLEAR 
+CASTRO, MANUELA GONCALVES       PS3           CORE 
+CRISTI, ROBRAINIER MACASINAG    AT1           NFO 
+ECHEVARRIETAPONTE, AITOR        YN1           CEC 
+FOUTCHCARKEES, MIKAEL BLAKE     FN            NUCLEAR 
+GRANT, THOMAS LEIGHTON          EMN2          NUCLEAR 
+KEARNS, DANIEL THOMAS           ETN3          NUCLEAR 
+LAMPERT II, THOMAS ANDREW       EMN2          NUCLEAR 
+MITCHELL, JESSE MONROE          AM1           PILOT 
+MONROE, SHOMAR ANTHONY          MMN3          NUCLEAR 
+MONTOYA, SAMANTHA MAIE          AC2           NURSE 
+MYERS, CANNON PATRICK           ETN2          NUCLEAR 
+NOREM, NICHOLAS DAVID           MMN1          NUCLEAR 
+NUGENT, NICOLAS JOSEPH          ETN2          NUCLEAR 
+OZERETNY, CHRISTOPHER           MMN3          NUCLEAR 
+PETERS, ANDREW JAMES            EOD1          EOD 
+QUIRANTES, LUIS ABRAHAM         OS1           SWO 
+REYNA, VICENTE JESUS            MMN2          NUCLEAR 
+SMOOT, MICHELLE M               EM2           SWO/ED 
+STFELIX, RONISHA TRASHAY        IT1           IP 
+TANNER, CHARLES JONATHAN        ETN2          NUCLEAR 
+ 
+4.  Selections are conditional upon the selectee remaining fully eligible in 
+all respects, meeting physical qualifications for commissioning as determined 
+by the bureau of medicine and surgery (BUMED), and assignment by naval 
+service training command (NSTC) to an approved Naval reserve officers 
+training corps (NROTC) affiliated university based upon an official degree 
+plan and acceptance letter from the university.  Upon completion of an NSTC 
+approved baccalaureate degree program, selectees will receive appointments as 
+ensigns, USN. 
+ 
+5.  Commanding officers should take the following actions: 
+    a.  Notify selectees and alternates of their selection and ensure they 
+receive a copy of this message. 
+    b.  Notify NSTC N92 selection and placement (N92/STA-21) via e-mail 
+at GRLK_STA21@navy.mil no later than 1 December 2023 of any selectee or 
+alternate who does not desire to participate in the program. 
+    c.  Immediately report to NSTC (N92/STA-21) all conditions or 
+circumstances that may disqualify a selectee or alternate from participating 
+in the STA-21 program via e-mail at GRLK_STA21@navy.mil. 
+ 
+6.  Selectees and alternates should take the following actions: 
+    a.  Complete a physical examination for a training program leading to a 
+commission in the unrestricted line, nurse corps, or civil engineering corps, 
+as applicable, in accordance with references (a) and (b) at a military 
+treatment facility.  Note that many commissioning standards exceed the 
+enlisted standards required to remain on active duty. 
+    b.  Ensure copies of completed physicals, report of medical history 
+(DD2807-1), and report of medical examination (DD2808), including human 
+immunodeficiency virus results from a test taken after 1 January 2023, are 
+submitted no later than 30 December 2023 to: 
+ 
+Commander 
+Naval Service Training Command 
+Attn:  N92/STA-21 
+320A Dewey Avenue BLDG 3 
+ROOM 106 
+Great Lakes, IL 60088-2845 
+or via DOD-safe (https://safe.apps.mil/).   
+ 
+Aviation option selectees/alternates must have flight physicals uploaded 
+directly into aeromedical electronic resource office by a flight surgeon, and 
+submitted to Naval aerospace medical institute.  The selectees and 
+alternates must be certified as qualified or have a waiver recommended by 
+Naval medicine operation training center.  All required physical forms can be 
+downloaded from the STA-21 homepage at 
+https://www.netc.navy.mil/Commands/Naval-Service-Training-Command/STA-
+21/.  Commands should not forward physical forms directly to BUMED. 
+    c.  Send acceptance letters from no more than three NROTC host or NROTC 
+cross-town affiliated universities to the NSTC address listed above or via 
+DOD-safe.  Application to more than one university is advisable.  Selectees 
+will begin the STA-21 program with attendance at the Naval science institute 
+(NSI) in one of two classes starting no later than 12 February 2024 or 1 
+April 2024 for 
+a 6-week period. 
+    d.  Send an official degree plan from an NROTC host or NROTC cross-town 
+affiliated university where they have been accepted. 
+Degree plans must cover the time actually attending college.  Degree plans of 
+selectees should begin with the summer term 2024.  All STA-21 selectees will 
+be required to attend the NSI enroute to their assigned university. 
+ 
+7.  Alternates:  Each alternate must complete the same actions outlined in 
+paragraph 6 of this message.  If a primary selectee declines participation in 
+the program, is determined to be not physically qualified, or otherwise 
+becomes ineligible for continuation in the program prior to executing orders, 
+a qualified alternate will be selected.  This notification often comes at the 
+last minute, therefore, alternates who desire participation in the STA-21 
+program need to be complete with the actions listed above when notified. 
+ 
+8.  The deadline for required degree plans and college admission 
+documentation is 1 December 2023.  It is in the best interest of each 
+selectee and alternate to submit verification of eligibility criteria as soon 
+as possible to expedite university assignment and release of permanent change 
+of station orders.  Selectees will not be ordered to NSI en route to their 
+assigned NROTC university until all conditions outlined in paragraph 6 have 
+been met. 
+ 
+9.  The preferred method of delivery of all documents is through DOD-safe 
+utilizing email GRLK_STA21@navy.mil (ensure an email with the encrypted 
+passphrase is also sent to GRLK_STA21@navy.mil). Documents can also be mailed 
+to the address above. 
+ 
+10.  Points of contact are: 
+    a. Mr. Jim Branch, james.r.branch8.civ@us.navy.mil. 
+    b. Mr. David Burmeister, david.a.burmeister.civ@us.navy.mil. 
+ 
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+12. Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

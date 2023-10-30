@@ -1,0 +1,40 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 301445Z OCT 23 MID120000582908U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 255/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/248TH CHAPLAIN CORPS ANNIVERSARY MESSAGE// 
+ 
+RMKS/1.  On 28 November 1775, the Continental Congress directed that 
+divine services be held aboard all naval ships, and thus the Navy 
+Chaplain Corps was born.  For 248 years, Navy Chaplains have cared 
+for Sailors and Marines around the globe and through every conflict, 
+at sea and ashore. 
+ 
+2.  Today, the men and women of the Chaplain Corps continue to 
+enhance the spiritual readiness of our people.  Readiness for the test 
+of war is impossible without Sailors and Marines who are ready in 
+body, mind, and spirit.  It is the work of our Chaplains and Religious 
+Program Specialists that enables our people to be spiritually ready 
+for the challenges ahead. Thank you for your legacy of care to our people. 
+ 
+3.  Happy 248th birthday, Chaplains! 
+ 
+4.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+Rear Admiral Gregory Todd, Chief of Chaplains.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

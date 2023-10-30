@@ -1,0 +1,100 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 302033Z OCT 23 MID120000583913U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 258/23 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR YEAR 2024 PHYSICAL 
+FITNESS ASSESSMENT// 
+ 
+REF/A/DOC/OPNAV/22APR22// 
+REF/B/DOC/OPNAV/JAN23// 
+REF/C/DOC/OPNAV/JAN23// 
+REF/D/DOC/OPNAV/JAN23// 
+REF/E/DOC/OPNAV/JAN23// 
+ 
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM. 
+REF B IS NAVY PHYSICAL READINESS PROGRAM GUIDE 4, BODY COMPOSITION 
+ASSESSMENT.   
+REF C IS NAVY PHYSICAL READINESS PROGRAM GUIDE 5, PHYSICAL READINESS TEST. 
+REF D IS NAVY PHYSICAL READINESS PROGRAM GUIDE 7, PHYSICAL READINESS 
+INFORMATION MANAGEMENT SYSTEM TWO (PRIMS-2) ADMINISTRATION. 
+REF E IS NAVY PHYSICAL READINESS PROGRAM GUIDE 9, COMMAND PHYSICAL TRAINING 
+AND FITNESS ENCHANCEMENT PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces a single Calendar Year 2024 (CY2024) 
+Physical Fitness Assessment (PFA), policy changes for postpartum wellness 
+PFA, Command Fitness Leader (CFL) recertification and a PFA Physical 
+Readiness Information Management System TWO (PRIMS-2) update. 
+ 
+2.  PFA Cycle 2024.  The Navy remains absolutely committed to the physical 
+readiness of our force.  Sustaining one PFA per year is designed to reduce 
+administrative requirements and empower commanding officers to build 
+healthier people, leaders and teams.  The cycle will be conducted from 1 
+February to 30 November 2024 in line with references (a) through (e), which 
+are located at:   
+https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Physical-
+Readiness/. 
+    a.  The PFA cycle will be opened in PRIMS-2 starting 1 December 2023 and 
+will be labeled *Cycle 1 2024*. 
+    b.  Sailors will electronically submit their Physical Activity Risk 
+Factor Questionnaire via MyNavy Portal (My Records). 
+    c.  There will be no excellent or above incentive physical readiness test 
+exemption for CY2024 in line with reference (a). 
+ 
+3.  The following changes to reference (a) are effective immediately: 
+    a.  The CFL recertification requirement has been extended from three to 
+five years (paragraph 6.l.(2)(a)7). 
+    b.  The postpartum wellness (unofficial) PFA requirement is cancelled 
+(paragraph 5.(c)(1)(c)1 through 3).  After delivery, Sailors should 
+participate in a progressive and appropriate exercise program, as soon as 
+medically authorized, to return to Navy physical fitness standards. 
+ 
+4.  PRIMS-2 Update.  Commands are to ensure designated CFLs and assistant 
+CFLs (ACFLs) request PRIMS-2 access in line with reference (d). 
+    a.  CFL and ACFLs are reminded to log in every 30 days to avoid account 
+deactivation.  Account reactivation can result in submission of an updated 
+SAAR-N Form. 
+    b.  Data Load Widget.  CFL and ACFLs are encouraged to use the data load 
+widget (csv file) for ease of uploading PFA data in PRIMS-2. 
+    c.  Transferring/Gaining PFA Records.  CFL and ACFLs are responsible for 
+transferring and gaining a Sailor's PFA record in PRIMS-2. 
+ 
+5.  Optimal performance is more than just being physically active and eating 
+well.  It is about developing and optimizing every element of one's mind, 
+body and spirit. 
+     a.  Obstacles to healthy behaviors can include unrealistic expectations, 
+insufficient time to exercise, inadequate sleep or improper nutrition, or 
+physical injury.  If all Sailors treat their bodies as top-performing 
+equipment and provide healthy nutrients to fuel them, they will last longer, 
+perform better, recover faster, and be more efficient. 
+     b.  The Navy Operational Fitness and Fueling System (NOFFS) is available 
+to assist commands and Sailors to optimize the physical readiness and 
+nutrition of Sailors.  Additional information on NOFFS is located at 
+https://www.navyfitness.org/fitness/noffs-training and the NOFFS app, which 
+can be downloaded on smartphone devices. 
+ 
+6.  Contact the Physical Readiness Program Office for additional information: 
+    a.  For policy related questions via e-mail at PRP@navy.mil. 
+    b.  For PRIMS related questions via e-mail at PRIMS@navy.mil. 
+    c.  For policy or PRIMS related questions via phone at (901) 874-2210/ 
+DSN 882. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

@@ -1,0 +1,128 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 301944Z OCT 23 MID120000583805U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 257/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/ADJUSTMENT OF INFORMATION SYSTEMS TECHNICIAN, SUBMARINES RATING 
+(CORRECTED COPY)// 
+ 
+RMKS/1.  This NAVADMIN directs realignment of the Information Systems 
+Technician, Submarines (ITS) rating into three separate service 
+ratings.  Sailors in the three separate ratings will possess the foundational 
+skills that enable them to maintain shipboard local area networks, while 
+pursuing mastery in either a Network (ITN), Electronic Warfare (ITE), or 
+Communications (ITR) specialization career path.  The adjusted service 
+ratings will apply to Active Duty and Selected Reserve (SELRES) Sailors and 
+billets.  ITE will not be available as a SELRES rating.  In the future, 
+billets for both shore and sea will be based on the specialization Rating 
+Control Numbers (RCN) and aligned to enhance the career paths of our Sailors. 
+ 
+2.  These revised ratings will be available to all ITS Sailors. 
+ 
+3.  Navy Manpower Analysis Center (NAVMAC) is authorized to make appropriate 
+changes in the Total Force Manpower Management System (TFMMS) to convert 
+billets as identified and provided by Submarine Forces (SUBFOR). 
+ 
+4.  For E1-E9 Active Duty personnel, commands will coordinate with their 
+Immediate Superior in Command (ISIC), SUBFOR Type Commanders (TYCOM), and 
+Bureau of Naval Personnel (BUPERS-322) to select which career path best suits 
+the needs of the Navy, the command, and the Sailors.  Sailors who have 
+received approval for retirement prior to the rating conversion date of 
+paragraph 7 below are exempt from this rating realignment.  SELRES personnel 
+realignment will be coordinated by BUPERS-352.  Commands should ensure that 
+each Sailor selects an appropriate career path based on their current Navy 
+Enlisted Classification (NEC) codes and qualifications.  Amplifying 
+information on the process for selecting career paths will be provided via a 
+separate execute order. 
+ 
+5.  While the shipboard network knowledge base will be shared, these career 
+paths will be distinct; each managed by separate training pipelines and NEC 
+codes.  All submarine IT Sailors will become knowledgeable in network 
+fundamentals, but will be specialists in communications, Network security, or 
+electronic warfare.  Each rating will have its own Navy-wide Advancement 
+Examination (NWAE) and advancement quotas.  Rating exams and quotas will be 
+managed by separate enlisted management codes.  NWAEs will have a base of 
+network operations with questions pertinent to the specialized rating.   
+Current advancement policies will continue unaltered. 
+ 
+6.  The following are dates for submission of career path selection lists for 
+ITN, ITE or ITR: 
+    a.  Career path selections due to ISIC No Later Than (NLT)  
+15 December 2023. 
+    b.  Career path selections due to TYCOM NLT 1 January 2024. 
+    c.  TYCOM approved rating assignments message released NLT  
+1 February 2024. 
+ 
+7.  All IT conversions requested after 28 February 2023 will be via the 
+processes outlined in MILPERSMAN 1440-010. 
+ 
+8.  The following is the NWAE administration schedule: 
+    a.  E-5 and E-6 Active Duty: 
+        (1) Last ITS (EW) and ITS (Comms) exams - March 2024 (Cycle 263). 
+        (2) First ITN, ITE and ITR exams - September 2024 (Cycle 264). 
+    b.  E-5 and E-6 (SELRES): 
+        (1) Last ITS (EW) and ITS (Comms) exams - August 2024 (Cycle 115). 
+        (2) First ITN and ITR exams - February 2025 (Cycle 116). 
+    c.  E-7 (AD): 
+        (1) Last ITS (EW) and ITS (Comms) exams - January 2024 (Cycle 262) 
+        (2) First ITN, ITE and ITR exams - January 2025 (Cycle 266). 
+    d.  E-7 (SELRES) 
+        (1) Last ITS (EW) and ITS (Comms) exams - February 2024 (Cycle 114). 
+        (2) First ITN and ITR exams - February 2025 (Cycle 116). 
+ 
+9. The following is the E-7, E-8 and E-9 selection board schedule: 
+    a.  E-8 and E-9 Active Duty: 
+        (1) Last ITS (EW) and ITS (Comms) boards - March 2024 Fiscal Year 
+(FY) 2025. 
+        (2) First ITN, ITE and ITR boards - March 2025 (FY-26 boards). 
+    b.  E-8 and E-9 (SELRES): 
+        (1) Last ITS (EW) and ITS (COMMS) boards - March 2024 (FY-25 boards). 
+        (2) First ITN, and ITR boards - March 2025 (FY-26 boards). 
+    c.  E-7 (AD): 
+        (1) Last ITS (EW) and ITS (Comms) boards - July 2024 (FY-25 boards). 
+        (2) First ITN, ITE and ITR boards - July 2025 (FY-26 boards). 
+    d.  E-7 (SELRES): 
+        (1) Last ITS (EW) and ITS (Comms) boards - May 2024 (FY-25 boards). 
+        (2) First ITN and ITR boards - May 2025 (FY-26 boards). 
+ 
+10.  This NAVADMIN does not modify any previous guidance concerning early 
+separations, fleet reserve, conversion packages, or Career Waypoints (C-WAY) 
+quotas.  C-WAY quota requests dated prior to 1 October 2023 shall be 
+submitted in accordance with current guidance for ITS ratings.  Selective 
+reenlistment bonus payments for applicable ITS (COMMS)/ITS (EW) Sailors will 
+continue to be paid after the conversion dates outlined in paragraph 7 above. 
+ 
+11.  Points of contact during the split are as follows: 
+    a.  Enlisted Community Managers: 
+        (1) CDR Richard Ali, Submarine Non-Nuclear Enlisted Community Manager 
+(BUPERS-322), (901) 874-2082/DSN: 874-2082, richard.a.ali2.mil@us.navy.mil. 
+        (2)  LT Nicholas Bolander, Assistant Submarine Non-Nuclear 
+Enlisted Community Manager (BUPERS-322), (901) 874-2081/DSN: 874-2081, 
+nicholas.v.bolander.mil@us.navy.mil. 
+    b.  Rating Technical Advisor:  ITSCS Michael Collier, (901) 874-2819/ 
+DSN: 874-2819, michael.h.collier2@navy.mil. 
+    c.  SELRES Point of Contact:  ISCM Nicholas Ferguson, (901) 874-4508/ 
+DSN: 882-4508, nicholas.e.ferguson4.mil@us.navy.mil. 
+    d.  Submarine IT Detailers: 
+        (1) ITE/ITN - ITSC Matthew Miller, (901) 874-3652, 
+Matthew.c.miller140.mil@us.navy.mil. 
+        (2) ITR - ITS1 Joshua Pearson, (901) 874-3619, 
+Joshua.l.pearson3@navy.mil. 
+ 
+12. Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
