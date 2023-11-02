@@ -1,0 +1,99 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 021540Z NOV 23 MID120000591803U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 260/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/AUTHORITY TO DETERMINE AND CERTIFY HONORABLE SERVICE FOR PURPOSES OF 
+NATURALIZATION APPLICATIONS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N1/191107ZAPR18// 
+REF/B/DOC/OUSD(PR)/24APR20// 
+REF/C/MSG/CNO WASHINGTON DC/N1/131534ZJUL20// 
+REF/D/LTR/OUSD(P&R)/13OCT17// 
+REF/E/LTR/SECNAV/18JAN18// 
+REF/F/DOC/COMNAVPERSCOM/25JUN21// 
+ 
+NARR/REF A IS NAVADMIN 099/18, CERTIFICATION OF HONORABLE SERVICE FOR 
+PURPOSES OF NATURALIZATION APPLICATIONS. 
+REF B IS OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND 
+READINESS MEMORANDUM, CERTIFICATION OF HONORABLE SERVICE FOR PURPOSES OF 
+NATURALIZATION. 
+REF C IS NAVADMIN 199/20, PROCESSING TIME FOR CERTIFICATION OF HONORABLE 
+SERVICE FOR PURPOSES OF NATURALIZATION. 
+REF D IS A MEMORANDUM FOR SECRETARIES OF THE MILITARY DEPARTMENTS, 
+CERTIFICATION OF HONORABLE SERVICE FOR MEMBERS OF THE SELECTED RESERVE OF THE 
+READY RESERVE AND MEMBERS OF THE ACTIVE COMPONENTS OF THE MILITARY OR NAVAL 
+FORCES FOR PURPOSES OF NATURALIZATION. 
+REF E IS A MEMORANDUM FOR CHIEF OF NAVAL OPERATIONS, HONORABLE SERVICE 
+CERTIFICATION AUTHORITY FOR MEMBERS OF THE SELECTED RESERVE OF THE READY 
+RESERVE AND ACTIVE DUTY MEMBERS OF NAVAL FORCES FOR PURPOSES OF 
+NATURALIZATION. 
+REF F IS MILPERSMAN 5352-01, NATURALIZATION AND DERIVED CITIZENSHIP OF 
+MILITARY PERSONNEL. 
+ 
+RMKS/1.  This NAVADMIN revokes and supersedes reference (a) to expand 
+authority for who can determine and certify honorable service on United 
+States Citizenship and Immigration Services (USCIS) (Form N-426), Request for 
+Certification of Military or Naval Service (Form N-426).  This change is 
+intended to improve the ability of Navy units to meet the processing 
+timelines in references (b) and (c). 
+ 
+2.  References (d) through (f) established new standards and procedures to 
+certify honorable service for Active Duty members and members of the selected 
+reserve of the ready reserve for citizenship naturalization. 
+ 
+3.  In line with references (d) and (e), effective immediately, the authority 
+to determine if a Sailor is serving or has served honorably, and as 
+applicable, if separation from such service was under honorable conditions, 
+for purposes of naturalization, and record this determination on USCIS Form 
+N-426, is delegated to commissioned officers serving in the paygrade of O-6 
+or higher. 
+ 
+4.  Certifying officials should process and return any USCIS Form N-426 to 
+qualified applicants for naturalization within 30 days of receipt, as 
+directed in references (b) and (c).  In line with reference (d), certifying 
+officials may certify honorable service only if the Sailor is not the subject 
+of pending disciplinary action or pending adverse administrative action or 
+proceeding, and is not the subject of a law enforcement or command 
+investigation; the Sailor has completed applicable screening and suitability 
+requirements; and the Sailor has satisfied military training and other 
+service requirements.  The responsibility of the certifying official to 
+verify satisfaction of these requirements remains unchanged. 
+ 
+5.  If the certifying official is not in the Sailor's chain of command, an 
+endorsement in the form of a memo from the Sailor's parent command is 
+required to validate satisfaction of the honorable service requirements. 
+ 
+6.  Commands shall ensure members who are not U.S. citizens are aware of the 
+requirement to obtain honorable service certification via USCIS Form N-426.   
+Direct questions concerning honorable certification requirements to the 
+command legal officer or nearest Region Legal Service Office Region 
+Citizenship Program Manager. 
+ 
+7.  References are located at 
+https://www.jag.navy.mil/about/organization/ojag/code-01/code-
+16/immigration/.  Updates to reference (f) shall include these changes. 
+ 
+8.  The Legal Assistance Division, Office of the Judge Advocate General (Code 
+16) retains oversight responsibility for the U.S. Navy Naturalization 
+Program.  Advice and assistance regarding naturalization laws, regulations, 
+and procedures are available at (202) 685-4639/DSN 325 or 
+kathlene.j.somerville.civ@us.navy.mil. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
