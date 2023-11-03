@@ -256,7 +256,7 @@ get '/known_instructions' => sub ($c) {
 } => 'list-inst';
 
 get '/instruction/:cat/:series'
-=> [cat => [qw(MILPERSMAN DOD OPNAV SECNAV)], series => qr/[0-9]{4,5}[-\.][0-9]{1,3}[A-Z]?/]
+=> [cat => [qw(MILPERSMAN DOD BUPERS OPNAV SECNAV)], series => qr/[0-9]{4,5}[-\.][0-9]{1,3}[A-Z]?/]
 => sub ($c) {
     my $cat    = $c->stash('cat');
     my $series = $c->stash('series');
