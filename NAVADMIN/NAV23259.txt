@@ -1,0 +1,171 @@
+CLASSIFICATION: UNCLASSIFIED// 
+CORRECTED COPY 
+ROUTINE 
+R 031424Z NOV 23 MID120000594641U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 259/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N2N6/NOV// 
+ 
+SUBJ/GUIDANCE FOR NAVY SYSTEM AUTHORIZATION ACCESS REQUEST AND RECIPROCITY// 
+ 
+REF/A/GENADMIN/CNO WASHINGTON DC/N2N6/221441Z DEC 20// 
+REF/B/MEMO/DONCIO/25 FEB 20// 
+REF/C/INST/OPNAV/18 JUL 18// 
+REF/D/INST/SECNAV/JUN 2016// 
+REF/E/INST/DOD/6 MAR 20// 
+REF/F/INST/DOD/7 OCT 19// 
+REF/G/MANUAL/DOD/29 OCT 20// 
+REF/H/MANUAL/SECNAV/AUG 2018// 
+ 
+NARR/ REF A IS NAVADMIN 331/20, NAVY SYSTEM AUTHORIZATION ACCESS REQUEST-NAVY 
+(SAAR-N) RECIPROCITY.   
+REF B IS DEPARTMENT OF NAVY CHIEF INFORMATION OFFICER MEMORANDUM, ACCEPTABLE 
+USE OF INFORMATION TECHNOLOGY.   
+REF C IS OPNAV INSTRUCTION 5239.1D, U.S. NAVY CYBERSECURITY PROGRAM.   
+REF D IS SECNAV M-5239.2, DEPARTMENT OF THE NAVY CYBERSPACE INFORMATION 
+TECHNOLOGY AND CYBERSECURITY WORK FORCE 
+AND QUALIFICATION MANUAL, JUNE 2016.   
+REF E IS DODI 5200.48, CONTROLLED UNCLASSIFIED INFORMATION.   
+REF F IS DODI 8500.01, CYBERSECURITY.   
+REF G IS DOD MANUAL 5200.02, PROCEDURES FOR THE DOD PERSONNEL SECURITY 
+PROGRAM.   
+REF H IS SECNAV M-5210.2, DON STANDARD SUBJECT IDENTIFICATION CODE MANUAL.// 
+ 
+POC/CDR JAYSON BEIER/MIL/OPNAV N2N6D/EMAIL: 
+JAYSON.L.BEIER.MIL(AT)US.NAVY.MIL/TEL:  571-256-8514// 
+POC/MICHAEL CHADWELL/CIV/OPNAV N2N6D/EMAIL: 
+MICHAEL.W.CHADWELL.CIV(AT)US.NAVY.MIL/TEL:  703-695-7620// 
+ 
+RMKS/1.  This NAVADMIN cancels reference (a) and updates the Navy's System 
+Authorization Access Request (SAAR) process as directed by references (b) 
+through (h).  As part of this process update, this NAVADMIN directs the Usage 
+of the Department of Defense (DoD) SAAR Form (DD Form 2875) in place of the 
+Navy SAAR-N Form (OPNAV 5239/14). 
+ 
+2.  Policy:  Per references (b) and (c), all Department of the Navy (DON) 
+Information Technology users must have an approved SAAR form on file prior to 
+being granted access to networks, systems and applications.  In order to 
+bring Navy into alignment with the rest of the DoD, all new access requests 
+must be completed using the DD Form 2875 no later than 28 February 2024. 
+    a.  Commands can continue to use the current approved OPNAV 5239/14  
+(REV 9/2011) on file until the SAAR needs to be re-issued or modified. 
+    b.  No later than 28 February 2024, all commands must use DD Form 2875 
+for initial access requests, re-issuance of access requests, or modification 
+of access requests. 
+    c.  The differences between the current OPNAV 5239/14 and the DD Form 
+2875 changes are noted below and the form is available at 
+https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2875.pdf 
+        (1) Per reference (e), references to "For Official Use Only" were 
+replaced with "Controlled Unclassified Information." 
+        (2) Block 19 was changed from "Information Assurance Officer" to 
+"Information Systems Security Officer (ISSO) or Appointee" per reference (f). 
+        (3) Blocks 22 and 22b have been added to identify if the user is 
+enrolled in the Continuous Evaluation Deferred Investigation Program and 
+enrollment date per reference (g). 
+        (4) Block 22c was changed from "Clearance Level" to "Access Level".   
+Access level refers to the access determination made based on the user's 
+individual need for access to classified information or Controlled 
+Unclassified Information to perform official duties. 
+        (5) User Agreement.  The Navy User Agreement/Standard Mandatory 
+Notice and Consent Provision using general terms and requirements is posted 
+on the Department of Navy Chief Information Officer portal 
+(https://portal.secnav.navy.mil/orgs/opnav/n2n6/ddcion/SitePages/Home.aspx), 
+but the specific hosting site or system may require a separate form with 
+site/system specific specifications. 
+        (6) Information System Privileged Access Agreement (PAA) and 
+Acknowledgement of Responsibilities.  Users requiring privileged access must 
+submit a PAA for the system(s) they require privileged access alongside the 
+SAAR.  PAA can be found in reference (d) appendix 2. 
+ 
+3.  SAAR Reciprocity 
+    a.  Navy commands and organizations must reuse SAAR forms issued by other 
+commands and organizations approving access to any DON networks, systems, or 
+applications at the same or lower classification level and need-to-know 
+status.  This applies for both permanent changes of station and for temporary 
+duties (e.g., Temporary Additional Duty, exercises, deploying, embarkation, 
+etc.). 
+        (1) Modifications to move accounts within the Navy and reactivate 
+disabled accounts due to inactivity do not require a new SAAR form.   
+Information System Security Manager (ISSM), ISSO, or Information System 
+Coordinator (ISC) will request account movement or reactivation after 
+validating the current SAAR form and completion of mandatory training. 
+        (2) Users who require access to systems of a higher level of security 
+clearance or additional need-to-know requirements than is reflected in the 
+existing SAAR form require additional documentation or a new SAAR form. 
+    b.  A new SAAR form is required upon change of personnel category status 
+(e.g., MIL to CTR, CTR to CIV, MIL to CIV to NAF) and prior SAAR form will be 
+updated by the ISSM/ISSO/ISC to request account deactivation to retain 
+separation of personal (e.g., CIV, MIL, NAF, CTR, VOL). 
+    c.  For reservists who are also employed within the Navy as contractors 
+or civilians, one SAAR is required for each personnel category.  This SAAR 
+does not require update for each activation. 
+ 
+4.  SAAR Processing 
+    a.  For individuals with DoD approved digital signature certificates, 
+when possible the initial SAAR must be digitally signed by the account 
+requestor, the supervisor level person (supervisor or Information Security 
+Officer or ISC or ISSM/ISSO), the security manager, and the validating 
+official (system administrator) before the account is provisioned and 
+enabled.  The supervisor level signature cannot be the same as the account 
+requestor.  If a digital signature is not possible for any of the above, a 
+wet signature is acceptable. 
+        (1) All signatures on the SAAR form must be within 90 days of the 
+signature in Block 11.  Once initial provisioning is complete, original 
+signatures on the document will stand for the period prior to the applicable 
+expiration. 
+        (2) Automated SAAR capabilities will adhere to this signature work 
+flow. 
+    b.  SAAR forms must have validation documented in the Date Processed 
+block of Part IV by one of the following:  the ISSM/ISSO, an ISSM/ISSO 
+designee/appointee, or an ISC.  ISSM/ISSO or ISC must perform validation, for 
+continued user access, and be documented in the Date Revalidated block of 
+Part IV. 
+    c.  Once approved, the SAAR form must be retained on file by the command 
+ISSM/ISSO or the unit's ISC until one year after the user account is 
+terminated.  This includes the initial SAAR form activating an account and 
+any subsequent SAAR forms submitted (e.g., modification or deactivation 
+requests).  Archive retention requirements for SAARs follow reference (g). 
+    d.  Command ISSMs will coordinate the disablement of accounts of users 
+who do not complete required training by its required date and maintain a 
+non-compliance list of accounts that were disabled. 
+    e.  SAAR forms submitted for de-provisioning will have the digital 
+signature of either the supervisor, ISC, or ISSM/ISSO. 
+    f.  Commands will incorporate their ISSM/ISSO, ISC, or designee into the 
+check-out process to ensure timely actions are taken to deactivate accounts 
+upon loss of affiliation with the Navy (e.g., End of Active Obligated 
+Service, Retirement, End of Contract, End of Employment). 
+ 
+5.  Automated Processing 
+    a.  Command developed automated processing, storage and maintenance of 
+the approved SAAR forms are authorized but automated work flow, storage, 
+processing and management must adhere to the requirements in this NAVADMIN. 
+    b.  Total Workforce Management Services is the current DON and Navy 
+capability for automated SAAR processing and reciprocity. 
+    c.  Naval Identity Services (NIS) will be the mandated Identity, 
+Credential, and Access Management solution for the DON.  Systems that are 
+integrated with NIS will use the SAAR automated account management process 
+for account provisioning and de-provisioning. 
+ 
+6.  Moving forward, Navy will continue to identify efficiencies that can be 
+gained in the system access process with the long term goal of moving towards 
+only requiring a single SAAR for every user as well as a standardized user 
+agreement.  In order to support this, Office of Chief of Naval Operations for 
+Information Warfare will establish a Navy-wide SAAR Working Group following 
+the release of this NAVADMIN to coordinate process improvements and clarify 
+implementation guidelines. 
+ 
+7.  This NAVADMIN will remain in effect until cancelled or superseded. 
+ 
+8.  Released by Ms. Jennifer Edgin, Assistant, Deputy Chief of Naval 
+Operations For Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
