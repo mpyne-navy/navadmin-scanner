@@ -32,6 +32,7 @@ my %refs = (
     OPNAVINST  => { },
     SECNAVINST => { },
     MILPERSMAN => { },
+    BUPERSINST => { },
     DODINST    => { },
 );
 
@@ -39,6 +40,7 @@ my %refs = (
 # series/ID of the instruction for the type that corresponds to the key
 my %ref_scanners = (
     NAVADMIN   => qr/^NAVADMIN ([0-9]{3} *[\/-]? *[0-9]{2})\b/,
+    BUPERSINST => qr/^BUPERSINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
     OPNAVINST  => qr/^OPNAVINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
     SECNAVINST => qr/^SECNAVINST *([0-9]{4,5}\.[0-9]{1,2}[A-Z]?)\b/,
     MILPERSMAN => qr/^MILPERSMAN *([0-9]{4,5}-[0-9]{3})\b/,
