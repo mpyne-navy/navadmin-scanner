@@ -7,6 +7,7 @@ use Mojolicious::Validator;
 
 use Mojo::File;
 use Mojo::JSON;
+use Mojo::Date;
 
 use File::Glob;
 use List::Util qw(min);
@@ -127,6 +128,15 @@ get '/' => sub ($c) {
         years       => \@SORTED_YEARS,
         year_counts => $year_counts,
         last_eight  => \@msg_list,
+    );
+};
+
+# Generate RSS feed for clients
+get '/feed' => sub ($c) {
+    my @msg_list = $c->most_recent_n(30);
+    $c->render(template => 'rss', format => 'xml',
+        msgs     => \@msg_list,
+        metadata => $navadmin_dl_metadata,
     );
 };
 
@@ -609,6 +619,31 @@ This list is only a partial best guess.
 
 </div>
 
+@@ rss.xml.ep
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content" version="2.0">
+<channel>
+  <title>NAVADMIN Scanner/Viewer (UNOFFICIAL)</title>
+  <link>https://navadmin-viewer.fly.dev/</link>
+  <description>This feed shows the most recent 30 NAVADMIN messages transcribed
+  by this unofficial archive.</description>
+
+% for my $msg (@$msgs) {
+    <item>
+      % my $meta_key = $msg->{id} . "/" . $msg->{twoyr};
+      % my $date = Mojo::Date->new($metadata->{$meta_key}->{dl_date});
+      <title>NAVADMIN <%= $meta_key %>: <%= $msg->{subj} %></title>
+      <link>
+        https://navadmin-viewer.fly.dev<%= url_for('serve-navadmin', id => $msg->{id}, 'twoyr' => $msg->{twoyr}) %>
+      </link>
+      <pubDate>
+        <%= $date->to_string %>
+      </pubDate>
+    </item>
+% }
+
+</channel>
+</rss>
 
 @@ layouts/default.html.ep
 <!DOCTYPE html>
