@@ -77,25 +77,26 @@ helper title_from_id => sub ($c, $id) {
     return $navadmin_subj{$id};
 };
 
-# Now that we've loaded all NAVADMINs we are aware of, define the Web site
-# routes that we will support using Mojolicious::Lite's DSL.
-
-get '/' => sub ($c) {
-    # Figure out number of NAVADMINs by year so we can render the yearly list
+# Returns the most recent NAVADMIN messages (up to 'n' of them)
+helper most_recent_n => sub ($c, $n) {
     my $year_counts = {
         map { ($_, scalar keys %{$navadmin_by_year{$_}}) } @SORTED_YEARS,
     };
 
     state @msg_list;
+    state $count;
 
     # Find the most recent messages in the current and last year to display
     # them first
-    if (!@msg_list) {
+    if (!@msg_list || $count != $n) {
+        @msg_list = ();
+        $count = $n;
+
         for my $year ($SORTED_YEARS[0], $SORTED_YEARS[1]) {
             my $two_digit_year = sprintf("%02d", $year % 100);
 
-            my $msg_bounds = min($year_counts->{$year}, 8 - @msg_list) - 1;
-            last if $msg_bounds < 0; # stop if the list is full
+            my $msg_bounds = min($year_counts->{$year}, $n - @msg_list) - 1;
+            last if $msg_bounds < 0; # stop if @msg_list is full
 
             my @last_msg_ids = (reverse sort keys %{$navadmin_by_year{$year}})[0..$msg_bounds];
             my @last_msg = @navadmin_subj{map { "$_/$two_digit_year" } @last_msg_ids};
@@ -107,6 +108,20 @@ get '/' => sub ($c) {
             } } @last_msg_ids;
         }
     }
+
+    @msg_list;
+};
+
+# Now that we've loaded all NAVADMINs we are aware of, define the Web site
+# routes that we will support using Mojolicious::Lite's DSL.
+
+get '/' => sub ($c) {
+    # Figure out number of NAVADMINs by year so we can render the yearly list
+    my $year_counts = {
+        map { ($_, scalar keys %{$navadmin_by_year{$_}}) } @SORTED_YEARS,
+    };
+
+    my @msg_list = $c->most_recent_n(8);
 
     $c->render(template => 'index',
         years       => \@SORTED_YEARS,
