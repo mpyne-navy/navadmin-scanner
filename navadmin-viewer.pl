@@ -710,6 +710,12 @@ This list is only a partial best guess.
 
       <div class="navbar-end">
         <div class="navbar-item">
+          <p class="control">
+            <a class="button is-info is-small" href="/feed">RSS Feed</a>
+          </p>
+        </div>
+
+        <div class="navbar-item">
           <form action="<%= url_for('search-navadmin') %>" method="GET">
             <div class="field has-addons">
               <div class="control">
