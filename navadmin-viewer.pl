@@ -621,7 +621,7 @@ This list is only a partial best guess.
 
 @@ rss.xml.ep
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
   <title>NAVADMIN Scanner/Viewer (UNOFFICIAL)</title>
   <link>https://navadmin-viewer.fly.dev/</link>
