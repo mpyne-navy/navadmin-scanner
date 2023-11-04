@@ -80,9 +80,7 @@ helper title_from_id => sub ($c, $id) {
 # Now that we've loaded all NAVADMINs we are aware of, define the Web site
 # routes that we will support using Mojolicious::Lite's DSL.
 
-get '/' => sub {
-    my $c = shift;
-
+get '/' => sub ($c) {
     # Figure out number of NAVADMINs by year so we can render the yearly list
     my $year_counts = {
         map { ($_, scalar keys %{$navadmin_by_year{$_}}) } @SORTED_YEARS,
@@ -117,13 +115,11 @@ get '/' => sub {
     );
 };
 
-get '/about' => sub {
-    my $c = shift;
+get '/about' => sub ($c) {
     $c->render();
 };
 
-get '/by-year/:year' => sub {
-    my $c = shift;
+get '/by-year/:year' => sub ($c) {
     my $year = int($c->stash('year'));
 
     if (!exists $navadmin_by_year{$year}) {
@@ -147,8 +143,7 @@ get '/by-year/:year' => sub {
 # The extra => [] adds built-in placeholder restrictions
 get '/NAVADMIN/:id/:twoyr'
 => [id => qr/[0-9]{3}/, twoyr => qr/[0-9]{2}/]
-=> sub {
-    my $c = shift;
+=> sub ($c) {
     my $id = $c->stash('id');
     my $twoyr = $c->stash('twoyr');
     my $index = "$id/$twoyr";
@@ -183,8 +178,7 @@ get '/NAVADMIN/:id/:twoyr'
     );
 } => 'serve-navadmin';
 
-get '/NAVADMIN' => sub {
-    my $c = shift;
+get '/NAVADMIN' => sub ($c) {
     my $qsrch = $c->req->query_params->param('q');
 
     if (!$qsrch) {
@@ -214,9 +208,7 @@ get '/NAVADMIN' => sub {
     );
 } => 'search-navadmin';
 
-get '/NAVADMIN/all' => sub {
-    my $c = shift;
-
+get '/NAVADMIN/all' => sub ($c) {
     my @list;
     for my $year (sort keys %navadmin_by_year) {
         my $navadmins_for_year_ref = $navadmin_by_year{$year};
