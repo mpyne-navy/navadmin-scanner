@@ -1,0 +1,81 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 081520Z NOV 23 MID120000610812U 
+FM CNO WASHINGTON DC 
+TO CNO WASHINGTON DC 
+INFO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 271/23 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/NOV// 
+ 
+SUBJ/FY24 LOGTECH EDUCATION OPPORTUNITIES (CORRECTED COPY)// 
+ 
+POC/NOL KOENIG/OPNAV N4L5P/CNO WASHINGTON DC/(703) 695-4929/ 
+NOEL.K.KOENIG.MIL@US.NAVY.MIL// 
+ 
+REF/A/DOC/OPNAV/09MAY23// 
+AMPN/REF A IS OPNAVINST 4951.2, LOGISTICS AND TECHNOLOGY EDUCATION PROGRAM.// 
+ 
+RMKS/1.  This message announces education opportunities through the Center 
+of Excellence in Logistics and Technology (LOGTECH) Institute for Defense and 
+Business (IDB), hosted at the University of North Carolina (UNC), Chapel 
+Hill during fiscal year 2024 (FY24).  LOGTECH enables and energizes 
+participants to improve operations and accelerate adoption of future 
+logistics capabilities throughout their organizations.  Partnering with the 
+Kenan-Flagler Business School at UNC-Chapel Hill, LOGTECH offers two distinct 
+education courses for military, DoD, and private sector personnel: 
+  a.  LOGTECH Executive Course.  This course is designed for military Flag 
+Officers and Senior Executive Service members to focus on strategic and 
+organizational considerations from the senior executive perspective. 
+ 
+FY24 Executive Course schedule: 
+Class        #Start        Graduate        Quotas        Application 
+Deadline 
+2024-01   10 Mar 2024    15 Mar 2024         2               18 Jan 2024 
+  b.  LOGTECH Advanced Course.  This course is designed for CWO-4 to CWO-5, 
+O-4 to O-6 military officers, and E-9 military personnel, as well as GS-13 to 
+GS-15 civilians.  It explores leading-edge logistics technologies to prepare 
+logisticians for the future.  FY24 Advanced Course schedule: 
+ 
+Class#       Start       Graduate       Quotas       Application Deadline 
+2023-05   10 Dec 2023   15 Dec 2023       2             15 Nov 2023 
+2024-06   28 Jan 2024   02 Feb 2024       1             07 Dec 2023 
+2024-07   07 Apr 2024   12 Apr 2024       1             15 Feb 2024 
+2024-08   19 May 2024   24 May 2024       1             28 Mar 2024 
+2024-09   21 Jul 2024   26 Jul 2024       1             30 May 2024 
+  c. Submission Requirements.  To obtain LOGTECH Advanced or Executive 
+Course quotas, applicants must submit a standard Navy biography and signed 
+SF-182 to their appropriate Echelon 2 liaison.  Advanced course applicants 
+must also include a logistics problem statement for exploration during the 
+course.  A sample problem statement is found in reference (a).  The Office of 
+Chief of Naval Operations (OPNAV), Fleet Readiness and Logistics (N4) FY24 
+LOGTECH course managers are: 
+    (1) CDR Nol Koenig, OPNAV N4L5P, noel.k.koenig.mil@us.navy.mil 
+    (2) LCDR Dartanyon King, OPNAV N4L5C, dartanyon.r.king.mil@us.navy.mil 
+    (3) Ms. Olivia Burns, OPNAV N4L5H, olivia.t.burns2.ctr@us.navy.mil 
+  d.  Selection criteria.  LOGTECH is a competitive program.  Selections are 
+based on the following criteria: candidate qualifications (specifically 
+career field and paygrade), package completeness (biography, SF-182, and 
+problem statement), and problem statement quality. 
+  e.  Additional Information. 
+    (1) Refer to the LOGTECH website at 
+https://www.idb.org/programs/in-residence 
+-learning/logtech-advanced-advanced-program-in-logistics-technology/. 
+    (2) The SF-182 is available at: 
+https://www.opm.gov/forms/pdf_fill/sf182.pdf 
+  2. Funding.  Tuition, travel, lodging, and partial per diem are centrally 
+funded in FY24.  Commands are responsible for funding per diem on the days of 
+travel only.  Services, Agencies, and Combatant Commands also have the option 
+to self-fund seats for any of the above classes. Should a command decide to 
+self-fund, they will work directly with IDB after coordinating with OPNAV and 
+appropriate Echelon II Point of Contacts.  Program cost is $9K per attendee 
+and covers room, board, and tuition. 
+  3. Released by Dr. S. Goodfellow, OPNAV N4, PTDO.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
