@@ -1,0 +1,68 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 201951Z NOV 23 MID120000632277U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 279/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/NAVFIT98A AVAILABILITY AS ALTERNATIVE TO ENAVFIT//
+
+REF/A/MSG/CNO WASHINGTON DC/241616ZNOV21//
+REF/B/DOC/BUPERS/01DEC21//
+
+NARR/REF A IS NAVADMIN 267/21, TALENT MANAGEMENT TASK FORCE AND ENAVFIT.  
+REF B IS BUPERSINST 1610.10F, NAVY PERFORMANCE EVALUATION SYSTEM.//
+
+RMKS/1.  This NAVADMIN announces the continuing availability of NAVFIT98A for 
+use as an alternative to eNavFit for the completion of performance 
+evaluations through 31 December 2025.
+     a.  eNavFit was designed to be a bridge to future performance evaluation 
+modernization, and continues to undergo necessary programming updates in 
+preparation for additional Fleet testing to enable full access and 
+functionality.
+    b.  Since the rollout of eNavFit, thousands of performance appraisals 
+have been successfully submitted via eNavFit both online and offline.
+    c.  The rejection rate for evaluations generated and submitted via 
+eNavFit is 19% lower than the traditional evaluation system.
+    d.  eNavFit processing time is exponentially faster than the traditional 
+evaluation system, which means reports get uploaded to a Sailor's Official 
+Military Personnel File sooner.
+    e.  While numerous fixes and enhancements have been implemented since 
+eNavFit was first introduced, there is still work to do to achieve full Navy-
+wide implementation.
+
+2.  Commands that have had success with eNavFit are encouraged to keep using 
+the system as a means to more efficiently process Sailors' evaluation 
+transactions, to familiarize Sailors with modernized BUPERS Online document 
+services, and to identify any further stress points within the applications.
+
+3.  For questions concerning NAVFIT98A and eNavFit, contact the MyNavy Career 
+Center at (833) 833-6622 or via e-mail at askmncc@navy.mil.
+
+4. This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+

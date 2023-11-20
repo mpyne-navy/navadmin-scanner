@@ -1,0 +1,155 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 202035Z NOV 23 MID120000632392U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 281/23
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/JANUARY 2024 CYCLE 262 ACTIVE-DUTY AND TRAINING AND ADMINISTRATION OF 
+THE RESERVES E7 NAVY-WIDE ADVANCEMENT EXAMINATION//
+
+REF/A/DOC/BUPERS/07FEB22//
+REF/B/MSG/CNO WASHINGTON DC/N1/221540ZDEC22//
+REF/C/MSG/CNO WASHINGTON DC/201449ZDEC18//
+REF/D/MSG/CNO WASHINGTON DC/272057ZDEC18//
+REF/E/MSG/CNO WASHINGTON DC/N1/161157ZJUL20//
+
+NARR/REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND NAVY RESERVE.  
+REF B IS NAVADMIN 288/22, HIGH YEAR TENURE PLUS PILOT.  
+REF C IS NAVADMIN 312/18, ADVANCEMENT POLICY UPDATE.  
+REF D IS NAVADMIN 316/18, ENLISTED ADVANCEMENT WORKSHEET.  
+REF E IS NAVADMIN 201/20, PROFESSIONAL MILITARY KNOWLEDGE ELIGIBILITY EXAM 
+REVISED BUSINESS RULES.//
+
+RMKS/1.  This NAVADMIN announces guidance for the administration of the 
+January 2024 (Cycle 262) E7 Navy-wide Advancement Examination
+(NWAE) for Active-Duty and Training and Administration of the Reserves (TAR) 
+Sailors.
+
+2.  Timeline:
+    a.  30 November 2023:  Professional Military Knowledge - Eligibility Exam 
+(PMK-EE) completion deadline.
+    b.  18 January 2024:  Exam Date.  Enlisted Advancement Worksheets (EAW) 
+will close one week after the exam date on the worksheet.
+    c.  In the event of a requirement to deviate from the single-day 
+administration date, a single-day administration waiver may be requested (up 
+to 31 January 2024) from Navy Personnel Command (PERS-
+8) in line with reference (a).
+
+3.  Eligibility requirements are in line with reference (a), and the 
+following information applies for cycle 262:
+    a.  Terminal Eligibility Date (TED):  1 January 2025.
+    b.  Time-in-Rate (TIR) date:  On or before 1 January 2022.
+    c.  Early Promote (EP) TIR waiver date:  On or before 1 January 2023.
+    d.  High-Year Tenure (HYT) date:  In line with reference (b), the HYT 
+Plus Pilot program allows for Sailors to continue their Navy careers beyond 
+the HYT limits.  Reference (b) should be read in its entirety.  In EAW, the 
+"HYT Exceeded" entry may reflect "Yes" - when applicable, select "Yes" for 
+"HYT Waived".
+    e.  Security/Interim security clearance (if required):  Refer to chapter 
+2 of reference (a).  All NWAE candidates must have favorable adjudication or 
+update prior to 1 January 2024.
+    f.  Reporting Senior Cumulative Average Performance Mark Average (RSCA 
+PMA).  In line with reference (c), compute RSCA PMA for E6 evaluations dated 
+from 1 January 2021 to 31 December 2023.
+    g.  Use of EAW is mandatory, in line with reference (d).
+    h.  E7 PMK-EE remains a general eligibility requirement for all Sailors 
+(regardless of EP TIR waiver status) in line with reference (e), waivers are 
+normally not approved without extraordinary circumstances.
+
+4.  Exam Ordering:
+    a.  In line with reference (a), ordering dates and TIR listings for both 
+Sensitive Compartmented Information (SCI) and non-SCI Exams can be found on 
+the Navy Enlisted Advancement System (NEAS) website at 
+https://neas.ncdc.navy.mil/Login.  Select Exam and Ordering Date Chart.
+    b.  SCI exam orders not included on initial TIR list must be ordered from 
+sfly_cryptologic.products@navy.mil.  Order exams in line with reference (a).
+    c.  Non-SCI exam orders not included on the initial TIR list must be 
+ordered in NEAS Web using a Department of Defense Identification Number.
+    d.  Substitute Exams.  The deadline for ordering SCI and non-SCI 
+substitute exams is 31 January 2024.  Naval Education and Training 
+Professional Development Center, Fleet Services Branch (NETPDC N321) is the 
+approval authority.
+    e.  Educational Services Officers (ESOs) should verify placing exam 
+orders within 7-10 days of ordering at *View Previous Exam
+Orders* link via the NEAS website, and should contact NETPDC N321 as needed 
+for exam order inquiries and issues.
+    f.  Rating Groups:
+        (1) CTI:  Middle East/North Africa (Group 1), East/Far East (Group 
+2), Latin/South America (Group 3), Eastern Europe (Group 4).
+        (2) EMN, ETN and MMN:  Submarine (Group 1), Surface (Group
+
+2).
+        (3) MU:  Premier Band (Group 1), Fleet Band (Group 2).
+
+5.  Exam Administration and Answer Sheet Returns.  Administer exams and 
+return answer sheets in line with chapter 6 of reference (a).
+The NEAS website contains an exam tote board that displays status of 
+receiving answer sheets.
+
+6.  Discrepancy Correction:
+    a.  Utilize the Enlisted Advancement Worksheet-Post Examination 
+Administrative Comments (EAW-PAC) process, refer to reference (d).
+    b.  A detailed discrepancy list can be found on the NEAS website.
+    c.  Selection Board Eligibility Waivers should be conducted in line with 
+reference (a).  Modifications are as follows:
+        (1) Congressionally Designated Combat Zone and Approved Contingency 
+Operations Area (CDCZ/ACOA) Candidates.  Submit a list of selection board 
+eligible candidates by activity in addition to E7 Letter of Transmittal, 
+along with an *IA Waiver Granted* entry in *EAW Special Circumstances*.
+        (2) Non-CDCZ/ACOA Candidates.  Submit request for Exception to Policy 
+for selection board eligibility waiver in line with reference (a).
+
+7.  NWAE results will be posted via BUPERS Online and profile sheets.
+
+8.  Any additional information (exam verbatim, exam dates, and other related 
+documents) regarding this cycle will be posted on the MyNavy HR advancements 
+site, located at
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted-Career-Admin/Advancement/ and on the NEAS website.
+
+9.  Points of Contact:
+    a.  For general or PMK-EE Mobile questions:  MyNavy Career Center (MNCC) 
+is available 24/7 by phone at 1-833-330-MNCC (1-833-
+330-6622) or via e-mail at askmncc@navy.mil.
+    b.  PMK-EE completion score questions:  ntmps.support@navy.mil.
+    c.  SCI orders and inquiries:  (850) 473-5867/DSN 753, 
+sfly_cryptologic.products@navy.mil.
+    d.  Non-SCI orders and inquiries:  (850) 473-6150/DSN 753, 
+usn.pensacola.netpdc.mbx.netpdc-n321-exam-orders@us.navy.mil.
+    e.  NWAE examination records or discrepancies:  EAW-PAC submissions.  
+Pre/post examination administration inquiries:  (850) 473-6148/DSN 753 or 
+usn.pensacola.netpdc.mbx.netpdc-n321-
+discrepancies@us.navy.mil.
+    f.  Board Eligibility Concerns, including BUPERS INVAL profile sheet 
+status:  Selection Board Eligibility Branch (PERS 802):
+(901)-874-4537/DSN 882 e-mail at NPC_enlisted_selbd_elig@navy.mil.
+
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
