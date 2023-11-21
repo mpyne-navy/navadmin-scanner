@@ -1,0 +1,158 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+PRIORITY
+
+P R 211120Z NOV 23 MID120000637793U
+
+FM COMUSFLTFORCOM NORFOLK VA
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+SECNAV WASHINGTON DC
+COMUSFLTFORCOM NORFOLK VA
+CTF 80
+
+BT
+UNCLAS
+
+NAVADMIN 282/23
+
+MSGID/GENADMIN/COMUSFLTFORCOM NORFOLK VA/N00/NOV//
+
+SUBJ/U.S. FLEET FORCES COMMAND LIMITED DUTY AND DISABILITY EVALUATION SYSTEM 
+IMPROVEMENT SPRINT COMPLETION:  UPDATED NAVY LIMITED DUTY/DISABILITY 
+EVALUATION SYSTEM PROCEDURES AND POLICIES//
+
+REF/A/DOC/OPNAV/03OCT23//
+REF/B/DOC/COMNAVPERSCOM/05SEP21//
+REF/C/DOC/OPNAV/23JUN22//
+REF/D/MSG/NAVADMIN/27JAN23//
+
+NARR/REF A is OPNAVINST 1300.20A, Deployability Assessment and Assignment 
+Program. 
+REF B is MILPERSMAN 1300-1400, Limited Duty. 
+REF C is OPNAVINST 1300.21, Enlisted Manning Policy and Procedures. 
+REF D is NAVADMIN 015/23, U.S.Fleet Forces Command Limited Duty and 
+Disability Evaluation System Improvement Sprint// POC/Erwin, 
+Katie/LCDR/COMUSFLTFORCOM/N1COE/TEL:  757-836-7794/
+Email:  KATIE.A.ERWIN.MIL(AT)US.NAVY.MIL//
+POC/Byrd, David/CIV/COMUSFLTFORCOM/N1COE121/TEL:  757-836-5774/
+Email:  DAVID.I.BYRD.CIV(AT)US.NAVY.MIL//
+
+RMKS/1. In January 2023, Chief of Naval Operations designated Commander, U.S.
+Fleet Forces Command (COMUSFLTFORCOM) as the supported Commander to lead a 
+SPRINT addressing the number, distribution, and care of the Navy's Limited 
+Duty
+(LIMDU) and Disability Evaluation System (DES) Sailors. The SPRINT took 
+immediate action to improve the oversight and management of LIMDU personnel 
+and alleviate friction throughout the LIMDU process. A Cross-Functional Team 
+(CFT) evaluated former LIMDU policies and instructions, detailing processes 
+for Navy -wide distribution, and medical limitations and classification for 
+Sailor?s daily work environment conditions, culminating in an improved and 
+better streamlined Navy LIMDU process. This NAVADMIN highlights recent 
+updates to REF A and serves as the basis for policy while REFs B and C are in 
+the process of being revised.
+
+2.  The following are LIMDU/DES requirements for all Navy commands:
+
+2.A. Per REF A, all commands must designate, in writing, a Command 
+Deployability Coordinator (DC).
+
+2.B. Commands with 50 or more LIMDU personnel will appoint a Command DC as a 
+primary duty.
+
+2.C. Commands will assign a collateral Command DCs on a 1:50 ratio to assist 
+in the management of LIMDU personnel.
+
+2.D. Commands will proactively update their command manning documents to 
+accurately reflect the status of LIMDU and DES Sailors. Leadership will 
+coordinate with their local Navy Medicine Readiness and Training Command
+(NMRTC) to verify accuracy of LIMDU and DES rosters.
+
+2.E. Commands are required to update DC point of contact information in 
+MyNavy Assignment (MNA) for accountability purposes. DCs must request 
+Activity Manning Manager access to allow the losing command?s DC to submit 
+LIMDU personnel manning action requests in MNA and provide the gaining 
+command?s DC visibility on tentative inbound LIMDU gain(s). These actions 
+improve LIMDU distribution workflow efficiency, provide a more streamlined 
+process for DCs fleet-wide, and maintain the infrastructure needed to sustain 
+the LIMDU/DES process.
+
+2.F. Once designated, DCs are required to complete initial DC training set 
+forth by the Bureau of Medicine and Surgery (BUMED). The purpose of the 
+training is to ensure that DCs have the necessary tools to help assigned 
+LIMDU Sailors return to service and not further restrict information from the 
+command. Local NMRTCs retain this formalized training and continue to train 
+command DCs in their respective regions.
+
+2.G. Command DCs will coordinate with their local NMRTC for access to the 
+LIMDU Sailor and Marine Readiness Tracker system for the unit identification 
+codes
+(UIC) for which they are responsible.
+
+3. LIMDU/DES Process Updates:
+
+3.A. Tailored LIMDU capacity established for each UIC. Distribution of LIMDU 
+Sailors is now based upon several factors, such as medical limitations and 
+the gaining command?s capacity and capability to provide meaningful work.
+Additional factors considered include berthing accommodations, command 
+mission, opportunities to conduct in-rate work, and the ability or inability 
+of the individual to conduct such work. The CFT developed tailored 
+percentages of enlisted billets assigned for LIMDU populations at commands 
+receiving LIMDU personnel.  These tailored LIMDU percentages are now loaded 
+into MNA and function as part of the detailing process.
+
+3.B. Annual review of LIMDU vs. UIC capacity. USFLTFORCOM N1, with inputs 
+from key stakeholders, U.S. Pacific Fleet (USPACFLT), BUMED, Commander, Naval 
+Installations Command, Navy Personnel Command (NPC), and immediate superiors 
+in command will conduct an annual review of commands? tailored LIMDU/DES 
+capacity percentages. Changes will be submitted to the PERS-4 allocation 
+manager for implementation in MNA.  Requests for LIMDU capacity changes 
+separate from the annual review should be sent to the applicable type 
+commander (TYCOM) who will forward that request to the respective Fleet 
+Readiness Integrator (USFLTFORCOM, PACFLT, or NPC) for review.
+
+3.C. NPC targeted detailing of Sailors deemed highest risk. Medical providers 
+now assign a BUMED work category code developed for new LIMDU Sailors. Work 
+category codes should be used by commands and the distribution system to 
+ensure Sailors are correctly assigned and employed in a manner suited to 
+their work capabilities. Highest risk Sailors (severe physical or mental 
+health
+limitations) who are unable to perform most duties and are restricted to 
+limited activities of daily living and medical appointments, will be 
+classified as Category 4. NPC will detail Category 4 Sailors to commands that 
+have the resources and capacity to support them.
+
+3.D. Maximization of Light Duty. In the event Sailors are prescribed LIMDU 
+for conditions expected to improve within 90 days, the Sailor will not 
+normally be reassigned from sea duty to shore duty, but will be retained 
+administratively at their current command while they recover.  Sailors may be 
+sent to Temporarily Assigned Duty during this period, as needed or 
+recommended by the medical providers, to the respective TYCOM or other 
+location to aid in recovery and ensure their environment is conducive to any 
+physical limitations.
+
+4. In closing, the ability for commands to effectively and efficiently 
+support the uniqueness of each LIMDU Sailor rests with the command?s 
+leadership at all levels. Leaders receiving LIMDU and DES Sailors must 
+execute their responsibility to support the Sailors in returning to duty or 
+processing a dignified separation from Naval service. Proactive leadership of 
+the losing and gaining command is required to best support Sailors navigating 
+the LIMDU process. Each LIMDU Sailor shares in this responsibility through 
+ensuring command leadership is aware of all required administrative needs, 
+command level support requirements, and conducting individual medical 
+appointments as their place of duty assignment. Equally important is ensuring 
+LIMDU Sailors have connectedness, team integration, and a continued sense of 
+purpose. By doing so, our Naval leaders create a more resilient Sailor, 
+mentally and physically, leading to a stronger, more unified Fleet when 
+facing our future adversaries.
+
+5. From Foundry to Fleet, Forged to Fight!  ADM Caudle sends.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
