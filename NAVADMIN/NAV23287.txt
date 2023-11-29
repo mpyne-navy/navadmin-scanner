@@ -1,0 +1,134 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 281808Z NOV 23 MID120000661124U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC//DNS//
+BT
+UNCLAS
+ 
+NAVADMIN 287/23
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV//
+
+SUBJ/FY-24 PROFESSIONAL DEVELOPMENT TRAINING COURSE FOR CHAPLAINS AND 
+RELIGIOUS PROGRAM SPECIALISTS//
+
+REF/A/DOC/SECNAV/11MAR19//
+REF/B/DOC/NAVEDTRA/10AUG18//
+REF/C/DOC/CNO/JUL22//
+REF/D/DOC/CNO/MAY19//
+REF/E/OPNAV/09NOV22//
+REF/F/MCO/16AUG18//
+REF/G/COMDTINST/9MAR12//
+REF/H/COC/MAY23//
+
+NARR/REF A IS SECNAVINST 1730.7E, RELIGIOUS MINISTRY WITHIN THE DEPARTMENT OF 
+THE NAVY.
+REF B IS NAVEDTRA 135D, NAVY SCHOOL MANAGEMENT MANUAL.
+REF C IS CHIEF OF NAVAL OPERATIONS NAVIGATION PLAN 2022, JULY 2022.
+REF D IS NAVY LEADER DEVELOPMENT FRAMEWORK, VERSION 3.0, MAY 2019.
+REF E IS OPNAVINST 1730.1F, RELIGIOUS MINISTRY IN THE NAVY.
+REF F IS MCO 1730.6F W/ADMIN CH, RELIGIOUS MINISTRY IN THE MARINE CORPS.
+REF G IS COMDTINST 1730.4C, RELIGIOUS MINISTRIES WITHIN THE COAST GUARD.
+REF H IS DIRECTOR OF RELIGIOUS MINISTRIES STRATEGIC PLAN 2023.
+
+RMKS/1.  This NAVADMIN establishes the Chief of Chaplains as program sponsor 
+for the professional development of Chaplain Corps (CHC) officers and 
+Religious Program Specialists (RP) in line with references (a) through (h).  
+The Chief of Chaplains conducts annual short-course training for CHC officers 
+and RPs to sharpen the unique capabilities and competencies chaplains and RPs 
+bring to the institution and to inspire excellence in delivering religious 
+ministry.  The FY-24 Professional Development Training will consist of a 
+total of four days and is required for all chaplains and RPs barring 
+operational commitments.  This training also provides continuing education 
+units, which may be required to maintain religious organization credentials.
+
+2.  The Professional Development Training Workshop (PDTW), conducted the 
+first day, will focus on Spiritual Readiness.
+
+3.  The Professional Development Training Course (PDTC), conducted the 
+following three days, will address Building Spiritual Readiness Through 
+Counseling. The PDTC will train, develop, and inspire chaplains and RPs to 
+develop and enhance programs that build the Spiritual Readiness of warriors 
+and their commands and will provide Religious Ministry Teams with a framework 
+and experience in counseling.
+
+4.  The FY-24 PDTC objectives are to train chaplains and RPs to be able to:
+    a.  Identify the Navy standard of pastoral counseling.
+    b.  Distinguish how this may differ from Religious Organization
+(RO) standards of faith group-specific counseling.
+    c.  Identify how it may overlap with RO standards of faith group-specific 
+counseling.
+    d.  Describe how Professional Naval Chaplaincy (PNC) informs counseling.
+    e.  Differentiate pastoral counseling done in the "provision
+        competency" from counseling done in the "care competency.
+    f.  Present the Naval standards for pastoral counseling.
+    g.  Make chaplains and RPs aware of types of counseling methods currently 
+available.
+    h.  Demonstrate the ability to use knowledge learned to complete a 
+Capstone Event.
+
+5.  Dates and Locations.  The FY-24 PDTW and PDTC will be offered on these 
+dates at the following locations:
+CONUS LOCATIONS
+DATE          LOCATION
+08-11 Jan     NAS Jacksonville
+22-25 Jan     NB San Diego, CA #1
+05-08 Feb     MCB Camp Lejeune, NC
+15-18 Apr     NB San Diego, CA #2
+22-25 Apr     NB Kitsap, WA
+13-16 May     NS Norfolk, VA
+20-23 May     NAS Pensacola, FL
+03-06 Jun     JEB Little Creek, VA
+10-13 Jun     MCB Camp Pendleton, CA
+OCONUS LOCATIONS
+DATE          LOCATION
+12-15 Feb     Rota, Spain
+04-07 Mar     MCBH Kaneohe Bay, HI
+11-14 Mar     Okinawa, Japan
+
+6.  Travel.  Commands are authorized to provide funding in support of 
+religious ministries within the command to include funding chaplains and RPs 
+to attend annual PDTW/PDTC according to references (a), (e), (f), and (g).  
+Participants are encouraged to attend the training being held in their local 
+areas where possible.
+
+7.  Registration.  Chaplains and RPs are required to attend all four days of 
+training and must register for both the PDTW
+(CIN: A-5G-0005) (CDP:  19MG) and the PDTC (CIN:  P-5G-1303)
+(CDP: 19MF) through the enterprise Naval Training Reservation System
+(eNTRS) via self-registration or the service member's command training 
+officer. Training dates and locations are accessible via the Catalogue of 
+Navy Training Courses (CANTRAC).  Prospective students must submit a current 
+email address during registration or the request will be returned. 
+Registration SOPs and guidance are available at the Naval Chaplaincy School 
+(NCS) milSuite site:
+https://www.milsuite.mil/book/community/spaces/navychc/naval-chaplaincy-
+school/pages/pdtcpdtw.  If Service Members encounter issues with 
+registration, they may contact their command training officer for assistance.  
+If the command training officer is unavailable, Service Members may contact 
+the Naval Chaplaincy School Professional Development Department, at (401) 
+841-3930/DSN:
+(312) 841-3930 or via e-mail at nwpt_ncs_pdtc@us.navy.mil.
+
+8. Course Material/Site Sheets.  Read-ahead material is required for the PDTC 
+and is accessible on the NCS milSuite site.  To assist the Service Member 
+with travel planning, site sheets for each training venue are also available 
+on the NCS milSuite site:
+https://www.milsuite.mil/book/community/spaces/navychc/naval-chaplaincy-
+school/pages/pdtcpdtw.
+
+9.  This NAVADMIN is cancelled for record purposes on 30 September 2024.
+
+10.  Released by Mr. Andrew S. Haeuptle, Director, Navy Staff on behalf of 
+the Chief of Chaplains.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
