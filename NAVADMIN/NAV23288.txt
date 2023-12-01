@@ -1,0 +1,215 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 302148Z NOV 23 MID120000673602U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 288/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC //N7// 
+INFO CNO WASHINGTON DC //N7// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N7/NOV// 
+ 
+SUBJ/ACADEMIC YEAR 2024-2025 MULTI-BOARD RESULTS FOR STRATEGIST AND NATIONAL 
+SECURITY FELLOWSHIPS AND GRADUATE EDUCATION SCHOLARSHIP PROGRAMS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/021643ZJUN23// 
+ 
+NARR/Ref A is the Academic Year 2024-2025 Strategist and National Security 
+Fellowships and Graduate Education Scholarship Programs Call for 
+Applications NAVADMIN (133/23). 
+ 
+RMKS/1. Per reference (a), this NAVADMIN announces the results of the 
+Academic Year (AY) 2024-2025 Multi-Board. 
+ 
+2.  Congratulations to the following officers upon their selection or 
+nomination to the Secretary of Defense Executive Fellowship (SDEF), CNO's 
+Fellowship at the Council on Foreign Relations (CFR), U.S. Navy Hudson 
+Fellowship, Federal Executive Fellowship (FEF), Arthur S. Moreau (ASM) 
+Scholarship, Secretary of Defense Strategic Thinkers Program (SD STP) 
+Scholarship, Politico-Military Master's (PMM) Scholarship, and Olmsted 
+Scholar programs. 
+    a.  Secretary of Defense Executive Fellowship Primary Selectees: 
+Ahle, Melanie K., CDR, 1320 
+Crosby, Raymond B., CAPT, 1110 
+Letcher, Matthew D., CDR, 1310 
+Phillips, Stephanie L., CDR, 1830 
+    b.  Secretary of Defense Executive Fellowship Alternate Selectees: 
+Berry, Daniel J., CDR, 1310 
+Borja, Michael C., LCDR, 1830 
+Fuehrer, Charles D., CDR, 1110 
+Pickering, Matthew A., CDR, 4100 
+Sanchez, Frank C., CAPT, 1320 
+Williams, Evan B., CDR, 1440 
+Windom, Jason M., CDR, 1320 
+    c.  CNO's Fellowship at the Council on Foreign Relations (CFR) Primary 
+Nominees.  These are the Navy's primary nominees, with final selection 
+being made by the CNO: 
+Martins, Daniel M., CAPT, 1310 
+O'Donnell, Thomas P., CAPT, 1120 
+Sanchez, Frank C., CAPT, 1320 
+    d.  CNO's Fellowship at the Council on Foreign Relations (CFR) Alternate 
+Nominees: 
+Buford, William S., CDR, 1110 
+Phillips, Stephanie L., CDR, 1830 
+    e.  U.S. Navy Hudson Fellowship Primary Nominee.  This is the Navy's 
+primary nominee, with final selection being made by the Governing Body of  
+St. Antony's College, University of Oxford in February 2024: 
+Boyce, Matthew D., CDR, 1310 
+    f.  U.S. Navy Hudson Fellowship Alternate Nominees.  These are the Navy's 
+alternate nominees, with final selection being made by the Governing Body of 
+St. Antony's College, University of Oxford in February 2024: 
+Martins, Daniel M., CAPT, 1310 
+Slye, Richard D., CDR, 1110 
+    g.  Federal Executive Fellowship Primary Selectees: 
+Ahle, Melanie K., CDR, 1320 
+Borja, Michael C., LCDR, 1830 
+Boyce, Matthew D., CDR, 1310 
+Conger, Trevor J., CDR, 1120 
+Letcher, Matthew D., CDR, 1310 
+Li, John Z., LCDR, 1110 
+Martins, Daniel M., CAPT, 1310 
+Massengale, Benjamin S., LCDR, 1120 
+Norris, Jonathan I., CDR, 1710 
+Packard, Quinton S., CAPT, 1317 
+Pesquera, Carlos R., CDR, 1820 
+Phillips, Stephanie L., CDR, 1830 
+Sanchez, Frank C., CAPT, 1320 
+    h.  Federal Executive Fellowship Alternate Selectees: 
+Berry, Daniel J., CDR, 1310 
+Buford, William S., CDR, 1110 
+Fuehrer, Charles D., CDR, 1110 
+Halsell, James D., LCDR, 1120 
+Harding, Chase E., LCDR, 1110 
+Haws, Rebecca L., LCDR, 1830 
+Hogan, Michael R., LCDR, 1120 
+Horn, Alexander F., CDR, 1310 
+Mattrella, Lisa M., LCDR, 1110 
+Thomas, Heather O., CDR, 1310 
+    i.  Arthur S. Moreau Scholarship Primary Selectee: 
+Lewis, Kelli A.W., LCDR, 1110 
+    j.  Arthur S. Moreau Scholarship Alternate Selectee: 
+Axel, Michael C., LCDR, 1320 
+    k.  Secretary of Defense Strategic Thinkers Program Scholarship Primary 
+Selectees.  These are the Navy's primary selectees, with final approval by 
+the Office of the Deputy Assistant Secretary of Defense for Force Education 
+and Training (ODASD (FE&T)) by February 2024: 
+Haws, Rebecca L., LCDR, 1830 
+Spector, Jordan A., LCDR, 1130 
+    l.  Secretary of Defense Strategic Thinkers Program Scholarship Alternate 
+Selectees.  These are the Navy's alternate nominees, with final approval by 
+ODASD (FE&T)) by February 2024: 
+Butler, Andrew G., LCDR, 1830 
+Depman, David M., LCDR, 1320 
+Kolwicz, Thomas G., Jr., CDR, 1310 
+Lewis, Christopher J., CDR, 1310 
+Vela, Marco E., LCDR, 1830 
+    m. Politico-Military Masters Scholarship Primary Selectees: 
+Anderson, Adam M., LT, 1320 
+Dowden, Matthew R. B., LT, 1810 
+Harding, Chase E., LCDR, 1110 
+Haws, Rebecca L., LCDR, 1830 
+Horn, Alexander F., CDR, 1310 
+Kolwicz, Thomas G., Jr., CDR, 1310 
+Lewis, Christopher J., CDR, 1310 
+Spector, Jordan A., LCDR, 1130 
+    n. Politico-Military Masters Scholarship Alternate Selectees: 
+Detweiler, Nicholas J., LCDR, 1110 
+Massengale, Benjamin S., LCDR, 1120 
+Ross, Adam S., LT, 1830 
+Smith, Bryant D., LCDR, 1310 
+Vela, Marco E., LCDR, 1830 
+    o.  Olmsted Scholars Program Nominees. These are the Navy's nominees for 
+Olmsted's Class of 2025, with final selection by the Olmsted Foundation in 
+March 2024: 
+Avila, Kristin E., LCDR, 1110 
+Barabe, Joshua S., LT, 1310 
+Fine, Jesse G., LT, 1310 
+Gregory, Daniel J., LT, 1310 
+Haws, Rebecca L., LCDR, 1830 
+Heinemeyer, Tyler C., LT, 1310 
+Kamens, Bryan A., LT, 1310 
+Mun, Kristine J., LCDR, 1110 
+Murphy, Matthew J., LCDR, 1310 
+O'Brien, Miles M., IV, LT, 1830 
+Pauwels, Nathalie E., LT, 1830 
+Webb, Kyle W., LT, 1310 
+ 
+3.  All primary selectees and primary nominees for the SDEF, CNO's Fellow, 
+Hudson, FEF, ASM, SD STP, PMM, and Olmsted programs must accept or decline 
+their selection/nomination NLT 7 days from the date of this NAVADMIN by email 
+to OPNAV N7 POCs listed in para 5 below, with a copy to PERS 443 and their 
+respective detailers. OPNAV N7 will reach out to alternates SEPCOR, as 
+needed. 
+ 
+4.  Fellowship/Scholarship Assignment Process and Details: 
+    a.  SDEF: ODASD (FE&T) will coordinate the assignment of all service 
+selectees to their respective AY24-25 SDEF corporate hosts in April 2024.   
+SDEF alternates are encouraged to remain flexible in the event that a primary 
+slot opens up in the coming weeks. Direct all SDEF-related questions to the 
+OPNAV N712 program POCs listed below. 
+    b.  CNO's Fellowship at the Council on Foreign Relations (CFR): 
+OPNAV N712 will forward the three primary nominees' application materials to 
+the CNO for final selection of the CNO's Fellow for AY24-25.  CNO's 
+Fellowship alternate nominees are encouraged to remain flexible in the event 
+that a primary nominee slot opens up in the coming weeks. 
+    c.  Hudson Fellowship: The Governing Body of St. Antony's College, 
+University of Oxford, has ultimate approval authority of the AY24-25 
+U.S. Navy Hudson Fellow.  OPNAV N712 will forward the Curriculum Vitae, 
+biography, and research proposal for the one primary and two alternate 
+nominees directly to the University of Oxford, with a decision by the 
+University of Oxford expected in February 2024. 
+    d.  FEF: OPNAV N7 will assign primary selectees to their respective host 
+institutions. Primary selectees are directed to contact the OPNAV N712 
+program team listed below to discuss details of these assignments and provide 
+ranked preferences of the 13 host institutions. FEF alternates are encouraged 
+to remain flexible in the event that a primary slot opens up in the coming 
+weeks. 
+    e.  ASM: The ASM selectee will choose from among the eight approved 
+universities listed in reference (a).  It is strongly recommended that the 
+ASM selectee apply to a minimum of three universities to increase their 
+acceptance chances.  Navy multi-board selection for the ASM program does not 
+guarantee acceptance by a university. ASM alternates are encouraged to remain 
+flexible in the event that a primary slot opens up in the coming weeks. 
+    f. PMM: PMM selectees will choose from among the seven approved 
+universities listed in reference (a).  It is strongly recommended that PMM 
+selectees apply to a minimum of three universities to increase their 
+acceptance chances.  Navy multi-board selection for the PMM program does not 
+guarantee acceptance by a university. PMM alternates are encouraged to remain 
+flexible in the event that a primary slot opens up in the coming weeks. 
+    g.  SD STP: Navy SD STP nominees will provide an application package to 
+ODASD (FE&T) via OPNAV N712.   Application package details will be provided 
+to selectees SEPCOR by OPNAV N712.  A senior-level panel within ODASD (FE&T) 
+will review SD STP selectees' application packages in January 2024. 
+    h. Olmsted Scholars: An Olmsted Foundation board will convene in March 
+2024 to select up to five Navy Olmsted Scholars for the Class of 2025 from 
+among the multi-board nominee scholars listed in para 2.o. 
+ 
+5.  Point(s) of Contact: 
+    a.  NAVPERSCOM: Outservice Education Placement and Special Fellowships: 
+LT Jacob Jepsen, PERS 443, Comm (901) 874-3996; E-mail: 
+jacob.a.jepsen.mil@us.navy.mil 
+    b.  OPNAV N712 Fellowship and Scholarship Programs: 
+        (1) Branch Head: CDR Anne C. Stehlin; Comm (571) 256-4784; 
+Cell (703) 835-7501; E-mail: anne.c.stehlin.mil@us.navy.mil 
+        (2) Deputy Branch Head: Ms. Jennifer Rigdon Teter; 
+Comm (703) 692-1934; E-mail: jennifer.c.rigdonteter.civ@us.navy.mil 
+        (3) Action Officer: LT Blake Copeland; Comm (703) 692-1184; 
+E-mail: blake.a.copeland3.mil@us.navy.mil 
+        (4) Program Analyst: Ms. Hannah Olivieri; Comm (703) 695-5461; 
+E-mail: hannah.g.olivieri.ctr@us.navy.mil 
+        (5) Olmsted Scholars/Officer Special Education Programs: 
+Ms. Elise McGuire; Comm (850) 473-6064; E-mail: 
+elise.t.mcguire.civ@us.navy.mil 
+ 
+6.  Released by VADM J. W. Hughes, Deputy Chief of Naval Operations for 
+Warfighting Development, OPNAV (N7).// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
