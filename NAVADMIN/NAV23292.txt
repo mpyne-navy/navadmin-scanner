@@ -1,0 +1,43 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 061743Z DEC 23 MID120000699723U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 292/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N7// 
+INFO CNO WASHINGTON DC//N7// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N7/DEC// 
+ 
+SUBJ/MODIFICATION TO THE CALENDAR YEAR 2025 NAVY LEGISLATIVE FELLOWSHIP CALL 
+FOR APPLICATIONS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N7/061559ZOCT23// 
+ 
+AMPN/REF A IS NAVADMIN 240/23, CALENDAR YEAR 2025 NAVY LEGISLATIVE FELLOWSHIP 
+CALL FOR APPLICATIONS// 
+ 
+RMKS/1.  This NAVADMIN announces a modification to paragraph 3.e. of 
+reference (a) The modification extends the application due date. 
+ 
+2.  Paragraph 3.e. is modified to read:  Military applicants shall submit 
+applications via e-mail to the OLA point of contact no later than 09 February 
+2024. 
+ 
+3.  All other provisions of reference (a), remain in effect. 
+ 
+4.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+5.  Released by Vice Admiral J. W. Hughes, Deputy Chief of Naval Operations 
+for Warfighting Development (N7)// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
