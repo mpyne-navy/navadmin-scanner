@@ -1,0 +1,332 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 201552Z DEC 23 MID600117020599U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 299/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/ACTIVE-DUTY PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, COMMANDER, 
+LIEUTENANT COMMANDER, LIEUTENANT, AND CHIEF WARRANT OFFICER IN THE LINE AND 
+STAFF CORPS// 
+ 
+REF/A/DOC/OPNAV/22APR22// 
+REF/B/MSG/CNO WASHINGTON DC/211859ZDEC17// 
+REF/C/DOC/OPNAV/28FEB12// 
+REF/D/MSG/CNO WASHINGTON DC/041953ZAUG22// 
+REF/E/DOC/SECNAV/24JUL19// 
+REF/F/DOC/COMNAVPERSCOM/23JUL07// 
+ 
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM. 
+REF B IS NAVADMIN 304/17, PHYSICAL READINESS PROGRAM POLICY CHANGES. 
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY.   
+REF D IS NAVADMIN 176/22, POLICY UPDATE CONCERNING SERVICE-IN-GRADE 
+RETIREMENT ELIGIBILITY FOR ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR 
+RESERVE LIEUTENANT COMMANDERS.   
+REF E IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF F IS MILPERSMAN ARTICLE 1070-180, OFFICER PHOTOGRAPHS.// 
+ 
+RMKS/1.  Congratulations to the following officers on their promotions to the 
+ranks indicated in this message.  This NAVADMIN is the authority for 
+effecting permanent officer promotions on the dates indicated.  Columns read 
+name and designator. 
+                      PERMANENT PROMOTION TO CAPTAIN 
+               CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE 
+                  LINE 21 JUNE 2023      STAFF 21 JUNE 2023 
+                        DOR/EFF DATE 01 JANUARY 2024 
+ Aban Kenric Turingan     2100         Adams Shannon P          2100 
+ Antenucci Dominic J      2500         Benoit Albert L III      1110 
+ Carmack William Douglas  1320         Dwan Michael S           1110 
+ Gray Terra Ann           1200         Haesler John Michael     1320 
+ Jensen Damon Ty          2200         Jonas Barbara E          1710 
+ Morgan Jason Ashley      3100         Pickering Thomas Pierce  1320 
+ Uddenberg Cliff J        1310         Uranga Tiffany Ann       2900 
+                    PERMANENT PROMOTION TO COMMANDER 
+              COMMANDER LINE AND STAFF SENATE CONFIRMATION DATE 
+                LINE 21 JUNE 2023      STAFF 30 SEPTEMBER 2023 
+                         DOR/EFF DATE 01 SEPTEMBER 2023 
+ Torres Schadaq           2900 
+                        DOR/EFF DATE 01 JANUARY 2024 
+ Belany Ronald G Jr       1320         Buensuceso Christian L   3100 
+ Bullard Susan Ashley     2100         Cary Daniel Arlington    1440 
+ Chambers Nicholas Alan   1120         Chenarak Nathan Vitaya   5100 
+ Comer Leta Marie         1110         Conner Andrew W          1310 
+ Cruz Chris Albert        2100         Culp Christopher Shawn   3100 
+ Davis Brian Joseph       1120         Davis Christopher Alan   2100 
+ Edmondson Sara Rene      2900         Foley Timothy Stephen    1810 
+ Gilbrech April Ann       2900         Herrmann David W E       1800 
+ Heywood Narda Patreen    2900         Infante Eric John        2300 
+ Jenkins Phillip Alan     2200         Johnsongiammalvo Colin   1310 
+ Keaney Peter J           1310         Kimmel John Raymond      1110 
+ King Megan Lynn          2900         Korduba Adrian B         2100 
+ Leone Andrew M           1310         Mandel Jeffrey K         1310 
+ Martin Douglas Earl      6120         Mattingly Stephen C      1310 
+ Merritt Ezra Imani       2200         Miller Ryan Q            1110 
+ Morris Matthew Michael   1820         Nelson David Thomas      4100 
+ Nicasio Leonardo A       1200         Oglesby Brent Hamilton   1710 
+ Paul Matthew S           1310         Pressley John C Jr       1810 
+ Rinne Keith Lee          1830         Roby Bradley Joseph      1510 
+ Ross Ryan Allen          1310         Seida Joseph V           1320 
+ Smith Rebecca M          1310         Varney David Preston     2300 
+               PERMANENT PROMOTION TO LIEUTENANT COMMANDER 
+   LIEUTENANT COMMANDER LINE AND STAFF SENATE CONFIRMATION DATE 
+        LINE 30 SEPTEMBER 2023      STAFF 30 SEPTEMBER 2023 
+                      DOR/EFF DATE 01 APRIL 2023 
+ Wilson Augustine Reid    2100 
+                      DOR/EFF DATE 01 MAY 2023 
+ Ek Dorsey Royal          2100         Samaha David Andrew      2100 
+                      DOR/EFF DATE 01 JUNE 2023 
+ Sarkar Bansari           2100 
+                      DOR/EFF DATE 01 JULY 2023 
+ Alexander Nathaniel B    2100         Davis Blake Thomas       2100 
+ Lunati Matthew Peter     2100         Nunziato Carl Anthony    2100 
+                      DOR/EFF DATE 01 SEPTEMBER 2023 
+ Ross Katherine Byrne     2100 
+                      DOR/EFF DATE 01 JANUARY 2024 
+ Albers Bradley Allen     6200         Andersen Tatyana Vasily  2900 
+ Azzam Ryan Souheil       2100         Balazs Jason Daniel      2900 
+ Barger Skyler Scott      1200         Barr Andrew T            1830 
+ Bartelt Heather M        1320         Barto Aaron William      2200 
+ Baxter Robert Loren      2500         Bayani Edphillip Z       1310 
+ Birchfield Alec Logan    1310         Blair Alexander G        1140 
+ Briano Claudia           2900         Brown Jeremy Joel        1120 
+ Cenci Joshua David       1110         Cintula Nathan Derek     5100 
+ Crossland Cody Wayne     1310         Daly Colleen E           2500 
+ Daniell Stephen Wayne    1820         Davenport William A      6360 
+ Domingo Steven J         1130         Dunn Daniel Isaac        5100 
+ Dunnavan Beatrice        2900         Falcona Gavin S          1310 
+ Floyd Derrick Randall    3100         Ford Erin Michele        1120 
+ Freeman Charles Tyler    2200         Gaona Michael Nathaniel  2100 
+ Garcia Marcus Adam       3100         Georgiev Ivan Rusev      1110 
+ Gibson Sean C            1110         Giuliano Nicolas G       2100 
+ Gutkowski Michael G      1110         Heraz Angela Lynn        2300 
+ Huggins Jamie Nicole     1810         Iveson Roger O           1310 
+ Jairam Harish Krishna    2100         Johnson David I          1120 
+ Jones Kristoffer Roy     1820         Kaeck Alexander          2300 
+ Kang Siung Woo           2300         Kramer Jarod R           1460 
+ Ladrig Justin Thomas     6480         Lathrop Robert R III     1310 
+ Lyons Shane P            1310         Manuel Tyler S           1830 
+ Martin John T Jr         1110         Martinez Joel T          1870 
+ Mendez Jaimee            2100         Millen Cynthia           3100 
+ Narby Tyler Allen        1110         Nelson Heather Weaver    2900 
+ Nguyen Martin Vinam      1810         Passmore Guy L Jr        4100 
+ Pearson Waylon Carl      2100         Perry Michael F          1110 
+ Pham John                1110         Ratliff David Lee Jr     6200 
+ Riley Wesley J           1120         Sacks Brent A            1820 
+ Schacht Alexander W      1460         Schalk Adam L            1830 
+ Serrano Fabian A         1310         Simons Russell Gregory   1310 
+ Skirvin Brian Anthony    6130         Squires Matthew John     2300 
+ Stoess Samuel W          1310         Terrell Marcus Leon      1110 
+ Thornton Cory Warren     1810         Tracy Lauren H           1110 
+ Traylor Benjamin Paul    1520         Trelka Alexis R          1110 
+ Venegas Cruz             2900         Wagoner Kyle R           1310 
+ Wang Jesse Tange         2100         Wildberger Austen T      1310 
+ Wooden Christopher T     2300 
+                     PERMANENT PROMOTION TO LIEUTENANT 
+                        DOR/EFF DATE 01 OCTOBER 2022 
+ Empey Richard Bryce      2300 
+                       DOR/EFF DATE 01 MARCH 2023 
+ Le Randy Thien           2300 
+                       DOR/EFF DATE 01 APRIL 2023 
+ Enriquez Vanessa Corina  2300         Ibarra Eric              4100 
+                       DOR/EFF DATE 01 JULY 2023 
+ Dougharty Bryant Jenning 4100         Scott Timothy W          4100 
+                       DOR/EFF DATE 01 AUGUST 2023 
+ Barry Thomas John        4100         Chase Ruth Emmy          2300 
+                       DOR/EFF DATE 01 JANUARY 2024 
+ Adjibodou Pamela         2900         Aldridge Demetris D      2900 
+ Anderson Joshua Lowell   3100         Anderson William Q       1170 
+ Asselin Jennifer M       1220         Avery Curel Reon         1310 
+ Babington Conor W        1170         Bacso Andrew C           1110 
+ Baker Patricia Helen     2900         Bancoro Brandon Michael  1310 
+ Barcenas Michael N       1310         Barrett Bryan D Jr       1160 
+ Beal Catherine Moyer     1320         Beck Charles N           1310 
+ Benevides Matthew John   2900         Bergman Benjamin A       2900 
+ Bierl Tess Alexandra     2300         Boland Levi J            2900 
+ Bonowski Gabrielle N     1310         Bott Tyler James         1110 
+ Bradley Seth T           1110         Braford James D          1120 
+ Brancheau Emilee M       1110         Cantrell Stephen E       1310 
+ Carder Zachary A         1390         Cardona Brian            1120 
+ Carner Nicole E          1310         Carney Diana K           1320 
+ Carroll Sean Thomas      1310         Carroz Jodi Laverne      2900 
+ Carter David C           1320         Cesario Nicholas Robert  1210 
+ Cha Brian Kwang Tae      1110         Chambers Jacob W         1310 
+ Chaperon Aubrey Ruth     1110         Clayburne Joseph K       1320 
+ Collinshahn David J      1110         Cordon Joshua James      1210 
+ Courson Tyler J          1110         Craig Scott R            1320 
+ Culey Bridget Veronica   2900         Dam Jason                1110 
+ Danes Genevieve Alese    1110         Darnell James Kenneth    2900 
+ Darwin Collin J          1320         Davidson Blane Andrew    1110 
+ Davison Cooper J         1170         Deanda Ashley Jazmin     2900 
+ Delany William Michael   1830         Delmundo Vinnie Miguel   1110 
+ Delrosario Jordyn M      1110         Dettling Darinka         2300 
+ Doherty Tyler Alan       1110         Dombroski Bryan Andrew   1110 
+ Duane Thomas P           1120         Duffy Kyle R             1190 
+ Eberspeaker Jeffrey A    1310         Eisenhauer James E       1310 
+ Emanuel Zachariah I      1830         English Kaci Gray        2900 
+ English Nathan Andrew    1110         Estevez Dominic A        1110 
+ Eubanks Devin M          1120         Evans Michael Gene       1310 
+ Fallon Shelby Jean       2300         Ferree Evan E            1310 
+ Ferrell Sarah Patrice    2900         Fewell Kathleen L        1310 
+ Field Elena Michele      2900         Flood Brian Caoimhghin   1830 
+ Flood Scott H            1310         Ford Conor Thomas        2900 
+ Foster Bryce B           1110         Foster Devin Michael     1110 
+ Foster Nathaniel Joe     1830         Gamble Kyle J            1110 
+ Gass Chandler J          1310         Giannotti Charles J      1110 
+ Gill Brett Alexander     1820         Gleason Thad Aaron       1220 
+ Gohlke Sean M            1170         Graham Gabrielle N       1820 
+ Greene Timothy Hayden    1110         Griffiths Robert Paul    2900 
+ Guilbe Jonathan T        1120         Hall John Robinson       1310 
+ Han Matthew              1820         Harper William Devonte   3100 
+ Harrison Gunner D        1120         Hennas Mackenzie J       1110 
+ Herget Jackson D         1110         Hernandezramos Amy A     1370 
+ Herzog Trent M           1320         Hitt Joshua E            1310 
+ Horton Carrigan Jean     2300         Howard John P            1310 
+ Howell Logan J           1390         Huntley John M           1130 
+ Jackson Affeya T C       2900         Jentz Lillian F          2900 
+ Jorgensen Peter A        1390         Jurgens Eric Nathaniel   1110 
+ Jury Victor Royal III    1310         Keeler Jeffrey D         1110 
+ Kehoe Cory J             1830         Kellerhals William J     1810 
+ Kessler Christopher D    1830         Khan Zarah Noor          1840 
+ King Edward James        1310         Kingman John Edward      1310 
+ Kloepfer Daniel Vance    1120         Knox Davis Whitfield     1220 
+ Kolden Nolan C           1120         Kraft Alex M             1110 
+ Lamal Nickolas Joesph    2300         Lanigan Jackson J        1110 
+ Lara Hugo Damian G       1110         Larratt Michael A        1320 
+ Lauria Joseph A          1390         Le Michael               1320 
+ Le Victoria              2900         Lihudis Celeste M        1310 
+ Lofton Jessica Lee       2300         Lopez Jesse              3100 
+ Lovley Benjamin Kirby    2900         Lozano Micael Giovanni   1110 
+ Luallen Mitchell W       1110         Mahneke Christian        1170 
+ Malbrough Garrett S      2900         Margelos Stephen A       2900 
+ Marks Jennifer Meryl     1810         Martin Benjamin John     2300 
+ Martin Henry P           1310         Mau Zoey E               1310 
+ Mazzon Jess Anthony      1120         Mcghee Tavonda Renee     2300 
+ Melin Samuel P           1310         Messer Nathan Paul       1110 
+ Milburn Robert H         1160         Millay Heidi Linn        1210 
+ Miller Joshua Cho        1810         Miller Matthew R         1390 
+ Mockridge Devon T        1320         Muether Robert A         1310 
+ Nava Jose A              1110         Nichols Jasmine Alexis   1110 
+ Nix William John         1220         Okoko Elohor Princess    2900 
+ Omalley Stephen P        1310         Oravetz Nicholas M       1310 
+ Ordiales Kevin Gilbert   2900         Ordonez Omar Gomez       1110 
+ Orourke Kerry Michael    1820         Osborne Christopher E    1810 
+ Osmond Nicholas Ryan     1220         Ouellette Rebecca J      1110 
+ Palmer Jill Alyse        2900         Pannell Kenniss N        1310 
+ Parks Brandi Raye        2900         Parrish Austin Reid      1310 
+ Patton Wesley A          1110         Pelissero Jacob          1310 
+ Perez Edgar A            1810         Pfefferkorn Hayden A     1140 
+ Phipps Lauren Christian  2900         Picard Bellona A         1170 
+ Pierce Allison Marie     2900         Platt Shane E            1310 
+ Poole Dillon Scott       1110         Porter Lindsey Jordan    1110 
+ Prescott Luke Davenport  2300         Prosniewski John M       1310 
+ Quimby Mikayla Alexis    2900         Quist Tyler Andrew       1210 
+ Rafferty Deanna Marie    1110         Raffucci Julian A        1110 
+ Raices Christopher D     1810         Ramirez Manuel Alexis    1390 
+ Reese Garrett Anson      1310         Revak Maegan R           1320 
+ Rickenbach Erin Rae      1210         Risk Ashley Lyn          1110 
+ Ritsema Emily Grace      2300         Rivera Gabrielle C       1310 
+ Roan Andrew Coleman      1830         Roe Nathaniel W          1310 
+ Rohrich Thomas P         1170         Rolfe John Taylor        1210 
+ Rozelle Jacob F          1310         Ruh Noah S               1120 
+ Ruiz Nicholas Alexander  1390         Rusiewicz Elizabeth C    2900 
+ Sandoval Theodore A      3100         Santos Joanna M          1110 
+ Sauer Nathan J           1110         Schaffer Jeffrey Merle   1820 
+ Schnier Quinton G        1110         Scott Bailey Marie       1210 
+ Seale Briana Laine       2300         Seckinger Patrick Owen   1110 
+ Shanahan Brendan J       1110         Sheryll Greg B           1310 
+ Siefert Tara Janine      1110         Simon Parker S           1310 
+ Simonte Anthony R        1190         Singleton Dylan M        1310 
+ Siravantha Victoria H    2300         Smith Charles W          1390 
+ Sparks Turner Steven     1320         Stamper Robert G         1120 
+ Stilley Megan Kathleen   1110         Summa James              1310 
+ Sutton Willow K          1110         Szabo Joshua Reid        1110 
+ Tate Kyle Joseph         1310         Taylor Craig K II        3100 
+ Taylor Trae Rayo         1210         Teske Jonathan Clinton   1110 
+ Thies Quintin A          1110         Thomas Brandon S         1110 
+ Thomas Jacob T           1120         Thompson Christopher L   1320 
+ Tiemann Connor J A       1310         Trabue Harry Daniel      1110 
+ Tracy Collin Michael     1810         Traver Dominic Herbert   1110 
+ Ubry Allison L           1310         Vehrs Jacob A            1110 
+ Vele Wyatt L             1110         Vet Matthew G            1820 
+ Vickery Axel M           1120         Vogt Lukas A             1320 
+ Voyles Keith Faulkner    1310         Walker Andrew Alan       3100 
+ Walker Traci Elizabeth   2900         Walsh Timothy Daniel     1110 
+ Washington Tracy Jordin  2900         West Rimar Antony        3100 
+ Williams Kirkley R       1170         Williams Stephon O       1820 
+ Williamson Robert A      2900         Wilson Matias S          1110 
+ Winstead Seth D          1130         Wood Brandon R           1160 
+ Yue Kimverlyn Cerezo     2900 
+             PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-5 
+                        DOR/EFF DATE 01 JANUARY 2024 
+ Carpenter Scott David    7131 
+             PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-4 
+                        DOR/EFF DATE 01 JANUARY 2024 
+ Dresselhaus David Michae 7181         Estrada Daniel C         7311 
+ Evans Maurice Decosio    7411         Ferrette Carl Daniel     7361 
+ Grover Therial Charles   7121         Negrini Vincent Edward   7331 
+ Pereira Adrian Clairmont 7131         Ryall Lawrence Andrew    7181 
+             PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-3 
+No officers promoted in this category. 
+             PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-2 
+                      DOR/EFF DATE 01 OCTOBER 2023 
+  Savage Brent David      7841 
+ 
+2.  If a selected officer does not decline promotion in writing prior to the 
+projected date of rank (noted above in paragraph 1), that officer is 
+considered to have accepted the promotion on the date indicated.  An officer 
+who chooses to decline promotion must submit the declination in writing to 
+COMNAVPERSCOM (PERS-806) within thirty (30) days of the release of this 
+NAVADMIN. 
+ 
+3.  The Commanding Officer (CO), the Secretary of the Navy, or his designee, 
+has the authority to delay projected promotions.  Upon the exercise of a 
+delay, the officer shall be notified in writing before the effective date of 
+the promotion and not be tendered the promoting appointment.  The delay 
+authority will immediately forward the notification of delay with supporting 
+documentation to COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806). 
+ 
+4.  COs are reminded of their responsibility to ensure the officers they are 
+promoting are mentally, physically, morally and professionally qualified in 
+accordance with section 624 of title 10, U.S. Code.  Per reference (a), 
+officers are ineligible for promotion if they have failed the most recent 
+Physical Fitness Assessment. COs shall verify the promoting officers 
+information in the Physical Readiness Information Management System to ensure 
+compliance with reference (a), as modified by reference (b), and delay the 
+officers promotion in accordance with paragraph 3 of this NAVADMIN, if 
+required. 
+ 
+5.  Prepare a Delivery of Permanent Appointment (NAVPERS form 1421/7) (Rev 
+10-13).  Use this NAVADMIN as reference (a).  Use section 624 of title 10, 
+U.S. Code as reference (b), for permanent lieutenants and above.  Use section 
+578 of title 10, U.S. Code as reference (b), for chief warrant 
+officers.  Mail the completed form to COMNAVPERSCOM (PERS-806) or email via 
+MNCC at askmncc.fct@navy.mil. 
+ 
+6.  Officers should review reference (c) and reference (d) for minimum time-
+in-grade (TIG)/service-in-grade(SIG) requirements for purposes of voluntary 
+retirement.  (NOTE:  TIG/SIG requirements for active-duty LCDR voluntary 
+retirements changed with National Defense Authorization Act 2021; Update to 
+reference (c) is pending.) Training and administration of Reserve officers 
+and those officers temporarily on active duty anticipating release from 
+active duty under reference (e) may accept promotion without incurring any 
+additional active-duty obligation. 
+ 
+7.  New photographs are required for all officers within three months after 
+acceptance of promotion.  See reference (f) for specific requirements. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

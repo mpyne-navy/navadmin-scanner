@@ -1,0 +1,107 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 211958Z DEC 23 MID120000760077U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 303/23 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/EXECUTION OF THE SELECTED RESERVE PORTION OF THE MILITARY SERVICE 
+OBLIGATION// 
+ 
+REF/A/DOC/TITLE 10 U.S.C 651// 
+REF/B/DOC/DODI 1304.25/103113// 
+REF/C/DOC/OPNAVINST 1000.26B// 
+REF/D/DOC/BUPERS/29AUG18// 
+REF/E/DOC/DCNO/26JUN20// 
+ 
+NARR/REF A IS TITLE 10 U.S.C. SECTION 651, MEMBERS: REQUIRED SERVICE.   
+REF B IS DOD INSTRUCTION 1304.25, FULFILLING THE MILITARY SERVICE 
+OBLIGATION.   
+REF C IS OPNAVINST 1000.26B, FULFILLING THE MILITARY SERVICE OBLIGATION.   
+REF D IS MILPERSMAN 1100-011, FIRST ENLISTMENTS AND THE MILITARY SERVICE 
+OBLIGATION.   
+REF E IS DCNO SIGNED MEMO SER N1/114087, SELECTED RESERVE MILITARY SERVICE 
+OBLIGATION ADDITION TO FUTURE NAVY ENLISTMENT CONTRACTS AND OFFICER 
+COMMISSIONING DOCUMENTS. 
+ 
+RMKS/1.  This NAVADMIN discusses the Military Service Obligation (MSO) and 
+reiterates Selected Reserve (SELRES) requirements for first term officer and 
+enlisted Sailors transitioning from Active Duty at the completion of their 
+Active Duty service obligation. 
+ 
+2.  Background.  As outlined in references (a) through (d), all Sailors incur 
+an 8 year MSO, and any portion of which that is not completed on Active Duty 
+or Active Duty for training must be completed in the Reserve Component.  As 
+directed in reference (e), all new enlistment and commissioning contracts 
+executed on or after 1 October 2020 for Sailors under a 4 year Active Duty 
+service obligation were written to include a minimum of 4 years Active Duty, 
+followed by up to 2 years of SELRES service, and 2 years of Individual Ready 
+Reserve (IRR) service to reach the required 8 years total. 
+ 
+3.  Policy.  Any Sailor who entered into a Service contract on or after  
+1 October 2020, who is separating from Active Duty with less than 6 years' 
+Time in Service (TIS) is subject to required SELRES service as determined by 
+the needs of the Navy.  The amount of time required in the SELRES is equal to 
+6 years minus the amount of Active Duty service (e.g., Sailors who separate 
+with 4 years and 6 months of Active Duty service may be required to serve 1 
+year and 6 months in the SELRES).  After completion of 6 years TIS, Sailors 
+may then be transitioned to the IRR to serve the remainder of their MSO. 
+Sailors transitioning from Active Duty to the SELRES are granted a 2 year 
+deferment from involuntary mobilization. 
+    a.  For Enlisted Sailors required to transition to SELRES at End of 
+Active Obligated Service (EAOS) or Soft End of Active Obligated Service 
+(SEAOS), SELRES quota requests will be automatically generated in the Career 
+Waypoints (CWAY) System for adjudication by Reserve Community Managers based 
+upon the needs of the Navy.  The quotas will be generated monthly from T-10 
+months to T-4 months to the Sailor's EAOS/SEAOS to determine if SELRES 
+service will be required.  All members with an approved quota will be 
+contacted by the PERS-9 Reserve Processing and Affiliation Center (RPAC) 
+regarding their SELRES affiliation. 
+         (1) Sailors whose rating is not available in the Selected Reserve 
+are not required to affiliate with the SELRES and may transition directly to 
+the IRR.  If a Sailor in this category desires to affiliate with the SELRES, 
+they may request a rating conversion to an available rating. 
+        (2) Sailors with more than 6 years TIS are still encouraged to 
+affiliate with the SELRES via CWAY, but are not required to do so. 
+         (3) Command Career Counselors shall ensure that Sailors influenced 
+by this policy are counseled at the earliest opportunity or during scheduled 
+Career Development Boards on their future service options, potential SELRES 
+obligations, benefits, and entitlements. 
+    b.  For officers, the Commanding Officer or Executive Officer shall 
+counsel the resigning officer on their potential for required SELRES 
+service.  Upon approval of their resignation by PERS-45, all officers will be 
+contacted by the Navy Recruiting Reserve Command (NRRC) Outreach team 
+regarding their SELRES affiliation. 
+ 
+4.  Additional Information. 
+    a.  New MSO construct page: https://www.navy.com/joining/ways-to-
+join/reserve/transitioning-to-reserve. 
+ 
+5.  Points of Contact. 
+    a.  For general career questions, Sailors should contact their Command 
+Career Counselors or MyNavy Career Center (MNCC) at (833) 330-6622 or email 
+at askmncc@navy.mil. 
+    b.  For specific designator/rate/rating questions and concerns regarding 
+SELRES, Sailors should contact the respective Reserve community manager. 
+    c.  For questions related to reserve benefits and affiliation, 
+Sailors should contact the NRRC Outreach Team at nrrc_rpac@navy.mil. 
+    d.  For assistance transitioning to SELRES, Sailors should contact RPAC 
+at cto.enlisted@navy.mil. 
+ 
+6.  This NAVADMIN will remain in effect until superseded or canceled. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
