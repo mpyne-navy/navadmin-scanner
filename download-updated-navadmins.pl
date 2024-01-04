@@ -177,6 +177,11 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
     my $metadata = read_navadmin_metadata();
     mkdir ("NAVADMIN") unless -e "NAVADMIN";
 
+    if (!@navadmin_urls) {
+        say "No NAVADMINs yet this year...";
+        return;
+    }
+
     say "Downloading and updating ", scalar @navadmin_urls, " NAVADMIN messages";
 
     return Mojo::Promise->map({concurrency => 6 }, sub {
