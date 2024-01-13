@@ -1,0 +1,46 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 121555Z JAN 24 MID120000803169U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 005/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN// 
+ 
+SUBJ/FISCAL YEAR 2023 OCEANOGRAPHER OF THE NAVY AWARD RECIPIENTS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N2N6/311913Z JUL 23// 
+ 
+AMPN/REF A IS NAVADMIN 172/23, FISCAL YEAR 2023 OCEANOGRAPHER OF THE NAVY 
+AWARD 
+NOMINATIONS// 
+POC/ELIZABETH ROONEY/LT/OPNAV N2N6E/TEL: (703)614-1847 
+/EMAIL:  ELIZABETH.C.ROONEY2.MIL(AT)US.NAVY.MIL// 
+POC/J. P. GARSTKA/CAPT/OPNAV N2N6E/TEL:  (703)614-1864 
+/EMAIL:  JOHN.P.GARSTKA.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  As announced in reference (a), the 2023 Naval Oceanography Awards 
+program recognizes Naval Oceanography professionals for expertise, 
+accomplishments, and leadership in the application of meteorology, 
+oceanography, hydrography, and precise time and astrometry.  The 
+Oceanographer of the Navy takes pride in announcing the 2023 Naval 
+Oceanography Awards selectees. 
+     a.  The 2023 Captain Richard C. Steere Award selectee is: 
+LT Petrus J. Boets, USN 
+     b.  The 2023 Commander Mary Sears Award selectee is: 
+LCDR Miguel A. Green, USN 
+     c.  The 2023 Chief Aerographer's Mate John Dungan Jr. Award selectee is: 
+AGC(IW/EXW/AW/SW) Daniel G. Wiggin, USN 
+     d.  The 2023 Matthew Henson Award selectee is:  Mr. Larry Johnson 
+ 
+2.  Released by Ms. Jennifer Edgin, Assistant Deputy Chief of Naval 
+Operations for Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
