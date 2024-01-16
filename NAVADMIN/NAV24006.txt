@@ -1,0 +1,141 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 161723Z JAN 24 MID600117096753U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 006/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN// 
+ 
+SUBJ/POLICY FOR THE ASSIGNMENT OF PREGNANT SAILORS AND SAILORS WHO 
+EXPERIENCE PERINATAL LOSS// 
+ 
+REF/A/DOC/COMNAVPERSCOM/24AUG18// 
+REF/B/DOC/COMNAVPERSCOM/15NOV18// 
+REF/C/DOC/OPNAV/12MAR18// 
+REF/D/DOC/ALNAV/27FEB23// 
+REF/E/MSG/CNO WASHINGTON DC/N1/282114ZFEB23// 
+REF/F/DOC/OPNAVINST/23JUN22// 
+REF/G/DOC/DOD/25AUG23// 
+ 
+NARR/REF A IS MILPERSMAN 1300-1306, ACTIVE DUTY PREGNANCY POLICY AND 
+PLACEMENT.   
+REF B IS MILPERSMAN 1306-1704, AVAILABILITY PROCESSING - DATA ITEM 
+DESCRIPTIONS AND REMARKS FOR REPORT SUMISSIONS.   
+REF C IS OPNAVINST 1300.21, ENLISTED MANNING POLICY AND PROCEDURES.   
+REF D IS OPNAVINST 6000.1D, NAVY GUIDELINES CONCERNING PREGNANCY AND 
+PARENTHOOD.   
+REF E IS ALNAV 017/23, PREGNANCY NOTIFICATION POLICY. 
+REF F IS NAVADMIN 058/23, NAVY SUPPLEMENTAL GUIDANCE TO COMMAND NOTIFICATION 
+OF PREGNANCY POLICY, ADMINISTRATIVE ABSENCE AND TRAVEL FOR NON-COVERED 
+REPRODUCTIVE HEALTH CARE.   
+REF G IS DEPARTMENT OF DEFENSE INSTRUCTION 1327.06, LEAVE AND LIBERTY POLICY 
+AND PROCEDURES. 
+ 
+RMKS/1.  This NAVADMIN changes policy and procedures for the assignment of 
+pregnant Service Members in accordance with references (a), (b), and 
+(c).  Pregnancy is a natural event that can occur in the lives of 
+Sailors.  Pregnant Sailors are fully participating members of our Navy team 
+and deserve every opportunity to continue their careers and advancement 
+progression while serving our country. 
+ 
+2.  Effective immediately, upon official command notification of pregnancy 
+consistent with references (d) and (e), and submission of reassignment 
+availability, pregnant Sailors will be re-assigned to fill a valid manpower 
+requirement.  Operational deferment (shore duty) orders will be written for a 
+minimum of 24-months with a detach date approximately 30-days from receipt of 
+the availability report.  Once shore orders are executed, Sailors will be 
+expected to complete their shore tour regardless of pregnancy status. 
+    a.  Operational units.  Pregnant Sailors serving in a sea duty billet 
+will receive operational deferment orders and be transferred to a shore duty 
+billet to fill a valid manpower requirement, wherever possible. 
+        (1)  Upon official notification of a Sailor's pregnancy status, 
+consistent with guidance in references (d) and (e), sea duty activities are 
+required to submit a reassignment due to pregnancy and post-partum 
+availability report via Navy Standard Integrated Personnel System (NSIPS) for 
+enlisted and via the community detailer for officers to include the following 
+information: 
+            (a)  20th week of pregnancy date 
+            (b)  Estimated date of delivery 
+            (c)  Any factor(s) or limitation(s) that should be considered in 
+the assignment process. 
+        (2)  Pregnant Sailors may request a waiver to remain onboard 
+operational commands for the duration of the pregnancy and post- partum 
+period to include any convalescent and parental leave.  This 
+operational deferment waiver must include endorsements from the 
+Service Member, the commanding officer or officer in charge, and the 
+health care provider.  The waiver request will be submitted via 
+salesforce for enlisted and to the community detailer for officers. 
+Individual detailers will have final approval. 
+        (3)  Sailors on their operational deferment (shore tour) 
+will be issued a PRD that is 12-months post-delivery per reference 
+(a).  Sailors will rotate at their PRD and they are directed to 
+begin orders negotiation 12-months prior to their PRD via the normal 
+MNA process for enlisted and through the detailer for officers. 
+Upon selection for a sea duty assignment, Sailors will be issued 
+orders to sea duty for a full sea tour.  Sea duty served immediately 
+prior to the operational deferment is not credited to the new full 
+sea tour. 
+    b.  Shore units.  Pregnant Sailors assigned to shore duty that 
+are within 13-months of their Projected Rotation Date (PRD) may 
+extend onboard their current command or move to another command 
+within the geographic location to fill a valid manpower requirement. 
+If there is not a suitable, valid manpower requirement meeting 
+pregnant Sailors' needs, NPC will work to send Sailors to a command 
+in a non-refillable excess position where continued community and/or 
+rating development and mentorship is available. 
+    c.  Pregnant Sailors assigned in excess may be transferred to 
+another command within the same geographic region, if a valid 
+manpower requirement is identified which allows the Sailor a career 
+enhancing opportunity. 
+    d.  Sailors may request to cancel their post-partum operational 
+deferment in order to return to an operational command (TAC C or D 
+(officers) or type duty 2 or 4 (enlisted)).  Requests must be 
+initiated by the Service Member, in line with reference (f), using 
+Officer Personnel Action Request (NAVPERS 1301/85) or Enlisted 
+Personnel Action Request (NAVPERS 1306/7). 
+    e.  For assistance or further information, please contact your 
+detailer. 
+ 
+4.  Perinatal Loss. 
+    a.  Perinatal Loss (miscarriage or stillbirth):  If a Sailor has 
+not executed their shore orders and has experienced a perinatal 
+loss, sea duty activities are required to submit a termination of 
+pregnancy tour requirement (DY) availability report via the 
+community detailer for officers and via NSIPS for enlisted.  Upon 
+receipt of the DY availability report, orders will be cancelled and 
+the Sailor will remain onboard the current activity through their 
+normal PRD. 
+    b.  Convalescent Leave following Perinatal Loss.  Perinatal loss 
+presents significant risk to Sailor readiness if returning to duty 
+before fully recovered.  Sailors who experience perinatal loss may 
+be granted convalescent leave with guidance from their health care 
+provider in line with medical practice standards and consistent with 
+reference (g).  Significant consideration should be given to the 
+overarching emotional impact of loss when determining amount of 
+convalescent leave granted.  Convalescent leave is intended to 
+provide time for appropriate recovery from a medical condition. 
+ 
+5.  Fleet activities seeking an exemption to receive pregnant 
+Sailors onboard for mission or industrial hygiene reasons should 
+submit requests providing justification via endorsement by their 
+Immediate Superior in Command, Type Commander or Budget Submitting 
+Office, and Fleet readiness integrator to Career Management Pillar 
+(PERS-4) for review and final disposition. 
+ 
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
