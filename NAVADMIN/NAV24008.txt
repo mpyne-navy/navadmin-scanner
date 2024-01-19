@@ -1,0 +1,75 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 011558Z JAN 24 MID120000815597U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC//DNS//
+BT
+UNCLAS
+ 
+NAVADMIN 08/24
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+MSGID/GENADMIN/CNO WASHINGTON DC//
+
+SUBJ//SUBMITTING MANDATORY COMMAND OPERATIONS REPORT (COR) FOR CY 2023
+
+REF/A/DOC/OPNAVINST 5750.12L/26MAR2021//
+
+AMPN/REF (A) IS CNO INSTRUCTION ON ANNUAL COMMAND OPERATIONS REPORTS//
+
+RMKS/1.  Per reference (a), all Echelon II and below commands (afloat and 
+ashore, including all task forces, groups, and units) shall submit an annual 
+Command Operations Report (COR) or ensure a COR is submitted on their behalf.
+
+2. Each Echelon II and below command with a Unit Identification Code (UIC) is 
+required to submit its own report unless the command has fewer than 50 
+personnel (to include military, civilian, and contractors). If a command has 
+fewer than 50 personnel, the command can either submit its own COR or the 
+Immediate Superior in Command (ISIC) can submit on behalf of the command.
+
+3. ISICs are expected to ensure their subordinate commands are in compliance 
+with the submission requirements.
+
+4. The COR must be classified at the level necessary to completely describe 
+the respective command operations and actions over the last year.
+
+5. CORs for Echelons 4-6 commands are due 1 March 2024, CORs for Echelon 3 
+commands are due 15 March 2024; and CORs for Echelon 2 commands are due
+1 April 2024.
+
+6. All previous year CORs not submitted to date shall be submitted regardless 
+of their delinquent status.
+
+7. CORs classified no higher than the secret level should be sent to 
+nhhc_cor(at)navy.smil.mil.  Reports classified higher than secret are also 
+accepted and welcomed.
+
+8. Reference (a), a template with guidance, and FAQs are available on the 
+Naval History and Heritage Command COR website:
+history.navy.mil/about-us/instructions-and-forms/submit-a-command-operations-
+report.html.  If questions about COR preparation and submission are not 
+answered on the NHHC COR websites, please direct to nhhc-had-
+cor(at)us.navy.mil.
+
+9. CORs should be submitted electronically to NHHC. Unclassified CORs should 
+be submitted to nhhc-had-cor(at)us.navy.mil. CORs classified up to and 
+including secret should be submitted to nhhc_cor(at)navy.smil.mil. For 
+instructions on how to submit CORs classified above secret, contact listed 
+email.
+
+10. All supporting reports and published documents should be included in the 
+primary COR document. All photos included should also be sent as separate 
+JPEG files to ensure the digital preservation of those images.
+
+11.  Point of contact:  The COR program may be contacted at the following 
+email addresses: nhhc-had-cor(at)us.navy.mil or nhhc_cor(at)navy.smil.mil.
+
+12. Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
