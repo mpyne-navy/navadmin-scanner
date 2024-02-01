@@ -1,0 +1,130 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 011532Z FEB 24 MID600117162018U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 017/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE IV - DC AND ABE 
+EXCLUSIVE// 
+ 
+REF/A//DOC/BUPERS/07FEB22// 
+REF/B/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/C/MSG/CNO WASHINGTON DC/011634ZJUN22// 
+REF/D/MSG/CNO WASHINGTON DC/062115ZOCT22// 
+REF/E/MSG/CNO WASHINGTON DC/101743ZMAY23// 
+ 
+NARR/REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF B IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP). 
+REF C IS NAVADMIN 127/22, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE I 
+UPDATE.   
+REF D IS NAVADMIN 228/22, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE II.   
+REF E IS NAVADMIN 109/23, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE III. 
+ 
+RMKS/1.  This NAVADMIN announces Detailing Marketplace Assignment Policy 
+(DMAP) Phase IV and applies exclusively to Damage Controlman (DC) and 
+Aviation Boatswain's Mate - Launching and Recovery Equipment (ABE) Sailors in 
+the Active Component (AC).  As a modification to references (a) through (e), 
+all advancements to E-5 and E-6 for DC and ABE Sailors in the AC will be 
+conducted via Advance to Position (A2P) and Command Advance to Position 
+(CA2P) beginning 1 June 2024. 
+ 
+2.  The requirements and process of DMAP outlined in references (a) through 
+(e) remain in place.  First sea tours for DC and ABE Sailors in the AC remain 
+in a four plus three construct.  Detailing Marketplace Incentive Pay (DMIP) 
+remains only for Sailors that re-tour at sea via the four plus three 
+construct. 
+ 
+3.  DMAP Phase IV makes the following policy changes for DC and ABE Sailors 
+in the AC: 
+    a.  Beginning with the March 2024 exam, the Navy-wide Advancement Exam 
+(NWAE) for advancement to E-5 and E-6 will transition to a Rating Knowledge 
+Exam (RKE).  The RKE will be completely consistent with the NWAE as to type 
+and scope of questions and will be conducted using the same processes and 
+timeline as the NWAE.  However, Sailors are only required to pass the RKE 
+once per paygrade and all Time-in-Rate (TIR) requirements to take the exam 
+are removed at the E-4 and E-5 paygrades. 
+Successfully passing the RKE is a requirement for Sailors to compete for 
+assignment to billets in the next higher paygrade via A2P and 
+CA2P.  Education Service Officers must create Enlisted Advancement Worksheets 
+and submit exam orders for these Sailors.  To support Cycle 263 exam ordering 
+timelines, exams for these Sailors have been added to Cycle 263 mass/initial 
+TIR orders and must be retained until completion of the Spring exam cycle. 
+Note:  DC and ABE Sailors advanced to E-4 and E-5 in Cycle 260 are now 
+eligible for the Cycle 263 RKE. 
+    b.  Although not required to do so, Sailors who pass the RKE may 
+voluntarily take future RKEs in an effort to improve their marketplace score 
+as measured by the Sailor Scoring Criteria (SSC) in order to become more 
+competitive in the marketplace through a higher exam score. 
+    c.  Once they pass the RKE, Sailors may advance to E-5 and E-6 by one of 
+two processes: 
+       (1)  A2P: Sailors compete in the MyNavy Assignment (MNA) marketplace 
+for a billet at the next higher rank on the normal timeline relative to their 
+Projected Rotation Date (PRD) as specified in their Permanent Change of 
+Station (PCS) orders or as adjusted by higher authority or approved personnel 
+action request. 
+Multiple Sailors competing for the same billet will be adjudicated by 
+Enlisted Distribution Division (PERS-40) via comparison of transparent SSC 
+and relevant platform experience.  Once matched to a billet at the next 
+higher rank, the Sailor must obligate service to complete the full tour at 
+the new rank in the new billet via extension or reenlistment, as necessary, 
+and may be frocked 30 days prior to transfer.  Sailors will be advanced by 
+the gaining command upon arrival in the new billet and after completion of 
+any required training. 
+       (2)  CA2P:  A Commanding Officer (CO) selects a Sailor in their 
+command who has completed at least half of their tour (24 months as an E-4, 
+18 months as an E-5) to advance into a vacant or projected-to-be vacant 
+billet as validated by PERS-40 via a Manning Realignment Request 
+(MRR).  Additionally, with DMAP Phase IV, Immediate Superiors In Command 
+(ISIC) and Type Commanders (TYCOM) can also conduct CA2P from one assigned 
+unit to another upon nomination by a Sailor's CO.  This new ISIC/TYCOM 
+process will also require completion of at least half the tour prior to 
+transfer and a vacant or projected-to-be vacant billet as validated by PERS-
+40. 
+Additionally, it cannot result in a funded PCS move.  An approved CA2P Sailor 
+must obligate service to complete a full tour at the new rank beyond the PRD 
+at the old rank via extension or reenlistment, as necessary, and may be 
+frocked upon PERS-40 approval of the MRR. 
+The Sailor will be advanced by the gaining command upon arrival in the new 
+billet and after completion of any required training. 
+    d.  E-4 and E-5 Sailors who have passed the RKE and will meet all of the 
+following criteria by the time they desire to enter the marketplace may 
+request early entry into the marketplace from PERS-40 via Electronic 
+Personnel Action Request (NAVPERS 1306/7): 
+       (1) More than 1 year at their current command 
+       (2) More than 3 years at their current rank 
+       (3) More than 1 year until their PRD 
+    e.  Advancement via the Meritorious Advancement Program is no longer 
+authorized for advancements to E-5 and E-6 for DC and ABE Sailors in the AC. 
+ 
+4.  This policy commences with the March 2024 (Cycle 263) examination cycle 
+and the first Marketplace will open for these Sailors with the June MNA 
+cycle. 
+ 
+5.  Points of Contact 
+    a.  For specific rate/rating/Navy enlisted classification questions and 
+concerns, Sailors should contact their respective community manager or 
+detailer. 
+    b.  For general career information, including questions about DMAP, 
+contact MyNavy Career Center contact center at 833-330-MNCC (6622) or 
+askmncc@navy.mil. 
+ 
+6.  This message will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
