@@ -1,0 +1,387 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 081545Z FEB 24 MID120000882536U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 023/24
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-25 ACTIVE-DUTY NAVY LIMITED DUTY OFFICER AND CHIEF WARRANT OFFICER IN 
+SERVICE PROCUREMENT SELECTION BOARD RESULTS//
+
+REF/A/DOC/MANMED/20FEB19//
+
+AMPN/REF A IS NAVMED P 117, MANUAL OF MEDICAL DEPARTMENT.//
+
+RMKS/1.  Congratulations to selectees of the Fiscal Year (FY) 2025 Active-
+Duty Navy Limited Duty Officer (LDO) and Chief Warrant Officer (CWO) In 
+Service Procurement Board.
+
+2.  For LDO and CWO selectees, read name, commissioning month/year.
+All appointments are effective on the first day of the commissioning month.  
+Members are directed to verify their select status via BUPERS Online.
+                     LIMITED DUTY OFFICER ENSIGN
+                         DECK SURFACE - 6110
+Bennett Jeremiah Gregory  0525     Brefo George Owusu        1024
+Dalton Elias Chase David  0225     Daniels Raphei Anwar      0825
+Grafton Curtis Alan       1124     Hussein Mohamed Mohamud   0925
+Huweart Jasmine           0325     Matthews Faeline Voncile  0825
+Meadows Jacob Paul        0925
+                     OPERATIONS SURFACE - 6120
+Ables Jeremy Edward       1024     Daniels Matthew Laurence  0325
+Evans Chad Allen          0825     Jorge Henry Manuel        0925
+Mercedes Luis Roberto Jr. 0525     Porri Gabriella Freitas   0925
+Roethle Lucas John        0325     Shepherd Brandon Desean   0225
+Smith Jacob Sean          1124     Thompson Cornelius B      1224
+Vega Kristian Tioong      0825     Zamora Lulu Delilah       0425
+                  ENGINEERING/REPAIR SURFACE - 6130
+Bliss Spencer Charles     0525     Bourdain Desmond          0325
+Catizone Trevor Michael   0325     Colson Johnkirby N        0425
+Corpuz Virgilaustin P     0825     Decker Lloyd Vincent V    0925
+Garcia Gharnel Clemente   0925     Hart Cody Lee             0925
+Hofmann Christopher Jacob 0425     Holland Chase Parker      0825
+Kryukovskaya Alena S      0225     Lash Dylan Curtis         0525
+Lewis Aaron Martez        0825     Linton Corey Phillip      0525
+Madera Raymond Faminiano  0925     McDew Shawn Edward II     0525
+Moriarty Mitchell Lee     0525     Robinson Dominique Lloyd  0525
+Ruple Michelle Muico      0825     Siewert Melissa Lee       1124
+Silvestre Aldrian P       0925     Singh Raequan  Taj        0925
+Smith Logan Andrew        0825     Suarez Yoel Roberto       1024
+Swen Garfield Siejipoe    0825     Tan Sheldon Maurice       0825
+Trevillian Joshua Kyle    0425     Vargas Alexander          1224
+Whitehead Nicholas Joseph 1124     Zaza Hozan Ibrahim        0225
+                   ELECTRONICS SURFACE - 6180
+Boyd Travis Lemar         0325     Byers Dillon James        1024
+Campfield Zachery James   0525     Cline Sandra Abilene      0225
+Coatney Joshua Brett      1124     Doeden Michael David      0825
+Flaherty Michael Jason    0925     Franciose Kurtis Richard  1024
+Gatlin Joseph Duane       0325     Hancox Connor Devon       0925
+Jeffries Samuel Owen      1224     Kim Lewis Y               1024
+King Rayjohn Lamar        0425     Lewis William Thomas      0925
+Lockett Emerson Jahmaahl  1024     Mascardo Richardallan N   0425
+Maynard Nathaniel James   0925     Mills Kirk Jr.            0525
+Mussa Rami Alan           0825     Neiner Matthew Scott K    0825
+Osterhout Hunter Jacob    0325     Puni Caleb Ualesi         0225
+Ramirez Jose Antonio      0925     Ramos Israel              1224
+Ray Oscar Saul            0925     Rosal Benedict Cruz       0825
+Severns Shay Blake        1124     Slabinski Seumas Keith    0225
+Somera Bryan Jun Amoyo    0825     Stitt Jacob Casey         0425
+Thongpet Varinda Michelle 1224     Vigil Lorenzo Bearheart   0825
+Warren Ethan Monroe       1124     Webb Jonathan R           0525
+Welsh Tyler Storm         0525     Wold David Charles Jr.    0825
+                ENGINEERING/REPAIR SUBMARINE - 6230
+Bitten Rian Thomas        1024     Buchanan Russell N Jr     0525
+Fernandez Jesus Eduardo   0825     McCurley Connor Frankl    0925
+Proveaux Ryan Anthony     0225
+                    ORDNANCE SUBMARINE - 6260
+Bosch Tyler Jacob         0425     Casey Jennifer Lynn       0825
+Cureton Trevor Lee        0825     Gordon Marvin Dale Jr.    1124
+Martinez Alexander Julius 0325     Murphy Christopher Kai    0525
+Smith Brian Thompson Jr.  0925     Whitehead Justin Scott    0225
+                   ELECTRONICS SUBMARINE - 6280
+Hand Reese Chapin         0225     Lamb Iain Michael         0525
+Murphy Sean Michael       0925     Smigel Michael David Jr.  1024
+Smith Jermaine L          1124
+                 COMMUNICATIONS SUBMARINE - 6290
+Docter Shane Michael      1024     Garleb Alec William       0925
+Nelson Eric Christopher   0825     Nelson Ian David          0925
+                       AVIATION DECK - 6310
+Bonsu Emmanuel Osei       0825     Compton Mason Tyler       1024
+Constantinoperez Denver O 0925     Flores Alejandro          0925
+Lehew Scott Jeffery       0825     Morrissey Michael Milo    0225
+                   AVIATION MAINTENANCE - 6330
+Anderson Etoryia Lanae    1124     Bilderback Birkett P      0925
+Campbell Luka Nesta       1224     Daniel Gregory Lee        1024
+Davis Thomas Ryan         0325     Diazzavala Roberto        0925
+Dillon Remie Ivan         0825     Holley John William Jr.   0225
+Imm Ryan Charles          1124     Kelso Kelly Wayne         0525
+Lopez Louis Sergio        0825     Marken Frans Milton       0925
+Martinez Juan Luis        0425     Maxwell Jodikay Angellee  0425
+McCaskill Alesha Bushe    0825     Olasunkanmi Moses O       0325
+Pickett Jason Adam        0825     Randall Collin Matthew    0225
+Roberts Zachariah Joseph  0225     Rodriguez Johnny A        0925
+Rutsch Matthew Henry      0525     Schaefer Addie Cordelia   0525
+Siochi Jamesmartin H      0825     Truitt Kali Williams      1224
+Williams Terry Rhys       0525     Wollaston Hunter C        0925
+                   AVIATION ORDNANCE - 6360
+Brown Jeremy Alexander    0425     Denison Kasey A           0925
+Gravely Jesse Dennis      0525     Jackson Joshua Timothy    0825
+Lindhout Josef Scott      0225     Mendezmartinez Alexa      0525
+Meza Carmenta Del         1224     Portillo Joshua Kane      0325
+Pridmore Eric Lee         0825     Regino Augustin           1024
+Robinson Merrissa Rhianne 0925     Smith Sydney Olivia       0925
+Sutton Saudia Monique     0825     Wright Malik James        0925
+Zyskowski Anita Lisa      0225
+                    AIR TRAFFIC CONTROL - 6390
+Decanio Nicholas Patrick  1024     Galinski Daniel Francis   0525
+Ledbetter Brent Scott     0825     McCague Tyler James       0225
+Reese Shelley Lynn        0925
+                     ADMINISTRATION - 6410
+Ablian Ralph Fajardo      0425     Arias Vanha Lonje         0425
+Boateng Sefah             0925     Burnett Joshua Lamont     0925
+Cabe Travis Michael       1224     Carbajalmendiola Joanna   0525
+Dorsey Synthia Alexis     1024     Fleming Ingry Lissette    0225
+Hagans Sache Micheala     1124     Hill Joshua Isaac         0825
+Lathrop Michael Lawrence  0825     Lewis Cody Edward         0525
+Macaraeg Maria Fe Theresa 1124     Marshall Tatayna Renea    0325
+Moffett Enoch Albert V    0925     Morton Daniel Christian   0825
+Nance Kenneth Ray Jr.     0925     Pope Gary Lamar III       0325
+Ruiz Victoria Angel       1024     Sanchez Julianalbert R    0825
+Sutherland Cody James     0225     Whitis Jacob Price        1224
+                       BANDMASTER - 6430
+Britt Brandon J           1024     Schulte Carl Joseph       0325
+               EXPLOSIVE ORDNANCE DISPOSAL - 6480
+Ahlquist Travis Edward    0825     Browne Vincent Alan       1224
+Fraser Adam Michael       0525     Vizenor Andrew Joseph     1224
+                        SECURITY - 6490
+Aguilar Jose Isaac        0325     Armijo Pasqual Alfredo IV 1024
+Benoit Justin Aaron       1124     Bruton Kyle Austin        0525
+Castro Ryan Michael       0825     Catoni Charlotte Michelle 0825
+Corniel Luis Daniel       0325     Cowan Joseph Michael      0225
+England Trenton Lee       0825     Erwin Tyler Edward        0825
+Francios Kimberly Yanick  0525     Gardunopough Dangelo Aug  1224
+Hamilton Kathleen Teresa  0925     Lowery Adonis M           1124
+Ng Jacky S                0925     Nievesfigueroa Carlos G   0925
+Parlan Morgan Marie       0925     Roberts Cody Everette     0925
+Solla Victor Manuel       0425     Spurlin Jeffrey M         0525
+                       SUPPLY CORPS - 6510
+Boakye Peter              0325     Brown Jammaal Isaiah      0325
+Cox Shache Andre          1024     Mitchell Kirk Anthony     1224
+Nyinaku Theophilus        1024     Sharpe Ebony Ann          0925
+                   CIVIL ENGINEER CORPS - 6530
+Adams Ryan Michael        0925     Harris Antonio C          0325
+Holland Kayla Irene       0825     Stachurski Jesse James    1224
+                     CHIEF WARRANT OFFICER (W-3)
+               SPECIAL WARFARE TECHNICIAN - 7151 (A)
+Rutledge Sean M           0225
+              SPECIAL WARFARE TECHNICIAN - 7151 (B)
+Peters Keystone Elliot    0625
+                  FOOD SERVICE WARRANT - 7521
+Haynes Keevan Allister    1024
+             INTELLIGENCE TECHNICIAN - 7831 (C-OPINTEL CCA)
+Burris Derik MD           1024
+                     CHIEF WARRANT OFFICER (W-2)
+                      BOATSWAIN SURFACE - 7111
+Brown Marqus David        0325     Cleary Michael R          1124
+Coates Kevin L            0625     Cox Joseph Anthony        0625
+Esparza Said Gabriel      1024     Liberty David James       0225
+Midland Kenneth Gordon II 0625     Pennywell Nathaniel M     0225
+Potter Brian Edward Jr.   1224     Tunal Christopher Daniel  0325
+              OPERATIONS TECHNICIAN SURFACE - 7121
+Adams Julius Lamonte      1024     Bailey Damian K           0225
+Brown Justin Leroy        0325     Burns Dominique Michelle  0225
+Case Jason Allen          0625     Dobbin Carols Antonio II  0425
+Gooden Bobby Lentiar      1124     Johnson Christopher M     0525
+Lara Daniel               0625     Moore Michael Anthony     1124
+Stockslager David J       0425     Tinoco Michael Anthony    0625
+              ENGINEERING TECHNICIAN SURFACE - 7131
+Butts Varron Antione      0225     Carpenter Roseanne S      1124
+Doyle William Carl Jr.    0325     French Jason E            0225
+Gallagher Terrance C      0225     Gee John Henry Jr.        1224
+Hardemon Travis Santel    1024     Isidore Jean DanielC      1224
+Jenkins Kenneth Alan      1224     Le Jeffrey Khoa           1124
+Lemke Brandon Todd        1124     Li Yuan Yue               0525
+Miller Michael Adam       0525     Morton Blake Andrew       0325
+Neberman Kevin C          0425     Ramirez Justin Michael    0425
+Reyescruz Jose Luis       0625     Robles Jose Mario         0425
+Russo Calvin J            0425     Squires Damien Oswyn      1024
+Talkington Vickie T       0625     Wilson Anwar Kieron       0625
+Zhao Si                   0225
+               SPECIAL WARFARE TECHNICIAN - 7151 (A)
+Badalamenti Ronald Jr.    1224     Bunek John Anthony        1224
+Dambrosio Daniel V Jr.    0425     Eldridge Phillip W III    1024
+Golden John Henry         0625     Gottlick William Ross     1024
+Khan Kevin Von            0625     Natale Shawn Michael      1224
+Nice Brandon Blake        0425     Prestie William J         0325
+Schleis Spencer John      0325
+               SPECIAL WARFARE TECHNICIAN - 7151 (B)
+Scardilli Daniel Steven   0625
+           SPECIAL WARFARE COMBATANT CRAFT CREWMAN - 7171
+Clark Shaun Thomas        1024     Vlk Jeffrey Paul          1124
+               ELECTRONICS TECHNICIAN SURFACE - 7181
+Ames Marcus Darnel        1124     Asbell Samuel Harrison    1224
+Brice Thomas Charles Jr.  0425     Buit Brett Allan          0625
+Clark Justin Matthew      0525     Cosens Benjamin Howard    0425
+Detrolio Michael W Jr.    1124     Findlay Kamon Ronique     0425
+Fitts Jason Alan          1024     Garza Joshua Scott        0625
+Grant Carlos Leon         0325     Heidtman Robert Perry     0325
+Henry Davis Patrick       1224     Jeffers Anjoe S           0325
+Konopa James Michael      1024     Madiedo Alina             0525
+Orr Kyle Duane            0625     Welch William J           0225
+                      DIVING OFFICER - 7201
+Blankshine Nicholas B    1024      Coughlin Kyle Michael     0425
+Laitila Joshua George    0325      Sanders Marc David        0625
+Schroeter Chet Taylor    1124      Stephenson Eric John      0425
+              ORDNANCE TECHNICIAN SUBMARINE - 7261
+Mercier Kyle Douglas      0625     Schweibold M Clayton      1024
+                  ACOUSTIC TECHNICIAN - 7281
+Brown Jeffrey Dale        1224     Brown Nicholas Lee        0425
+Cross Jeffrey Michael Jr. 0625     Green Nicky Daniel        0625
+Imfeld William Joe        1224     Messrah Robert Philip     0625
+Stemmley Tiffany Michele  1024     Towne Bailey Alan         1124
+                  AVIATION BOATSWAIN - 7311
+Calilung Rolando L        1224     Dunkley Jerome Storbin    0325
+Gaxiola Jonathan          0425     McNeese Joshua Lee        0425
+Ogletree Jason Carl       1224     Smiley Bobby Paul         0325
+              AVIATION OPERATIONS TECHNICIAN - 7321
+Bates Carl Warren         1124     Bolduc Michael Donovan    0225
+Carpenito Ian Michael     1224     Cook Ronald William Jr.   0225
+Cooper Jonathan Robert    1124     Garcia Michael Anthony    0225
+Granger Christopher E     0325     Green Matthew Harold      0625
+Nettles Nicholas Diante   0325     Pillars Robert Paul Jr.   1024
+Scoggin Kanan Ry          0625     Scotten Kristopher Neil   0625
+Solis Ruben Carlos        0425
+                AVIATION MAINTENANCE TECHNICIAN - 7331
+Addy Carl Kwabena         0625     Angeles Johnerickson Z    0225
+Barker Dustin Aaron       1124     Breaux Randall Louis      0225
+Brooks Michael Edward     1024     Castillo Jason Allan      1124
+Chua Carlito Paclarin     0425     Clark Joshua Gerald       1224
+Culler David Joshua       0325     Dejesussilva Aldo Javier  0525
+Glover Delvon Lemar       0625     Hays Gerrod A             1024
+Hummer Carolyn Claire     0225     Ituriaga Hernane T III    0525
+Lewis Andre Jamie         1224     Luczak Paul Anthony       0225
+Lytle Joshua Awet         1224     McCracken Tyler Joe       0425
+Miller Matthew Lee        0325     Navarro Ramon Lopez Jr.   0525
+Nigri Brandon Richard     1224     Rabon Chad David          0625
+Rhodes Matthew Sean       0625     Rumph Kyle Robert         1124
+Soares Hitalo Donizzeti   0325     West Jacob Jeffrey        0425
+                AVIATION ORDNANCE TECHNICIAN - 7361
+Beemer Nicholas Alexander 1224     Brown Shanta Tyneka       1124
+Caceres Juan Manuel       0325     Ceaser Fiero Lashun       1024
+French Cynthia Diane      1024     Harris Carlos Antonio     0325
+Hunt Bryan James          0325     Justice Kerin Kerrel      0625
+Pettit Everett William    0625     Roberts Angela Marie      0625
+Weide Justin Duane        0225     Westbrook James Rydnell   1224
+                       SHIPS CLERK - 7411
+Antiller Mary Grace Lapuz 0425     Booth Jesse Colten        0225
+Canoespinoza Luis A       0625     Cargin Devela Edith       0225
+Collins Semetria Lashell  1024     Davis Renita Deshall      0325
+Denny Brandy Lynne        1024     Edwards Jonathan David    0325
+Emanivong Paseuth         1224     Esparza Jorge Jr.         0625
+Farrow Corey Bernard      0525     Hernandez Miguel Angel    0525
+Jones Nicholas            0325     Kershaw Kendall Ryan      0425
+Letts Omphroy Michael     1124     Maurency Jhempson M       1224
+Oliver Myles O            0525     Smith Nicholas Ross       1124
+Solis Mario Darrel Jr.    1124     Tu Yiubond                0625
+Twigg Abigial Marielynn   0425     Urey Teddie Robert II     0225
+Williams Jeffrey M        0625     Woods Antonio Basiler     1124
+                   SECURITY TECHNICIAN - 7491
+Beckford Chance Alejandro 0225     Esquivel Alfredo III      1224
+Gomez Natasha Marie       0625     Jones Janis Rose          0325
+Robertson Brandon Clark   1124     Wiltrout Adam Christopher 1024
+Zeise Justin Robert       0625
+                  FOOD SERVICE WARRANT - 7521
+Guevarra Glennajane L     1224     Hamilton Keis Labarron    0425
+Jones Sylvester Jr.       1224     McCray Krishina Laterria  0425
+                       OCEANOGRAPHY - 7801
+Swenson Tesse Mae         1124     Walt Zachary Thorin       1024
+              CRYPTOLOGIC WARFARE TECHNICIAN - 7811
+Bickford John Warren      0625     Booth Brandon M           0625
+Dannenberger Michelle L   1024     DeJesus Eric Ruben        0325
+Goss Troy Donatello       0425     Griffith Kevin Scott      0525
+Lalisan Jeremiah James    1224     Lovett Caleb Blake        0225
+Mea Greg Anthony          0625     Neely Steven Edward       0225
+Pearce Lori Suzanne       1224     Scholl Ryan Scott         1124
+Szymczak Karl Robert      1124     Thomas Jomario Lamonte    0525
+Vettori Michael Giovanni  0425
+               INFORMATION SYSTEMS TECHNICIAN - 7821
+Barnett Naporsha S        0225     Buchanan Kayshonda D      1124
+Cox Jonathan Thomas       1224     Cruzgomez Dorian Dereck   0625
+Drury Joshua Wayne        0525     Graves Eric Dewayne       1224
+Hall Elijah E             1124     Handy Ulysses Lee Jr.     0625
+Henry Aaron Adonis        0325     Jobb Danielle Elizabeth   0625
+Jointer Akeem Adbuljabbar 1224     Jones Pattrick William    0425
+Kelly Devin Obrien        0525     Loveless Robert Gordon    1224
+MacCarone Patrick Thomas  0425     McCroskey William Talbert 0625
+McKay Patrick Shane       1124     Ortiz David Michael       1024
+Ramirezrodriguez Alfonso  1024     Shanley Todd Daniel       0325
+Smith James Jonathan      0225     Stokes James Reeves Jr.   0425
+         INTELLIGENCE TECHNICIAN - 7831(A-CI/HUMINT CCA)
+Ash Frank Nelms           0425     Bridges David Alexander   1224
+Dills Johnathan Elzy      1024     Kinsella Robert F IV      0625
+        INTELLIGENCE TECHNICIAN - 7831 (B-GEOINT/TGTING CCA
+Buller William Edward IV  1024     Campbell Robert E Jr.     0425
+Hart Taylor Scott         1024     Holman Ryan N             0525
+Merrill Seth Daniel       0625     Zabala Roderick Mercado   0325
+           INTELLIGENCE TECHNICIAN - 7831 (C-OPINTEL CCA)
+Evanoff Nicholas A        1124     Garland Jon Robert II     0525
+Heeren Kristin  Marie     0425     Tejero Nelson Manicsic    0625
+                        WARRANT OFFICER (W-1)
+                        CYBER WARRANT - 7841
+Besel Alexander Daniel    0625     Butler Garrett Michael    0425
+Phillips Brandon Leon     0625
+
+3.  Each applicant should take pride in knowing that the superior performance 
+documented in the evaluations reviewed by the board required the members to 
+dedicate long hours in making hard choices to ensure only the best and fully 
+qualified applicants were selected.  I am confident that each selectee will 
+justify their selection time and again in their new career as naval officers.
+Those not selected are highly encouraged to seek out an LDO/CWO in your area 
+for advice on ways to grow professionally and improve opportunity for future 
+selection.  Bravo Zulu to all who were willing to answer the call.
+
+4.  This message is not authority to issue appointments.  Frocking is 
+prohibited.  COMNAVPERSCOM (PERS 806) will deliver appointments to the 
+Transaction Service Center (TSC) Great Lakes, who will distribute directly to 
+the respective CPPAs.  TSC Great Lakes will also process the conversion from 
+enlisted to officer status for LDOs and CWOs, for all commands other than 
+those who have the ability to process their own (CVN, SPECWAR, etc.).  TSC 
+Great Lakes can be contacted directly at the below email address.
+
+5.  Commanding Officers are directed to:
+    a.  Notify selectee.
+    b.  Notify PERS 803 via official correspondence not later than
+10 days following release of this message of selectees who do not accept 
+appointment.  Selectees who decline their commission within this 10 day 
+period will be considered by the FY-25 Enlisted Selection Boards.  After the 
+10 day period, PERS 802 will invalidate all FY-25 Active-Duty Navy LDO and 
+CWO In Service Procurement Selection Board selectees eligibility for the FY-
+25 Active-Duty Enlisted Selection Boards.
+    c.  Per reference (a), ensure LDO and CWO selectees obtain a 
+commissioning physical within 90 days preceding the appointment month.  
+Notify the applicable officer detailer upon completion.
+    d.  Hold execution of all permanent change of station orders in abeyance, 
+if applicable, and immediately notify PERS 40 of member's selection.
+    e.  Administer official Physical Fitness Assessment (PFA) within four 
+months of commissioning date.  If selectee fails to achieve satisfactory 
+medium, notify your applicable officer detailer.  Hold commissioning in 
+abeyance until successful completion of PFA.
+    f.  Hold appointment in abeyance if it is determined that a selectee is 
+no longer mentally, physically, morally, or professionally qualified or if 
+they fail to meet current PFA requirements.  Immediately forward 
+documentation citing reason to PERS 803.
+
+6.  If an LDO or CWO selectee's enlistment (including any
+extensions) expires after the date of appointment, they are not reenlistment 
+eligible unless appointment is declined.
+
+7.  Each selectee should contact their officer detailer for submission 
+requirements with regard to personal information and history cards, and 
+inform PERS 806 of address changes to facilitate appointment delivery.
+
+8.  Points of Contact
+    a.  PERS 803 point of contact for LDO/CWO In Service Procurement Board, 
+issues/questions is CWO4 Tameka Reid at (901) 874 3170/DSN
+882 or e-mail npc_ldocwo_selbd.fct@navy.mil.
+    b.  PERS 806 point of contact for issuance of oath and commissioning 
+documents issues/questions is Mrs. Alda Boster, at
+(901) 874 3294/DSN 882 or e-mail at officer_appt.fct@navy.mil.
+    c.  TSC Great Lakes point of contact for oath of office distribution and 
+conversion questions is M_GRLK_TSCEOPP@navy.mil.
+
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

@@ -1,0 +1,153 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 072202Z FEB 24 MID120000879362U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 022/24 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/IMPLEMENTATION OF CONFIDENTIAL REPORTING OPTION FOR SEXUAL HARASSMENT// 
+ 
+REF/A/DOC/PL 116-283/01JAN21// 
+REF/B/DOC/DOD/14JUN23// 
+REF/C/DOC/SECNAV/09JUN23// 
+REF/D/DOC/OPNAV/03NOV21// 
+REF/E/DOC/SECNAV/24JUN22// 
+ 
+NARR/REF A IS NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2021.   
+REF B IS UNDER SECRETARY OF DEFENSE MEMO, INTERIM PROCESSES FOR CONFIDENTIAL 
+REPORTING OF SEXUAL HARASSMENT.   
+REF C IS DEPARTMENT OF THE NAVY POLICY REGARDING SUPPORT SERVICES FOR VICTIMS 
+OF SEXUAL HARASSMENT.   
+REF D IS OPNAVINST 5354.1H, NAVY HARASSMENT PREVENTION AND MILITARY EQUAL 
+OPPORTUNITY PROGRAM.   
+REF E IS DEPARTMENT OF THE NAVY NO WRONG DOOR POLICY. 
+ 
+RMKS/1.  This NAVADMIN implements a confidential reporting option, in 
+addition to the informal, formal, and anonymous complaint processes, for 
+Service Members who experience sexual harassment, as directed by references 
+(a) and (b).  For our Navy to prepare for and dominate in combat, we must 
+have strong teams.  The strength of our teams depends upon the strength of 
+our people:  the professional and personal development of Service Members to 
+be tough and resilient in Mind, Body, and Spirit is critical.  Reinforcing 
+prevention and supportive intervention when needed throughout Navy commands 
+is a key principle in meeting the needs of our people and our teams. 
+ 
+2.  Effective immediately, this confidential sexual harassment reporting 
+process is available for Service Members.  A confidential sexual harassment 
+report can only be submitted to a Command Climate Specialist (CCS) or a 
+Command Managed Equal Opportunity (CMEO) program manager. 
+    a.  The CCS or CMEO program manager will inform the reporting Service 
+Member's Commanding Officer (CO) or commander of a confidential report within 
+24 hours of receipt; however, they must not disclose the identity or any 
+Personally Identifiable Information (PII) of the Service Member submitting 
+the report. 
+    b.  A confidential report does not trigger an investigation or 
+disciplinary action. 
+    c.  A confidential report allows the Service Member to access the support 
+and referral services outlined in references (c), (d), and (e). 
+    d.  For CCS contact information, Service Members should contact the CMEO 
+program manager or the Navy Harassment and Military Equal Opportunity Office 
+(OPNAV N170C) at MILL_Navy_EO_Advice@navy.mil. 
+ 
+3.  The CCS and CMEO program managers are subject matter experts within a 
+command for advising Service Members on the different avenues of redress and 
+advising COs and commanders on the handling and processing of sexual 
+harassment complaints. 
+ 
+4.  When approached by a Service Member alleging sexual harassment, the CCS 
+or CMEO program manager must explain the informal, formal, and anonymous 
+complaint processes outlined in reference (d), and the confidential reporting 
+process outlined in this NAVADMIN.  This must include: 
+    a.  The options available to submit an informal, formal, anonymous 
+complaint, or a confidential report of sexual harassment. 
+    b.  The different aspects of each avenue and the manner in which the 
+complaint will be investigated, if at all.  The CCS or CMEO program manager 
+should explain that formal complaints must be referred to the appropriate 
+commander within three duty days, and are not considered confidential 
+reports. 
+    c.  Identification of support and referral services available to the 
+Service Member outlined in references (c), (d), and (e). 
+    d.  A confidential report of sexual harassment will not result in an 
+investigation or disciplinary action except in situations described in 
+paragraph 5(b). 
+    e.  A confidential report of sexual harassment does not prevent a Service 
+Member from changing the report to an informal, formal, or anonymous 
+complaint in line with reference (d). 
+ 
+5.  When a CCS or CMEO program manager takes a confidential report of sexual 
+harassment from a Service Member, the CCS or CMEO program manager must: 
+    a.  Maintain the confidentiality of the Service Member. 
+    b.  Explain to the Service Member that confidentiality will be maintained 
+unless: 
+        (1) The CCS or CMEO program manager is called to testify as a witness 
+at a court-martial or administrative hearing relating to the report of sexual 
+harassment; or 
+        (2) A trained Sexual Assault Response Coordinator (SARC), CCS, CMEO 
+program manager, or other qualified and trained personnel conducts a safety 
+assessment and identifies there is a high risk to the health or safety of the 
+Service Member or another person.  The SARC, CCS, or CMEO program manager 
+must immediately report these concerns to the Service Member's CO or 
+commander. 
+        (3) The Service Member elects to change a confidential report to an 
+informal or formal complaint. 
+    c.  Explain the informal, formal, and anonymous complaint processes if 
+this has not already been done. 
+    d.  Identify available counseling support and other support services for 
+which the Service Member is eligible. 
+    e.  Document the confidential report on the Navy Equal Opportunity (EO) 
+and Sexual Harassment Report (NAVPERS 5354/2). 
+Documentation must only include the command or local resources contact 
+information, the alleged behavior, the command name, and command unit 
+identification code for both the complainant and alleged offender. 
+    f.  Provide a copy of the NAVPERS 5354/2 to the Service Member and 
+forward a copy to OPNAV N170C via e-mail at MILL_Navy_EO_Advice@navy.mil. 
+ 
+6.  If the alleged sexual harassment also involves behavior that may be 
+sexual assault, to include sexual contact, the CCS or CMEO program manager 
+must, with the Service Member's permission, ensure a warm hand-off to the 
+SARC or the Sexual Assault Prevention and Response Victim Advocate (SAPR VA), 
+as outlined in reference (e). 
+The SARC or SAPR VA are responsible for all reporting requirements and case 
+management, as appropriate, for sexual assault allegations including command 
+notification as required.  The CCS or CMEO program manager will be 
+responsible for all requirements outlined within this NAVADMIN for the sexual 
+harassment allegations. 
+ 
+7.  No Wrong Door.  If a Service Member discloses sexual harassment directly 
+to a SARC or SAPR VA, those personnel will: 
+    a.  Assist the Service Member to address any immediate safety 
+needs.  Immediately notify the Service Member's CO or commander of any high 
+risk situation. 
+    b.  With the Service Member's permission, conduct a warm hand-off, as 
+outlined in reference (e), to the CCS or CMEO program manager for the Service 
+Member to receive an explanation of available redress options.  If a Service 
+Member declines the warm hand-off, the SARC or SAPR VA is not required to 
+notify the Service Member's CO or commander, the CCS, or the CMEO program 
+manager. 
+ 
+8.  OPNAV N170C will set up several town halls for CCSs and CMEO program 
+managers to discuss and answer questions about the new confidential reporting 
+option for sexual harassment.  Town hall dates will be posted on  
+https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Equal-
+Opportunity/Command-Climate-Specialists/ /. 
+ 
+9.  Service Members who have additional questions should contact the Navy 
+Harassment and Military Equal Opportunity Advice line at (800) 253-0931,  
+or via e-mail at MILL_Navy_EO_Advice@navy.mil. 
+ 
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
