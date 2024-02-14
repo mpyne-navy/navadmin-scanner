@@ -1,0 +1,135 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 131716Z FEB 24 MID600117184519U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 028/24
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//DNS//
+INFO CNO WASHINGTON DC//DNS//
+
+MSGID/NAVADMIN/SECNAV WASHINGTON DC/-/XXJAN24//
+
+SUBJ/OFFICE OF SPECIAL TRIAL COUNSEL FULL OPERATIONAL CAPABILITY, REPORTING 
+REQUIREMENTS, AND EFFECTIVE DATE OF MILITARY JUSTICE REFORMS//
+
+REF/A/EXECUTIVE ORDER/PRESIDENT/14103/28JUL23//
+REF/B/DOC/JAGMAN/30NOV23//
+REF/C/DOC/SECNAVINST 1752.4C/10AUG2018//
+REF/D/DOC/SECNAVINST 1752.3B/10NOV2005//
+REF/E/DOC/SECNAVINST 5430.107A/19JUN2019//
+REF/F/DOC/OPNAVINST 3100.6K/10AUG2021//
+
+NARR/REF A IS THE 2024 MANUAL FOR COURTS-MARTIAL, WHICH TOOK EFFECT ON 28 
+DECEMBER 2023.
+REF B IS JAGINST 5800.7G CH-2 MANUAL OF THE JUDGE ADVOCATE GENERAL.
+REF C IS THE SECRETARY OF THE NAVY'S INSTRUCTION ON SEXUAL ASSAULT PREVENTION 
+AND RESPONSE PROGRAM PROCEDURES.
+REF D IS THE SECRETARY OF THE NAVY'S FAMILY ADVOCACY PROGRAM INSTRUCTION.
+REF E IS THE MISSION AND FUNCTIONS OF THE NAVAL CRIMINAL INVESTIGATIVE 
+SERVICE.
+REF F IS THE OPNAV SPECIAL INCIDENT REPORTING PROCEDURES.
+
+RMKS/1.  This NAVADMIN announces the full operational capability of the Navy 
+Office of Special Trial Counsel (OSTC), effecting one of the most significant 
+military justice reforms legislated by the Fiscal Year 2022, 2023, and 2024 
+National Defense Authorization Acts (NDAA).
+This NAVADMIN imposes new reporting requirements on commands.
+
+2.  Per Rule for Courts-Martial 303 of reference (a) and Paragraph 0128 of 
+reference (b), all new reports of covered offenses shall be forwarded 
+promptly to the OSTC for consideration by a Special Trial Counsel (STC). OSTC 
+has exclusive authority over covered offenses listed below.
+OSTC also has exclusive authority to determine whether a reported offense is 
+covered, known, or related to a covered offense.
+OSTC will serve as the exclusive referral authority for covered, known, or 
+related offenses committed on or after 28 December 2023.
+Commanders may not take disciplinary action on covered, known, or related 
+offenses committed on or after 28 December 2023 until an STC defers the 
+offense to the commander. The following UCMJ offenses are covered: 
+
+a. Article 117a, Intimate Visual Images
+b. Article 118, Murder*
+c. Article 119, Manslaughter*
+d. Article 119a, Death or Injury of an Unborn Child  
+e. Article 120, Rape and Sexual Assault*  
+f. Article 120a, Mail, Deposit of Obscene Matter  
+g. Article 120b, Rape and Sexual Assault of a Child*  
+h. Article 120c, Miscellaneous Sexual Offenses  
+i. Article 125, Kidnapping*  
+j. Article 128b, Domestic Violence  
+k. Article 130, Stalking  
+l. Article 132, Retaliation  
+m. Article 134, Child Pornography*  
+n. Conspiracy, solicitation, or attempt to commit a covered offense.
+
+3.  All Navy units and commands are required to report any allegation of 
+misconduct that may reasonably allege a covered offense to OSTC.
+For offenses noted above with an asterisk (*), notification to OSTC will be 
+accomplished by the Naval Criminal Investigative Service (NCIS) following the 
+command's mandatory notification to NCIS or other appropriate Military 
+Criminal Investigative Organization (MCIO).
+For offenses not noted with an asterisk, direct command notification to OSTC 
+is required, even if the offense was initially reported to the Family 
+Advocacy Program, NCIS, or another law enforcement entity.
+
+4.  Direct command notification to OSTC will be accomplished in the following 
+manner.
+a. Access the OSTC website at (URL) 
+https://www.jag.navy.mil/about/organization/ostc/.
+Click the Command Incident Reporting button to access further reporting 
+instructions.
+b. Deployed units and those unable to access the Command Incident Reporting 
+feature may contact OSTC by phone at 202-685-5275 (DSN 325) for reporting 
+instructions.
+
+5. For those offenses noted with an asterisk (*), a direct report by the 
+command to OSTC is not required. References (c), (d), and (e) require 
+commands to notify NCIS or the appropriate MCIO of these offenses. Upon 
+receipt of a command report of these offenses, NCIS or the appropriate MCIO 
+will provide notification to OSTC.
+
+6. The Fiscal Year 2024 NDAA amended Article 24a of the UCMJ to enable OSTC 
+the exercise authority over certain covered offenses that occurred before 28 
+December 2023. The Lead STC has determined that OSTC will exercise authority 
+over certain covered offenses committed before 28 December 2023, as described 
+below:
+a.  Pre-28 December 2023 covered, known, and related offenses not yet 
+reported - OSTC will exercise authority if/when that offense is reported.
+b.  Pre-28 December 2023 covered, known, and related offenses reported and 
+currently being investigated - OSTC will exercise authority.
+c.  Pre-28 December 2023 covered, known, and related offenses reported, 
+investigated, and now pending prosecutorial review - OSTC will exercise 
+authority.
+d.  Pre-28 December 2023 covered, known, and related offenses reported, 
+investigated, reviewed by Region Legal Service Office or OSTC and a 
+disposition recommendation has already been provided to the convening 
+authority - Absent a specific request from the CA, OSTC will NOT exercise 
+authority and CA retains discretion.
+
+7.  Additional information is available on the OSTC website, referenced 
+above.
+Remaining questions about OSTC and the implementation of the military justice 
+reforms required by the FY22 and FY23 NDAAs should be brought to your 
+servicing Staff Judge Advocate or supporting Office of Special Trial Counsel.
+
+8. Commanders shall continue to comply with existing reporting requirements, 
+to include those in references (c) through (f).
+
+9.This NAVADMIN will remain in effect until superseded.
+
+10.Point of contact is CAPT Angela Tang, JAGC, USN (OSTC), 
+angela.j.tang.mil(AT)us.navy.mil, 202-685-5190 (DSN 325).
+
+11.Released by Mr. Andrew S. Haeuptle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
