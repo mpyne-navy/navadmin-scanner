@@ -108,7 +108,10 @@ sub decode_msg_head($head)
     # sets REF text amplification e.g. 'REF B IS MILPERSMAN 1200-200'
     my $set_ref_ampn = sub($id, $ampn) {
         my $ref = first { $_->{id} eq $id } @{$fields{REF}};
-        die "Unknown field $id" unless $ref;
+        if (!$ref) {
+            warn "Unknown reference to REF $id";
+            return;
+        }
         $ref->{ampn} = $ampn;
     };
 
