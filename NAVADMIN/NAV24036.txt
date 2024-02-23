@@ -1,0 +1,103 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 221735Z FEB 24 MID120000905950U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 036/24
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/ESTABLISHMENT OF THE ROBOTICS WARFARE SPECIALIST RATING//
+
+REF/A/DOC/18JUL2008/
+AMPN/REF A IS NAVPERS 18068F, MANUAL OF NAVY ENLISTED MANPOWER AND PERSONNEL 
+CLASSIFICATIONS AND OCCUPATIONAL STANDARDS (NEOCS)//
+
+RMKS/1.  In line with reference (a), this NAVADMIN announces the 
+establishment of the Robotics Warfare Specialist (RW) general rating.  RW 
+Sailors will enable Robotic and Autonomous System (RAS) operations and 
+maintenance at the tactical edge.  RWs will be the subject matter experts for 
+computer vision, mission autonomy, navigation autonomy, data systems, 
+artificial intelligence and machine learning on our RAS platforms.
+
+2.  The RW rating is a major milestone in our Navy's relentless march to 
+achieve a truly hybrid Fleet.  This dedicated robotics rating will accelerate 
+development of deep expertise in rapidly advancing autonomous technologies.  
+This new rating is now open to Active Duty Sailors.  Selected Reserve 
+(SELRES) Sailors will be integrated into the RW rating at a later date.
+
+3.  The primary source ratings for RW conversions will be all those currently 
+or previously assigned to billets in unmanned vehicle divisions and Sailors 
+who have earned applicable Navy Enlisted Classification (NEC) codes.  E-4 
+through E-9 Active Duty Sailors meeting those criteria may submit an 
+Electronic Personnel Action Request (NAVPERS 1306/7) to the Bureau of Naval 
+Personnel, Enlisted Community Management Division (BUPERS-32).  Interested 
+applicants can find applicable NEC codes, conversion package requirements, 
+and procedures posted on the MyNavy HR robotics community website:
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted/Robotics-Warfare/.
+
+4.  All Active Duty ratings are open for conversion to RW, but it is 
+important to note that this will initially be a small and highly selective 
+rating.  All Sailor requests for conversion to RW are required to be 
+forwarded to BUPERS-32 expeditiously.  However, BUPERS-32 will consider the 
+recommendations of the current command and losing rating community manager.  
+Any recommendations for denying conversion to RW for an otherwise qualified 
+candidate shall be adjudicated by Director, Military Community Management 
+(BUPERS-
+
+3).  Rating conversion requests will be accepted on a rolling basis.
+Successful applicants will be notified by BUPERS-32.  SELRES dates and 
+requirements will be published in the future.
+
+5.  The following is the first Navy-Wide AD RW Advancement Exam
+schedule:
+    a.  E-5 and E-6:  September 2024 (Cycle 264)
+    b.  E-7:  January 2025 (Cycle 266)
+
+6.  The following is the first E-7 and E-8/E-9 RW selection/screening board 
+schedule:
+    a.  E-8 and E-9 (Active Duty):  March 2025 (FY26 Board)
+    b.  E-7 (Active Duty):  July 2025 (FY26 Board)
+
+7.  All Sailors that have successfully screened to compete for a higher 
+paygrade billet in the Senior Enlisted Marketplace will have the remaining 
+portion of the two-year screened status honored in the RW rating.  Sailors 
+that have been selected for advancement but have not yet incremented will be 
+accessed into the RW rating at the higher paygrade.
+
+8.  This NAVADMIN does not modify any previous guidance concerning early 
+separation, Fleet reserve, conversion packages, Career Waypoints (CWAY) 
+reenlistment requests, or Reserve affiliation requests.  CWAY reenlistment 
+requests dated prior to the RW paygrade conversion date shall be submitted 
+per the source rating.  Selective Reenlistment Bonus and SELRES affiliation 
+bonus payments for Sailors selected for conversion to RW will continue to be 
+paid after the RW paygrade conversion date.
+
+9.  For questions about the application process or about the RW rating, 
+contact the RW Enlisted Community Manager (ECM) or the Reserve RW Enlisted 
+Community Manager (RECM):
+    a.  ECM:  RWCM Christopher M. Rambert at (901) 874-2195/DSN 882, or by at 
+email christopher.m.rambert.mil@us.navy.mil or rw_com_mgr.fct@us.navy.mil.
+    b.  RECM:  PSC Alejandro Marquez (BUPERS-352) at (901) 874- 3193/DSN 882, 
+or by e-mail at alejandro.marquez.mil@us.navy.mil or 
+rw_com_mgr.fct@us.navy.mil.
+
+10.  For detailer related questions about the RW rating, contact the RW 
+detailer:  FCACS Lyle S. Pluid, RW Liaison (PERS-40) at (901) 874-3779/ DSN 
+882, or by e-mail lyle.s.pluid.mil@us.navy.mil.
+
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+12.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

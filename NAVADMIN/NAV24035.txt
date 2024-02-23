@@ -1,0 +1,155 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 212114Z FEB 24 MID120000903050U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 035/24
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/NAVY RESERVE PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, COMMANDER, 
+LIEUTENANT COMMANDER, LIEUTENANT, AND CHIEF WARRANT OFFICER IN THE LINE AND 
+STAFF CORPS//
+
+REF/A/DOC/OPNAV/22APR22//
+REF/B/MSG/CNO WASHINGTON DC/211859ZDEC17//
+REF/C/DOC/OPNAV/28FEB12//
+REF/D/MSG/CNO WASHINGTON DC/041853ZAUG22
+REF/E/DOC/SECNAV/24JUL19//
+REF/F/DOC/COMNAVPERSCOM/23JUL07//
+
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM.
+REF B IS NAVADMIN 304/17, PHYSICAL READINESS PROGRAM POLICY CHANGES.
+REF C IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY.   
+REF D IS NAVADMIN 176/22, POLICY UPDATE CONCERNING SERVICE-IN-GRADE 
+RETIREMENT ELIGIBILITY FOR ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR 
+RESERVE LIEUTENANT COMMANDERS.   
+REF E IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF F IS MILPERSMAN ARTICLE 1070-180, OFFICER PHOTOGRAPHS.//
+
+RMKS/1.  Congratulations to the following officers on their promotions to the 
+ranks indicated in this message.  This NAVADMIN is the authority for 
+effecting permanent officer promotions on the dates indicated.  Columns read 
+name and designator.
+                       PERMANENT PROMOTION TO CAPTAIN
+               CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE
+                 LINE 21 JUNE 2023      STAFF 21 JUNE 2023
+                         DOR/EFF DATE 01 MARCH 2024
+ Davis Sarah Elizabeth    2205         Doherty Kevin Andrew     2505
+ Foster Sean R            1317         Kopinski Ted Stephen     1325
+ Martinez Robert Anthony  2305         Messner George U III     1115
+ Vanvalin Scott Erwin     2105         Williams Matthew Arthur  1315
+                      PERMANENT PROMOTION TO COMMANDER
+                         DOR/EFF DATE 01 MARCH 2023
+ Ide William Warren       2105
+                         DOR/EFF DATE 01 MARCH 2024
+ Billock Nicholas Edward  3105         Bretz John Calvin        6495
+ Burt Michelle Lynn       1207         Chandler Colin Robert    1315
+ Diebolt Matthew Thomas   1315         Gollaher Erin L          2905
+ Holland Michael James    1315         Ibikunle Christopher S   2105
+ Irizarry Ricardo E       2105         Knightpongratz Norma D   2905
+ Larson Sidney Everett    1205         Marshburn Tyler Vaughn   1135
+ Ormbrek Stanley Gary     3105         Parvan Lucia Stefania    2105
+ Powers Thomas E III      1315         Reed Randall Gary        1515
+ Rekoske Jeffrey Scott    1825         Ross William H III       1315
+ Roush Matthew Robert     2505         Rovinski John James Jr   1835
+ Ryan Daniel C            1315         Spence Bret Alan         5105
+ Stampfler Michael Lee    1715         Swogger Logan Matthew    1117
+                 PERMANENT PROMOTION TO LIEUTENANT COMMANDER
+                         DOR/EFF DATE 01 MARCH 2024
+ Anstine Christopher Nath 1325         Armstrong Ryan G         1665
+ Bablewski Ian Christophe 1115         Baker Matthew James      1325
+ Bardoczi Andrea Emma     1115         Beebe Gannon James       1665
+ Bencs Nicole Danielle    2905         Boisen Julie Nicole      2105
+ Crum Michael Robert      5105         Dahlmann Jennifer C      1115
+ Dodson Christopher W M   1835         English Eric S           2905
+ Fernandes Johnpaul       1115         Florea Taylor Nolan      3105
+ Gallo Travis A J         1525         Gates Jason Russell      1115
+ Giebel Kim Baird         1835         Gulmesoff Ivan Nikola    1527
+ Haase Donald Gregg II    1115         Hartline Samuel Tyler    1115
+ Hoang Vinhthuy Thanh     1515         Landau Zachary Wagner    2105
+ Lavarez Leslie Ann       3105         Le Hai Minh              2905
+ Manwell Michael Sean     1115         Mchugh Lonnie Dean       3107
+ Miller Azalea Leanna     3105         Nicotra Alan Joseph      2105
+ Odom Craig Allen         1445         Quach Quang Quoc         1115
+ Scatterday Jeffrey S     1115         Siegal Kurt William      2505
+ Stewart Nika Shannon     2905         Tiemeyer Michelle C      1655
+ Vassallo Jesus M         1205         Witkowski Derek Jon      2305
+ Young Lillian Margaret   1325         Zach Jeremy J            4105
+                      PERMANENT PROMOTION TO LIEUTENANT
+                         DOR/EFF DATE 01 MARCH 2024
+ Booth Steven A           1945         Bordeaux Andre Philip    1835
+ Brown Joseph Scott Jr    1835         Donlon Erin M            1945
+ Ellis Jessica Dawn       1825         Ferrell Benjamin A       1665
+ Freiberg Vincent L       1665         Hudson Adam W            1835
+ Langhorst Eric Lewis     1825         Maynard Stephen Carl II  1835
+ Mckensey Macie Dawn      1825         Millergonzalez Kenneth E 3105
+ Moline Megan Gabrielle   6335         Morris Billie Donnell    1835
+ Romeo Matthew Michael    1835         Roy John Michael         1825
+ Sheppard Samuel Tyler    1105         Souza Paul Edward        1815
+ Stauffer Catherine Lynn  1805         Vinson Ryan Juwan        3105
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-5 No officers 
+promoted in this category.
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-4 No officers 
+promoted in this category.
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-3 No officers 
+promoted in this category.
+
+2.  If a selected officer does not decline in writing prior to the projected 
+date of rank (noted above in paragraph 1), that officer is considered to have 
+accepted the promotion on the date indicated.  An officer who chooses to 
+decline promotion must submit the declination in writing to COMNAVPERSCOM 
+(PERS-806) within thirty (30) days of the release of this NAVADMIN.
+
+3.  The Commanding Officer (CO), the Secretary of the Navy, or his designee, 
+has the authority to delay projected promotions.  Upon the exercise of a 
+delay, the officer shall be notified in writing before the effective date of 
+the promotion and not be tendered the promoting appointment.  The delay 
+authority will immediately forward the notification of delay with supporting 
+documentation to COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806).
+
+4.  COs are reminded of their responsibility to ensure the officers they are 
+promoting are mentally, physically, morally and professionally qualified in 
+accordance with section 14311 of title
+10, U.S. Code.   Per reference (a), officers are ineligible for
+promotion if they have failed the most recent Physical Fitness Assessment.  
+COs shall verify the promoting officer's information in the Physical 
+Readiness Information Management System to ensure compliance with reference 
+(a), as modified by reference (b), and delay the officers promotion in 
+accordance with paragraph 3 of this NAVADMIN, if required.
+
+5.  Prepare a Delivery of Permanent Appointment (NAVPERS FORM
+1421/7)     (Rev 10-13).  Use this NAVADMIN as reference (a).  Use
+section of title 10, U.S. Code 14308 as reference (b) for permanent 
+lieutenants and above.  Use section of title 10, U.S. Code 12242 as reference 
+(b) for chief warrant officers.  Mail the completed form to COMNAVPERSCOM 
+(PERS-806) or email via My Navy Career Center at askmncc.fct@navy.mil.
+
+6.  Training and Administration of Reserve (TAR) Officers should review 
+reference (c) and (d) for minimum time-in-grade (TIG)/service-in-grade (SIG) 
+requirements for purposes of Active- Duty voluntary retirement.  (NOTE: TIG 
+TAR LCDR voluntary retirements changed with National Defense Authorization 
+Act 2021; Update to reference (c) is pending.)  TAR officers and those 
+officers temporarily on active duty anticipating release from active duty 
+under reference (e) may accept promotion without incurring any additional 
+active-duty obligation.
+
+7.  New photographs are required for all officers within three months after 
+acceptance of promotion.  See reference (f) for specific requirements.
+
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
