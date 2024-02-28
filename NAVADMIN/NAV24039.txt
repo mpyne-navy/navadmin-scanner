@@ -1,0 +1,148 @@
+ROUTINE
+R 271607Z FEB 24 MID120000916910U
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN
+INFO CNO WASHINGTON DC//N1//
+BT
+UNCLAS
+ 
+NAVADMIN 039/24
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-2025 COMMAND SENIOR CHIEF SCREEN BOARD RESULTS//
+
+REF/A/DOC/CNO/16JUL21//
+AMPN/REF A IS OPNAVINST 1306.2K, COMMAND SENIOR ENLISTED LEADER PROGRAM.//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who
+have been selected for assignment as a Command Senior Chief from the Command
+Senior Chief Screen Board, which convened 31 January 2024: 
+
+NAME (LAST FIRST MI)		RATE       	PARENT COMMAND
+Abalos Erik S			HMCS		USNMRTC YOKOSUKA JA
+Ash Joshua R			HMCS		NMRTC OKINAWA JA
+Bader Clinton D			ABHCS		NAVSTA ROTA
+Belcher Aaron R			HMCS		2ND MED BN 2ND MARLOGGRU
+Beugler Aaron J			AWSCS		HSC 8 HELSEACOMBATRON
+Boerner Theodore J		NCCS		NAVY RECRUITING CMD PENSACOLA
+Booker Larry Jr			OSCS		NAVCRUITDIST SEATTLE
+Boyd Candice R			MACS		AFLOATRAGRU MIDPAC
+Brown Marlana S			OSCS		DDG 65 BENFOLD
+Cannon Joshua D			ASCS		FLTREADCEN WEST
+Carpenter Samantha L		MACS		MESG TWO
+Carter Darryl A			DCCS		LHA 7 TRIPOLI
+Chua Carlito P			ADCS		VAQ 134 VAQRON
+Clark Brodie R			ITCS		LCS CREW 228
+Crichton Nathaniel F		BMCS		LSD 42 GERMANTOWN
+Danielle Steven W		AMCS		VQ 1 FAIRECONRON
+Daphness Dominque L		LSCS		CVN 71 THEODORE ROOSEVELT
+Davis Justin T			AECS		VFA 147
+Dejesus Deseret M		AOCS		LHD 4 BOXER
+Delgado Francisco J		BMCS		LPD 22 SAN DIEGO
+Dickson Aric M			ETCS		CG 59 PRINCETON
+Duffy Patrick H			DCCS		LPD 20 GREEN BAY
+Dukes Savannah L		PSCS		NAVPAYPERS SUPPORT CENTER
+Dukette Phillip J		HMCS		NMRTC NEW ENGLAND RI
+Dunk Robert J			STGCS		CG 59 PRINCETON
+Eckert Jared R			CTTCS		CVN 71 THEODORE ROOSEVELT
+Engelhardt Rena M		CTTCS		SURFCOMSYSTRNGCMD DAHLGREN VA
+Feliciano Dominick J		ABECS		COMNAVAIRLANT
+Ferretti Anthony M		FCCS		AFLOATRAGRU MAYPORT
+Ford Marshall E II		CSCS		AFLOATRAGRU PAC DET SAN DIEGO
+Fragoso Eduardo NMN		ETCS		NAVPERSCOM
+Frost James F			ABHCS		CVN 78 GERALD R FORD
+Fuentes Paris J			MACS		LPD 26 JOHN P MURTHA
+Fuson Billy L Jr		HMCS		LSD 52 PEARL HARBOR
+Galang Adrian J			LSCS		NAV AVIA MAINT CNT EXC LEMOORE
+Genica Jonathan M		DCCS		ASSAULT CRAFT UNIT 5
+Gloria David P			HMCS		CG 59 PRINCETON
+Gregg Ayanna I			ACCS		FACSFAC VACAPES
+Habeebullah Muhammad I		ADCS		NAVTESTWINGLANT
+Harrison Wendell D		BMCS		PEARL HARBOR NSY AND IMF
+Henderson Anaalicia NMN		HMCS		1ST MEDBN 1ST MARLOGGRU
+Herbert Douglas M		HMCS		NAVAL ACADEMY
+Honaker Samantha R		QMCS		CVN 79 JOHN F KENNEDY PCU
+House Mark E			BMCS		NAVSTA GUANTANAMO BAY
+Hyppolite Bernard M		MACS		MESG ONE DETACHMENT GUAM
+Jackson April D			LSCS		CG 63 COWPENS
+Jacques Kenson NMN		MMCS		DDG 76 HIGGINS
+Jones Rodney M			NCCS		COMNAVREG SOUTHWEST
+Knoch Steven J			ATCS		VX 9 AIRTEVRON
+Ko Eddie K			EMCS		LHD 4 BOXER
+Lampasona Conrad J		YNCS		NAVAL ACADEMY
+Lamson John A			ASCS		ESB 6 GOLD MILCREW
+Lewis Michael NMN		ETCS		LPD 29 RICHARD M MCCOOL JR
+Linares Emanuel I		MNCS		MCM 13 DEXTROUS
+Little Joseph W Jr		AOCS		VX 31 AIRTEVRON
+Lobo Courtney 	M		CWTCS		COMSEVENTHFLT
+Loftin Kyle T			FCACS		DDG 102 SAMPSON
+McCullough Andamo S		EMCS		CVN 77 GEORGE H W BUSH
+Mcpheron Neale B		AWRCS		VX 1 AIRTEVRON
+McVann Dane G			GMCS		NSWG2 LOGSUPPU
+Mejia Proceso C V		LSCS		DEF DISTR CENTER YOKOSUKA
+Mingo Norman E Jr		GMCS		AFLOATRAGRU PAC DET SAN DIEGO
+Morales Andrea R		GSCS		EWTG PACIFIC
+Morgan Michael W		STGCS		SOUTHEAST REG MAINT CENTER
+Ogilvie Jared B			GMCS		CVN 69 DWIGHT D EISENHOWER
+Onion Jeffrey D			AWSCS		NTAG OHIO RIVER VALLEY
+Puello Zahul NMN		MACS		NCIS STAAT LANT DET MIDDLE EAST
+Quenga Joshua R			AMCS		HSC 4 HELSEACOMBATRON
+Redman Andrew D II		AZCS		COMFLT LOGSUP MULTIMIS WING
+Reed Scott B Jr			AECS		COMSEVENTHFLT
+Ridlon Briana L			LNCS		CVN 76 RONALD REAGAN
+Robinson Lakrisha L		ABHCS		NAF EL CENTRO
+Ronquillo Alicia M		HMCS		1ST MEDBN 1ST MARLOGGRU
+Sampson Chelsie M		STGCS		SURFCOMSYSTRNGCMD SAN DIEGO
+Saulnier Ilan J			ETCS		SURFCOMSYSTRNGCMD DAHLGREN VA
+Shelton Darrell	K		OSCS		LCS DET 21 PCU MAYPORT
+Smith Eric L			DCCS		LCS CREW 229
+Smith Tanya M			AZCS		NATTC LEARNING SITE MERIDIAN
+Steinbrenner Benjamin P		ICCS		DDG 87 MASON
+Tinio Ronald D			HMCS		DDG 114 RALPH JOHNSON
+Tinner Cory R			ISCS		SPECIAL RECONNAISSANCE TEAM 2
+Trice Antoine R			AMCS		HSM 77 HELMARSTRKRON
+Tunal Christopher D		BMCS		LHA 6 AMERICA
+Villar Esmelin A		AWRCS		HSM 48 HELMARSTRKRON
+Vogtman Philip J		BMCS		LPD 18 NEW ORLEANS
+Watson Joshua K			AECS		VFA 195
+Wells Keith T			HMCS		USUHS BETHESDA MD
+Williams Howard G		ASCS		NAVPERSCOM
+Woodall Daquann L		ABHCS		LHA 6 AMERICA
+Youngers Christopher A		MMCS		DDG 88 PREBLE 
+
+
+2.  Congratulations to the following Training and Administration of
+the Reserve (TAR)/Selected Reserve (SELRES) members who have been
+selected for assignment as a Command Senior Chief:	
+
+NAME (LAST FIRST MI)		RATE       	PARENT COMMAND 
+
+Alfing Joshua W			LSCS		NR NAVAIRTERM RAL
+Brooks Andrew M			DCCS		NAVRESCEN SACRAMENTO CA
+Cast Bobby J			BMCS		NR RCC NW WA
+Covert Brandon L		AWFC		FLELOGSUPPRON ONE
+Davidson January J		PSCS		US TRANSCOM SCOTT AFB IL
+Duarte Susan NMN		LSCS		NAVRESCEN GREENVILLE SC
+Farrales Chad E			NCCS		NAVCRUITDIST SEATTLE
+Kalalau Monica C		ENCS		NR SURGEMAIN SAN DIEGO
+Markel Corey B			PRCS		NAVRESCEN AKRON OHIO
+Mcewen Erin S			ATCS		COMMARSUPWING
+Reyes Manuel D			HMCS		NAVAIR RESERVE FORCE PACIFIC
+Walsh Thomas C			OSCS		NAVRESFORCOM
+Wells Jovon R			HMCS		MESG TWO
+
+3.  AC POC is CMDCM Monica J. Kuhl, NAVPERSCOM PERS-40FF at
+901-874-4560, DSN 882-4560, email monica.j.kuhl.mil@us.navy.mil.
+TAR/FTS POC is CMDCM Darryl E. Williams, NAVPERSCOM PERS-4012C at
+901-874-3257, DSN 882- 3257, email darryl.e.williams7.mil@us.navy.mil.
+
+4.  Selectees should contact their respective POC soonest to discuss
+detailing opportunities.
+
+5.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//

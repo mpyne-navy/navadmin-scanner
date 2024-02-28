@@ -1,0 +1,124 @@
+
+RTTUZYUW RHOIAAA0001 0581603-UUUU--RHSSSUU.
+ZNR UUUUU
+R 271600Z FEB 24 MID120000916887U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 038/24
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
+
+SUBJ/FY-2025 COMMAND MASTER CHIEF SCREEN BOARD RESULTS//
+
+REF/A/DOC/CNO/16JUL21//
+AMPN/REF A IS OPNAVINST 1306.2K, COMMAND SENIOR ENLISTED LEADER PROGRAM.//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who
+have been selected for assignment as a Command Master Chief from the Command
+Master Chief Screen Board, which convened 31 January 2024:
+
+NAME (LAST FIRST MI)   		RATE		PARENT COMMAND
+
+Adkins Sherman J		HTCM		CVN 71 THEODORE ROOSEVELT
+Allen Craig L			FTCM		SSBN 737 KENTUCKY BLUE
+Antrim Robert A			ITSCM		SSN 792 VERMONT
+Baca Jesse C			CBCM		NMCB 3
+Baumann Kyle W			SOCM		SPECIAL RECONNAISSANCE TEAM 1
+Bonifer Michael J		CBCM		NAVSUPP UNIT STATE DEPT WASH DC
+Boulay Lauren E			ITCM		SURFCOMSYSTRNGCMD HAMPTON RD
+Bowen Justin C			GSCM		COMDESRON 21
+Brown Shannon J			EODCM		EODMU 8
+Calilung Herbert P		ASCM		DDG 69 MILIUS
+Carpenter Matthew E		DCCM		CVN 70 CARL VINSON
+Chavez Alex Jr			SOCM		SEAL TEAM 5
+Cox  Matthew J			NDCM		NAVSURFWARCEN COASTAL SYS STATION
+Damuth Phillip S		FTCM		SSBN 730 HENRY M JACKSON BLUE
+Eberle Eric A			NDCM		MOBDIVSALVUNIT TWO
+Elmstead James E Jr		MMACM		SSN 750 NEWPORT NEWS
+Ervin Harold H III		ETCM		CVN 70 CARL VINSON
+Fry Alexander M			SOCM		NSWG1 DET TRAINING
+Garcia Angellus E		ITSCM		SSGN 727 MICHIGAN BLUE
+Gill Christian A		NDCM		CENTER FOR EOD AND DIVING
+Gonzalez Sergio Jr		MACM		NAVSTA ROTA
+Grammer Travis L		FTCM		COMSUBRON 11
+Hackley Michael E		OSCM		UNSEAWARDEVCEN DET SAN DIEGO
+Haraburda Michael G		MMNCM		SSN 22 CONNECTICUT
+Hatfield Nathan P		SOCM		SPECIAL RECONNAISSANCE TEAM 1
+Hays Jason S			MMNCM		SSN 760 ANNAPOLIS
+Heckard Johnetta L		ISCM		CENTCOM JOINT INTEL OPS CNTR
+Heiland Kasey J			SOCM		SEAL TEAM 4
+Lacy Jerritt P			SOCM		USSOCOM MACDILL AFB
+Mabe Jeremy G			CTRCM		COMTENTHFLT
+Malone Christopher W		MMACM		COMSUBRON 21
+Matney Thomas R			EODCM		NAVSCOL EOD EGLIN AFB STAFF
+Mendenhall Justin W		SOCM		NSWG1 DET TRAINING
+Micheli Michael K		STSCM		SSN 789 INDIANA
+Montgomery Corey D		CSCM		NAS KINGSVILLE
+Mosley Jared W			SOCM		SEAL TEAM 8
+Nelson Michael L		SBCM		SPECBOAT TEAM 22 SEA COMP
+Nicholson Nathan T		SOCM		NSWG1 DET TRAINING
+Osler Stephen M			SOCM		SPECIAL RECONNAISSANCE TEAM 2
+Peart Cleveland Jr		CBCM		NAVAL CONSTRUCTION GROUP 1
+Raynor Steven A			SOCM		SEAL TEAM 2
+Reed Brian E			FCCM		LHD 4 BOXER
+Reeves Ryne A			SOCM		NAVSPECWARCOM BASIC TRAINING CMD
+Roberts Steven C Jr		AVCM		CVN 75 HARRY S TRUMAN
+Rodriguez Luis NMN		LSCM		COMNAVSURFLANT
+Roelike Bryan J			MACM		NAS SIGONELLA
+Santel Timothy M		TMCM		SSN 782 MISSISSIPPI
+Setty Clifton K			CMCM		NAVCECOFFSCOL PT HUENEME CA
+Skoog Nathaniel J		SOCM		SEAL TEAM 4
+Southwick Bradley T		SOCM		NSWG1 DET GUAM
+Taylor Timothy A		CBCM		NAV SUPP FAC THURMONT MD
+Teart Brian A			MACM		NAVY EXPEDITIONARY COMBAT COMMAND
+Tyree Sandra D			HMCM		COMNAVIFORCES
+Williams Anthony D		SOCM		SEAL ADV DEL VEH TEAM 1 PH
+Williams Jeremy N		EODCM		NAVSCOL EOD EGLIN AFB STAFF
+Williams Stephen D II		ICCM		COMNAVSURFLANT
+Williamson Joseph J		MMACM		SSN 779 NEW MEXICO
+
+2.  Congratulations to the following Training and Administration of
+the Reserve (TAR)/Selected Reserve (SELRES) members who have been
+selected for assignment as a Command Master Chief:
+
+NAME (LAST FIRST MI)		RATE      	PARENT COMMAND
+Adams Clyde N			PSCM		COMNAVRESFOR STAFF DETACHMENT
+Bailen John E			LSCM		NR DLA JRF DST HQ
+Bartman Chad E			CBCM		NMCB 18
+Bauer Jeremy L			AVCM		FLTLOGSUPPRON FIVE FOUR
+Baumert Richard A		ETCM		COMNAVRESFOR STAFF DETACHMENT
+Burch Whitney A			ITCM		NR NIFR SE JAC
+Crawford Christina A		ITCM		NR NAVWAR RESERVE HQ
+Gonzalez Adrian G		ASCM		HELMINERON ONE FIVE
+Jameson Calisha M		HMCS		NAVRESFORCOM
+Klein Barry A			ETCM		NR NAVWAR
+Lapera Alexis J			DCCM		NAVRESFORCOM
+Linville Charles C		HMCS		NR OSBORNE DENT HQ
+Lockett Katrina R		ITCM		NAVRESFORCOM
+Mathura Richard N		MNCM		NR CNSG SE
+Miller Rebeca P			LSCS		NR NAVFAC
+Moczygemba Veronica J		CBCM		SEVENTH NCR GULFPORT MS
+Moore Raymond R III		ISCM		NR NIFR WAS
+Sena Thom S			AMCS		FLTLOGSUPPRON SIX ONE
+
+3.  AC POC is CMDCM Monica J. Kuhl, NAVPERSCOM PERS-40FF at
+901-874-4560, DSN 882-4560, email monica.j.kuhl.mil@us.navy.mil.
+TAR/FTS POC is CMDCM Darryl E. Williams, NAVPERSCOM PERS-4012C at
+901-874-3257, DSN 882- 3257, email darryl.e.williams7.mil@us.navy.mil.
+
+4.  Selectees should contact their respective POC soonest to discuss
+detailing opportunities.
+
+5.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+UNCLASSIFIED//
