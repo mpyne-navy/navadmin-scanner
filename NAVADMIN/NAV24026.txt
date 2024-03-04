@@ -1,73 +1,92 @@
-CLASSIFICATION: UNCLASSIFIED//
-
-ROUTINE
-
-R 082142Z FEB 24 MID120000883822U
-
-FM CNO WASHINGTON DC
-
-TO NAVADMIN
-
-INFO CNO WASHINGTON DC
-
-BT
-UNCLAS
-NAVADMIN 026/24
-
-MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB//
-
-SUBJ/ADVANCEMENT EXAMINATION READINESS REVIEW SCHEDULE FOR 3RD AND 4TH QUARTER FISCAL YEAR 2024 AND IDENTIFICATION OF FLEET SUBJECT MATTER EXPERTS//
-
-AMPN/REF A IS MILPERSMAN ARTICLE 1401-020, ADVANCEMENT EXAM READINESS REVIEW(AERR)//
-
-REF/A/DOC/COMNAVPERSCOM/5NOV18//
-
-RMKS/1.  This NAVADMIN announces the Advancement Examination Readiness Review (AERR) schedule from April 2024 through September 2024.  AERR panels provide an opportunity for selected rating Fleet Subject Matter Experts (FSME) from Fleet and shore based commands to positively impact their respective ratings by updating and validating the examination question banks.  Selected Chief, Senior Chief, and Master Chief Petty Officers on Active Duty, Training and Administration of the Reserves, and Reservists currently on Active Duty for Operational Support may take part in the process.  AERRs enable the Navy to advance the most qualified and rating- knowledgeable Sailors.
-
-2.  AERRs are held at the Naval Education and Training Professional Development Center (NETPDC) in Pensacola, Florida.  Temporary Duty Travel (TDY) in support of AERR events is considered mission critical and is Flag Officer approved.  TDY costs shall be funded by NETPDC in line with applicable Joint Travel Regulations.
-
-3.  In line with reference (a), Type Commanders (TYCOM) and rating sponsors will recruit rating FSMEs, select AERR panel members plus two alternate members, and provide names and contact information no less than 45 days prior to the AERR convening date to NETPDC via e- mail at NETPDC_AERR_MAILBOX@us.navy.mil with a subject line of "AERR Selectees."
-
-4.  The following AERRs are scheduled from April 2024 through September 2024 and are subject to change:
-Convene Date:                         Rating (number of FSMEs
-required)
-7 - 13 April                          RS (6), CM (6), CTI (6)
-7 - 20 April                          EN (6), STS(6)
-14 - 20 April                         DC (6), CE (6), IT (6)
-21 - 27 April                         UT (6), CTM(6)
-21 April - 4 May                      ABF(5)
-28 April - 4 May                      EA (6), CWT (6)
-28 April - 11 May                     NCR(5), EOD (5)
-5 - 11 May                            EO (6), AM (6)
-5 - 18 May                            PS (6), STG (6), ETN (6)
-12 - 18 May                           ET (6)
-12 - 25 May                           NCC(6)
-19 - 25 May                           AWV(6)
-2  - 15 June                          ND (6), MA (8), AC (6), YNS
-                                      (6), MN (6), GM (6)
-7  - 20 July                          FC (6), ETV (6)
-14 - 20 July                          AD (6)
-14 - 27 July                          ATO(6), ABH (6)
-4 - 10 August                         CTR(6)
-4 - 17 August                         LSS(5), MR (6), SO (6), OS (6)
-18 - 24 August                        TM (6)
-18 - 31 August                        FT (6)
-25 - 31 August                        AS (6)
-8 - 21 September                      HM (8)
-
-5.  In line with reference (a), nomination waivers with accompanying justification must be approved by NETPDC prior to TYCOM and rating sponsor selections.  Due to financial considerations, Outside Continental United States applications will only be approved for emergent, rating-specific needs.
-
-6.  For more information on AERRs, including schedules and rating points of contact, log into MyNavy Portal https://www.mnp.navy.mil
-under Career and Life Events/Advancement and Promotion/Navy Advancement Center/AERR.
-
-7.  Point of contact for this matter is the NETPDC Fleet Liaison,
-(850) 473-6169/DSN 753 or via e-mail at
-NETPDC_AERR_MAILBOX@us.navy.mil.
-
-8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
-
-BT
-#0001
-NNNN
-
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 082142Z FEB 24 MID120000883822U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 026/24 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/FEB// 
+ 
+SUBJ/ADVANCEMENT EXAMINATION READINESS REVIEW SCHEDULE FOR 3RD AND 4TH 
+QUARTER FISCAL YEAR 2024 AND IDENTIFICATION OF FLEET SUBJECT MATTER EXPERTS// 
+ 
+AMPN/REF A IS MILPERSMAN ARTICLE 1401-020, ADVANCEMENT EXAM 
+READINESS REVIEW(AERR)// 
+ 
+REF/A/DOC/COMNAVPERSCOM/5NOV18// 
+ 
+RMKS/1.  This NAVADMIN announces the Advancement Examination Readiness Review 
+(AERR) schedule from April 2024 through September 2024.  AERR panels provide 
+an opportunity for selected rating Fleet Subject Matter Experts (FSME) from 
+Fleet and shore based commands to positively impact their respective ratings 
+by updating and validating the examination question banks.  Selected Chief, 
+Senior Chief, and Master Chief Petty Officers on Active Duty, Training and 
+Administration of the Reserves, and Reservists currently on Active Duty for 
+Operational Support may take part in the process.  AERRs enable the Navy to 
+advance the most qualified and rating-knowledgeable Sailors. 
+ 
+2.  AERRs are held at the Naval Education and Training Professional 
+Development Center (NETPDC) in Pensacola, Florida.  Temporary Duty Travel 
+(TDY) in support of AERR events is considered mission critical and is Flag 
+Officer approved.  TDY costs shall be funded by NETPDC in line with 
+applicable Joint Travel Regulations. 
+ 
+3.  In line with reference (a), Type Commanders (TYCOM) and rating sponsors 
+will recruit rating FSMEs, select AERR panel members plus two alternate 
+members, and provide names and contact information no less than 45 days prior 
+to the AERR convening date to NETPDC via e-mail at 
+NETPDC_AERR_MAILBOX@us.navy.mil with a subject line of "AERR Selectees." 
+ 
+4.  The following AERRs are scheduled from April 2024 through September 2024 
+and are subject to change: 
+ 
+Convene Date:                         Rating (number of FSMEs 
+required) 
+7 - 13 April                          RS (6), CM (6), CTI (6) 
+7 - 20 April                          EN (6), STS(6) 
+14 - 20 April                         DC (6), CE (6), IT (6) 
+21 - 27 April                         UT (6), CTM(6) 
+21 April - 4 May                      ABF(5) 
+28 April - 4 May                      EA (6), CWT (6) 
+28 April - 11 May                     NCR(5), EOD (5) 
+5 - 11 May                            EO (6), AM (6) 
+5 - 18 May                            PS (6), STG (6), ETN (6) 
+12 - 18 May                           ET (6) 
+12 - 25 May                           NCC(6) 
+19 - 25 May                           AWV(6) 
+2  - 15 June                          ND (6), MA (8), AC (6), YNS 
+                                      (6), MN (6), GM (6) 
+7  - 20 July                          FC (6), ETV (6) 
+14 - 20 July                          AD (6) 
+14 - 27 July                          ATO(6), ABH (6) 
+4 - 10 August                         CTR(6) 
+4 - 17 August                         LSS(5), MR (6), SO (6), OS (6) 
+18 - 24 August                        TM (6) 
+18 - 31 August                        FT (6) 
+25 - 31 August                        AS (6) 
+8 - 21 September                      HM (8) 
+ 
+5.  In line with reference (a), nomination waivers with accompanying 
+justification must be approved by NETPDC prior to TYCOM and rating sponsor 
+selections.  Due to financial considerations, Outside Continental United 
+States applications will only be approved for emergent, rating-specific 
+needs. 
+ 
+6.  For more information on AERRs, including schedules and rating points of 
+contact, log into MyNavy Portal https://www.mnp.navy.mil/ 
+under Career and Life Events/Advancement and Promotion/Navy Advancement 
+Center/AERR. 
+ 
+7.  Point of contact for this matter is the NETPDC Fleet Liaison, 
+(850) 473-6169/DSN 753 or via e-mail at NETPDC_AERR_MAILBOX@us.navy.mil. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
 CLASSIFICATION: UNCLASSIFIED//
