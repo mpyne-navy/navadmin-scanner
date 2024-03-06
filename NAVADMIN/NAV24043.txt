@@ -1,0 +1,83 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 061600Z MAR 24 MID120000947529U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 043/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR// 
+ 
+SUBJ/FY-25 ACTIVE-DUTY NAVY COMMAND MASTER CHIEF PETTY OFFICER ADVANCEMENT 
+SELECTION BOARD RESULTS// 
+ 
+REF/A/DOC/BUPERS/2NOV07// 
+AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.// 
+ 
+RMKS/1.  Congratulations to the following personnel who have been 
+selected for advancement to command master chief petty officer by the 
+FY-25 Active-Duty Navy Command Master Chief Selection Board.  Strong 
+competition between qualified professionals is one of the strengths 
+of our Navy and your selection speaks highly of your abilities. 
+ 
+2.  This NAVADMIN is not authorization for advancement.  Specific 
+dates of advancement will be published by Commanding Officer, Naval 
+Education and Training Professional Development Center Pensacola, FL. 
+Personnel listed below may be frocked IAW ref (a) if qualified. 
+ 
+3.  Members are directed to verify their select status via BUPERS On- 
+Line.  The selection list is in alphabetical order by rate within 
+competitive category.  Read each line from left to right, name, and 
+numerical order of advancement.
+ 
+                       CMDCM - Command Master Chief 
+           Adams Jonatha     067         Arroyave Jona     068 
+           Balla Fernand     049         Barrineaujuha     013 
+           Bellamy Carla     042         Benavides Sol     037 
+           Bolton Emanue     020         Bolton Monica     051 
+           Bolton Roderi     053         Bonner Michae     055 
+           Boop Justin E     015         Brown Jonatha     050 
+           Bryant Dexter     057         Burford Micha     038 
+           Charles Milla     008         Christopher C     001 
+           Conover Andre     022         Cournede Dani     070 
+           Coutcher Chad     017         Delzer Jeffre     003 
+           Ellender Rami     036         Escolano Jaso     066 
+           Fearno Kyle D     041         Gagnon John L     029 
+           Green Julius      058         Griffeth Rand     025 
+           Guerrero Deni     032         Hagstrom Joel     005 
+           Hall Benjamin     016         Haylow Matthe     026 
+           Hemingway Dan     031         Johnson Bruce     018 
+           Johnson Jesse     054         Johnson Ledez     009 
+           Kase Angela M     021         Lee Eugene Jo     064 
+           Limbrick Mich     062         Manzanarez El     024 
+           Mchargue Jess     069         Morrow Aaron      065 
+           Navarro Erhro     044         Paul Aaron An     056 
+           Pesicka Micha     047         Peterson Thom     004 
+           Pickle Philli     023         Ramirez Vena      006 
+           Roberts Paul      048         Rojas Ronnier     059 
+           Sambe Mamadou     011         Shady Naomi M     033 
+           Shafer Kyle J     060         Shedd Joseph      046 
+           Shubert John      040         Silvabecerra      007 
+           Simms William     052         Simon Chinara     027 
+           Smith Eugene      063         Smith Jackey      012 
+           Smith Stephan     010         Snyder Jason      002 
+           Thibodeaux Ro     039         Traylor Antho     030 
+           Troutman Choy     019         Turner Dawn       028 
+           Vandehey Shan     014         Vanpatten Jam     034 
+           Vardeleon Chr     061         Ward Aaron Le     035 
+           West John Mic     045         Williams Krys     043 
+ 
+4.  Released By Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
