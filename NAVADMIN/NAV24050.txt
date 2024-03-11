@@ -1,0 +1,81 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 111549Z MAR 24 MID120000959006U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 050/24
+
+SUBJ/FY24 PROJECTED SHIP INACTIVATION SCHEDULE (UPDATED COPY)//
+
+REF/A/DOC/OPNAVINST 4770.5J/20210904//
+REF/B/ DOC/OPNAVINST 5400.44A/20111013//
+
+NARR/REF A IS OPNAV POLICY AND GUIDANCE FOR THE INACTIVATION, RETIREMENT, AND 
+DISPOSITION OF U.S. NAVAL VESSELS.
+REF B IS NAVY ORGANIZATION CHANGE MANUAL (NOCM) FOR SUBMITTING ORGANIZATIONAL 
+CHANGE REQUESTS (OCR) TO INCLUDE SHIP DECOMMISSIONINGS OR INACTIVATIONS.//  
+ 
+POC/ROGER RABER/CIV/N9IS/LOC: Washington DC/TEL: 703-693-9547/EMAIL:
+ROGER.W.RABER.CIV(at)NAVY.MIL//
+
+RMKS/1. This message shall be read in its entirety to ensure all stakeholders 
+in the ship inactivation process are aware of the projected retirement 
+schedule for fiscal year 2024 (FY24), their respective responsibilities, 
+necessary follow-up actions, and planning required. Ship retirement decisions 
+reflected in paragraph 2 below are adjusted for completed Congressional 
+action.  This plan will be adjusted if necessary based on subsequent 
+execution year decisions made by leadership or as required by Congressional 
+action.
+
+2. To facilitate fleet planning efforts to conduct decommissioning continuous 
+maintenance availability (CMAV) or inactivation availability (INAC), the 
+projected schedule for inactivating U.S. battle force and non-battle force 
+naval vessels in FY24 is promulgated as follows:
+Ship Name                     Proj Inactive Date       Post Inactive Status
+USS ANTIETAM (CG 54)               27 SEP 24                     LSA
+USS LEYTE GULF (CG 55)             27 SEP 24                     LSA
+USS COWPENS (CG 63)                30 AUG 24                     LSA
+USS VICKSBURG (CG 69)              29 JUN 24                     LSA
+USS SAN JUAN (SSN 751)             12 AUG 24                   RECYCLE
+
+3. Per ref (b), Fleet Commanders shall submit an Organizational Change 
+Request for commissioned U.S. ships to formally notify the Office of the 
+Chief of Naval Operations (OPNAV) of a ship's decommissioning, inactivation, 
+or end of service.  Submit revisions due to operational schedule changes per 
+references (a) and (b).  It is the responsibility of Commander, U.S. Fleet 
+Forces Command and Commander, U.S. Pacific Fleet in coordination with their 
+respective Type Commanders (TYCOM) to ensure the appropriate lower echelon 
+commands are notified of any changes in the ship inactivation schedules, as 
+well as Director, Integrated Warfare (OPNAV N9I) and OPNAV resource sponsor.
+
+4. Adjustments to paragraph 2 ship inactivations that cross the current 
+fiscal year must be coordinated with OPNAV N9I due to Congressional 
+requirements for execution year force structure changes that differ from what 
+Congress authorized/appropriated and signed into law by the President.  OPNAV 
+shall promulgate changes to the inactivation fiscal year as required.
+
+5. Per ref (a), the ships listed in paragraph 2 as Logistics Support Assets
+(LSA) will be used as a primary means of cannibalization and equipment 
+removal for ships.  Cannibalizations and equipment removal from these vessels 
+is authorized without replacement.
+
+6. The ship's commanding officer, masters, or Immediate Superior In Command, 
+shall submit a final naval message (normally transmitted in conjunction with 
+the decommissioning ceremony) announcing the ship's official retirement date 
+and include a brief history of the significant events in the life of the ship 
+per ref (a).  The Naval History and Heritage Command (NAVHISTHERITAGE 
+WASHINGTON DC) and Naval Vessel Register Custodian (NVR NORFOLK VA), shall be 
+included as INFO addresses.
+
+7. Released by VADM J. E. Pitts, Deputy Chief of Naval Operations for 
+Warfighting Requirements and Capabilities (N9).//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
