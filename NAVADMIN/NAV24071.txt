@@ -1,0 +1,53 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 051927Z APR 24 MID120001011430U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 071/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/APR// 
+ 
+SUBJ/2024 ASSOCIATION OF OLD CROWS OUTSTANDING NAVY UNIT AWARD NOMINATIONS// 
+ 
+POC/BIXBY/CTTCM/OPNAV N2N6WT/TEL:  (571)256-8542/ 
+EMAIL:  GARY.W.BIXBY2.MIL(AT)US.NAVY.MIL// 
+ 
+REF/A/DOC/AOC/09FEB2024// 
+ 
+AMPN/REF A IS THE AOC LETTER TO CNO FOR ANNUAL AWARD NOMINATIONS// 
+ 
+RMKS/1.  This NAVADMIN solicits nominations for the annual Association of Old 
+Crows (AOC) Outstanding Navy Unit Award.  Per reference(a), the AOC awards 
+one Navy unit from each of three categories (air/sea/shore) that have 
+demonstrated significant contributions in Electromagnetic Warfare (EW) and 
+Information Warfare/Cyber Warfare. 
+ 
+2.  Nominations should outline specific contributions made by each unit.  All 
+nominations must be submitted using the AOC Community Awards submission form 
+located online at either the AOC Awards page (https://crows.org/awards/) or 
+the EW/ELINT Community INTELINK documents page 
+(https://intelshare.intelink.gov/sites/ctt/SitePages/Home.aspx).   
+Contact POC via email for question or if unable to access either 
+website.  Endorsement letters will be accepted as attachments.  Classified 
+supplements may also be submitted via GENSER email. 
+ 
+3.  Email nominations via Echelon II Command to Office of the Chief of Naval 
+Operations (OPNAV) point of contact (POC) NLT COB Friday, 12 July 2024.   
+Echelon II commands may submit a total of three nominations, no more 
+than one per award category.  ISICs should make every effort to submit at 
+least one unit to their Type Commander taking into account EW readiness. 
+ 
+4.  Thank you for recognizing our best warfighters. 
+ 
+5.  Released by VADM K. O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
