@@ -68,6 +68,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
     my $no_ver_url = $url->clone->query({ver => undef});
     my $dl_path = $url->path->parts->[-1]; # filename/query from URL
     my $name = $no_ver_url->path->parts->[-1]; # filename from URL
+    my $err_key = $no_ver_url->to_string;  # tracking for result of this call
 
     # The URL may have had lowercase chars, enforce filename starting with "NAV"
     substr $name, 0, 3, "NAV";
@@ -103,7 +104,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
 
             # If we failed it's time to give up
             if ($res->is_error) {
-                $errors->{$url} = {
+                $errors->{$err_key} = {
                     code => $res->code,
                     msg  => $res->message,
                 };
@@ -132,10 +133,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
             })
         ->catch(sub ($err) {
             say STDERR "Error downloading $url: $err";
-            $errors->{$url->to_string} = {
-                code => 401,
-                msg  => "$@",
-            }
+            return $errors->{$err_key}->{code};
             });
 
     return $req;
@@ -166,8 +164,6 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
     })} (@urls);
 
     return Mojo::Promise->all(@promises);
-})->catch(sub ($err) {
-    say "An error occurred! $err";
 })->then(sub (@url_groups) {
     # @url_groups is a nested list of url-lists (one batch per year). Flatten
     # to one list and grab them all.
@@ -202,6 +198,8 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
 
             save_navadmin_metadata($metadata);
         });
+})->catch(sub ($err) {
+    say "An error occurred! $err";
 });
 
 $dl_promise->wait;
