@@ -10,6 +10,7 @@ use Mojo::File;
 use Mojo::UserAgent;
 use Mojo::URL;
 
+use Term::ANSIColor qw(:constants);
 use Time::HiRes qw(usleep);
 
 no warnings "experimental::for_list";
@@ -188,7 +189,13 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
             $code_count{$_->[0]}++ foreach @results;
 
             for my ($code, $count) (%code_count) {
-                say "HTTP $code results: $count";
+                if ($code == 200) {
+                    say (sprintf ("HTTP %s results: %s", BOLD . GREEN . $code . RESET, BOLD . GREEN . $count . RESET));
+                } elsif ($code >= 400) {
+                    say (sprintf ("HTTP %s results: %s", BRIGHT_YELLOW . $code . RESET, BRIGHT_YELLOW . $count . RESET));
+                } else {
+                    say "HTTP $code results: $count";
+                }
             }
             say "Total:            ", scalar @results;
 
