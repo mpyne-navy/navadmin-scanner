@@ -60,6 +60,17 @@ sub pull_navadmin_year_links ($ua)
     return Mojo::Promise->new->resolve(@urls);
 }
 
+# Returns a promise that resolves to the provided value (which can itself be
+# another promise), after a set delay in seconds, which can be fractional
+# seconds
+sub resolve_after_delay ($val, $delay)
+{
+    # Add delay out of respect to the giant Sharepoint in the sky
+    return Mojo::Promise->new(sub ($resolve, $reject) {
+        Mojo::IOLoop->timer($delay, sub { $resolve->($val); });
+    });
+}
+
 # Returns a promise that, once resolved, will ensures the NAVADMIN pointed to
 # by $url is saved to disk.
 sub download_navadmin ($url, $ua, $metadata, $errors)
@@ -124,13 +135,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
             }
 
             # Add delay out of respect to the giant Sharepoint in the sky
-            my $promise = Mojo::Promise->new(sub ($resolve, $reject) {
-                Mojo::IOLoop->timer(0.2 => sub {
-                    $resolve->($res->code);
-                });
-            });
-
-            return $promise;
+            return resolve_after_delay($res->code, 0.2);
             })
         ->catch(sub ($err) {
             say STDERR "Error downloading $url: $err";
@@ -145,26 +150,33 @@ my $ua = Mojo::UserAgent->new->request_timeout(10);
 my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
     # This downloads each provided URL of the by-year page and extracts
     # individual NAVADMIN URLs.
-    my @promises = map { $ua->get_p($_)->then(sub ($tx) {
-        # $tx represents result of downloading by-year page
-        my $req_url = $tx->req->url->to_abs;
-        die "Failed to load $req_url: $tx->result->message"
-            if $tx->result->is_error;
+    my $year_url_groups = Mojo::Promise->map({ concurrency => 1 }, sub {
+        my $p = $ua->get_p($_)->then(sub ($tx) {
+            # $tx represents result of downloading by-year page
+            my $req_url = $tx->req->url->to_abs;
 
-        my $year = (localtime(time))[5] + 1900;
-        if (-e '.has-run' && $req_url !~ /-$year\/$/) {
-            return (); # Already run, no additional URLs to grab
-        } else {
-            say "Loaded NAVADMINs for $req_url";
-            Mojo::File->new('.has-run')->spew("NAVADMIN scanner has run");
-        }
+            my $year = (localtime(time))[5] + 1900;
+            if (-e '.has-run' && $req_url !~ /-$year\/$/) {
+                return (); # Already run, no additional URLs to grab
+            } else {
+                # Ignore errors if they occur when refreshing prior years -- yes, this really happens.
+                die ("Failed to load $req_url: " . $tx->result->message)
+                    if $tx->result->is_error;
 
-        # Decode web page result into URLs of individual NAVADMINs
-        my @links = read_navadmin_listing($tx->result->body);
-        return map { $req_url->clone->path_query($_) } (@links);
-    })} (@urls);
+                say "Loaded NAVADMINs for $req_url";
+                Mojo::File->new('.has-run')->spew("NAVADMIN scanner has run");
+            }
 
-    return Mojo::Promise->all(@promises);
+            # Decode web page result into URLs of individual NAVADMINs
+            my @links = read_navadmin_listing($tx->result->body);
+            return map { $req_url->clone->path_query($_) } (@links);
+        });
+
+        # More respect for the Great Navy Webserver
+        return resolve_after_delay($p, 0.1);
+    }, @urls);
+
+    return $year_url_groups;
 })->then(sub (@url_groups) {
     # @url_groups is a nested list of url-lists (one batch per year). Flatten
     # to one list and grab them all.
