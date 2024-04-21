@@ -1,0 +1,141 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 182050Z APR 24 MID120001036692U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 079/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/APR// 
+ 
+SUBJ/NOTICE OF CONVENING FY25 NAVY RESERVE TRAINING AND ADMINISTRATION OF THE 
+RESERVE LIEUTENANT RETENTION AND CONTINUATION SELECTION BOARDS// 
+ 
+REF/A/DOC/SECNAVINST//24JUL19// 
+REF/B/DOC/SECNAVMEMO//27MAR23// 
+ 
+NARR/REF A IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF B IS THE FISCAL YEAR 2023 AND 2024 NAVY RESERVEOFFICER RETENTION AND 
+CONTINUATION POLICY AND PLAN.  
+ 
+RMKS/1.  This NAVADMIN announces the Fiscal Year (FY) 2025 Navy Reserve 
+Training and Administration of the Reserve (TAR) officer lieutenant (LT) 
+Retention and Continuation Selection Boards.  The TAR LT retention and 
+continuation selection boards will convene, when required, immediately 
+following the corresponding FY25 Navy Reserve TAR Lieutenant Commander (LCDR) 
+promotion selection boards. Eligible TAR LTs on the Reserve Active Status 
+List (RASL) who are fully qualified to remain on Active Duty and meet the 
+requirements in paragraph 3 will be considered for retention on Active Duty, 
+and if required, continuation on the RASL. 
+ 
+2.  Effect of Failure of Selection for Promotion.  A Navy TAR LT who twice 
+failed of selection (2XFOS) for promotion to LCDR and whose name is not on a 
+promotion list is subject to involuntary release from Active Duty, and if 
+required, removed from the RASL in line with reference (a) enclosure (5) 
+paragraph 4a and 4c, unless the officer is retained on Active Duty and, if 
+required, continued on the RASL (1) under section 12686 of Title 10, U.S. 
+Code (18-year sanctuary for a regular retirement) or (2) by a TAR LT 
+Retention and Continuation Selection Board as provided for under section 
+14701 of Title 10, U.S Code.  In line with reference (b), TAR officers in the 
+grade of LT may be continued on Active Duty for up to four opportunities for 
+promotion to LCDR. 
+ 
+3.  LT unrestricted line, restricted line, and staff corps: 
+    a.  2XFOS LTs with less than 18 Years of Active Service (YOAS) on the 
+date of mandatory release from Active Duty under paragraph 2. Officers 
+selected for retention and continuation will be retained on Active Duty, and 
+if required, continued on the RASL, subject to the limits of paragraph 3.d, 
+and not to exceed four opportunities in line with reference (b).  Officers 
+released from Active Duty with less than 20 Years of Commissioned Service 
+(YCS) may request affiliation as a drilling reservist in the Selected Reserve 
+(SELRES).  To affiliate as a drilling reservist, contact 
+NRRC_RPAC_OFFICER@us.navy.mil.  Officers released from Active Duty under 
+paragraph 2 with 20 or more YCS will not be continued on the RASL in 
+accordance with section 14701 of Title 10, U.S. Code. 
+    b.  2XFOS LTs with 18-20 YOAS on the date of mandatory release from 
+Active Duty under paragraph 2., retention Selection board action is not 
+required.  Officers will be retained on Active Duty, and if required, 
+continued on the RASL until eligible for a regular retirement under section 
+8323 of Title 10, U.S. Code, subject to the limits of paragraph 3.d. 
+    c.  2XFOS LTs with 20 or more YOAS on the date of mandatory release from 
+Active Duty under paragraph 2. who are eligible for a regular retirement 
+under section 8323 of Title 10, U.S. Code, will be retired. 
+    d.  In no case will any LT be retained on Active Duty or continued on the 
+RASL beyond the last day of the month in which the officer completes 20 YCS 
+under section 14701 of Title 10, U.S. Code or the last day of the month in 
+which the officer becomes 62 years of age, whichever is earlier. 
+ 
+4.  Reserve TAR Officers on the RASL who meet any of the criteria in 
+paragraph 3 shall check BUPERS Online, via MyNavy Portal at 
+https://my.navy.mil/quick-links.html, after release of the respective 
+selection ALNAV message, to determine if they were selected for retention and 
+continuation.  Once logged into BUPERS Online, click on 
+Advancements/Selection Boards and then on the appropriate officer 
+(Promotion/Continuation) board to determine the results. 
+ 
+5.  Promotion selection board convening dates are as follows: 
+    a.  Reserve TAR O-4 Staff Corps Promotion Selection Board convenes 20 May 
+2024. 
+    b.  Reserve TAR O-4 Line Promotion Selection Board convenes 10 June 2024. 
+ 
+6.  Correspondence addressed to the promotion selection board will not be 
+forwarded to a subsequent retention and continuation board for 
+consideration.  Officers must communicate with each board separately. 
+ 
+7.  Only eligible officers may communicate with a retention and continuation 
+selection board via the Letter to the Board (LTB) process via the electronic 
+submission of selection board documents (ESSBD).  If unable to use ESSBD and 
+for more information on LTBs, visit the following 
+link:  https://www.mynavyhr.navy.mil/Career-Management/Boards/Active-Duty-
+Officer/. 
+    a.  To utilize ESSBD, candidates must access document services 
+through BOL at https://www.bol.navy.mil.  On-screen instructions will direct 
+the submitter thereafter. 
+    b.  Submission and subsequent receipt acknowledgement for LTBs submitted 
+via ESSBD or other means does not constitute confirmation of eligibility for 
+the boards to which LTBs are submitted. 
+    c.  LTBs must be received by Navy Personnel Command not later than 2359 
+(central time zone) 10 days prior to the convening date of the respective 
+board, as noted below.  Submitters are cautioned not to wait until the 
+deadline date to submit LTBs via ESSBD or other available avenues. 
+    d.  Timelines are as follows: 
+Selection Board             Convening Date      Due Date / Time 
+TAR Staff Ret/Cont Board    20 MAY 24           9 MAY 24 / 2359 CST 
+TAR URL/RL Ret/Cont Board   10 JUN 24           30 MAY 24/ 2359 CST 
+    e.  If sending a board package from a non-NMCI network 
+(bumed.mil, eu.navy.mil, etc.), please review procedures listed in NAVADMIN 
+220/19. 
+    f.  The written communication may call attention to the board, any matter 
+concerning the record of the officer that the officer considers 
+important.  Written communication may include, as enclosures, correspondence 
+from any individual concerning the eligible officer.  Correspondence not 
+originated by the eligible officer, including endorsement to the letter of 
+the eligible officer and letters written on behalf of that officer, must 
+contain a written acknowledgement by the eligible officer that he or she 
+desires such correspondence be presented to the board. 
+Correspondence without such an acknowledgement is considered third party 
+correspondence and will be returned without being presented to the 
+board.  Classified correspondence will not be accepted. 
+ 
+8.  Questions regarding LTB submission should be directed to MyNavy Career 
+Center by calling 1-833-330-MNCC (1-833-330-6622/DSN: 882-6622). 
+ 
+9.  Questions regarding retention and continuation should be directed to Navy 
+Personnel Command PERS-801 at (901) 874-4533/DSN 882.  Additional information 
+is also available at https://www.mynavyhr.navy.mil/Career-
+Management/Boards/Officer-Continuation-SERB/ 
+ 
+10.  This NAVADMIN will be canceled for record purposes on 30 September 2024. 
+ 
+11.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
