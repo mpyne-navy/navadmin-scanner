@@ -1,0 +1,179 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 291908Z APR 24 MID120001063692U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 089/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
+ 
+SUBJ/FOREIGN LANGUAGE ONE-TIME TESTING BONUS// 
+ 
+REF/A/DOC/OPNAV/08NOV18// 
+REF/B/DOC/NLSA/01MAR23// 
+REF/C/DOC/OPNAV/30AUG10// 
+ 
+NARR/REF A IS OPNAVINST 7220.7H, NAVY FOREIGN LANGUAGE PROFICIENCY 
+BONUS PROGRAM.  REF B IS THE NAVY FOREIGN LANGUAGE PROFICIENCY BONUS 
+PROGRAM GUIDANCE FOR ACTIVE AND RESERVE COMPONENTS.  REF C IS 
+OPNAVINST 5200.37, NAVY FOREIGN LANGUAGE TESTING PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces implementation of the One-Time 
+Testing Bonus (OTTB) component of the Foreign Language Proficiency 
+Bonus (FLPB) program. 
+ 
+2.  The intent of the FLPB program is to incentivize development and 
+identification of critical foreign language and dialect capabilities 
+needed to build a Navy that can fight and win.  The overall FLPB 
+program is designed to incentivize language professionals to achieve 
+and maintain higher proficiency levels and to encourage Sailors to 
+identify and measure their foreign language capability through 
+foreign language testing.  FLPB reinforces capabilities necessary 
+for interoperability with our allies and partners and supports 
+priorities outlined in the National Defense Strategy.  Specifically, 
+FLPB reinforces competencies vital to keeping pace with growing 
+multi-domain threats.  References (a) and (b) promulgate overarching 
+policy, establish procedures, and provide guidance for the 
+administration and payment of FLPB. 
+ 
+3.  Beginning 1 May through 30 September 2024, the Navy will 
+implement the OTTB component of the FLPB program and will offer a 
+one-time bonus of $500 per language to encourage foreign language 
+testing and identification of capability in the force for certain 
+languages not recently or previously incentivized through monthly 
+FLPB payments. 
+ 
+4.  Eligibility 
+    a.  OTTB is available to personnel in the Active and Reserve 
+Components with at least one year left in the Navy, who are not 
+currently receiving or eligible for monthly FLPB payments.  Sailors 
+in FLPB eligible groups or those currently receiving monthly FLPB 
+payments for any language are not eligible for the OTTB.  Groups of 
+Sailors not eligible for OTTB include language professionals (i.e., 
+foreign area officers and cryptologic technicians interpretive), 
+graduates of Defense Language Institute Foreign Language Center, 
+special forces personnel, and Sailors earning regular monthly FLPB 
+for other reasons, such as assignment to language-coded billets. 
+    b.  The languages designated for OTTB between 1 May and 30 
+September 2024 are Bulgarian, Czech, Estonian, Hausa, Hungarian, 
+Kurdish-Sorani (Kurdish-Central), Latvian, Lithuanian, Polish, 
+Romanian, Russian, Slovak, Thai, and Ukrainian.  These languages may 
+be beneficial in support of current operations with partners and 
+allies, and they align with and complement languages identified as 
+critical to Department of Defense and the Navy.  Since these 
+languages have not been recently or previously incentivized through 
+monthly FLPB payments, the Navy's current capability in these 
+languages is not measured.  OTTB may focus on other critical 
+language and dialect capabilities in future iterations. 
+ 
+5.  Award Criteria 
+    a.  Eligible Sailors with skills in one or more of the OTTB- 
+designated languages can qualify for the one-time $500 bonus in one 
+of the following two ways: 
+        (1) Achieve at least 2+ proficiency level (as measured on 
+the Interagency Language Roundtable (ILR) scale) on both the 
+listening (L) and reading (R) portions of a Defense Language 
+Proficiency Test (DLPT). 
+        (2) Achieve at least ILR level 2+ in speaking (S) via an 
+Oral Proficiency Interview (OPI). 
+    b.  ILR level 2+ is generally understood to be close to the 
+proficiency level of an educated, native speaker.  More detail on 
+ILR skill level descriptions can be found at https://www.govtilr.org/. 
+    c.  There are no DLPTs available for Estonian, Latvian, and 
+Slovak.  Sailors with skills in these languages may assess speaking 
+ability via OPI testing to demonstrate eligibility for the OTTB. 
+There is no OPI available for Lithuanian.  Sailors with Lithuanian 
+skills can only qualify for OTTB via DLPT. 
+    d.  Sailors with capability in any of the languages listed are 
+encouraged to test and may test in more than one language.  Sailors 
+with skills in multiple languages may qualify for OTTB in up to two 
+languages per month.  Sailors may take more than two tests per 
+month, however, the maximum allowable OTTB payment for each 
+individual is $1,000 per month. 
+    e.  Eligible Sailors must complete all tests on or before 30 
+September 2024 to qualify for this one-time bonus.  Sailors are 
+encouraged to take the tests as soon as possible.  Individuals must 
+wait 180 days before retaking the same DLPT or OPI.  More 
+information about foreign language testing can be found in reference 
+(c). 
+ 
+6.  DLPT 
+    a.  To schedule a DLPT, eligible Sailors should visit 
+https://www.mnp.navy.mil/group/training-education- 
+qualifications/appointment-scheduler.  If your desired testing 
+location is not available in the appointment scheduler, contact the 
+Navy Foreign Language Testing Office at languagetesting@us.navy.mil. 
+    b.  Sailors should be advised that the listening and reading 
+portions of the DLPT must be scheduled individually.  When not 
+contrary to command or testing facility policy, Sailors may take 
+listening and reading portions in any order, may take both portions 
+on the same day or on different days.  However, Sailors must 
+complete both portions of a DLPT within 30 days of each other to 
+comprise a valid test, and they must complete both portions of the 
+DLPT before 30 September 2024 to be eligible for the OTTB. 
+ 
+7.  OPI 
+    a.  Sailors should be advised that OPIs can take up to six weeks 
+to schedule and must be completed before 30 September 2024 for OTTB 
+eligibility.  To schedule an OPI, Sailors or their test 
+administrator should contact the Navy Foreign Language Testing 
+Office at languagetesting@us.navy.mil. 
+    b.  Sailors must identify a test administrator when scheduling 
+their OPI.  A test administrator must be a commissioned or warrant 
+officer, E-7 or above, or civil servant at level GS-5 or higher. 
+ 
+8.  FLPB is a special pay, not an entitlement, and is subject to 
+change or discontinuation.  Although there are no specific, unfilled 
+requirements for these skills at this time, acceptance of FLPB 
+constitutes acknowledgement of the recipient's possible eligibility 
+for deployment for language-related duties. 
+ 
+9.  Foreign language testing is beneficial to Sailors regardless of 
+eligibility for FLPB or OTTB.  Enlisted Sailors who achieve ILR 
+scores of listening 1+/reading 1+ or better via a DLPT or an ILR 
+speaking score of 1+ or better via an OPI also earn a Navy Enlisted 
+Classification code to document language skill(s) in their personnel 
+records.  The American Council on Education recommends college 
+credits for certain languages based on proficiency levels achieved 
+on the DLPT.  Sailors interested in applying for college credit 
+should contact the Defense Activity for Non-Traditional Education 
+Support Military Training Evaluation Program.  More information can 
+be found on their website at https://www.dantes.mil/credit4training/.  For 
+Navy-specific assistance on getting started, Sailors may also contact the 
+Navy College Virtual Education Center through their website at 
+https://www.navycollege.navy.mil/. 
+ 
+10.  Commanding Officers should ensure widest dissemination of this 
+information. 
+ 
+11.  Points of Contact 
+    a.  For policy questions, contact the Navy Language, Regional Expertise, 
+and Culture Office, OPNAV N13F at Navy_LREC@us.navy.mil or by phone at (703) 
+604-6267. 
+    b.  For specific FLPB payment questions, contact the program manager at 
+nxag_n13f_flpb@navy.mil or by phone at (703) 604-5509. 
+    c.  For assistance with foreign language testing and to schedule 
+an OPI, visit https://www.mnp.navy.mil/group/training-education- 
+qualifications/appointment-scheduler or contact the Navy Foreign Language 
+Testing Office at languagetesting@us.navy.mil. 
+    d.  For frequently asked questions regarding foreign language testing 
+visit https://www.netc.navy.mil/lrec/dfltp/. 
+ 
+12.  This NAVADMIN will remain in effect until superseded or 30 September 
+2024, whichever occurs first. 
+ 
+13.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
