@@ -1,0 +1,143 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 141456Z MAY 24 MID600117428188U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 097/24
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAY//
+
+SUBJ/NAVAL SPECIAL WARFARE OFFICER CONTINUATION PAY//
+
+REF/A/MSG/CNO WASHINGTON DC/N1/042108ZMAY20//
+REF/B/DOC/USC/7SEP62//
+REF/C/DOC/ASN MRA/2MAY24//
+REF/D/DOC/DOD/16JUL16//
+
+NARR/REF A IS NAVADMIN 133/20, NAVAL SPECIAL WARFARE OFFICER CONTINUATION PAY 
+MODIFICATION.   
+REF B IS TITLE 37, U.S.C., PAY AND ALLOWANCES OF THE UNIFORMED SERVICES.   
+REF C IS ASN MRA AUTHORIZATION OF THE NAVAL SPECIAL WARFARE OFFICER 
+CONTINUATION PAY PROGRAM.   
+REF D IS DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT REGULATION 7000.14, 
+VOLUME 7A, CHAPTER 2, REPAYMENT OF UNEARNED PORTION OF BONUSES AND OTHER 
+BENEFITS.//
+
+RMKS/1.  This NAVADMIN announces the renewal and modification of Naval 
+Special Warfare Officer Continuation Pay (NSWOCP) for qualified Sea, Air, and 
+Land (SEAL) officers.  This NAVADMIN supersedes reference (a).  Retaining 
+talented SEAL officers is a priority for the Navy.  NSWOCP is a monetary 
+incentive that focuses on improving retention of junior and mid-grade SEAL 
+officers.  SEAL officers who meet the eligibility criteria in this NAVADMIN 
+and hold an 1130 or 1137 designator may apply for this incentive.
+
+2.  Program Overview.  This bonus is authorized under Section 332 of 
+reference (b) and reference (c).  As of 2 May 2024, eligible officers will be 
+offered the opportunity to commit to a 3-year or 4- year phase 1 agreement 
+and a 3-year, 4-year, or 5-year phase 2 agreement for bonus amounts listed in 
+paragraph 4.  The Naval Special Warfare Plans and Policy Branch (OPNAV N137) 
+is designated as the NSWOCP Program Manager.  All applications for this bonus 
+will be submitted to the program manager for approval, payment processing, 
+and tracking.  The eligibility criteria stated in this NAVADMIN can be 
+subsequently modified by the program manager if a bonus reduction is 
+warranted based on Naval Special Warfare (NSW) community requirements.
+
+3.  Eligibility.  NSW officers with designators 1130 or 1137, who have 
+completed at least six years of Active Duty Commissioned Service (ADCS), may 
+be eligible to receive the NSWOCP.  Applicants must submit written 
+endorsement from Commanding Officer (CO) recommending bonus approval.  COs 
+must ensure applications are accurate and verify applicants meet eligibility 
+requirements.
+
+4.  Contract Terms.  NSWOCP contract lengths and payments are outlined below.
+    a.  The NSWOCP will be offered in two phases.  Officers will be paid a 
+fixed amount per year of service.
+        (1) Phase 1 NSWOCP.  Officers will have the opportunity to receive up 
+to $100,000 (1130) and $48,000 (1137) in retention bonuses for phase 1 
+contracts.
+            (a) NSW officers (1130) with six to nine years of ADCS:
+                1.  4-year agreement:  $25,000 per year
+                2.  3-year agreement:  $20,000 per year
+            (b) NSW officers (1137) with six to nine years of ADCS:
+                1.  4-year agreement:  $12,000 per year
+                2.  3-year agreement:  $10,000 per year
+        (2) Phase 2 NSWOCP.  Applicant must be an NSW officer with
+1130 or 1137 designator having reached 10 years of ADCS to receive a Phase 2 
+bonus.  Officers will have the opportunity to receive up to
+$125,000 (1130) and $60,000 (1137) in retention bonuses for phase 2 
+contracts.
+            (a) NSW officers (1130) with 10 to 14 years of ADCS:
+                1.  5-year agreement:  $25,000 per year
+                2.  4-year agreement:  $20,000 per year
+                3.  3-year agreement:  $15,000 per year
+            (b) NSW officers (1130) with 11 years of ADCS who were ineligible 
+to sign a 5-year agreement at 10 years of ADCS due to a previous NSWOCP 
+agreement:
+                1.  4-year agreement:  $25,000 per year
+            (c) NSW officers (1137) with 10 to 14 years of ADCS:
+                1.  5-year agreement:  $12,000 per year
+                2.  3-year agreement:  $10,000 per year
+            (d) NSW officers (1137) with 11 years of ADCS who were ineligible 
+to sign a 5-year agreement at 10 years of ADCS due to a previous NSWOCP 
+agreement:
+                1.  4-year agreement:  $12,000 per year
+    b.  NSWOCP agreement obligations will run concurrently with any obligated 
+service the officer has incurred for education or fellowships such as 
+postgraduate education.
+
+5.  Program Execution.
+    a.  Officers must submit their request letter to the NSWOCP program 
+manager via their chain of command.
+    b.  Upon acceptance of a bonus agreement by the program manager, the 
+amount of the bonus becomes fixed and the officer incurs a firm service 
+obligation.
+    c.  Officers may elect one of the following payment options:
+        (1) To receive an initial lump sum payment of half the total bonus 
+amount followed by equally divided annual installments through the term of 
+the agreement.
+        (2) To receive bonus payments in equal annual installments through 
+the term of the agreement.
+    d.  NSWOCP requests for personnel who are being processed for officer 
+designation removal or additional qualification designation removal will be 
+held in abeyance pending final resolution of the action in question.
+
+6.  Application Process.
+    a.  Eligible officers may apply for NSWOCP via their CO to the program 
+manager.  Submit applications via encrypted e-mail at SEAL_OCM@navy.mil.
+    b.  Officers must submit their applications to the NSWOCP program manager 
+prior to their requested start date and should ensure confirmation of 
+application receipt.  Applications received after the requested start date 
+will not be accepted, and payments will not be processed until all 
+eligibility criteria are met.  The first payment normally occurs four to six 
+weeks after all eligibility criteria are met.
+
+7.  Recoupment and Repayment Policy.  Repayment policy is governed by 
+reference (b), sections 332 and 373, and reference (d).  A member of the 
+uniformed Services who enters into a written agreement with specified service 
+conditions for receipt of a bonus is entitled to the full amount of the bonus 
+if the member fulfills the conditions of that written agreement.  If the 
+member fails to fulfill the service conditions specified in the written 
+agreement for the pay, then the pay may be terminated and the member may be 
+required to repay an amount equal to the unearned portion of the pay.
+
+8.  Points of Contact.  The primary point of contact for NSWOCP program 
+management is the NSW Officer Community Manager at (703)
+604-5063 or via e-mail at SEAL_OCM@navy.mil.
+
+9.  This NAVADMIN will remain in effect until superseded or four years has 
+elapsed from the date of release, whichever occurs first.
+
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
