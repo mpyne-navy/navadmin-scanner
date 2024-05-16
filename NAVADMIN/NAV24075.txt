@@ -1,6 +1,6 @@
 CLASSIFICATION: UNCLASSIFIED// 
 ROUTINE 
-R 101523Z APR 24 MID600117339921U 
+R 111822Z APR 24 MID600117345536U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
@@ -10,14 +10,13 @@ UNCLAS
 NAVADMIN 075/24 
  
 PASS TO OFFICE CODES: 
-FM CNO WASHINGTON DC//N1// 
 INFO CNO WASHINGTON DC//N1// 
 MSGID/GENADMIN/CNO WASHINGTON DC/N1/APR// 
  
-SUBJ/SELECTED RESERVE TUITION ASSISTANCE PILOT PROGRAM// 
+SUBJ/SELECTED RESERVE TUITION ASSISTANCE PILOT PROGRAM (CORRECTED COPY)// 
  
 REF/A/DOC/OPNAV/4MAR08// 
-REF/B/DOC/NETC/20JAN11// 
+REF/B/DOC/NETCINST/20JAN11// 
 REF/C/MSG/CNO WASHINGTON DC/281919ZSEP21// 
 REF/D/MSG/CNO WASHINGTON DC/151906ZMAY23// 
  
@@ -25,7 +24,7 @@ NARR/REF A IS OPNAVINST 1560.9A, VOLUNTARY EDUCATION (VOLED) FOR NAVY
 SAILORS.   
 REF B IS NETCINST 1560.3, NAVY VOLUNTARY EDUCATION PROGRAMS.   
 REF C IS NAVADMIN 214/21, TUITION ASSISTANCE POLICY UPDATE.   
-REF D IS NAVADMIN 112/23, TUITION ASSISTANCE UPDATE TWO.// 
+REF D IS NAVADMIN 112/23, TUITION ASSISTANCE UPDATE TWO. 
  
 RMKS/1.  This NAVADMIN announces the continuance of the Selected Reserve 
 (SELRES) Tuition Assistance (TA) Pilot Program.  It modifies and amplifies 
@@ -33,63 +32,75 @@ existing policies contained in references (a) through (d) and is in effect
 for all TA courses approved after the release of this NAVADMIN. 
  
 2.  This pilot program is open to enlisted SELRES Sailors who meet the 
-eligibility criteria outlined in paragraph 4 of this message. 
+eligibility criteria outlined in section 4 of this message. 
  
-3.  SELRES TA will be limited to a cap of 18 semester hours, 27 quarter 
-hours, or 270 clock hours (or any combination thereof) for each eligible 
-Sailor per Fiscal Year.  Eligible SELRES members are encouraged to apply in a 
-timely manner, as funding may be limited based on the approved TA budget. 
+3. SELRES TA will be limited to a cap of 18 semester hours, 27 quarter hours, 
+or 270 clock hours (or any combination thereof) for each eligible Sailor per 
+fiscal year.  Eligible SELRES members are encouraged to apply in a timely 
+manner, as funding may be limited based on the approved TA budget. 
  
 4.  In addition to the TA eligibility requirements in references (a) through 
 (d), SELRES Sailors must also meet the following requirements: 
-    a.  Be in a pay status and a satisfactory participant in the Navy 
-Reserve.  Voluntary Training Unit (VTU) members are not eligible. 
-    b.  Have served a minimum of three years time-in-service (active and/or 
-reserve) as calculated from Pay Entry Based Date. 
-    c.  Have taken the most recent advancement exam and passed if eligible 
-(E4-E6 only).  If not Time-in-Rate eligible, must have completed Professional 
-Military Knowledge-Exam Eligibility for the next higher paygrade. 
-    d.  Must not be in a Duty Under Instruction Status. 
-    e.  Must have at least two years remaining from the course start date 
-until the End of Obligated Service or as extended. 
-    f.  Not currently authorized to receive Tuition Assistance as outlined in 
+a.  Be in a pay status and a satisfactory participant in the Navy Reserve. 
+Voluntary Training Unit (VTU) members are not eligible. 
+b.  Have served a minimum of three years time-in-service (active and/or 
+reserve) as calculated from Pay Entry Based Date (PEBD). 
+c.  Have taken the most recent advancement exam and passed if eligible (E4-E6 
+only). If not Time-in-Rate eligible, must have completed Professional 
+Military Knowledge-Exam Eligibility (PMK-EE) for the next higher paygrade. 
+d.  Must not be in a duty under instruction status (DUINS). 
+e.  Must have at least two years remaining from the course start date until 
+the end of obligated service (EOS) or as extended. 
+f.  Not currently authorized to receive Tuition Assistance as outlined in 
 references (a) through (d). 
-    g.  Be approved for participation by their Navy Reserve Activity (NRA) 
-chain of command via special request chit (NAVPERS 1336/3), which can be 
-found at https://www.mynavyhr.navy.mil/References/Forms/NAVPERS/. 
+g.  Be approved for participation by their Navy Reserve Activity (NRA) chain 
+of command via Special Request chit (NAVPERS 1336/3), which can be found at 
+https://www.mynavyhr.navy.mil/References/Forms/NAVPERS/. 
  
 5.  Pre-screening process.  Commander, Navy Reserve Forces Command (CNRFC) 
 will establish a SELRES TA applicant selection process and select only 
 qualified applicants.  To be considered for SELRES TA, applicants must email 
 the following documents to SELRES_TA@us.navy.mil: 
+a. A copy of the most recent observed performance evaluation. 
+b. A copy of most recent Exam Profile Data available in NSIPS. If not 
+eligible for advancement and profile sheet is not available, provide copy of 
+PMK-EE completion certificate for the next higher paygrade or equivalent. 
+c. A copy of Physical Fitness Assessment (PFA) History. 
+d. Signed NAVPERS 1070/613, Administrative Remarks – Tuition Assistance (TA) 
+Statement of Understanding (SOU).  All SELRES TA eligibility requirements on 
+the NAVPERS 1070/613 must be initialed by applicant. The TA SOU is located at 
+https://www.navyreserve.navy.mil/Onboarding/More-Resources-and-Benefits/. 
+e. Signed NAVPERS 1336/3, Special Request/Authorization documenting approval 
+of NRA chain of command. 
  
 6.  Applications will be screened to ensure all eligibility requirements are 
-met prior to pre-approval.  Incomplete applications will be returned with no 
+met prior to pre-approval. Incomplete applications will be returned with no 
 action taken.  Prior to pre-approval, applicants are highly encouraged to 
 complete the online Virtual Learning 101 training located in MyNavy Education 
-at https://myeducation.netc.navy.mil/webta/ and upload an education plan to 
-their MyNavy Education record.  Upon pre-approval, the applicant will be 
-contacted by a Navy College representative to receive TA counseling and how 
-to submit a TA application in order to receive an authorized and funded 
-voucher.  Pre-approval and TA application forwarding must occur at least 
-seven days prior to course start date.  Sailors must not begin a TA course 
-prior to receiving an authorized and funded voucher. 
+at https://myeducation.netc.navy.mil and upload an education plan to their 
+MyNavy Education record.  Upon pre-approval, the applicant will be contacted 
+by a Navy College representative to receive TA counseling and how to submit a 
+TA application in order to receive an authorized and funded voucher.  Pre-
+approval and TA application forwarding must occur at least seven days prior 
+to course start date.  Sailors must not begin a TA course prior to receiving 
+an authorized and funded voucher. 
  
 7.  Any Sailor participating in the SELRES TA Pilot Program who fails to 
 maintain satisfactory participation, is discharged, or transferred to the VTU 
-or Individual Ready Reserve prior to their TA obligation end date will be 
-subject to recoupment of funds. 
+or Individual Ready Reserve (IRR) prior to their TA obligation end date will 
+be subject to recoupment of funds. 
  
 8.  For questions regarding degree plans or other education funding options, 
 contact Navy College Virtual Education Center via MyNavy Portal Quick Links 
 at https://my.navy.mil/quick-links.html. 
  
-9.  For questions regarding eligibility to participate in the SELRES TA pilot 
-program and approval process contact CNRFC at SELRES_TA@us.navy.mil. 
+10.  For questions regarding eligibility to participate in the SELRES TA 
+pilot program and approval process contact Commander, Navy Reserve Forces 
+Command at SELRES_TA@us.navy.mil. 
  
-10.  This NAVADMIN will remain in effect until superseded or canceled. 
+11.  This NAVADMIN will remain in effect until superseded or canceled. 
  
-11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+12.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1// 
  
 BT 
 #0001 
