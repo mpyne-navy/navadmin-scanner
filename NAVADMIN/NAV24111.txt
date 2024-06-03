@@ -1,0 +1,116 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 031326Z JUN 24 MID120001164087U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 111/24 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN // 
+ 
+SUBJ/IMPLEMENTATION OF COMMAND ADVANCE TO POSITION// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/121529ZMAR24// 
+REF/B/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/C/MSG/CNO WASHINGTON DC/062115ZOCT22// 
+REF/D/MSG/CNO WASHINGTON DC/101743ZMAY23// 
+REF/E/MSG/CNO WASHINGTON DC/011532ZFEB24// 
+REF/F/DOC/BUPERS/29SEP17// 
+ 
+NARR/REF A IS NAVADMIN 052/24, 2024 MERITORIOUS ADVANCEMENT SEASON ONE.   
+REF B IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP).   
+REF C IS NAVADMIN 228/22, DMAP PHASE II.   
+REF D IS NAVADMIN 109/23, DMAP PHASE III.   
+REF E IS NAVADMIN 017/24, DMAP PHASE IV.   
+REF F IS MILPERSMAN 1306-300, OVERSEAS TOUR EXTENSION INCENTIVES PROGRAM 
+(OTEIP).// 
+ 
+RMKS/1.  This NAVADMIN augments reference (a) and announces implementation of 
+Command Advance to Position (CA2P) for Navy-wide execution for advancement to 
+E-5 and E-6. 
+ 
+2.  CA2P Availability.  Effective 1 June 2024, CA2P will be available for 
+Active Component Sailors not participating in a Detailing Marketplace 
+Assignment Policy (DMAP) rating as described in references (b) through 
+(f).  CA2P will be available for all Sailors not under orders or with orders 
+pending release, starting with all type 2, 3, 4 and pre-commissioned sea duty 
+units, with plans to expand eligibility to additional commands in future 
+Meritorious Advancement Program (MAP) seasons.  CA2P will eventually replace 
+legacy MAP season execution for advancement to E-5 or E-6, with MAP quotas in 
+future MAP seasons transitioning fully over to CA2P usage through the next 
+two calendar years (following four MAP seasons). 
+    a.  Command Requests.  Commanding Officers (CO) may recommend Sailors for 
+CA2P at any time through one of two methods: 
+        (1) For Sailors with more than 12 months until Projected Rotation 
+Date (PRD), commands submit a Manning Realignment Request (MRR) in MyNavy 
+Assignment. 
+        (2) For Sailors within 12 months of their PRD, commands may submit 
+CA2P requests via email to their respective Placement Management (PERS-4013) 
+Placement Coordinator. 
+    b.  Inter-unit CA2P.  The Immediate Superior in Command (ISIC) or Type 
+Command (TYCOM) for the Sailor's current command can request a CA2P action 
+for a member that qualifies within their subordinate units, using the method 
+of paragraph 2a. 
+ 
+3.  This NAVADMIN does not apply to submarine and surface nuclear trained 
+Sailors.  Sailors in these communities will continue to be advanced and 
+detailed via legacy processes. 
+ 
+4.  CA2P Eligibility and Processing.  Upon receipt, PERS-4 will validate and 
+execute the following steps for a CA2P request: 
+    a.  Verify advancement eligibility.  The Sailor must have passed, (but 
+not advanced) on the most recent Navy-wide Advancement Exam (NWAE) or have 
+been selected for and still awaiting advancement. 
+    b.  Validate that the requested billet is vacant or will be vacant within 
+the next 18 months. 
+    c.  Verify that the Sailor is willing to add additional obligated service 
+to fulfill the tour length requirements for the higher paygrade 
+billet.  Normal additional service requirements default to three years.  For 
+overseas tours, service requirement must meet Department of Defense 
+requirements or reference (b) as applicable. 
+    d.  If the CA2P request is valid (i.e. the Sailor is eligible and the 
+higher paygrade billet is valid for fill), PERS-4 will approve the alignment 
+request, including the required amount of service extension the Sailor needs 
+to affect the advancement. 
+PERS-4 will generally refrain from approving CA2P requests submitted during 
+the spring and fall NWAE cycle quota determination process, to avoid 
+conflicts in the advancement processes while Navy transitions towards a 
+billet-based advancement system.  Commands may still submit MRR requests 
+during this timeframe (April and October) but can expect a delayed response 
+timeframe. 
+    e.  For inter-unit CA2P as requested by TYCOM or ISIC, requests will 
+usually only be approved if the two units are within the same duty station 
+and will not incur permanent change of station costs. 
+    f.  Sailors must have two years of cumulative sea duty to be eligible for 
+CA2P to E-5.  Sailors that have previously CA2P'd to E-5 must be willing to 
+serve two years in addition to the current tour length to be eligible to CA2P 
+to E-6. 
+ 
+5.  Processing Advancements.  Once the MRR is approved, COs should submit to 
+Transaction Support Center, on command letterhead, documentation certifying 
+the completion of all requirements for advancement through CA2P, and PERS-4 
+approval of the MRR.  The advancement is effective the date of MRR approval, 
+and Sailors may wear the higher paygrade insignia immediately. 
+ 
+6.  Incentives.  DMAP ratings remain eligible for CA2P in line with reference 
+(c).  Sailors who are assigned to overseas tours will need to meet DoD 
+requirements to be eligible for either the overseas tour extension incentives 
+program or the consecutive overseas tour program.  Refer to reference (b) for 
+additional details. 
+ 
+7.  For additional questions on CA2P, contact the MyNavy HR DMAP team at 
+DMAP.fct@navy.mil. 
+ 
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever comes first. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
