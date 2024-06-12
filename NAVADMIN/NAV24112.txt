@@ -1,6 +1,6 @@
 CLASSIFICATION: UNCLASSIFIED// 
 ROUTINE 
-R 031821Z JUN 24 MID120001165311U 
+R 031821Z JUN 24 MID120001178269U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
@@ -14,10 +14,12 @@ FM CNO WASHINGTON DC//N7//
 INFO CNO WASHINGTON DC//N7// 
 MSGID/GENADMIN/CNO WASHINGTON DC/N71/JUN// 
  
-SUBJ/ACADEMIC YEAR 2025-2026 FLEET SCHOLARS EDUCATION PROGRAM// 
+SUBJ/ACADEMIC YEAR 2025-2026 FLEET SCHOLARS EDUCATION PROGRAM CORRECTED 
+COPY// 
  
 REF/A/DOC/CNO WASHINGTON DC/15AUG16// 
 REF/B/DOC/CNO WASHINGTON DC/08JAN15// 
+ 
 REF A IS OPNAVINST 1500.78, FLEET SCHOLARS EDUCATION PROGRAM// 
 REF B IS OPNAVINST 1520.24D, OFFICER SCHOLARSHIP PROGRAM 
  
@@ -68,15 +70,17 @@ Placement (PERS-440) to meet the AY25-26 fall/winter
 semester/quarter start dates. Each community sponsor may select up 
 to their annual allocated graduate education opportunities, per 
 reference (a), shown below: 
-CommunityDesignatorOpportunities 
-SURFOR11108 
-SUBFOR11205 
-NSW11303 
-EOD11403 
-AIRFOR1310, 13206 
-IWC18101 
-18201 
-18301 
+ 
+Community Designator Opportunities 
+SURFOR          1110            8 
+SUBFOR          1120            5 
+NSW             1130            3 
+EOD             1140            3 
+AIRFOR          1310, 1320      6 
+IWC             1810            1 
+                1820            1 
+                1830            1 
+ 
   b.  Upon notification of selection to FSEP, selectees should apply 
 to at least three accredited graduate education institutions. 
 Participants may be reimbursed for up to three application and 
@@ -97,6 +101,7 @@ occur prior to 01 July 2025 for the fall/winter term of AY25-26.
    a.  FSEP participants should choose a subspecialty code from the 
 following areas of study. Degrees earning a subspecialty code not 
 listed below will have a tuition cap. 
+ 
 National Security / Regional Studies - 2XXX 
 Public Policy / Public Administration - 3000 
 Education and Training Management - 3150 
@@ -104,6 +109,7 @@ Operations Resource Management - 321X
 Mathematics - 4100 
 Engineering and Technology - 5XXX 
 Systems Operations - 6XXX 
+ 
    b.  All degree programs shall yield a subspecialty code upon 
 completion; therefore, all Education Plans will be reviewed against 
  the Educational Skill Requirement (ESR) and approved by the 
@@ -117,7 +123,7 @@ degree approval request to the CIVINS office.
 5.  Tuition Cap. For degrees that earn a subspecialty code listed 
  in paragraph 4, FSEP selectees will receive 100% funding for 
 tuition related expenses.  For any other degree programs, FSEP 
-selectees will only receive a maximum of $40K/year in tuition 
+selectees will only receive a maximum of  $40K/year in tuition 
 related expenses for a total of $80K per capped participant. 
 Selectees may use a combination of scholarships, post-9/11 G.I. Bill 
 benefits, and personal resources to cover additional costs. 
@@ -140,8 +146,8 @@ reference (a).
   a. For AY 25/26 FSEP quota availability contact your detailer. 
   b. For policy questions, e-mail OPNAV N711 (OPNAV_N711@us.navy.mil). 
  
-9.  This message will remain in effect until superseded or 31 May 2025, 
-whichever occurs first. 
+9.  This message will remain in effect until superseded or 
+31 May 2025, whichever occurs first. 
  
 10.  Released by VADM D. W. Dwyer, Deputy Chief of Naval Operations 
 for Warfighting Development (N7).// 
