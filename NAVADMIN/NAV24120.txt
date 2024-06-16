@@ -1,0 +1,85 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 141243Z JUN 24 MID120001207900U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 120/24 
+ 
+SUBJ/U.S. NAVY DEFENSE INFORMATION SYSTEM FOR SECURITY ACCOUNTABILITY 
+REQUIREMENT FOR INTELLIGENCE AND NON-INTELLIGENCE SECURITY MISSIONS// 
+ 
+REF/A/DOC/SECDEF MEMO/30JUN2023// 
+REF/B/DOC/DODM 5200.01 V-3/19MAR2013// 
+REF/C/DOC/DODM 5105.21 V-2/19OCT2012// 
+REF/D/DOC/SECNAVINST 5510.30C/24JAN2020// 
+REF/E/DOC/SECNAV-M 5510.36B/12JUL2019// 
+ 
+NARR/REF A DIRECTS SECURITY REVIEWS AND FOLLOW-ON ACTIONS TO IMPROVE COMMAND 
+ACCOUNTABILITY OF CLASSIFIED NATIONAL SECURITY INFORMATION (CNSI). 
+REF B PROVIDES DOD INFORMATION SECURITY PROGRAM MANAGEMENT AND GUIDANCE. 
+REF C PROVIDES SENSITIVE COMPARTMENTED INFORMATION (SCI) POLICY GUIDANCE 
+SPECIFIC TO THE PROTECTION OF CNSI AND SCI FACILITY OPERATIONS.  
+REFS D AND E ARE THE DON POLICY AND GUIDANCE FOR COMMANDER'S IMPLEMENTATION 
+OF THE PERSONNEL SECURITY AND INFORMATION SECURITY PROGRAMS. 
+ 
+POC/MR. MARK LAWTON/CIV/NIA N7/ARLINGTON VA/TEL:  (703) 604-5736/ 
+EMAIL:  MARK.K.LAWTON.CIV(AT)US.NAVY.MIL/NAVY CSA// 
+POC/MS. LORRAINE PELLEGRINO/CIV/NIA N7/ARLINGTON VA/TEL:  (703) 604-6126 
+EMAIL:  LORRAINE.A.PELLEGRINO.CIV(AT)US.NAVY.MIL/SCI POLICY/SETA// 
+ 
+RMKS/1.  This NAVADMIN message designates the Deputy Chief of Naval 
+Operations for Information Warfare (OPNAV N2N6) to manage and 
+administratively oversee Security Management Office (SMO) affiliation and 
+Defense Information System for Security (DISS) accountability for reviewing 
+Navy personnel and security records per reference (a).  The review also 
+satisfies the Secretary of the Navy's (SECNAV) follow-on guidance in response 
+to the Air National Guardsman/DISCORD Unauthorized Disclosure incident. 
+ 
+2.  To achieve compliance with reference (a), all Navy commands with an 
+intelligence mission (SCI/Controlled Access Program/Special Access Program) 
+and all Navy commands with a non-intelligence mission (Secret/Top Secret) 
+will complete the following actions by 15 July 2024: 
+    a.  Command activity security managers (ASMs) and special security 
+officers (SSOs) will ensure that all personnel under their SMO cognizance 
+have (1) a valid and appropriate security clearance, 
+(2) a fully executed non-disclosure agreement, and (3) a valid need to know 
+before allowing access to CNSI at any level. 
+    b.  ASMs and SSOs will ensure accurate DISS SMO files for all DON 
+personnel in their respective DISS SMO subject lists through a comprehensive 
+review of personnel records.  An accurate DISS record verification indicates 
+a verified need to know, a non-disclosure agreement signature date in DISS 
+for each assigned record, valid (SCI and/or collateral) accesses recorded in 
+DISS, and appropriate SMO ownership by the sponsoring command ASM or SSO. 
+    c.  ASMs and SSOs will provide a report of compliance to the Navy 
+Cognizant Security Authority (CSA)/SSO Navy at 
+ssonavyhq_scipolicy@us.navy.mil.  The report must include: 
+        (1) SMO code. 
+        (2) ASM/SSO point of contact (name, title, phone/email). 
+        (3) Higher echelon reporting command/SMO POC. 
+        (4) Any discrepancies found in DISS SMO verification and resolution. 
+        (5) Notification of a non-managed SMO 
+(no assigned users or managers) that can be deactivated within DISS. 
+ 
+3.  ASMs and SSOs are to adhere to the emerging requirement per reference (a) 
+to conduct an annual self-inspection of DISS recordkeeping.  Certification of 
+full and accurate DISS ownership will be submitted to Navy CSA/SSO Navy 
+annually by 1 December for consolidation and reporting to CNO via Director, 
+Navy Staff/OPNAV N2N6 and to SECNAV via the Deputy Under Secretary of the 
+Navy for Intelligence and Security.  Annual self-inspection requirements will 
+be integrated into Navy Inspector General reviews of Navy commands with CNSI 
+security requirements. 
+ 
+4.  This NAVADMIN message will remain in effect until canceled or superseded. 
+ 
+5.  Released by VADM K. O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
