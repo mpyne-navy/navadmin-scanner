@@ -1,0 +1,81 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 181909Z JUN 24 MID120001218505U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+COMMARFORCOM
+COMMARCORSYSCOM LCES QUANTICO VA
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+SUBJ/CHIEF OF NAVAL OPERATIONS SECOND QUARTER FY24 GOLD DISK AWARDEES//  
+
+NAVADMIN 122/24//
+
+MSGID/GENADMIN/CNO WASHINGTON DC //N8//JUNE//
+
+REF/A/JFMM VOLUME VI, CHAPTER 8//
+AMPN/REF A IS THE JOINT FLEET MAINTENANCE MANUAL 2M ELECTRONIC REPAIR 
+CHAPTER// 
+
+REMARKS/1.  In 1997, the Deputy Chief of Naval Operations (Logistics) 
+implemented a CNO Gold Disk Awards Program.  This program was designed to 
+encourage fleet personnel in the maritime community to develop gold disk test 
+routines and repair circuit card assemblies and electronic modules.  The 
+resulting benefits have resulted in improved operational readiness of a wide 
+range of C5I and HM&E systems in addition to significantly improved OPTAR 
+cost avoidance.  The award consists of a Letter of Commendation signed by 
+Deputy CNO for Integration of Capabilities and Resources and a military cash 
+award of up to five thousand dollars.
+
+2.  The cash award criteria is a graduated dollar value dependent upon cost 
+avoidance thresholds.  The award program not only rewards the top repair 
+technician, but every technician that meets the following quarterly cost 
+avoidance thresholds:
+$150k to $199k of cost avoidance yields a $2k award $200k to $249k of cost 
+avoidance yields a $3k award $250k to $299k of cost avoidance yields a $4k 
+award $300k and over of cost avoidance yields a $5k award
+
+3.  The CNO Gold Disk Awards Program is administered by the NAVSEA Miniature 
+Microminiature Module Test and Repair (2M MTR) Program Manager.  FLEET 2M MTR 
+policy and responsibilities are contained in reference (a).  Gold Disk 
+awardees are selected by an awards board at NUWC DETACHMENT field engineering 
+office in Norfolk.  The selection is based on 2M repair metrics submitted in 
+the module test and repair tracking system or verification of recently 
+submitted Gold Disk test routines.
+
+4.  I am proud to announce the 2nd Quarter FY24 awardees: (read in two 
+columns)
+ET1  ADAM BARBER          USS DWIGHT D EISENHOWER (CVN 69)
+ET2  ANDREW ALEXANDER     USS THOMAS HUDNER (DDG 116)
+ET2  REESE CASTRO         MARMC NORFOLK VA
+ET2  MATHEW DRAKE        USS LABOON (DDG 58)
+ET2  ALEXANDRA GONTER    MARMC NORFOLK VA
+ET2  DANIEL GOODIN        USS PHILIPPINE SEA (CG 58)
+ET2  KYLE HARMON         MARMC NORFOLK VA
+ET2  LANDON HAWKINS       SWRMC SAN DIEGO
+ET2  BRANDON KENDALL      USS BLUE RIDGE (LCC 19)
+ET2  ISAAC MARBLE        U.S. AEGIS ASHORE MISSILE DEFENSE
+ET2  GUILLERMO MENDOZA    MARMC NORFOLK VA
+ET2  CHRISTOPHER NORBERG  USS DEWEY (DDG 105)
+ET2  STEVEN PEREZ         USS DONALD COOK (DDG 75)
+ET2  MATEO RESTREPO       NAVSUBSUPFAC NEW LONDON
+ET2  WINSTON WYLIE        MARMC NORFOLK VA
+ET3  KYLE BARBER          USS MASON (DDG 87)
+CPL  WESLEY BUCHER        ELMACO 2D MAINT BN CLR 25
+ET3  BRADLEY DORTON       NNSY MID-ATLANTIC REGIONAL CAL CENTER
+
+5. NUWC DET FEO NORFOLK POC is Mr. Scott Doherty, 2M MTR and Gold Disk Fleet 
+Coordinator, 757-396-0800 EXT 5308, DSN 386-5308 or via e-mail, 
+SCOTT.P.DOHERTY2.CIV(AT)US.NAVY.MIL.  THE NAVSEA 2M MTR PM, is Mr. Richard R.
+Stark, COMM 850 207-6985 or via e-mail RICHARD.R.STARK.CIV(AT)US.NAVY.MIL
+
+6.  Released by Neil W. T. Hogg, SES, Assistant Deputy Chief of Naval 
+Operations, N8B.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
