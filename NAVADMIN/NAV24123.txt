@@ -1,0 +1,138 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+
+R 182023Z JUN 24 MID120001218740U
+
+FM CNO WASHINGTON DC
+
+TO NAVADMIN
+
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+
+NAVADMIN 123/24
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUN//
+
+SUBJ/NAVY PHYSICAL READINESS PROGRAM UPDATE//
+
+REF/A/DOC/BUPERS/18AUG22//
+REF/B/DOC/BUPERS/7FEB22//
+REF/C/DOC/OPNAV/22APR22//
+REF/D/DOC/OPNAV/JAN24//
+REF/E/DOC/OPNAV/JAN24//
+REF/F/DOC/OPNAV/JAN24//
+
+NARR/REF A IS BUPERSINST 1610.10F NAVY PERFORMANCE EVALUATION SYSTEM.  
+REF B IS BUPERSINST 1430.16G ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL OF THE 
+U.S. NAVY AND U.S. NAVY RESERVE.
+REF C IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM.  
+REF D IS NAVY PHYSICAL READINESS PROGRAM GUIDE 4, BODY COMPOSITION 
+ASSESSMENT.
+REF E IS NAVY PHYSICAL READINESS PROGRAM GUIDE 5, PHYSICAL READINESS TEST.  
+REF F IS NAVY PHYSICAL READINESS PROGRAM GUIDE 9, COMMAND PHYSICAL TRAINING 
+AND FITNESS ENHANCEMENT PROGRAM.//
+
+RMKS/1.  This NAVADMIN announces changes to references (a) through
+(f) for the physical readiness program related to fitness reports, 
+evaluations, and reenlistment and extension recommendations.  These changes 
+remove mandatory significant problem comments and administrative actions 
+concerning physical readiness program failures.  Additionally, the Navy will 
+conduct a single Calendar Year (CY) 2025 Physical Fitness Assessment (PFA) 
+cycle.
+
+2.  Navy's Culture of Excellence 2.0 charges our leaders to build great 
+people, great leaders, and great teams:  their minds, bodies, and spirits, 
+eliminating barriers wherever possible.  In response, we are modernizing our 
+PFA policy to acknowledge our diverse population, increase Sailor trust, and 
+enhance quality of service.
+Building the bodies of great people is more than annual (or
+biannual) testing and includes ensuring healthy food, adequate sleep, 
+opportunities to exercise (especially outside), and medical readiness.  
+Commanding Officers (COs) are able to evaluate a Sailor's physical readiness 
+progress or lack of progress in performance evaluations, giving them the 
+ability to manage risk, recognize earnest effort, and best take care of their 
+people.
+
+3.  Effective immediately:
+    a.  Enlisted Evaluation/Officer Fitness Reports.
+        (1) No mandated or prohibited trait mark is required in *Military 
+Bearing/Professionalism* for promotability and/or retention for the reporting 
+period in which member's first PFA failure occurs.  COs will evaluate the 
+Sailor's PFA progress or lack of progress when evaluating performance.
+        (2) For a reporting period in which a member has accumulated two 
+consecutive PFA failures:
+            (a) Enlisted members are not mandated to receive minimal marks or 
+trait grades in Military Bearing/Professionalism (CHIEFEVAL block 35 and EVAL 
+block 36) or Significant Problems and Retention Not Recommended (EVAL block 
+45 and block 47).  COs are encouraged to document a member's progress and 
+initiative in attaining current physical fitness standards in the narrative 
+section (CHIEFEVAL Block
+41 or EVAL Block 43) and suitability for retention (EVAL Block 47).
+            (b) Officers are not mandated to receive minimal marks or trait 
+grades in Military Bearing (FITREP block 35) nor marked for Significant 
+Problems (FITREP block 42).  COs are encouraged to document member's progress 
+and initiative in attaining current physical fitness standards and 
+suitability for retention in comments section (FITREP block 41).
+    b.  Retention Recommendations.  Eligibility for enlisted members will be 
+at the discretion of the CO.  However, if retention or reenlistment 
+eligibility is removed, the CO may submit a special evaluation report to 
+restore eligibility.
+        (1) Commands shall not process for administrative separation Sailors 
+who were conditionally reenlisted under a PFA readiness waiver and 
+subsequently failed an official PFA.
+        (2) Reporting Seniors retain the authority to recommend against 
+retention through the use of an adverse evaluation.
+        (3) This change provides command leadership discretion on retention 
+recommendations to exercise in the best interests of the Navy.  In exercising 
+this discretion, commands should consider a
+Sailor's:
+            (a) Qualification for continued service, based on the Sailor's 
+ability to perform the functions of their rate without physical or medical 
+limitation at sea, shore or isolated duty,
+            (b) Their overall ability to contribute to Navy missions, and
+            (c) The likelihood of improvement in meeting PFA standards within 
+the next 12 months.
+    c.  Enlisted advancement.  Failure of a PFA removes the Sailor's 
+eligibility for advancement, including the ability to negotiate for billet-
+based advancement orders or effecting legacy advancements.
+        (1) Though submission of an adverse evaluation is no longer required, 
+COs who decide not to issue an adverse evaluation and withdraw advancement 
+are directed to withhold advancement eligibility for any enlisted Sailor that 
+fails a PFA cycle (until a subsequent official or mock PFA is passed) by 
+submitting a signed NAVPERS 1070/613 to Navy Educational and Professional 
+Development Center, utilizing procedures as detailed in reference (b).
+        (2) An advancement withhold should be placed on the record for every 
+subsequent PFA failure the CO decides not to issue an adverse evaluation on 
+until a mock or official PFA has been passed or the advancement 
+recommendation has been completely withdrawn through the use of an adverse 
+evaluation.
+    d.  Officer Promotions.  Officers who fail one PFA will continue to be 
+ineligible for promotion per reference (c).
+
+4.  CY25 PFA Cycle.  The Navy-wide PFA cycle will be from 1 February to 30 
+November 2025 in line with references (c) through (f), which are located at:  
+https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Physical-
+Readiness/
+
+5.  The point of contact for questions is My Navy Career Center at
+(833) 330-MNCC or askmncc.fct@navy.mil
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
