@@ -1,0 +1,196 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 241542Z JUN 24 MID120001233035U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 126/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N95// 
+INFO CNO WASHINGTON DC//N95// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N95/JUN// 
+ 
+SUBJ/2024 U.S. NAVY MARKSMANSHIP TEAM LANT AND PAC FLEET RESULTS, TEAM 
+SELECTION AND COMPETITION SCHEDULE// 
+ 
+REF/A/MSGID:INST/OPNAVINST 3590.26A/YMD:20210818// 
+REF/B/MSGID:MSG/USFF/311533ZJAN24// 
+REF/C/MSGID:DOC/COMNAVPERSCOM/23AUG21// 
+REF/D/MSGID:INST/OPNAVINST 3591.1G/YMD:20210601// 
+ 
+NARR/REF A IS U.S. NAVY MARKSMANSHIP TEAM AND NAVY DISTINGUISHED MARKSMAN 
+PROGRAM.  
+REF B IS 2024 NAVY MARKSMANSHIP TEAM SMALL ARMS TRAINING AND CHAMPIONSHIPS 
+ANNOUNCEMENT MESSAGE.  
+REF C IS NAVPERS 15665J, U.S. NAVY UNIFORM REGULATIONS. REF D IS SMALL ARMS 
+TRAINING AND QUALIFICATION.// 
+ 
+POC1/MICHALAK/CDR/UNIT:MARKSMANSHIP TEAM OIC/NAME:VA BCH, VA 
+/TEL:757-417-4130/EMAIL:DAVID.M.MICHALAK.MIL(AT)US.NAVY.MIL// 
+POC2/CROXSON/CAPT/UNIT:MATCH DIRECTOR EAST/NAME:QUANTICO, VA 
+/TEL:703-614-6427/EMAIL:ROBERT.D.CROXSON.MIL(AT)US.NAVY.MIL// 
+POC3/CURRIER/CAPT/UNIT:MATCH DIRECTOR WEST/NAME:PENDLETON, CA 
+/TEL:858-761-1503/EMAIL:JESSE.CURRIER3.MIL(AT)US.NAVY.MIL// 
+ 
+GENTEXT/REMARKS/1. The 2024 Annual Navy Markmanship Team Small Arms Training 
+and Championships were conducted in accordance with reference (a) and (b). 
+The top Navy marksman in rifle and pistol are identified below and comprise 
+of the 2024 team to represent the U.S. Navy at interservice and national 
+competitions. 
+ 
+2. 2024 U.S. Navy Rifle Team: 
+ 
+LCDR Jafar Ali                USS MONTPELIER (SSN 765) 
+MA1  Shawn Bly                NAVSTA GREAT LAKES SECURITY 
+ND1  Dylan Caves              NR SURGE DIVE NEWPORT 
+CAPT Robert Croxson           ASST SECNAV R AND D AND ACQ 
+CAPT Jesse Currier            NR SUBPAC HQ 
+LCDR James Farnsworth         NR CTF56 BAHRAIN 
+ABE1 Craig Gonzales           USS HARRY S TRUMAN (CVN 75) 
+LS1  Keith Hague              VR 61 
+MMNC Robert Hughes            SUPSHIP NEWPORT NEWS 
+CMDCM Christopher Johnson     USS GERMANTOWN (LSD 42) 
+ITRCM Christopher Martindell  NR NIFR SW SDC 
+CDR  David Michalak           INFORMATION WARFARE TRAINING GROUP 
+LTJG Jacob Milich             HSM 40 
+FCCM Brian Reed               USS BOXER (LHD 4) 
+LSC  Jason Ryan               NIWC ATLANTIC TIDEWATER 
+CAPT Lawrence Spurlin         NR CSG4 FP 
+HTC  Steven Triano      NR NEW YORK CITY 
+MA2  Jordan Turner            NR NSF PITTSBURGH 
+CDR  Matthew Walters          NAVAL POSTGRADUATE SCHOOL 
+LCDR Kirt Yeiser              JOINT STRIKE FIGHTER WING 
+CDR  Joseph Zerby             HQ ALLIED MARITIME COMMAND 
+ 
+3. 2024 U.S. Navy Pistol Team: 
+ 
+LCDR Jafar Ali                USS MONTPELIER (SSN 765) 
+CAPT Jesse Currier      NR SUBPAC HQ 
+GMCS Jeremy Codling           NR SOC SOUTH DET 108 
+CAPT Robert Croxson           ASST SECNAV R AND D AND ACQ 
+CDR  Kevin Darmody            NR NAVFAC HQ 
+LCDR Eric Hingley             NR 4TH MAR DIV 
+MMNC Robert Hughes            SUPSHIP NEWPORT NEWS 
+LT   Jonathan Jackson         VT 7 
+LT   Philip Jones             RLSO SOUTHEAST DET JAX 
+ITRCM Christopher Martindell  NR NIFR SW SDC 
+LTJG Jacob Milich             HSM 40 
+FCCM Brian Reed               USS BOXER (LHD 4) 
+GMC  Brandon Stallings        ATG PACIFIC DET SAN DIEGO 
+CDR  Matthew Walters          NAVAL POSTGRADUATE SCHOOL 
+ 
+4. Atlantic Fleet Winners: 
+   a. Atlantic Fleet Pistol (Active Duty Category): 
+      First Place:  LTJG Jacob Milich 
+      Second Place: LCDR Jafar Ali 
+      Third Place:  MMNC Robert Hughes 
+   b. Atlantic Fleet Pistol (Reserve Duty Category): 
+      First Place:  LCDR Eric Hingley 
+      Second Place: CDR  Kevin Darmody 
+      Third Place:  CAPT Lawrence Spurlin 
+   c. High New Pistol Competitor:  LTJG Jacob Milich 
+   d. Atlantic Fleet Rifle (Active Duty Category): 
+      First Place:  LCDR Jafar Ali 
+      Second Place: MMNC Robert Hughes 
+      Third Place:  MA1 Shawn Bly 
+   e. Atlantic Fleet Rifle (Reserve Duty Category): 
+      First Place:  HTC  Steven Triano 
+      Second Place: ND1  Dylan Caves 
+      Third Place:  MA2  Jordan Turner 
+   f.  High New Rifle Competitor:  LTJG Jacob Milich 
+ 
+5. Pacific Fleet Winners: 
+   a. Pacific Fleet Pistol (Active Duty Category): 
+      First Place:  CDR  Matthew Walters 
+      Second Place: FCCM Brian Reed 
+      Third Place:  GMC  Brandon Stallings 
+   b. Pacific Fleet Pistol (Reserve Duty Category): 
+      First Place:  CAPT Jesse Currier 
+      Second Place: ITRCM Christopher Martindell 
+      Third Place:  GMCS Jeremy Codling 
+   c. High New Pistol Competitor: GMCS Jeremy Codling 
+   d. Pacific Fleet Rifle (Active Duty Category): 
+      First Place:  CDR Matthew Walters 
+      Second Place: CDR Kirt Yeiser 
+      Third Place:  CMDCM Christopher Johnson 
+   e. Pacific Fleet Rifle (Reserve Duty Category): 
+      First Place:  ITRCM Christopher Martindell 
+      Second Place: CAPT Jesse Currier 
+      Third Place:  LS1  Keith Hague 
+   f. High New Rifle Competitor: LCDR Damon Kroes 
+ 
+6. The Below Sailors earned Pistol Excellence in Competition Awards during 
+the Fleet or All Navy Competition. 
+In accordance with reference (c), these awards are worn on the Navy uniform: 
+ 
+   Gold (All Navy): FCC Toby Hughes 
+   Gold (All Navy) MMNC Robert Hughes 
+   Gold (Fleet): ITRCM Christopher Martindell 
+   Gold (Fleet): LTJG Jacob Milich 
+   Silver (All Navy): GMC Taylor Watnemo 
+   Silver (All Navy): LTJG Jacob Milich 
+   Silver (All Navy): LT Philip Jones 
+   Silver (Fleet): MA1 Samuel Williams 
+   Bronze (All Navy): LCDR Damon Kroes 
+   Bronze (ALL Navy): MA2 Andrew Rios 
+   Bronze (ALL Navy): CAPT Robert Croxson 
+   Bronze (Fleet): MMNC Robert Hughes 
+   Bronze (Fleet): GMCS Jeremy Codling 
+   Bronze (Fleet): FCC Jeremy Dittrick 
+   Bronze (Fleet): FCC Toby Hughes 
+   Bronze (Fleet): MA2 Andrew Rios 
+ 
+7. The Below Sailors earned Rifle Excellence in Competition Awards during the 
+Fleet or All Navy Competition. 
+In accordance with reference (c), these awards are worn on the Navy Uniform: 
+ 
+   Gold (All Navy): MA1 Shawn Bly 
+   Gold (ALL Navy): FCCM Brian Reed 
+   Gold (Fleet): LS1 Keith Hague 
+   Silver (All Navy): CDR Kirt Yeiser 
+   Silver (All Navy): CMDCM Christopher Johnson 
+   Silver (Fleet): MA1 Shawn Bly 
+   Silver (Fleet): CAPT Robert Croxson 
+   Silver (Fleet): CDR Kirt Yeiser 
+   Silver (Fleet): CMDCM Christopher Johnson 
+   Bronze (All Navy): FCC Jeremy Dittrick 
+   Bronze (All Navy): MA2 Jordan Turner 
+   Bronze (ALL Navy): LCDR Damon Kroes 
+   Bronze (Fleet): LCDR Damon Kroes 
+   Bronze (Fleet): ITRCM Christopher Martindell 
+   Bronze (Fleet): CAPT Jesse Currier 
+   Bronze (Fleet): LT Curt Metzger 
+ 
+8. Higher Level Competition Schedule And Team Captain 
+assignment is below. Registration is at 
+https://thecmp.org/competitions/matches/military-matches/. 
+    a. Rifle 
+       (1) Inter-Service Rifle Championships: 20-29 June 2024, 
+Marine Corps Base Quantico, VA. CAPT Robert Croxson, Team Captain. 
+       (2) CMP National Rifle Championships: 21-30 July 2024, 
+Camp Perry, OH.  The Team Captain is to be determined. 
+   b. Pistol 
+      (1) Inter-Service Pistol Championships: 17-22 November 2024, 
+Fort Moore, GA. The Team Captain is to be determined. 
+      (2) CMP National Pistol Championships: 14-20 July 2024, 
+Camp Perry, OH. CDR Matthew Walters, Team Captain. 
+ 
+9. Sailors not identified as 2024 Team Members may still participate in all 
+of the events identified in paragraph 8.  Although these venues are higher 
+level competitions, they still offer an excellent training opportunity for 
+all who attend. 
+Per reference (d), Commanding Officers are authorized to fund their Sailors 
+participation in Advanced Markmanship Events. 
+ 
+10. Released by VADM E. H. Black III, Performing the Duties of Director, Navy 
+Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
