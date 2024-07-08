@@ -1,0 +1,164 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 081511Z JUL 24 MID120001272436U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+N 
+AVADMIN 137/24 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC//JUL// 
+ 
+SUBJ/CALL FOR FISCAL YEAR-26 COMMAND MASTER CHIEF AND COMMAND SENIOR 
+CHIEF SCREEN BOARD MEMBERSHIP AND APPLICATIONS// 
+ 
+REF/A/DOC/BUPERS/29APR2020// 
+REF/B/OPNAV/16JUL2021// 
+ 
+NARR/REF A IS BUPERSINST 1401.5C, SUPPLEMENTAL GUIDANCE FOR U.S. NAVY 
+SELECTION BOARDS.   
+REF B IS OPNAVINST 1306.2K, COMMAND SENIOR ENLISTED LEADER PROGRAM// 
+ 
+RMKS/1.  This NAVADMIN announces guidance for the Fiscal Year (FY) 2026 
+Command Master Chief (CMDCM) and Command Senior Chief (CMDCS) screen 
+board.  The deadline to apply to the CMDCM/CMDCS program in order to be 
+considered by the board is 15 October 2024. 
+ 
+2.  Board Membership.  Members will be selected from within the Master Chief 
+Petty Officer of the Navy leadership mess (Fleet Master Chiefs, Force Master 
+Chiefs, and CMDCMs assigned to Flag or General Officers) and notified of 
+their selection as a board member from Navy Personnel Command (PERS-8).  Any 
+board member who believes that he or she cannot, in good conscience, perform 
+his or her duties as a member of the board without prejudice or partiality 
+must request relief when notified.  Board membership criteria is contained in 
+reference (a). 
+ 
+3.  Screen Board Eligibility Criteria.  Candidates must have, at a minimum, 
+an adjudicated final secret security clearance.  Frocked or selected E8/E9 
+are eligible to submit.  Senior Enlisted Marketplace (SEM) screened E9 
+candidates interested in the Command Senior Enlisted Leader (CSEL) program 
+will submit a package in their current pay grade (E8) and lose their screen 
+eligibility if selected for CMDCS.  SEM screened E8 candidates are not 
+eligible for the CSEL program.  There are no Time-In-Service (TIS) waivers or 
+Senior Enlisted Academy (SEA) operational waivers for non-completion. 
+Reference (b) contains the eligibility requirements to apply for the CMDCM 
+and CMDCS screen board with the following updates: 
+    a.  Active Component (AC) E9 personnel will not have less than 16 years 
+or greater than 28 years TIS total as of 31 December 2024. 
+    b.  AC E8 personnel will not have less than 16 years or greater than 24 
+years total TIS as of 31 December 2024. 
+    c.  Selected Reserve (SELRES) personnel drilling with pay and Training 
+and Administration of the Reserve (TAR): 
+       (1)  TAR E9 personnel will not have less than 16 years or greater than 
+28 years total TIS as of 31 December 2024.  Total Active Federal Military 
+Service (TAFMS) will be used. 
+       (2)  SELRES E9 personnel will not have less than 16 years of total 
+qualifying years of service or greater than 28 years Length of Service (LOS) 
+as of 31 December 2024 (indicated in Navy Reserve Readiness Module 
+(NRRM)).  To maintain distributable inventory and community health controls, 
+SELRES who are on definite recall orders are not eligible for conversion 
+unless they will complete orders by 31 December 2024.  SELRES who are 
+mobilized remain eligible. 
+       (3)  TAR E8 personnel will not have less than 16 years or greater than 
+24 years total TIS as of 31 December 2024.  TAFMS will be used. 
+       (4)  SELRES E8 personnel will not have less than 16 years of total 
+qualifying years of service or greater than 24 years LOS as of 31 December 
+2024 (indicated in NRRM).  To maintain distributable inventory and community 
+health controls, SELRES who are on definite recall orders are not eligible 
+for conversion unless they will complete orders by 31 December 2024.  SELRES 
+who are mobilized remain eligible. 
+    d.  All TAR and SELRES candidates (including closed loop ratings and TAR 
+serving at AC commands) must obtain the Navy Reserve FORCM's validation prior 
+to submission.  Candidate packages are due to the Office of the Chief of Navy 
+Reserve, FORCM no later than 1 October 2024 to ensure total service 
+calculations are validated in advance of the 15 October 2024 deadline.  All 
+TAR and SELRES candidate packages will be sent from the Navy Reserve FORCM to 
+the Director, Command Senior Enlisted Management Office (DCSELMO) via 
+encrypted e-mail to cselboard@us.navy.mil. 
+ 
+4.  For record review and communication with the CMDCM and CMDCS Screen 
+Board, submit packages via encrypted e-mail to cselboard@us.navy.mil no later 
+than 15 October 2024.  Do not use the electronic submission of selection 
+board documents via Bupers On Line to submit packages.  Use the subject line, 
+annotated in paragraph 8, for the email subject line and the name/title of 
+the attached single-pdf package.  Additionally, the full name of the 
+candidate and full social security number (SSN) (full SSN marked on top right 
+of each page) must be on all pages of the package.  The package requirements 
+contained in reference (b), are modified as follows, and will only include: 
+    a.  Cover letter.  Submit the cover letter in a signed standard 
+memorandum format to include the board number (annotated in paragraph 8) with 
+branch class in parentheses, i.e. AC, SELRES, TAR, or closed loop.  In the 
+body of the cover letter, provide Service Member's full name, full SSN, work 
+and personal phone numbers, and work and personal email addresses. 
+    b.  Conditional release for all nuclear-trained and all non-nuclear 
+submarine ratings, as outlined in reference (b). 
+    c.  Copy of Command Senior Enlisted Leader Selection Nomination 
+(NAVPERS 1306/95), with all signatures completed. 
+    d.  Enlisted Personnel Action Request (NAVPERS 1306/7). 
+    e.  If the Navy Enlisted Classification code 8SEA is not in the 
+candidate's Personnel Data Summary, a copy of the graduation certificate from 
+the SEA or other service equivalent is required. 
+    f.  Any missing documentation from the candidate's Official Military 
+Personnel File (for example, a missing evaluation or award, or documented 
+completion of a degree).  Letters of Recommendation, World-wide assignable 
+NAVPER 1070/613, Physical Fitness Assessment Summary and career summary 
+letters will not be accepted. 
+ 
+5.  Trouble with the file encryption or certificates or any other 
+communication errors do not justify a late package.  Verify receipt of your 
+package by contacting DCSELMO at (703) 695-5594/DSN 664 or via 
+email:  cselboard@us.navy.mil. 
+ 
+6.  Candidates selected under the CMDCM and CMDCS Screen Board can expect to 
+execute orders to their first CSEL tour as early as 1 October 
+2025.  Candidates will have to negotiate for orders within the first 12 
+months following the announcing NAVADMIN.  Screened CSELs outside of the 
+normal Projected Rotation Date (PRD) will have their PRDs manually adjusted 
+by the Career Management Pillar (PERS-4) to ensure completion of a minimum of 
+12 months onboard their current command. 
+ 
+7.  Alternates will be selected by the CMDCM and CMDCS Screen Board, and 
+contacted by the CSEL detailer if billets become available and distributable 
+inventory has been depleted. 
+ 
+8.  Candidates should submit packages in a single pdf with a subject 
+line (cover letter, email and pdf attachment will use the same 
+subject line) using the applicable format below: 
+    a.  AC CMDCM Screen Board:  FY26 Active CMDCM Screen Board #125 
+ICO RATE LAST NAME, FIRST NAME, MI 
+    b.  SELRES CMDCM Screen Board:  FY26 SELRES CMDCM Screen Board 
+#125 ICO RATE LAST NAME, FIRST NAME, MI 
+    c.  TAR CMDCM Screen Board:  FY26 TAR CMDCM Screen Board #125 
+ICO RATE LAST NAME, FIRST NAME, MI 
+    d.  Closed Loop CMDCM Screen Board (SO, SB, ND, EOD, AC Seabee, 
+RC Seabee):  FY26 Closed Loop CMDCM Screen Board #125 ICO RATE LAST 
+NAME, FIRST NAME, MI 
+    e.  AC CMDCS Screen Board:  FY26 Active CMDCS Screen Board #126 
+ICO RATE LAST NAME, FIRST NAME, MI 
+    f.  SELRES CMDCS Screen Board:  FY26 SELRES CMDCS Screen Board 
+#126 ICO RATE LAST NAME, FIRST NAME, MI 
+    g.  TAR CMDCS Screen Board:  FY26 TAR CMDCS Screen Board #126 
+ICO RATE LAST NAME, FIRST NAME, MI 
+ 
+9.  Points of contact: 
+    a.  AC:  CMDCM Anna Wood, DCSELMO, at (703) 695-5594/DSN 664 or 
+via e-mail at cselboard@us.navy.mil. 
+    b.  TAR and SELRES:  FORCM Tracy Hunt at (703) 695-3976 or via 
+e-mail at tracy.l.hunt.mil@us.navy.mil. 
+ 
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+11.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+

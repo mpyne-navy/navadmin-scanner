@@ -1,0 +1,67 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 081454Z JUL 24 MID120001272386U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 136/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/2023 SHANNON M. KENT AWARD FOR LANGUAGE PROFESSIONAL EXCELLENCE, 
+LANGUAGE PROFESSIONALS OF THE YEAR, AND COMMAND LANGUAGE PROGRAM OF 
+THE YEAR ANNOUNCEMENT// 
+ 
+REF/A/DOC/OPNAVINST 5400.46A/18MAY21// 
+AMPN/REF A IS OPNAVINST 5400.46A, COMMAND LANGUAGE PROGRAMS AND AWARDS.// 
+ 
+RMKS/1.  This NAVADMIN announces the Shannon M. Kent Award for Language 
+Professional Excellence, Senior Language Professional, Officer Language 
+Professional, and Command Language Program of the Year for Fiscal Year (FY) 
+2023. 
+ 
+2.  I congratulate all nominees for their outstanding accomplishments while 
+employing their foreign language skills supporting national and Navy 
+missions.  Having considered all entries, it is my distinct pleasure to 
+announce the 2023 Navy award winners: 
+    a.  Shannon M. Kent Award for Language Professional Excellence: 
+        CTI1(IW/SW/AW/NAC) Deborah Bowers, Information Warfare Training 
+Command, Monterey CA, Detachment Goodfellow Air Force Base 
+    b.  Senior Language Professional of the Year: 
+        CTIC(IW/SW) Robert Gilbert, Information Warfare Training Command, 
+Monterey CA 
+    c.  Officer Language Professional of the Year: 
+        LCDR Bieu Tran, Navy Reserve Center Newport 
+    d.  Command Language Program of the Year: 
+        Navy Information Operations Command Pacific (NIOC PAC) 
+ 
+3.  As the winners of the Shannon M. Kent Award for Language Professional 
+Excellence and Command Language Program of the Year, CTI1 Bowers and NIOC PAC 
+will go on to compete at the Department of Defense level and will be 
+recognized at the FY-24 Advanced Command Language Program Manager Workshop, 
+10-12 September 2024. 
+ 
+4.  Language, Regional Expertise, and Culture (LREC) capabilities play a 
+significant role in our Navy's warfighting readiness.  The winners listed 
+above, as well as their competition, have distinguished themselves for their 
+language contributions toward safeguarding our nation against enduring 
+challenges and emerging threats, and fostering strategic alliances.  I thank 
+them for their ongoing dedication and professionalism in these endeavors. 
+ 
+5.  I extend my sincere appreciation for the continuing support of these 
+vital Navy language programs and outstanding Sailors.  Bravo Zulu to our 
+award winners! 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
