@@ -1,0 +1,40 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 101645Z JUL 24 MID600117507715U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 139/24
+
+MSGID/GENADMIN/CNO WASHINGTON DC/DNS/JUL//
+
+SUBJ/2023 FLEET AWARD WINNERS//
+
+REF/A/DOC/CNO/23APR2021//
+AMPN/REF A IS OPNAVINST 3590.11H//
+
+RMKS/1. It is a pleasure to announce the winners of the 2023 Fleet Awards.
+
+2. The Arleigh Burke Fleet Trophy awards recipients for their outstanding 
+improvement in battle efficiency. The 2023 winners are:
+    a. U.S. Fleet Forces: USS PASADENA (SSN 752)
+    b. Pacific Fleet: STRIKE FIGHTER SQUADRON 137 (VFA-137)
+
+3. The Marjorie Sterrett Battleship Fund Award recognizes superior 
+performance in the battle efficiency competition. The 2023 winners are:
+    a. U.S. Fleet Forces: USS NEW YORK (LPD 21)
+    b. Pacific Fleet: USS MAKIN ISLAND (LHD 8)
+
+4. I commend the winning crews for their exemplary dedication to battle 
+efficiency and warfighting. BRAVO ZULU!
+
+5. Released by VADM Eugene H. Black, III, Director, Navy Staff (PTDO).//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
