@@ -1,0 +1,237 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 181918Z JUL 24 MID320000495667U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 144/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/NAVY RESERVE PROMOTIONS TO THE PERMANENT GRADES OF CAPTAIN, COMMANDER, 
+LIEUTENANT COMMANDER, LIEUTENANT, AND CHIEF WARRANT OFFICER IN THE LINE AND 
+STAFF CORPS// 
+ 
+REF/A/DOC/OPNAV/22APR22// 
+REF/B/DOC/OPNAV/28FEB12// 
+REF/C/MSG/CNO WASHINGTON DC/041935ZAUG22 
+REF/D/DOC/SECNAV/24JUL19// 
+REF/E/DOC/COMNAVPERSCOM/05APR24// 
+ 
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM. 
+REF B IS OPNAVINST 1811.3A, VOLUNTARY RETIREMENT AND TRANSFER TO THE FLEET 
+RESERVE OF MEMBERS OF THE NAVY SERVING ON ACTIVE DUTY.   
+REF C IS NAVADMIN 176/22, POLICY UPDATE CONCERNING SERVICE-IN-GRADE 
+RETIREMENT ELIGIBILITY FOR ACTIVE DUTY AND TRAINING AND ADMINISTRATION FOR 
+RESERVE LIEUTENANT COMMANDERS.   
+REF D IS SECNAVINST 1920.6D, ADMINISTRATIVE SEPARATION OF OFFICERS.   
+REF E IS MILPERSMAN ARTICLE 1070-181, OFFICER PHOTOGRAPHS.// 
+ 
+RMKS/1.  Congratulations to the following officers on their 
+promotions to the ranks indicated in this message.  This NAVADMIN is 
+the authority for effecting permanent officer promotions on the 
+dates indicated.  Columns read name and designator. 
+ 
+                       PERMANENT PROMOTION TO CAPTAIN 
+               CAPTAIN LINE AND STAFF SENATE CONFIRMATION DATE 
+                 LINE 21 JUNE 2023      STAFF 21 JUNE 2023 
+                         DOR/EFF DATE 01 AUGUST 2024 
+ Adler Eric Jonathan      1315         Benes Stanley John IV    1445 
+ Buyske Matthew H         1317         Camua Demetrio A III     1715 
+ Cavoores Theodore G Jr   2905         Chiodi Jason John        1835 
+ Dickens George W         1115         Doyle Kenneth James      1665 
+ Dunn Gavin Peter         2105         Fronzo Nicholas V        1115 
+ Gardner John Russell     2105         Gelb Brian Mark          1125 
+ Gettle Joshua Chad       1825         Hall Bentley Tyler       1317 
+ Hardy Nathan P           5105         Hoard Samuel             1117 
+ Lee Victor Hyo Been      1125         Lien Kevin Clifford      1815 
+ Lombardo Sergio Rosario  2105         Mcdonnell James Patrick  1515 
+ Noel James Peter         1315         Oconnor Daniel Gerald    1125 
+ Pantpurohit Mukta        2105         Patterson Brian Charles  1125 
+ Pully Catheryne Elaine   2505         Schimpff Joshua Joel     1207 
+ Sears Katharine Bready   1327         Skinner Patricia Lynn    2305 
+ Strong Corey Orlanda     1115         Thompson Charles C       3105 
+ Tysk Joseph G            1105 
+                       PERMANENT PROMOTION TO COMMANDER 
+                         DOR/EFF DATE 01 AUGUST 2024 
+ Batdorff Maria Jean      1115         Blank Timothy William    3105 
+ Blankenship Ryan D       1125         Bowlin Gregory Earl      2105 
+ Boyes John Carl          1115         Burbach Thor             1315 
+ Caribardi David John     1315         Chess Andrew John        1115 
+ Chichesterconstable J    1825         Cox Dynel IV             2905 
+ Craig Jonathan Michael   4105         Cupp Christopher Byron   1805 
+ Davis Charles W          1325         Dibello Ryan Eugene      1135 
+ Donecker James Flinn     2105         Ellison Michael James    1115 
+ Figueiredo Joseph C      1445         French Christopher H     1207 
+ Gerfin Matthew M         1115         Gorden Eric William      1315 
+ Greene Matthew Thomas    1115         Hamburger Jacqueline M   2505 
+ Hawbaker Kristofer D     1315         Hayes Evan R             1815 
+ Herring Patrina          3105         Hinton Steven Patrick    1835 
+ Jones Phillip Darrell    1115         Judge John H             1125 
+ Kent Brandon Kenneth     1125         Kukura Christina R       2205 
+ Leahy John Cahill        2305         Leary Maura Kathleen     2505 
+ Lounsbury Corey          5105         Lundahl Derek Johnstone  1115 
+ Mayer Robert Edward      1325         Mckee Debra Lynne        2105 
+ Nguyen Peter Minh Van    2105         Nordan Cooper Grey       1325 
+ Page Eric Christopher    1315         Pan Chao                 2505 
+ Parmele Logan Ursel      5105         Paz David Emanuel        2105 
+ Reed Kaitlin Julianna    2905         Reichenbach Randall M    1115 
+ Riley Janelle Kathlene   2105         Roettgen Christopher D   1125 
+ Schallenberger Mary C    2905         Seaman William Knight    1125 
+ Smith Elliot Edward      1115         Smith Ruth Esther        2105 
+ Stevenson Matthew L      3105         Stipe Zachary Thomas     1665 
+ Stuart Robert Joseph     3105         Sumner Bennie Jonathan   2905 
+ Swan Benjamin Nicholas   1665         Thomas Amy Elizabeth     1207 
+ Trespalacios Ryan A      1835         Vanvossen Eric Gerard    1835 
+ Wing Andrew Robinson     1325         Withrow Willus B         1315 
+ Woodman Desiree V        1655         Woodside Elise Nichole   2905 
+ Younger Austin Russel    2105         Ziober Kevin John        1835 
+                 PERMANENT PROMOTION TO LIEUTENANT COMMANDER 
+                         DOR/EFF DATE 01 AUGUST 2024 
+ Aifesehi Paul Edosa      2105         Alexis Christopher John  4105 
+ Angelo Dana Marie        1115         Bagnas Andrew John       1325 
+ Barrantes Kerbie S A     2905         Bermudez Eric Bradley    1125 
+ Bohn Kiefer Will         1115         Boutte Irene Ann         3105 
+ Buday Jonathan A         1125         Cahill Caroline Therese  2105 
+ Caineslee Jennifer D     1835         Clark Justin William     1115 
+ Contag Georg Robert      1835         Cook Michael Anthony     1665 
+ Cox Clayton Raley        3105         Davis Donyelle Kandice   1655 
+ Dodge Emma Claire        2205         Elmer Acacia Lauren      2905 
+ Essary Cole Hendrix      1115         Felton Shannon Lee       1115 
+ Ferguson Conner T W      1325         Flaherty Julie E         1665 
+ Flynn Dylan James        1805         Greene Alex B            1125 
+ Grolling Michael R       1445         Guddahl Lauren Theresa   1115 
+ Harris Derrick Alonzo    1315         Hayden Alexander F       1125 
+ Hazarian Armen Kevin     1325         Hillery Kathleen Megan   1115 
+ Hoell Benjamin George    3105         Irwin Paul Kristopher    2505 
+ Johnson Kellen Marie     5105         Keeneybonthrone T P      2105 
+ Kimmel Christopher M     2505         Laird Anne Marie         2905 
+ Lanham Amanda Jo         2305         Lazo Katrina Lyn L       2905 
+ Lee Charles Joseph III   1115         Llewellyn Joshua M       1125 
+ Loberg Nicholas Daniel   1125         Lopez Adrian Arturo      1815 
+ Macduff Daniel James     1115         Martin Jared Scott       1125 
+ Martinezslattery Ryan P  1655         Miklas Jay Thompson      1835 
+ Mitchell William Mason   1125         Montemarano Donald Mark  1125 
+ Myers Mylhan Izaac H     2105         Nalder Mary Ann          2905 
+ Newberry Bryan Edward    3105         Noon Seth Michael        1665 
+ Nulsen Ryan Adam Glen    1125         Oneill Conner Roberts    1125 
+ Ortiz Alejandra          1115         Parlatore Andrea Hudieh  1835 
+ Patel Sandhya Pravin     2105         Peterson Tiffany Marie   1205 
+ Pham Jeffrey             1825         Picou Antoine Pierre     1665 
+ Price Will               2105         Pudimott Andrew Xavier   1835 
+ Putzel Alyssa R          2905         Quilao Eryl Hernandez    2905 
+ Razzano Christina M      1115         Rowan Danielle M         1125 
+ Rupp Stuart Jay          2205         Schiller Alexander G     1115 
+ Schmitt Ashlee Lynn      2305         Scott Brenden C          2205 
+ Scott Casey J            2905         Serafin Jessica Lynn     3105 
+ Silberberg Matthew M     1125         Sinfuego Edgar A D       1115 
+ Skelly Kevin Thomas      1325         Smith Amanda Elizabeth   1115 
+ Smith Justin Michael     1125         Stamatis Daniel S        1115 
+ Stepien Matthew Max      1445         Stevenback Jacob Robert  1125 
+ Strang Matthew R         2105         Sumrall Christopher A    2905 
+ Suqi Austen Ibrahim      1125         Swinson Kenneth Wray     5105 
+ Tifft Daniel D           3105         Topping Christopher G    2105 
+ Torres Trevor Andrew     3105         Townsend Brian Paul      1835 
+ Vackar Crystal Gail      2905         Vassallo Kyle Angelo     1125 
+ Veatch Kevin L           2905         Venkatraman Karthik J    1125 
+ Vyzas Mark J             2305         Wagner Rohika Timothy    1125 
+ Welch Shannon Alicia     2505         Wendrych Nicholas Scott  1125 
+ Wentland Nathaniel J     1665         Whaley Victoria Lynn     1115 
+ Wheeler Christopher A    1815         White Douglas J          1115 
+ Williams Michael Todd    6495         Wolf Trevor Mason        1325 
+ Womack Rodrick Teon      2305         Yambo Yaynel Carolina    3105 
+                      PERMANENT PROMOTION TO LIEUTENANT 
+                        DOR/EFF DATE 01 JANUARY 2023 
+ Myers Adam M             2305 
+                          DOR/EFF DATE 01 JUNE 2023 
+ Barnhart Bridget Breann  1835 
+                       DOR/EFF DATE 01 SEPTEMBER 2023 
+ Marshall Preston David   1115 
+                          DOR/EFF DATE 01 MAY 2024 
+ Beers Aaron Robert       1167 
+                          DOR/EFF DATE 01 JULY 2024 
+ Sackett Jordan Gore      2905 
+                         DOR/EFF DATE 01 AUGUST 2024 
+ Alexander Mark C         1835         Bertels Todd W           1665 
+ Bowman Valerie R         1665         Deery Liam M             1665 
+ Goldsborough Corey L     2905         Haley Bradley James      1835 
+ Husband Shelby L Jr      2905         James Matthew Marc       1835 
+ Jones Christopher        1835         Joseph James Paul II     1835 
+ Kappas Kyleigh R         1665         Mateer Evan Matthew      1835 
+ Mcenroe Ciaran T         1665         Medlin Rachael Michelle  1835 
+ Meyer Lucas E            1665         Neafsey Colin M          1835 
+ Oglesby Adra Lee         1205         Powers Eric Michael      1655 
+ Rodriguez Shakera S      1835         Rooks Mariesha Danae     1835 
+ Scott Spencer Sinclair   1835         Starnes Jason C          1515 
+ Steele Nicholas Bernard  1835         Stevens Joanna Shea      1835 
+ Stiff Tyler A            1665         Sudderth Sherron D       1835 
+ Taylor Nathaniel N       1835         Tribus Karsten D         1665 
+ West Benjamin John       2905         White Gabriel Edwin      1835 
+ Wynn Shawn Ryan          1835 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-5 
+No officers promoted in this category. 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-4 
+No officers promoted in this category. 
+              PERMANENT PROMOTION TO CHIEF WARRANT OFFICER, W-3 
+No officers promoted in this category. 
+ 
+2.  If a selected officer does not decline in writing prior to the 
+projected date of rank (noted above in paragraph 1), that officer is 
+considered to have accepted the promotion on the date indicated.  An 
+officer who chooses to decline promotion must submit the declination 
+in writing to COMNAVPERSCOM (PERS-806) within thirty (30) days of 
+the release of this NAVADMIN. 
+ 
+3.  The Commanding Officer (CO), the Secretary of the Navy, or his 
+designee, has the authority to delay projected promotions.  Upon the 
+exercise of a delay, the officer shall be notified in writing before 
+the effective date of the promotion and not be tendered the 
+promoting appointment.  The delay authority will immediately forward 
+the notification of delay with supporting documentation to 
+COMNAVPERSCOM (PERS-83), copy to COMNAVPERSCOM (PERS-806). 
+ 
+4.  COs are reminded of their responsibility to ensure the officers 
+they are promoting are mentally, physically, morally and 
+professionally qualified in accordance with section 14311 of title 
+10, U.S. Code.   Per reference (a), officers are ineligible for 
+promotion if they have failed the most recent Physical Fitness 
+Assessment.  COs shall verify the promoting officer's information in 
+the Physical Readiness Information Management System to ensure 
+compliance with reference (a) and delay the officers promotion in 
+accordance with paragraph 3 of this NAVADMIN, if required. 
+ 
+5.  Prepare a Delivery of Permanent Appointment (NAVPERS FORM 
+1421/7) (Rev 10-13).  Use this NAVADMIN as reference (a).  Use 
+section of title 10, U.S. Code 14308 as reference (b) for permanent 
+lieutenants and above.  Use section of title 10, U.S. Code 12242 as 
+reference (b) for chief warrant officers.  Mail the completed form 
+to COMNAVPERSCOM (PERS-806) or email via My Navy Career Center at 
+askmncc.fct@navy.mil. 
+ 
+6.  Training and Administration of Reserve (TAR) Officers should 
+review reference (b) and (c) for minimum Time-In-Grade 
+(TIG)/Service-In-Grade (SIG) requirements for purposes of active- 
+duty voluntary retirement.  (NOTE: TIG TAR LCDR voluntary 
+retirements changed with National Defense Authorization Act 2021; 
+Update to reference (b) is pending.)  TAR officers and those 
+officers temporarily on active duty anticipating release from active 
+duty under reference (d) may accept promotion without incurring any 
+additional active-duty obligation. 
+ 
+7.  New photographs are required for all officers within three 
+months after acceptance of promotion.  See reference (e) for 
+specific requirements. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+

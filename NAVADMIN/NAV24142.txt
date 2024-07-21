@@ -1,0 +1,250 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 181250Z JUL 24 MID320000494329U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 142/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL// 
+ 
+SUBJ/FY26 NAVY SELECTED RESERVE LIMITED DUTY OFFICER AND CHIEF WARRANT 
+OFFICER IN-SERVICE PROCUREMENT BOARD// 
+ 
+REF/A/DOC/OPNAV/14DEC09// 
+REF/B/DOC/OPNAV/12APR16// 
+REF/C/DOC/BUPERS/19SEP18// 
+REF/D/MSG/CNO WASHINGTON DC/251736ZJAN18// 
+ 
+NARR/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.   
+REF B IS OPNAVINST 1120.12A, APPOINTMENT OF LIMITED DUTY OFFICERS AND CHIEF 
+WARRANT OFFICERS IN THE NAVY RESERVE.   
+REF C IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.   
+REF D IS NAVADMIN 014/18, UPDATED OFF-RAMP GUIDANCE FOR ACTIVE AND RESERVE 
+COMPONENT INFORMATION WARFARE AND SUPPLY CORPS LIMITED DUTY OFFICERS. 
+ 
+RMKS/1.  This NAVADMIN announces the solicitation of applications from highly 
+qualified and motivated E6 through E9 Reserve Sailors for the Fiscal Year 
+(FY) 2026 Navy Selected Reserve Limited Duty Officer (LDO) and Chief Warrant 
+Officer (CWO) programs.  Where conflicts with reference (a) exist, this 
+NAVADMIN and reference (b) take precedence.  The FY26 Navy Selected Reserve 
+LDO and CWO In-Service Procurement Board (ISPB) number is 26315. 
+ 
+2.  The FY26 Navy Selected Reserve LDO and CWO ISPB will consider candidates 
+for the following officer designators: 623X, 626X, 628X, 629X, 633X, 641X, 
+649X, 653X, 711X, 712X, 713X, 715X, 717X, 718X, 781X, 782X and 
+783X.  Eligible Sailors are encouraged to apply for the designators for which 
+they are most qualified, regardless of current rating.  Refer to references 
+(a) through (c) for eligibility criteria.  NOTE:  Current Reserve CWOs that 
+desire to transition into the LDO community are no longer supported and will 
+not be considered if an application is received.  No further exceptions 
+will be considered. 
+ 
+3.  FY26 guidance. 
+   a.  All applicants for the LDO and CWO programs must have a security 
+clearance prior to commissioning and must be worldwide assignable. 
+   b.  Time-in-service (TIS) for the FY26 Navy Selected Reserve LDO and CWO 
+ISPB must be computed to 1 October 2025.  In line with references (a) and 
+(b), TIS is synonymous with years of qualifying service toward a non-regular 
+(Reserve) retirement. 
+   c.  TIS requirements are: 
+       (1) LDO.  Eight to 14 years for LDO applicants.  All LDO applicants 
+must be able to serve at least 6 years of qualifying service and complete 20 
+years of qualifying service prior to age 62. 
+TIS waivers for less than 8 years for LDO will not be considered. 
+TIS waivers for more than 20 years for LDO will not be considered. 
+No further exceptions will be considered. 
+       (2) CWO. Fourteen to 20 years for CWO applicants.  All CWO applicants 
+must be able to complete 20 years of qualifying service prior to reaching 62 
+years of age.  TIS waivers for less than 10 years for CWO will not be 
+considered.  TIS waivers for more than 25 years for CWO will not be 
+considered.  No further exceptions will be considered. 
+       (3) Applicants must also not reach or exceed high year tenure for 
+their present pay grade within the calendar year the application is 
+submitted. 
+       (4) All requests for TIS waivers shall be submitted to the RC 
+LDO/CWO OCM and PERS-92 contacts listed below and must be received by  
+1 September 2024.  TIS waiver requests and Navy Selected Reserve LDO and CWO 
+applications are two separate processes with their own respective deadlines.   
+Failure to follow this guidance and the timelines provided will result in a 
+subsequent no consideration of the requested TIS waiver.  The TIS Waiver 
+Template is available at https://www.mynavyhr.navy.mil/Career-
+Management/Community-Management/Officer/Reserve-OCM/Selected-Reservists/RC-
+LDO-CWO/. 
+       (5) The TIS waiver approval letter must also be submitted as 
+an enclosure to the application. 
+   d.  All applicants applying to the 715X designator must hold NEC O26A or 
+O23A.  All applicants applying to the 717X designator must hold NEC O52A. 
+   e.  E6 evaluations due 15 November 2024 will be submitted as an addendum 
+in the guidelines of this NAVADMIN. 
+   f.  Due to ongoing rating mergers and realignments, eligible Sailors are 
+encouraged to apply for the designator for which they have extensive 
+documented technical expertise and leadership experience in their enlisted 
+service records, regardless of the current rating.  However, special 
+attention should be given to the guidance in Chapter 7, subparagraph 9c of 
+reference (a) and to the designator discrete requirements. 
+   g.  In line with reference (b), all LDO applicants must include a 
+statement in the additional comments section (paragraph 2) of the 
+application, agreeing to further service, as follows:  "I, [name], if 
+selected for permanent appointment under the Navy Reserve LDO program, agree 
+to accept such appointment and further agree to remain in the Ready Reserve 
+for a period of 3 years after I accept such appointment." 
+   h.  In line with reference (b), all CWO applicants must include a 
+statement in the additional comments section (paragraph 2) of the 
+application, agreeing to further service, as follows:  "I, [name], if 
+selected for permanent appointment under the Navy Reserve CWO program, agree 
+to accept such appointment and further agree to remain in the Ready Reserve 
+for a period of 6 years after I accept such appointment." 
+   i.  Commanding Officer/Officer-in-Charge (CO/OIC) endorsement must contain 
+the following statement: "Applicant meets all requirements outlined in 
+OPNAVINST 1420.1B, OPNAVINST 1120.12A, NAVADMIN XXX/24 (use the NAVADMIN # 
+for this message), and the physical fitness standards of OPNAVINST 
+6110.1J."  The endorsement should also clearly state the command and 
+CO's/OIC's name and rank. 
+ 
+4. Amplifying guidance and direction to COs and officers in charge for 
+appraisal boards and interview panel member selection. 
+   a.  Interview appraisal boards shall be constructed of only three Reserve 
+(preferred) or Active Component officers.  The names of the approved 
+appraisal board members must be included in the CO/OIC endorsement.  To the 
+maximum extent possible, LDOs or CWOs shall be utilized as board members. 
+   b.  Every effort (including teleconference media) should be made to ensure 
+the board members are from the LDO or CWO designator's competitive category 
+for which the applicant is applying.  The senior member of the interview 
+panel for LDO applicants must be a lieutenant commander or above.  The senior 
+member of the interview panel for CWO applicants must be a CWO4 or above. 
+   c.  Minimum grade requirements for board members are lieutenant or 
+CWO3.  CWO3 panel members must have at least 2 years time in grade.  The 
+interviewing board should, whenever possible, be comprised of officers who 
+are not in the applicant's command, or at minimum, not directly in the chain 
+of command. 
+   d.  If it is not possible to assemble a panel of three officers, the 
+interviews may be conducted separately.  Only three interview appraisals are 
+required for each applicant. 
+   e.  Interview appraisal board member preparation for applicant appraisal 
+boards is an important part of the board process.  Review of the application, 
+review of discrete requirements for the applicant designator, having well 
+thought out questions on technical expertise, leadership, and knowledge of 
+the designator for which the candidate is applying, to include future career 
+path if selected, are all great examples of board member preparation. 
+   f.  Each appraisal must contain the names of all three-panel members. The 
+interviewer appraisal sheet is located at 
+https://www.mynavyhr.navy.mil/Career-Management/Boards/Administrative/LDO-
+CWO/ 
+   g.  The technical ability and potential blocks on the interview appraisal 
+sheet must be marked for LDO and CWO candidates. 
+   h.  The CO of either SEAL Team 17 or 18 are required to endorse applicants 
+for both the 715X and 717X designators. 
+ 
+5.  Applicants currently serving on mobilization orders may have their 
+application endorsed by their field commander.  All applications endorsed by 
+field commanders must have concurrence of their parent command.  A sample 
+addendum letter is located at https://www.mynavyhr.navy.mil/Career-
+Management/Boards/Administrative/LDO-CWO/. 
+ 
+6.  Applicants must maintain eligibility throughout the selection and 
+commissioning process.  Applicants that are deemed ineligible after the 
+submission of applications must be declared ineligible by their current CO, 
+field commander (if on a mobilization) or parent command CO.  A sample 
+removal of recommendation format is located at 
+https://www.mynavyhr.navy.mil/Career-Management/Boards/Administrative/LDO-
+CWO/. 
+ 
+7.  Application Submission.  Applications must be received by MNCC no later 
+than 1 October 2024. 
+   a.  Communication to the board (e.g., application, addendums, etc.) should 
+originate from the applicant via their CO.  However, it is acceptable for the 
+command to submit an applicant's package on his or her behalf, provided that 
+the package has been endorsed by the CO and the applicant has been provided a 
+copy of their entire package prior to submission.  Information received that 
+is not under the cover letter of the applicant (e.g., third-party 
+correspondence) and endorsed by the command, or not received by the MyNavy 
+Career Center (MNCC) by the established deadline(s) will not be presented to 
+the board.  Note: Although a late submission may be accepted by MNCC, it will 
+not be presented to the board. 
+   b.All applications must include a command-endorsed NAVPERS 1120/1, Reserve 
+LDO/CWO Eligibility Checklist. The checklist is located 
+at https://www.mynavyhr.navy.mil/Career-Management/Boards/Administrative/LDO-
+CWO/. 
+   c.Each applicant and CO/OIC must ensure applications and addendums are 
+complete and accurate. Incomplete applications could result in non-selection. 
+The application endorsement and any addendum must be signed by the CO/OIC of 
+the applicant or the *Acting* CO. 
+   d.Applicants must ensure a copy of their most recent periodic evaluation 
+is included in the application or provided via addendum for board review and 
+continuity if it is not already in the applicant's Official Military 
+Personnel File (OMPF). 
+   e.Applicants must submit sequentially numbered enclosures to the 
+application and addendums, annotated on the bottom right corner of each page 
+with the last name and full social security number of the applicant in the 
+top right corner. Addendums must include a command endorsement. 
+   f.Submit applications via e-mail to cscselboard@navy.mil no later than 1 
+October 2024. E-mails must be encrypted using a military e-mail account to 
+protect Personally Identifiable Information (PII). For a tutorial on loading 
+certificates required for encrypting e-mails, go 
+to https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Officer/Active-OCM/LDO-CWO/Applicant-Information/. 
+   g. Applicants who are unable to submit applications as outlined 
+above due to current operational locations may mail their 
+application via USPS to the address listed below. When mailing PII, 
+individuals must use Privacy Act Data Cover Sheet (DD Form 2923) and 
+double wrap the package. DD Form 2923 may be accessed by using the 
+following web address: https://www.disa.mil/~/media/Files/DISA/About/Privacy-
+Office/dd2923.pdf.  The inner package must be labeled with the privacy 
+warning "CUI - PRIVACY SENSITIVE." Any misuse or unauthorized disclosure may 
+result in both civil and criminal penalties. Correspondence mailed via USPS 
+must use the following address: 
+Navy Personnel Command Customer Service Center (BUPERS-074) 
+President, FY26 Reserve LDO/CWO In-service Procurement Board 
+FY-26315 
+5720 Integrity Drive 
+Millington TN 38055 
+   h.Mailed applications must be postmarked no later than 1 October 2024.   
+Addendums to applications must be received no later than 15 December 2024. 
+   i.Department of Defense Secure Access File Exchange (DODSAFE) and 
+Electronic Submission of Selection Board (ESSBD) via BUPERS Online are not 
+supported or authorized means to submit applications or addendums. Applicants 
+who are unable to submit applications as outlined in subparagraph 7.f. 
+through 7.g. of this NAVADMIN must contact the selection board sponsor at 
+npc_ldo-cwo_selbd.fct@navy.mil for alternate delivery methods. 
+ 
+8.  Board Convene Dates. The FY26 Selected Reserve LDO and CWO ISPB will 
+convene at dates to be determined in 2025. For the most current board dates, 
+visit https://www.mynavyhr.navy.mil/Career-Management/Boards/Selection-Board-
+Support/ and select *FY-26 board schedule* when available.  NOTE: The ESSBD 
+paragraph on this web page does not apply to the LDO/CWO ISPB. 
+ 
+9.  For the most current information concerning open designator 
+codes and application process, visit the Reserve Limited Duty 
+Officer and Chief Warrant Officer MyNavyHR webpage at 
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Officer/Reserve-OCM/Selected-Reservists/RC-LDO-CWO/. 
+This link contains pertinent OPNAVINSTs, interview appraisal sheet, sample 
+addendum letter, sample letter of abeyance or removal of recommendation memo, 
+application template and current/past board results. 
+ 
+10.  Points of contact. 
+   a.  For application and eligibility questions, contact PSC 
+Lindsey Salazar, Affiliation and Redesignation Branch (PERS 92) at 
+(901) 874-4456/DSN 882 or via e-mail at lindsey.m.salazar.mil@us.navy.mil. 
+   b.  General LDO/CWO career path and policy, contact LCDR Channell Brown, 
+Reserve LDO/CWO OCM (BUPERS 351), via Microsoft Teams chat, via phone at 
+(901) 874-3291/DSN 882, or via e-mail at channell.a.brown.mil@us.navy.mil. 
+ 
+11.  This NAVADMIN will remain in effect until superseded or 30 September 
+2025, whichever comes first. 
+ 
+12.  Released by Ms. Lisa M. St. Andre, N1B.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
