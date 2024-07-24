@@ -1,0 +1,127 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 231745Z JUL 24 MID120001292718U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 147/24
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JUL//
+
+SUBJ/ANNUAL RECERTIFICATION OF SPECIAL DUTY ASSIGNMENT PAY//
+
+REF/A/DOC/OPNAV/5OCT17//
+REF/B/DOC/DODI/11JAN19//
+
+NARR/REF A IS OPNAVINST 1160.6C, SPECIAL DUTY ASSIGNMENT PAY PROGRAM.   
+REF B IS DOD INSTRUCTION 1340.26 CHANGE 1, ASSIGNMENT AND SPECIAL DUTY 
+ASSIGNMENT PAY.//
+
+RMKS/1.  This NAVADMIN announces the annual Special Duty Assignment Pay 
+(SDAP) recertification process for Fiscal Year (FY) 2024.  In line with 
+references (a) and (b), Commanding Officers (CO) are required to annually 
+review and certify the entitlement to SDAP for each Sailor in their command.  
+This recertification is vital for verifying that every Sailor assigned to an 
+eligible billet remains qualified to fill the billet and is receiving the 
+correct SDAP level.
+
+2.  Recertification will commence upon the release of this NAVADMIN and will 
+continue through 30 September 2024.  The Community Management Support Branch 
+(BUPERS-328) will stop SDAP for all SDAP recipients at each command who fail 
+to complete the recertification process.
+
+3.  A complete list of authorized skills and pay amounts can be obtained from 
+the MyNavy HR website at: https://www.mynavyhr.navy.mil/Career-
+Management/Community-Management/Enlisted-Career-Admin/SRB-SDAP-Enl-Bonus/, 
+then scroll to "SDAP Levels with Admin Updates."
+
+4.  Recertification process:
+    a.  Obtain a summary of the authorized SDAP billets for the command using 
+the MyNavy Assignments database.  This is the filtered Billet Based 
+Distribution (BBD) report for the command that only lists the Sailors who are 
+currently receiving SDAP.
+        (1) This report may not be exhaustive.  Certifying commands must 
+verify their entire complement of Sailors in order to validate SDAP payments 
+to those who may not be electronically gained to the command or Sailors who 
+are gained, but are erroneously being paid SDAP.
+        (2) Commands without an Activity Manning Manager may request access 
+to Command Career Management System-Interactive Detailing using the procedure 
+outlined in the following MyNavy HR web address:
+https://www.mynavyhr.navy.mil/Portals/55/Career/Detailing/MyNavyAssignment/My
+Navy_Assignment_Access.pdf.  Certifying commands must have access to all 
+subordinate Unit Identification Codes (UIC).
+        (3) Commands may contact BUPERS-328 via mill_sdap_recert.fct@navy.mil 
+or (901)874-3260/DSN 882 for additional assistance in obtaining their SDAP 
+BBD report.
+    b.  Validate the entire command using the SDAP BBD report from the MyNavy 
+Assignments database as follows:
+        (1) Next to each Sailor listed on the report, simply annotate the 
+SDAP level and the associated Navy Enlisted Classification for which SDAP is 
+authorized in line with the most current SDAP eligibility chart.  Any 
+erroneous SDAP payments must be corrected through the Transaction Service 
+Centers (TSC) upon discovery.
+        (2) In the event of an unposted activity loss or strength loss that 
+resulted in a Sailor who has already transferred being still listed in the 
+BBD report, simply line out or delete the line item.
+        (3) Sailors who are not listed in the report due to a delayed or 
+unposted activity gain should be added to the list and validated 
+appropriately.
+        (4) Once each Sailor at the command is validated, a signed letter 
+from the CO or acting (not by direction) will be addressed and forwarded to 
+Director, Military Community Management (BUPERS-3) with the SDAP BBD report 
+as an enclosure.  The contents of the validation letter will include a 
+statement from the CO certifying that a complete review of all authorized 
+SDAP billets at the command was conducted and all discrepancies are rectified 
+or are in the process of being resolved.  The letter will also contain the e-
+mail address and phone number of a suitable point of contact at the command 
+and should also contain a list of all pending discrepancy resolutions.
+        (5) Send the command SDAP recertification letter and enclose the SDAP 
+report via encrypted e-mail to BUPERS-3 at: mill_sdap_recert.fct@navy.mil.  
+The e-mail subject line must contain the UIC of the certifying command.
+        (6) If a command has trouble sending the encrypted e-mail, ensure the 
+encryption e-mail certificate is posted to the global address list.  If there 
+are still encryption issues, contact BUPERS-
+328 for additional options.
+        (7) E-mail is the preferred method, but if the command needs to send 
+the report via regular mail, please send to: 
+
+            Bureau of Naval Personnel (BUPERS 3)
+            Military Community Management
+            ATTN:  (BUPERS 328) BLDG 453 RM 338
+            5720 Integrity Drive
+            Millington TN 38055-0003
+
+5.  Should a service record or payment update become necessary, each command 
+is responsible for completing this action via their servicing TSC.  All 
+corrective transactions older than 240 days will be processed by BUPERS-328 
+via an emailed request submitted to mill_incen_pays.fct@navy.mil.
+
+6.  Commands can check the status of their SDAP recertification at:
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted-Career-Admin/SRB-SDAP-Enl-Bonus/, then scroll to the SDAP 
+section and click on "SDAP Delinquent List."  Immediate Superior in Commands 
+are strongly encouraged to use this site to ensure all subordinate commands 
+have completed the recertification process.  Please allow 5 to 10 days after 
+submission for the webpage to be updated.
+
+7.  BUPERS-328 is the sole authority to resume SDAP payments for commands 
+whose SDAP payments were stopped as a result of failing to complete the 
+annual recertification on time.  SDAP can be restored for delinquent commands 
+upon completion of the aforementioned recertification process.
+
+8.  The point of contact is BUPERS-328, mill_sdap_recert.fct@navy.mil,  
+(901) 874-3260/DSN 882.
+
+9.  This NAVADMIN will remain in effect until October 2024 unless superseded 
+prior to that date.
+
+10.  Released by Ms. Lisa M. St. Andre, N1B.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
