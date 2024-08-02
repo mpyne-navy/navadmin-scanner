@@ -1,0 +1,245 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 012115Z AUG 24 MID120001315106U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 152/24 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//N1// 
+ 
+SUBJ/CY24 COMMAND CLIMATE ASSESSMENTS// 
+ 
+REF/A/MSG/11MAR24// 
+REF/B/DOC/DOD/20DEC22// 
+REF/C/DOC/CNO WASHINGTON DC/26JUN18// 
+REF/D/SECNAV/16SEP90// 
+ 
+NARR/REF A IS NAVADMIN 051/24, CULTURE OF EXCELLENCE 2.0. 
+REF B IS DODI 6400.11, DEPARTMENT OF DEFENSE INTEGRATED PRIMARY PREVENTION 
+POLICY FOR PREVENTION WORKFORCE AND LEADERS. 
+REF C IS THE COMMAND RESILIENCE TEAM GUIDE. 
+REF D IS U.S. NAVY REGULATIONS, 1990.// 
+ 
+RMKS/1.  To best implement Culture of Excellence (COE) 2.0, in line 
+with reference (a), and build Great People, Leaders, and Teams 
+across our Navy, this NAVADMIN provides revisions to the Command 
+Climate Assessment (CCA) process outlined in references (b) and (c) 
+to include responsibilities for Commanders, Commanding Officers 
+(CO), Officers-in-Charge, civilian equivalents (collectively 
+referred to as Commanders in this NAVADMIN) and Immediate Superiors 
+in Command (ISIC). 
+ 
+2.  COE 2.0 is dependent on high-quality CCAs that are thoroughly 
+debriefed to their command and ISIC.  The back of the COE 2.0 
+placemat includes the CCA as part of "Listening and Acting" and is 
+now part of the CCA Executive Summary.  The COE 2.0 Playbook, page 
+24, includes key actions for high performing commands.  For Calendar 
+Year 24, in addition to the virtual CO's suggestion box provided 
+with the COE 2.0 rollout, commands have additional survey capability 
+as contained in paragraph eleven of this NAVADMIN. 
+ 
+3.  Per reference (d), section 0820, COs must "use all proper means 
+to foster high morale, and to develop and strengthen the morale and 
+spiritual well-being of the personnel under his or her command." 
+The CCA gives leaders data-driven feedback about the climate and 
+culture at their command.  Leveraging the Defense Organizational 
+Climate Survey (DEOCS) and other sources of information, the CCA 
+process provides Commanders with actionable insight about protective 
+factors like connectedness and inclusion, and risk factors common to 
+many Navy commands, such as moderate/high stress, hostile work 
+environments, racial and sexual harassment. 
+ 
+4.  CCA (roles, responsibilities). 
+    a.  Commanders.  Commanders are responsible for executing in 
+accordance with this NAVADMIN, to include consideration of the best 
+practices contained in paragraph nine. 
+    b.  ISIC (Echelon 4 or higher).  In addition to executing their 
+own CCA, ISICs are responsible for ensuring subordinate Commanders 
+conduct a debrief of their CCA.  Doing so enables ISICs to assess, 
+document, and mentor the performance of Commanders based on their 
+ability to build great culture.  ISICs may adjust the timing of 
+subordinate CCAs based on operational requirements, with any waivers 
+documented in writing and provided to their Echelon 3 Commander. 
+    c.  Echelon 3.  Echelon 3 Commanders who execute a Health of 
+Community brief to the Chief of Naval Operations will now include 
+information about subordinate command CCAs in the Health of the 
+Community briefing (trends and actionable items). 
+    d.  Echelon 2.  Annually, by 31 March, each Echelon 2 must 
+report annual CCA completion and ISIC debrief status to the Navy 
+Culture and Force Resilience Office (OPNAV N17), to include commands 
+that have requested a waiver or are incomplete. 
+    e.  Integrated Primary Prevention Workforce (IPPW) Personnel. 
+IPPW personnel consist of full-time, dedicated primary prevention 
+professionals in the roles of deployable Embedded Integrated 
+Prevention Coordinators (EIPCs) and shore-based Integrated 
+Prevention Coordinators (IPCs).  In 2022, Navy began hiring EIPCs to 
+assist with CCA execution onboard aircraft carriers and big-deck 
+amphibious assault ships.  In 2023, Navy began hiring IPCs to serve 
+at the Fleet, Type Commander, Region, and installation levels in 
+support of tenant command CCA execution, and in 2024, to serve at 
+and support Reserve commands.  IPPW personnel, if available, must be 
+consulted and leveraged as part of the CCA process. 
+    f.  Command Climate Specialists (CCS).  CCSs, located at select 
+Echelon 2 and 3 staffs, and assigned to aircraft carriers and big- 
+deck amphibious assault ships, will track and monitor the completion 
+of the CCA and face-to-face debrief within their enterprise.  The 
+CCS will collaborate and coordinate with the Command Resilience Team 
+(CRT) and IPPW to provide advice and guidance to the Commander on 
+all matters and issues that may affect the command's climate. 
+    g.  CRTs.  The CRT is accountable to the CO for administering 
+the CCA, leveraging reference (c). 
+ 
+5.  CCA (information and requirements). 
+    a.  DEOCS (confidentiality):  DEOCS comments are unable to be 
+linked back to an individual and are therefore completely 
+confidential. 
+    b.  DEOCS (contact information):  Valid ISIC, IPPW personnel (if 
+available), and next higher-level CCS contact information must be 
+included in DEOCS request, which allows those individuals to 
+directly access the DEOCS results. 
+ 
+6.  Navy Comprehensive Integrated Primary Prevention (N-CIPP) plan. 
+    a.  To implement guidance in reference (b), every command that completes 
+a CCA is required to create an N-CIPP plan and upload it into the Defense 
+Climate Portal. 
+    b. The N-CIPP plan is the roadmap for units to describe their current 
+climate and needs, most at-risk populations, planned research-based 
+prevention activities, and evaluation plans. 
+The N-CIPP plan is comprised of the Executive Summary and POA&M combined into 
+a single, PDF document.  The approved N-CIPP plan template can be found on 
+MyNavyHR under the Primary Prevention page at  
+https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Primary-
+Prevention/.  
+    c.  Must be uploaded as a single PDF to the Defense Climate Portal 
+at https://www.prevention.mil/Climate-Portal/ annually by January 31.  IPPW 
+personnel are responsible for uploading N-CIPP plans to the Defense Climate 
+Portal.  In the absence of assigned IPPW personnel, the Command Managed Equal 
+Opportunity Manager will upload the N-CIPP plan. 
+    d.  Must be updated annually by July 31 via the Defense Climate Portal, 
+describing implementation progress and new information (e.g., findings from 
+new change of command CCAs, new DOCP surveys, research, and evaluations). 
+ 
+7.  CCA administrators, IPPW personnel, and any other personnel administering 
+or consulting on CCAs are required to receive training on how to conduct a 
+CCA and administer the DEOCS through the Joint Knowledge Online (JKO) course 
+PREV-004 "How to Conduct a Command Climate Assessment and Administer the 
+Defense Organizational Climate Survey."  IPPW personnel are required to 
+receive training on CIPP plan development through JKO course PREV-005, 
+"Development of a Comprehensive Integrated Primary Prevention Plan."  These 
+courses are available on JKO at  
+https://jkodirect.jten.mil/Atlas2/page/login/Login.jsf 
+ 
+8.  Requisite DEOCS, DOCP surveys, and Navy CIPP plans are managed via the 
+Defense Climate Portal (DCP).  Information on the DCP, including the 
+registration form and login, is available at 
+https://www.prevention.mil/Climate-Portal/.  Questions about the CCA process 
+can be forwarded to the appropriate Echelon 2 CCS, the Integrated Primary 
+Prevention Program mailbox, OPNAV_IPP.fct@navy.mil, or Navy Harassment and 
+Military Equal Opportunity Advice Line, MILL_Navy_EO_Advice@navy.mil.   
+Questions about IPPW assignments and availability to support units can be 
+directed to the Regional Integrated Prevention Coordinators listed at the 
+following link: 
+https://ffr.cnic.navy.mil/Portals/76/Family_Readiness/Documents/RIPC%20Contac
+t%20Info.pdf?ver=jzL3B9rtBjRleiuc78LT-w%3d%3d. 
+ 
+9.  CCA (timeline and process). 
+    a.  Annual CCA: 
+        (1) Must start no earlier than 1 August and conclude by 30 November 
+(the CCA fielding window). 
+        (2) Must initiate the DEOCS no later than 31 October. 
+        (3) Must include administration of a DEOCS and consideration of 
+multiple sources of information gathered by the CRT such as administrative 
+records review, reports, interview data, focus groups, or other existing 
+data, the current and previous DEOCS and any Defense Organizational Climate 
+Pulse (DOCP) Survey results. 
+        (4) The CRT, or subgroup thereof, and IPPW personnel, if available, 
+must have a CCA review session with the Commander within 60 calendar days (or 
+by the next drill period) from close of the DEOCS.  The CCA review sessions 
+must include a completed N-CIPP plan. 
+        (5) Must be debriefed to the ISIC within 30 calendar days after the 
+CCA review session was completed.  Email review and reply are not acceptable. 
+        (6) Must be debriefed to the command by the Commander, to include key 
+items from the N-CIPP plan within 30 calendar days of the CCA review session. 
+    b.  Change of Command CCA: 
+        (1) Must be completed within 90 days after assumption of command or 
+office. 
+        (2) If the change of command occurs outside of the CCA fielding 
+window, the change of command CCA should not include a DEOCS if one has been 
+conducted in the last calendar year. 
+        (3) If a change of command occurs during the CCA fielding window, 
+Commanders must conduct a single CCA that includes the administration of a 
+DEOCS. 
+        (4) Must include a review of the most recent annual CCA, assessment 
+of the previous Commander's progress in implementing the relevant actions in 
+the N-CIPP plan, and consideration of administrative records, reports, 
+interview data, focus groups, and other data as available. 
+        (5) The CRT, or subgroup thereof, and IPPW personnel, if available, 
+must have a CCA review session with the Commander within 120 calendar days 
+after assumption of command (or by the next drill period).  The CCA review 
+sessions must include a completed N-CIPP plan. 
+        (6) Must be debriefed to the ISIC within 30 calendar days after the 
+CCA review session was completed.  Email review and reply are not acceptable. 
+        (7) Must be debriefed to the command by the Commander, to include key 
+items from the N-CIPP plan within 30 calendar days of the CCA review session. 
+ 
+10.  CCA Best Practices. 
+    a.  All Service Members and civilian employees in the command or 
+organization must have the opportunity to participate in the CCA. Contractor 
+personnel may not participate in the CCA, per reference (b). 
+    b.  Triads and CRTs should seek to maximize participation during working 
+hours through creative means, as part of morale-building events or all hands 
+training.  The best way to encourage participation is yearly debriefs of CCA 
+results, and periodic debriefs of ongoing POA&M actions.  Leadership should 
+reinforce the confidentiality of DEOCS as part of command messaging. 
+    c.  An active, sustained CRT remains a best-practice in high- performing 
+commands, so that relationships are established, actions are taken, and 
+trends can be assessed over the course of time. 
+    d.  Commanders should emphasize the importance of DEOCS participation, 
+but participation must remain voluntary in keeping with statute and 
+regulation, and to ensure results are not skewed. 
+Historically, the Navy has averaged about 40 percent DEOCS participation.   
+The higher the voluntary survey participation, the more confidence Commanders 
+can have that the results represent the views of their unit.  Refer to the 
+CCA NAVADMIN Fact Sheet for information on survey participation levels and 
+resultant survey confidence factors. 
+ 
+11.  CCA (voluntary and optional resources). 
+    a.  To assist commands in building Great People, Leaders, and Teams, 
+three additional tools are new for 2024. 
+        (1) DOCP Survey.  The Department of Defense now provides commands 
+with a pulse survey capability to augment DEOCS.  The DOCP survey is a short, 
+customizable survey on organizational climate, consisting of relevant, 
+command-selected questions.  The DOCP survey question bank is designed to 
+assess a wide variety of topics within a unit or organization and allow each 
+command to tailor the survey for their unique needs.  The DOCP survey cannot 
+be administered more than once a year or administered within the 90 days 
+before or after a DEOCS.  The DOCP is the only DoD approved survey tool to 
+measure command climate between CCAs.  To build and use a DOCP survey, 
+commands should access through the Defense Climate Portal located at 
+https://www.prevention.mil/Climate-Portal/. 
+        (2) Virtual CO's Suggestion Box.  All commands have access to a 
+Virtual CO Suggestion Box.  The suggestions are only viewable by the command 
+triad and are automatically deleted every 90 days. 
+To request a Virtual CO Suggestion Box, a member of the command triad can go 
+to the following link 
+https://usnavy.gov1.qualtrics.com/jfe/form/SV_cx3MPZ0dS6OX0V0 
+        (3) DEOCS Combined Reports.  To help ISICs determine trends for their 
+subordinate commands, the DEOCS combined report function allows users to 
+aggregate or roll-up data from two or more DEOCS. 
+The combined reports can be accessed through the DEOCS Interactive Action 
+Dashboard by select CCSs. 
+ 
+12.  This NAVADMIN supersedes NAVADMIN 139/23. 
+ 
+13.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
