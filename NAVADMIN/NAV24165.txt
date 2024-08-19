@@ -1,0 +1,107 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 191820Z AUG 24 MID120001353847U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 165/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/FY24 FLIGHT HOUR VERIFICATION REQUIREMENT FOR CONDITIONAL AVIATION 
+INCENTIVE PAY AND HAZARDOUS DUTY INCENTIVE PAY FOR FLYING.// 
+ 
+REF/A/DOC/OPNAV/1OCT19// 
+REF/B/DOC/DOD/MAY24// 
+ 
+NARR/REF A IS OPNAVINST 7220.18, AVIATION INCENTIVE PAY AND BONUS PROGRAM. 
+REF B IS DOD 7000.14-R, VOL. 7A, CHAPTER 22, AVIATION INCENTIVE PAYS// 
+ 
+RMKS/1.  This NAVADMIN announces the Fiscal Year (FY) 24 flight hour 
+verification process for conditional Aviation Incentive Pay (AvIP) and 
+Hazardous Duty Incentive Pay for Flying (HDIP-F).  In line with reference 
+(a), all recipients of conditional AvIP or HDIP-F are required to track 
+flight hours per month, and report them to Navy Personnel Command (NPC) AvIP 
+Action Officer (PERS-435A).  Commanding Officers (CO) and other reporting 
+seniors are responsible for verifying the accuracy and completeness of flight 
+hour verification letters for officers under their charge, and reporting such 
+by endorsing verification letters on command letterhead.  Templates for the 
+reporting senior endorsement, as well as an example of the verification 
+letter, can be found on the Navy Personnel Command website at 
+https://www.mynavyhr.navy.mil/Career-Management/Detailing/Officer/Pers-43-
+Aviation/OCM/Monthly-Flight-Pay/. 
+ 
+2.  Conditional AvIP may be paid to those aeronautically designated officers 
+in the following categories: 
+    a.  Aeromedical officers. 
+    b.  Aviation officers who would otherwise be eligible for continuous AvIP 
+but have not met the months of operational flying requirements at the 12-year 
+or 18-year gate. 
+    c.  Aviation officers, O6 and below, who have completed the continuous 
+AvIP program after 22 years (after passing the 18-year low gate) or 25 years 
+(after passing the 18-year high gate). 
+ 
+3.  In order to be eligible for conditional AvIP, an officer must be under 
+orders to Duty in a Flying Status Involving Operational or Training Flights 
+(DIFOPS), must occupy a billet designated XXX1 or XXX2 (a DIFOPS billet), and 
+must fly the minimum hours prescribed in reference (b). 
+ 
+4.  HDIP-F may be paid to non-aeronautically designated officers and 
+aeronautically designated Flag Officers required by competent orders to 
+participate in regular and frequent aerial flights as crew or non- 
+crewmembers.  HDIP-F eligibility requires a non-aeronautically designated 
+officer to be under orders to duty involving flying as a technical observer. 
+An aeronautically designated Flag officers must be under DIFOPS orders to 
+maintain HDIP-F eligibility.  All must fly the minimum hours prescribed in 
+reference (b).  Officers entitled to AvIP are not entitled to HDIP-F. 
+ 
+5.  Any officer who received any conditional AvIP or HDIP-F payment during FY 
+24 is required to provide total flight hours, by month, from 1 October 2023 
+through 30 September 2024 to PERS-435A no later than 30 November 2024. 
+Required format for flight hour submissions and CO endorsement letters are 
+provided in the templates located on the NPC website at 
+https://www.mynavyhr.navy.mil/Career-Management/Detailing/Officer/Pers-43-
+Aviation/OCM/Monthly-Flight-Pay/.  If a member did not complete the minimum 
+flight hour requirements as established in reference (b), unearned AvIP/HDIP- 
+F will be recouped.  Underpayments will also be corrected.  If no flight 
+hours are submitted by 30 November 2024, the officer's entitlement to AvIP or 
+HDIP-F will stop and he or she will forfeit the entire FY 24 entitlement to 
+conditional AvIP or HDIP-F.  The repayment process of the AvIP received will 
+be initiated as applicable.  It is the responsibility of each individual 
+recipient of conditional AvIP/HDIP-F to ensure that the flight hour 
+verification letter and endorsement are completed in line with reference (a), 
+to deliver them on time by e-mail to PERS-435A, and to verify that they have 
+been received by PERS-435A (see e-mail contacts below). 
+ 
+6.  Members shall send original flight hour submissions and command 
+endorsements by e-mail to the Program Manager at avipandavb.fct@navy.mil.   
+If e-mail is not possible, please mail hard copies to: 
+    Commander, Navy Personnel Command 
+    PERS-435 
+    5720 Integrity Drive 
+    Millington, TN 38055-4300 
+ 
+7.  Once flight hours are received, verification of hours flown and monthly 
+entitlement(s) earned will be calculated by PERS-435A.  Overpayment and 
+underpayment cases will be forwarded to Defense Financing and Accounting 
+Service for appropriate corrective action.  Negotiation of repayment plans 
+for recoupment may be discussed directly with the member's servicing 
+personnel office. 
+ 
+8.  Point of contact for AvIP and HDIP-F policy is LT Natasha Reyes (PERS- 
+435A), at (901) 874-3953 or via e-mail at avipandavb.fct@navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or canceled. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

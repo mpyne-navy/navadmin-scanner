@@ -1,0 +1,79 @@
+ROUTINE 
+R 191756Z AUG 24 MID120001353778U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 162/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/AUG// 
+ 
+SUBJ/FISCAL YEAR 2024 TRAINING AND ADMINISTRATION OF THE RESERVE AVIATION 
+DEPARTMENT HEAD RETENTION BONUS// 
+ 
+REF/A/DOC/SECNAV/6FEB18// 
+REF/B/DOC/OPNAV/1OCT19// 
+ 
+NARR/REF A IS SECNAVINST 7220.88, AVIATION INCENTIVE PAYS AND BONUS PROGRAM.   
+REF B IS OPNAVINST 7220.18A, AVIATION INCENTIVE PAY AND BONUS PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces the Fiscal Year (FY) 2024 Training 
+and Administration of the Reserve (TAR) Aviation Department Head 
+Retention Bonus (ADHRB) program in line with references (a) and (b). 
+A vital part of developing a total force strategy and maintaining 
+combat readiness is to provide appropriate incentives to retain 
+skilled personnel for critical Naval Aviation enterprise billets. 
+The TAR ADHRB program provides selected bonuses as an incentive to 
+eligible pilots and Naval Flight Officers serving in Department Head 
+(DH) billets during FY24 and to retain those officers through a 
+post-DH aviation staff tour. 
+ 
+2.  The TAR ADHRB program continues the bonus system of previous 
+years that is tied directly to force structure and targets initial 
+eligible aviators.  Annual DH rates of up to $40K are listed below 
+and vary by community.  DH retention bonuses will be paid in three, 
+five or seven equal annual installments.  If a signed contract is 
+received before completing 12 months of their initial DH tour, the 
+Service Member is eligible for the seven year contract beginning on 
+their one year anniversary in the DH squadron.  Service Members may 
+sign up for the three or five year contract at any time during their 
+initial DH tour, but will not be approved until after their one year 
+anniversary in the DH squadron.  The following are the monetary 
+dollar rates for squadron DH contracts: 
+HM - Pilot                   $40K/YR 
+HSC - Pilot                  $25K/YR 
+HSM - Pilot                  $35K/YR 
+HT - Pilot                   $20K/YR 
+VAQ - Pilot                  $40K/YR 
+VAQ - NFO                    $25K/YR 
+VFC - Pilot                  $40K/YR 
+VP/VUP - Pilot               $40K/YR 
+VP/VUP - NFO                 $20K/YR 
+VR - Pilot                   $35K/YR 
+VT(JET) - Pilot              $40K/YR 
+VT(PROP) - Pilot/NFO         $35K/YR 
+ 
+3.  All signed contracts must be received by TAR Distribution and 
+Augmentation (PERS-46) by 13 September 2024.  For specific details, 
+eligibility and application procedures, visit the MyNavy Portal 
+website at https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Officer/Pers-46-TAR/Aviation/. 
+ 
+4.  Point of contact.  LCDR Aaron Howell, PERS-46E (TAR Aviation 
+Placement Officer) at (901) 874-4064/DSN 882 or via e-mail at 
+aaron.d.howell6.mil@us.navy.mil. 
+ 
+5.  This message will remain in effect until superseded or cancelled, 
+whichever occurs first. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
