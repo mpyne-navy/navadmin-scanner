@@ -1,0 +1,52 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 201609Z AUG 24 MID120001356699U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 169/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//DNS// 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO//DNS//AUG 
+ 
+SUBJ/ANNOUNCEMENT OF OPNAV 1650/3 (Rev. AUG 24)// 
+ 
+REF/A/DOC/SECNAVINST 1650.1J/29MAY2019// 
+REF/B/DOC/SECNAV M-1650.1//16AUG2019// 
+ 
+NARR/REFERENCE A IS THE SECRETARY OF THE NAVY MILITARY AWARDS INSTRUCTION. 
+REFERENCE B IS THE NAVY AND MARINE CORPS AWARDS MANUAL.// 
+ 
+RMKS/1.  As of August 2024, OPNAV 1650/3 (Rev.SEP-2023) has been superseded 
+by OPNAV 1650/3 (Rev. AUG-2024). 
+All personal awards being originated after 30 September 2024 and being 
+submitted to the CNO Awards board must be submitted utilizing OPNAV 1650/3 
+(Rev. AUG-2024). 
+ 
+2.  This mandate does not apply to those personal awards originated in The 
+Navy Department Awards Web Service (NDAWS). 
+ 
+3.  The updated form can be accessed at:  
+https://www.forms.documentservices.dla.mil/order/. The site can be searched 
+by form number or title, using the drop down at the top. Once form has been 
+located, click the silver disc icon to download the form. 
+ 
+4.  Utilize the amplifying guidance in the instruction section on the form to 
+verify form is filled out correctly. Discrepancies in the form will result in 
+delays in processing the award nomination and potential return to the 
+submitting command for rework. 
+ 
+5.  Point of contact is the CNO Awards Branch (DNS-13), 
+cnoawards(AT)us.navy.mil, 703-695-0053. 
+ 
+6.  Released by Vice Admiral M. E. Boyle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
