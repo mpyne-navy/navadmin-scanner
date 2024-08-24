@@ -1,0 +1,42 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 221909Z AUG 24 MID120001363146U 
+FM CNO WASHINGTON DC//DNS// 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC//DNS// 
+BT 
+UNCLAS 
+ 
+NAVADMIN 172/24 
+ 
+PASS TO OFFICE CODES: 
+INFO CNO WASHINGTON DC//DNS// 
+MSGID/GENADMIN/CNO WASHINGTON DC/-/AUG// 
+ 
+SUBJ/2023-24 MASTER CHIEF PETTY OFFICER OF THE NAVY DELBERT D. BLACK 
+LEADERSHIP AWARD SELECTION// 
+ 
+REF/A/DOC/OPNAV/18JAN2024// 
+ 
+AMPN/REF A IS OPNAVINST 1650.36A, THE MASTER CHIEF PETTY OFFICER OF 
+THE NAVY DELBERT D. BLACK LEADERSHIP AWARD// 
+ 
+POC/JAMES/CMDCM/OPNAV N00D/-/TEL:  (703)695-2970/DSN: 225-2970/ 
+EMAIL: RICHARD.L.JAMES2.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  The Master Chief Petty Officer of the Navy (MCPON) is pleased to 
+announce the selection of CMDCM Duane Jerry, stationed at Navy Mobile 
+Construction Battalion 133, as the 2023-24 MCPON Delbert D. Black Leadership 
+Award recipient. 
+ 
+2.  CMDCM Jerry was selected from a field of outstanding finalists 
+representing the finest first-tour Command Master Chiefs, Command Senior 
+Chiefs, and Chiefs of the Boat in the Navy.  Congratulations to him and the 
+other finalists. 
+ 
+3.  Released by VADM M. E. Boyle, Director, Navy Staff.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
