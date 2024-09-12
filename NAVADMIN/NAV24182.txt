@@ -1,0 +1,156 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 111513Z SEP 24 MID600117641004U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+NAVY INSIDER THREAT HUB ELEMENT WASHINGTON DC 
+BT 
+UNCLAS 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+NAVY INSIDER THREAT HUB ELEMENT WASHINGTON DC 
+UNCLAS 
+ 
+NAVADMIN 182/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/NATIONAL INSIDER THREAT AWARENESS MONTH// 
+ 
+REF/A/DOC/NDAA/23DEC16// 
+REF/B/SECNAV WASHINGTON DC/291249Z AUG 24// 
+REF/C/CNO OPNAVINST/5510.165B/14JUN24// 
+ 
+NARR/REF A IS NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2017, 
+SECTION 951.   
+REF B IS ALNAV 073/24, DEPARTMENT OF THE NAVY INSIDER THREAT AWARENESS 
+MONTH.   
+REF C IS THE NAVY INSIDER THREAT PROGRAM CNO INSTRUCTION.// 
+ 
+POC/RICHARD HABINA/CIV/NIA N7/ARLINGTON, VA/TEL: (703) 604-6297/EMAIL: 
+RICHARD.E.HABINA2.CIV(AT)US.NAVY.MIL/POLICY// 
+ 
+RMKS/1.  This NAVADMIN announces the Navy's observance of and participation 
+in the sixth annual National Insider Threat Awareness Month during September 
+2024.  This year's theme is "Detect, Deter, Mitigate," focusing on detection, 
+deterrence, and mitigation of insider risks that may cause significant damage 
+to national security. 
+ 
+2.  During National Insider Threat Awareness Month, the Navy will host and 
+participate in various events designed to raise insider threat awareness 
+across the Department of the Navy (DON).  The schedule of events is listed 
+below and posted to our website at https://flankspeed.sharepoint-mil.us.mcas-
+gov.us/sites/NIA/SitePages/US-Navy-Insider-Threat-Program.aspx.   All 
+military, civilian, and contractor personnel are invited and encouraged to 
+attend the events.  Contact the point of contact for additional information. 
+    Navy Insider Threat Awareness Month Activities 
+    - 12 Sep 2024, 1000-1100:  Navy Insider Threat Program Partnering with 
+the HQ Marine Corps Insider Program Virtual Workshop, "Going Dark: The 
+Inverse Relationship Between Online and On-The-Ground Pre-Offense Behaviors 
+in Targeted Attackers" (virtual). 
+    - 16 Sep 2024, 1000-1100:  Navy Insider Threat Program/Office of the 
+Deputy Under Secretary of the Navy for Intelligence and Security (ODUSN 
+(I&S)), Subject Matter Expert Interdisciplinary Summit (virtual). 
+    - 17 Sep 2024, 1000-1100:  Navy Insider Threat Program, Partnering with 
+Civilian Employee Assistance Program and Magellan Group, "Mind Your Health" 
+(virtual). 
+    - 19 Sep 2024, 1000-1100:  Navy Insider Threat Program, Partnering with 
+the Defense Insider Threat Management and Analysis Center on an Introduction 
+to the Prevention, Assistance, and Response (PAR) Program (virtual). 
+    - 24 Sep 2024, 1000-1100:  U.S. Navy Insider Threat Program, Partnering 
+with ODUSN (I&S) Personnel Security Town Hall with Mr.  Steve Santomauro. 
+    - 25 Sep 2024, 1000-1400:  National Insider Threat Awareness Month Fair 
+hosted by ODUSN (I&S); Pentagon, Second Floor Apex 9/10. 
+    - 30 Sep 2024, 1000-1200:  Navy Insider Threat Program, Partnering with 
+NCIS on Polygraph Presentation and a live demonstration; Office of Naval 
+Intelligence Boardroom (2B134). 
+ 
+3.  All commands are tasked to "deter" potential insider threats by 
+instituting appropriate security countermeasures, including awareness and 
+education programs; "detect" individuals at risk of becoming insider threats 
+by identifying potential risk indicators; and "mitigate" malicious activity 
+as it arises through a proactive approach leveraging available resources and 
+expertise. 
+ 
+4.  Most insider threats develop over time with indicators of concerning 
+activity prior to malicious events occurring.  Possible actions and risk 
+indicators may include, but are not limited to: 
+    - Generally disregarding security procedures. 
+    - Seeking access to information outside of need-to-know access. 
+    - Attempting to access sensitive areas, such as where classified 
+information is stored, discussed, or processed. 
+    - Working inconsistent hours, such as staying late or arriving early. 
+    - Insisting on unauthorized access or working in private. 
+    - Displaying workplace violence, such as physical aggression, verbal 
+abuse, harassment, and intimidation. 
+ 
+5.  Early intervention through reporting is crucial.  If you see something, 
+you must say something and then do something to enable positive intervention 
+and/or de-escalation before a malicious or harmful act occurs.  Report 
+concerning actions to your chain of command and to the Navy Insider Threat 
+Hub at (703) 695-7700, insiderthreat.fct@navy.mil, 
+or https://www.secnav.navy.mil/ITP/Pages/default.aspx.  Reporting can be 
+anonymous. 
+ 
+6.  The Navy Insider Threat Hub provides highly trained, multidisciplinary 
+insider threat analysts to assess the potential risk an insider may pose to 
+Navy personnel, resources, facilities, or information.  The goal is to 
+prevent or mitigate risks and restore the Sailor, civilian, or contractor 
+back to a trusted status. 
+ 
+7.  All DON military, civilian, and contractor personnel must complete the 
+annual Counterintelligence and Insider Threat Awareness and Reporting 
+Training (DON-CIAR-1.0-NCIS) in the Total Workforce Management System (TWMS) 
+at https://twms.dc3n.navy.mil/login.asp.  The training discusses insider 
+threats and how individuals can respond to potential malicious 
+activity.  Training must be completed within 30 days of initial employment, 
+entry-on-duty, or following information system access and annually 
+thereafter.  For FY 2024, training should be completed no later than 30 
+September 2024.  Report completion to the command insider threat 
+representative.  Counter-insider threat educational and training resources 
+are at https://www.cdse.edu/Training/Security-Posters/Insider-Threat/ and can 
+be posted in common areas. 
+ 
+8.  Additional insider threat education and awareness resources include: 
+    - The Secretary of the Navy Insider Threat Program: 
+https://www.secnav.navy.mil/itp/Pages/default.aspx 
+    - Navy Insider Threat Program events and awareness materials: 
+https://flankspeed.sharepoint-mil.us.mcas-gov.us/sites/NIA/SitePages/US-Navy-
+Insider-Threat-Program.aspx 
+    - Defense Visual Information Distribution Service insider threat 
+awareness videos and posters: https://www.dvidshub.net/unit/DUSN-IS. 
+    - Center for Development of Security Excellence education and awareness 
+materials and training tools: https://www.cdse.edu/Training/Toolkits/Insider-
+Threat-Toolkit/. 
+    - Outreach and Engagement:  The Navy Insider Threat Team offers in-person 
+and virtual outreach training for all personnel (military, civilian and 
+contractor) on the importance of recognizing insider threat potential risk 
+indicators, reporting requirements, and how to engage with the Navy Insider 
+Threat Program. 
+ 
+9.  The Navy Insider Threat Program has a list of potential insider threat 
+risk indicators reporting criteria to help identify concerning behaviors and 
+appropriate actions to take.  The Navy will continue to support national, 
+Department of Defense, DON, and Navy command efforts to counter insider 
+threats.  Keeping the workforce safe and protecting our nation's sensitive 
+and classified information to ensure successful mission accomplishment is 
+priority one and requires everyone's vigilance and timely reporting of any 
+observed suspicious activity or potentially threatening behaviors.  This 
+mindset is essential to enable our nation to counter the threat from within. 
+ 
+10.  The risk of insider threat activity is increasing as malignant 
+individuals and adversarial governments seek new ways to exploit 
+vulnerabilities within our organization and people.  Every member of the U.S. 
+Navy must remain vigilant to the risk indicators associated with insider 
+threat behaviors and actions, and must intervene or report when they see or 
+hear potentially malicious act. 
+ 
+11.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
