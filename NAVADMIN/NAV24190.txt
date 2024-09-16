@@ -1,0 +1,40 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 162036Z SEP 24 MID120001390696U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 190/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/2024 ASSOCIATION OF OLD CROWS OUTSTANDING NAVY UNIT AWARD WINNERS// 
+ 
+REF/A/DOC/AOC/09FEB2024// 
+ 
+AMPN/REF A IS THE AOC LETTER TO CNO FOR ANNUAL AWARD NOMINATIONS.// 
+POC/BIXBY/CTTCM/OPNAV N2N6WT/TEL:(571)256-8542/EMAIL: 
+GARY.W.BIXBY2.MIL(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  Congratulations to the following commands for their selection as the 
+2024 Association of Old Crows Outstanding Navy Unit Award Winners: 
+ 
+    a.  Shore:  Naval Information Warfare Development Center (NIWDC) 
+    b.  Sea:  USS MCFAUL (DDG-74) 
+    c.  Air:  Electronic Attack Squadron ONE THREE ZERO (VAQ-130) 
+ 
+2.  These unit award winners made significant contributions to the 
+Information Operations and Electromagnetic Warfare community and their 
+successes are noteworthy.  BRAVO ZULU for their outstanding efforts and for a 
+job well done! 
+ 
+3.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//

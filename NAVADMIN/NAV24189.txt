@@ -1,0 +1,70 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 162026Z SEP 24 MID120001390660U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+UNCLAS 
+ 
+NAVADMIN 189/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/SEP// 
+ 
+SUBJ/ACADEMIC YEAR 2025/26 ENLISTED CYBER MASTER OF SCIENCE DEGREE 
+OPPORTUNITY AT NAVAL POSTGRADUATE SCHOOL// 
+ 
+REF/A/INST/OPNAV/30JAN07// 
+REF/B/INST/OPNAV/07JAN15// 
+ 
+NARR/REF A IS OPNAVINST 1160.8B, SELECTIVE REENLISTMENT BONUS PROGRAM.   
+REF B IS OPNAVINST 1520.23C, GRADUATE EDUCATION.// 
+ 
+RMKS/1.  This NAVADMIN solicits enlisted Sailor applications for enrollment 
+in the Naval Postgraduate School (NPS) 15-month Master of Science in Applied 
+Cyber Operations (MACO) program.  This opportunity is one of many efforts to 
+increase Cyber capabilities for the Navy by building a professional Cyber 
+workforce. 
+ 
+2.  This program is available to E-6 and above shore duty eligible Active 
+Duty and Training and Administration of the Reserves members in the 
+Information Systems Technician and Cyber Warfare Technician ratings.   
+Eligibility criteria and nomination process are located at the Navy 
+Information Warfare Outreach Page on milSuite 
+at: https://www.milsuite.mil/book/docs/DOC-526186 
+(common access card email certificate login required).   
+NPS applications must be submitted to NPS no later than 31 December 2024. 
+ 
+3.  Selectees will be assigned to Navy-funded education as full-time students 
+under permanent change of station orders to Monterey, CA, with either a 
+January 2026 or July 2026 start.  As full-time students, Sailors will be 
+required to carry a full academic load year-round.  Degree requirements shall 
+be completed in 15 months. 
+ 
+4.  Applications must be sent via encrypted email or DOD SAFE (https 
+://safe.apps.mil/) to NAVIFOR_MACO(AT)us.navy.mil within two weeks of 
+notification of conditional acceptance by NPS. 
+ 
+5.  Selection results will be disseminated via official email from a Naval 
+Information Force (NAVIFOR) MACO Program Officer.  Due to the highly 
+competitive nature of this program, notification of selection via official 
+email is a binding commitment which selectees must accept or decline within 
+five working days of receipt. 
+ 
+6.  The point of contact for this program can be contacted via email at 
+NAVIFOR_MACO(AT)us.navy.mil. 
+ 
+7.  This message will remain in effect until superseded, or 1 September 2025, 
+whichever occurs first. 
+ 
+8.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations For 
+Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
