@@ -1,0 +1,63 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 171741Z SEP 24 MID120001393536U
+FM CNO WASHINGTON DC
+TO NAVADMIN//
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 193/24
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+TO NAVADMIN//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP//
+
+SUBJ/2024 VICE ADMIRAL JAMES BOND STOCKDALE LEADERSHIP AWARD WINNERS//
+
+RMKS/1.  This NAVADMIN announces the 2024 recipients of the Vice Admiral 
+James Bond Stockdale Leadership Award.  Commander Justin B. Smith, Commanding 
+Officer, USS MASON (DDG 87) (U. S. Fleet Forces Command) and Commander Jason 
+M. Garfield, Commanding Officer, USS STERETT (DDG 104) (U.S. Pacific Fleet) 
+were selected for their inspirational leadership.
+
+2.  This Fleet award was established in honor of VADM James Bond Stockdale, 
+whose distinguished Naval career symbolized the highest standards of 
+excellence in both personal and professional leadership.  The award is 
+presented annually to two commissioned officers on Active Duty in the grade 
+of commander or below who are serving in command of a single ship, submarine, 
+aviation squadron, Sea, Air, Land (SEAL) team, Naval special warfare 
+squadron, SEAL delivery vehicle team, special boat team, explosive ordnance 
+disposal mobile unit, mobile diving and salvage unit, or Navy special 
+clearance team during the nomination cycle.  Candidates are nominated by 
+peers who themselves must be eligible for the award.
+
+3.  The 2024 winners were chosen from among six outstanding finalists in a 
+review process that included screening at the Fleet commander level and final 
+selection by a board of senior officers.
+
+4.  The following finalists deserve well-earned congratulations:
+    a.  CDR Robert A. Low, Commanding Officer, USS DELAWARE (SSN 791)
+    b.  CDR Tyler C. McQuiggan, former Commanding Officer, Strike Fighter 
+Squadron ONE THREE ONE (VFA 131)
+    c.  CDR Erik H. Gustafson, former Commanding Officer, Helicopter Sea 
+Combat Squadron FIVE (HSC 5)
+    d.  CDR Joseph B. Smith, Commanding Officer, USS PORTER (DDG 78)
+
+5.  CDR Justin Smith and CDR Jason Garfield, as well as all finalists, should 
+be justifiably proud of their achievements.
+
+6.  Awards will be presented at a ceremony on 20 November 2024.
+
+7.  This NAVADMIN will be kept for record purposes, and will remain in effect 
+until canceled or superseded, whichever occurs first.
+
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1//
+
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
+
