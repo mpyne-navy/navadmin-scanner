@@ -1,0 +1,110 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 181818Z SEP 24 MID120001396784U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN// 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 192/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+TO NAVADMIN// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/BASIC ALLOWANCE FOR HOUSING FLEXIBILITY// 
+ 
+REF/A/DOC/DOD FMR/AUG21// 
+REF/B/DOC/BAH DELEGATION MEMO/18JUN24// 
+REF/C/DOC/DASN (MMP) MEMO/5AUG21// 
+REF/D/DOC/DASN (MMP) MEMO/6APR21// 
+REF/E/DOC/DCNO MEMO/8OCT21// 
+REF/F/DOC/DCNO MEMO/13APR20// 
+REF/G/DOC/DCNO MEMO/17SEP24// 
+ 
+NARR/REF A IS THE DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT REGULATION.   
+REF B IS THE DELEGATION OF AUTHORITY FOR SPECIFIED CIRCUMSTANCES AFFECTING 
+ENTITLEMENT TO A HOUSING ALLOWANCE OR PAYMENT AT OTHER THAN THE PERMANENT 
+DUTY STATION RATE.   
+REF C IS BASIC ALLOWANCE FOR HOUSING FLEXIBILITY FOR MEMBERS ASSIGNED TO 
+NAVAL AIR FACILITY EL CENTRO.   
+REF D IS BASIC ALLOWANCE FOR HOUSING FLEXIBILITY FOR MEMBERS ASSIGNED TO 
+NAVAL AIR STATION LEMOORE, NAVAL AIR STATION FALLON AND NAVAL AIR WEAPONS 
+STATION CHINA LAKE.   
+REF E IS BASIC ALLOWANCE FOR HOUSING FLEXIBILITY FOR MEMBERS ASSIGNED TO 
+NAVAL AIR STATION LEMOORE, NAVAL AIR STATION FALLON, NAVAL AIR WEAPONS 
+STATION CHINA LAKE AND NAVAL AIR FACILITY EL CENTRO.   
+REF F IS BASIC ALLOWANCE FOR HOUSING FLEXIBILITY FOR MEMBERS ASSIGNED TO 
+NAVAL AIR STATION LEMOORE, NAVAL AIR STATION FALLON AND NAVAL AIR WEAPONS 
+STATION CHINA LAKE.   
+REF G IS BASIC ALLOWANCE FOR HOUSING FLEXIBILITY FOR MEMBERS.// 
+ 
+RMKS/1.  This NAVADMIN authorizes Basic Allowance for Housing (BAH) based on 
+dependents location for members who choose to leave their dependents at the 
+previous duty station or previously authorized dependent location in the 
+Continental United States (CONUS), Alaska, and Hawaii.  It implements 
+reference (b). 
+ 
+2.  In order to qualify for BAH at dependent location, the Service Member's 
+dependents must be in CONUS, Alaska, or Hawaii, located in the vicinity of 
+the previous Permanent Duty Station (PDS) or previously approved dependent 
+location and the dependents must not have moved from that location. 
+    a.  A housing allowance based on dependent location will not be paid 
+under this authority for any location outside of CONUS, Alaska or Hawaii. 
+    b.  Members with orders detaching from an accompanied tour in a foreign 
+location or non-foreign United States territory are not authorized to receive 
+BAH for dependent location under this authority. 
+    c.  Entitlement to BAH based on dependent location will cease if the 
+dependents move from the vicinity of the approved location.  Any overpayments 
+will be recouped. 
+ 
+3.  Members are only authorized to receive a single housing allowance under 
+this authority.  If receiving a housing allowance for their dependent's 
+location, the member will not receive a housing allowance for their PDS.   
+Family Separation Allowance may be authorized if requirements in reference 
+(a) are met.  Additionally, members approved under this authority are only 
+authorized to occupy unaccompanied government quarters on a space available 
+basis. 
+Service Members should note that unaccompanied government quarters are 
+limited and should not be relied upon in their financial calculations. 
+ 
+4.  Members must be aware of the financial implications of maintaining a 
+residence at their PDS and at their dependents location.  Members are 
+encouraged to discuss their situation with their command financial specialist 
+prior to electing to geographically separate from their family. 
+ 
+5.  All requests made under this NAVADMIN will be submitted to Commander, 
+Navy Personnel Command (PERS-451).  Branch Head, Military Pay and 
+Compensation Branch (OPNAV N130) will serve as the ultimate authority for 
+appeals.  A complete package must contain: 
+    a.  Member's request.  The request must state that the member understands 
+the potential financial implications of electing to receive BAH based on 
+dependent location and that the dependents reside at the address on the 
+NAVPERS 1070/602.  The request must acknowledge the affirmative duty of the 
+member to tell their command if their dependents move from the previous PDS 
+or previously approved dependent location. 
+    b.  Current Commanding Officer's endorsement. 
+    c.  Current PCS orders. 
+    d.  Current NAVPERS 1070/602 (Page 2). 
+    e.  For subsequent requests, a copy of previous determination(s). 
+ 
+6.  This NAVADMIN is effective 1 October 2024.  Members that have dependents 
+at a previous duty station can request BAH for that location, but the start 
+date for that BAH will be no earlier than 1 October 2024. 
+ 
+7.  Commands with questions regarding this NAVADMIN are encouraged to contact 
+their local Transaction Service Center (TSC) for clarification.  TSC 
+Personnel with questions may contact:  PERS-451 at pers451@navy.mil. 
+ 
+8.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
