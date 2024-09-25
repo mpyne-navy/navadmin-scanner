@@ -1,0 +1,67 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 251506Z SEP 24 MID120001412572U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 199/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/ NAVAL POSTGRADUATE SCHOOL MASTER'S DEGREE OPPORTUNITY FOR NAVY ENLISTED 
+EXPLOSIVE ORDNANCE DISPOSAL OPERATORS// 
+ 
+REF/A/DOC/OPNAV/30JAN07// 
+AMPN/REF A IS OPNAVINST 1160.8A, SELECTIVE REENLISTMENT BONUS PROGRAM. 
+ 
+RMKS/1.  This NAVADMIN solicits enlisted Sailor applications for in-resident 
+enrollment at the Naval Postgraduate School (NPS) 18-month Master of Science 
+in Defense Analysis in Special Operations/Irregular Warfare or 24-month 
+Master of Science in Undersea Warfare programs.  In line with reference (a), 
+this opportunity is one of many efforts to enhance Explosive Ordnance 
+Disposal's (EOD) warfighting capabilities for the Navy, while building a 
+dynamic, professional workforce. 
+ 
+2.  This program is only available to Active Duty E6 to E9 members in the EOD 
+rating.  Eligibility criteria and nomination process are located on the EOD 
+Enlisted Community Manager (ECM) website at 
+https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Enlisted/Special-Operations/EOD/.  NPS applications must be 
+submitted to NPS no later than six months prior to the start date. 
+ 
+3.  Selectees will be assigned to Navy-funded education as full-time students 
+under Permanent Change of Station orders to Monterey, CA, with either a March 
+or a September 2025 start.  As full-time students, Sailors will be required 
+to carry a full academic load year-round.  Degree requirements must be 
+completed in 18 or 24 months, depending on chosen program. 
+ 
+4.  Applications must be sent via encrypted e-mail or DoD SAFE 
+(https://safe.apps.mil/) to eod_comm_mgr.fct@navy.mil within two weeks of 
+notification of conditional acceptance by NPS.  If required, please 
+visit https://dod411.gds.disa.mil/ to download the required mailbox 
+certificates to encrypt the email. 
+ 
+5.  Selection results will be disseminated via official e-mail from an EOD 
+Community Management office.  Due to the highly competitive nature of this 
+program, notification of selection via official e-mail is a binding 
+commitment, which selectees must accept or decline within five working days 
+of receipt. 
+ 
+6.  The point of contact for this program can be contacted via e-mail 
+at eod_comm_mgr.fct@navy.mil. 
+ 
+7.  This message will remain in effect until superseded, or 1 September 2025, 
+whichever occurs first. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
