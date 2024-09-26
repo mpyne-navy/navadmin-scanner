@@ -1,0 +1,89 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 241241Z SEP 24 MID120001409414U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+BT 
+UNCLAS 
+ 
+NAVADMIN 197/24 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N4/SEP// 
+ 
+SUBJ/FY25 LOGTECH EDUCATION OPPORTUNITIES (CORRECTED COPY)// 
+ 
+POC/MARIO BROOKS/OPNAV N4L5/CNO WASHINGTON DC/(703)614-7963/ 
+MARIO.D.BROOKS5.MIL@US.NAVY.MIL// 
+ 
+REF/A/DOC/OPNAV/09MAY23// 
+ 
+AMPN/REF A IS OPNAVINST 4951.2, LOGISTICS AND TECHNOLOGY EDUCATION PROGRAM// 
+ 
+RMKS/1.  This message announces education opportunities through the 
+Center of Excellence in Logistics and Technology (LOGTECH) Institute 
+for Defense and Business (IDB), hosted at Duke University during 
+fiscal year 2025 (FY25).  LOGTECH enables and energizes participants 
+to improve operations and accelerate adoption of future logistics 
+capabilities throughout their organizations.  IDB offers the courses 
+in subparagraphs (a) and (b), available to Navy military and 
+civilian personnel: 
+   a.  LOGTECH Executive Course.  This course is designed for 
+military Flag Officers and Senior Executive Service members to focus 
+on strategic and organizational considerations from the senior 
+executive perspective. 
+FY25 Executive Course schedule: 
+Class#   Start        Graduate      Quotas   Application Deadline 
+2025-01  06 Apr 2025  11 Apr 2025   1        14 Feb 2025 
+   b.  LOGTECH Advanced Course.  This course is designed for CWO-4 
+to CWO-5, O-4 to O-6 military officers, E-9 military personnel, as 
+well as GS-13 to GS-15 civilians.  It explores leading-edge 
+logistics technologies to prepare logisticians for the future.  FY25 
+Advanced Course schedule: 
+Class#   Start        Graduate      Quotas   Application Deadline 
+2025-01  08 Dec 2024  13 Dec 2024   2        18 Oct 2024 
+2025-02  23 Feb 2025  28 Feb 2025   1        06 Dec 2024 
+2025-03  18 May 2025  23 May 2025   2        28 Mar 2025 
+2025-04 22 Jun 2025  27 Jun 2025   TBD      02 May 2025 
+2025-05  20 Jul 2025  25 Jul 2025   1        30 May 2025 
+2025-06  14 Sep 2025  19 Sep 2025   1        25 Jul 2025 
+2025-07  21 Sep 2025  26 Sep 2025   1        01 Aug 2025 
+2025-08 07 Dec 2025  12 Dec 2025   TBD      17 Oct 2025 
+ 
+2.  LOGTECH Package. To obtain LOGTECH Advanced or Executive Course 
+quotas, applicants must submit a standard Navy biography and signed 
+SF-182 to their appropriate echelon 2 liaison.  Advanced course 
+applicants must also include a logistics problem statement for 
+exploration during the course.  A sample problem statement is found 
+in reference (a).  The Office of Chief of Naval Operations (OPNAV), 
+Installations and Logistics (N4) FY25 LOGTECH course managers are: 
+   a.  CDR Rudy Mason, OPNAV N4L5, rudy.mason2.mil@us.navy.mil 
+   b.  LCDR Mario Brooks, OPNAV N4L5, mario.d.brooks5.mil@us.navy.mil 
+   c.  LT Ryan Charles, OPNAV N4L5, ryan.e.charles.mil@us.navy.mil 
+ 
+3.  LOGTECH Selection Process.  Selections are based on the following 
+criteria: funding availability, candidate qualifications 
+(specifically career field and paygrade), package completeness 
+(biography, SF-182, and problem statement), and problem statement 
+quality.  For additional information please review subparagraph (a) 
+and (b): 
+   a.  Additional Information.  Refer to the IDB LOGTECH website at 
+https://www.idb.org/programs/logistics-supply-chain-and-life-cycle/logtech-
+advanced-program-in-logistics-technology/ 
+   b.  Resource.  The SF-182 is available at:  
+https://www.opm.gov/forms/pdf_fill/sf182.pdf. 
+ 
+4.  Funding. Tuition, meals, and lodging are centrally funded in 
+FY25.  Commands are responsible for funding travel, full per diem on 
+travel days, and incidental per diem on non-travel days.  Services, 
+Agencies, and Combatant Commands also have the option to self-fund 
+seats for any of the above classes.  Should a command decide to 
+self-fund, they will work directly with IDB after coordinating with 
+OPNAV and the appropriate echelon 2 Point of Contact.  Program cost 
+is $9K per attendee and covers tuition, meals, and lodging. 
+ 
+5.  Released by VADM J. T. Jablon, DCNO N4.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
