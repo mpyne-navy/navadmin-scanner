@@ -1,0 +1,64 @@
+CLASSIFICATION: UNCLASSIFIED//
+
+ROUTINE
+R 301530Z SEP 24 MID120001423762U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 203/24
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/-/SEP//
+SUBJ/US NAVAL INSTITUTE 2024 GENERAL PRIZE ESSAY CONTEST//
+
+RMKS/1. This NAVADMIN announces the 2024 U.S. Naval Institute's
+(USNI) General Prize Essay Contest. Great power competition requires the Sea 
+Services to think creatively to address national, strategic, and operational 
+challenges. The 2024 USNI General Prize Essay Contest enables all Sailors to 
+share their insights on the pressing issues of our time. Winners will receive 
+a cash prize and have their articles published in Proceedings.
+
+2. Contest Information:
+a. Prizes:
+    First Place: $6,000
+    Second Place: $3,000
+    Third Place: $2,000
+b. Deadline: 31 October 2024
+c. Eligibility: The contest is open to all active duty military, reservists, 
+veterans, and civilians. Essays must be original and not published or being 
+considered for publication elsewhere.
+d. Essay criteria:
+  (1) Word count: 3,000 words maximum.
+  (2) Essays must be unclassified.
+  (3) Essays may address any topic. Suggested topics include, but are not 
+limited to:
+     - Project 33 topics and themes found in Chief of Naval
+       Operations (CNO) Navigation Plan (NAVPLAN) topics. The CNO's
+       NAVPLAN can be found here:
+       United States Navy > Leadership > Chief of Naval Operations
+       CNO-NAVPLAN-2024/
+     - How can the Sea Services quickly and more affordably develop,
+       procure, and field needed capabilities?
+     - What new or nascent technology do the Sea Services need, and
+       how would it affect tactics or strategy?
+     - How can the United States and its allies deter China from
+       coercive action in East Asia or the western Pacific?
+     - What should the U.S. nuclear posture and strategy be to deter
+       competitors along the continuum of conflict?
+     - What reforms in education and training will or should advance
+       the services?
+   (4) Submit essay as a word document at 2024 General Prize Essay Contest | 
+U.S. Naval Institute (usni.org)
+3. Additional information on the contest may be found at the USNI
+website:
+General Prize Essay Contest | U.S. Naval Institute (usni.org)
+4. Released by VADM Michael Boyle, Director, Navy Staff.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
