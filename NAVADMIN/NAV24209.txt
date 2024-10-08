@@ -1,0 +1,109 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 071510Z OCT 24 MID120001443742U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 209/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/FISCAL YEAR 2025 COMMON MILITARY TRAINING REQUIREMENTS// 
+ 
+REF/A/DOC/OPNAVINST 1500.22H/03SEP2015// 
+REF/B/DOC/DODI 1322.31/16MAY2023// 
+REF/C/DOC/DODI 8510.01/19JUL2022// 
+REF/D/DOC/DODI 5200.48/06MAR2020// 
+REF/E/DOC/DODD 5143.01/06APR2020// 
+REF/F/DOC/DODI 2000.12/08MAY2017// 
+REF/G/DOC/DODD 6495.01/10NOV2021// 
+REF/H/DOC/DODD 5240.06/31AUG2020// 
+REF/I/DOC/SECNAVINST 3070.2A/09MAY2019// 
+REF/J/DOC/OPNAVINST 1720.4B/18SEP2018// 
+REF/K/DOC/DODI 1350.02/20DEC2022// 
+REF/L/DOC/DODI 8500.01/07OCT2019// 
+ 
+NARR/REF A IS OPNAV INSTRUCTION 1500.22H, COMMON MILITARY TRAINING PROGRAM.   
+REF B IS DOD INSTRUCTION 1322.31 CHANGE 1, COMMON MILITARY TRAINING.   
+REF C IS DOD INSTRUCTION 8510.01, RISK MANAGEMENT FRAMEWORK FOR DOD 
+INFORMATION TECHNOLOGY.   
+REF D IS DOD INSTRUCTION 
+5200.48, CONTROLLED CLASSIFIED INFORMATION.   
+REF E IS DOD DIRECTIVE 5143.01, UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE.   
+REF F IS DOD INSTRUCTION 2000.12, DOD ANTITERRORISM PROGRAM.   
+REF G IS DOD DIRECTIVE 6495.01, SEXUAL ASSAULT PREVENTION AND RESPONSE 
+PROGRAM. 
+REF H IS DOD DIRECTIVE 5240.06, COUNTERINTELLIGENCE AWARENESS AND REPORTING.   
+REF I IS SECNAV INSTRUCTION 3070.2A, OPERATIONS SECURITY.   
+REF J IS OPNAV INSTRUCTION 1720.4B, SUICIDE PREVENTION PROGRAM.   
+REF K IS DOD INSTRUCTION 1350.02, DOD MILITARY EQUAL OPPORTUNITY PROGRAM.   
+REF L IS DOD INSTRUCTION 8500.01, CYBERSECURITY.// 
+ 
+RMKS/1.  The term "General Military Training (GMT)" used in previous 
+NAVADMINs has been replaced with "Common Military Training (CMT)." 
+In line with reference (b), CMT refers to non-core training intended 
+for completion by all Service Members. 
+ 
+2.  This NAVADMIN announces the Fiscal Year (FY) 2025 CMT requirements for 
+all Navy personnel.  These requirements stem from directives issued by 
+Congress and the Department of Defense as outlined in references (a) through 
+(l).  In our ongoing pursuit of readiness amidst evolving challenges, the 
+preparedness of each individual remains pivotal to our operational edge.  CMT 
+equips Sailors with essential foundational training aimed at safeguarding 
+fellow personnel, securing our operational capabilities, and defending our 
+networks and critical information-fundamental principles enhancing our 
+effectiveness as warfighters. 
+ 
+3.  In response to Fleet feedback, the Navy has streamlined the required CMT 
+topics.  Requests for alternative training to fulfill CMT requirements may be 
+submitted to the CMT program sponsor for approval. 
+ 
+4.  Mandatory CMT Topics 
+      a.  In line with reference (b), annual mandatory topics for FY25: 
+        (1) DoD Controlled Unclassified Information (CUI) Training. 
+        (2) NCIS Counterintelligence and Insider Threat Awareness 
+            and Reporting. 
+        (3) DoD Cyber Awareness Challenge 2025. 
+        (4) Operations Security (OPSEC) Annual Training. 
+        (5) Sexual Assault Prevention and Response (SAPR) Awareness. 
+        (6) Suicide Prevention. 
+        (7) Records Management in the DoN: Everyone's Responsibility. 
+        (8) Harassment Prevention and Military Equal Opportunity. 
+        (9) Antiterrorism Level 1 Awareness Training. 
+ 
+5.  Situational CMT Topics: 
+    a.  Situational CMT topics are not mandatory for all Navy personnel.   
+Instead, they are available for individual unit training as decided by 
+Commanding Officers.  This approach empowers Commanders to optimize training 
+needs unique to situational and operational requirements. 
+    b.  Situational Topics: 
+        (1) Combatting Trafficking in Persons. 
+        (2) Domestic Violence for All Hands. 
+        (3) Substance Abuse. 
+        (4) Financial Readiness. 
+        (5) DoN Privacy Act Training. 
+        (6) Tactical Combat Casualty Care. 
+        (7) Countering Extremist Activity. 
+        (8) Crew Endurance and Fatigue Management. 
+        (9) Foreign Malign Influence (FMI) Training and Awareness. 
+        (10) Traumatic Brain Injury Training for Service Members. 
+ 
+6.  Detailed information on mandatory and situational CMT topics and guidance 
+for training delivery is available on MyNavy Portal (MNP): 
+https://www.mnp.navy.mil/group/training-education-qualifications/cmt. 
+ 
+7.  This NAVADMIN will remain in effect until superseded or until  
+30 September 2025, whichever occurs first. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
