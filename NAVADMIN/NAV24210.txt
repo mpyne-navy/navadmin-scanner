@@ -1,0 +1,70 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 091546Z OCT 24 MID120001450493U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 210/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/UPDATED OFF-RAMP GUIDANCE FOR ACTIVE COMPONENT SUBMARINE COMMUNICATIONS 
+DESIGNATOR 6290 LIMITED DUTY OFFICERS// 
+ 
+REF/A/MSG/CNO/10JUN19// 
+REF/B/DOC/SECNAV/5APR19// 
+REF/C/DOC/OPNAV/17JAN19// 
+REF/D/DOC/NAVPERS/JUL24// 
+REF/E/DOC/OPNAV/20OCT23// 
+ 
+NARR/REF A IS NAVADMIN 128/19, OFF-RAMP GUIDANCE FOR ACTIVE COMPONENT 
+SUBMARINE COMMUNICATIONS DESIGNATOR 6290 LIMITED DUTY OFFICERS.   
+REF B IS SECNAVINST 1400.1C, OFFICER COMPETITIVE CATEGORIES FOR THE ACTIVE 
+DUTY LIST OF THE NAVY AND MARINE CORPS. 
+REF C IS OPNAVINST 1210.5B, LATERAL TRANSFER AND REDESIGNATION OF ACTIVE 
+COMPONENT OFFICERS IN THE NAVY.   
+REF D IS NAVPERS 15839I, MANUAL OF NAVY OFFICER MANPOWER AND PERSONNEL 
+CLASSIFICATIONS VOLUME I.  
+REF E IS OPNAVINST 7220.15B, SUBMARINE DUTY INCENTIVE PAY PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces updates to off-ramp guidance for Active 
+Component Submarine Communication Designator (6290) Limited Duty Officers 
+(LDO) and cancels reference (a). 
+    a.  Beginning Fiscal Year (FY) 2026 (1 October 2025) 6290 officers in 
+year groups FY16 and later (i.e.  1 October 2015 and later) will not be 
+considered for control grade promotion (O4-O6) and must complete requirements 
+for re-designation into their parent Restricted Line designator, Information 
+Professional (IP)(1820), in line with reference (b), enclosure (1), note 7. 
+    b.  Reference (c) paragraphs 3 and 9, provide detailed application 
+procedures for re-designation without board action and lateral transfer. 
+    c.  Reference (d) has been updated to include the Additional 
+Qualification Designator (AQD) IP Officers Qualified in Submarine 
+Communications (SV3). 
+    d.  Reference (e) has been updated to include the IP (1820) designator 
+with AQD SV3 for Active Duty officers eligible for continuous submarine pay. 
+ 
+2.  6290 LDOs in the grades O4 to O6, not desiring to convert to 1820, must 
+submit for lateral transfer without board action to 6280, submarine 
+electronics LDO, to be eligible for promotion. 
+ 
+3.  6290 LDOs in the grade of O3 and 04 not desiring to convert to 1820 or 
+6280, will statutorily retire at 30 years of Naval Service. 
+ 
+4.  The point of contact is CAPT Patrick Sutton at (901) 874-3042/DSN 882 or 
+via e-mail patrick.h.sutton.mil@us.navy.mil. 
+ 
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
