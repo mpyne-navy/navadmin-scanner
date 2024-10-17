@@ -1,0 +1,103 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151859Z OCT 24 MID120001464464U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 214/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/OCT// 
+ 
+SUBJ/FISCAL YEAR 2025 CYBERSECURITY AWARENESS CHALLENGE// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/061837Z OCT 23// 
+REF/B/DOC/SECNAVINST 5239.3C/2MAY16// 
+REF/C/MSG/CNO WASHINGTON DC/071510Z OCT 24// 
+ 
+NARR/REF A IS NAVADMIN 241/23 PROVIDES GUIDANCE FOR THE FISCAL YEAR 2024 
+CYBERSECURITY AWARENESS TRAINING. 
+REF B IS THE SECRETARY OF THE NAVY INSTRUCTION DEPARTMENT OF THE NAVY (DON) 
+CYBERSECURITY POLICY WHICH ESTABLISHES DON POLICY FOR CYBERSECURITY. 
+REF C IS NAVADMIN 209/24, COMMON MILITARY TRAINING REQUIREMENTS.// 
+ 
+POC/COTTERELL/CIV/OPNAV N2N6D7/TEL:  (703) 695-1858/E-MAIL: 
+DAWN.D.COTTERELL.CIV(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  This NAVADMIN supersedes reference (a) and provides guidance for the 
+Fiscal Year 2025 (FY25) Cybersecurity Awareness Challenge (CAC) training 
+requirement. 
+ 
+2.  Per references (b) and (c), Navy personnel, civilians, and contractors 
+with access to unclassified or classified networks must complete the 
+Department of Defense (DoD) employee version of CAC by 1 September 2025. 
+ 
+3.  Personnel who completed CAC 2024 after 30 September 2024 but before CAC 
+2025 version is available, will receive credit for their annual FY25 
+training. 
+ 
+4.  Total Workforce Management Services (TWMS) is the readiness platform used 
+to track CAC completion percentages for the Navy.  Commands and training 
+platforms must confirm TWMS is capturing all CAC completions under the 
+overarching requirement ID set by CNIC/TWMS Administration (TWMS Requirement 
+ID: 76689 FY25 DoD Cyber Awareness Challenge) to receive credit.  Commands 
+are prohibited from creating additional CAC training requirements to set 
+command specific training metrics.  This requirement cannot be waived.  The 
+options below are the authorized methods for training delivery: 
+    a.  Commands can elect to complete CAC training using instructor-led 
+    delivery.  A command designated cyber security professional such as the 
+    Information Systems Security Manager (ISSM) or Cyber Workforce Program 
+Manager(CWF-PM) must provide the instruction. 
+    b.  Total Workforce Management Service(TWMS), https://twms.dc3n.navy.mil; 
+ 
+    c.  Navy e-Learning (NEL), https://learning.nel.navy.mil/;  
+(Note:  The My Navy Portal, https://learning.nel.navy.mil/ELIAASv2p/  
+redirects users to the NEL link)); 
+    d.  Defense Information Systems Agency (DISA) 
+website, https://cyber.mil/training/cyber-awareness-challenge/; 
+    e.  Waypoints, https://don.csod.com; 
+    f.  Other approved training sources, DISA Digital Video Discs (DVDs). 
+ 
+5.  Ships can access the annual training from the NEL application hosted on 
+the Navy Information/Application Product Suite (NIAPS) server, eliminating 
+the need to reach back to shore hosted NEL websites.  The CAC 2025 course is 
+available via the NEL Afloat Learning Management System Pub Amendment 112 for 
+download by the NIAPS Administrator using the normal manual NIAPS distance 
+support update process.  If unable to download Learning Management System Pub 
+Amendment 112, ships can request a DVD with these files to be mailed by 
+submitting a support request to Navy 311. 
+ 
+6.  Although CAC training is an individual responsibility, commanders and 
+commanding officers are accountable for completion by 100 percent of their 
+personnel.  Effective 1 September 2020, the DoD Cybersecurity Hardening 
+Scorecard collects information on the number of users who completed annual 
+Cybersecurity Awareness training and the scorecard is briefed on a quarterly 
+basis to the Deputy Secretary of Defense. Training officers are responsible 
+for ensuring their personnel complete and properly document the required 
+training. 
+ 
+7.  Command training officers must validate training via TWMS or Fleet 
+Training Management and Planning System (FLTMPS) 
+(https//ntmpsweb.ncdc.navy.mil/fltmps/) authoritative databases. Training 
+officers will manually record training completed via the DISA website, DISA 
+DVDs, or instructor-led.  Manually record training in FLTMPS using the 
+Learning Event Completion Form.  Report any discrepancies to the Navy 
+Training Management Planning System Operational Support office at 
+ntmps.support(AT)navy.mil or 1-866-438-2898/DSN 922-1867. 
+ 
+8.  The Command ISSM is responsible for reporting compliance to meet Federal 
+Information Security Modernization Act of 2014 requirements.  Command ISSMs 
+will disable accounts of users who do not complete training by 1 September 
+2025 and maintain non-compliance list of accounts that were disabled. 
+ 
+9.  This NAVADMIN will remain in effect until cancelled or superseded. 
+ 
+10.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
