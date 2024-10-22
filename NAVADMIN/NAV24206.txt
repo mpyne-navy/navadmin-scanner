@@ -1,21 +1,22 @@
 CLASSIFICATION: UNCLASSIFIED// 
 ROUTINE 
-R 011940Z OCT 24 MID120001428360U 
+R 021342Z OCT 24 MID120001430782U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
 BT 
 UNCLAS 
- 
-NAVADMIN 206/24 
- 
 PASS TO OFFICE CODES: 
 FM CNO WASHINGTON DC//N1// 
 INFO CNO WASHINGTON DC//N1// 
+SUBJ/UNCLAS 
+ 
+NAVADMIN 206/24 
+ 
 MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
  
-SUBJ/SELECTION OF APPLICANTS FOR THE FISCAL YEAR 2025 SEAMAN TO ADMIRAL-21 
-COMMISSIONING PROGRAM// 
+SUBJ/SELECTION OF APPLICANTS FOR THE FY25 SEAMAN TO ADMIRAL-21 COMMISSIONING 
+PROGRAM *CORRECTED COPY*// 
  
 REF/A/DOC/OPNAV/14DEC09// 
 REF/B/DOC/BUMED/11JUN15// 
@@ -25,24 +26,24 @@ APPLICATION ADMINISTRATIVE MANUAL.
 REF B IS THE MANMED, NAVMED P-117, CHAPTER 15, PHYSICAL EXAMINATIONS AND 
 STANDARDS FOR ENLISTMENT, COMMISSION, AND SPECIAL DUTY.// 
  
-RMKS/1.  This NAVADMIN announces selections for the Fiscal Year (FY) 2025 
-Seaman to Admiral-21 (STA-21) program.  STA-21 is the premier commissioning 
-source providing the highest levels of education and leadership training for 
-our Sailors.  These highly motivated men and women will be among the leaders 
-of our Navy well into the 21st Century.  The selection board received 455 
-highly competitive selection packages from well-qualified Sailors and 79 
-outstanding Sailors were selected, making the selection this year a 
-challenging task.  Those who applied should be very proud of their 
+RMKS/1.  This NAVADMIN announces selections for the Fiscal Year (FY) 
+2025 Seaman to Admiral-21 (STA-21) program.  STA-21 is the premier 
+commissioning source providing the highest levels of education and 
+leadership training for our Sailors.  These highly motivated men and 
+women will be among the leaders of our Navy well into the 21st 
+Century.  The selection board received 455 highly competitive 
+selection packages from well-qualified Sailors and 79 outstanding 
+Sailors were selected, making the selection this year a challenging 
+task.  Those who applied should be very proud of their 
 accomplishments and continue their outstanding performance to ensure 
-professional growth and increase their chance of selection in a future 
-board.  Congratulations to all of the selectees! 
+professional growth and increase their chance of selection in a 
+future board.  Congratulations to all of the selectees! 
  
 2.  Selectees are (read name, rate, and option assigned): 
  
 ACEVEDOLIZARDO, WALTER DETN3NUCLEAR 
 ALIYETTI, DAVID LEONARDMMN3NUCLEAR 
 AMORIM, LARISSAAD2CORE 
-ARMSTRONG, JOSHUA BLAKEMMN2NUCLEAR 
 BAKER, ZACHARY KENTETN2NUCLEAR 
 BEANDO, JOHN ROYETN3NUCLEAR 
 BEASLEY, DESHAWNFC2SWO 
@@ -71,6 +72,7 @@ FOUTCHCARKEES, MIKAEL BLAKEEMN3NUCLEAR
 FRANCIS, CHARLES DAVIDMMNNUCLEAR 
 FRAZIER, ANELA CHRISEMN2NUCLEAR 
 GARCIA, NICOLAS GAGECOLESNNUCLEAR 
+GRABSKI, DYLAN DANIELEMN3NUCLEAR 
 GURULE, ISABELLA SELENEMMN3NUCLEAR 
 GUSTITUS, IAN MICHAELANDREWMMN3NUCLEAR 
 GUTHRIE, BRODY WILLIAMMMN3NUCLEAR 
@@ -115,12 +117,12 @@ TARACI, ZACHARY BRIANEMN3NUCLEAR
 TOMPKINS, ALEXANDER MORGANEMN2NUCLEAR 
 TOMSOVIC, WILLIAM JOSEPHMMN1NUCLEAR 
 WENDE, DARREN ROMEOEMN3NUCLEAR 
-WENDE, FAITHHTFNSWO/ED 
+WENDE, FATIH        HTFNSWO/ED 
 WHITE, MATTHEW JOHNCLARENCEETN2NUCLEAR 
 WIDHALM, ANDRESAM1PILOT 
  
-3.  The following personnel were designated as alternates  
-(read name, rate, and option assigned): 
+3.  The following personnel were designated as alternates (read name, rate, 
+and option assigned): 
  
 AGBOGLO, WILFRIEDET1IP 
 ARNOLD, KODY BRIANMMN3NUCLEAR 
@@ -133,7 +135,6 @@ DOHERTY, GRIFFIN WADEEMNNUCLEAR
 ECKHARDT, CAMERON KENTMMN3NUCLEAR 
 GILMAN, DEVONND1EOD 
 GOODWIN, JACOBAO1CORE 
-GRABSKI, DYLAN DANIELEMN3NUCLEAR 
 GUIMARAES, THOMAS O      SNNUCLEAR 
 HEPNER, AUSTIN MICHAEL SNNUCLEAR 
 JEZIOROWSKI, JACOBND1CEC 
@@ -160,12 +161,12 @@ Ensigns, USN.
 5.  Commanding Officers should take the following actions: 
     a.  Notify selectees and alternates of their selection and ensure they 
 receive a copy of this message. 
-    b.  Notify NSTC Selection and Placement Division (N92/STA-21) 
-via e-mail at GRLK_STA21@us.navy.mil no later than 30 December 2024 of any 
-selectee or alternate who does not desire to participate in the program. 
-    c.  Immediately report to NSTC N92/STA-21 all conditions or circumstances 
-that may disqualify a selectee or alternate from participating in the STA-21 
-program via e-mail at GRLK_STA21@us.navy.mil. 
+    b.  Notify NSTC N92 Selection and Placement (N92/STA-21) via e-mail  
+at GRLK_STA21@us.navy.mil no later than 30 December 2024 of any selectee or 
+alternate who does not desire to participate in the program. 
+    c.  Immediately report to NSTC (N92/STA-21) all conditions or 
+circumstances that may disqualify a selectee or alternate from 
+participating in the STA-21 program via e-mail at GRLK_STA21@us.navy.mil. 
  
 6.  Selectees and alternates shall take the following actions: 
     a.  Complete a physical examination for a training program leading to a 
@@ -173,10 +174,10 @@ commission in the unrestricted line, nurse corps, or civil engineering corps,
 as applicable, in line with references (a) and (b) at a military treatment 
 facility.  Note that many commissioning standards exceed the enlisted 
 standards required to remain on Active Duty. 
-    b.  Ensure copies of completed physicals, Report of Medical 
-History (DD Form 2807-1), and Report of Medical Examination (DD Form 
-2808), including Human Immunodeficiency Virus results from a test 
-taken after 1 January 2024, are submitted no later than 1 December 2024 to: 
+    b.  Ensure copies of completed physicals, Report of Medical History (DD 
+Form 2807-1), and Report of Medical Examination (DD Form 2808), including 
+Human Immunodeficiency Virus results from a test taken after 1 January 2024, 
+are submitted no later than 01 December 2024 to: 
  
 Commander 
 Naval Service Training Command 
@@ -188,23 +189,23 @@ Great Lakes, IL 60088-2845
 or via DOD-safe (https://safe.apps.mil/).  Aviation option 
 selectees/alternates must have flight physicals uploaded directly into 
 Aeromedical Electronic Resource Office by a flight surgeon, and submitted to 
-Naval Aerospace Medical Institute.  The selectees and 
-alternates must be certified as qualified or have a waiver recommended by 
-Naval Medicine Operation Training Center.  All required physical forms can be 
-downloaded from the STA-21 homepage at 
-https://www.netc.navy.mil/Commands/Naval-Service-Training-Command/STA-21/.   
-Commands should not forward physical forms directly to BUMED. 
+Naval Aerospace Medical Institute.  The selectees and alternates must be 
+certified as qualified or have a waiver recommended by Naval Medicine 
+Operation Training Center.  All required physical forms can be downloaded 
+from the STA-21 homepage at https://www.netc.navy.mil/Commands/Naval-Service-
+Training-Command/STA-21/.  Commands should not forward physical forms 
+directly to BUMED. 
     c.  Send acceptance letters from no more than three NROTC host or NROTC 
 cross-town affiliated universities to the NSTC address listed above or via 
 DOD-safe.  Application to more than one university is advisable.  Selectees 
 will begin the STA-21 program with attendance at the Naval Science Institute 
 (NSI) in one of two classes starting no later than 10 February 2025 or 31 
 March 2025 for a 6-week period. 
-    d.  Send an official degree plan from NROTC host or NROTC cross-town 
-affiliated university where they have been accepted.  Degree plans must cover 
-the time actually attending college.  Degree plans of selectees should begin 
-with the summer term 2025.  All STA-21 selectees will be required to attend 
-the NSI enroute to their assigned university. 
+    d.  Send an official degree plan from an NROTC host or NROTC cross-town 
+affiliated university where they have been accepted. 
+Degree plans must cover the time actually attending college.  Degree plans of 
+selectees should begin with the summer term 2025.  All STA-21 selectees will 
+be required to attend the NSI enroute to their assigned university. 
  
 7.  Alternates:  Each alternate must complete the same actions outlined in 
 paragraph 6 of this message.  If a primary selectee declines participation in 
@@ -215,7 +216,7 @@ last minute, therefore, alternates who desire participation in the STA-21
 program need to be complete with the actions listed above when notified. 
  
 8.  The deadline for required degree plans and college admission 
-documentation is 1 December 2024.  It is in the best interest of each 
+documentation is 01 December 2024.  It is in the best interest of each 
 selectee and alternate to submit verification of eligibility criteria as soon 
 as possible to expedite university assignment and release of Permanent Change 
 of Station orders.  Selectees will not be ordered to NSI enroute to their 
@@ -227,7 +228,7 @@ utilizing email GRLK_STA21@us.navy.mil (ensure an email with the encrypted
 passphrase is also sent to GRLK_STA21@us.navy.mil).  Documents can also be 
 mailed to the address above. 
  
-10.  The points of contact are: 
+10.  Points of contact are: 
      a. Ms. Twana Williams, twana.l.williams.civ@us.navy.mil. 
      b. Mr. Jim Branch, james.r.branch8.civ@us.navy.mil. 
      c. Mr. David Burmeister, david.a.burmeister.civ@us.navy.mil. 
