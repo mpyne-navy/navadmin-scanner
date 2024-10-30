@@ -1,0 +1,262 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 301557Z OCT 24 MID120001502922U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+SUBJ/UNITED STATES NAVY CONTRACT SERVICES GUIDANCE FOR FISCAL YEAR (FY) 2025 
+ 
+NAVADMIN 223/24 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N8/XXXXXX// 
+ 
+REF/A/DOC/DOD/24JUN21// 
+REF/B/DOC/DON/08APR22// 
+ 
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION (DoDI) 5000.74. 
+REF B IS SECRETARY OF THE NAVY INSTRUCTION (SECNAVINST) 5000.2G ENCLOSURE(8). 
+ 
+POC/ANGELA TENNYSON/CIV/OPNAV/LOC: WASHINGTON DC/TEL: 240-925-4245/EMAIL: 
+ANGELA.L.TENNYSON.CIV@US.NAVY.MIL// 
+POC/JOHN NORTH/CIV/USFF/LOC: NORFOLK, VA/TEL: 757-836-9508/EMAIL: 
+JOHN.W.NORTH.CIV@US.NAVY.MIL// 
+POC/KATHY ATOIGUE/CIV/UNIT: USPACFLT/LOC: PEARL HARBOR, HI/808-474-
+6414/EMAIL: KATHY.R.ATOIGUE.CIV@US.NAVY.MIL// 
+POC/FRANCIS TISAK/CIV/DASN(P)/LOC: WASHINGTON DC/TEL: 703-614-9636/EMAIL: 
+FRANCIS.X.TISAK.CIV@US.NAVY.MIL//
+GENTEXT/REMARKS/ 
+ 
+1.  Purpose.  This NAVADMIN updates Service Requirements Review Board (SRRB) 
+policy (i.e., references (a) and (b)) and provides SRRB guidance for FY 2025 
+and beyond. 
+ 
+2.  Background.  The Department of the Navy (DON) executed over $60.6 billion 
+in contractual services obligations in FY 2024 and is on track to meet or 
+exceed that amount in FY 2025.  With nearly 24 percent of the DON's total 
+obligation authority spent on contractual services, limited resources dictate 
+the need to properly review, validate, and prioritize contractual services 
+requirements.  As such, the acquisition of services is a command 
+responsibility, and DON Activity Commanders are responsible for the 
+appropriate, efficient, and effective acquisition of services within their 
+organizations. 
+     a.  The SRRB process shall be used to review, validate, and approve 
+     services requirements to accurately inform the budget and acquisition 
+     processes.  In accordance with (IAW) reference (a), contract service 
+     requirements shall be vetted through an SRRB process as early in the 
+services acquisition process as practical, but before the development of an 
+acquisition strategy and before a procurement request package is transferred 
+over to a contracting officer for execution. 
+     b.  Requirement reviews shall include, but not be limited by, the 
+following considerations: 
+         (1)  Mission Need.  Explanation of the mission need for the 
+requirement and the outcomes to be achieved from acquiring services. 
+         (2)  Strategic Alignment.  How the requirement for services supports 
+the broader organizational mission. 
+         (3)  Issues and Risks.  Both government and contractor issues and 
+risks impacting the successful execution of fulfilling the requirement, as 
+well as risks to the DON if the requirement is not validated and approved. 
+         (4)  Workforce Analysis.  An analysis of the decision to insource or 
+    outsource, including any past decisions and why the requirement cannot be 
+    fulfilled with military or civilian personnel.  The analysis shall take 
+into consideration the Chief of Naval Operations Instruction (OPNAVINST) 
+1000.16L, Change 3 or succeeding document, "Navy Total Force Manpower 
+Policies and Procedures." 
+         (5)  Relationship to Other Requirements.  How the requirement for 
+services impacts other requirements of the Department of Defense (DoD) 
+Component (positively or negatively).  For information technology (IT) 
+services, ensure requirements are consistent with enterprise IT strategies. 
+         (6)  Prioritization.  A determination as to whether the requirement 
+for services is a lower-priority requirement that can be reduced or 
+eliminated with savings transferred to higher-priority objectives or mission 
+requirements. 
+         (7)  Contract Functions.  A review and identification of contract 
+and work functions that may be prohibited or require heightened management 
+attention, including, but not limited to inherently governmental services, 
+personal services, closely associated with inherently governmental functions 
+and critical functions. 
+         (8)  Metrics.  Performance management metrics shall be considered to 
+the maximum extent practicable during the SRRB review and approval process. 
+         (9)  Product and Service Code (PSC) and Object Class Code 
+(OCC).  Correct PSCs and OCCs are required and reported at the contract line 
+item number level.  PSCs and OCCs are essential for spend and budget 
+analysis, and as such, all personnel shall ensure the accuracy of PSCs and 
+OCCs in both contracting and accounting systems. 
+ 
+3.  Services Defined.  Service contracts are defined in the Federal 
+Acquisition Regulation (FAR) Subpart 37.101 as a "contract that directly 
+engages the time and effort of a contractor whose primary purpose is to 
+perform an identifiable task rather than to furnish an end item of 
+supply."  All applicable DON-funded and unfunded services requirements with 
+an estimated total cumulative value (i.e., base plus all options) of at least 
+$2 million (M) or greater (unless lower threshold set at command level) 
+require SRRBs, (including pre-priced contract options), with the following 
+exceptions: 
+    a.  Services listed in Subpart 37.502 of the FAR and services obtained 
+under contracts with a total cumulative value (i.e., base plus all options) 
+of less than the command's threshold or less than $2M. 
+    b.  Services in direct support of a contingency, humanitarian, or 
+    peacekeeping operation as defined in FAR Subpart 2.101.  This exemption 
+shall apply to the response and initial deployment phase, but shall terminate 
+as soon as practical based on conditions on the ground and a determination by 
+the decision authority. 
+    c.  Services that are required to respond to and recover from an 
+emergency or disaster directly supporting an emergency declaration or a major 
+disaster declaration by the President.  This exemption shall apply to the 
+response and initial recovery phase but shall terminate as soon as practical 
+during the sustainment phase managing reconstruction and recovery efforts 
+based on conditions on the ground and a determination by the decision 
+authority. 
+    d.  Research and development services (PSC Category "A"). 
+    e.  Services from DoD Federally Funded Research and Development 
+Centers, which are acquired IAW the management structure described in FAR 
+Subpart 35.017 and DoDI 5000.77; and from DoD University Affiliated Research 
+Centers (UARCs), which are acquired IAW the management structure described in 
+the DoD UARC Management Plan. 
+    f.  Construction services (PSC Category "Y") and Architecture and 
+    Engineering - Construction (PSC Category "C1"). 
+    g.  Services that are managed and reviewed as part of defense acquisition 
+    programs under other Adaptive Acquisition Framework pathways (see https 
+    ://aaf.dau.edu for additional information on the pathways).  Reference 
+(a) and SRRB requirements may apply to services in the operations and support 
+phase of these programs at the discretion of the Milestone Decision 
+Authority. 
+    h.  Utilities services (PSC Category "S1"). 
+    i.  Commercial subscription services including database and information 
+    systems, periodicals, publications, and educational course subscriptions. 
+    j.  As a point of clarification only, SRRBs are not required for services 
+    requirements funded fifty percent or more by Foreign Military Sales, Navy 
+    Marine Corps Intranet services, or Global Installation Contract services. 
+ 
+4.  Equivalent SRRB Boards and Processes:  There are equivalent boards and 
+processes in place that also serve to review, validate, prioritize, and 
+approve contractual services requirements.  These boards and processes may be 
+utilized as an SRRB so long as they yield the required results, capture 
+required SRRB data, and are chaired at the appropriate level as determined by 
+the designated Flag Officer, General Officer, or Senior Executive Service 
+Member (FO/GO/SES).  The following are examples of existing SRRB equivalent 
+boards or processes and are considered to satisfy the requirements of 
+reference (b); therefore, are not required to undergo a separate SRRB: 
+    a.  Husbanding services requirements contracts executed based on the 
+Naval Supply Systems Command (NAVSUP) approved port visit contracting 
+processes.  Port visit requirements shall be reviewed, validated, 
+prioritized, and approved via the Fleets Port Visit Management Cost Avoidance 
+process, coordinated by the Fleet Staffs, in conjunction with the Type 
+Commanders, Numbered Fleet Commander staffs, NAVSUP Fleet Logistics Center 
+contracting staff, and associated fleet comptroller personnel.  Except as 
+identified in this paragraph, all other provisions of this instruction apply 
+to husbanding requirements. 
+    b.  Fleet/Shore Environmental programs that are reviewed via the 
+Environmental Program Requirements Web process. 
+    c.  Services Requirements contracts for Ship Maintenance, Overhaul or 
+Repair of vessels executed based on the mandated process in OPNAVINST 4700.7M 
+to review, validate, prioritize, and approve ship maintenance requirements 
+from the Fleets, as documented in the annual ship maintenance workload 
+agreement, jointly signed by the Chief of Naval Operations, the Naval Sea 
+Systems Command, and the Fleets.  Only availabilities included in the ship 
+maintenance workload agreement and validated through the Ship Maintenance 
+Model nine step processes will be considered satisfying the SRRB requirements 
+of this instruction.  A SRRB services identification number will not be 
+applied to ship maintenance, repair or overhaul availabilities.   
+Additionally, unless an exemption in any other part of section 3 of this 
+guidance applies, all applicable DON-funded and unfunded services 
+requirements with an estimated total cumulative value (i.e., base plus all 
+options) $2M or greater in support of ship maintenance, repair and overhaul 
+availabilities shall be boarded through SRRB. 
+    d.  Review boards that review and approve classified, cryptologic and 
+intelligence programs or projects. 
+ 
+5.  SRRB Requirements 
+    a.  The SRRB is a service contract requirement validation process.  SRRB 
+approval does not constitute a commitment to fund or to award a contract. 
+    b.  Commands are required to conduct SRRBs as a means of reviewing, 
+validating, approving, and prioritizing all applicable DON-funded and 
+unfunded services requirements with an estimated total cumulative value 
+(i.e., base plus all options) at $2M or greater.  Commands may have a lower 
+threshold than $2M for SRRB review processes.  This includes both base 
+contracts and resulting task orders.  However, execution of individual pre-
+priced options does not require additional SRRB approval, but still need to 
+be reported to the SRRB and included in the SRRB Annual Report. 
+    c.  The requiring activity is responsible for submitting service contract 
+requirements to the SRRB regardless of the source of DON funding. 
+    d.  Activities receiving funds from another command shall rely on the 
+originating command's SRRB validation; an additional SRRB review is not 
+required. 
+    e.  SRRBs shall be cross-functional with representation from the 
+requiring, contracting, and financial management communities as they are 
+available, and chaired by a FO/GO/SES.  All applicable DON-funded and 
+unfunded services requirements with an estimated total cumulative value 
+(i.e., base plus all options) at $2M or greater (or the Command threshold, 
+whichever is lower) shall be approved via a SRRB chaired by a FO/GO/SES, or, 
+for activities that do not have a FO/GO/SES member assigned, the first FO, 
+GO, or SES member in the requiring activity's chain of command.  Chairmanship 
+of SRRBs for contractual services requirements below $10M may be delegated in 
+writing by the first FO, GO, or SES member in the requiring activity's chain 
+of command to the O-6 or GS-15 level.  Copies of written delegation documents 
+shall be made available for review if requested by staff from the Office of 
+the Deputy Assistant Secretary of the Navy for Procurement (DASN(P)), which 
+is responsible for DON oversight of SRRB processes. 
+ 
+6.  SRRB Internal Controls. 
+    a.  SRRB approvals shall be documented by the SRRB Chair and may include 
+meeting minutes, action items, or recommendations.  Such documents shall be 
+made available for review if requested by staff from DASN(P), which is 
+responsible for DON oversight of SRRB processes.  Additionally, this 
+documentation may be requested in conjunction with Command Inspections. 
+    b.  All commands shall identify, document, and implement appropriate 
+internal control processes via the SRRB services identification number to 
+ensure that funding documents for contract service requirements are not 
+submitted to contracting officers without SRRB validation. 
+    c.  Command Contractual Services Managers (CSMs) facilitate and help 
+oversee the processes for Services Acquisition including SRRBs.  CSMs act as 
+an action officer on all matters related to contractual services within their 
+organization.  At the direction of the SRRB Chair, CSMs help develop and 
+facilitate SRRB policies and procedures, document SRRB results, and conduct 
+oversight to ensure compliance. 
+    d.  SRRB results shall be submitted annually by 31 October 2025 to 
+DASN(P) Senior Services Manager IAW DASN(P)'s format.  This calls for Echelon 
+III and below to submit their results to Echelon II NLT 15 October 2025 to 
+allow adequate time to meet the DASN(P) annual 31 October deadline. 
+    e.  IAW reference (a), the SRRB Chair shall certify that each contractual 
+services requirement validated through the SRRB process is in compliance with 
+the standard guidelines found in the DoD Handbook of Contract Function 
+Checklists for Services Acquisition (May 2018 or successor document), that 
+all appropriate statutory risk mitigation efforts have been made, and that 
+the purchase request does not include requirements formerly performed by DoD 
+civilian employees. 
+    f.  It is understood that the SRRB Chair is approving and certifying to 
+the contractual services requirement as the facts and analysis are known at 
+the time of SRRB review. 
+    g.  Rather than certifying each individual requirement, SRRB Chairs may 
+make a single certification for all SRRB contractual actions which have been 
+reviewed and approved during a single SRRB meeting or event.  This may be 
+done through various ways, such as a cover page to SRRB meeting notes, quad 
+charts, or other SRRB approval documents. 
+ 
+7.  Category Management.  Commands shall employ management actions that align 
+with Category Management principles IAW Office of Management and Budget, DoD, 
+and DON Category Management policies.  Category Management refers to the 
+business practice of buying common goods and services as an enterprise to 
+help the DON eliminate redundancies, increase efficiency, and deliver more 
+value and savings from the government's acquisition programs.  It requires 
+participation during all phases of the acquisition process, and includes 
+collection, sharing and analysis of data within and across commands, 
+employing cross-departmental teams, and identification and distribution of 
+best practices and lessons learned.  In addition, Category Management 
+complements efforts of Small Business Specialists to increase small business 
+contracting opportunities, to include small disadvantaged businesses and 
+other socioeconomic small businesses.  The DON Category Management Program 
+Office at NAVSUP, working under the direction of DASN(P), is available to 
+assist with Command Category Management initiatives.  They can be contacted 
+via email at usn.mechanicsburg.navsuphqmech.mbx.doncmpo-
+solutions@us.navy.mil. 
+ 
+8.  Released by VADM John B. Skillman, DCNO, N8.// 
+ 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
