@@ -1,0 +1,76 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 311705Z OCT 24 MID180000023394U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 224/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
+ 
+SUBJ/TIERED MULTIPLES FOR NUCLEAR TRAINED SAILORS IN ZONE B SELECTIVE 
+REENLISTMENT BONUS// 
+ 
+REF/A/DOC/OPNAV/1APR19// 
+REF/B/MSG/CNO WASHINGTON DC/272026ZFEB23// 
+ 
+NARR/REF A IS OPNAVINST 1160.8B, SELECTIVE REENLISTMENT BONUS PROGRAM.   
+REF B IS NAVADMIN 055/23, ENLISTED SUPERVISOR RETENTION PAY POLICY UPDATES.// 
+ 
+RMKS/1.  This NAVADMIN announces the implementation of a tiered multiple for 
+nuclear trained Sailors executing Zone B Selective Reenlistment Bonus 
+(SRB).  Nuclear trained Sailors reenlisting in SRB Zone B who commit to 
+return to sea following their shore tour will, receive a higher SRB multiple 
+and higher contract limit. 
+ 
+2.  Purpose.  Maintaining a strong and talented cadre of Second Sea Tour 
+(SEA-2) Sailors is vital to maximizing the warfighting capabilities of the 
+nuclear fleet.  This NAVADMIN creates a unique retention incentive for 
+qualified, career-minded, nuclear trained Sailors who commit to return to 
+sea. 
+ 
+3.  Eligibility.  Nuclear trained Sailors must meet all requirements listed 
+in references (a) and (b) for Zone B reenlistment and the following: 
+    a.  Qualified propulsion plant watch supervisor or engineering watch 
+supervisor (currently holding the N33Z NEC) 
+    b.  Reenlist in SRB Zone B for a period of six years during their First 
+Sea Tour (SEA-1); or earliest opportunity, if transferred from SEA-1 prior to 
+six years of service. 
+Forward any questions regarding reenlistment timing to Nuclear Enlisted 
+Programs (OPNAV N133D). 
+ 
+4.  Incentive.  These nuclear trained Sailors will be able to utilize a 10.5 
+multiple for purposes of calculating their SRB Zone B bonus in line with 
+reference (a).  Additionally, the following limits apply to these SRBs 
+replacing those listed in reference (a):  (1) $40,000 per year of additional 
+obligated service and (2) $160,000 per contract.  All other portions of 
+reference (a) are applicable. 
+ 
+5.  Execution.  The maximum award level >$100,000 or $40,000/year of active 
+obligated service is not yet programed into Navy Standard Integrated 
+Personnel System (NSIPS). 
+Sailors seeking to take advantage of bonuses in excess of $100,000 should 
+submit the bonus as normal in NSIPS.  Once the SRB pre-certification is 
+approved, contact the SRB help desk at 901-874-3215 or 
+mill_incen_pays.fct@navy.mil to recalculate the bonus for the correct amount. 
+ 
+6.  Note.  Executing a six year SRB Zone B and committing to a SEA-2 tour 
+does not preclude Sailors from re-enlisting in the enlisted supervisor 
+retention pay Zone 1 in line with reference (b). 
+ 
+7.  The point of contact is the Nuclear Enlisted Community Manager, OPNAV 
+N133D, and can be reached at (703) 604-5491/DSN 664 or via e-mail at 
+bullnuke@navy.mil. 
+ 
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
