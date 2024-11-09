@@ -1,0 +1,45 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 080001Z NOV 24 MID120001524724U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 230/24 
+ 
+MSGID/NAVADMIN/CNO WASHINGTON DC/CNO/NOV// 
+ 
+SUBJ/CNO VETERANS DAY MESSAGE TO THE FLEET// 
+ 
+RMKS/1.  Sailors and Civilians of America's Warfighting Navy, today we honor, 
+recognize, and reflect on the service and sacrifice of veterans across our 
+storied 249 year history. 
+ 
+2.  For over a century, our Nation has observed Veterans Day to honor our 
+courageous service members who fought to deter aggression, defend our 
+national security interests, and preserve our way of life.  We recognize and 
+pay tribute to the profound impact their service has had on our Navy.  And 
+today, we reflect on all of our Nation's exceptional heroes who gave their 
+last full measure of devotion in defense of our Nation and all of the values 
+we hold so dear. 
+ 
+3.  We also extend our heartfelt gratitude to the long line of families and 
+support networks who have enabled our service members to operate far forward, 
+from seabed to space.  And we extend our thanks to the caregivers who attend 
+to our veterans and ensure they are treated with dignity and respect.  Our 
+thoughts and prayers go out to the survivors of all those who laid down their 
+life for our country. 
+ 
+4.  To our Navy team all around the world, MCPON Honea and I could not be 
+more proud to serve alongside you.  Thank you for making the decision to 
+serve, thank you for supporting our veterans, and thank you for living up to 
+our Nation's rich legacy of warfighting excellence every day. 
+ 
+5.  Admiral Franchetti sends, 33rd Chief of Naval Operations.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
