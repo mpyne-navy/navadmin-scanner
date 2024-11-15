@@ -1,0 +1,84 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 151443Z NOV 24 MID120001548296U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+CMC WASHINGTON DC 
+COMDT COGARD WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 235/24 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/NOV// 
+ 
+SUBJ/2024 NAVAL INTELLIGENCE COMMUNITY AWARDS RESULTS// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/121627ZJUN24// 
+ 
+AMPN/REF A IS NAVADMIN 119/24, 2024 NAVAL INTELLIGENCE COMMUNITY AWARDS 
+SOLICITATION.// 
+POC/CIV/NIA-N1/EMAIL: NAVINTELCOMMUNITYAWARDS(AT)US.NAVY.MIL// 
+ 
+RMKS/1.  It is with great pleasure that I announce the selectees for the 2024 
+Naval Intelligence Community Awards.  Each of these selectees should be 
+commended for their outstanding contribution to Naval Intelligence. 
+ 
+2.  Rear Admiral Thomas A. Brooks Intelligence Junior Officer of the Year: 
+    a.  Sea:  LT Leah O. Alstad, Naval Special Warfare Development Group 
+    b.  Shore:  LT Michael J. Carboni, Naval Aviation Warfighting Development 
+    Center 
+ 
+3.  Commander Dan F. Shanower Intelligence Specialist of the Year Awards: 
+    a.  Senior Sea:  IS1(IW) Thomas M. Berry, Navy Expeditionary Intelligence 
+    Command 
+    b.  Senior Shore:  IS1(IW/SW/AW) Ariel V. Macon, Commander, Task Force 
+SIX NINE 
+    c.  Junior Sea:  IS2(SW/EXW) Justin A. Minnott, Naval Special Warfare 
+    Development Group 
+    d.  Junior Shore:  IS2 Laura G. Wulfman, U.S. Strategic Command 
+ 
+4.  Vice Admiral Rufus L. Taylor Award for Leadership: 
+    a.  CAPT Jason H. Davis, U.S. Fleet Cyber Command/Navy Space Command/U.S. 
+    TENTH Fleet 
+    b.  CDR Karen L. Camp, Defense Intelligence Agency-Europe Europe Eurasia 
+    Region Center 
+ 
+5.  Vice Admiral Rufus L. Taylor Award for Excellence in Intelligence 
+Instruction: 
+    a.  IS1(IW/EXW) Jorge L. Roggero, Information Warfare Training Command, 
+San Diego 
+    b.  IS1(IW/SW/AW/EXW) Derek M. Williams, Information Warfare Training 
+    Command, Virginia Beach 
+ 
+6.  Rear Admiral Edwin T. Layton Award for Leadership and Mentorship: 
+    a.  CAPT Donald C. Fergusson, Commander, Naval Air Force Atlantic 
+    b.  CDR Mate W. Aerandir, Hopper Global Communications Center 
+    c.  CDR Michael J. Bonacorsa, U.S. Fleet Cyber Command/Navy Space Command 
+    /U.S. TENTH Fleet 
+    d.  CDR Walter K. Pauli III, Naval Information Forces 
+    e.  LCDR Tyler J. Barker, United States Africa Command 
+    f.  LCDR Andrew G. Butler, Naval Special Warfare Development Group 
+    g.  LCDR Jonathan J. Hilzinger, Joint Chiefs of Staff 
+    h.  CWO3 Randy W. Smith, Carrier Strike Group FIFTEEN 
+    i.  ISCM(IW/EXW) John M. Gray, Navy Expeditionary Combat Command 
+    j.  ISC(IW/SW/AW) Jeffrey S. Campbell, Commander Carrier Strike Group ONE 
+    k.  ISC(IW/SW/EXW) Anthony J. Corbo, Special Operations Command South 
+    l.  ISC(IW/SW/AW) Paul M. Munoz-Tollinchi, Naval Information Warfare 
+    Training Group 
+    m.  ISC(IW/SW/AW/EXW) Seth A. Worley, U.S. Naval Forces Korea 
+ 
+7.  Herman Dworkin Award for Maritime Analytic Excellence: 
+    a.  Mr. Alfonso Tafur, Naval Special Warfare Development Group 
+ 
+8.  I am honored to lead such a fine cadre of Intelligence Professionals and 
+congratulate you all for your service to the Nation.  BRAVO ZULU! 
+ 
+9.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
