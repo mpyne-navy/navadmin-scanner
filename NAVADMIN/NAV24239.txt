@@ -1,0 +1,158 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 191613Z NOV 24 MID120001561017U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 239/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/NAVAL SPECIAL WARFARE OFFICER RETENTION BONUS PROGRAM// 
+ 
+REF/A/MSG/CNO WASHINGTON DC/N1/061551ZNOV20// 
+REF/B/DOC/U.S.C.//7SEP62// 
+REF/C/DOC/ASN MRA/18SEP24// 
+REF/D/DOC/DOD/JUL16// 
+ 
+NARR/REF A IS NAVADMIN 301/20, NAVAL SPECIAL WARFARE OFFICER RETENTION BONUS 
+PROGRAM.   
+REF B IS TITLE 37, U.S. CODE, PAY AND ALLOWANCES OF THE UNIFORMED SERVICES.  
+REF C IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE) AUTHORIZATION 
+OF THE NAVAL SPECIAL WARFARE OFFICER RETENTION BONUS PROGRAM.   
+REF D IS DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT REGULATION 7000.14, 
+VOLUME 7A, CHAPTER 2, REPAYMENT OF UNEARNED PORTION OF BONUSES AND OTHER 
+BENEFITS.// 
+ 
+RMKS/1.  This NAVADMIN announces the modification of the Naval Special 
+Warfare Officer Retention Bonus (NSWRB) for qualified Naval Special Warfare 
+(NSW) officers.  This NAVADMIN supersedes reference(a).  Retaining NSW 
+officers is a priority for the Navy.  The NSWRB is a flexible retention 
+incentive that focuses on improving retention of NSW control grade 
+officers.  NSW officers who meet the eligibility criteria in this NAVADMIN 
+and hold an 1130 or 1137 designator may apply for this incentive. 
+ 
+2.  Program Overview.  This bonus is authorized under Section 332 of 
+reference (b) and reference (c).  As of 18 September 2024, eligible officers 
+will be offered the opportunity to commit to a 5 or 3 year agreement for 
+bonus amounts listed in paragraph 5.  NSW Program Management (OPNAV N137) is 
+designated as the NSWRB program manager. 
+All applications for this bonus will be submitted to the program manager for 
+approval, payment processing, and tracking.  The eligibility criteria stated 
+in this NAVADMIN can be changed at any time by the program manager if a bonus 
+reduction is warranted based on the needs of the NSW community. 
+ 
+3.  Eligibility.  NSW officers with designators 1130 or 1137, who have 
+completed 15 Years Commissioned Service (YCS), may be eligible to receive the 
+NSWRB.  Applicants must receive written endorsement from their Commanding 
+Officer (CO) recommending bonus approval. CO's must ensure applications are 
+accurate and verify applicants meet eligibility requirements. 
+ 
+4.  Program Execution 
+    a.  Officers must submit their request letter to the NSWRB program 
+manager via their chain of command. 
+    b.  Upon acceptance of a bonus agreement by the program manager, the 
+amount of the bonus becomes fixed and the officer incurs a firm service 
+obligation from requested bonus start date. 
+    c.  Officers may elect one of the following payment options: 
+        (1) To receive an initial lump sum payment of half the total bonus 
+amount followed by equally divided annual installments through the term of 
+the agreement. 
+        (2) To receive bonus payments in equal annual installments through 
+the term of the agreement. 
+    d.  NSWRB requests for personnel who are being processed for officer 
+designation removal or additional qualification designation removal will be 
+held in abeyance pending final resolution of the action in question. 
+ 
+5.  Contract Terms.  NSWRB contract lengths and payments are outlined below: 
+    a.  The NSWRB will be offered in two phases.  Officers will be paid a 
+fixed amount per year of service. 
+        (1) Phase 1 NSWRB.  Applicants must be an NSW officer with 1130 or 
+1137 designator and have completed 15 YCS but not yet completed 16 YCS.  NSW 
+officers who fail to sign a NSWRB Phase 1 bonus prior to the completion of 16 
+YCS are no longer eligible to receive a Phase 1 bonus.  Command eligible 
+officers (officers who screened positive for Executive Officer (XO) at the 
+annual NSW Administrative Screening Board) have the opportunity to receive up 
+to $125,000 (1130) and $60,000 (1137) in retention bonuses for Phase 1 
+contracts.  Non-command eligible officers (officers who did not screen 
+positive for XO at the annual NSW Administrative Screening Board) have the 
+opportunity to receive up to $75,000 (1130) in retention bonuses for Phase 1 
+contract.  Non-command screened 1137 Sea, Land, and Air Team (SEAL) officers 
+are not eligible for a bonus. 
+             (a) Command eligible NSW officers (designator 1130) who have 
+completed 15 YCS: 
+                5 year agreement:  $25,000 per year 
+                3 year agreement:  $15,000 per year 
+             (b) Non-Command eligible NSW officers (designator 1130) who have 
+completed 15 YCS: 
+                5 year agreement:  $15,000 per year 
+                3 year agreement:  $5,000 per year 
+            (c) Command eligible NSW officers (designator 1137) who have 
+completed 15 YCS: 
+                5 year agreement:  $12,000 per year 
+                3 year agreement:  $7,500 per year 
+        (2) Phase 2 NSWRB.  Applicants must be an NSW officer with 1130 or 
+1137 designator and have completed 20 YCS but not yet completed 22 YCS.  NSW 
+officers who fail to sign a NSWRB Phase 2 bonus prior to the completion of 22 
+YCS are no longer eligible to receive a Phase 2 bonus.  Command eligible 
+officers (officers who screened positive for CO at the annual NSW 
+Administrative Screening Board) have the opportunity to receive up to $75,000 
+(1130) and $36,000 (1137) in retention bonuses for Phase 2 contracts.   
+Non-command eligible officers (officers who did not screen positive for 
+CO at the annual NSW Administrative Screening Board) will have the 
+opportunity to receive up to $45,000 (1130) in retention bonuses for a  
+Phase 2 contract.  Non-command screened 1137 SEAL officers are not eligible 
+for a bonus. 
+             (a) Command eligible NSW officers (designator 1130) who have 
+completed 20 YCS but have not completed 22 YCS: 
+                 3 year agreement:  $25,000 per year. 
+             (b) Non-Command eligible NSW officers (designator 1130) who have 
+completed 20 YCS but have not completed 22 YCS: 
+                 3 year agreement:  $15,000 per year. 
+             (c) Command eligible NSW officers (designator 1137) who have 
+completed 20 YCS but have not completed 22 YCS: 
+                 3 year agreement:  $12,000 per year. 
+    b.  NSWRB agreement obligations will run concurrently with any obligated 
+service the officer has incurred for education or fellowships such as 
+postgraduate education. 
+    c.  Officers in receipt of NSWRB, who have transferred their Post/911 GI 
+Bill benefits to their dependents, will serve their obligations for NSWRB and 
+GI Bill transfer concurrently. 
+ 
+6.  Application Process 
+    a.  Eligible officers may apply for NSWRB via their CO to OPNAV N137 via 
+the NSW Officer Community Manager (BUPERS-311D). 
+    b.  Officers must submit their applications to the NSWRB program manager 
+prior to their requested start date and should confirm receipt.  Applications 
+received after the requested start date will not be accepted and payments 
+will not be processed until all eligibility criteria are met.  The first 
+payment normally occurs 4 to 6 weeks after all eligibility criteria are met. 
+ 
+7.  Recoupment and Repayment Policy.  Repayment policy is governed by 
+reference (b), Sections 332, 373 and reference (d).  A Service Member of the 
+uniformed services who enters into a written agreement with specified service 
+conditions for receipt of a bonus is entitled to the full amount of the bonus 
+if the Service Member fulfills the conditions of that written agreement.  If 
+the Service Member fails to fulfill the service conditions specified in the 
+written agreement for the pay, then the pay may be terminated and the Service 
+Member shall be required to repay an amount equal to the unearned portion 
+of the pay. 
+ 
+8.  Point of contact is the Naval Special Warfare Officer Community Manager 
+at (703) 604-5063/DSN 664 or via e-mail at SEAL_OCM@navy.mil. 
+ 
+9.  This NAVADMIN will remain in effect until superseded or 4 years has 
+elapsed from the date of release, whichever occurs first. 
+ 
+10.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
