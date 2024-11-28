@@ -1,0 +1,120 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 262014Z NOV 24 MID120001585168U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 242/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/NOV// 
+ 
+SUBJ/NAVY PHYSICAL READINESS PROGRAM UPDATE FOR CALENDAR YEAR 2025// 
+ 
+REF/A/DOC/OPNAV/22APR22// 
+REF/B/DOC/OPNAV/JUN24// 
+REF/C/DOC/OPNAV/JAN24// 
+REF/D/DOC/OPNAV/JAN24// 
+REF/E/DOC/DOD/10MAR22// 
+ 
+NARR/REF A IS OPNAVINST 6110.1K, PHYSICAL READINESS PROGRAM. 
+REF B IS NAVY PHYSICAL READINESS PROGRAM GUIDE-1, PHYSICAL READINESS 
+PROGRAM (PRP) POLICIES.   
+REF C IS NAVY PHYSICAL READINESS PROGRAM GUIDE-4, BODY COMPOSITION 
+ASSESSMENT.   
+REF D IS NAVY PHYSICAL READINESS PROGRAM GUIDE-10, NUTRITION RESOURCES.   
+REF E IS DOD INSTRUCTION 1308.03, DOD PHYSICAL FITNESS/BODY COMPOSITION 
+PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces changes to references (a) through 
+(d) for the Calendar Year 2025 (CY2025) Physical Fitness Assessment 
+(PFA) cycle (1 February 2025 to 30 November 2025) for a Body 
+Composition Assessment (BCA) and Age-Adjusted Standards (AAS) 
+exemption for exceptional Physical Readiness Test (PRT) performance. 
+ 
+2.  Navy's Culture of Excellence 2.0 requires critical re-evaluation 
+of our policies and procedures to build Great People, Great Leaders, 
+and Great Teams while developing Sailors in mind, body, and spirit. 
+We are modernizing our BCA by recognizing that our current policies 
+and procedures can be improved to better assess every single Sailor 
+to determine a Sailor's overall physical readiness. 
+ 
+3.  BCA and AAS PRT Exemption.  Effective for the CY2025 PFA cycle: 
+    a.  Sailors who do not meet official Navy BCA (Step-3) standards 
+and score EXCELLENT-LOW or above on their official PRT will receive 
+an overall PFA PASS and be exempt from participation in the Fitness 
+Enhancement Program (FEP). 
+    b.  Sailors who do not meet AAS and score EXCELLENT-LOW or above 
+on their official PRT will be exempt from participation in the FEP. 
+For more information on AAS, refer to reference (c). 
+    c.  The purpose of this exemption is to recognize that some 
+Sailors who do not meet the BCA standard are still able to maintain 
+operational readiness.  This policy exemption also aligns with 
+Department of Defense policy in reference (e). 
+    d.  A Sailor must participate in all three modalities (pushups, 
+forearm plank, and run or alternate cardio, if authorized) of the 
+PRT to be eligible for this exemption. 
+    e.  A Sailor who meets exemption requirements must complete one 
+of the nutrition education options below per reference (d).  These 
+nutrition education options are the same options that FEP enrollees 
+are required to complete. 
+        (1) Nutrition Consult for Individual Visit or Class with 
+Registered Dietitian Nutritionist (RDN).  This option allows for the 
+participant to meet, a minimum of one visit, individually (e.g., 
+one-on-one) with a RDN or attend an appropriate nutrition class. 
+Classes are typically offered at the MTF or at a local Health 
+Promotion and Wellness Center. 
+        (2) ShipShape Program.  This six-module evidence-based 
+program is the official Navy weight management program designed to 
+assist members with making positive behavior changes to promote 
+healthy weight loss.  Participants selecting this nutrition 
+education option are encouraged to self-refer to the program by 
+contacting their local Medical Treatment Facility or Health 
+promotion and Wellness Center 
+        (3) Nutrition Self-Study Course.  This course is available 
+on the Official Navy PFA App.  Participants will learn about 
+nutrition basics, making healthier food choices, portion control, 
+and behavior modifications necessary for healthy weight management. 
+        (4) Mission Nutrition Course.  This is a standardized, 
+science-based two-day course focused on improving individual 
+nutritional knowledge and awareness.  The course is available at 
+Navy Fitness centers that have a certified instructor.  More 
+information is available at 
+https://www.navyfitness.org/fitness/nutrition/mission-nutrition. 
+        (5) Navy Operational Fitness and Fueling System (NOFFS). 
+The Fueling Series and the Virtual Meal Builder provides Sailors 
+with the tools that support healthy nutrition choices and the 
+creation of individualized meal plans in both shore-based and 
+operational environments.  The Command Fitness Leader 
+(CFL)/Assistant CFL must review the NOFFS-nutrition section provided 
+on https://www.navyfitness.org/fitness/nutrition/noffsfueling-series  
+or within the NOFFS app with the member for this nutrition option. 
+    f.  The CFL is responsible for managing a Sailor's nutrition 
+enrollment in the Physical Readiness Information Management System 
+(PRIMS-2).  Upon selecting a nutrition education option, Sailors 
+must inform their CFL of which option they choose and provide proof 
+of completion or progression within 30 days of nutrition enrollment. 
+The completed education option is only valid for one PFA cycle. 
+    g.  The exceptional PRT exemption score criteria will be re- 
+evaluated after the CY2025 PFA cycle. 
+    h.  References (b) and (d) will be updated to reflect this 
+policy change and provide implementation guidance prior to the 
+CY2025 PFA cycle. 
+ 
+4.  The point of contact for questions is MyNavy Career Center at 
+(833) 330-MNCC or askmncc.fct@navy.mil. 
+ 
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first. 
+ 
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
