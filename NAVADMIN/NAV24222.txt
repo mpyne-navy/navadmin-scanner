@@ -1,6 +1,6 @@
 CLASSIFICATION: UNCLASSIFIED// 
 ROUTINE 
-R 281905Z OCT 24 MID180000017871U 
+R 071925Z NOV 24 MID120001523879U 
 FM CNO WASHINGTON DC 
 TO NAVADMIN 
 INFO CNO WASHINGTON DC 
@@ -14,86 +14,79 @@ FM CNO WASHINGTON DC//N1//
 INFO CNO WASHINGTON DC//N1// 
 MSGID/GENADMIN/CNO WASHINGTON DC/N1/OCT// 
  
-SUBJ/DEPENDENT CARE FLEXIBLE SPENDING ACCOUNT FEDERAL OPEN SEASON FOR 
-MILITARY PERSONNEL// 
+SUBJ/DEPENDENT CARE FLEXIBLE SPENDING ACCOUNT FEDERAL OPEN SEASON 
+FOR MILITARY PERSONNEL *CORRECTED COPY*// 
  
 REF/A/DOC/SECDEF/22MAR23// 
 REF/B/DOC/POTUS/09JUN23// 
 REF/C/DOC/SECDEF/03AUG23// 
  
-NARR/REF A IS THE SECRETARY OF DEFENSE MEMORANDUM, STRENGTHENING OUR SUPPORT 
-TO SERVICE MEMBERS AND THEIR FAMILIES.   
+NARR/REF A IS THE SECRETARY OF DEFENSE MEMORANDUM, STRENGTHENING OUR 
+SUPPORT TO SERVICE MEMBERS AND THEIR FAMILIES.   
 REF B IS EXECUTIVE ORDER 14100, EXECUTIVE ORDER ON ADVANCING ECONOMIC 
-SECURITY FOR 
-MILITARY AND VETERAN SPOUSES, CAREGIVERS, AND SURVIVORS.   
+SECURITY FOR MILITARY AND VETERAN SPOUSES, CAREGIVERS, AND SURVIVORS.   
 REF C IS THE UNDER SECRETARY OF DEFENSE MEMORANDUM, AVAILABILITY OF DEPENDENT 
 CARE FLEXIBLE SPENDING ACCOUNTS FOR SERVICE MEMBERS. 
  
-RMKS/1.  This NAVADMIN announces eligible Sailors may enroll or re- 
-enroll in a Dependent Care Flexible Spending Account (DCFSA) during 
-federal open season from 11 November - 9 December 2024, in line with 
-references (a) through (c).  The DCFSA is a pre-tax account used to 
-pay for eligible dependent care services, such as preschool, day 
-camp, before or after-school programs, and child or adult daycare. 
-Contributions are directly deposited from pay into a DCFSA before 
-taxes are deducted, which reduces a member's taxable income. 
+RMKS/1.  This NAVADMIN announces eligible Sailors may enroll or re-enroll in 
+a Dependent Care Flexible Spending Account (DCFSA) during federal open season 
+from 11 November - 9 December 2024, in line with references (a) through 
+(c).  The DCFSA is a pre-tax account used to pay for eligible dependent care 
+services, such as preschool, day camp, before or after-school programs, and 
+child or adult daycare. Contributions are directly deposited from pay into a 
+DCFSA before taxes are deducted, which reduces a member's taxable income. 
  
-2.  Eligibility.  Active Component (AC) Service Members, to include 
-Training and Administration of the Reserves (TAR) Sailors, and 
-Reserve Component on Title 10 or Title 32 orders are eligible for 
-enrollment in DCFSAs.  Additionally, AC and TAR Sailors may use 
-DCFSAs for dependent care expenses that allow Sailors and, if 
-married, spouses to work, look for work, or attend school full-time. 
-For complete eligibility information, see 
+2.  Eligibility.  Active Component (AC) and Training and Administration of 
+the Reserves (TAR) Sailors are eligible for enrollment in DCFSAs.  Sailors in 
+the Reserve Component, except for TAR Sailors, are not eligible.   
+Additionally, AC and TAR Sailors may use DCFSAs for dependent care expenses 
+that allow Sailors and, if married, spouses to work, look for work, or attend 
+school full-time. For complete eligibility information, see 
 https://finred.usalearning.gov/Benefits/DCFSA. 
  
 3.  Enrollment: 
     a.  Eligible Sailors may enroll in a DCFSA for the 2025 plan 
 during the federal open season from mid-November through mid- 
 December 2024.  Enrollment will be processed by the Federal Flexible 
-Spending Account Program at https://www.fsafeds.gov/explore/usmdcfsa.  A 
-DCFSA enables participants to contribute $100-$5,000 per household per year 
+Spending Account Program at https://www.fsafeds.gov/explore/usmdcfsa.   
+A DCFSA enables participants to contribute $100-$5,000 per household per year 
 in pre-tax income to pay for dependent care expenses ($2,500 if married 
-and filing separate tax returns).  A DCFSA operates on a calendar 
-year basis, starting 1 January and ending 31 December. 
-    b.  Eligible Sailors may also enroll at any time in a DCFSA 
-following a qualifying life event such as the birth or adoption of a 
-child, a divorce, or a permanent change of station. 
-    c.  Upon enrollment, the specified amount of funds will be 
-withheld from the Sailor's biweekly paycheck beginning the 15th of 
-the month for the effective year of eligibility (e.g., 15 January 
-2025) and deposited into their DCFSA. 
-    d.  Funds are available in the Sailor's DCFSA after each pay 
-period.  Funds can be withdrawn to directly pay dependent care 
-providers or to reimburse dependent care expenses paid out of 
-pocket.  For the procedures to file a claim, see 
-https://finred.usalearning.gov/assets/downloads/FINRED-DCFSAClaims101-G.pdf. 
-    e.  Contributions should be carefully planned not to exceed the 
-total amount of qualified expenses anticipated to be incurred during 
-the year. 
-    f.  There is a grace period through 15 March following the plan 
-year (e.g., 15 March 2026 for those that enrolled for the 2025 plan 
-year) to incur expenses.  All claims must be submitted by 30 April 
-following the plan year. 
-    g.  Unclaimed contributions will be forfeited after 30 April 
-following the plan year (e.g., 30 April 2026 for those enrolled in 
-the 2025 federal plan year). 
-    h.  Re-enrollment.  Eligible Sailors must re-enroll each year 
-during the Federal Open Season to continue participation.  A 
-Sailor's participation will NOT automatically carry over from year 
-to year. 
+and filing separate tax returns).  A DCFSA operates on a calendar year basis, 
+starting 1 January and ending 31 December. 
+    b.  Eligible Sailors may also enroll at any time in a DCFSA following a 
+qualifying life event such as the birth or adoption of a child, a divorce, or 
+a permanent change of station. 
+    c.  Upon enrollment, the specified amount of funds will be withheld from 
+the Sailor's biweekly paycheck beginning the 15th of the month for the 
+effective year of eligibility (e.g., 15 January 2025) and deposited into 
+their DCFSA. 
+    d.  Funds are available in the Sailor's DCFSA after each pay period.   
+Funds can be withdrawn to directly pay dependent care providers or to 
+reimburse dependent care expenses paid out of pocket.  For the procedures to 
+file a claim, see https://finred.usalearning.gov/assets/downloads/FINRED-
+DCFSAClaims101-G.pdf. 
+    e.  Contributions should be carefully planned not to exceed the total 
+amount of qualified expenses anticipated to be incurred during the year. 
+    f.  There is a grace period through 15 March following the plan year 
+(e.g., 15 March 2026 for those that enrolled for the 2025 plan year) to incur 
+expenses.  All claims must be submitted by 30 April following the plan year. 
+    g.  Unclaimed contributions will be forfeited after 30 April following 
+the plan year (e.g., 30 April 2026 for those enrolled in the 2025 federal 
+plan year). 
+    h.  Re-enrollment.  Eligible Sailors must re-enroll each year during the 
+Federal Open Season to continue participation.  A Sailor's participation will 
+NOT automatically carry over from year to year. 
  
 4.  Things to consider before you enroll in DCFSA: 
-    a.  Review your family's budget and cash flow.  Enrolling in a 
-DCFSA will impact your take-home pay. 
-    b.  Understand your tax benefits.  Free tax software and one-on- 
-one help from military tax experts are available to Service Members 
-and their families. 
+    a.  Review your family's budget and cash flow.  Enrolling in a DCFSA will 
+impact your take-home pay. 
+    b.  Understand your tax benefits.  Free tax software and one-on-one help 
+from military tax experts are available to Service Members and their 
+families. 
  
-5.  DCFSA resources.  Free assistance is available to help Sailors 
-make the right decision, provide enrollment information, and 
-understand how the DCFSA affects both their family's financial 
-budget and tax situation. 
+5.  DCFSA resources.  Free assistance is available to help Sailors make the 
+right decision, provide enrollment information, and understand how the DCFSA 
+affects both their family's financial budget and tax situation. 
     a.  Office of Financial Readiness DCFSA webpage: 
 https://finred.usalearning.gov/Benefits/DCFSA. 
     b.  Military OneSource: 
@@ -102,7 +95,7 @@ https://www.militaryonesource.mil/benefits/dependent-fsa/.
     d.  Local Command Financial Specialists and Fleet and Family 
 Support Center Personal Financial Managers. 
     e.  Tax consultation from MilTax via Military OneSource at 
-https://www.militaryonesource.mil/financial-legal/taxes/miltax-military-tax-
+https://www.militaryonesource.mil/media/toolkits/miltax/military-tax-
 services/. 
  
 6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
