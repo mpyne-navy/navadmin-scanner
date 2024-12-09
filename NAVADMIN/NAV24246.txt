@@ -1,0 +1,190 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 092052Z DEC 24 MID120001608117U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 246/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/EXCEPTIONAL FAMILY MEMBER PROGRAM UPDATE// 
+ 
+REF/A/DOC/NDAASEC582/1JAN21// 
+REF/B/DOD/23JUN23// 
+REF/C/DOC/OPNAVINST/15NOV17// 
+REF/D/DOC/OPNAVINST/11DEC23// 
+ 
+NARR/REF A IS SECTION 582 NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 
+2021 IMPROVEMENTS TO THE EXCEPTIONAL FAMILY MEMBER PROGRAM UPDATE.   
+REF B IS THE DODI 1315.19, DEPARTMENT OF DEFENSE EFMP POLICY INSTRUCTION.   
+REF C IS THE OPNAVINST 1754.2F, THE DEPARTMENT OF THE NAVY EFMP POLICY 
+INSTRUCTION.   
+REF D IS THE OPNAVINST 1300.14E, SUITABILITY SCREENING FOR OVERSEAS OR 
+REMOTEDUTY ASSIGNMENT. 
+ 
+RMKS/1.  This NAVADMIN announces Department of Defense (DoD) mandated updates 
+to improve the Exceptional Family Member Program (EFMP) experience for 
+military families and to create program consistency across the Services per 
+references (a) and (b).  Navy EFMP updates will be implemented gradually, 
+bringing the Navy EFMP in line with other DoD and Service EFMPs by the end of 
+Fiscal Year 2025 (FY25).  Continuity of benefits for new and existing 
+enrollees will be maintained.  Enrollment in the EFMP is mandatory for all 
+Active Duty Service Members and Reservists on orders over 30 calendar days, 
+who have a family member with a qualifying chronic medical (physical, 
+developmental, or mental health) condition or who require special educational 
+support per references (b) and (c).  The primary purpose of the EFMP is to 
+ensure family member's medical and educational needs are considered during 
+the assignment process. 
+ 
+2.  EFMP updates will improve oversight and implementation as well as provide 
+a single Point of Contact (POC) for EFMP needs.  The following changes will 
+be fully implemented by the end of FY25: 
+    a.  Single-lead EFMP Office.  The Navy established a centralized EFMP 
+office at Navy Personnel Command, EFMP Manager (PERS-456) to oversee 
+implementation of the EFMP and provide a single POC for the coordination of 
+health care services, Permanent Change of Station (PCS) assignments, and 
+educational support services. 
+    b.  Transition to individualized approach for case management. 
+In alignment with reference (b) and the other Services, Navy will no longer 
+utilize traditional Exceptional Family Member (EFM) categories.  This 
+transition will offer greater precision in aligning the needs of each EFM to 
+those capabilities available at assignment locations. 
+    c.  Central Screening Committee (CSC) EFMP Enrollment, Respite Care, and 
+Priority Housing.  The CSC is a medical review committee consisting of 
+healthcare professionals responsible for reviewing completed EFMP enrollment 
+packages.  The CSC makes EFMP enrollment determinations and adjudications on 
+Level of Need (LON) as LON pertains to respite care and priority placement on 
+the Navy housing waitlist, as applicable. 
+       (1)  The CSC transitioned from the Bureau of Medicine and Surgery 
+(BUMED) Medical Readiness (BUMED N10D) to the single-lead EFMP office,  
+PERS-456. 
+       (2)  EFMP coordinators at the military treatment facility will 
+continue to assist the CSC in the identification and enrollment of current 
+and prospective EFMs, and provide EFMP training and marketing to medical 
+staff personnel. 
+       (3)  Per reference (c), EFMP enrolled Service Members are required to 
+update their EFMP enrollment status every three years or when a change in 
+special medical or educational needs occurs. 
+    d.  Assignment Process.  Service Members enrolled in the EFMP will apply 
+for assignments in MyNavy Assignment or coordinate with detailers as 
+appropriate.  PERS-456 will confirm the required medical or special 
+educational services are available at the assignment location prior to orders 
+being released. 
+      (1)  Assignment Reconsideration.  If a Sailor considers the assignment 
+medically or educationally inappropriate, the Sailor may submit a request to 
+PERS-456 for an assignment reconsideration. 
+      (2)  The EFMP assignment process does not replace the operational or 
+overseas suitability screening requirement. 
+Suitability screening is a separate process and required for Service Members 
+receiving accompanied orders to a location outside the continental United 
+States and remote duty, per reference (d). 
+      (3)  PERS-456 will initiate the family support warm hand-off process 
+when the required care services are available at the gaining location.  As 
+EFM families move from one installation to another, the losing installation 
+EFMP family support office will proactively communicate with the gaining EFMP 
+family support office to communicate the family's needs to help with the 
+continuation of services.  The warm hand-off may include information for 
+transitioning respite care, disability-related housing needs, obtaining 
+educational support, or connecting to local support groups upon arrival at 
+the new location. 
+    e.  EFMP Respite Care.  The DoD established a standardized respite care 
+benefit, including the number of hours available to military families 
+enrolled in the EFMP who meet the eligibility criteria.  The respite care 
+benefit provides family members with temporary relief from the responsibility 
+for the regular care of the EFM, utilizing trained and background checked 
+approved providers. 
+The EFMP respite care age-specific LON rubrics help the Services determine 
+eligibility and number of allotted hours per month, per family.  The changes 
+to the Navy's Respite Care Program will be fully implemented on 1 October 
+2025.  LON rubrics scoring is as follows: 
+       (1)  LON 1 and LON 2:  Sailors with dependents with low needs are 
+ineligible for EFMP respite care. 
+       (2)  LON 3:  Sailors with dependents with moderate needs, to include 
+adults, are eligible to receive 20 hours per month of EFMP respite care. 
+       (3)  LON 4:  Sailors with dependents with profound needs, to include 
+adults, are eligible for 32 hours per month of EFMP respite care services. 
+       (4)  If previously qualified for respite care services, but the LON 
+reclassification changes eligibility, respite care benefits will continue at 
+the current level until 1 October 2025. 
+       (5)  For PCSs occurring on or after 1 July 2025, eligibility will be 
+based on LON determination.  If the LON assessment disqualifies the dependent 
+for respite care, benefits expire on the date the PCS occurs.  If determined 
+eligible, the Service Member must apply for respite care benefits at the new 
+duty station under updated eligibility guidelines. 
+        (6)  Changes to respite care hours and eligibility for current 
+respite care users will not take effect until 1 October 2025, with the 
+exception of a PCS move occurring on or after 1 July 2025. 
+    f.  Priority Placement on Navy Housing Waitlist.  Navy Housing applicants 
+with family members enrolled in EFMP deemed eligible for a priority placement 
+on the Navy Housing waitlist will be afforded the priority.  Housing waitlist 
+priority does not guarantee immediate housing assignment, but helps to 
+quickly and adequately house those requiring permanency in living 
+arrangements.  Any housing accommodation requests should be provided to 
+landlord. 
+    (1)  Sailors with a previous assignment letter of EFMP categories 4 and 
+5, as well as enrollees designated in writing by the CSC, will be afforded 
+the priority placement until 1 October 2025.  After 1 October 2025, only 
+those designated in writing via the CSC will be eligible for priority housing 
+placement. 
+    (2)  Non-Navy applicants applying for Navy housing will need to contact 
+PERS-456 to validate priority placement on the Navy Housing waitlist. 
+        (a)  Provide proof of enrollment in service EFMP.  If enrollment 
+letter is not available, PERS-456 will contact the respective service to 
+validate. 
+        (b)  Provide a copy of the DD-2792, DD-2792-1, and Individualized 
+Education Program (IEP)/Individualized Family Service Plan, as applicable. 
+ 
+3.  Legal Assistance for Special Education Concerns.  Navy Region Legal 
+Service Offices (RLSO) are available to provide special education legal 
+support to families enrolled in the EFMP, as appropriate.  General Legal 
+Assistance Attorneys located exclusively at RLSO Mid-Atlantic in Norfolk, VA; 
+RLSO Southwest in San Diego, CA; and RLSO Southeast in Jacksonville, FL 
+consult with EFMP Special Education Liaisons, EFMP Case Liaisons, and School 
+Liaisons on an as needed basis.  Various team members may consult with EFMP 
+families on a variety of topics related to availability of schools, special 
+education school meetings, due process, IEPs, housing, medical, and 
+information and referral services.  Additional resources are available at: 
+https://ffr.cnic.navy.mil/Portals/76/Family_Readiness/Documents/Legal%20Assis
+tance_%20May%202024.pdf?ver=NYl_EqDkQ5pwmXPPTCKFKg%3d%3d 
+ 
+Special Education Attorney Video:  
+https://www.youtube.com/watch?v=X9kMrXphMGU 
+ 
+4.  For questions concerning identification and enrollment/disenrollment, 
+respite care, and family support, please contact the Centralized EFMP Office 
+directly at 901-874-2496 or at efmp_admin.fct@navy.mil. 
+    (a) Navy's EFMP websites: 
+       (1) MyNavy HR: https://www.mynavyhr.navy.mil/Support-
+Services/Exceptional-Family-Member/ 
+        (2)  CNIC: 
+https://ffr.cnic.navy.mil/Family-Readiness/Fleet-And-Family-Support-
+Program/Work-and-Family-Life/Exceptional-Family-Member-Program/ 
+ 
+    (b)  Navy EFMP mobile resources: 
+        (1)  Navy's EFMP App: 
+https://www.applocker.navy.mil/#!/apps/17B6E14B-2502-438C-880B-4D98B4512038 
+        (2)  MyNavy Family App: 
+https://www.applocker.navy.mil/#!/apps/A3E45417-7665-4E93-B703-659F6B34C404 
+ 
+    (c)  Special Education resources: 
+        (1)  Special Education Attorney Video: 
+https://www.youtube.com/watch?v=X9kMrXphMGU 
+ 
+        (2)  Navy Legal Assistance Program: 
+https://ffr.cnic.navy.mil/Portals/76/Family_Readiness/Documents/Legal%20Assis
+tance_%20May%202024.pdf?ver=NYl_EqDkQ5pwmXPPTCKFKg%3d%3d 
+ 
+ 
+5.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
