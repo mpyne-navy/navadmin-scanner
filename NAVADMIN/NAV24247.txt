@@ -1,0 +1,208 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 101726Z DEC 24 MID120001620527U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 247/24
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/SURFACE WARFARE OFFICER LIEUTENANT COMMANDER RETENTION BONUS//
+
+REF/A/DOC/ASN/26SEP2024//
+REF/B/DOC/U.S.C.//
+REF/C/DOC/DOD/11JUL16//
+REF/D/DOC/BUMED/27JUL16//
+REF/E/DOC/DOD/FEB24//
+
+NARR/REF A IS ASSISTANT SECRETARY OF THE NAVY (MANPOWER AND RESERVE
+AFFAIRS) SURFACE WARFARE OFFICER LIEUTENANT COMMANDER RETENTION BONUS 
+AUTHORIZATION.   
+REF B IS TITLE 37, U.S. CODE, PAY AND ALLOWANCES OF THE UNIFORMED SERVICES.  
+REF C IS DEPARTMENT OF DEFENSE INSTRUCTION 1304.34, GENERAL BONUS AUTHORITY 
+FOR OFFICERS.
+REF D IS THE BUREAU OF MEDICINE AND SURGERY INSTRUCTION 1300.2B, SUITABILITY 
+SCREENING, MEDICAL ASSIGNMENT SCREENING, AND EXCEPTIONAL FAMILY MEMBER 
+PROGRAM IDENTIFICATION AND ENROLLMENT.   
+REF E IS DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT REGULATION 7000.14, 
+VOLUME 7A, CHAPTER 2, REPAYMENT OF UNEARNED PORTION OF BONUSES AND OTHER 
+BENEFITS.//
+
+RMKS/1.  This NAVADMIN announces the renewal and modification of the Surface 
+Warfare Officer (SWO) Lieutenant Commander (LCDR) Retention Bonus (LRB) for 
+eligible SWOs.
+
+2.  Program Authority.  This program is authorized under section 332, Title 
+37 U.S. Code.  In line with reference (a), the SWO LRB is effective through 
+30 September 2027 unless otherwise rescinded or superseded.  All applications 
+for the bonuses contained within this program will be submitted to the Navy 
+Personnel Command SWO Assignments (PERS-41) for approval, payment processing, 
+and tracking.
+
+3.  Program Overview.  This message summarizes the provisions of the SWO LRB.  
+All information provided herein is applicable to both Active Component (AC) 
+and Training and Administration of the Reserves (TAR) SWO personnel, except 
+where otherwise noted.  The following general summary is provided:
+    a.  SWOs promoted to LCDR will have the opportunity to commit to the SWO 
+LRB.  The Navy will pay qualified officers for 3 years of obligated service 
+from the completion of the 12th Year of Commissioned Service (YCS) through 
+the completion of their 15th YCS.
+LCDRs with at least 11 YCS, but not more than 12 YCS, are eligible for the 
+SWO LRB.  AC SWOs will receive a $22K bonus on the anniversaries of their 
+12th, 13th, and 14th YCS.  In line with references (a) and (b), TAR SWOs will 
+receive $12K on the anniversaries of their 12th, 13th, and 14th YCS.
+    b.  Officers currently under SWO LRB contract are not eligible for the 
+new payment structure and renegotiation of the current SWO LRB contracts.
+    c.  References (b) and (c) limit career retention bonus amounts.
+While officers may receive multiple retention bonuses under section
+332 of reference (b) over a career, total bonus payments under this authority 
+may not exceed $300K for AC officers and $150K for TAR officers.
+
+4.  Program Eligibility
+    a.  Must meet all four of the following requirements:
+        (1) Qualified and serving as an Active Duty SWO (designators
+1110 or 1117),
+        (2) Permanently appointed LCDR.
+        (3) Have at least 11 YCS, but no more than 12 YCS.
+        (4) Completed two afloat Department Head (DH) tours, a single longer 
+tour, or be within 12 months of periodic rotation date for late DH options on 
+the flexible career path according to the DH sequencing plan as assigned by 
+PERS-41.
+    b.  If assigned to an at-sea tour by PERS-41, eligible officers must be 
+sea duty assignable as defined by reference (d).
+Additionally:
+        (1) An officer under contract and assigned to an at-sea tour and 
+evaluated as no longer fit for sea duty by an appropriate medical authority, 
+following a period of Temporary Limited Duty (TLD), will have a stop payment 
+placed on their account and receive no further SWO LRB payments.  However, an 
+officer on TLD who is reasonably expected by the assigned medical officer to 
+make a full recovery and be found fit for sea duty will continue to receive 
+scheduled payments.  This determination will be completed by PERS-41 in line 
+with the appropriate medical authority's findings.
+        (2) An officer found unfit for continued Naval Service by an 
+appropriate medical authority will have a stop payment placed on their 
+account and receive no further SWO LRB payments.
+        (3) Should a previously ineligible officer later become fit for sea 
+duty, payments will resume at normal intervals for the remainder of the 
+anniversary payment(s).  Retroactive pay is not authorized for any bonus 
+payments that were scheduled during the period the officer was ineligible.
+    c.  Career Intermission Program (CIP).  An officer participating in CIP 
+will be ineligible to receive LRB payments during the intermission period.  
+Scheduled payments will resume upon return to service and in line with the 
+payment structure.
+    d.  Operational Deferment.  An officer in an operational deferment status 
+will remain eligible to receive LRB payments.
+    e.  An officer is not eligible to receive both the SWO Department Head 
+Retention Bonus (DHRB) and LRB concurrently.
+    f.  Bonuses will be paid in line with the payment structure in paragraph 
+6.
+
+5.  Program Execution
+    a.  The SWO community manager is assigned as the program manager and is 
+delegated the authority to administer the SWO LRB program according to 
+applicable laws, Department of Defense directives/instructions and this 
+NAVADMIN.
+    b.  PERS-41 receives applications submitted in the format referenced in 
+paragraph 7.  PERS-41 is delegated the authority to:
+        (1) Evaluate eligibility of SWOs applying for the SWO LRB program.
+        (2) Approve SWO contracts to remain on Active Duty for the stated 
+period in exchange for a SWO LRB.
+        (3) Administer LRB payments.
+    c.  All applications require written endorsement from the applicant's 
+Commander, Commanding Officer (CO), or equivalent superior in charge.
+    d.  Officers under a LRB agreement are not eligible to apply for the 
+Permanent Military Instructor (PMI) program, or any redesignation programs 
+that result in a change to any designator other than 1110 or 1117.  An 
+officer under a LRB agreement may submit an application for PMI or any 
+redesignation program once the date of application is within 12 months of the 
+final day of bonus obligation.
+
+6.  LRB Payment Structure
+    a.  Applications for LRB must be submitted between the 11th and 12th YCS.  
+Approved applicants will receive payments on the anniversary of their 12th, 
+13th, and 14th YCS.  In the case of SWO LCDRs approved for the late DH career 
+path who complete their SWO DHRB obligated service after the completion of 12 
+YCS, the 3 years of obligated service for the SWO LRB may begin immediately 
+after the completion of SWO DHRB obligated service.  For example, officers 
+who elect for a late DH tour start would normally conclude their DHRB 
+obligated service at 12 YCS and would be eligible to apply for LRB bonus in 
+line with the prescribed application window described in paragraph 4.a(3).  
+If approved, those officers will still receive LRB bonuses in line with the 
+pay schedule.
+    b. SWO AC officers (1110) will receive the LRB in line with the following 
+payment structure ($66K maximum):
+        (1) $22K on the YCS-12 anniversary;
+        (2) $22K on the YCS-13 anniversary;
+        (3) $22K on the YCS-14 anniversary;
+    c. In line with reference (a) through (c), TAR officers may only receive 
+a maximum of $12K per year in bonuses.  SWO TAR officers
+(1117) will receive the LRB in line with the following payment structure 
+($36K maximum):
+        (1) $12K on the YCS-12 anniversary;
+        (2) $12K on the YCS-13 anniversary;
+        (3) $12K on the YCS-14 anniversary;
+
+7.  Application Process
+    a.  General Notes
+        (1) Application format can be found on the PERS-41 page of the NPC 
+website at https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Officer/Pers-41-SWO/Pay-Incentives/
+        (2) Applications will be binding upon the date of approval by  
+PERS-41.
+        (3) Applications received in the incorrect format or not meeting 
+eligibility requirements defined in this NAVADMIN will be rejected.
+    b.  Officers must submit a copy of the signed original contract and CO's 
+endorsement by e-mail to the applicable assignment officer and/or civilian 
+assistant.
+
+8.  Recoupment and Repayment Policy.  Repayment policy is governed by section 
+373 of reference (b) and reference (e).  A Service Member of the uniformed 
+Services who enters into a written agreement with specified service 
+conditions for receipt of a bonus is entitled to the full amount of the bonus 
+if the member fulfills the conditions of the written agreement.  If the 
+member fails to fulfill the service conditions specified in the written 
+agreement for the pay, then the pay may be terminated and the Service Member 
+may be required to repay an amount equal to the unearned portion of the pay.  
+SWO LRB payments will be stopped for officers who become ineligible for this 
+incentive or fail to complete the full period of additional obligated 
+service.
+    a.  For officers who die while serving under a SWO LRB service agreement, 
+the remaining SWO LRB balance will be paid as a lump sum as part of the 
+settlement of the final military pay account of the officer.  If death is 
+determined to be the result of the misconduct of the member, future payments 
+will be stopped and unearned portions of the bonus will be recouped, as 
+applicable, in line with procedures established for members whose inability 
+to complete a contracted period of service is voluntary or the result of 
+misconduct.
+    b.  Recoupment exception to policy determinations will be made by 
+Director, Military Personnel Plans and Policy Division (OPNAV N13).
+
+9.  Additional guidance, information, and updates regarding the SWO LRB are 
+available at the MyNavy HR website, https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Officer/Pers-41-SWO/Pay-Incentives/.
+
+10.  Points of Contact
+    a.  LCDR Aaron A. Jochimsen, PERS-411B, (901)874-3373/DSN 882 or 
+aaron.a.jochimsen.mil@us.navy.mil.
+    b.  CDR Eric Winn, SWO community manager, BUPERS-311, (901)874- 3173/DSN 
+882 or eric.winn2.mil@us.navy.mil.
+    c.  CDR Kirk Morris, TAR community manager, BUPERS-351, (901)874-4346/DSN 
+882 or kirk.n.morris.mil@us.navy.mil.
+
+11.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+12.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
