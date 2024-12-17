@@ -1,0 +1,46 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 161818Z DEC 24 MID120001644798U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 251/24
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+SUBJ/FISCAL YEAR 2024 OCEANOGRAPHER OF THE NAVY AWARD RECIPIENTS//
+
+REF/A/MSG/CNO WASHINGTON DC/N2N6/311522Z JUL 24//
+
+NARR/REF A IS NAVADMIN 150/24, FISCAL YEAR 2024 OCEANOGRAPHER OF THE NAVY 
+AWARD NOMINATIONS// POC/ELIZABETH ROONEY/LT/OPNAV N2N6E/TEL: (703)614-1847
+/EMAIL:  ELIZABETH.C.ROONEY2.MIL(AT)US.NAVY.MIL//
+POC/J. P. GARSTKA/CAPT/OPNAV N2N6E/TEL:  (703)614-1864
+/EMAIL:  JOHN.P.GARSTKA.MIL(AT)US.NAVY.MIL//
+
+RMKS/1.  As announced in reference (a), the 2024 Naval Oceanography Awards 
+program recognizes Naval Oceanography professionals for expertise, 
+accomplishments, and leadership in the application of meteorology, 
+oceanography, hydrography, and precise time and astrometry.  The 
+Oceanographer of the Navy takes pride in announcing the 2024 Naval 
+Oceanography Awards selectees. 
+
+     a.  The 2024 Captain Richard C. Steere Award selectee is:
+     LTJG David P. Watson, USN
+     b.  The 2024 Commander Mary Sears Award selectee is:
+     LCDR Stephanie A. Geant, USN
+     c.  The 2024 Chief Aerographer's Mate John Dungan Jr. Award selectee is:
+     AGC(IW/EXW) Brandon A. Vitense, USN
+     d.  The 2024 Matthew Henson Award selectee is:  Mr. Greg Espinosa
+
+2.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations For 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

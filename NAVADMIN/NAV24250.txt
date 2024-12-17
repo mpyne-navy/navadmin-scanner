@@ -1,0 +1,81 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 161757Z DEC 24 MID120001644736U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN/250/24
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/DEC//
+
+SUBJ/FISCAL YEAR 2024 COPERNICUS AWARD WINNERS ANNOUNCEMENT//  
+
+POC/FISCHETTI/CIV/AFCEA EDUCATIONAL FOUNDATION/TEL:  (703) 631-6147
+/EMAIL:  EDFOUNDATION(AT)AFCEA.ORG
+
+REF/A/MSG/CNO WASHINGTON DC/162007Z SEP 24//
+
+NARR/REF A IS NAVADMIN 188/24, FISCAL YEAR 2024 COPERNICUS AWARD NOMINATION//
+
+RMKS/1.  The Chief of Naval Operations is pleased to congratulate the fiscal 
+year 2024 Copernicus Award winners.  The Copernicus Award recognizes 
+individual contributions to Naval Warfare in the disciplines of Command, 
+Control, Communications, Computers, and Intelligence (C4I), Information 
+Systems or Information Warfare (IW).  Armed Forces Communications and 
+Electronics Association (AFCEA) International and the U.S. Naval Institute 
+(USNI) have selected the following Copernicus Award winners for fiscal year 
+2024:
+     a.  Mr. Rodrick S. Adams, Marine Corps Systems Command
+     b.  Mr. Marcus R. Ashcraft, Combat National Mission Team 1
+     c.  Mr. Joe L. Betts, Naval Surface Warfare Center, Dahlgren Division
+     d.  IT1 Christopher J. Bliss, USN, USS LAKE ERIE (CG70)
+     e.  Mr. Michael A. Bosch Van Drakenstein, 2D Network Battalion, Marine
+     Corps Cyberspace Operations Group
+     f.  LCDR Travis L. Carter, USN, Navy Cyber Defense Operations Command
+     Detachment West
+     g.  Sgt Aidan Causil-Baggott, USMC, Marine Corps Cyberspace Warfare 
+Group
+     h.  Mr. Jason A. Cisler, Puget Sound Naval Shipyard and Intermediate
+     Maintenance Facility
+     i.  ITC Colleen V. Civils, USCG, United States Coast Guard Base Guam
+     j.  LT Kaitlyn S. Devalk, USCG, 2003 Cyber Protection Team
+     k.  RWC Ryan T. Fox, USN, Unmanned Patrol Squadron ONE NINE
+     l.  LCDR Benjamin A. Fox, USN, U.S. Naval Forces Central Command
+     m.  ET1 Staal M. Githinji, USN, Tactical Communications Command ONE
+     n.  LCDR Jaclyn N. Istilart, USN, USS WASP (LHD 1)
+     o.  Mr. William Y. Joo, NAVWAR
+     p.  LTJG Justin S. Miller, USN, USS MICHAEL MURPHY (DDG 112)
+     q.  LTJG Andre S. Pham, USN, USS BLUE RIDGE (LCC 19)
+     r.  CWO David A. Poling, USCG, Coast Guard Cyber Command
+     s.  Mr. Darren N. Powell, Naval Information Warfare Center Pacific
+     t.  ET1 Anthony J. Smith, USCG, Coast Guard Cutter KIMBALL
+     u.  CWTCS Nicholas F. Tarnay, USN, United States Special Operations 
+Command
+     v.  Captain Christian M. Thiessen, USMC, I Marine Expeditionary Force
+     Information Group
+     w.  LCDR Austin R. Van Olst, USN, Carrier Strike Group ELEVEN
+     x.  CTI1 William A. Viarnes, USN, Naval Special Warfare Development 
+Group
+     y.  LT Paul A. Williams, USN, Cyber Strike Activity SIXTY THREE
+     z.  CWTC Andrew S. Wolter, USN, Defense Information Systems Agency, 
+Europe
+     aa.  Major Caleb Y. Wu, USMC, Marine Wing Communications Squadron ONE 
+EIGHT
+
+2.  All Copernicus Award winners will receive an invitation from AFCEA and 
+USNI inviting them, their spouse/guest, and their Commanding Officer to 
+attend an awards reception and presentation ceremony held at the AFCEA 
+International /USNI WEST 2025 Conference in San Diego, California at the San 
+Diego Convention Center on 28 January 2025.
+
+3.  Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations For 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
