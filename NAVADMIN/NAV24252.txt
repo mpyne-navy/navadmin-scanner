@@ -1,0 +1,68 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 171958Z DEC 24 MID120001648098U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 252/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/CALL FOR APPLICATIONS FOR ASSIGNMENT TO THE FLAG WRITER PROGRAM (791D)// 
+ 
+REF/A/DOC/COMNAVPERSCOM/11DEC19// 
+AMPN/REF A IS MILPERSMAN 1306-913, FLAG WRITER (NEC A15A)// 
+ 
+RMKS/1.  This NAVADMIN announces the requirements and solicits motivated 
+Yeoman (YN) for Flag Writer (791D) assignments, which are available for 
+paygrades E5 and above.  Interested YN's who meet the criteria in reference 
+(a) are eligible to apply for the program as early as 15 months from their 
+Projected Rotation Date. 
+ 
+2.  Flag Writers are assigned to the personal staffs of Flag and General 
+Officers with the primary mission of providing administrative assistance to 
+and removing administrative burden from the officer they support.  A talented 
+Flag Writer is vital to mission success. 
+ 
+3.  Eligibility.  To be considered for a Flag Writer assignment, candidates 
+must meet the following requirements: 
+    a.  Warfare-qualified YN2 and above with minimum 6 years of total service 
+or at least 1 year time-in-rate serving on Active Duty, Training and 
+Administration of the Reserve, or Selected Reserve. 
+    b.  Outstanding verbal communication skills. 
+    c.  Complete NAVPERS 1306/92, Special Program Screening. 
+    d.  Have at least 36 months of required obligated service for this 
+program. 
+    e.  Meet Body Composition Assessment standards and pass the most recent 
+Physical Fitness Assessment. 
+    f.  Have no Non-Judicial Punishment or courts-martial convictions in the 
+last 36 months. 
+    g.  Have no alcohol-related incidents (civil or military) in the last 36 
+months. 
+    h.  U.S. citizen with non-dual citizenship, holding a minimum secret 
+clearance (valid). 
+ 
+4.  Interested candidates meeting the above requirements must submit requests 
+to NAVPERSCOM, Admin/Deck/Security/Supply Distribution Branch (PERS-405) via 
+the administrative chain of command using NAVPERS 1306/7, Electronic 
+Personnel Action Request for approval of release to screen for the Flag 
+Writer Program via MyNavy Portal. 
+ 
+5.  For questions or additional information, please contact the Flag Writer 
+Placement Coordinator (PERS-44ES1) at (901) 874-3732. 
+ 
+6.  This message will remain in effect until superseded by updated MILPERSMAN 
+or canceled. 
+ 
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
