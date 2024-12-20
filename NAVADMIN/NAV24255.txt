@@ -1,0 +1,328 @@
+CLASSIFICATION: UNCLASSIFIED// 
+ROUTINE 
+R 192205Z DEC 24 MID120001653834U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+ 
+NAVADMIN 255/24 
+ 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC// 
+ 
+SUBJ/BILLET BASED ADVANCEMENTS 2025 
+ 
+REF/A/DOC/BUPERS/07FEB22// 
+REF/B/MSG/CNO WASHINGTON DC/272200ZJUL23// 
+RED/C/MSG/CNO WASHINGTON DC/121529ZMAR24// 
+REF/D/MSG/CNO WASHINGTON DC/091538ZDEC21// 
+REF/E/MSG/CNO WASHINGTON DC/011634ZJUN22// 
+REF/F/MSG/CNO WASHINGTON DC/062115ZOCT22// 
+REF/G/MSG/CNO WASHINGTON DC/101743ZMAY23// 
+REF/H/MSG/CNO WASHINGTON DC/011532ZFEB24// 
+REF/I/MSG CNO WASHINGTON DC/221631ZNOV22// 
+REF/J/MSG/CNO WASHINGTON DC/081754ZDEC23// 
+REF/K/MSG/CNO WASHINGTON DC/031326ZJUN24// 
+REF/L/DOC/BUPERS/29SEP17// 
+REF/M/DOC/BUPERS/22FEB20// 
+REF/N/DOC/MEMO/25OCT21// 
+ 
+NARR/REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE. 
+REF B IS NAVADMIN 168/23, NAVY-WIDE APPRENTICE (E1-E4) ADVANCEMENT CHANGES.   
+REF C IS NAVADMIN 052/24, 2024 MERITORIOUS ADVANCEMENT SEASON ONE.   
+REF D IS NAVADMIN 280/21, DETAILING MARKETPLACE ASSIGNMENT POLICY (DMAP).   
+REF E IS NAVADMIN 127/22, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE I 
+UPDATE.   
+REF F IS NAVADMIN 228/22, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE II. 
+REF G IS NAVADMIN 109/23, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE III.   
+REF H IS NAVADMIN 017/24, DETAILING MARKETPLACE ASSIGNMENT POLICY PHASE IV - 
+DC AND ABE EXCLUSIVE.   
+REF I IS NAVADMIN 261/22, SENIOR ENLISTED MARKETPLACE - E-9 BILLET BASED 
+ADVANCEMENT.   
+REF J IS NAVADMIN 305/23, FY25 ACTIVE COMPONENT ADVANCEMENT AND SCREEN BOARDS 
+FOR COMMAND MASTER CHIEF, MASTER CHIEF AND SENIOR CHIEF PETTY OFFICER.   
+REF K IS NAVADMIN 111/24, IMPLEMENTATION OF COMMAND ADVANCE TO POSITION.   
+REF L IS MILPERSMAN 1306-300, OVERSEAS TOUR EXTENSION INCENTIVES PROGRAM 
+(OTEIP).   
+REF M IS MILPERSMAN 1050-410, CONSECUTIVE OVERSEAS TOUR (COT) AND IN-PLACE 
+CONSECUTIVE OVERSEAS TOUR (IPCOT) LEAVE ENTITLEMENT POLICY.   
+REF N IS POLICY DECISION MEMORANDUM 002-21, SEA DUTY INCENTIVE PAY PROGRAM.// 
+ 
+RMKS/1.  This NAVADMIN announces an update on Billet Based 
+Advancement (BBA) policies contained in references (a) through (k), 
+and the expansion of BBA in calendar year 2025.  BBA is the 
+framework that serves to link enlisted advancements directly to 
+billets, enables Active Duty Sailors to advance to the next-higher 
+paygrade via Command Advance to Position (CA2P) and Advance to 
+Position (A2P), and includes the Senior Enlisted Marketplace (SEM). 
+BBA expands Active Duty Sailor choice, reduces the number of E-5 and 
+above vacancies across the Fleet and reduces assignment distribution 
+inefficiencies.  Most BBA actions are initiated and adjudicated in 
+MyNavy Assignment (MNA), providing process transparency to the 
+Fleet. 
+ 
+2.  Starting with the March 2025 Navy-Wide Advancement Examination 
+cycle, ratings included in the Detailing Marketplace Assignment 
+Policy (DMAP) will be fully integrated into BBA.  These sea- 
+intensive ratings, ABE, ABF, ABH, AME, AO, CS, DC, EM, IC, GM, GSM, 
+MM, QM, and RS, will no longer follow the "DMAP 4+3" construct for a 
+follow-on journeyman (E-5) sea tour, in line with reference (d). 
+The Navy-wide Advancement Exams (NWAEs) for advancement to E-5 and 
+E-6 for the BBA ratings will transition to Rating Knowledge Exams 
+(RKEs) to attain CA2P and A2P eligibility.  E-4 and E-5 Sailors are 
+required to have an in-grade periodic evaluation to participate in 
+the RKE.  Active Duty Sailors who pass the RKE and have a Commanding 
+Officer/Officer in Charge's recommendation for advancement will have 
+a Detailing Marketplace Eligibility Indicator (DMEI) applied to 
+their MNA record, which will allow Sailors to apply for jobs in the 
+next-higher paygrade, regardless of Projected Rotation Date (PRD). 
+Previous BBA Sailors (ABE and DC) that are advancement eligible on 
+sea or shore duty may begin to apply for A2P jobs in the next MNA 
+cycle.  Active Duty BBA Sailors passing the March 2025 RKE may begin 
+to apply for A2P jobs in the August 2025 MNA cycle.  Passing the RKE 
+will enable DMEI eligibility for 24 months.  If a Sailor has not 
+advanced in a new position within 24 months, they must retake the 
+RKE to ensure technical competency is maintained. 
+    a.  RKEs will be consistent with NWAEs as to the type and scope 
+of questions and will be conducted using the same exam processes and 
+timeline.  E-5 and E-6 exam administration cycles will continue to 
+be in March and September.  Active Duty Sailors may retake the RKE 
+each cycle to try and improve their Final Multiple Score (FMS), 
+which is a scoring element in the Sailor Scoring Criteria (SSC). 
+The FMS is based on the RKE score, performance evaluations, awards, 
+education, service-in-paygrade, and pass not advanced points. Time 
+in rate (TIR) is not required for Active Duty Sailors in the above 
+listed ratings taking the E-5 and E-6 RKE.  Education Service 
+Officers (ESO) must create Enlisted Advancement Worksheets (EAW) and 
+submit exam orders for these Sailors.  To support Cycle 267 exam 
+ordering timelines, ESOs must add exam orders for any BBA rating 
+Active Duty Sailors missing from the Cycle 267 mass/initial TIR exam 
+orders.  As with NWAEs, Professional Military Knowledge - 
+Eligibility Exams and Enlisted Leader Development courses are 
+eligibility requirements to take RKEs as well as specific rating 
+requirements. 
+    b.  BBA Component Exemptions.  The BBA program is not available 
+for Sailors in the Training and the Administration of Reserve (TAR) 
+or Selected Reserve (SELRES). 
+    c.  BBA options for the journeyman pay band (E-5 and E-6) 
+include A2P and CA2P with the following eligibility and processes. 
+Current command must validate all advancement criteria is met prior 
+to executing advancement. 
+        (1) A2P opportunities are advertised in MNA and eligible 
+Active Duty Sailors in BBA ratings may submit up to seven 
+applications per cycle; these may include jobs in their current or 
+next-higher paygrade.  Once all applications are received, MNA will 
+score each application and Rating Detailers will review the slate. 
+If the Sailor with the highest SSC does not meet the pre-requisite 
+skillsets of the billet requirements, the Sailor with the next- 
+highest score will be evaluated for A2P selection.  This review will 
+continue until a qualified Sailor is selected to fill the position. 
+BBA Sailors selected for A2P must obligate service for 36 months, 
+pass any applicable screening requirements and complete required 
+billet training enroute. 
+        (2) CA2P provides an opportunity for Commanding Officers and 
+Officers in Charge to recommend an advancement eligible BBA Sailor 
+that has completed at least 24 months of cumulative sea time as an 
+E-4, or 18 months of tour completion as an E-5, to remain onboard 
+for advancement. 
+             (a) CA2P is available for all E-4 and E-5 BBA Sailors 
+that are not within 12 months of their PRD, under orders or have 
+orders pending release.  BBA Sailors must be serving onboard a sea 
+duty activity (Type 2, 3 or 4) or a pre-commissioning activity that 
+has a current or projected billet vacancy in the next-higher 
+paygrade.  Shore CA2P will be considered for advancement eligible 
+Sailors that are assigned to a command with a valid, unencumbered 
+billet which is both aligned to that Sailors' rating and/or Navy 
+Enlisted Classification and in the next higher paygrade.  Sailors 
+approved for CA2P on shore duty are required to obligate service for 
+36-months beyond their advancement date.  Their PRD will not be 
+extended.  General duty billets at Recruit Training Command and on 
+Recruiter Duty must meet the vacant paygrade for a CA2P, but 
+requests will not be restricted to the source rating requirement. 
+CA2P requests will be submitted in MNA via a Member Realignment 
+Request. 
+              (b) Immediate Superiors in Command (ISIC), Type 
+Commanders (TYCOM) and Budget Submitting Offices may also submit 
+CA2P requests to move eligible BBA Sailors to another activity that 
+has a job available in the next higher paygrade.  These requests 
+should be within the same geographic location.  Requests will be 
+submitted in MNA via a Cross-deck or Comp-tour Personnel Manning 
+Action Request (PMAR).  Sailors moved from one shore duty activity 
+to another shore activity retain their original PRD and will not 
+have their shore tour extended. 
+              (c) CA2P requests may only be submitted in MNA scrub 
+phase and any request received at any other time will be held until 
+the next MNA Scrub Phase.  The MNA schedule is available at: 
+https://www.mynavyhr.navy.mil/Career-Management/Detailing/MyNavy-Assignment/. 
+        (3) BBA Sailors may be frocked once Obligated Service 
+(OBLISERVE) is achieved to meet the new assignment PRD and one of 
+the below elements occurs: 
+              (a) Hardcopy orders for the A2P are received. 
+              (b) Manning Realignment Request is approved in MNA for CA2P. 
+ 
+3.  SEM offers board screened Active Duty E-7 and E-8 Sailors the 
+opportunity to apply and be selected for an E-8 and E-9 job in the 
+next-higher paygrade.  SEM will be expanded to board screened E-6 
+Sailors selected for E-7 to apply and be selected for an E-7 job, 
+which will begin with the fiscal year 2026 CPO Board.  E-7 
+advancement cycle policies for EAW, exam ordering, NWAE 
+administration, and selection board eligibility determination remain 
+unchanged.  E-7 SEM will be executed the same as E-8 and E-9, with 
+the exception of the timeline for frocking.  E-7 Screened Sailors 
+will go through Chief Petty Officer initiation and frocked upon 
+completion of the six-week training and Capstone event.  If 
+eligible, Screened Sailors may remain eligible for Sea Duty 
+Incentive Pay (SDIP). 
+    a.  SEM Exemptions.  SEM does not apply to Command Senior 
+Enlisted Leader Program, Submarine, Nuclear, Musician (E-7 only), 
+Seal, Special Boat Operator, TAR and SELRES ratings. 
+    b.  SEM screening boards will operate in the same manner as 
+legacy selection boards, with the exception that each will provide a 
+list of Sailors screened as eligible to advance, with up to the top 
+15% of screened E-7s and E-8s designated as merit screened.  There 
+will be no merit screenings for E-6 Sailors successfully screened 
+for E-7.  Screened Sailors will have a DMEI applied to their MNA 
+record, which will allow them to apply for jobs in the next-higher 
+paygrade, regardless of PRD, Accounting Code (ACC) or order status. 
+Sailors have up to 24 months to be selected for a job in the next- 
+higher paygrade and if they are not selected, they must be 
+reevaluated by the next screening board.  Sailors who have lost 
+promotion recommendation must be reviewed by the next screening 
+board. 
+    c.  SEM advancement opportunities are advertised in MNA. 
+Sailors may submit up to seven applications per cycle; these may 
+include jobs in their current or next-higher paygrade.  Once all 
+applications are received, MNA will score each application and 
+Rating Detailers will review the candidates.  If the Sailor with the 
+highest SSC does not meet the pre-requisite skillsets of the billet 
+requirements, the Sailor with the next-highest score will be 
+evaluated for selection.  This review will continue until a 
+qualified Sailor is selected to fill the position.  Sailors selected 
+for advancement must obligate service for 36 months, pass any 
+applicable screening requirements and complete required billet 
+training enroute. 
+    d.  Sailors selected for a SEM opportunity in the next-higher 
+paygrade will normally complete a minimum of 12-months on board 
+their current activity.  If the losing activity needs to hold a 
+Sailor longer to support operational commitments, they may submit an 
+Operational Hold (OPHOLD) request for sea duty activities or an 
+Order Modification (ORDMOD) request for shore duty activities. 
+Approved OPHOLD or ORDMOD requests will delay the Sailors frocking 
+and advancement date. 
+    e.  SEM screened Sailors that are within the normal 12-month 
+order negotiation window may apply for jobs within their current or 
+next-higher paygrade.  Sailors that are not selected for a job in 
+the next-higher paygrade may be selected for a job within their 
+current paygrade, but they remain eligible to apply for jobs in the 
+next-higher paygrade, regardless of PRD, ACC or order status. 
+Sailors have up to 24-months to be selected for a job in the next- 
+higher paygrade and if not, they must be reevaluated by the next 
+screening board. 
+    f.  E-8/E-9 Sailors may be frocked once OBLISERVE is achieved to 
+meet the new assignment PRD and hardcopy orders for the advancement 
+are received.  E-8/E-9 Sailors that were previously directed 
+frocking 30 days before orders execution may be frocked once 
+OBLISERVE is achieved to meet the new assignment PRD and hardcopy 
+orders are for the advancement are received. 
+ 
+4.  BBA Assignment Limitations.  Sailors with assignment limitations 
+or considerations will have the ability to apply for BBA (A2P, CA2P, 
+and SEM) opportunities.  The following guidelines enhance MNA 
+behavior to increase Sailor choice and support overall operational 
+readiness.  These guidelines are in addition to, and not overriding, 
+overarching policy for each category. 
+    a.  Military Couple Colocation.  If both Sailors in a military 
+couple are advancement eligible and participating in the same MNA 
+cycle, the first Sailor that is selected for a job in the next- 
+higher paygrade becomes the lead Sailor in the assignment process. 
+The PRD for the spouse will be adjusted to match the lead Sailor's 
+anticipated transfer month, which will give the Sailor an 
+opportunity to continue to apply for an advancement that matches the 
+spouse's new duty location.  If the non-lead spouse is not selected 
+for an advancement opportunity, rating detailers will select the 
+Sailor for a job within the current paygrade in the lead spouse's 
+new duty location.  If eligible, the spouse may continue to apply 
+for an advancement opportunity.  Sea and shore rotation will be 
+considered in the assignment process for both spouses. 
+    b.  Assignments for less than 12 months.  Advancement-eligible 
+Sailors on a tour of less than 12 months may apply for a job in 
+their current or next-higher paygrade.  If they are not selected for 
+an advancement opportunity, they may be selected for an in-paygrade 
+job.  If the Sailor is unable to fill the billet within three months 
+of the orders' report date, orders will be canceled, and the Rating 
+Detailer will evaluate the circumstance.  Advancement eligible 
+Sailors may continue to apply for advancement opportunities in MNA, 
+regardless of their PRD, personnel ACC, or order status. 
+    c.  Operational limiting assignments for greater than 12 months. 
+Advancement-eligible Sailors may apply for a job in their current or 
+next-higher paygrade that they are eligible to fill at any time.  If 
+they are not selected for an advancement opportunity, they may be 
+selected for an in-paygrade job.  Sailors should be making 
+applications in MNA beginning no later than 12 months prior to their 
+PRD.  If the Sailor is unable to fill the billet within three months 
+of the orders' report date, orders will be canceled, and the Rating 
+Detailer will evaluate the circumstance.  Advancement eligible 
+Sailors may continue to apply for advancement opportunities in MNA, 
+regardless of their PRD, personnel ACC, or order status. 
+    d.  Exceptional Family Member (EFM).  Sailors that are assigned 
+as EFM will apply for orders for advancement within MNA.  Sailors 
+should consider their family care needs when applying.  Orders for 
+Sailor's enrolled in EFM will be routed through PERS-456 for review 
+to ensure that care is available in the new duty location.  If care 
+is not available, Sailors will need wait to reapply for an 
+advancement opportunity in the next MNA cycle.  Sailors within their 
+normal order negotiation window may be selected for in-paygrade jobs 
+that will satisfy their EFM needs and they may continue to apply for 
+advancement billets in MNA cycles until selected for an advancement 
+assignment. 
+    e.  Decommissioning Units.  Advancement eligible Sailors that 
+are assigned to a decommissioning unit that are eligible for 
+advancement may continue to apply for advancement opportunities via 
+MNA.  TYCOM and ISIC may submit CA2P requests in MNA via a Crossdeck 
+PMAR to activities within their area of responsibility. 
+    f.  Tour Extension Programs.  Overseas Tour Extension Incentive 
+Program, Consecutive Overseas Tour, and SDIP are applicable 
+incentive programs in line with references (l) through (n).  CA2P 
+advancements will incur a 36-month tour extension and allow one-time 
+use of benefits in accordance with selected option. 
+    g.  Legal Hold.  Sailors selected for A2P, CA2P or SEM who are 
+on legal hold, and not authorized to transfer within three months of 
+their estimated date of departure will have their orders cancelled. 
+Sailors will be able to renegotiate for an advancement opportunity 
+once the legal issue is resolved. 
+ 
+5.  SSC Updates.  SSC for both journey man and supervisors will be 
+evaluated annually and updates will be published in July each year. 
+SSC information is posted on the Detailing Marketplace website: 
+(https://www.mynavyhr.navy.mil/Career-
+Management/Detailing/Enlisted/Detailing-Marketplace/) 
+ 
+6.  Exception to Policy (ETP).  ETP requests will be submitted on 
+command letterhead, and requests must be signed by the requesting 
+Commanding Officer or Officer in Charge.  Each request will include 
+the unit identification code and billet sequence code requesting 
+consideration along with the reason why the special consideration is 
+requested.  Both the Sailor and the Commanding Officer or Officer in 
+Charge must agree on the ETP request.  If approved, Sailors must 
+obligate service for 36 months.  Sailors will have their PRDs 
+adjusted to meet tour requirements.  All SEM ETP requests must 
+include a Flag endorsement. 
+ 
+7.  For general questions on BBA contact bba.fct@navy.mil.  For 
+general career information, please contact the MyNavy Career Center 
+at 833-330-MNCC (6622) or askmncc@navy.mil.  For questions or 
+clarification on the SEM, contact srenlistedmarket.fct@navy.mil. 
+ 
+8.  This message will remain in effect until superseded or canceled. 
+ 
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED//
