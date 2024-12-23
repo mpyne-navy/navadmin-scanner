@@ -1,0 +1,59 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 231814Z DEC 24 MID120001661124U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 258/24
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//00//
+INFO CNO WASHINGTON DC//00//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/NAVY COMPREHENSIVE INTEGRATED PRIMARY PREVENTION PLAN UPLOADS FOR THE 
+CALENDAR YEAR 24 COMMAND CLIMATE ASSESSMENT CYCLE//
+
+REF/A/MSG/CNO WASHINGTON DC/ 012115ZAUG24// REF A IS NAVADMIN 152/24, CY24 
+COMMAND CLIMATE ASSESSMENTS.//
+
+AMPN/RMKS/1.  This NAVADMIN modifies requirements to paragraphs 6 and 8 of 
+reference (a) regarding uploads of the Navy Comprehensive Integrated Primary 
+Prevention (N-CIPP) Plan for the Calendar Year
+(CY) 2024 Command Climate Assessment (CCA) cycle.
+
+2.  In accordance with reference (a), every command that completes a CCA is 
+required to create a N-CIPP plan and adhere to Immediate Superior in Command 
+(ISIC) debrief requirements.  However, due to system limitations of the 
+Defense Climate Portal (DCP), only Command Climate Specialists (CCS) assigned 
+to echelon 2 commands will be authorized to upload N-CIPP plans to this 
+portal for the CY24 cycle.
+
+3.  Echelon 2 CCS' will be contacted directly via email by the Navy Culture 
+and Force Resilience Office (OPNAV N17) to receive upload privileges in the 
+DCP and specific guidance on selecting and uploading completed N-CIPP plans 
+for a representative subset of up to 12 lower echelon commands.
+
+4.  All commands will submit completed N-CIPP plans via email to 
+CCA.NCIPP.fct@navy.mil by 31 January 2025, and must include their ISIC on the 
+correspondence.  The N-CIPP Plan will be a single PDF file with a naming 
+convention of "UIC_N-CIPP_Plan_2024" for both the filename and the subject 
+line of the email.
+
+5.  For additional information, please contact the OPNAV Integrated Primary 
+Prevention program mailbox, OPNAV_IPP@navy.mil.
+
+6.  This NAVADMIN will remain in effect for the CY24 CCA cycle.
+
+7.  Released By Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+

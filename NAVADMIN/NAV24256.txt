@@ -1,0 +1,199 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 202204Z DEC 24 MID120001656830U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+UNCLAS
+
+NAVADMIN 256/24
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/DEC//
+
+SUBJ/INTEGRATED PRIMARY PREVENTION WORKFORCE//
+
+REF/A/MSG/11MAR24//
+REF/B/DOC/DODI/11SEP20//
+REF/C/DOC/DODI/20DEC22//
+REF/D/DOC/OPNAV/5354.1H/03NOV21//
+REF/E/DOC/NAVADMIN 152/24/
+REF A IS NAVADMIN 051/24, CULTURE OF EXCELLENCE 2.0.
+REF B IS DODI 6400.09, INTEGRATED PRIMARY PREVENTION OF SELF- DIRECTED 
+HARM AND PROHIBITED ABUSE OR HARM.  
+REF C IS DODI 6400.11, INTEGRATED PRIMARY PREVENTION POLICY FOR 
+PREVENTION WORKFORCE AND LEADERS.  
+REF D IS OPNAVINST 5354.1H, NAVY HARASSMENT PREVENTION AND MILITARY EQUAL 
+OPPORTUNITY PROGRAM.  
+REF E IS NAVADMIN 152/24, REVISIONS TO COMMAND CLIMATE ASSESSMENTS.//
+
+RMKS/1.  This NAVADMIN provides implementation and execution guidance for 
+Navy's Integrated Primary Prevention Workforce (IPPW), summarizes roles 
+and responsibilities, and outlines leader expectations.  Phase-in of the 
+IPPW will be complete at the end of Fiscal Year (FY) 2028, at which time 
+the IPPW will be able to support all commands that conduct their own 
+Command Climate Assessments (CCA).  IPPW personnel will be assigned to 
+multiple units within their area of responsibility to provide 
+consultative support.
+
+2.  Navy strives to build tough and resilient teams ready to fight and 
+win.  As detailed in reference (a), Culture of Excellence 2.0 is the 
+foundation by which the Navy builds Great People, Leaders, and Teams.  
+The IPPW, along with Command Climate Specialists (CCS), Command 
+Resilience Teams (CRT), Command Managed Equal Opportunity (CMEO) Program 
+Managers and other prevention stakeholders, will support commands in 
+setting, building, and assessing the foundation to foster healthy command 
+climates.  Reference (b) outlines the Department of Defense's (DoD) 
+holistic approach for primary prevention of self-directed harm and 
+prohibited abusive or harmful acts.  Reference (c) establishes and 
+implements policy, assigns responsibilities, prescribes procedures, and 
+identifies requirements for addressing primary prevention of harmful 
+behaviors and established roles, requirements, training, and education 
+standards for prevention personnel.
+
+3.  Navy is phasing in the hiring of ashore and afloat civilian IPPW 
+positions to ensure infrastructure is in place across the Fleet, and to 
+test fully manned proof-of-concept locations.
+    a.  IPPW positions are:  Integrated Prevention Coordinators
+(IPC) assigned to Fleets, Type Commands (TYCOM), Regional Commanders, and 
+Installation Commanders, as well as Embedded IPCs
+(EIPC) (afloat assets).  IPCs are also appointed at Reserve Force
+(RESFOR) commands.  Commander, Naval Installations Command (CNIC) 
+oversees installation-based IPCs and EIPCs.
+    b.  The Regional IPCs are the primary conduit to the installation 
+level IPCs. Fleet, TYCOM and operational Reserve component IPCs will 
+coordinate with Regional IPCs to ensure information sharing and 
+coordination with installation level IPCs.
+    c.  Position titles and core roles and responsibilities for position 
+descriptions are standardized across organizational levels within both 
+Active Duty and Reserve Forces for consistency across the Navy.
+
+4.  Overarching roles and responsibilities of the IPPW:
+    a.  Strategic Level (Office of the Chief of Naval Operations (OPNAV), 
+Fleet Staffs, Commander, Naval Reserve Force (CNRF), and Commander, Naval 
+Installations Command (CNIC)) will:
+        (1)  Develop guidance and policy for execution at all levels 
+based on primary prevention research and in collaboration with other 
+strategic level stakeholders.
+        (2)  Conduct robust primary prevention research to develop 
+training materials, develop policy and guidance, and inform leadership 
+and stakeholders.
+        (3)  Collect and analyze data on the implementation and 
+evaluation of prevention activities.
+        (4)  Translate findings into policy and guidance.
+        (5)  Utilize data to prioritize and gauge prevention efforts and 
+resource needs to inform Navy Comprehensive Integrated Primary Prevention 
+(N-CIPP) plans, which will be comprised of CCA Command Executive 
+Summaries and Plans of Actions and Milestones (POAMs).
+        (6)  Grant Defense Climate Portal access to certain IPPW 
+personnel based on roles and responsibilities (by designated strategic 
+level IPPW personnel).
+        (7)  Connect resources to meet identified need areas.
+        (8)  Collaborate with stakeholders where it aligns with roles and 
+responsibilities.
+        (9)  Provide tools and technical assistance to operational IPCs, 
+commands, and hiring managers to expand knowledge of primary prevention 
+frameworks and programming.
+        (10)  Advise strategic level leadership.
+        (11)  Facilitate collaboration among operational IPCs.
+        (12)  Comply with Level 5 credentialing, training, and education 
+requirements, and submit an application to the DoD Credentialing Program 
+for Prevention Personnel (D-CPPP) within 90 days of onboarding.
+    b.  Operational Level (TYCOMs, CNIC Regions, Commander, Naval Air 
+Force Reserve and Commander, Navy Reserve Forces Command, Commander, 
+Naval Information Force Reserve) will:
+        (1)  Coordinate activities and provide tools and technical 
+assistance to ensure prevention activities at the tactical level are 
+aligned with strategic guidance.  Operational level IPCs will provide 
+strategic guidance within their area of responsibility and act as 
+consultants, advising leadership, analyzing data, and collaborating with 
+key stakeholders.  Coordination across operational level IPCs is required 
+to ensure tactical level IPCs receive necessary support.
+        (2)  Apply strategic guidance to organizational sphere of 
+influence.
+        (3)  Provide tools and technical assistance to prevention 
+professionals at the tactical level.
+        (4)  Utilize data to prioritize and gauge prevention efforts and 
+resource needs to inform N-CIPP plans.
+        (5)  Collect and analyze data on the implementation and 
+evaluation of prevention activities.
+        (6)  Develop and oversee prevention program activities and 
+budgets.
+        (7)  Collaborate with stakeholders where it aligns with roles and 
+responsibilities.
+        (8)  Connect resources to meet identified need areas.
+        (9)  Advise operational level leadership.
+        (10)  Comply with Level 4 credentialing, training, and education 
+requirements, at a minimum, and submit an application to the D-CPPP 
+within 90 days of onboarding.  Additional training can be sought with 
+supervisor approval.
+    c.  Tactical Level (Installations, Reserve Region Readiness and 
+Mobilization Commands (REDCOM), and EIPCs) will:
+        (1)  Execute the primary prevention process and work with Command 
+Triads, CCSs, CRTs, Family Readiness Programs, and other prevention 
+enablers.  These IPCs make up the installation and REDCOM based 
+workforce.  In the absence of tactical level IPCs, additional prevention 
+enablers, such as the CCS/CMEO Program Managers, will collaborate with 
+Regional IPCs to provide assistance when available and appropriate.
+        (2)  EIPCs are tactical level afloat assets whose 
+responsibilities include consultation to leadership and support of 
+implementation of prevention activities.  EIPCs support afloat and 
+waterfront primary prevention activities and programming.
+        (3)  Utilize data to prioritize and gauge prevention efforts and 
+resource needs and inform unit level CCA, for the N-CIPP plan.
+        (4)  In collaboration with CRTs, collect and analyze command 
+needs assessment data in order to adapt, implement, and evaluate 
+prevention activities.  IPCs will not be assigned as mandatory members of 
+the CRT.
+        (5)  Collaborate with stakeholders where it aligns with roles and 
+responsibilities.
+        (6)  Advise tactical level leadership.
+        (7)  Comply with Level 3 credentialing, training, and education 
+requirements, at a minimum, and submit an application to the D-CPPP 
+within 90 days of onboarding.  Additional training can be sought with 
+supervisor approval.
+
+5.  The IPPW will assist commanders in setting, building, and assessing 
+the foundation for healthy climates by working with leaders to overcome 
+barriers to readiness and enhance protective factors in their 
+organization.  In line with references (b) and (c), leaders will:
+    a.  Support implementation of the IPPW in line with standardized 
+roles and responsibilities to allow for meaningful evaluation of the 
+workforce.
+    b.  Ensure IPPW personnel are fully integrated into the organization.
+    c.  Provide access to appropriate resources and professional 
+development opportunities to meet training and credentialing 
+requirements.
+    d.  Ensure access to required data to include CCA and DEOCS results.
+    e.  Develop and leverage collaborative relationships to facilitate 
+prevention activities.
+    f.  Support implementation of research-based prevention activities.
+    g.  Ensure fully operating CRTs, in line with reference (d).  In line 
+with reference (e), the CRT will administer the CCA for the organization 
+and will collaborate with IPPW personnel in their consultative support 
+for CCAs and N-CIPP plans in their areas of responsibility.
+
+6.  Resources and tools, such as the Senior Leader Toolkit, are available 
+at https://www.prevention.mil/  Training, credentialing, and education 
+requirements for IPPW personnel can be found on the MyNavy HR Site.  For 
+additional information contact the OPNAV integrated primary prevention 
+program mailbox, OPNAV_IPP@navy.mil, the CNIC integrated primary 
+prevention mailbox, cnic.ipp.hq@us.navy.mil, or the CNRF integrated 
+primary prevention mailbox, CNRF_IPP@us.navy.mil.
+
+7.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+8.  Released By Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
