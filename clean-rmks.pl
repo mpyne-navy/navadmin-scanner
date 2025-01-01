@@ -103,10 +103,10 @@ sub read_navadmin($path)
 
     if ($result) {
         my $newpath = $path->to_string;
-        $newpath =~ s,\.txt$,.ctxt,; # c for canonical
+        $newpath =~ s,(\.txt)+$,.ctxt,; # c for canonical
 
         my $newfile = Mojo::File->new($newpath);
-        $newfile->spurt($result);
+        $newfile->spew($result);
         $content = $result;
     }
 

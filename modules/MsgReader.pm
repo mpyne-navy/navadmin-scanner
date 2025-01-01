@@ -118,7 +118,7 @@ sub decode_msg_head($head)
     my $set_field = sub($field, $payload) {
         my $val = $trim->($payload);
 
-        if ($field eq 'REF') {
+        if ($field eq 'REF' || $field eq 'RED') {
             my ($id, $info) = split(/\//, $val, 2);
             push @{$fields{REF}}, { id => $id, text => $info };
         } elsif ($field eq 'NARR' || $field eq 'AMPN') {
