@@ -40,7 +40,9 @@ $cross_refs = Mojo::JSON::decode_json($cross_ref_data);
 
 # Find known NAVADMINs and build up data mapping for later
 foreach my $file (glob("NAVADMIN/NAV*.txt")) {
-    my ($twoyr, $id) = ($file =~ m/^NAVADMIN\/NAV([0-9]{2})([0-9]{3})\.txt$/);
+
+    # The double .txt happens on some of the very earliest NAVADMINs.
+    my ($twoyr, $id) = ($file =~ m/^NAVADMIN\/NAV([0-9]{2})([0-9]{3})(?:\.txt)?\.txt$/);
 
     if (!($twoyr && $id)) {
         app->log->debug("Skipping $file!");
@@ -179,6 +181,8 @@ get '/NAVADMIN/:id/:twoyr'
 
     my $name = "NAVADMIN/NAV$twoyr$id.ctxt";
     $name = "NAVADMIN/NAV$twoyr$id.txt"
+        unless -e "$name";
+    $name = "NAVADMIN/NAV$twoyr$id.txt.txt" # rare but happens with early NAVADMINs
         unless -e "$name";
 
     return $c->reply->not_found
