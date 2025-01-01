@@ -59,10 +59,10 @@ sub split_up_navadmin($text)
 #       say "cur line: $line (", scalar @lines, " more to read)";
 
         if ($in_head && (
-                $line =~ m,^(GENTEXT/)?[rR][mM][kK][sS]/, ||
+                $line =~ m,^(AMPN/|GENTEXT/)?[rR][mM][kK][sS]/, ||
                 $line =~ m,^(GENTEXT/)?REMARKS/,          ||
                 # maybe they just started with the text...
-                $line =~ m,^RMKS1\.,                      ||
+                $line =~ m,^RMKS *1\.,          ||
                 $line =~ m,^1\.,
             ))
         {
@@ -146,6 +146,14 @@ sub decode_msg_head($head)
             }
         } else {
             $val =~ s,//$,,; # Remove any stray trailing slashes still stuck on
+            if ($field eq 'NAVADMIN' && $val =~ m,^0[0-9]/[0-9]+$,) {
+                my ($id, $yr) = split('/', $val, 2);
+
+                # if not 3 digits, make it so
+                if ($id !~ /^[0-9]{3}$/) {
+                    $val = sprintf("%03d/%02d", int($id), int($yr));
+                }
+            }
             $fields{$field} = $val;
         }
     };
