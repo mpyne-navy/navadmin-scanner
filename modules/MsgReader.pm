@@ -122,7 +122,7 @@ sub decode_msg_head($head)
             my ($id, $info) = split(/\//, $val, 2);
             push @{$fields{REF}}, { id => $id, text => $info };
         } elsif ($field eq 'NARR' || $field eq 'AMPN') {
-            my @refs = split(/REF ([A-Z]+) /, $val);
+            my @refs = split(/R[eE][fF](?:ERENCE)? ([A-Z]+) /, $val);
             # this should give us a result like '', 'A', 'IS NAVADMIN 304/17', 'B', etc.
 #           say STDERR encode_json(\@refs);
             if (((scalar @refs) % 2) != 1 || $refs[0] ne '') {
