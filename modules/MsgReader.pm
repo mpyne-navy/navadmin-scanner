@@ -145,6 +145,7 @@ sub decode_msg_head($head)
                 $set_ref_ampn->(uc $ampn_id, $ampn);
             }
         } else {
+            $val =~ s,//$,,; # Remove any stray trailing slashes still stuck on
             $fields{$field} = $val;
         }
     };
