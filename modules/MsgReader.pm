@@ -122,7 +122,7 @@ sub decode_msg_head($head)
             my ($id, $info) = split(/\//, $val, 2);
             push @{$fields{REF}}, { id => $id, text => $info };
         } elsif ($field eq 'NARR' || $field eq 'AMPN') {
-            my @refs = split(/R[eE][fF](?:ERENCE)? ([A-Z]+) /, $val);
+            my @refs = split(/R[eE][fF](?:(?i)ERENCE)? \(?([A-Za-z]+)\)? /, $val);
             # this should give us a result like '', 'A', 'IS NAVADMIN 304/17', 'B', etc.
 #           say STDERR encode_json(\@refs);
             if (((scalar @refs) % 2) != 1 || $refs[0] ne '') {
@@ -142,7 +142,7 @@ sub decode_msg_head($head)
                 $ampn =~ s/^IS //i; # Sometimes not present...
                 $ampn =~ s/^THE NAVADMIN/NAVADMIN/i; # sigh
                 $ampn =~ s/,.*$//;  # Remove anything after a comma if present
-                $set_ref_ampn->($ampn_id, $ampn);
+                $set_ref_ampn->(uc $ampn_id, $ampn);
             }
         } else {
             $fields{$field} = $val;
@@ -195,7 +195,7 @@ sub decode_msg_head($head)
             }
 
             # Check for things like SUBJ//blah blah// (first // should be /)
-            $line =~ s,^([A-Z]+)//([A-Z]),\1/\2,;
+            $line =~ s,^([A-Z]+)// ?([A-Z]),\1/\2,;
 
             # Got the whole field here, read it
             my ($field, $payload) = split(/ *\/ */, $line, 2);
