@@ -1,0 +1,160 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 221532Z JAN 25 MID120001696544U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 009/25
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/FISCAL YEAR 2026 RESERVE COMPONENT ENLISTED ADVANCEMENT SELECTION BOARDS 
+FOR COMMAND MASTER CHIEF, MASTER CHIEF AND SENIOR CHIEF PETTY OFFICER//
+
+REF/A/DOC/BUPERS/07FEB22//
+REF/B/MSG/CNO WASHINGTON DC/031621ZOCT23
+REF/C/MSG/CNO WASHINGTON DC/201421ZNOV23//
+REF/D/DOC/MILPERSMAN/14JUN18//
+REF/E/MSG/CNO WASHINGTON DC/142115ZSEP23//
+REF/F/MSG/CNO WASHINGTON DC/271415ZSEP19//
+
+NARR/REF A IS BUPERSINST 1430.16G CH-1, ADVANCEMENT MANUAL FOR ENLISTED 
+PERSONNEL OF THE U.S. NAVY AND U.S. NAVY RESERVE.  
+REF B IS NAVADMIN 237/23, UPDATES TO THE NAV Y ENLISTED LEADER DEVELOPMENT 
+PROGRAM.  
+REF C IS NAVADMIN 277/23, HIGH YEAR TENURE PLUS PILOT INDEFINITE EXTENSION.  
+REF D IS MILPERSMAN 1220-040, SUBMARINE QUALIFICATIONS DESIGNATION FOR 
+ENLISTED MEMBERS.  
+REF E IS NAVADMIN 217/23, UNITED STATES NAVY SENIOR ENLISTED ACADEMY UPDATE.  
+REF F IS NAVADMIN 220/19, ELECTRONIC SUBMISSION OF LETTERS TO PROMOTION AND 
+SELECTION BOARD THROUGH MYNAVY PORTAL.//
+
+RMKS/1.  This NAVADMIN provides guidance for eligibility and communication to 
+the boards for the Fiscal Year (FY) 2026 Reserve Enlisted Advancement 
+Selection Boards for Command Master Chief (CMDCM), Master Chief Petty Officer 
+(E9) and Senior Chief Petty Officer (E8) (Cycle 265).  The boards will 
+consider Training and Administration of the Reserve (TAR) and Selected 
+Reserve (SELRES) Sailors.  Mobilized Individual Ready Reserve (IRR) personnel 
+are considered under the SELRES requirements for advancement.
+
+2.  Examination Status Verification Reports (ESVR) will be available on the 
+Navy Enlisted Advancement System (NEAS) website 
+https://neas.ncdc.navy.mil/Login
+or via MyNavy Portal (MNP) at https://mn3p.navy.mil/
+.  Select "Advancement Profile Sheet - ESO" under "NEAS Resources".
+
+3.  Command Senior Chief (CMDCS) Candidates for CMDCM Timeline:
+    a.  26 January 2025, 2359 CST.  Letter to the Board (LTB) deadline.
+    b.  6 February 2025.  Board convenes.
+    c.  7 February 2025.  Board adjourns.
+
+4.  E8 and E9 (In rate) Timeline:
+    a.  10 February 2025.  Change of rating deadline.
+    b.  10 February 2025.  Chief Petty Officer Leader Development Course 
+(CPO-LDC) deadline.
+    c.  10 February 2025.  Senior Enlisted Academy (SEA) deadline for E9 
+candidates.
+    d.  27 February 2025, 2359 CST.  LTB deadline.
+    e.  10 March 2025.  Board convenes.
+    f.  21 March 2025.  Board adjourns.
+
+5.  Eligibility Criteria.  Candidates must meet and maintain the eligibility 
+requirements outlined in chapters 2 and 11 of reference
+(a) and this NAVADMIN prior to the board convening date through the 
+adjournment of the board.  Enlisted Master File and Navy Standard Integrated 
+Personnel System (NSIPS) (SELRES) are the authoritative sources.  Refer to 
+paragraph 616 of reference (a) for candidate validation procedures.  
+Eligibility requirements include:
+    a.  The name of the candidate appears on the selection board eligibility 
+list in the correct competitive group on their profile sheet.  Sailor access 
+to profile sheets are available via MNP at https://mn3p.navy.mil/
+.  Select "Advancement Profile Sheet - Individual"
+under "NEAS Resources".  Candidates should register for e-mail notification 
+for profile sheet updates via MNP.  Select "Advancement Profile Sheet - 
+Individual email notification" under "NEAS Resources".  Information may 
+change on a weekly basis and both commands and Sailors should continue to 
+verify.
+    b.  Enlisted Leader Development course completion is a required 
+prerequisite to be eligible for selection to E8 in line with reference (b).  
+E8 candidates must complete the CPO-LDC.  Sailors who have completed the 
+course should verify their Electronic Service Record (ESR) has been updated 
+with the 8LDC Navy Enlisted Classification (NEC).  If ESR does not reflect 
+8LDC NEC, submit certification of completion via LTB.
+    c.  Terminal eligibility date: 1 October 2025.
+    d.  Time-In-Rate date
+        (1) for E8:  On or before 1 September 2022.
+        (2) for E9:  On or before 1 July 2022.
+    e.  High Year Tenure (HYT).
+        (1) In line with reference (c), HYT Plus remains available to all 
+SELRES paygrades with the exception of SELRES CMDCMs and SELRES CMDCSs as 
+well as TAR E9s and CMDCSs.
+        (2) HYT date or approved HYT waivers for SELRES CMDCMs and CMDCSs as 
+well as TAR E9s and CMDCSs is 1 July 2025 or later.
+        (3) Reference (c) should be read in its entirety.
+    f.  Sailors with an approved or disapproved Fleet Reserve or retirement 
+request prior to the board convene date will need to closely monitor 
+eligibility.  Commands and candidates must request revalidation based on 
+request adjudication by sending an e-mail with the reason for revalidation to 
+Selection Board Eligibility Branch (PERS-802).
+    g.  Security clearance requirements (if required).  Refer to chapter 2 of 
+reference (a).  Ratings requiring a security clearance are AC, AE, AG, AO, 
+AT, AWF, AWO, AWR, AWS, AZ, CTI, CTR, CTT, CWT, EOD, ET, ETV, FC, FCA, GM, 
+HT, IS, IT, ITR, ITN, LN, MA, MC, MMA, MN, ND, OS, QM, SB, SO, STG, STS, and 
+YN.
+    h.  Rate specific and competitive group eligibility requirements.  
+Candidates must meet special requirements for certain ratings, as outlined in 
+paragraph 203 of reference (a).
+    i.  Refer to reference (d) for non-nuclear submarine Sailors designations 
+for advancement eligibility.
+    j.  SEA course completion is a required prerequisite to be eligible for 
+selection to E9 in line with reference (e).  Sailors who have completed the 
+course should verify their ESR has been updated with the 8SEA NEC.  If ESR 
+does not reflect 8SEA NEC, submit certificate of completion via LTB.
+
+6.  Competitive Groups.  The below listed rating is separated into 
+competitive groups for candidates in the TAR component:
+         NC (TAR):  Career Recruiter - Group 1, Fleet - Group 2.
+
+7.  For record review and communication with selection board, refer to 
+reference (f).  Board numbers are: 212 (SELRES CMDCM), 213 (TAR CMDCM), 205 
+(SELRES E8 and E9) and 206 (TAR E8 and E9).  LTBs should be submitted via the 
+Electronic Submission of Selection Board Documents (ESSBD).  If unable to use 
+ESSBD and for more information on LTBs, visit the following link:
+ https://www.mynavyhr.navy.mil/Career-Management/Boards/Reserve-
+Enlisted/General-Information/
+
+8.  Board results will be posted via BUPERS Online and released by subsequent 
+NAVADMIN.  Board selectee profile sheets will be published by Naval Education 
+and Training Professional Development Center (NETPDC) via NEAS and MNP 
+websites within 30 days of selection board results being released.
+
+9.  Additional information regarding this cycle is available on the MyNAVY HR 
+website at
+.
+
+10.  Points of Contact (Do not utilize to submit LTBs): 
+https://www.mynavyhr.navy.mil/Career-Management/Boards/Reserve-Enlisted/
+    a.  MyNavy Career Center, (833) 330-6622 or via e-mail at 
+askmncc@navy.mil.
+    b.  Board eligibility concerns, including BUPERS INVAL profile sheet 
+status: Selection Board Eligibility Branch (PERS 802):  (901)- 874-4537/DSN 
+882 or via e-mail at NPC_enlisted_selbd_elig.fct@navy.mil.
+    c.  NETPDC (N321), (850) 473-6148/DSN 753 or via e-mail at 
+usn.pensacola.netpdc.mbx.netpdc-n321-discrepancies@us.navy.mil.
+
+11.  This message will remain in effect until superseded or cancelled.
+
+12.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+

@@ -1,0 +1,67 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 221709Z JAN 25 MID120001696899U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+
+NAVADMIN 012/25
+
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/NAVFIT MODERNIZATION (CORRECTED COPY)//
+
+REF/A/MSG/CNO WASHINGTON DC/201951ZNOV23//
+
+AMPN/REF A IS NAVADMIN 279/23, NAVFIT98A AVAILABILITY AS ALTERNATIVE TO 
+ENAVFIT.
+
+RMKS/1.  This NAVADMIN announces the discontinuation of eNavFit and the 
+modernization of NAVFIT98A for all Navy performance evaluations and fitness 
+reports.  The NAVFIT modernization will meet the performance evaluation needs 
+of Sailors at sea and ashore.  The modernization updates include NAVFIT98A 
+functionality in Microsoft Office 365 (O365) and auto-validation tools to 
+reduce submission errors and rejection rates.  It is scheduled to incorporate 
+the upcoming revised Chief Petty Officer Evaluation in the spring of 2025.
+
+2.  Effective 1 May 2025, eNavFit will no longer be available for Fleet use.  
+Thanks to the valuable feedback from Sailors and a culture of learning 
+throughout eNavFit development, the Navy is able to consolidate performance 
+evaluation needs and services into a single platform:  a modernized and more 
+capable NAVFIT98A.
+
+3.  Commands should not start any evaluations or fitness reports in eNavFit 
+after 15 March 2025 and must ensure all eNavFit performance appraisals are 
+completed and submitted to Performance Evaluations Division Director (PERS-
+32) before 15 April 2025.
+
+4.  NAVFIT98A version 32 is being released Fleet-wide in January
+2025 and will be compatible with both O365 and all workstations used by 
+Sailors Service-wide.
+
+5.  Beginning 1 April 2025, all evaluations and fitness reports are to be 
+completed in NAVFIT98A version 32.  This new version combines the useful 
+functionality of eNavFit, making it more user-friendly.
+It also contains updated business rules that will significantly reduce the 
+number of rejected reports received by Navy Personnel Command.
+
+6.  For questions concerning NAVFIT98A, contact the MyNavy Career Center at 
+(833) 833-6622 or via e-mail at askmncc@navy.mil.
+
+7. This NAVADMIN will remain in effect until superseded or cancelled, 
+whichever occurs first.
+
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+
+CLASSIFICATION: UNCLASSIFIED//
+
