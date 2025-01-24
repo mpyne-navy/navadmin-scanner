@@ -1,0 +1,179 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 231846Z JAN 25 MID120001699830U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 013/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N093//
+INFO CNO WASHINGTON DC//N093//
+
+MSGID/GENADMIN/CNO WASHINGTON DC/N093//
+
+SUBJ/CORRECTED COPY CHANGES TO SPECIAL DUTY WAIVER PROCESSING//
+
+REF/A/MANUAL OF THE MEDICAL DEPARTMENT (MANMED), NAVMED P-117 OF 21 APR 23//
+
+AMPN/REF A IS MANMED, NAVMED P-117 UPDATED ON 21 APR 23.
+
+RMKS/1.  The Chief of Bureau of Medicine and Surgery (BUMED) convened a 
+Critical Action Process Improvement Team (CAPIT) to support Naval Service 
+Training Command in making immediate and long-term improvements to Special 
+Duty Waiver
+(SDW) processes and eliminate the backlog of medical holds in the future 
+fleet at Recruit Training Command, and at any other accession point (i.e. U.S 
+Naval Academy, Reserve Officer Training Corps, etc.).  This memo addresses 
+SDW processes for those communities that fall within undersea medicine.  
+Aviation special duty waiver processes are being reviewed and will be 
+provided by separate message.
+
+2.This NAVADMIN implements changes to processes to improve timeliness and 
+maximize resources in support of SDW process.
+
+3.Procedures for all Undersea Medical Officers (UMO), Undersea Medical 
+Examiners (UME) performing accession physicals for special duty.
+a.  UMO, UME examine the applicant in accordance with MANMED Chapter 15 and 
+make a determination of "Physically Qualified (PQ)" or "Not Physically 
+Qualified (NPQ)".
+(1) In the case of conditions approved for a General Duty Waiver (GDW) by an 
+appropriate waiver authority which do not meet NPQ criteria for Special Duty, 
+no SDW is required.  The reviewing UMO/UME should document on the DD2808 the 
+date and serial of the GDW letter, statement of evidence, and notation of 
+"Physically Qualified" or "PQ".  Appropriate records keeping supporting 
+continuous process improvement and quality assurance efforts should be 
+maintained to update practice standards.
+(2) Through appropriate and full medical review of GDW package, UMO/UME may 
+find accession candidates physically qualified if they meet the following 
+criteria SDW submission and/or evaluation by a mental health provider is not 
+required in these situations:
+(a) Attention Deficit Hyperactivity Disorder diagnosed prior to age 14 in 
+absence of ongoing treatment/support for at least the last 12 months and no 
+co-morbid
+mental health diagnoses.   Must have confirmation from most recent academic
+institution attended that no accommodations were provided.
+(b) Unipolar depression or anxiety disorder for less than 12 months with no 
+symptoms or treatment in the previous 36 months and absent a history of 
+suicidal ideation or psychiatric hospitalization.
+(c) Learning disorder diagnosis in absence of academic or behavioral concerns 
+in the prior two years.  Must have confirmation from most recent academic 
+institution attended that no accommodations were provided for at least the 
+last 12 months.
+(3) The following diagnoses, listed by each special duty category, are not 
+appropriate for waivers. If, after careful record review, the UMO/UME 
+substantiates any of these diagnoses among accession candidates, no further 
+workup of other preexisting conditions is required and the candidate should 
+be deemed NPQ for the associated Special Duty.  UME/UMO will generate 
+abbreviated DQ package with
+SF600 which references this message and sends directly to the appropriate 
+BUPERS code for final determination (do not send through BUMED).  These 
+criteria were developed by BUMED N10F2 in coordination with the appropriate 
+TYCOMS and communities.
+(a) Dive Duty:
+1 Chronic eustachian tube dysfunction or inability to equalize middle ear 
+pressure
+2 Active or unresolved asthma
+3 Cystic or cavitary disease of the lungs
+4 Inability to correct vision to at least 20/25 in one eye
+5 Hypertrophic cardiomyopathy
+6 Hereditary disorders of coagulation
+7 Chronic immune suppression
+8 Current seizure disorder or 2 or more atraumatic seizures after the age of 
+6
+9 Chronic or recurrent alcoholism
+10 Illicit drug abuse (non-cannabinoid)
+11 History of psychosis to include schizophrenia
+12 Recurrent syncope including secondary to vagal disorder
+13 Prior suicide attempt with lethal means (i.e. involving a noose or 
+firearms or cutting wrists or ingesting poison or overdosing with an 
+extremely large quantity of medication [e.g. >30 pills of acetaminophen]
+(b) Special Operations Duty:
+1 Abnormalities preventing use of required equipment (i.e. facial deformities 
+and use of mask, regulator, etc.)
+2 Depth perception out of standards
+3 Current asthma
+4 History of spontaneous pneumothorax
+5 Hypertrophic cardiomyopathy
+6 Hereditary disorders of coagulation
+7 Chronic inflammatory gastrointestinal disease, such as Crohn's disease, 
+ulcerative colitis, celiac sprue
+8 History of bariatric surgery
+9 History of diverticulitis
+10 Chronic or active hepatitis
+11 Any history of diabetes mellitus
+12 Chronic use of corticosteroids
+13 History of suicide attempt (any)
+14 Current seizure disorder or 2 or more atraumatic seizures after the age of 
+6
+15 Cerebrovascular disease
+16 Chronic virus (except skin, e.g., herpes simplex)
+17 Chronic immune insufficiency of any cause, chronic anemia, abnormal 
+hemoglobin with anemia (excludes sickle cell trait, alpha thalassemia trait 
+or beta thalassemia trait), and defects of platelet function or coagulability 
+are disqualifying
+18 Chronic or recurrent alcoholism
+19 Drug abuse
+20 History of psychosis including schizophrenia
+21 Recurrent syncope including secondary to vagal disorder
+22 Food allergy with anaphylaxis
+(c) Submarine Duty:
+1 Food allergy resulting in anaphylaxis
+2 Cholelithiasis confirmed with radiologic study
+3 Insulin dependent diabetes mellitus
+4 Non-insulin dependent diabetes mellitus requiring more than 2 meds for 
+control
+5 Symptomatic diverticular disease, uncorrected
+6 Eosinophilic esophagitis with abnormal biopsy results after treatment
+7 History of retinal detachment
+8 Color blindness unless designated for YN, CS, HM, or LN rates (as per 
+MANMED Chapter 15 Section 106)
+9 Complicated peptic ulcer disease
+10 Recurrent urolithiasis with retained stones
+11 Prior suicide attempt with lethal means (i.e. involving a noose or 
+firearms or cutting wrists or ingesting poison or overdosing with an 
+extremely large quantity of medication [e.g. >30 pills of acetaminophen]
+12 Recurrent or refractory suicidality
+13 Major depressive disorder currently on medications started in past 12 
+months
+14 History of major depressive disorder associated with an inpatient 
+psychiatric hospitalization in the past 3 years
+15 Confirmed bipolar disorder (any)
+16 Confirmed personality disorders
+17 Asthma: other than mild intermittent
+18 History of spontaneous pneumothorax
+19 Chronic or recurrent alcoholism
+20 Any illicit drug abuse (non-cannabinoid)
+21 History of psychosis including schizophrenia or major depressive disorder 
+with psychotic features
+(d) Nuclear Field Duty:
+1 Color blindness (as per MANMED Chapter 15 Section 103)
+2 Prior suicide attempt with lethal means (i.e. involving a noose or firearms 
+or cutting wrists or ingesting poison or overdosing with an extremely large 
+quantity of medication [e.g. >30 pills of acetaminophen]
+3 Recurrent or refractory suicidality
+4 Major depressive disorder currently on medications started in past 12 
+months
+5 History of major depressive disorder associated with an inpatient 
+psychiatric hospitalization in the past 3 years
+6 Confirmed bipolar disorder (any)
+7 Confirmed personality disorders
+8 Chronic or recurrent alcoholism
+9 Any illicit drug abuse (non-cannabinoid)
+10 History of psychosis including schizophrenia or major depressive disorder 
+with psychotic features
+
+4.  BUMED primary point of contact is CAPT Richard Schreckengaust at (703) 
+681-9286 or via email at Richard.h.schreckengaust.mil@health.mil.
+
+5.  Released by Rear Admiral Darin K. Via, N093, Surgeon General of the 
+Navy.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
