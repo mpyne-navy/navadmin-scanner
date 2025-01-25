@@ -1,0 +1,84 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 241645Z JAN 25 MID120001702876U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+
+BT
+UNCLAS
+ 
+NAVADMIN 015/25
+
+SUBJ/ANNOUNCEMENT OF OFFICE OF NAVAL INTELLIGENCE CHINA CORE KNOWLEDGE ONLINE 
+COURSE//
+
+REF/A/DOC/CNO NAVPLAN 2024/9JAN24/
+REF/B/DOC/CNO "AMERICA'S WARFIGHTING NAVY" LETTER/9JAN24/
+
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/JAN//
+
+NARR/REF A IS THE CHIEF OF NAVAL OPERATIONS NAVIGATION PLAN FOR AMERICA'S 
+WARFIGHTING NAVY.  REF B IS THE CHIEF OF NAVAL OPERATIONS PRIORITIES FOR 
+AMERICA'S WARFIGHTING NAVY LETTER.
+
+RMKS/1.  This message announces the availability of the Office of Naval 
+Intelligence's (ONI) "China Core Knowledge" online course on Navy e -
+Learning.  This voluntary and unclassified course is designed to introduce 
+and enhance understanding of China's military and naval development for all 
+Navy personnel and civilians.
+
+2.  The ONI China Core Knowledge Program provides an understanding of the
+following:
+    a.  China's naval modernization strategy.
+    b.  China's expanding naval capabilities and maritime strategy.
+    c.  China's growing regional and global military influence.
+    d.  China's approach to information-age warfare.
+    e.  China's evolving nuclear development.
+
+3.  The course takes approximately 35-40 minutes to complete.  A 25-question 
+knowledge check is included, and users who score 80% or higher will receive a 
+transcript acknowledging successful completion and a TWMS record reflecting 
+course completion.  This course is voluntary, but Commanders are encouraged 
+to incorporate it into command training regimens.
+
+4.  Users can access the course via Navy e-Learning:
+    a.  Navy e-Learning URL:  https://learning.nel.navy.mil/.
+    b.  Course number: "ONI-CCK-1.1" ("CCK" stands for China Core Knowledge).
+    c.  Users can search for the course by name/number or locate it under the 
+"What's New" section of the "Course Catalog" tab by selecting "ONI courses."
+
+5.  The ONI China Core Knowledge study guide is also available to Navy 
+employees with a Common Access Card.  This unclassified 53-page guide offers 
+readers a deeper overview of China's naval strategy, geography, naval 
+leadership, organizational structure, and information on regional 
+flashpoints.  The guide compliments the online module. Sailors and civilians 
+interested in reviewing the guide will find it on ONI's unclassified 
+Sharepoint site AT 
+[https://intelshare.intelink.gov/sites/oni/intelligence/shared%20documents/on
+i_china_core_knowledge.pdf].
+
+6.  Additional China Core Knowledge courses at the SECRET//REL FVEY and 
+TS//SCI classifications are forthcoming.  Upon release of respective 
+classified platforms, a record message notification will follow.
+
+7.  This learning material strengthens America's Naval Warfighting Ecosystem 
+outlined by the CNO in references (a) and (b) by raising our knowledge of our 
+peer competitor.
+
+8.  For general awareness of ONI's intelligence production, classified 
+products can be located on SIPRNET at 
+[https://oni.highpoint.dia.smil.mil/#/content/home] and on ONI's new JWICS 
+portal at [https://www.dia.ic.gov/source/web/?producer=oni].
+
+9.  Please direct any questions to the ONI N2 directorate at: 
+oni_n2_leadership @flankspeed.onmicrosoft.us.
+ 
+Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations for 
+Information Warfare, OPNAV N2N6.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
