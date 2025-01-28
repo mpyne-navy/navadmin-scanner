@@ -1,0 +1,287 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 281420Z JAN 25 MID180001577235U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 019/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
+
+SUBJ/FISCAL YEAR 2026 SEAMAN TO ADMIRAL-21 PROGRAM ANNOUNCEMENT//
+
+REF/A/DOC/OPNAV/14DEC09//
+REF/B/MSG/CNO WASHINGTON DC/171350ZJUL17//
+REF/C/DOC/BUPERS/02MAY19//
+REF/D/DOC/COMNAVCRUITCOM/20JUL22//
+
+NARR/REF A IS OPNAVINST 1420.1B, ENLISTED TO OFFICER COMMISSIONING PROGRAMS 
+APPLICATION ADMINISTRATIVE MANUAL.   
+REF B IS NAVADMIN 177/17, NUCLEAR TRAINED SAILOR APPLICATIONS TO OFFICER 
+COMMISSIONING PROGRAMS.   
+REF C IS PROGRAM AUTHORIZATION 150A, SEAMAN TO ADMIRAL-21 NUCLEAR OPTION 
+COMMISSIONING PROGRAM.   
+REF D IS COMNAVCRUITCOMINST 1130.8M, NAVY RECRUITING MANUAL.//
+
+RMKS/1.  This NAVADMIN solicits applications and provides guidance for the 
+Fiscal Year (FY) 2026 Seaman to Admiral-21 (STA-21) Commissioning Program.  
+STA-21 is a full-time undergraduate education and commissioning program open 
+to enlisted personnel of all pay grades and ratings who meet the eligibility 
+requirements specified in reference (a).
+
+2.  Applicants stationed outside the United States at any time between 1 
+February 2024 and 30 June 2025 or those who were deployed at any time between 
+1 February 2024 and 30 June 2025 may apply without a valid Scholastic 
+Aptitude Test (SAT) or American College Test (ACT), if they meet the 
+requirements detailed in paragraph (8h) of this NAVADMIN.  The SAT or ACT 
+application requirement is also waived for all STA-21 Nuclear option (STA-
+21(N)) applicants; however, the SAT or ACT is strongly encouraged for STA-
+21(N) applicants who wish to strengthen their academic record.
+Supplemental information for applicant submission is provided in paragraphs 
+(8g) and (8h) of this NAVADMIN.
+
+3.  The deadline for submission of applications for the FY26 STA-21 Program 
+is 1 July 2025, and application packages must be postmarked on or before this 
+date.  It is recommended that applications be submitted prior to the deadline 
+as early submission allows timely feedback to the Sailor regarding missing or 
+illegible documents.
+Additional documentation must be postmarked on or before 24 July 2025; any 
+submissions after this date will not be accepted.  The selection board is 
+scheduled to convene in August 2025 and selectees will be announced via 
+NAVADMIN message.
+
+4.  The core program and the following target options are open for 
+application for the FY26 selection board:  Surface Warfare Officer (SWO), SWO 
+Engineering Duty Option SWO (ED), Nuclear (Surface and Submarine), Special 
+Warfare, Explosive Ordnance Disposal, Naval Flight Officer, Aviator, Civil 
+Engineering Corps, Nurse Corps, and Information Professional.
+
+5.  The following target options have zero select opportunities for
+FY26:  Human Resources, Intelligence, Information Warfare, Medical Corps, 
+Supply Corps, Oceanography Officer (OCEANO), and SWO (OCEANO).
+
+6.  The Nuclear (Surface and Submarine) target option is now open to Sailors 
+who are serving in the Fleet and hold an active nuclear Navy Enlisted 
+Classification (NEC) (N1XO, N1XS, N2XO, N2XS) and to those Sailors who are in 
+the nuclear training pipeline with the N91T NEC.
+Applicants holding a nuclear NEC must receive a conditional release from the 
+Nuclear Enlisted Community Manager (OPNAV N133D), in line with reference (b), 
+if applying for an option outside the nuclear community.  All applicants for 
+STA-21(N) must be able to begin their first day of class in the first 
+semester of their coursework prior to reaching eight years of service.  See 
+paragraph (9) of this NAVADMIN for additional requirements for non-nuclear 
+trained Sailors applying for the Nuclear (Surface and Submarine) target 
+options.
+Reference (c) provides specific information and all other requirements to 
+apply for the STA-21(N) program.
+
+7.  The following additional information is relevant to FY26 STA-21 (non-
+Nuclear option) applications:
+    a.  If a Physical Fitness Assessment (PFA) was not performed within the 
+last year, the Commanding Officer (CO) will provide an affirmative statement 
+in their endorsement certifying the applicant is within Navy PFA height and 
+weight requirements.
+    b.  See paragraph (8h) of this NAVADMIN for standardized test score 
+requirements.  Candidates are advised to verify school admission 
+requirements, as the STA-21(N) SAT or ACT waiver does not supersede 
+university admission requirements.
+    c.  The Joint Service Transcript (JST), in line with reference (a), 
+enclosure (1), chapter 8, paragraph 6.b(9), does not need to be submitted 
+with this application.  A future revision of reference (a) will remove this 
+requirement.
+    d.  The applicant's photograph, in line with reference (a), is no longer 
+required for this application.  A future revision of reference (a) will 
+remove this requirement.
+
+8.  The following information addresses lessons learned from the
+FY25 STA-21 (non-Nuclear option) selection process and board.  This 
+information is provided to preclude common errors:
+    a.  Of the 476 applications received for FY25, 455 were board eligible.  
+A total of 79 Sailors were selected to participate in the
+FY25 STA-21 Program.
+    b.  Each year, application packages are not considered due to non-
+qualifying SAT or ACT scores, missing the CO's endorsement or 
+recommendations, recent Non-Judicial Punishment, missing PFA cycles, missing 
+or illegible documents, and not meeting program age or Navy PFA height and 
+weight requirements.
+    c.  Minimum eligibility requirements must be met before submitting an 
+application.  Applications should be mailed only when fully completed.
+    d.  The CO's endorsement is extremely important, especially their ranking 
+of the applicant among their peers.  The endorsement should contain specifics 
+about the individual's academic potential, commitment, leadership, service 
+above self, and potential as a Naval officer.  CO comments should specify the 
+primary option to which the individual is applying and address how the 
+individual meets the qualifications for that option.  For junior Sailors with 
+only schoolhouse evaluations, the CO must address this issue in their 
+endorsement.
+    e.  An interview board and nomination review board will be conducted in 
+line with reference (a).  Officer interview boards will consist of three 
+officers, and the applicant's CO may not be a board member and should not 
+submit an interview appraisal sheet.  It is recommended that officers of the 
+applicant's designator of choice, if available, be asked to participate in 
+the interview and nomination review board to assess the applicant for their 
+community.
+Officer appraisals provide important insight into the applicant.
+The appraisal from the board should be a frank and honest assessment of the 
+applicant's leadership and academic potential.  The CO's personal interview 
+should be conducted only after the application is complete and the officer 
+interview board has submitted their appraisals.  The full picture of an 
+applicant's academic and officer potential can only be determined by 
+reviewing the SAT or ACT scores (if required), high school or college 
+transcripts, and a completed application package.  Appraisal forms should be 
+typed in 10 or 12- point font.
+    f.  The STA-21 applicant's personal statement should address why the 
+Sailor wants to become an officer, how the Sailor's selection would improve 
+the Navy, and why the Sailor is applying for a specific option.  Sailors must 
+also address any hardships or unique experiences that shaped their character.  
+Junior Sailors should provide information on high school experiences, as high 
+school transcripts rarely provide in-depth information on involvement in 
+sports, clubs, volunteer hours, work, etc.  Additionally, applicants should 
+address any anomalies in the package (e.g., poor high school grades, college 
+grades, service school grades, or poor evaluation performance).  This 
+explanation should include details of the situation, how the applicant has 
+overcome these issues, and why the applicant will be successful in the 
+future.
+    g.  The application is a reflection of the applicant; therefore it is 
+important that the applicant review their package in its entirety before 
+submission.  Check for misspelled words and improper grammar.  Ensure all 
+high school and college transcripts are enclosed.  Applicants must submit 
+results from the last PFA completed including overall score.  Applicants who 
+have not taken the PFA within the past year and meet the exception criteria, 
+in line with reference (a), must have a CO's endorsement, including a 
+statement verifying the applicant is currently within Navy PFA height and 
+weight standards.
+    h.  Qualifying SAT or ACT scores are required for all non- nuclear 
+officer candidates, except as noted in paragraph (1) of this NAVADMIN.  
+Qualifying SAT or ACT scores are not required for all nuclear officer 
+candidates; however, the SAT or ACT is strongly encouraged for STA-21(N) 
+applicants who wish to strengthen their academic record.  Applications can 
+still be submitted pending receipt of SAT or ACT scores or with a command 
+statement indicating non-availability for overseas locations and deployed 
+units.  The SAT or ACT scores submitted can be from exams taken between 1 
+July 2020 and 1 July 2025.  Applicants without SAT or ACT scores and who meet 
+the exception criteria must ensure their high school cumulative Grade Point 
+Average (GPA) (minimum 2.5 GPA) is dated within the last five years or have a 
+minimum 2.5 cumulative college GPA on a 4.0 scale with 12 or more semester 
+hours.
+     i.  It is recommended the command retain a copy of the entire 
+application package.  The command portion of the application (such as command 
+endorsement and interview appraisal sheets) should not be shared with the 
+applicant.
+
+9.  FY26 STA-21(N) applicants should be aware of the following application 
+requirement modifications that are only relevant for Sailors applying to the 
+nuclear option.  These modifications have been made in an effort to reduce 
+administrative requirements for applicants and will be incorporated into a 
+future revision of reference (a).  All waivers will be adjudicated on a case-
+by-case basis.  All waivers must be clearly identified and formally endorsed 
+by the Sailor's CO as part of the Sailor's STA-21(N) application.
+    a.  JST transcripts are not required for STA-21(N) applicants.
+    b.  Applicants are required to apply to three STA-21(N) program- approved 
+universities prior to the STA-21(N) application deadline.
+If an applicant's desired university is not accepting applications prior to 
+the STA-21(N) application deadline, the applicant shall include both 
+documentation for those applications already submitted and notice of their 
+intention to apply to their preferred university in their STA-21(N) 
+application package.
+    c.  The following universities have zero select opportunities for FY26:  
+Columbia University and Southern University and A&M College.
+    d.  Interviews (command and nominative boards) are not required for STA-
+21(N) applicants, nor are they required to submit officer interview sheets.
+    e.  Non-nuclear trained Sailors are welcome to apply to STA- 21(N), but 
+must submit a Electronic Personnel Action Request (NAVPERS 1306/7), to their 
+community manager requesting conditional release from their community, in 
+line with their community practices.  They must include in their application 
+package the approved conditional release letter received from their community 
+manager.  Application packages must be screened by the Nuclear Accessions 
+Director of Navy Recruiting Command (NRC) and the finalized nuclear field 
+eligibility worksheet must be included in the application package.  If 
+applicants have any questions about this process, contact OPNAV N133D at 
+bullnuke@navy.mil.  Non-nuclear trained Sailors must meet the requirements of 
+nuclear field duty as specified in Chapter 5 of reference (d).  Those 
+requirements not met for nuclear field duty require a waiver with NRC 
+concurrence.  These requirements include, but are not limited to, Armed 
+Services Vocational Aptitude Battery, foreign citizenship, and security 
+clearance.
+    f.  CO Letter of Recommendation.  A CO's letter of recommendation must be 
+included in an applicant's package.  It is encouraged that the CO's letter 
+endorse a Sailor based upon their mental aptitude, leadership, and ability to 
+manage adversity.  COs are encouraged to provide supplemental context into 
+their ranking methodology and ranking philosophy.  Commands with "one of one"
+Sailors are reviewed with the same regard as commands with multiple Sailors 
+applying.  COs should rank their STA-21(N) applicants in a separate group 
+than non-nuclear STA-21 applicants within their command.
+    g.  STA-21(N) applicants are not required to submit the personal 
+statement listed in paragraph (8f) and instead must submit three personal 
+statements, each not to exceed 300 words, in response to the following 
+questions:
+        (1) What actions have you taken to prepare for the STA-21(N) program, 
+and how do these actions set you apart from other applicants? (Provide 
+specific endeavors/activities that make you
+competitive.)
+        (2) How do you assess your readiness to academically manage a 
+technically rigorous and compressed college level course load?
+(Highlight academic success, but also explain any previous academic 
+shortfalls and provide evidence that you've overcome them.)
+        (3) STA-21(N) is an education and commissioning opportunity that will 
+challenge you morally, mentally, and physically.  How do you assess your 
+resiliency in successfully navigating the adversity and mental stresses 
+expected in this program?  (Explain your Warrior Ethos and provide any 
+personal challenges or shortcomings that have made you more resilient.)
+
+10.  The following lessons learned are provided to STA-21(N) applicants based 
+on the FY25 STA-21(N) selection process and board.
+This information is provided to ensure applicants highlight their 
+accomplishments and present a competitive package.
+    a.  The most competitive applicants have strong academic performance in 
+high school, college, or the nuclear training pipeline.  If an applicant does 
+not have a history of strong academic performance, they should provide 
+evidence of improved technical rigor and academic readiness through some 
+other means, such as SAT or ACT scores, or additional college level courses 
+in technical subjects (e.g., calculus, physics, etc.).  Strong performance in 
+the Fleet or advanced qualifications are not a substitute for academic 
+performance; Fleet Sailors without an exceptional academic record are 
+strongly encouraged to take the SAT or ACT in order to demonstrate their 
+academic aptitude and potential.
+    b.  Sailors are encouraged to be forthright in addressing reasons for 
+poor academic performance or disenrollment from an academic institution.  
+This is best accomplished with an explanation of lessons learned or actions 
+taken to address their weaknesses since the event occurred.
+    c.  Letters of recommendation are encouraged and should provide further 
+evidence of a Sailor's ability to complete a rigorous technical degree or 
+other efforts a Sailor has taken to strengthen their application.
+
+11.  The preferred method of delivery for applications is through mail.  If 
+mail delivery is not possible, contact the Naval Service Training Command 
+STA-21 Program Office (N92 STA-21) at grlk_sta21@us.navy.mil for alternative 
+delivery methods.  Mail completed applications to: 
+
+Naval Service Training Command
+ATTN:  N92 STA-21
+320A Dewey Ave Building 3, Room 106
+Great Lakes, IL 60088-2845
+
+12.  For questions, specific details, eligibility criteria, application 
+requirements, and selection procedures, Sailors should refer to reference 
+(a), contact your command career counselor, or visit the STA-21 website at:
+https://www.netc.navy.mil/Commands/Naval-Service-Training-Command/STA-21/STA-
+21-program/ for the most up-to-date information.
+
+13.  The point of contact for STA-21 is Naval Service Training Command, N92 
+STA-21, (847) 688-5454 ext. 242 or 243/DSN 792 or grlk_sta21@us.navy.mil.  
+The point of contact for the STA-21(N) Program Office is the Nuclear Enlisted 
+Community Manager, OPNAV N133D, (703) 604-5491/DSN 664 or bullnuke@navy.mil.
+
+14.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
