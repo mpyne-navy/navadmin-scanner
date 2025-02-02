@@ -1,39 +1,41 @@
-CLASSIFICATION: UNCLASSIFIED// 
-ROUTINE 
-R 271700Z JAN 25 MID120001709577U 
-FM CNO WASHINGTON DC 
-TO NAVADMIN 
-INFO CNO WASHINGTON DC 
-BT 
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 281707Z JAN 25 MID180001577933U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
 UNCLAS
-
+ 
 NAVADMIN 017/25
-
-PASS TO OFFICE CODES: 
-FM CNO WASHINGTON DC//N1// 
-INFO CNO WASHINGTON DC//N1// 
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
 MSGID/GENADMIN/CNO WASHINGTON DC/N1/JAN//
 
 SUBJ/CALENDAR YEAR 2025 E4 MERITORIOUS ADVANCEMENT PROGRAM (CORRECTED COPY)//
 
-REF/A/MSG/CNO WASHINGTON DC/121529ZMAR24// 
-REF/B/MSG/CNO WASHINGTON DC/281643ZAUG24// 
+REF/A/MSG/CNO WASHINGTON DC/121529ZMAR24//
+REF/B/MSG/CNO WASHINGTON DC/281643ZAUG24//
 REF/C/MSG/CNO WASHINGTON DC/272200ZJUL23//
 
 NARR/REF A IS NAVADMIN 052/24, 2024 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
 ONE.  REF B IS NAVADMIN 174/24, 2024 MERITORIOUS ADVANCEMENT PROGRAM SEASON 
-TWO.  REF C IS NAVADMIN 168/23, NAVY-WIDE APPRENTICE (E1-E4) ADVANCEMENT CHANGES.//
+TWO.  REF C IS NAVADMIN 168/23, NAVY-WIDE APPRENTICE (E1-E4) ADVANCEMENT 
+CHANGES.//
 
 RMKS/1.  This NAVADMIN announces policy and guidance for Calendar Year (CY)
 2025 E4 Meritorious Advancement Program (MAP) for Active Duty, Training and 
-Administration of the Reserves (TAR) and Selected Reserve (SELRES) Sailors. 
-References (a) through (c) removed MAP opportunities for E2 through E4 
-Sailors in CY23 in order to support transition to advancements based on Time 
-in Service (TIS).  In order to give apprentice band Sailors an opportunity to 
-advance, E4 MAP will run from 1 February through 31 December 2025.
+Administration of the Reserves (TAR).  References (a) through (c) removed MAP 
+opportunities for E2 through E4 Sailors in CY23 in order to support 
+transition to advancements based on Time in Service (TIS).  In order to give 
+apprentice band Sailors an opportunity to advance, E4 MAP will run from 1 
+February through
+31 December 2025.
 
 2.  E4 MAP quotas will be distributed throughout CY25 to select and reward 
-the top-performing Sailors to be advanced prior to reaching 30 months TIS. 
+the top-performing Sailors to be advanced prior to reaching 30 months TIS.
 E3 Sailors must have a minimum of 12 months TIS to be eligible for MAP to E4.
 
 3.  Timeline:  CY25 E4 MAP Season:  1 February - 31 December 2025.
@@ -53,10 +55,10 @@ https://www.nsips.cloud.navy.mil/, click on training tab, then click MAP
 tutorial (JPA).
     a.  NSIPS Web Afloat users and commands without access to NSIPS must 
 submit a MAP nomination request via e-mail directly to their Immediate 
-Superior in Charge, Type Commander or Budget Submitting Office (BSO)/echelon 2 
-command using the Meritorious Certification Letter (MCL).  The letter must 
+Superior in Charge, Type Commander or Budget Submitting Office (BSO)/echelon
+2 command using the Meritorious Certification Letter (MCL).  The letter must 
 be signed by the commanding officer and should address any ETP and/or 
-additional quotas requested .  Sample MCLs and detailed information regarding 
+additional quotas requested.  Sample MCLs and detailed information regarding 
 the offline process can be found via MyNavy Portal at 
 https://www.mnp.navy.mil/group/advancement-and-promotion/a-enlisted- 
 advancement-resources-and-links, then select the websites tab in the blue 
@@ -66,7 +68,7 @@ the NSIPS environment.  Quotas will be distributed to the BSO.
 
 6.  MAP Website.  MAP information and frequently asked questions can be found 
 at https://www.mynavyhr.navy.mil/Career-Management/Community-
-Management/Enlisted-Career-Admin/Advancement/MAP/
+Management/Enlisted-Career-Admin/Advancement/MAP/.
 
 7.  For additional questions or support, contact MyNavy Career Center (MNCC) 
 at (833) 330-6622 or email at askmncc@navy.mil.
@@ -76,8 +78,9 @@ whichever comes first.
 
 9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
 
-BT 
-#0001 
-NNNN 
+BT
+#0001
+NNNN
 CLASSIFICATION: UNCLASSIFIED//
+
 
