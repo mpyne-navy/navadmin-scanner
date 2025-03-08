@@ -1,33 +1,33 @@
-CLASSIFICATION: UNCLASSIFIED//
-ROUTINE
-R 181713Z FEB 25 MID120001747768U
-FM CNO WASHINGTON DC
-TO NAVADMIN
-INFO CNO WASHINGTON DC
-BT
+CLASSIFICATION: UNCLASSIFIED/ 
+ROUTINE 
+R 181713Z FEB 25 MID180001628769U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
 UNCLAS
  
 NAVADMIN 030/25
 
-MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB//
-
+MSGID/NAVADMIN/CNO WASHINGTON DC/N2N6/FEB// CORRECTED COPY  
+ 
+ 
 SUBJ/NAVY OPERATIONS SECURITY (OPSEC)//
 
-REF/A/INST/SECNAVINST 3070.2A/09MAY2019//
-REF/B/INST/SECNAVINST 5720.44C CH-2/10APR2019//
-REF/C/DOC/NTTP 3-13.3/DEC2022//
+REF/A/INST/SECNAVINST 3070.2A/09MAY2019// 
+REF/B/INST/SECNAVINST 5720.44C CH-2/10APR2019// 
+REF/C/DOC/NTTP 3-13.3/DEC2022// 
 REF/D/-/NAVAL OPSEC SUPPORT TEAM/WEB//
 
 NARR/REF A IS SECNAV OPSEC POLICY.  
 REF B IS SECNAV PUBLIC AFFAIRS POLICY.  
 REF C IS NAVY TACTICS, TECHNIQUES, AND PROCEDURES (OPSEC).  
 REF D IS THE NAVAL OPSEC SUPPORT TEAM WEBSITE AT: 
-https://flankspeed.sharepoint-mil.us/sites/USFF-
-NAVIFOR/OPSEC/SITEPAGES/HOME.ASPX
-POC/THERESA ADAIR/CDR/OPNAV OPSEC PM/ TEL: 703-695-8508/EMAIL:
-THERESA.A.ADAIR.MIL@US.NAVY.MIL/
-POC/NAVAL OPSEC SUPPORT TEAM/-/NAVIFOR SUFFOLK/LOC: SUFFOLK VA/TEL: 757-203-
-3656/EMAIL: NAVY_OPSEC@US.NAVY.MIL//
+https://www.navifor.usff.navy.mil/opsec/ 
+
+POC/THERESA ADAIR/CDR/OPNAV OPSEC PM/ TEL: 703-695-8508/EMAIL: 
+THERESA.A.ADAIR.MIL@US.NAVY.MIL/ POC/NAVAL OPSEC SUPPORT TEAM/-/NAVIFOR 
+SUFFOLK/LOC: SUFFOLK VA/TEL: 757-203-3656/EMAIL: NAVY_OPSEC@US.NAVY.MIL//
 
 RMKS/1.  This message reiterates the guidance in references (a) through (d) 
 and reminds all Navy personnel of Operations Security (OPSEC) best practices 
@@ -53,24 +53,24 @@ not hidden and read anything not secured or encrypted.
 4.  Social media platforms are important means to broaden public knowledge of 
 America's warfighting Navy.  They also present a great challenge to proper 
 OPSEC.  Avoid posting sensitive Navy information related to the categories in 
-paragraph 2 and ask your family members to do the same. To update an old
+paragraph 2 and ask your family members to do the same. To update an old 
 expression: "Loose tweets sink fleets."
 
 5.  While open discussion is necessary for any professional organization, 
 special considerations must be made to limit an adversary's ability to gain 
 and exploit insights into our vulnerabilities, weaknesses, and shortcomings.  
-Pre -publication review is a critical (and mandated) measure that ensures 
-Navy professionals do not inadvertently disclose sensitive information in 
-opinion pieces or scholarly articles.
+Pre-publication review is a critical (and mandated) measure that ensures Navy 
+professionals do not inadvertently disclose sensitive information in opinion 
+pieces or scholarly articles.
 
 6.  Accordingly, all hands must submit any products for publication to their 
 command OPSEC officer or Public Affairs Officer (PAO) for review prior to 
 release into the public domain.  Commands should seek outside review from 
 appropriate subject matter experts or authorities if the topic is not within 
 their mission area.  For assistance, reach out to the OPNAV OPSEC Program 
-Manager listed at the top of this message, and use the following websites:
+Manager listed at the top of this message, and use the following websites: 
 Defense office of prepublication and security review website 
-(https://www.esd.whs.mil/DOPSR/) and the Naval OPSEC Support Team website, 
+(https://www.esd.whs.mil/dopsr/) and the Naval OPSEC Support Team website, 
 reference (d).
 
 7. Public facing events like air shows, fleet weeks, Navy community 
@@ -83,8 +83,8 @@ people.
 8. Released by VADM Karl O. Thomas, Deputy Chief of Naval Operations for 
 Information Warfare, OPNAV N2N6.//
 
-BT
-#0001
-NNNN
-CLASSIFICATION: UNCLASSIFIED//
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED/
 

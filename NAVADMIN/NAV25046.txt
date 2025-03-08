@@ -1,0 +1,107 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 062016Z MAR 25 MID120001770386U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 046/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/NAVY SUPPLEMENTAL GUIDANCE FOR ADMINISTRATIVE ABSENCE AND TRAVEL FOR 
+NON-COVERED ASSISTED REPRODUCTIVE TECHNOLOGY//
+
+REF/A/ALNAV 019/25//
+REF/B/NAVADMIN 058/23//
+
+NARR/REF A IS ALNAV 019/25, ADMINISTRATIVE ABSENCE OR FUNDED TRAVEL FOR NON-
+COVERED ASSISTED REPRODUCTIVE TECHNOLOGY.   
+REF B IS NAVADMIN 058/23, NAVY SUPPLEMENTAL GUIDANCE TO COMMAND NOTIFICATION 
+OF PREGNANCY POLICY, ADMINISTRATIVE ABSENCE AND TRAVEL FOR NON-COVERED 
+REPRODUCTIVE HEALTH CARE.//
+
+RMKS/1.  This NAVADMIN provides supplemental guidance to reference (a).  
+Reference (b) is canceled, and all hands shall be made immediately aware of 
+this guidance.
+
+2.  Approval Timeline and Appeals.  Reference (a) provides the methodology 
+that must be applied for the approval of administrative absence or funded 
+travel for non-covered Assisted Reproductive Technology (ART).
+    a.  Approval Timeline.  Commanding Officers (CO) or approval authorities 
+must act promptly and with appropriate discretion when considering a request 
+for administrative absence or funded Temporary Duty (TDY) travel.  If a 
+command structure does not have a designated CO, the approval authority is 
+defined as the head of the unit, activity, or organization who holds command 
+and control authority.  Due to the time-sensitive nature of non-covered ART, 
+approval decisions should be made no later than 5 days after the request is 
+submitted.
+    b.  Appeal Process.  If the CO or approval authority denies the 
+administrative absence or funded travel for non-covered ART:
+        (1) the CO or approval authority must notify the first
+O6/GS15 or higher Immediate Superior in Command (ISIC), and
+        (2) the Service Member may appeal the request to the same
+O6/GS15 level or higher ISIC.  Appeal decisions should be made promptly, no 
+later than than 5 days after the request is denied.
+
+3.  Administrative Procedures.
+    a.  Requesting administrative absence.  The Navy Standard Integrated 
+Personnel System (NSIPS) will be used for non-covered ART requests.
+        (1) Select "Admin Absence - Repro Care" in block 12a of the leave 
+request.  Do not input any Health Insurance Portability and Accountability 
+Act (HIPAA) information into NSIPS.
+        (2) Administrative absence requests will be limited to the lesser of 
+21 days, or the minimum number of days essential to receive the required care 
+and travel needed to access the care by the most expeditious means of 
+transportation practicable.
+        (3) Requests for convalescent leave following receipt of non-covered 
+ART must be submitted as a separate convalescent leave period and may be 
+approved based on a recommendation from a Department of Defense (DoD) health 
+care provider or a non-DoD health care provider from whom the Service Member 
+is receiving care.
+        (4) Leave approvers are responsible for ensuring the duration of the 
+administrative absence is the minimum amount required to receive the required 
+care and requisite travel within the limits outlined in this NAVADMIN.
+    b.  Requesting funded TDY travel.  If requesting funded TDY travel, the 
+request shall be submitted in Defense Travel System
+(DTS) as a routine TDY.  No HIPAA information will be uploaded into DTS as 
+part of substantiating documentation for funded travel.
+
+4.  Command Tracking Requirement.  Reference (a) guidance requires Navy 
+commands to track travel costs executed by all authorized travelers for non-
+covered ART.  The following is required:
+    a.  Reports must use the template located at
+https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Parenthood-
+Pregnancy/Reports, which includes the required data in paragraphs 7.c.4(a) 
+through paragraph 7.c.4(e) of reference (a).
+    b.  Reports of usage of the cost and usage of funded travel shall be 
+submitted to Navy_Parenthoodandpregnancy@us.navy.mil once the TDY period has 
+concluded.
+
+5.  The current OPNAVINST 6001.D Navy Guidelines for Parenthood and Pregnancy 
+dated 12 March 2018 will be updated to reflect new guidance and policies.
+
+6.  Additional resources.  Additional fact sheets and frequently asked 
+questions are located at the below addresses:
+    a.  https://www.mynavyhr.navy.mil/References/Messages/ALNAV-2025/.
+    b.  https://www.mynavyhr.navy.mil/References/Messages/NAVADMIN-2025/.
+    c.  https://www.mynavyhr.navy.mil/Support-Services/Culture-
+Resilience/Parenthood-Pregnancy/.
+
+7.  The point of contact is OPNAV N172 (Office of Women's Policy) by e-mail 
+at Navy_Officeofwomenspolicy@us.navy.mil.
+
+8.  This NAVADMIN will remain in effect until superseded or canceled.
+
+9.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
