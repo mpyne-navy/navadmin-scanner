@@ -75,6 +75,9 @@ sub resolve_after_delay ($val, $delay)
 # by $url is saved to disk.
 sub download_navadmin ($url, $ua, $metadata, $errors)
 {
+    # Some of the server redirects may add '../', work those out on our end
+    $url = $url->path($url->path->canonicalize);
+
     # Some links end in ?ver=<gibberish>, try them without ver first. But some
     # require ?ver= part too...
     my $no_ver_url = $url->clone->query({ver => undef});
@@ -85,6 +88,11 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
     # The URL may have had lowercase chars, enforce filename starting with "NAV"
     substr $name, 0, 3, "NAV";
     my $shortname = (substr $name, 5, 3) . '/' . (substr $name, 3, 2);
+
+    # Check for things that will trip the server firewall like directory traversal
+    if ($err_key =~ m,\.\./,) {
+        die "$shortname: $url would fail if we tried to download it, clean up the URL first!";
+    }
 
     # Filename to download to
     $name = "NAVADMIN/$name";
