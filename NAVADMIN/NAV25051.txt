@@ -1,0 +1,176 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 111532Z MAR 25 MID120001781650U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 051/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/FY-26 ACTIVE-DUTY NAVY AND NAVY RESERVE COMMAND SENIOR CHIEF SCREENING 
+BOARD RESULTS//
+
+REF/A/DOC/CNO/16JUL21//
+AMPN/REF A IS OPNAVINST 1306.2K, COMMAND SENIOR ENLISTED LEADER PROGRAM.//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for rating conversion and assignment as a Command Senior 
+Chief (CMDCS) by the Command Senior Enlisted Leader (CSEL) Screening Board, 
+which convened 4 February 2025. 
+
+NAME (LAST FIRST MI)       RATE      PARENT COMMAND
+Andrews Tacara             DNCCS     NAVTALACQGRU RICHMOND
+Bailey Oliver IV           HMCS      LHD 2 ESSEX
+Banuelosgonzalez Jorge A   LSCS      FLEET AIR SIGONELLA DET AIMD
+Brooks Ackeola O           MMCS      CVN 69 EISENHOWER
+Brown Joshua C             ATCS      HSM 70
+Bruzon Alberto NMN         NCCS      COMNAVSURFLANT COMMON SUPP DIR
+Burch Eric M               ATCS      FLTREADCEN SOUTHWEST CPF
+Burns Kimberly R           PSCS      COMNAVSPECWARCOM
+Carter III Jimmie L        ATCS      SEN ENLISTED ACADEMY NEWPORT RI
+Castillo Randy I           RSCS      LPD 28 FORT LAUDERDALE
+Clark Ray C                ASCS      CVN 68 NIMITZ
+Clarke II Leauwandeau M    DCCS      AFLOATRAGRUMIDPAC PH
+Cobb Eddie L               ATCS      VX 9 DET EDWARDS
+Colvin Michael D           RSCS      NAVSUPPFAC DIEGO GARCIA
+Cruz Wilson R              CSCS      CVN 72 ABRAHAM LINCOLN
+Dirk Eric C                CUCS      PWD SAN DIEGO
+Donadio Michael J          HMCS      2D DENTAL COMPANY
+Dunbar Daniel L            OSCS      LCS CREW 208
+Dy James S                 LSCS      BEACHMASTER UNIT 1 SHORE
+Ellis Adam W               MACS      CNIC SECURITY ASSESS AND TRAIN
+Ellis Charles JR R         ABHCS     LHD 8 MAKIN ISLAND
+Elsen Keenan L             AMCS      HSC 8
+Euceda Jennie M            LSCS      AFLOATRAGRUMIDPAC PH
+Footdale Matthew J         HMCS      SUBTRAFAC NOR FLT TEAM TRNG
+Foote Alison S             OSCS      LCS CREW 209
+Fuller David P             MACS      COMNAVSPECWARCOM
+Furman Tyler J             MMCS      DDG 84 BULKELEY
+Gibson Amber L             LSCS      NAVSUP FLT LOG CTR SIGONELLA
+Givens Travious D          MMCS      SOUTHWEST REGIONAL MAINT CTR
+Gomez Elvis J              QMCS      LCC 19 BLUE RIDGE
+Gomez Wendy J              MACS      NAVSTA NORFOLK SECURITY DET
+Guzman Anthony NMN         ASCS      LHA 6 AMERICA
+Hall Troy E                MMCS      LPD 29 RICHARD M MCCOOL JR
+Harris Sean L              LNCS      NAVMED TRNG SUPPORT CMD
+Hemphill Ashton O          ABHCS     CVN 73 GEORGE WASHINGTON
+Herndon Ryan E             RSCS      LSD 49 HARPERS FERRY
+Hersey Malinda K           ITCS      MOBILE TACTICAL OPS CTR ELEVEN
+Hooper Stuart M            DCCS      NAVY SERV SUPP ADV TRNG CMD
+Hope Shamar L              CSCS      COMFLTACT YOKOSUKA JA
+Huntt  III Thomas J        AMCS      VX 1
+Jeanpierre Jason NMN       GSCS      COMDESRON 7/MARITIME STF
+Johnson Jr Randy J         ATCS      VFA 87
+Jones Andrea K             OSCS      DDG 128 PCD NORFOLK
+Jones Marcus I             OSCS      COMPHIBRON 11
+Jostes Brian A             EOCS      NAVCONBRIG DET CHESAPEAKE VA
+Killian James E            STGCS     SCSTC DET PACNORWEST EVERETT
+Klamar Nicholas S          HMCS      HSC 28
+Laureano Ramon L           MACS      SWFLANT KINGS BAY GA
+Matlock Robert J           LSCS      DDG 100 KIDD
+McDowell Adam C            FCACS     DDG 97 HALSEY
+Mcglothin Nicholas L       OSCS      ASSAULT CRAFT UNIT 2
+Meador David E             AMCS      FLT LOG MLT MSN SQN THREE ZERO
+Messinger Claudia J        MACS      SWFLANT KINGS BAY GA
+Ming Peter D               AECS      HSC 2
+Morrison Michael R         STGCS     AFLOATRAGRUMIDPAC PH
+Newburry Rusty D           GSCS      DDG 120 CARL M LEVIN
+Oswald Matthew T           STGCS     CVN 74 JOHN C STENNIS
+Pierre-lys Christalyn L    MMCS      COMNAVSURFGRU SOUTHWEST SEA
+Prewitt Jaret H            MNCS      NMCPAC EAST ASIA DIVISION
+Rainaldi Kevin J           ADCS      VFA 143
+Ramirez Javier M           LSCS      LPD 26 JOHN P MURTHA
+Rathbun Jerami A           DCCS      LHD 2 ESSEX
+Reese Davion  D            GMCS      MSRON TWO
+Reyna Jesse NMN            STGCS     DDG 63 STETHEM
+Rojasalvarez Victor M      MMCS      CVN 77 GEORGE H W BUSH
+Rourick Anthony M          LSCS      CVN 68 NIMITZ
+Ruff Christopher J         CSCS      NAVAL BEACH UNIT SEVEN
+Scott Jr Anthony G         CSCS      NAVCONBRIG CHARLESTON SC
+Sheard Milton IV NMN       CSCS      LHD 7 IWO JIMA
+Streeter Preston D         MACS      LHD 1 WASP
+Thomas Larry M             MACS      COMFLTACT OKINAWA SECURITY
+Torres Palani M            AWOCS     VP 5
+Tyson Timothy R            CSCS      ESB3 GOLDMILCREW
+Velazquez Johnny R         STGCS     STU SCSTC SAN DIEGO CA
+Walter Jonathon T          MACS      COMNAVREG JAPAN
+Washington Jarrod C        ADCS      VP 9
+Williams Jason T           ABECS     CVN 68 NIMITZ
+Winter Charles T           NCCS      COMNAVSPECWAR GROUP FOUR
+Workman Paul R             MTCS      CNAF WEST TRAINING TEAMS SHORE
+Wright Recardo M           EMCS      MCM MAINTENANCE DET BAHRAIN
+Zara Ian O                 HMCS      1ST MAW IWAKUNI
+
+2.  AC Senior Chief Petty Officers (SCPO) converting into CMDCS rating will 
+be converted upon release of this screening message and are immediately no 
+longer eligible for promotion in their source rating.  SCPOs shall verify 
+rating conversion via their Enlisted Service Record (ESR) on NSIPS.   If 
+rating conversion has not reflected within 10 days of results release, 
+members are advised to contact the AC CSEL Enlisted Community Manager (ECM).
+SCPOs will be required to contact the AC CSEL detailer to negotiate for 
+orders and to request a quota for the Command Master Chief/Chief of the Boat 
+(CMC/COB) Course.  Once a CMDCS is in receipt of orders, they must obligate 
+the required length of service within 30 days.
+Failure to OBLISERVE within the prescribed 30 days, will result in immediate 
+cancellation of orders.  CMDCSs will not be awarded the 8CSC NEC, nor wear 
+the CMDCS identification badge, until they have successfully completed the 
+CMC/COB course.
+
+3.  Congratulations to the following Training and Administration of the 
+Reserve (TAR)/Selected Reserve (SELRES) members who have been selected for 
+rating conversion and assignment as a Command Senior Chief. 
+
+NAME (LAST FIRST MI)    RATE     PARENT COMMAND           TAR/SELRES
+Burks Felton L          LSCS     LPD 24 ARLINGTON         TAR
+Cataldo Christopher M   LSCS     COMNAVSURFPAC            TAR
+Debrie Bryan A          AOCS     HM 15                    TAR
+Dunn Devandreon S       ITSC     COMNAVRESFORCOM NORVA    TAR
+Rodriguez Silvester     HMCS     H&S CO 4TH MED BN        TAR
+Summy Zachary M         ATCS     FRCR MW DET FORT WORTH   TAR
+Moscon Desiree A        HMCS     HQ MARINE FORCES RESERVE TAR
+Hanley Christine M      ISCS     MOB ACC WIESBADEN GER    SELRES
+Parra Dionicio G        GMCS     MSRON ONE SBC DELTA      SELRES
+Timm Patrick T          ITNCS    SENIOR ENLISTED ACADEMY  SELRES
+
+4.  TAR/SELRES SCPOs converting into CMDCS rating will be converted upon 
+release of this screening message and are immediately no longer eligible for 
+promotion in their source rating.  SCPOs shall verify rating conversion via 
+their ESR on NSIPS.   If rating conversion has not reflected within 10 days 
+of results release, members are advised to contact the TAR/SELRES CSEL ECM.  
+SCPOs will be required to contact their respective TAR or SELRES CSEL 
+Detailer to negotiate orders and a CMC class quota.  Once a CMDCS is in 
+receipt of orders, they must obligate the required length of service within 
+30 days.
+Failure to OBLISERVE within the prescribed 30 days, will result in immediate 
+cancellation of orders.  CMDCSs will not be awarded the 8CSC NEC, nor wear 
+the CMDCS identification badge, until they have successfully completed the 
+CMC/COB course.
+
+5.  Selectees should contact their respective POC:
+AC CSEL Detailer POC is CMDCM Amanda Davis, Navy Personnel Command
+(NAVPERSCOM) PERS-40FF at 901-874-4560, DSN 882-4560, email 
+amanda.l.davis62.mil@us.navy.mil.   
+AC CSEL ECM POC is ISCM David Stanton, NAVPERSCOM PERS-32 at 901-874-2880, 
+DSN 882-2880, email david.m.stanton2.mil@us.navy.mil.   
+TAR CSEL Detailer POC is CMDCM Morgan R. Jones, NAVPERSCOM PERS-4012 at  
+901-874-3257, DSN 882- 3257, email morgan.r.jones.mil@us.navy.mil.   
+SELRES CSEL Detailer POC is PSCS Rashida Jackson, Navy Reserve Forces Command
+COMNAVRESFORCOM) N121 at 948-223-6108, email 
+rashida.t.jackson.mil@us.navy.mil.   
+TAR/SELRES CSEL ECM POC is PSCM Nikita Maher, NAVPERSCOM PERS-35 at  
+901-874-2918, DSN 882-2918, email nikita.n.maher.mil@us.navy.mil.
+
+6.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

@@ -1,0 +1,140 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 111504Z MAR 25 MID120001781580U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 050/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/FY-26 ACTIVE-DUTY NAVY AND NAVY RESERVE COMMAND MASTER CHIEF SCREENING 
+BOARD RESULTS//
+
+REF/A/DOC/CNO/16JUL21//
+
+AMPN/REF A IS OPNAVINST 1306.2K, COMMAND SENIOR ENLISTED LEADER PROGRAM.//
+
+RMKS/1.  Congratulations to the following Active Component (AC) members who 
+have been selected for rating conversion and assignment as a Command Master 
+Chief (CMDCM) by the Command Senior Enlisted Leader (CSEL) Selection Board, 
+which convened 4 February 2025: 
+
+NAME (LAST FIRST MI)          RATE    PARENT COMMAND
+Altamirano Christian P        DCCM    CVN 72 ABRAHAM LINCOLN
+Anzaldo Geraldo NMN           OSC     CVN 78 GERALD R FORD
+Arnstein Adam C               AVCM    VP 40
+Arredondo Jr Christopher E    HMCM    NAVAL LDRSHIP & ETHICS CMD SD
+Buckley Dexter C              ETVCM   PCU SSN 797 IOWA
+Buss Jordan A                 SOCM    SEAL TEAM 10
+Campbell Henri D              FCCM    SR ENLISTED ACADEMY NEWPORT RI
+Clarke Joshua  J              MMACM   SSN 761 SPRINGFIELD
+Cook Frank S                  FTCM    NAVY DATA COMMAND YOKOSUKA
+DeGannes Nyron E              CBCM    NAV MOB CONST BATTLION ELEVEN
+Dopson IV Clair V             ETVCM   SSN 762 COLUMBUS
+Dorsey Braylon M              CBCM    NAV CONST REG 30
+Durand Jack NMN               MMACM   SSN 725 HELENA
+Fortner Anthony G             EMNCM   NPTU CHARLESTON BOS
+Gaillard Jonathan T           AVCM    LHD 4 BOXER
+Gorham Ashley N               ISCM    CIWT CORRY STA PENSACOLA FL
+Green Jacob A                 CSSCM   SSN 767 HAMPTON
+Gregory Brooks R              MACM    CVN 77 GEORGE H W BUSH
+Hallahan Justin M             CBCM    NAVFAC EURAFCENT
+Hogan Daniel T                SOCM    NAVSPECWARGRU TWO DET GERMANY
+Hollingsworth Aquinor         ITCM    CVN 77 GEORGE H W BUSH
+Jacome Ray A                  FTCM    SSN 752 PASADENA
+Knopp Jack H                  SOCM    SPECIAL RECON TEAM TWO
+Kyser Christopher D           ITRCM   COMNAVPERSCOM MILLINGTON TN
+Leggins Damon M               DCCM    CVN 68 NIMITZ
+Magbag Alexander              RSCM    CVN 73 GEORGE BUSH
+Manyo Russell A               SBCM    DEVGRU
+Martel George A               SOCM    SEAL TEAM 10
+McCann Sean E                 SOCM    SEAL TEAM 18
+Morphis Lucas R               SOCM    SEAL TEAM 7
+Moulthrop Christoper D        STSCM   SSBN 735 PENNSYLVANIA GOLD
+Olin Christopher W            ETVCM   SSBN 739 NEBRASKA BLUE
+Pascal James NMN              RSCM    COMNAVSURFLANT
+Potter John D                 DCCM    CVN 73 GEORGE WASHINGTON
+Purdum Christopher A          STSCM   UUVGRU ONE DET VENTURA
+Queenlacombe Frank C          CBCM    NAV MOB CONST BATT 3
+Raines Stephan H              STSCM   SSBN 732 ALASKA GOLD
+Ramirez Roberto NMN           EODCM   EXPL ORD DISPL MOB UNIT 11
+Richey Erik R                 MMNCM   MTS 701 CHARLESTON SC
+Rivers Terrence J             AVCM    VFA 22
+Rosario Mark D                MMACM   SSBN 740 RHODE ISLAND GOLD
+Savoy Shaven L                ABCM    LHD 8 MAKIN ISLAND
+Shaffer Daniel A              AWRCM   RTC GREAT LAKES
+Shelly  Mark E                ETVCM   SSN 776 HAWAII
+Shelton Robert A              ITRCM   SSN 756 SCRANTON
+Sherman Daniel J              CBCM    UCT 1 SHORDU COMP
+Smith Christopher J           TMCM    SSBN 743 LOUISIANA BLUE CREW
+Stephens Derrick D            CBCM    NAVY MOBILE CONST BATT 1
+Struble Gerald M              TMCM    SSGN 728 FLORIDA BLUE
+Talbot Sean T                 MMNCM   MAINT TRNG GROUP DET YOKOSUKA
+Turner Chelsea L              HMCM    EXPED MED FAC 150 KILO
+Urso Justin P                 TMCM    SSN 758 ASHEVILLE
+Volack Vincent G              ITNCM   SSBN 741 MAINE GOLD
+Wandell Robert S              EODCM   CEODD DET GREAT LAKES IL
+Wolfe II Paul D               SOCM    COMNAVSPECWAR GROUP ONE SEA
+Yaung David NMN               CSCM    LHD KEARSARGE
+
+2.  AC Master Chief Petty Officers (MCPOs) selected by the CMDCM selection 
+board shall make contact with the AC CSEL Detailer to negotiate for orders 
+and to request a quota for the Command Master Chief/Chief of the Boat 
+(CMC/COB) Course.  Once a CMDCM is in receipt of orders, they must obligate 
+the required length of service within 30 days.  Failure to OBLISERVE within 
+the prescribed 30 days, will result in immediate cancellation of orders.  
+MCPOs selected by the CMDCM screen board will have their rating changed to 
+CMDCM after the 8CMC Navy Enlisted Classification (NEC) is awarded following 
+completion of the CMC/COB course.  MCPOs shall make contact with the AC CSEL 
+ECM upon graduation from CMC/COB Course to change their rating.
+
+3.  Congratulations to the following Training and Administration of the 
+Reserve (TAR)/Selected Reserve (SELRES) members who have been selected for 
+rating conversion and assignment as a Command Master Chief. 
+
+NAME (LAST FIRST MI)  RATE     PARENT COMMAND             TAR/SELRES
+Carson Fernando L     AFCM     FRCR MW DET MCGUIRE        TAR
+Cheek Christopher C   HMCM     MESG ONE                   TAR
+Brannen Johnny E      HTCM     MSRON FIVE                 SELRES
+Keatts Jamie J        MACM     NAVBASE KITSAP SEC DET     SELRES
+Shadwick Joseph A     BMCM     MSC PAC RPN                SELRES
+Sheriff Jason M       CBCM     NAVY CARGO HANDLING BN 11  SELRES
+
+4.  TAR/SELRES MCPOs selected by the CMDCM screen board shall make contact 
+with their respective TAR or SELRES CSEL Detailer for a Command Master 
+Chief/Chief of the Boat (CMC/COB) Course quota and to negotiate orders.  Once 
+a CMDCM is in receipt of orders, they must obligate the required length of 
+service within 30 days.  Failure to OBLISERVE within the prescribed 30 days, 
+will result in immediate cancellation of orders.  A MCPO selected by the 
+CMDCM screen board will have their rating changed to CMDCM after the 8CMC NEC 
+is awarded following completion of the CMC/COB Course.  MCPOs shall make 
+contact with the TAR/SELRES CSEL ECM upon graduation from CMC/COB Course.
+
+5.  Selectees should contact their respective POC:
+AC CSEL Detailer POC is CMDCM Amanda Davis, Navy Personnel Command
+(NAVPERSCOM) PERS-40FF at 901-874-4560, DSN 882-4560,  
+email amanda.l.davis62.mil@us.navy.mil.   
+AC CSEL ECM POC is ISCM David Stanton, NAVPERSCOM PERS-32 at 901-874-2880, 
+DSN 882-2880, email david.m.stanton2.mil@us.navy.mil.   
+TAR CSEL Detailer POC is CMDCM Morgan R. Jones, NAVPERSCOM PERS-4012 at  
+901-874-3257, DSN 882- 3257, email morgan.r.jones.mil@us.navy.mil.   
+SELRES CSEL Detailer POC is PSCS Rashida Jackson, Navy Reserve Forces Command 
+(COMNAVRESFORCOM) N121 at 948-223-6108,  
+email rashida.t.jackson.mil@us.navy.mil.   
+TAR/SELRES CSEL ECM POC is PSCM Nikita Maher, NAVPERSCOM PERS-35 at  
+901-874-2918, DSN 882-2918, email nikita.n.maher.mil@us.navy.mil.
+
+6.  Released by Vice Admiral Richard J. Cheeseman Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

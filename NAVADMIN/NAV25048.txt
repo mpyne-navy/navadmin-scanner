@@ -1,0 +1,90 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 111356Z MAR 25 MID120001781312U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 048/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/FY-26 ACTIVE-DUTY NAVY COMMAND MASTER CHIEF PETTY OFFICER ADVANCEMENT 
+SELECTION BOARD RESULTS//
+
+REF/A/DOC/BUPERS/2NOV07//
+
+AMPN/REF A IS BUPERSINST 1430.16G, ADVANCEMENT MANUAL FOR ENLISTED PERSONNEL 
+OF THE U.S. NAVY AND U.S. NAVY RESERVE.//
+
+RMKS/1.  Congratulations to the following personnel who have been selected 
+for advancement to Command Master Chief Petty Officer (CMDCM) by the Fiscal 
+Year 2026 Active-Duty Navy Command Master Chief Advancement Selection Board.  
+Strong competition between qualified professionals is one of the strengths of 
+our Navy and your selection speaks highly of your abilities.
+
+2.  This NAVADMIN is not authorization for advancement.  Specific dates of 
+advancement will be published by Commanding Officer, Naval Education and 
+Training Professional Development Center Pensacola, FL.
+Personnel listed below may be frocked IAW ref (a) if qualified.
+
+3.  Members are directed to verify their select status via BUPERS On- Line.  
+The selection list is in alphabetical order by rate within competitive 
+category.  Read each line from left to right, name, and numerical order of 
+advancement. 
+
+                       CMDCM - Command Master Chief
+           Abalos Erik S     019         Albanese Nico     007
+           Ampier Ariel      033         Angel Andre C     021
+           Bader Clinton     049         Beugler Aaron     032
+           Boerner Theod     060         Booker Larry      011
+           Cannon Joshua     082         Carpenter Sam     034
+           Chisholm Davi     003         Chua Carlito      025
+           Clark Brodie      078         Coakley Paule     067
+           Cox Shaun Nic     044         Crichton Nath     065
+           Davis Justin      055         Dejesus Deser     079
+           Delgado Franc     006         Dickson Aric      058
+           Duffy Patrick     043         Dukes Savanna     047
+           Dukette Phili     069         Dunk Robert J     027
+           Feliciano Dom     045         Ferretti Anth     022
+           Ford Marshall     028         Fragoso Eduar     051
+           Frost James F     031         Fuentes Paris     075
+           Fuson Billy L     073         Galang Adrian     066
+           Genica Jonath     059         Gloria David      037
+           Gregg Ayanna      023         Harrison Wend     062
+           Herbert Dougl     020         Hoffman Justi     010
+           Honaker Saman     029         Hough Zachary     016
+           House Mark Eu     001         Hyppolite Ber     026
+           Jackson April     005         Jacques Kenso     041
+           Johnson Steph     068         Jones Rodney      081
+           Kemp Christop     076         Lampasona Con     064
+           Lamson John A     080         Linares Enman     008
+           Lindvold Kend     052         Little Joseph     036
+           Loftin Kyle T     012         Mccullough An     050
+           Mcpheron Neal     035         Mcvann Dane G     046
+           Mejia Maritza     024         Mingo Norman      002
+           Morales Andre     038         Morin Ramon       004
+           Munoz Javier      077         Ocampo Dander     017
+           Ogilvie Jared     014         Ortiz Angel L     030
+           Pickens Derri     061         Puello Zahul      013
+           Quenga Joshua     074         Ridlon Briana     071
+           Roberts Jesse     040         Ronquillo Ali     053
+           Sampson Chels     057         Saulnier Ilan     039
+           Shelton Darre     070         Steinbrenner      083
+           Tornay Christ     042         Villar Esmeli     056
+           Waddell Lowel     063         Walker Adam C     054
+           Walker James      009         Watson Joshua     048
+           Wells Keith T     072         Woodall Daqua     015
+
+4.  Released By Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

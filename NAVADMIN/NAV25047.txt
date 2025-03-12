@@ -1,0 +1,98 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 102001Z MAR 25 MID120001778928U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 047/25
+
+SUBJ/GUIDANCE FOR USN CIVILIAN TRAVEL AND USE OF GOVERNMENT TRAVEL CHARGE 
+CARDS//
+
+REF/A/DOC/POTUS/26FEB25//
+REF/B/DOC/OUSD AS/05MAR2025//
+REF/B/DOC/DON/07MAR2025//
+
+NARR/REF A EXECUTIVE ORDER 14222 IMPLEMENTING THE PRESIDENT'S DEPARTMENT OF 
+GOVERNMENT EFFICIENCY COST EFFICIENCY INITIATIVE.
+REF B IS OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR ACQUISITION AND 
+SUSTAINMENT MEMORANDUM TITLED GUIDANCE ON USE OF GOVERNMENT TRAVEL CHARGE 
+CARDS BY DEPARTMENT OF DEFENSE CIVILIAN EMPLOYEES.
+REF C IS THE UNDER SECRETARY OF THE NAVY MEMORANDUM TITLED GUIDANCE FOR USE 
+OF GOVERNMENT TRAVEL CHARGE CARDS BY DEPARTMENT OF NAVY CIVILIAN EMPLOYEES 
+AND EXCEPTION EVALUATION PROCESS.
+GENTEXT/REMARKS/
+
+1.  This NAVADMIN provides interim policy for U.S. Navy civilian employee 
+travel. In accordance with references (a) through (c), the use of all 
+government-issued travel charge cards by DON civilian employees is suspended 
+for all travel that is not exempted, effective immediately.
+
+2.  All requests for exempted travel must meet at least one of the exempted 
+categories below and be validated and approved by the first Vice Admiral, 
+Lieutenant General, or Tier III SES in the chain of command. This authority 
+may not be further delegated. The approving official's name, rank, and date 
+of approval must be documented in the travel orders, and all approved 
+civilian travel must be documented IAW paragraph 7.
+    a.  For Echelon II and below commands where the first VADM, LtGen, or 
+Tier III SES in the chain of command is at Echelon I, submit civilian travel 
+approval requests to the POCs lists in paragraph 8 for approval by the 
+Director, Navy Staff (DNS).
+Requests should include all data outlined in 7.a.
+
+3. Exempted travel categories include:
+    a.  Civilians traveling in direct support of military operations or a 
+permanent change of station.
+    b.  Mission critical travel including:
+        (1) Training or exercises if participation is required to meet 
+military training objectives.
+        (2) Training or education that directly supports or is a prerequisite 
+for an employee's assigned duties.
+        (3) Performance of an official duty or organizational mission 
+requirement (e.g., negotiations, inspections, audits, accessions pipeline, 
+etc.).
+
+4.  If a civilian's participation can be completed through use of Video 
+Teleconferencing (VTC) or other digital means, travel will not be executed.
+
+5. Travel that is not included in one of the exempted categories may not be 
+authorized.  Navy civilian employees must cancel all future non-exempted 
+official travel reservations, and those currently on non-exempted travel must 
+return to their respective duty stations as soon as feasible.
+
+6.  Requests to designate additional categories of travel as mission critical 
+should be routed up the chain of command to DNS for adjudication by the 
+Assistant Secretary of the Navy (Manpower and Reserve Affairs).
+
+7.  Recordkeeping. To facilitate the required monthly validation of approved 
+civilian travel by the Director, Navy Staff in accordance with reference (c), 
+all approved travel shall be uploaded to the following website:
+https://flankspeed.sharepoint-mil.us/sites/navyciviliantraveltracker
+    a.  For commands unable to access the website due to bandwidth or non-
+Flankspeed account limitations, send the following data to the email 
+addresses listed in paragraph 8.
+        (1) Event or Purpose
+        (2) Number of Civilian Travelers
+        (3) Traveler'(s) Command
+        (4) Travel Start Date
+        (5) Travel End Date
+        (6) Essential Travel Category
+        (7) Additional justification (if necessary)
+        (8) Name and Rank of Approving Official (VADM, LtGen, or Tier III SES 
+required)
+        (9) Approver's Command
+
+8.  Director, Navy Staff POCs:
+CDR Duane Motley - duane.l.motley.mil(at)us.navy.mil QMC Kierra Marks - 
+kierra.s.marks.mil(at)us.navy.mil
+
+9. Released by VADM Michael E. Boyle, Director of the Navy Staff.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
