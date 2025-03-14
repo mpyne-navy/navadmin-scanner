@@ -1,0 +1,66 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 131323Z MAR 25 MID120001788126U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 054/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/MONTGOMERY GI BILL PROGRAM UPDATE//
+
+REF/A/DOC/DOD/28DEC22//
+REF/B/DOC/CNO/21SEP23//
+
+NARR/REF A IS DEPARTMENT OF DEFENSE INSTRUCTION 1322.16, MONTGOMERY GI BILL 
+PROGRAM.   
+REF B IS CNO NAVADMIN 226/23, MONTGOMERY GI BILL PROGRAM UPDATE.
+
+RMKS/1.  This NAVADMIN implements new requirements for completing and 
+submitting the Department of Defense Basic Enrollment form (DD Form 2366, SEP 
+2022) for the Montgomery GI Bill Act of 1984 (MGIB).
+All other MGIB election requirements outlined in references (a) and
+(b) remain in effect.
+
+2.  In an effort to streamline the submission process for DD Form 2366, 
+Service Members will use the online, self-service version of this form that 
+is available in the Navy Standard Integrated Personnel System (NSIPS), 
+effective immediately.  This NAVADMIN does not apply to Sailors who have 
+already made their MGIB election.
+    a.  DD Form 2366 will be certified electronically within NSIPS by a 
+designated command certifying official.
+    b.  Commands whose Sailors are unable to complete the DD Form
+2366 via NSIPS should refer to reference (a) paragraph 7.
+    c.  DD Form 2366 will automatically transmit to the official military 
+personnel file, in line with reference (b), and to the My Navy Career Center 
+(MNCC) Human Resources Service Center (HRSC) for required MGIB disenrollment 
+transactions.
+    d.  After 270 days, the self-service option will not be available in 
+NSIPS to the member and they should contact their command pay and personnel 
+administrator or MNCC HRSC for further assistance.
+
+3.  For specific instructions on completing and submitting DD Form 2366, 
+refer to training presentation at https://www.mynavyhr.navy.mil/Career-
+Management/Education/GI-Bill/MGIB-Enrollment/ or contact MNCC HRSC at (833) 
+833-6622 or askmncc.fct@navy.mil.
+
+4.  For questions concerning MGIB policy, contact Ms. Shania Truelove at 
+shania.m.truelove.civ@us.navy.mil.
+
+5.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+6.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

@@ -1,0 +1,172 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 131314Z MAR 25 MID120001788087U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 053/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/NOTICE OF CONVENING FISCAL YEAR 2026 TEST PILOT SCHOOL SELECTION BOARD 
+#2//
+
+REF/A/DOC/BUPERS/06JAN21//
+AMPN/REF A IS BUPERSINST 1500.62E, TEST PILOT SCHOOLS//
+
+RMKS/1.  This NAVADMIN announces the convening of the Fiscal Year
+2026 (FY26) U.S. Naval Test Pilot School (USNTPS) Selection Board #2 on 19 
+June 2025.  This board will select highly-qualified Naval Aviators and Naval 
+Flight Officers (NFO) for USNTPS.  It will also select one fixed-wing pilot 
+for U.S. Air Force Test Pilot School and one rotary-wing pilot for Empire 
+Test Pilot School (ETPS).  ETPS graduates have significant and long-lasting 
+influence on platforms and systems that directly impact the future 
+warfighting capability of the Fleet.  Request command and Fleet community 
+assistance to identify candidates with strong operational performance and, 
+ideally, strong academic backgrounds in Science, Technology, Engineering, and 
+Mathematics fields of study.
+
+2.  To be eligible for board consideration, a signed and command- endorsed 
+application in line with reference (a), must be received by MyNavy Career 
+Center (MNCC) no later than 8 May 2025.  Applicants are encouraged to review 
+reference (a) in detail to ensure their package complies with application 
+guidelines.  Applicants with missing required information may be removed from 
+consideration.
+Additional documentation (including Wing/CAG endorsements, letters of 
+recommendation, Fitness Reports (FITREP), etc.) will be accepted until 5 June 
+2025, but must be submitted by the applicant as a letter to the board, in 
+line with subparagraph 4a below.  The application must include e-mail 
+address(es), phone number(s), college transcripts, Anthropometric Data 
+Measurement Record, a current Physical Readiness Test and Body Composition 
+Detail Report from Physical Readiness Information Management System, last 
+FITREP, service agreement, and post-TPS test squadron assignment preferences.  
+Current contact information (ashore/afloat email and phone) of the Commanding 
+Officer must be included to expedite notification, if selected.
+
+3.  Typical post-TPS assignments for graduates are listed below, but are 
+subject to change and vary board to board.  Post-TPS assignments are 
+typically finalized halfway through the TPS course of instruction.
+    a.  VX-20:  VP, VQ, VAW, VRC
+    b.  HX-21:  All Helo, VRM
+    c.  VX-23/VX-31:  VFA, VAQ
+    d.  VX-30:  VP, VAW, VAQ
+    e.  UX-24:  All communities
+
+4.  Command Endorsement:
+    a.  The command endorsement must explicitly state whether the applicant, 
+if selected, will be allowed and available to report for aircraft pre-arrival 
+training by the following dates:
+        (1) 1 August 2025 for fixed-wing pilots and tilt-rotor pilots
+        (2) 1 October 2025 for rotary-wing
+        (3) 1 November 2025 for NFO
+    b.  Applicants with endorsements but availability dates that fall after 
+these pre-arrival training dates may be removed from consideration and not 
+reviewed by the board.  Inability for the applicant to meet the above dates 
+may be mitigated by conducting initial training in a Temporary Additional 
+Duty (TEMADD) status at the expense of the endorsing command.  If this is 
+required, it must be explicitly stated in the command endorsement that the 
+endorsing command will provide TEMADD funds until the applicant can 
+officially detach.  If the applicant has official change of duty orders and 
+is projected to transfer prior to the board convening date of 19 June 2025, a 
+gaining command endorsement is required in addition to the endorsement from 
+the applicant's current command.
+
+5.  USNTPS has a cooperative program with Purdue University wherein Purdue 
+teaches asynchronous online pre-arrival courses that serve as a technical 
+refresher and provide four credits toward a master's degree.  Candidates 
+selected for USNTPS will receive directions within 2 weeks of selection board 
+results for their immediate enrollment in Purdue Online.  Required pre-
+arrival coursework on foundational subjects (e.g., calculus and mechanics) 
+will commence online approximately 5 months prior to USNTPS class convene 
+date and will run concurrent to the preparatory aircraft training described 
+above, dependent on the applicable timeline.  In cases where the pre-arrival 
+online courses precede aircraft training, candidates are expected to complete 
+the online courses while still attached to their current command.  If 
+operational conflicts exist that prevent online pre-arrival course 
+completion, selected candidates should contact USNTPS promptly to discuss 
+contingencies.
+
+6.  Application package submissions:
+    a.  The preferred method of application submission is electronic.  Email 
+encrypted PDF submissions to cscselboard@navy.mil and carbon copy 
+ernesto.r.villalba.mil@us.navy.mil and brandy.l.dempster-
+theisen.ctr@us.navy.mil.  If required, please visit 
+https://dod411.gds.disa.mil/ to download the required mailbox certificates to 
+encrypt the email.  If unable to send encrypted, please contact 
+ernesto.r.villalba.mil@us.navy.mil and brandy.l.dempster-
+theisen.ctr@us.navy.mil for assistance.
+    b.  If unable to send electronically, applications may be sent via U.S. 
+Postal Service to the following address: 
+
+    MyNavy Career Center
+    FY26 Test Pilot School Selection Board #2 (Board #380)
+    5720 Integrity Drive
+    Millington, TN 38055 
+
+    c.  Applications sent via FEDEX/UPS/DHL should use the following address: 
+
+    MyNavy Career Center
+    FY26 Test Pilot School Selection Board #2 (Board #380)
+    5640 Ticonderoga Loop, BLDG 768, RM E302
+    Millington, TN 38055-6300
+
+7.  Applicants should confirm receipt of their application package and all 
+correspondence by calling the MNCC at 1-833-330-MNCC or DSN 882-6622.
+
+8.  Eligibility:
+    a.  Designated naval aviators and NFOs (13X0 and 1510
+designators) through the grade of O4, who are qualified for flight duties and 
+have not been terminated from flying status, are eligible for selection.
+    b.  The preferred unrestricted line (13X0) aviators are O3 and
+O4 aviators with detailer-forecasted career timing to complete the selected 
+TPS program and a minimum 24-month follow-on test tour prior to their next 
+career milestone (e.g. department head).
+    c.  Aerospace Engineering Duty Officer (1510) aviators through the grade 
+of O4 may be selected if they are able to serve a 36-month follow-on test 
+tour and still meet career milestones.
+    d.  Applicants determined to have insufficient career timing to meet the 
+minimum test tour of 24 months may have their application removed from 
+consideration.  Applicants may address any timing considerations in their 
+personal statement.
+    e.  Applicants should ensure they have a valid government passport that 
+will not expire prior to completion of the class.
+    f.  USNTPS operates a diverse set of fixed-wing jet, prop, and rotary-
+wing aircraft.  Core aircraft include H-60, H-72, T-6, and T-38.   
+T-6 and T-38 ejection seat weight limits are 103-245 lb.  All applicants must 
+be able report to USNTPS pre-arrival training within the above weight limits.  
+Applicants that have been anthropometrically or otherwise disqualified from a 
+specific aircraft type, class, model, or series must include that information 
+as part of their application package.  Applicants who currently exceed 
+ejection seat weight limits or are disqualified from a type, class, model, or 
+series aircraft that preclude safe operation of TPS core aircraft may have 
+their application removed from consideration.
+    g. Applicants must have a current Tier 5 investigation or Tier 5 
+reinvestigation with eligibility for Top Secret/Sensitive Compartmented 
+Information (TS/SCI) before transferring to this command.  If the applicant 
+does not have the aforementioned eligibility, then the command supporting the 
+applicant will initiate a request for eligibility, requesting interim TS/SCI 
+eligibility and ensuring the eligibility request has been accepted and is 
+being processed.  Applicants unable to obtain a TS/SCI clearance may not be 
+eligible for this assignment.
+
+9.  Applicants should periodically check for updates and additional 
+information via MyNavy HR at https://www.mynavyhr.navy.mil/Career-
+Management/Boards/Administrative/Test-Pilot/.
+
+10.  The points of contact are CDR Ernesto R. Villalba, PERS-434B, via e-mail 
+at ernesto.r.villalba.mil@us.navy.mil or Ms. Brandy Theisen, PERS-434B1, via 
+e-mail at brandy.l.dempster-theisen.ctr@us.navy.mil.
+
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+

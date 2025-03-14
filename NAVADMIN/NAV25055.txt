@@ -1,0 +1,424 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 132108Z MAR 25 MID120001789513U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 055/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/INITIAL EXECUTION RELATED TO PRIORITIZING MILITARY EXCELLENCE AND 
+READINESS//
+
+REF/A/MEMO/OUSD(PR)/26FEB25//
+REF/B/MEMO/OUSD(PR)/28FEB25//
+REF/C/ALNAV/SECNAV WASHINGTON DC/131511ZMAR25
+REF/D/NAVADMIN/OPNAV/031311ZJUN21//
+REF/E/DOC/COMNAVPERSCOM/07NOV16//
+REF/F/MEMO/OSD/07FEB25//
+REF/G/DOC/SECDEF/DODI 1332.43/28NOV17//
+REF/H/DOC/SECDEF/DODI 1332.29/03MAR17//
+REF/I/DOC/SECDEF/DODI 1332.46/21DEC18//
+REF/J/DOC/BUPERS/1001.39, CHANGE 1/03MAY13//
+REF/K/DOC/COMNAVPERSCOM/11NOV21//
+REF/L/DOC/COMNAVPERSCOM/12AUG24//
+REF/M/DOC/OPNAV/1300.20A/03OCT23//
+REF/N/DOC/COMNAVPERSCOM/10MAY17//
+REF/O/DOC/COMNAVPERSCOM/01JUN16//
+
+NARR/REF A IS UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS 
+MEMORANDUM, ADDITIONAL GUIDANCE ON PRIORITIZING MILITARY EXCELLENCE AND 
+READINESS.   
+REF B IS CLARIFYING GUIDANCE ON UNDERSECRETARY OF DEFENSE FOR PERSONNEL AND 
+READINESS MEMORANDUM, ADDITIONAL GUIDANCE ON PRIORITIZING MILITARY EXCELLENCE 
+AND READINESS.   
+REF C IS ALNAV 023/25, INITIAL DIRECTION PRIORITIZING MILITARY EXCELLENCE AND 
+READINESS.   
+REF D IS NAVADMIN 112/21, INTERIM GUIDANCE FOR SERVICE OF TRANSGENDER NAVY 
+PERSONNEL.   
+REF E IS MILPERSMAN 1000-131, MEMBER GENDER MARKER CHANGE.   
+REF F IS SECRETARY OF DEFENSE MEMORANDUM FOR PRIORITIZING MILITARY EXCELLENCE 
+AND READINESS.   
+REF G IS DODI 1332.43, VOLUNTARY SEPARATION PAY (VSP) PROGRAM FOR SERVICE 
+MEMBERS.   
+REF H IS DODI 1332.29, INVOLUNTARY SEPARATION PAY (NON-DISABILITY).   
+REF I DODI 1332.46, TEMPORARY EARLY RETIREMENT AUTHORITY (TERA) FOR SERVICE 
+MEMBERS.   
+REF J IS BUPERSINST 1001.39 CHANGE 1,
+ADMINISTRATIVE PROCEDURES FOR NAVY RESERVE PERSONNEL.    
+REF K IS MILPERSMAN 1920-190, TYPES OF RESIGNATIONS BY OFFICERS.   
+REF L IS MILPERSMAN 1920-200, OFFICER RESIGNATION TYPES AND PROCEDURES.   
+REF M IS OPNAVINST 1300.20A, DEPLOYABILITY ASSESSMENT AND ASSIGNMENT PROGRAM. 
+REF N IS MILPERSMAN 1050-270, ADMINISTRATIVE ABSENCES.   
+REF O, IS MILPERSMAN 1320-314, TEMPORARY DUTY (TDY) TRAVEL ORDERS. //
+
+RMKS/1.  Pursuant to references (a) through (c), this NAVADMIN cancels 
+references (d) and (e), and establishes voluntary separation procedures for 
+Service Members who have a current diagnosis or history of, or exhibit 
+symptoms consistent with, gender dysphoria in line with references (a) 
+through (c).
+    a.  Effective immediately, all exceptions to policy allowing a member to 
+conform to standards associated with a sex different from their 
+identification in the Defense Enrollment Eligibility Reporting System (DEERS) 
+approved in accordance with reference (d) are revoked and no further 
+exceptions will be approved.  Gender marker change requests previously 
+submitted under references (d) and (e), will no longer be accepted or 
+processed by MyNavy Career Center (MNCC).
+    b.  Navy and Marine Corps personnel will take no action to identify 
+Service Members, pursuant to references (a) and (b), to include the use of 
+medical records, periodic health assessments, ad hoc physical assessments, or 
+any other diagnostic mechanism, unless otherwise directed by an appropriate 
+official in the Office of the Under Secretary of Defense for Personnel and 
+Readiness.  Nothing in this paragraph prevents commanders from taking 
+appropriate action in support of Service Members who request to voluntarily 
+separate in accordance with paragraph 3 below.
+    c.  Cross-sex hormone therapy that began prior to the issuance of 
+reference (f) will be continued for the duration of the Service Member's time 
+in service if recommended by a DoD health care provider.
+    d.  Service Members may consult with a Department of Defense health care 
+provider concerning a diagnosis of gender dysphoria and receive mental health 
+counseling for a diagnosis of gender dysphoria.
+
+2.  Voluntary Separation Request Deadline.  Active-Duty and Reserve Service 
+Members that meet the criteria outlined in reference (a) may request 
+voluntary separation or, for those eligible, retirement no later than (NLT) 
+2359Y (UTC-12:00), Friday, 28 March 2025.
+    a.  Service Members that meet the eligibility requirements for Voluntary 
+Separation Pay (VSP) in line with reference (g) may receive VSP at a rate 
+that is twice the amount of involuntary separation pay for which the Service 
+Member would have been eligible in line with reference (h).
+        (1) VSP is not payable to Service Members with less than 6 Years of 
+Service (YOS) or immediately eligible for retired pay upon separation.
+        (2) VSP is not payable to the Reserve Component.
+        (3) In line with reference (c), Service Members who receive VSP will 
+not be required to serve in the Ready Reserve.
+    b.  Service Members requesting voluntary separation in line with 
+reference (c) are not required to pay back any bonus or incentive pays 
+received where the required obligation has not been met.
+    c.  Service Members identified after 2359Y, 28 March 2025 who meet the 
+criteria outlined in section 4.4 of reference (a) and who have not submitted 
+a voluntary separation or retirement request will be subject to involuntary 
+separation and will no longer be eligible for the benefits outlined in 
+paragraphs 2.a and 2.b and may be required to pay back any bonus or incentive 
+pays received where the required obligation has not been met.  Procedures for 
+involuntary separation will be promulgated via future guidance.
+
+3.  Voluntary Separation Process.  The process for requesting voluntary 
+separation or retirement differs depending on rank, time in service, and 
+active or reserve status.  Requests for voluntary separation or retirement 
+will be submitted to the Deputy Chief of Naval Personnel (DCNP) via the 
+applicable process as outlined below.
+For all submissions via Navy Standard Integrated Personnel System (NSIPS), 
+Service Members who receive system notifications that they are ineligible for 
+the type of retirement or separation they are requesting, but are eligible in 
+line with this NAVADMIN, should disregard the notifications and request 
+waivers for all constraining conditions (e.g. Time in Grade (TIG)).
+    a.  The Service Member's Commanding Officer (CO) for Active Duty or, for 
+Selected Reservists (SELRES), the Service Member's Navy Reserve Activity 
+(NRA) CO, is required to expeditiously forward the request to DCNP with an 
+endorsement.
+    b.  All requests must include an affidavit in the form of a permanent 
+NAVPERS 1070/613 signed by the Service Member and witnessed by a command 
+representative with the statement:  "In line with OSD memos "Additional 
+Guidance on Prioritizing Military Excellence and Readiness" of 26 February 
+2025, and "Clarifying Guidance on Military Excellence and Readiness" of 28 
+February 2025, and ALNAV 023/25, I seek to voluntarily separate [or retire, 
+as appropriate] from Naval Service.  I certify that I meet the criteria for 
+this program as described in ALNAV 023/25 and understand this is an official 
+statement under the meaning of Article 107 of the Uniform Code of Military 
+Justice.  I understand that my eligibility for this program may be verified 
+via medical records, service records, and/or diagnosis by a medical provider, 
+as determined by future guidance."  The signed NAVPERS 1070/613 shall be 
+uploaded in each of the requisite systems outlined below for each separation 
+or retirement request.
+    c.  Service Members that have issues accessing or submitting their 
+separation or retirement request via NSIPS may contact the NSIPS helpdesk 
+using the contact information in section 9.b of this NAVADMIN.
+    d.  After submitting the separation or retirement request, Service 
+Members will email the NPC Point of Contact (POC) at molly.bergeron-
+conway7.mil@us.navy.mil and the Service Central Coordination Cell (SCCC) at 
+usn_navy_sccc@navy.mil NLT 2359Y, 28 March 2025 with their name and 
+notification that the request for voluntary separation or retirement was 
+submitted in line with ALNAV 023/25.
+
+4.  Active-Duty Voluntary Separation Process.
+    a.  Officer and enlisted Service Members with 20 years or more of total 
+Active-Duty service who are regular retirement eligible:
+        (1) Service Members with 20 years or more of total Active- Duty 
+service who wish to voluntarily retire under this policy must submit their 
+request for transfer to the Fleet Reserve/Retired List via NSIPS.
+        (2) Service Members will complete the following steps:
+            (a) Log into NSIPS (https://www.nsips.cloud.navy.mil/).
+            (b) Navigate to the "Employee Self-Service" tab.
+            (c) From the drop-down menu, select "Request 
+Retirement/Separation".
+            (d) Select "Regular Retirement" or "Fleet Reserve" as the request 
+type as applicable.
+            (e) Choose a requested date NLT 1 June 2025.
+            (f) Request waivers for all constraining conditions as 
+applicable.  In the waiver tab of the request, add the following comment as 
+applicable: "Waiver request submitted in line with ALNAV 023/25."
+            (g) Add the following comment to the Attach/Comment/Recommend 
+tab:  "Request submitted in line with ALNAV 023/25."
+            (h) Upload the signed affidavit under the 
+Attach/Comment/Recommendation tab.
+            (i) Fill out and edit all remaining sections of the request tab, 
+the Attach/Comment/Recommendation tab, and the contact information tab as 
+applicable.
+             (j) Route the request for approval using the button at the 
+bottom of the page.  Route to either the command separation specialist or 
+command reviewer, as appropriate.
+             (k) Notify the NPC POC and the SCCC of the retirement request 
+submitted in line with ALNAV 023/25.
+        (3) Once in receipt, the command reporting senior will expeditiously 
+review the request and provide comments and recommendations.  The comments 
+will include the following:  "Request submitted in line with ALNAV 023/25".  
+COs must also state in their comments or endorsement whether the Service 
+Member has any pending misconduct, including but not limited to:  
+undergoing/pending investigation, Non-Judicial Punishment (NJP), 
+Administrative Separation (ADSEP), possible court-martial, or civilian trial.
+        (4) Submit the request electronically to NPC.
+        (5) COs will verify that the Service Member has emailed the NPC POC 
+and the SCCC as outlined in paragraph 3. of this NAVADMIN.
+    b.  Officer and enlisted Service Members eligible for early retirement:
+        (1) Service Members with over 18 years, but less than 20 years of 
+total Active-Duty service by 28 March 2025 are eligible for early retirement 
+under Temporary Early Retirement Authority (TERA), in line with references 
+(i) and (c).  Service Members must submit their early retirement request via 
+NSIPS Retirement and Separations (RnS).
+        (2) Service Members will complete the following steps:
+            (a) Log into NSIPS (https://www.nsips.cloud.navy.mil/).
+            (b) Navigate to the "Employee Self-Service" tab.
+            (c) From the drop-down menu, select "Request 
+Retirement/Separation".
+            (d) Under the request "Request details" section, select "Regular 
+TERA (Early Retirement)".
+            (e) Choose a requested date NLT 1 June 2025.
+            (f) Request waivers for all constraining conditions as 
+applicable.  In the waiver tab of the request add the following comment as 
+applicable:  "Request submitted in line with ALNAV 023/25".
+            (g) Upload the signed affidavit under the 
+Attach/Comment/Recommendation tab.
+            (h) Fill out and edit all remaining sections of the request tab, 
+the Attach/Comment/Recommendation tab, and the contact information tab as 
+applicable.
+            (i) Route the request for approval using the button at the bottom 
+of the page.  Route to either the command separation specialist or command 
+reviewer as appropriate.
+            (j) Notify the NPC POC and the SCCC of the retirement request 
+submitted in line with ALNAV 023/25.
+        (3) Once in receipt, the command reporting senior will expeditiously 
+review the request and provide comments and recommendations.  The comments 
+will include the following:  "Request submitted in line with ALNAV 023/25".  
+COs must also state in their comments or endorsement whether the Service 
+Member has any pending misconduct, including but not limited to:  
+undergoing/pending investigation, NJP, ADSEP processing, possible court-
+martial, or civilian trial.
+        (4) Submit the request electronically to NPC.
+        (5) COs will verify that the Service Member has emailed the NPC POC 
+and the SCCC as outlined in paragraph 3.d of this NAVADMIN.
+    c.  Enlisted Service Members not eligible for retirement:
+        (1) Requests for voluntary separation from enlisted Service Members 
+with less than 18 YOS on 28 March 2025 will be submitted to NPC Career 
+Progression Division (PERS-8) for Active Duty Service Members via their CO.
+        (2) Service Members may initiate this process by filling out and 
+submitting NAVPERS 1306/7, electronic Personnel Action Request (ePAR).  To 
+initiate this request, log into MyNavy Portal (MNP) at 
+https://www.my.navy.mil/ and complete the following steps:
+            (a) Select "Career and Life Events" at the top right of the 
+webpage.
+            (b) Select "Career Planning".
+            (c) Select "Submit/Manage an ePAR".
+            (d) Select "Sailor Submit".
+            (e) Under the section labeled "electronic Personnel Action 
+Request", select "CONTINUE".
+            (f) Fill in the required information on the electronic form.
+            (g) Under the "Requested Action, Reason for Submission" section, 
+write the following:  "Request submitted in line with ALNAV 023/25".  Add any 
+additional information in this section as applicable.
+            (h) Under the "Requested Action, Date Available" section, the 
+latest date available will be NLT 1 June 2025.
+            (i) When ready to submit to the Command Career Counselor (CCC), 
+click "Send" at the bottom right of the page.
+            (j) After clicking "Send", a pop-up window will appear.
+Attach the signed affidavit and any other supporting documents to the ePAR by 
+clicking "choose file" and following the prompt to attach a file.
+            (k) Click "Continue" to submit.
+            (l) Notify the NPC POC and the SCCC of the voluntary separation 
+request submitted in line with ALNAV 023/25.
+        (3) CCCs will expeditiously route the NAVPERS 1306/7 (ePAR) through 
+the Chain of Command to obtain command endorsement.
+        (4) COs should endorse the Service Member's request and must add the 
+following statement to their endorsement:  "Request submitted in line with 
+ALNAV 023/25".  COs must also state in their comments or endorsement whether 
+the Service Member has any pending misconduct, including but not limited to:  
+undergoing/pending investigation, NJP, ADSEP processing, possible court-
+martial, or civilian trial.
+        (5) Commands will submit requests via MNP or via email to MNCC at 
+askmncc@navy.mil.
+        (6) COs will verify that the Service Member has emailed the NPC POC 
+and the SCCC as outlined in paragraph 3.d of this NAVADMIN.
+    d.  Officers not eligible for retirement:
+        (1) Officers with less than 18 years of total Active-Duty service on 
+28 March 2025 who wish to voluntarily separate under this policy will submit 
+their resignation request via NSIPS RnS.
+        (2) To initiate the resignation request, complete the following 
+steps:
+            (a) Log into NSIPS (https://www.nsips.cloud.navy.mil/).
+            (b) Navigate to the "Employee Self-Service" tab.
+            (c) From the drop-down menu, select "Request 
+Retirement/Separation".
+            (d) Select "Regular Officer Resignation" as the request type.
+            (e) Choose a requested date NLT 1 June 2025.
+            (f) Reason for Separation will be "Other".
+            (g) Add the following comment to the Attach/Comment/Recommend 
+tab:  "Request submitted in line with ALNAV 023/25."
+            (h) Request waivers for all constraining conditions as 
+applicable.  In the waiver tab of the request add the following
+comment:  "Request submitted in line with ALNAV 023/25."
+            (i) Upload the signed affidavit under the 
+Attach/Comment/Recommendation tab.
+            (j) Fill out and edit all remaining sections of the request tab, 
+Attach/Comment/Recommendation, and the contact information tab as applicable.
+            (k) Route the request for approval using the button at the bottom 
+of the page.  Route to either the command separation specialist or command 
+reviewer as appropriate.
+            (l) Notify the NPC POC and the SCCC of the resignation request 
+submitted in line with ALNAV 023/25.
+        (3) The command reporting senior will expeditiously review the 
+request and provide comments and recommendations.  The comments will include 
+the following:  "Request submitted in line with ALNAV 023/25".
+        (4) COs will verify that the Service Member has emailed the NPC POC 
+and the SCCC as outlined in paragraph 3.d of this NAVADMIN.
+
+5.  Reserve Voluntary Separation Process.
+    a.  Reservists with 20 or more years of qualifying service (YQS) who wish 
+to request non-regular retirement in line with reference
+(j) will use the process outlined in section 4.a.(2)-(5) of this NAVADMIN.  
+NRA COs will provide the endorsement.
+    b.  Reserve Service Members who request voluntary separation are not 
+eligible for TERA.
+    c.  Reserve Service Members with fewer than 20 YQS who request separation 
+from the service will use the following process:
+        (1) Enlisted SELRES will submit a NAVPERS 1306/7 (ePAR) to Reserve 
+Personnel Management Department (PERS-9) via their NRA CO using the process 
+outlined in section 4.c. (2)-(6) of this NAVADMIN.
+        (2) Officer SELRES will submit a resignation request via NSIPS using 
+the procedure outlined in section 4.d. (2)-(4) of this NAVADMIN.
+    d.  For Reservists in the Individual Ready Reserve (IRR), S1 or S2, all 
+requests for retirement or separation should be submitted using the process 
+outlined in section 5.a or 5.c of this NAVADMIN as applicable and if able.  
+No command endorsement is required as these Service Members are directly 
+assigned to IRR Administration (PERS- 93).
+    e.  In alignment with the guidance provided in section 8 of this 
+NAVADMIN, NRAs may submit authorized absences for Service Members being 
+processed for resignation or retirement.
+    f.  Further guidance for the Reserve Component will be forthcoming in 
+ALNAVRESFORs.
+
+6.  Service Members, Active Duty and Reserve, unable to submit a voluntary 
+separation or retirement request electronically.
+    a.  If unable to complete a voluntary separation or retirement request 
+electronically as outlined in sections 4 and 5 of this NAVADMIN, Service 
+Members may submit a paper request to their CO or NRA CO NLT 28 March 2025 
+indicating their desire and intention to voluntarily separate or retire from 
+the Service.
+    b.  The process and required paperwork will mirror the processes outlined 
+in section 4 and 5 of this NAVADMIN.
+        (1) Officer and enlisted Service Members eligible for retirement:
+            (a) Service Members will submit requests via the Officer 
+Personnel Information System (OPINS) or the NSIPS Career Information 
+Management System (CIMS) as applicable and if able.
+            (b) Reservists submitting applications for voluntary retirement 
+or transfer to Retired Reserve status will submit their request in the format 
+shown in figure 20-4 of reference (j).
+Applications may be faxed to the Reserve Retirement Branch (PERS-912) at 
+(901) 874-7044 or mailed to:
+                Commander Navy Personnel Command (PERS-912)
+                5720 Integrity Drive
+                Millington, TN 38055
+Upon submission of the request, Service Members will email the NPC POC and 
+the SCCC of their retirement request submitted in line with ALNAV 023/25.
+            (c) Enlisted Service Members may submit a TIG waiver request to 
+their Enlisted Community Manager via a NAVPERS 1306/7 (ePAR) form.
+        (2) Enlisted Service Members not eligible for retirement:
+            (a) Service Members will print out NAVPERS Form 1306/7 (ePAR) and 
+fill out the form as directed in steps 6 through 9 of section 4.c. (2) of 
+this NAVADMIN.  Route the request, with the signed affidavit as an enclosure 
+to the CCC for processing.  The CCC will expeditiously review and route to 
+the CO for endorsement.
+Commanders must endorse the Service Member's request and must add the 
+following statement:  "Request submitted in line with ALNAV 023/25".
+            (b) Upon submission of the request, Service Members will email 
+the NPC POC and the SCCC of their voluntary separation request submitted in 
+line with ALNAV 023/25.
+        (3) Officers not eligible for retirement:
+            (a) Active Duty and Reserve officers will submit an Unqualified 
+Resignation request using the appropriate format provided in reference (k) to 
+PERS-8 for Active Duty or PERS-9 for reservists, via their CO or NRA CO and 
+as directed by reference (l).
+            (b) Upon submission of the request, Service Members will email 
+the NPC POC and the SCCC of their voluntary resignation request submitted in 
+line with ALNAV 023/25, NLT 2359Y, 28 March 2025.
+
+7. Command Actions on Voluntary Separation Request.
+    a.  In addition to forwarding the separation or retirement request to 
+DCNP via NPC, commands will verify that notification of the Service Member's 
+voluntary separation, retirement, and/or placement on administrative absence 
+or temporary duty is sent to the NPC POC at molly.bergeron-
+conway7.mil@us.navy.mil and the SCCC at usn_navy_sccc@navy.mil.
+    b.  Service Members who request separation will be placed in an 
+administrative non-deployable status.  They will be assigned a "Category 3" 
+Deployability Category code, identifying them as temporarily non-deployable, 
+as described in reference (m).
+
+8.  Administrative Absences.  In line with reference (a) and in line with 
+reference (c), administrative absence is authorized for Active Duty and 
+Reserve Service Members who elect voluntary separation when in the best 
+interest of the unit and well-being of the Service Member.  Additionally, 
+where rescission of an exception to policy will impact good order and 
+discipline, the CO may consider placing the Service Member on administrative 
+absence.  Administrative absence or temporary duty is not required but should 
+be considered based on the criteria below.  In either case, commands will 
+follow the procedures outlined in reference (n) or (o) as applicable.
+    a.  Pursuant to reference (c), all Service Members with an approved 
+exception to policy that is revoked pursuant to paragraph 1a above will be 
+offered administrative absence status pending action on the member's 
+separation request.
+    b.  COs should consider the impact to good order and discipline within 
+their unit, the well-being of the Service Member, and their ability to 
+maintain effective oversight and support for the Service Member during the 
+process.
+    c.  COs will proactively communicate with the impacted Service Member, 
+ensure they have accurate and up to date contact information, monitor their 
+well-being, and keep the Service Member apprised of their status.
+    d.  Service Members will receive full pay and benefits until their 
+separation is complete.
+
+9.  Points of Contact:
+    a.  Command triads may contact the SCCC at (703) 604-5084/DSN
+664 or via e-mail at usn_navy_sccc@navy.mil, the NPC POC at molly.bergeron-
+conway7.mil@us.navy.mil, or MNCC at (833) 330-6622 or via e-mail at 
+askmncc@navy.mil with questions, concerns, notification of a member's 
+voluntary separation or retirement, or notification of a member's placement 
+on administrative absence or temporary duty.
+    b.  Service Members that face issues using NSIPS may contact the NSIPS 
+helpdesk at nesd@nesd-mail.onbmc.mil or 1-833-637-3669 (1-833- NESDNOW).
+
+10.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+11.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
