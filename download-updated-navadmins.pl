@@ -122,14 +122,13 @@ sub download_with_curl ($url, $ua, $opts={})
         $res->code(200);
         $res->body($output);
 
-        $res->save_to("/tmp/navadmin.html");
-
-        open(my $tmp, '>', '/tmp/navadmin.raw');
-        say $tmp $output;
-        close $tmp;
+        if (length ($output) == 0 && exists $opts->{'If-Modified-Since'}) {
+            # If we asked for If-Modified-Since and got back an empty result
+            # that was successful, assume the result was a 304 and not a 200
+            $res->code(304);
+        }
 
         $tx->res($res);
-
         return $tx;
     })->catch(sub ($err) {
         # Convert error into a failed tx
@@ -174,9 +173,7 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
     my %get_opts;
     if (-e $name) {
         my $ctime = (stat(_))[10];
-# Disabled with Curl-based downloader since the only info we currently get
-# is whether the download failed or not, can't tell 304 vs 200
-#       $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
+        $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
     }
 
     my $req = download_with_curl($url, $ua, \%get_opts)
