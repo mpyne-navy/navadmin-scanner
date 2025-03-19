@@ -1,0 +1,59 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 181313Z MAR 25 MID120001800127U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 059/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/IMPLEMENTATION OF NAVY ENLISTED CLASSIFICATION CODE N34Z IDENTIFYING 
+SUBMARINE LEADING ENGINEERING LABORATORY TECHNICIAN QUALIFICATION//
+
+REF/A/DOC/OPNAV/15NOV16//
+
+AMPN/REF A IS OPNAVINST 1220.1F, CHANGING OR REMOVING NAVY ENLISTED 
+CLASSIFICATION CODES FOR NUCLEAR PROPULSION PLANT PERSONNEL.
+
+RMKS/1.  This NAVADMIN announces the removal of the Leading Engineering 
+Laboratory Technician (LELT) qualification as a prerequisite for the Navy 
+Enlisted Classification (NEC) code N16S and the implementation of the N34Z 
+NEC code to document qualification as a submarine LELT.
+
+2.  N34Z is a secondary NEC that is awarded after a submarine Sailor 
+qualifies for LELT and will be used in conjunction with the Sailor's primary 
+NEC.
+
+3.  No action is required for Sailors who already have the N16S NEC as of 3 
+March 2025.  Nuclear Enlisted Programs (OPNAV N133D) will automatically 
+assign the N34Z NEC to these Sailors.
+
+4.  For Sailors who qualify LELT after 3 March 2025, a NEC Change Request 
+(NAVPERS 1221/6) must be submitted to OPNAV N133D requesting assignment of 
+the N34Z NEC.  Commanding Officers must verify the effective date is the 
+qualification date and annotate the effective date in block 12 of the NAVPERS 
+1221/6.
+
+5.  Submit all N34Z NEC requests to OPNAV N133D via e-mail to 
+bullnuke@navy.mil.
+
+6.  Points of contact:  For all questions and concerns, commands and Sailors 
+should contact OPNAV N133D at (703)604-5491/DSN 664, (703)604-5492/DSN 664, 
+or via e-mail at bullnuke@navy.mil.
+
+7.  This NAVADMIN will remain in effect until reference (a) is revised.
+
+8.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
