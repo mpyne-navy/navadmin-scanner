@@ -7,9 +7,12 @@ use Mojo::DOM;
 use Mojo::Collection;
 use Mojo::JSON qw(decode_json);
 use Mojo::File;
+use Mojo::IOLoop;
+use Mojo::Message::Response;
 use Mojo::UserAgent;
 use Mojo::URL;
 
+use IPC::Cmd qw(run);
 use Term::ANSIColor qw(:constants);
 use Time::HiRes qw(usleep);
 
@@ -71,6 +74,76 @@ sub resolve_after_delay ($val, $delay)
     });
 }
 
+# Downloads the given URL based on Mojo::UserAgent $ua, but using curl (on
+# command line) instead of $ua so that HTTP/2 is used. $opts is a hashref of
+# HTTP headers to set
+#
+# Returns a Mojo::Transaction::HTTP ($tx)
+sub download_with_curl ($url, $ua, $opts={})
+{
+    # We still build a Mojo::Transaction but we won't actually put it into the
+    # IOLoop. Instead we will call curl to do that and then parse in the result
+    # manually
+    my $tx = $ua->build_tx(GET => $url, $opts);
+
+    return Mojo::IOLoop->subprocess->run_p(sub {
+        my %o = (%$opts,
+            'User-Agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0',
+        );
+
+        # --compressed is required by the firewall, as is the default
+        # User-Agent above
+        my $args = [qw(curl --compressed --fail --fail-early -m 30 --silent)];
+
+        while (my ($header, $val) = each %o) {
+            push @$args, "-H", "$header: $val";
+        }
+        push @$args, $url;
+
+        my $output = '';
+        my ($success, $msg) = run(
+            command => $args,
+            verbose => 0,
+            buffer  => \$output);
+
+        if (!$success) {
+            die "curl failed: $msg";
+        }
+
+        return $output;
+    })->then(sub ($output) {
+        # Convert curl output into the appropriate $tx object
+        my $res = Mojo::Message::Response->new;
+
+        # Mojo::Message::Response will stop at the content-length when this is
+        # in use so we cannot use the response's own ->parse($output) command
+        # along with Curl showing header output, so configure Curl to show only
+        # the body content and regenerate a fake header.
+        $res->code(200);
+        $res->body($output);
+
+        $res->save_to("/tmp/navadmin.html");
+
+        open(my $tmp, '>', '/tmp/navadmin.raw');
+        say $tmp $output;
+        close $tmp;
+
+        $tx->res($res);
+
+        return $tx;
+    })->catch(sub ($err) {
+        # Convert error into a failed tx
+        my $res = Mojo::Message::Response->new;
+        $res->code(500);
+        $res->headers->content_type('text/plain');
+        $res->body("$err");
+
+        say "$url: CURL ERROR: $err";
+        $tx->res($res);
+        return $tx;
+    });
+}
+
 # Returns a promise that, once resolved, will ensures the NAVADMIN pointed to
 # by $url is saved to disk.
 sub download_navadmin ($url, $ua, $metadata, $errors)
@@ -101,23 +174,12 @@ sub download_navadmin ($url, $ua, $metadata, $errors)
     my %get_opts;
     if (-e $name) {
         my $ctime = (stat(_))[10];
-        $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
-        $get_opts{'User-Agent'} = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36";
+# Disabled with Curl-based downloader since the only info we currently get
+# is whether the download failed or not, can't tell 304 vs 200
+#       $get_opts{'If-Modified-Since'} = Mojo::Date->new($ctime)->to_string;
     }
 
-    my $req = $ua->get_p($no_ver_url, \%get_opts)
-        ->then(sub ($tx) {
-            my $res = $tx->result;
-
-            # Download w/out ?ver= didn't work, assume that is reason and try again
-            if ($res->is_error) {
-                say "$shortname: Download failed, retrying $dl_path";
-                return $ua->get_p($url, \%get_opts);
-            }
-
-            # Proceed with existing $tx
-            return $tx;
-            })
+    my $req = download_with_curl($url, $ua, \%get_opts)
         ->then(sub ($tx) {
             my $res = $tx->result;
             my $url = $tx->req->url->to_string;
@@ -159,7 +221,8 @@ my $dl_promise = pull_navadmin_year_links($ua)->then(sub (@urls) {
     # This downloads each provided URL of the by-year page and extracts
     # individual NAVADMIN URLs.
     my $year_url_groups = Mojo::Promise->map({ concurrency => 1 }, sub {
-        my $p = $ua->get_p($_)->then(sub ($tx) {
+
+        my $p = download_with_curl($_, $ua)->then(sub ($tx) {
             # $tx represents result of downloading by-year page
             my $req_url = $tx->req->url->to_abs;
 
