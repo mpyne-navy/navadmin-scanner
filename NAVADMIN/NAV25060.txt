@@ -1,0 +1,76 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 201620Z MAR 25 MID120001805649U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+INFO CNO WASHINGTON DC
+BT
+UNCLAS
+ 
+NAVADMIN 060/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINGTON DC//N1//
+INFO CNO WASHINGTON DC//N1//
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/MAR//
+
+SUBJ/FISCAL YEAR 2026 PERMANENT MILITARY PROFESSOR SELECTION BOARD//
+
+REF/A/DOC/OPNAV/01OCT21//
+
+AMPN/REF A IS OPNAVINST 1520.40C, PERMANENT MILITARY PROFESSOR AND PERMANENT 
+MILITARY INSTRUCTOR PROGRAMS.//
+
+RMKS/1.  This NAVADMIN announces the Fiscal Year (FY) 2026 Permanent Military 
+Professor (PMP) selection board for officers reporting to graduate school in 
+August 2026.  The FY26 PMP selection board may select up to 12 PMPs from a 
+pool of eligible Active Duty and Training and Administration of the Reserves 
+officer applicants for assignment to the United States Naval Academy (USNA), 
+Naval War College (NAVWARCOL), or Naval Postgraduate School (NPS).  Selected 
+applicants must be released by their current community and must be eligible 
+to fill a billet in the rank of Commander (CDR) or be a Lieutenant Commander 
+selected for promotion to CDR.
+
+2.  Reference (a) provides specific application and eligibility guidance.  
+Applications are due to the Out-Service Education Placement and Special 
+Fellowships Division (PERS-443), no later than
+30 May 2025.  Submit via encrypted transmission on the DoD SAFE website at:  
+https://safe.apps.mil/ to PERS-440 using the e-mail at PERS-
+440_submit.fct@navy.mil, CDR Lewis Anderson via e-mail at 
+lewis.a.anderson2.mil@us.navy.mil and to LT Jason Howe via e-mail at 
+jason.j.howe.mil@us.navy.mil; or mail to: 
+
+Navy Personnel Command (PERS-443)
+5720 Integrity Drive
+Millington, TN 3855-4400
+
+3.  For requirements and a list of available academic disciplines, refer to 
+the MyNavy Education advertisement on the MyNavyHR website
+at:  https://www.mynavyhr.navy.mil/Career-Management/Community-
+Management/Officer/Active-OCM/Restricted-Line/Permanent-Military-Professor/.
+
+4.  Officer Community Managers will review applicants for release based on 
+their community health and needs.  PERS-443 will review all PMP applicants to 
+ensure eligibility guidelines have been met prior to releasing the applicant 
+to the board.
+
+5.  Points of contact:
+    a.  PMP Community Manager is CDR Erik Moss, (901) 874-4511 or by email at 
+erik.e.moss.mil@us.navy.mil.
+    b.  USNA PMP Lead is CAPT Shawn Gallaher, (410) 293-6564 or by email at 
+gallaher@usna.edu.
+    c.  NPS PMP Lead is CAPT Warren Tomlinson, (831) 656-2877 or by email at 
+wwtomlin@nps.edu.
+    d.  NAVWARCOL PMP Lead is CAPT Andrea Cameron, (401) 856-5320 or by e-
+mail at andrea.cameron@usnwc.edu.
+
+6.  This NAVADMIN will remain in effect until superseded or canceled, 
+whichever occurs first.
+
+7.  Released by Vice Admiral Richard J. Cheeseman, Jr., N1.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
