@@ -1,0 +1,95 @@
+CLASSIFICATION: UNCLASSIFIED//
+ROUTINE
+R 251931Z MAR 25 MID120001818030U
+FM CNO WASHINGTON DC
+TO NAVADMIN
+BT
+UNCLAS
+ 
+NAVADMIN 062/25
+ 
+PASS TO OFFICE CODES:
+FM CNO WASHINTON DC//N093//
+INFO CNO WASHINTON DC//N093//
+MSGID/NAVADMIN/CNO WASHINGTON DC/N093/MAR//
+
+SUBJ/CHANGES TO AVIATION SPECIAL DUTY WAIVER PROCESSING//
+
+REF/A/NAVADMIN 013/25 CORRECTED COPY CHANGES TO SPECIAL DUTY WAIVER//
+
+RMKS/1.  The Chief of Bureau of Medicine and Surgery (BUMED) has directed 
+both immediate and long-term improvements to Special Duty Waiver (SDW) 
+processes to eliminate the backlog of medical holds at Recruit Training 
+Command and all other accession points.  Guidance for SDW processes for 
+undersea medicine was previously released in ref (A).  This memo addresses 
+SDW processes for the aviation community.
+
+2. This guidance implements a process change to improve timeliness and 
+maximize resources in support of the aviation SDW process.  It applies to the 
+performance of all initial flight physicals and directs the Naval Aerospace 
+Medical Institute (NAMI) to maintain a list in the Aeromedical Reference and 
+Waiver Guide (ARWG) of disqualifying conditions for which no waiver will be 
+recommended (WNR).
+
+3. For the rapid disposition of initial flight physicals when a WNR condition 
+is found:
+a.  An appropriately credentialed and privileged clinician (Aerospace 
+Medicine physician, Flight Surgeon, Aerospace Medicine Physician Assistant, 
+or Aviation Medicine Examiner) will perform all aeromedical examinations.  
+These clinicians are collectively referred to as Aerospace Medical Clinicians 
+(AMCs).
+b.  Individuals who receive a general duty waiver also require a waiver for 
+aviation special duty.  The WNR pre-existing conditions listed in the ARWG 
+will not be considered for an aeromedical waiver, with the rare exception of 
+some Class V flight physicals for which a waiver request may be submitted on 
+a case -by-case basis at the discretion of the AMC.  If submitted, 
+consideration will be based on assigned platform, flight environment, 
+occupational duties, physical requirements, and mental and physical 
+stressors.  Class I or Class II aeromedical clearances have additional 
+disqualifying conditions in addition to those listed for all classes.
+c.  Individuals found to have a WNR preexisting condition do not require any 
+further evaluation for aviation special duty assignment, including lab 
+testing, imaging, or specialist consultation.  An individual with a 
+disqualifying condition for a more restrictive class may still be submitted 
+for a less restrictive class (e.g., Class II instead of Class I).  AMCs 
+should complete an abbreviated disqualification package with a brief 
+aeromedical summary which references this message and submit via AERO as 
+Disqualified, Waiver Not Recommended.  NAMI shall forward this to the 
+appropriate Bureau of Naval Personnel (BUPERS) code for final determination 
+without any further adjudication required, unless NAMI or BUPERS determines a 
+formal NAMI review is indicated.
+
+4.  NAMI shall maintain a current list of WNR conditions in the ARWG, 
+reviewed and updated as needed based on medical evidence, aeromedical best-
+practices, and any superseding medical guidance. Updates to this list, in 
+addition to any other ARWG updates, shall be reviewed and approved quarterly 
+by the Aerospace Medicine Corporate Board and subsequently reported to Chief, 
+BUMED via the BUMED Branch Head, Aerospace Medicine.
+
+5.  The ARWG is accessible at: https://www.med.navy.mil/Navy-Medicine-
+Operational-Training-Command/Naval-Aerospace-Medical-Institute/Aeromedical-
+Reference-and-Waiver-Guide/
+
+6.  Tracking.  The current SDW backlog must be tracked to understand the 
+effectiveness of the mitigation strategy being implemented.
+a.  All accession points with enlisted personnel or officer candidates who 
+have graduated but remain in a medical hold status while awaiting their 
+aviation medical waiver shall report monthly to BUMED Assessments and 
+Analytics (N58) the total number of personnel in that status and the total 
+number of flight physicals performed that month.  Numbers for each category 
+(e.g.: mental health, cardiology, etc.) should be included if possible.
+b.  This report should be provided to BUMED N58 upon receipt of this 
+guidance, and monthly thereafter via email at 
+usn.ncr.bumedfchva.mbx.n58@health.mil.
+
+7.  BUMED primary point of contact is Branch Head, Aerospace Medicine (N10F1) 
+via email at AVMED@health.mil or phone at (703) 681-9323.
+
+8.  Released by Rear Admiral Darin K. Via, N093, Surgeon General of the 
+Navy.//
+
+BT
+#0001
+NNNN
+CLASSIFICATION: UNCLASSIFIED//
+
