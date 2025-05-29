@@ -9,6 +9,17 @@ one day mirroring them with better search, maybe better formatting, *maybe*
 even auto-addition of appropriate hyperlinks. But for now only downloading
 and re-displaying the NAVADMINs works.
 
+## New NAVADMIN Format
+
+Note that as of about March 2025, the NAVADMIN uploads from Navy shifted from
+.txt files to .pdf files.  This doesn't have to be fatal but it's significantly
+more of an issue to parse these and I haven't had the time to go and fix it
+yet.
+
+I may convert the script to at least still pull down the PDF files for
+posterity pending a later update to scrape the PDF text but for now there's
+been no changes since March in this repo.
+
 # Setup
 
 You need Perl 5 and the [Mojolicious](https://mojolicious.org/) web framework
