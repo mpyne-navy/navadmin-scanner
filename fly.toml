@@ -4,6 +4,7 @@
 app = "navadmin-viewer"
 
 kill_signal = "SIGQUIT"
+
 kill_timeout = 15
 
 [[services]]
