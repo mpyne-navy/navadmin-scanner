@@ -31,5 +31,6 @@ RUN ./gen-miscoded-files-list | ./fix-miscoded-files && rm *miscoded* && ./clean
 RUN ./build-reference-list.pl >cross-refs.json
 
 EXPOSE 3000
+USER 1000
 
 CMD ./navadmin-viewer.pl prefork -m production
