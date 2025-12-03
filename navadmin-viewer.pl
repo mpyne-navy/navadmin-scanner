@@ -325,6 +325,22 @@ __DATA__
 
 <div class="content">
 
+<article class="message is-warning">
+<div class="message-header">
+<p>Obsolescence warning</p>
+</div>
+<div class="message-body">
+<p>
+This site stopped being routinely updated in mid-2025 since the upstream Navy NAVADMIN server has
+shifted to hosting NAVADMINs in PDF format instead of text.
+</p>
+
+<p>If at some point I decide to go and scrape the PDFs too then this will resume tracking
+upstream NAVADMINs. But for now you should visit the Navy website to know for sure what's going
+on, these NAVADMINs are just archived for posterity.</p>
+</div>
+</article>
+
 <h1 class="title">NAVADMIN Viewer</h1>
 
 <h2>Most Recent Eight</h2>
